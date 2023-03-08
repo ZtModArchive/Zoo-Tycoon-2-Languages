@@ -1,0 +1,37 @@
+﻿<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_burrow_boreal:entry">Madriguera, boreal</LOC_STRING> <LOC_STRING _locID="zoopedia_burrow_boreal:text">
+			<cell pady="0" width="1000"/>
+			<p/>
+			<cell width="260"/>
+			<cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+				<cell width="600" padx="20" pady="20">
+					<color r="255" g="255" b="255"><img src="entities/objects/shelters/AnimalBurrows_Shelter/AnimalBurrows_Boreal_Small_icon.dds" sx="0" sy="0" sw="64" sh="64"/> <img src="entities/objects/shelters/AnimalBurrows_Shelter/AnimalBurrows_Boreal_Large_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+						<p/>
+Esta madriguera resulta idónea para pequeños animales boreales que se encuentran cómodos en espacios subterráneos oscuros, como por ejemplo el glotón. La madriguera pequeña da cabida a un animal, mientras que la más grande puede albergar dos.</color>
+				</cell>
+			</cell>
+		</LOC_STRING> <LOC_STRING _locID="zoopedia_burrow_desert:entry">Madriguera, desierto</LOC_STRING> <LOC_STRING _locID="zoopedia_burrow_desert:text">
+			<cell pady="0" width="1000"/>
+			<p/>
+			<cell width="260"/>
+			<cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+				<cell width="600" padx="20" pady="20">
+					<color r="255" g="255" b="255"><img src="entities/objects/shelters/AnimalBurrows_Shelter/AnimalBurrows_Desert_Small_icon.dds" sx="0" sy="0" sw="64" sh="64"/> <img src="entities/objects/shelters/AnimalBurrows_Shelter/AnimalBurrows_Desert_Large_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+						<p/>
+La madriguera del desierto es ideal para animales como el fenec, pequeño animal del desierto que se encuentra cómodo en espacios subterráneos oscuros.  La madriguera pequeña da cabida a un animal, mientras que la más grande puede albergar dos.</color>
+				</cell>
+			</cell>
+		</LOC_STRING> <LOC_STRING _locID="zoopedia_burrow_scrub:entry">Madriguera, monte bajo</LOC_STRING> <LOC_STRING _locID="zoopedia_burrow_scrub:text">
+			<cell pady="0" width="1000"/>
+			<p/>
+			<cell width="260"/>
+			<cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+				<cell width="600" padx="20" pady="20">
+					<color r="255" g="255" b="255"><img src="entities/objects/shelters/AnimalBurrows_Shelter/AnimalBurrows_Scrub_Small_icon.dds" sx="0" sy="0" sw="64" sh="64"/> <img src="entities/objects/shelters/AnimalBurrows_Shelter/AnimalBurrows_Scrub_Large_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+						<p/>
+La madriguera de monte bajo es ideal para animales como el varano, pequeño animal del monte bajo que se encuentra muy cómodo en espacios subterráneos oscuros. La madriguera pequeña da cabida a un animal, mientras que la más grande puede albergar dos.</color>
+				</cell>
+			</cell>
+		</LOC_STRING> 
+ 
+</ZT2Strings>

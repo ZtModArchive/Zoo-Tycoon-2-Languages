@@ -1,0 +1,254 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_meerkat" version="9"/>
+      <LOC_STRING _locID="zoopedia_meerkat:entry" version="9">Suricate</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_meerkat:text" version="9">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/Meerkat/Meerkat_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>							 
+						 <cell width="156"/>						 
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     État de préservation :
+                     <br/>
+                        <color r="170" g="255" b="0">
+                     Peu menacé
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+				 <cell width="128">
+				  <color r="255" g="255" b="255">Broussailles<br/></color>
+				  <img src="ui/icon_biomes/icon_scrub.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+				 </cell>	
+               <cell width="128">
+                  <color r="255" g="255" b="255">Afrique australe</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/Savannah_Africa_South.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Classe : Mammifères <i>(Mammalia)</i>
+                  <br/>
+                  Ordre : Carnivores <i>(Carnivora)</i>
+                  <br/>
+                  Famille : Civets <i>(Viverridae)</i>
+                  <br/>
+                  Genre : <i>Suricata</i>
+                  <br/>
+                  Espèce : <i>suricatta</i>
+                  <br/>
+                  Sous-espèces : <i>suricata</i>                  
+                  </color>
+               </cell>
+				 <cell width="256" pady="10">
+				  <img src="UI/zoopedia/biome/scrub_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+				 </cell>	
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Bon à savoir sur les Suricates</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Le suricate est un animal social qui vit en groupe et partage les tâches de toilettage et de garde.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Un groupe de suricates, qui compte généralement entre cinq et trente membres, est appelé « colonie ».</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Comme les suricates sont considérés comme des petits encas par nombre de prédateurs, il y en a toujours un qui monte la garde pendant que les autres mangent ou dorment.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Le suricate se nourrit de scarabées, d'araignées, de mille-pattes, de criquets et de scorpions (le suricate est immunisé contre leur venin).</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>               
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Les suricates utilisent leur queue pour garder l'équilibre et communiquer entre eux.</color>
+               </cell>                   
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">Pour débloquer le suricate au cours de parties en mode Défi ou Campagne, votre zoo doit atteindre une renommée de 3,5 étoiles.</color>
+            <p/>Le suricate est un membre de petite taille de la famille des mangoustes qui peuple les terres d'Afrique australe. Il est connu pour sa position debout et son comportement très social.
+
+<p/>Les suricates vivent dans des régions sèches et ouvertes et dans la savane. On les retrouve du sud-ouest de l'Angola à l'Afrique du Sud. Ils vivent en colonies sur des terres sableuses qui leur permettent de creuser des tunnels souterrains élaborés.
+
+<p/>Les suricates mesurent entre 25 et 35 cm de long, queue non comprise. Ils sont plus minces que la plupart des mangoustes. Ils ont un museau pointu, un pelage brun-argent et des rayures sombres sur la croupe. Leur faciès est blanc avec des marques noires sur les oreilles et autour des yeux. Au contraire des autres mangoustes, le suricate à 4 orteils à chaque patte et non 5.
+
+<p/>Les suricates se nourrissent uniquement le jour et mangent surtout des insectes, notamment des scarabées, des araignées et des mille-pattes. Il leur arrive parfois de se nourrir de petits vertébrés, d'œufs et de racines. Les suricates ont généralement entre deux et quatre petits, qui naissent au début ou à la fin de l'hiver après une période de gestation d'environ 11 semaines. Les femelles et les mâles se répartissent les tâches de toilettage et de garde de leurs progénitures.
+
+<p/>Les suricates se tiennent debout sur leurs pattes arrière ou leurs orteils pour renifler l'air et repérer les vautours. Ils jouissent d'une vue excellente et sont capables d'émettre au moins dix sons différents, dont un cri d'alarme.
+
+<p/>Comme ils peuvent être porteurs de la rage, les suricates ont été chassés ou gazés dans leurs terriers partout où ils représentaient une menace pour l'être humain. Pour autant, leur population n'a pas diminué de manière significative. En Afrique du Sud, ces animaux affectueux et faciles à apprivoiser sont souvent domestiqués.
+
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Contenu adapté de <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft® Encarta® 2006.</color></u></a> © 1993-2005 Microsoft Corporation. Tous droits réservés.
+         </cell>         
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_birdsecretary" version="9"/>
+      <LOC_STRING _locID="zoopedia_birdsecretary:entry" version="9">Messager sagittaire</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_birdsecretary:text" version="9">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/BirdSecretary/BirdSecretary_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>						 
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     État de préservation :
+                     <br/>
+                        <color r="170" g="255" b="0">
+                     Peu menacé
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+               <cell width="128">
+                  <color r="255" g="255" b="255">Prairie<br/></color>
+                  <img src="ui/icon_biomes/icon_grassland.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+               </cell>
+					<cell width="128">
+						<color r="255" g="255" b="255">Afrique</color>
+						<br/>
+						<img src="ui/icon_maplocations/Grassland_Africa_Asia.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+					</cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Classe : Oiseaux <i>(Aves)</i>
+                  <br/>
+                  Ordre : Rapaces diurnes <i>(Falconiformes)</i>
+                  <br/>
+                  Famille : <i>Sagittariidés (Sagittariidae)</i>
+                  <br/>
+                  Genre : <i>Sagittarius</i>
+                  <br/>
+                  Espèce : <i>serpentarius</i>
+                  </color>
+               </cell>
+               <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/grassland_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+               </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Bon à savoir sur le messager sagittaire</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Le messager sagittaire marche parfois jusqu'à 30 km par jour sur ses longues pattes.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">En Afrique du Sud, il est parfois domestiqué car il tue les serpents et les rats.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Il adore les serpents. Il les attrape avec ses serres et les frappe contre le sol en se protégeant des morsures avec ses ailes.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Les messagers sagittaires s'accouplent pour la vie et gardent le même nid pendant des années. Bien qu'ils vivent souvent en solitaire, leur moitié n'est jamais très loin.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>               
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Ce sont des oiseaux d'ordinaire silencieux, mais quand ils paradent, ils émettent un son enroué, une sorte de croassement profond et rapide.</color>
+               </cell>                   
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">Pour débloquer le messager sagittaire au cours de parties en mode Défi ou Campagne, votre zoo doit atteindre une renommée de 3 étoiles.</color>
+            <p/>Le messager sagittaire est un grand oiseau de proie vivant en Afrique subsaharienne. Il mesure plus d'1 mètre de long et a de très longues pattes, une longue queue et un bec puissant et crochu. De nombreux livres prétendent que l'origine du nom de l'oiseau provient de la ressemblance de sa crête de longues plumes avec des crayons en plumes d'oie placés derrière l'oreille. En réalité, son nom est une déformation du nom arabe de l'espèce. Sa couleur est gris-bleu avec des rémiges primaires, des cuisses et une queue noires. L'oiseau se nourrit de petits animaux et de reptiles, notamment les serpents, en les chassant à l'affût. Le messager sagittaire vole rarement. Cet oiseau solitaire fabrique de grands et solides nids de brindilles dans les arbres ou les buissons et pond deux œufs dans une couvée.
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Description adaptée de <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft® Encarta® 2006.</color></u></a> © 1993-2005 Microsoft Corporation. Tous droits réservés.
+         </cell>         
+      </LOC_STRING>
+
+</ZT2Strings>

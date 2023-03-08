@@ -1,0 +1,23 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_trainer:entry">Trainer</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_trainer:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/units/staff/Trainer/Trainer_F_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/units/staff/Trainer/Trainer_M_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>
+Trainer bringen den Meerestieren in Ihrem Zoo Tricks bei, die sie dann in den Shows vorführen. Sie können Trainern bestimmte Tiere zuweisen. Trainer ohne zugewiesene Tiere trainieren selbstständig Tiere ihrer Wahl. Trainer entscheiden selbst über die Tricks in ihrem Training. Sie beginnen mit einfachen Tricks und arbeiten sich dann allmählich zu den schwierigeren Tricks vor.
+						<p/>
+Um Tiere in einem Becken zu trainieren, muss ein Beckeneingang vorhanden sein. Ohne diesen ist eine Arbeit mit den Tieren nicht möglich.       
+                  <p/>
+Die Trainer beziehen ein Gehalt, das jeden Monatsanfang vom Konto Ihres Zoos abgezogen wird.			
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+
+</ZT2Strings>

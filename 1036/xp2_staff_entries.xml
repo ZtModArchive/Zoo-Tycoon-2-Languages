@@ -1,0 +1,23 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_trainer:entry">Dresseur</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_trainer:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/units/staff/Trainer/Trainer_F_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/units/staff/Trainer/Trainer_M_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>
+Les dresseurs sont chargés d'apprendre des numéros aux animaux marins de votre zoo pour qu'ils les reproduisent en spectacle. Vous pouvez affecter des dresseurs à certains animaux. Les dresseurs sans affectation choisissent eux-mêmes les animaux avec qui ils travailleront. Ils décident aussi des numéros à leur faire apprendre. Ils commencent à dresser les animaux avec des numéros faciles qu'ils compliquent par la suite.
+						<p/>
+Les dresseurs ont besoin d'une entrée de bassin pour dresser les animaux, sinon, ils ne peuvent pas leur faire apprendre de numéros.       
+                  <p/>
+Les dresseurs touchent un salaire qui est déduit du compte de votre zoo le premier de chaque mois.			
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+
+</ZT2Strings>

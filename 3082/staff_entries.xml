@@ -1,0 +1,59 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_animaleducator:entry">Educador de temas de animales</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_animaleducator:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/units/staff/Educator/Educator_F_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/units/staff/Educator/Educator_M_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>
+                  El papel de un educador es caminar e informar a los visitantes para que aprendan todo lo relacionado con los animales del zoo. Los educadores de animales aumentan el grado de entretenimiento de los visitantes del zoo proporcionando información interesante sobre los animales que están viendo en cada momento.        
+                  <p/>
+                  Los educadores de animales informan desde los podios que ha adquirido y colocado en diferentes lugares del zoo. Una vez colocado un podio, los educadores de animales que ha contratado anunciarán periódicamente desde el podio las próximas exhibiciones.        
+                  <p/>
+                      Si no pueden encontrar un podio para educadores, los educadores de animales buscarán el centro de personal. Si no pueden encontrar un centro de personal,  caminarán sin rumbo por el zoo.
+                  <p/>
+                      Los educadores de animales reciben un salario que se descuenta de la cuenta del zoo el día uno de cada mes. No obstante, recuerde que pueden ayudar a aumentar la cantidad de donaciones que recibe de visitantes contentos que han disfrutado entreteniéndose y aprendiendo durante su visita al zoo.			
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_maintworker:entry">Empleado de mantenimiento</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_maintworker:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/units/staff/Worker/Worker_F_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/units/staff/Worker/Worker_M_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>
+                             Los empleados de mantenimiento se ocupan de que todo esté en perfecto estado en el zoo. Sus tareas principales son barrer los senderos y vaciar las papeleras. Realizarán sus obligaciones a su manera y también podrá asignarles tareas específicas.            
+                  <p/>
+                       Los empleados de mantenimiento son importantes porque un zoo limpio ayuda a que los visitantes estén contentos. Si el zoo presenta muestras de suciedad (basura en los senderos, papeleras abarrotadas, etc.), los visitantes pueden abandonar el zoo antes de lo previsto. Los empleados de mantenimiento reciben un salario que se descuenta de la cuenta del zoo el día uno de cada mes.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_zookeeper:entry">Guardián</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_zookeeper:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/units/staff/Keeper/Keeper_F_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/units/staff/Keeper/Keeper_M_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>
+                  
+Los guardianes son los empleados más importantes del zoo. Su formación les permite satisfacer las necesidades de los animales del zoo y entre sus tareas se encuentran las de darles de comer, curarles y limpiar sus excrementos. Los guardianes reciben el salario más alto de los empleados del zoo, que se descuenta de la cuenta del zoo el día uno de cada mes. No obstante, recuerde que Ud. mismo puede realizar todas las tareas de los guardianes sin costo alguno en el modo Visitante del zoo.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+</ZT2Strings>

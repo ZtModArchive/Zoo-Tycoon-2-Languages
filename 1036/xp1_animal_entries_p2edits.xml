@@ -1,0 +1,136 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_antelopesablegiant" version="2"/>
+      <LOC_STRING _locID="zoopedia_antelopesablegiant:entry" version="2">Hippotrague noir géant</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_antelopesablegiant:text" version="2">
+  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">   
+
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/AntelopeSableGiant/AntelopeSableGiant_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/AntelopeSableGiant/AntelopeSableGiant_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>						 
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/critical.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     État de préservation :
+                     <br/>
+                        <color r="255" g="0" b="0">
+                     En voie d'extinction
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>   
+   
+    <cell width="128">
+     <color r="255" g="255" b="255">Savane<br/></color>
+     <img src="ui/icon_biomes/icon_savannah.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+    </cell>
+    <cell width="128">
+     <color r="255" g="255" b="255">Afrique australe<br/></color>
+     <img src="ui/icon_maplocations/Savannah_Africa_South_GiantSable.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+    </cell>
+    <br/>
+    <cell width="284" pady="10">
+     <color r="255" g="255" b="255">
+      Classe : Mammifères <i>(Mammalia)</i><br/>
+      Ordre : 	Ongulés artiodactyles <i>(Artiodactyla)</i><br/>
+      Famille : Bovidés <i>(Bovidae)</i><br/>
+      Genre : <i>Hippotragus</i><br/>
+      Espèce : <i>niger</i><br/>
+      Sous-espèce :  <i>variani</i>
+     </color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="UI/zoopedia/biome/savannah_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Bon à savoir sur l'hippotrague noir géant</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Les impressionnantes cornes incurvées de l'hippotrague noir géant peuvent atteindre 1,50 m de long.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>        
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">S'il les perd, il n'y a pas de repousse.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Il peut courir à des vitesses égales à 55 km/h et les maintenir assez longtemps.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Après 27 ans de guerre civile en Angola, son territoire d'origine, sa survie est menacée.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Il ne reste que mille individus dans le monde et tous vivent au centre de l'Angola, dans la réserve de Luando et le parc national de Kangandala.</color>
+    </cell>    
+    <br/> 
+   </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178">
+    Pour débloquer l'hippotrague noir géant au cours de parties en mode Défi ou Campagne, vous devez obtenir une note de renommée de 2 étoiles pour votre zoo.
+   </color>
+   <p/>
+Antilope est le nom générique donné à un groupe hétérogène de mammifères à cornes creuses appartenant à la même famille que les bovins, les chèvres et les moutons. Environ cent espèces d'antilopes vivent en Afrique et en Asie. Parmi elles, on compte certains des mammifères à sabots les plus rapides et les plus élégants au monde, ainsi que quelques-unes des espèces les plus menacées.
+   <p/>
+On dénombre sept espèces connues sous le nom d'antilope-cheval (sous-famille Hippotraginae). Citons notamment l'hippotrague noir, l'antilope rouanne, l'oryx et l'addax, animaux au corps volumineux et à la carrure de cheval. Ces antilopes vivent en Afrique et dans la péninsule arabique, dans des habitats aussi différents que les bois ou le désert. Malgré leur nom, elles ne peuvent être confondues avec des chevaux du fait de leurs cornes exceptionnellement longues. Les cornes des antilopes-cheval sont très prisées des amateurs de trophées de chasse, ce qui explique la quasi-disparition de certains membres de cette famille.
+   <p/>
+À la différence des rennes, qui perdent leurs bois ramifiés une fois l'an, les antilopes sont dotées de cornes pointues qu'elles conservent tout au long de leur vie. Les cornes des antilopes peuvent mesurer jusqu'à 1,5 m. Elles peuvent sembler redoutables mais sont peu efficaces en tant qu'armes. On a déjà vu des antilopes empaler et même tuer des prédateurs aussi imposants que des lions, mais lorsqu'elles sont confrontées à un danger, les antilopes ont plutôt l'habitude de détaler.
+   <p/>
+Les antilopes sont des ruminants, ces animaux qui régurgitent la nourriture qu'ils ont partiellement digérée pour la mastiquer à nouveau. À l'instar d'autres ruminants tels que les bovins ou les moutons, les antilopes possèdent des molaires très développées qui leur permettent de réduire en pulpe le bol alimentaire régurgité. Elles sont en revanche dépourvues d'incisives supérieures. Pour arracher de l'herbe ou des feuilles, leurs incisives inférieures appuient sur une crête gingivale dure.
+   <p/>
+Pendant qu'elles mangent ou qu'elles se reposent, les antilopes se fient à leurs sens très développés pour éviter les dangers. Leurs yeux sont situés de part et d'autre de leur tête et leurs pupilles sont allongées à l'horizontale, ce qui leur permet de voir venir le danger de derrière et de devant. Leur ouïe et leur odorat sont aussi très développés, ce qui se révèle très précieux pour ces animaux qui vivent en plein air à la merci des nombreux prédateurs qui rôdent après la tombée de la nuit.
+   <p/>
+Pour survivre, les antilopes usent de leur capacité à repérer les dangers et à prendre rapidement la fuite. Ce système de défense leur permet d'échapper à la plupart des prédateurs sauvages, mais il ne leur assure qu'une protection partielle face aux chasseurs humains que leur peau, leurs cornes ou leur viande intéressent, et aucune protection contre les changements de leur habitat.
+  </cell>
+  <p/>
+  <cell width="260"/>
+  <cell width="620">
+   Avec le concours de la <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Collection Microsoft (R) Encarta (R) 2005.</color></u></a>(C) 1993-2004 Microsoft Corporation.  Tous droits réservés.
+  </cell>
+ </LOC_STRING>
+
+</ZT2Strings>

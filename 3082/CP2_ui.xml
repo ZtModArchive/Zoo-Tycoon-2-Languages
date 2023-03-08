@@ -1,0 +1,197 @@
+<ZT2Strings>
+      <LOC_STRING _locID="mainmenu" version="9"/>
+      <LOC_STRING _locID="mainmenu:legalcopy1" version="9">
+         <font name="arial" size="10" shadowx="0" shadowy="0">
+            <b>© &amp; (p) 2007 Microsoft Corporation. Reservados todos los derechos.</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="mainmenu:legalcopy2" version="9">
+         <font name="arial" size="10" shadowx="0" shadowy="0">
+            <b>Desarrollado por Blue Fang Games para Microsoft Corporation.</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="mainmenu:legalcopy3" version="9">
+         <font name="arial" size="10" shadowx="0" shadowy="0">
+            <b>Este producto está protegido por leyes y tratados internacionales</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="mainmenu:legalcopy4" version="9">
+         <font name="arial" size="10" shadowx="0" shadowy="0">
+            <b>como se describe en Ayuda/Acerca de.</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="mainmenu:cp2_installed_stt" version="9">Extinct Animals Instalado</LOC_STRING>
+      <LOC_STRING _locID="mainmenu:cp2_installed_ltt" version="9">
+         <color r="255" g="248" b="178">
+            <b>Extinct Animals Instalado</b>
+         </color>
+         <br>El paquete de expansión Extinct Animals está instalado. </br>
+      </LOC_STRING>
+      <LOC_STRING _locID="mainmenu:tutorial_intro_text_extinct" version="9">
+         <font name="arial" size="20" image="ui\font\color_mainmenu.tga">
+            <color r="255" g="197" b="78">
+               <b>¿Desea aprender a jugar a Zoo Tycoon 2: Extinct Animals?</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="fptranqdisplay:tranqscreen_format1">
+         <font name="arial" size="9">
+            <color r="92" g="255" b="64">
+               <b>%text%</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="fptranqdisplay:tranqscreen_format2">
+         <font name="arial" size="9">
+            <color r="255" g="92" b="64">
+               <b>%text%</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="fptranqdisplay:tranqtarget_label_message">
+      Objetivo:
+      </LOC_STRING>
+      <LOC_STRING _locID="fptranqdisplay:tranqscreen_format3">
+         <font name="arial" size="12">
+            <color r="210" g="50" b="0">
+               <b>%text%</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="fptranqdisplay:tranqdistance_label_message">
+      Metros hasta objetivo: 
+      </LOC_STRING>
+      <LOC_STRING _locID="fptranqdisplay:tranqdistance_outofrange_message">
+      ¡OBJETIVO FUERA DEL ALCANCE! 
+      </LOC_STRING>
+      <LOC_STRING _locID="cloningfeedback:animal_format">
+          <font name="arial" size="12">
+            <color r="92" g="255" b="64">
+               <b>%text%</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="cloningfeedback:initial_message">
+      Haga clic en la pantalla del equipo o presione la barra espaciadora para empezar.
+      </LOC_STRING>
+      <LOC_STRING _locID="cloningfeedback:which_animal_success">
+      ¡Bien hecho! Ha creado %s. Los súper animales son más grandes, más sanos y longevos que los animales habituales.
+      </LOC_STRING>
+      <LOC_STRING _locID="cloningfeedback:which_animal_normal">
+      ¡Buen trabajo! Ha creado %s.
+      </LOC_STRING>
+      <LOC_STRING _locID="cloningfeedback:which_animal_failure">
+      ¡Vaya, no lo ha conseguido! Pero siga intentándolo. ¡Puede estar seguro de que la próxima vez conseguirá un animal mejor!
+      </LOC_STRING>
+      <LOC_STRING _locID="cloningfeedback:missing_animal_failure">
+      ¡Oh, oh! ¡Aún no ha desbloqueado ningún animal extinguido! Intente encontrar antes algunos fósiles.
+      </LOC_STRING>
+      <LOC_STRING _locID="cloningfeedback:no_animal_failure">
+      ¿Qué ha pasado? Presione la barra espaciadora para volver a intentarlo o presione ESC para salir del laboratorio. Haga clic en el botón ? de la izquierda si necesita más ayuda.
+      </LOC_STRING>
+      <LOC_STRING _locID="cloningfeedback:no_clicks_failure">
+      Recuerde que debe hacer clic en el mouse o presionar las teclas de flecha cuando la línea de escaneado toque los iconos de la pantalla.
+      </LOC_STRING>
+      <LOC_STRING _locID="puzzlefeedback:animal_format">
+          <font name="arial" size="12">
+            <color r="200" g="192" b="168">
+               <b>%text%</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="fpfossildisplay:piece_found">¡Ha descubierto una pieza de %s fosilizada! (%2s)</LOC_STRING>
+      <LOC_STRING _locID="fpfossildisplay:puzzle_ready">¡Ahora puede reconstruir un fósil de %s en el Laboratorio!</LOC_STRING>
+      <LOC_STRING _locID="fpfossildisplay:placeable_object_found">Encontró %s.</LOC_STRING>
+      <LOC_STRING _locID="fpfossildisplay:nonplaceable_object_found">Recibió %2m por los %1s que ha encontrado.</LOC_STRING>
+      <LOC_STRING _locID="fpfossildisplay:next_level_unlocked">¡El buscador de fósiles se ha actualizado y ahora puede encontrar más!</LOC_STRING>
+      <LOC_STRING _locID="fpfossildisplay:next_level_unavailable">¡Aumente la fama de su zoo para mejorar su dispositivo de búsqueda de fósiles!</LOC_STRING>
+      <LOC_STRING _locID="minigameHelp:minigameHelp_format">
+         <font name="arial" size="9" shadowx="1" shadowy="1">
+            <color r="250" g="250" b="200">
+               <b>%text%</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="minigameHelp:minigameHelp_FossilFinding">
+      <u>Controles:</u>
+      <br/>
+      Movimiento: Teclas de dirección (Mantenga presionada MAYÚS. para ejecutar)
+      <br/>
+      Girar/Mirar: Mueva el mouse
+      <br/>
+      Áreas de excavar fósiles: BARRA ESPACIADORA
+      <p/>
+      ¡Bienvenido a la búsqueda de fósiles! En este modo de juego, puede recorrer su zoo con su dispositivo de búsqueda de fósiles portátil y buscar piezas fósiles escondidas. 
+      <p/>
+      La barra vertical situada en el centro del dispositivo de búsqueda de fósiles le permite saber cuándo se está acercando a un objeto enterrado. Cuando esté realmente cerca, aparecerá automáticamente un marcador de yacimiento. Presione la barra espaciadora para excavar en ese sitio o déjelo para seguir buscando otros sitios.   
+      <p/>
+      Todos los fósiles que consiga se colocarán en el Laboratorio de Animales Extinguidos.  ¡Cuando tenga suficientes piezas para reconstruir un fósil completo, vaya al laboratorio, seleccione la ficha Reconstrucción de fósiles y comience el juego Reconstrucción de fósiles!
+      </LOC_STRING>
+      <LOC_STRING _locID="minigameHelp:minigameHelp_FossilBuilding">
+      <u>Controles:</u>
+      <br/>
+      Mover piezas: hacer clic y arrastrar piezas.
+      <br/>
+      Girar piezas: &lt; y &gt; 
+      <br/>
+      Reiniciar puzzle: Ctrl+R
+      <br/>
+      NOTA: las piezas deben estar dentro del contorno del esqueleto para que encajen.      
+      <p/>
+      Bienvenido a la sala de reconstrucción de fósiles del Laboratorio de Animales Extinguidos.  
+      <p/>
+      Debe colocar correctamente las piezas fósiles que ha encontrado para reconstruir un esqueleto fosilizado completo. Haga clic en las piezas y arrástrelas para moverlas. Cuando una pieza esté bien colocada, cambiará de color cuando suelte el botón principal del mouse. Para ayudarle, al principio habrá una pieza colocada en su lugar (pieza anclada).   
+      <p/>
+      Si desea reiniciar el puzzle, presione Ctrl+R. Entonces aparecerá una nueva pieza inicial, pero también se restablecerán el resto de piezas, así que tenga cuidado.
+      </LOC_STRING>
+      <LOC_STRING _locID="minigameHelp:minigameHelp_Cloning">
+      <u>Controles:</u>
+      <br/>
+      Iniciar juego: BARRA ESPACIADORA
+      <br/>
+      Para jugar: presione la tecla de flecha correcta o haga clic en el botón del mouse cuando la línea de escaneado cruce el icono. 
+      <p/>
+      Sobre los animales de más estrellas pueden aparecer iconos ? cubriendo los símbolos que debe presionar. Memorice la pauta de destellos y presione la tecla apropiada cuando cruce la línea de escaneado o no obtendrá una puntuación perfecta.
+      <p/>
+      ¡Bienvenido a la sala de creación de animales del Laboratorio de Animales Extinguidos! ¡Si ha encontrado y unido las piezas del fósil de un animal, puede crear el animal aquí, en el laboratorio! ¡Seleccione el animal que va a crear y comenzará el juego de correspondencia de patrones de creación de animales!  
+      <p/>
+      El proceso comienza al presionar la barra espaciadora o al hacer clic en la pantalla. Tiene que hacer coincidir el patrón de iconos en la pantalla a medida que la línea de escaneado los va cruzando. 
+      <p/>
+      Si realiza un gran trabajo, creará una versión súper del animal que haya elegido. Estos son los animales más felices, más sanos y más fuertes y, además, son los que más les gustan a los visitantes. Si realiza un buen trabajo, conseguirá una versión normal. Si falla, puede que consiga... algo totalmente diferente. 
+      </LOC_STRING>
+      <LOC_STRING _locID="minigameHelp:minigameHelp_DiseaseResearch">
+      <u>Controles:</u>
+      <br/>
+      Movimiento: Teclas de dirección (Mantenga presionada MAYÚS. para ejecutar)
+      <br/>
+      Tomar una muestra: BARRA ESPACIADORA
+      <p/>
+      Bienvenido al modo de curación de la enfermedad. Si sus animales se contagian, puede investigar para encontrar una cura.  
+      <p/>
+      En este modo camina por el zoo y usa la barra espaciadora para probar posibles elementos curativos. Primero necesita tomar una muestra pequeña de uno de sus animales enfermos.  
+      <p/>
+      Una vez que el equipo de investigación analice la muestra, recibirá su primer informe de investigación del laboratorio. Estos informes le ayudan a descubrir lo que necesita para crear la cura. Puede utilizar el botón del informe de investigación para obtener más novedades sobre la investigación en el laboratorio, pero por cada sugerencia, ganará menos dinero cuando al final consiga la cura. ¡Tenga en cuenta que puede que los objetos que necesita para la cura no estén aún en el zoo!
+      <p/>
+      Cuando encuentre la cura, acceda al modo Visitante y cure a sus animales del mismo modo que los lava o los cuida. ¡También pude dar la cura a sus guardianes para que curen a los animales por usted!
+      </LOC_STRING>
+      <LOC_STRING _locID="minigameHelp:minigameHelp_Tranquilize">
+      <u>Controles:</u>
+      <br/>
+      Movimiento: Teclas de dirección (Mantenga presionada MAYÚS. para ejecutar)
+      <br/>
+      Girar/Mirar: Mueva el mouse
+      <br/>
+      Cargar la pistola de dardos tranquilizantes: 
+      <br/>
+      Sitúe el punto de mira sobre el animal descontrolado.
+      <br/>
+      Disparar la pistola de dardos tranquilizantes: BARRA ESPACIADORA
+      <br/>
+      <u>NOTA:</u> La pistola debe estar totalmente cargada para tener algún efecto.
+      <p/>
+
+      Uno de los dinosaurios se ha descontrolado, ¿eh? ¡Tiene las herramientas adecuadas para el trabajo! Para tranquilizar a un dinosaurio descontrolado, búsquelo en el punto de mira, fíjelo y presione la barra espaciadora para disparar el tranquilizante cuando la potencia de la pistola esté al máximo. ¡El tiempo de carga es más largo para los dinosaurios más grandes que para los más pequeños, porque los dinosaurios más grandes necesitan una dosis mayor! ¡No se mueva! Si no acierta en el objetivo, la pistola tranquilizante perderá parte de su carga.  
+      <p/>
+      Cuando tranquilice a un dinosaurio descontrolado, éste se calmará y dormirá durante un rato. En ese momento, puede llevárselo, enjaularlo o devolverlo a su instalación. Si un animal no aparece en la pantalla del objetivo, eso significa que no está descontrolado.   
+      </LOC_STRING>
+</ZT2Strings>

@@ -1,0 +1,185 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_transportation:entry">Transport</LOC_STRING> <LOC_STRING _locID="zoopedia_transportation:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>
+Zoo Tycoon 2: Endangered Species bietet zwei verschiedene Transportmöglichkeiten: Jeeps&#xAE; und Hochbahnen.
+                  <p/>
+Um weitere Informationen zu den einzelnen Transportmitteln anzuzeigen, klicken Sie in der Liste links auf den Namen eines Transportmittels.</color>
+            </cell>
+         </cell>
+      </LOC_STRING> <LOC_STRING _locID="zoopedia_groundstation:entry">Jeep&#xAE;-Station</LOC_STRING> <LOC_STRING _locID="zoopedia_groundstation:text">
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255"><img src="entities\transportation\stations\GroundStation\GroundStation_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+In der Jeep&#xAE;-Station steigen die Besucher in die <a href="zoopedia:zoopedia_groundvehicle:entry"><u><color r="255" g="231" b="135">Jeeps bzw. wieder aus.</color></u></a> Eine Jeep-Station bleibt so lange geschlossen, bis sie mit einem zulässigen, geschlossenen <a href="zoopedia:zoopedia_groundtrack:entry"><u><color r="255" g="231" b="135">Straßenrundkurs</color></u></a> verbunden ist. Wenn ein Rundkurs vollständig ist, werden die Jeep-Stationen geöffnet, und Sie können Fahrzeuge dafür kaufen.</color>
+    </cell>
+   </cell>
+  </LOC_STRING> <LOC_STRING _locID="zoopedia_skystation:entry">Hochbahnstation</LOC_STRING> <LOC_STRING _locID="zoopedia_skystation:text">
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255"><img src="entities\transportation\stations\SkyStation\SkyStation_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+In der Hochbahnstation steigen die Besucher in die <a href="zoopedia:zoopedia_gondola:entry"><u><color r="255" g="231" b="135">Hochbahnwagen bzw. wieder aus.</color></u></a> Eine Hochbahnstation bleibt so lange geschlossen, bis sie mit einem zulässigen, geschlossenen Hochbahnkabelverlauf verbunden ist. Wenn ein Rundkurs vollständig ist, werden die Hochbahnstationen geöffnet, und Sie können Fahrzeuge dafür kaufen.
+      <p/>
+Um Hochbahnkabel zu verlegen, kaufen und platzieren Sie <a href="zoopedia:zoopedia_skytrampole:entry"><u><color r="255" g="231" b="135">Hochbahnmasten.</color></u></a>
+      <p/>
+Tipp: Um auf einem möglichst geringen Raum einen Rundkurs mit zwei Stationen einzurichten, verbinden Sie die erste Station mit der zweiten, und legen Sie anschließend ein Kabel direkt von der zweiten zur ersten Station zurück. Die Wagen kehren im Stationsgebäude um.</color>
+    </cell>
+   </cell>
+  </LOC_STRING> <LOC_STRING _locID="zoopedia_skytrampole:entry">Hochbahnmast</LOC_STRING> <LOC_STRING _locID="zoopedia_skytrampole:text">
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255"><img src="entities\transportation\track\skytower\skytower_icon.dds" sx="0" sy="0" sw="64" sh="64"/> <img src="entities\transportation\track\skytower\skytower_T_arm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+Hochbahnmasten werden zum Platzieren von Hochbahnkabeln verwendet. Um das Kabel von einem Mast mit der <a href="zoopedia:zoopedia_skystation:entry"><u><color r="255" g="231" b="135">Hochbahnstation</color></u></a> zu verbinden, wählen Sie zunächst im Fenster für den Kauf von Transportgegenständen den Hochbahnmast aus. Klicken Sie auf die Stellen, an denen Masten errichtet werden sollen und anschließend auf die Station, mit der das Kabel vom Mast mit der Station verbunden werden soll.
+		<p/>
+Ein gewöhnlicher Hochbahnmast verfügt über einen Kabelstrang, und das Kabel verläuft lediglich in einer Richtung. Der Hochbahndoppelmast verfügt über zwei Kabelstränge. Beide verlaufen jeweils in die entgegengesetzte Richtung. Ein Doppelmast kann mit Stationen und anderen Doppelmasten, nicht jedoch mit gewöhnlichen Masten verbunden werden.		
+     <p/>
+Tipp: Die Höhe eines Hochbahnmastes kann angepasst werden. Platzieren Sie den Mauszeiger über der Spitze eines Hochbahnmasts, damit das Handsymbol angezeigt wird. Klicken Sie anschließend, und halten Sie die Maustaste gedrückt. Ziehen Sie den Mast nun nach oben oder unten in die gewünschte Höhe.</color>
+    </cell>
+   </cell>
+  </LOC_STRING> <LOC_STRING _locID="zoopedia_groundtrack:entry">Straße</LOC_STRING> <LOC_STRING _locID="zoopedia_groundtrack:text">
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255"><img src="entities\transportation\track\ground\ground_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+Über Straßen werden die <a href="zoopedia:zoopedia_groundstation:entry"><u><color r="255" g="231" b="135">Jeep&#xAE;-Stationen</color></u></a> miteinander verbunden, sodass <a href="zoopedia:zoopedia_groundvehicle:entry"><u><color r="255" g="231" b="135">Jeeps</color></u></a> zwischen den Stationen fahren können. Ihre Straße muss einen zulässigen, geschlossenen Rundkurs bilden, damit die Jeep-Stationen geöffnet werden können. Beachten Sie, dass es in Zoo Tycoon 2: Endangered Species lediglich Einbahnstraßen gibt!</color>
+    </cell>
+   </cell>
+  </LOC_STRING> <LOC_STRING _locID="zoopedia_crossinggate:entry">Wegschranken</LOC_STRING> <LOC_STRING _locID="zoopedia_crossinggate:text">
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255"><img src="entities\transportation\crossinggate\crossinggate_end\crossinggate_end_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+Platzieren Sie Wegschranken an Kreuzungen von Straßen und Fußwegen, damit keine Fußgänger auf die Straße laufen, wenn sich ein Jeep&#xAE; nähert. Die Wegschranke wird vor der Ankunft eines Fahrzeugs heruntergelassen und anschließend wieder angehoben.</color>
+    </cell>
+   </cell>
+  </LOC_STRING> <LOC_STRING _locID="zoopedia_elevatedpath:entry">Erhöhte Wege</LOC_STRING> <LOC_STRING _locID="zoopedia_elevatedpath:text">
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255"><img src="entities\objects\paths\elevatedpaths\ElevatedPath_Stone_end\ElevatedPath_Stone_end_icon.dds" sx="0" sy="0" sw="64" sh="64"/> <img src="entities\objects\paths\elevatedpaths\ElevatedPath_Wood_end\ElevatedPath_Wood_end_icon.dds" sx="0" sy="0" sw="64" sh="64"/>      
+      <p/>
+Mithilfe von erhöhten Wegen können schwer zu erreichende Stellen miteinander verbunden werden. Außerdem erhalten Besucher so eine bessere Aussicht über den Zoo. Verwenden Sie Aufgänge und Abstiege, um die erhöhten Wege mit dem Boden oder anderen erhöhten Wegen zu verbinden. Auf ebenen erhöhten Wegen können Gebäude und andere Objekte platziert werden.
+      <p/>
+Beim Anlegen von erhöhten Wegen werden automatisch Wegstützen platziert. Diese können gegebenenfalls gelöscht werden.</color>
+    </cell>
+   </cell>
+  </LOC_STRING> <LOC_STRING _locID="zoopedia_elevatedpathrailing:entry">Geländer für erhöhte Wege</LOC_STRING> <LOC_STRING _locID="zoopedia_elevatedpathrailing:text">
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255"><img src="entities\objects\paths\elevatedpaths\ElevatedPath_Stone_end\Curb_Stone_end_icon.dds" sx="0" sy="0" sw="64" sh="64"/> <img src="entities\objects\paths\elevatedpaths\ElevatedPath_Stone_end\Curb_Stone_high_end_icon.dds" sx="0" sy="0" sw="64" sh="64"/> <img src="entities\objects\paths\elevatedpaths\ElevatedPath_Wood_end\Curb_Wood_end_icon.dds" sx="0" sy="0" sw="64" sh="64"/> <img src="entities\objects\paths\elevatedpaths\ElevatedPath_Wood_end\Curb_Wood_high_end_icon.dds" sx="0" sy="0" sw="64" sh="64"/>      
+      <p/>
+Geländer für erhöhte Wege sind ein dekoratives Element und verhindern außerdem, dass Besucher hinunterfallen! Wenn Sie für Abwechslung sorgen möchten, können Sie Geländer für erhöhte Wege später durch andere Geländer für erhöhte Wege ersetzen.</color>
+    </cell>
+   </cell>
+  </LOC_STRING> <LOC_STRING _locID="zoopedia_groundvehicle:entry">Jeeps&#xAE;</LOC_STRING> <LOC_STRING _locID="zoopedia_groundvehicle:text">
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255"><img src="entities\transportation\vehicles\Jeep_Wrangler\Jeep_Wrangler_icon.dds" sx="0" sy="0" sw="64" sh="64"/> <img src="entities\transportation\vehicles\Jeep_Commander\Jeep_Commander_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+Jeeps&#xAE; befördern Besucher zwischen den <a href="zoopedia:zoopedia_groundstation:entry"><u><color r="255" g="231" b="135">Jeep-Stationen.</color></u></a> Der Jeep Wrangler hat Platz für drei Besucher, der Jeep Commander für sechs.</color>
+    </cell>
+   </cell>
+  </LOC_STRING> <LOC_STRING _locID="zoopedia_groundvehicleupgrade:entry">Jeeps&#xAE;, Verzierte</LOC_STRING> <LOC_STRING _locID="zoopedia_groundvehicleupgrade:text">
+    <cell pady="0" width="1000"/>
+    <p/>
+    <cell width="260"/>
+    <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+     <cell width="600" padx="20" pady="20">
+      <color r="255" g="255" b="255"><img src="entities\transportation\vehicles\Jeep_Wrangler\Jeep_Wrangler_Upgraded_icon.dds" sx="0" sy="0" sw="64" sh="64"/> <img src="entities\transportation\vehicles\Jeep_Commander\Jeep_Commander_Upgraded_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+       <p/>
+Jeeps&#xAE; befördern Besucher zwischen den <a href="zoopedia:zoopedia_groundstation:entry"><u><color r="255" g="231" b="135">Jeep-Stationen.</color></u></a> Der Jeep Wrangler hat Platz für drei Besucher, der Jeep Commander für sechs. 
+<p/>
+Verzierte Jeeps sind dekorativ gestaltet und werden freigegeben, wenn Sie die "Tour-Tycoon-Auszeichnung zweiten Grades" gewinnen.</color>
+     </cell>
+    </cell>
+   </LOC_STRING> <LOC_STRING _locID="zoopedia_gondola:entry">Hochbahnfahrzeuge</LOC_STRING> <LOC_STRING _locID="zoopedia_gondola:text">
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255"><img src="entities\transportation\vehicles\gondola\Gondola_1Seat_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/> <img src="entities\transportation\vehicles\gondola\Gondola_2Seats_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/> <img src="entities\transportation\vehicles\gondola\Gondola_4Seats_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>      
+      <p/>
+Hochbahnfahrzeuge befördern die Besucher zwischen <a href="zoopedia:zoopedia_skystation:entry"><u><color r="255" g="231" b="135">Hochbahnstationen.</color></u></a> Die verschiedenen Hochbahntypen haben für eine unterschiedliche Anzahl an Besuchern Platz.</color>
+    </cell>
+   </cell>
+  </LOC_STRING> <LOC_STRING _locID="zoopedia_gondolaupgrade:entry">Hochbahnfahrzeuge, Modernisierte</LOC_STRING> <LOC_STRING _locID="zoopedia_gondolaupgrade:text">
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255"><img src="entities\transportation\vehicles\gondola\Gondola_1Seat_icon.dds" sx="0" sy="0" sw="64" sh="64"/> <img src="entities\transportation\vehicles\gondola\Gondola_2Seats_icon.dds" sx="0" sy="0" sw="64" sh="64"/> <img src="entities\transportation\vehicles\gondola\Gondola_4Seats_icon.dds" sx="0" sy="0" sw="64" sh="64"/>      
+      <p/>
+Hochbahnfahrzeuge befördern die Besucher zwischen <a href="zoopedia:zoopedia_skystation:entry"><u><color r="255" g="231" b="135">Hochbahnstationen.</color></u></a> Die verschiedenen Hochbahntypen haben für eine unterschiedliche Anzahl an Besuchern Platz. 
+		<p/>
+Modernisierte Hochbahnfahrzeuge haben ein dekoratives Design und werden freigegeben, wenn Sie die "Transport-Tycoon-Auszeichnung" gewinnen.</color>
+    </cell>
+   </cell>
+  </LOC_STRING> <LOC_STRING _locID="zoopedia_sixseater:entry">Sechs Sitze</LOC_STRING> <LOC_STRING _locID="zoopedia_sixseater:text">
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255"><img src="entities\transportation\vehicles\Jeep_Commander\Jeep_Commander_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+      [ADDSTUFF]</color>
+    </cell>
+   </cell>
+  </LOC_STRING> <LOC_STRING _locID="zoopedia_suv:entry">Acht Sitze</LOC_STRING> <LOC_STRING _locID="zoopedia_suv:text">
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255"><img src="entities\transportation\stations\SkyStation\SkyStation_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+      [ADDSTUFF]</color>
+    </cell>
+   </cell>
+  </LOC_STRING> <LOC_STRING _locID="zoopedia_truck:entry">Sechs Sitze</LOC_STRING> <LOC_STRING _locID="zoopedia_truck:text">
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255"><img src="entities\transportation\stations\SkyStation\SkyStation_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+      [ADDSTUFF]</color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+ 
+</ZT2Strings>

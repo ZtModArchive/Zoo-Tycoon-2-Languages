@@ -1,0 +1,197 @@
+<ZT2Strings>
+      <LOC_STRING _locID="mainmenu" version="9"/>
+      <LOC_STRING _locID="mainmenu:legalcopy1" version="9">
+         <font name="arial" size="10" shadowx="0" shadowy="0">
+            <b>© &amp; (p) 2007 Microsoft Corporation. Alle Rechte vorbehalten.</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="mainmenu:legalcopy2" version="9">
+         <font name="arial" size="10" shadowx="0" shadowy="0">
+            <b>Entwickelt von Blue Fang Games für die Microsoft Corporation.</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="mainmenu:legalcopy3" version="9">
+         <font name="arial" size="10" shadowx="0" shadowy="0">
+            <b>Dieses Programm ist weltweit urheberrechtlich geschützt</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="mainmenu:legalcopy4" version="9">
+         <font name="arial" size="10" shadowx="0" shadowy="0">
+            <b>(siehe Beschreibung in Hilfe/Info).</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="mainmenu:cp2_installed_stt" version="9">"Ausgestorbene Tierarten" installiert</LOC_STRING>
+      <LOC_STRING _locID="mainmenu:cp2_installed_ltt" version="9">
+         <color r="255" g="248" b="178">
+            <b>"Ausgestorbene Tierarten" installiert</b>
+         </color>
+         <br>Die Erweiterung "Ausgestorbene Tierarten" wurde installiert. </br>
+      </LOC_STRING>
+      <LOC_STRING _locID="mainmenu:tutorial_intro_text_extinct" version="9">
+         <font name="arial" size="20" image="ui\font\color_mainmenu.tga">
+            <color r="255" g="197" b="78">
+               <b>Möchten Sie lernen, wie Zoo Tycoon 2: Ausgestorbene Tierarten gespielt wird?</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="fptranqdisplay:tranqscreen_format1">
+         <font name="arial" size="9">
+            <color r="92" g="255" b="64">
+               <b>%text%</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="fptranqdisplay:tranqscreen_format2">
+         <font name="arial" size="9">
+            <color r="255" g="92" b="64">
+               <b>%text%</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="fptranqdisplay:tranqtarget_label_message">
+      Ziel:
+      </LOC_STRING>
+      <LOC_STRING _locID="fptranqdisplay:tranqscreen_format3">
+         <font name="arial" size="12">
+            <color r="210" g="50" b="0">
+               <b>%text%</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="fptranqdisplay:tranqdistance_label_message">
+      Meter bis zum Ziel: 
+      </LOC_STRING>
+      <LOC_STRING _locID="fptranqdisplay:tranqdistance_outofrange_message">
+      ZIEL AUSSER REICHWEITE! 
+      </LOC_STRING>
+      <LOC_STRING _locID="cloningfeedback:animal_format">
+          <font name="arial" size="12">
+            <color r="92" g="255" b="64">
+               <b>%text%</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="cloningfeedback:initial_message">
+      Klicken Sie zum Starten auf den Computerbildschirm, oder drücken Sie die LEERTASTE.
+      </LOC_STRING>
+      <LOC_STRING _locID="cloningfeedback:which_animal_success">
+      Gut gemacht! Sie haben ein Exemplar der Art %s erschaffen. Supertiere sind größer, gesünder als normale Tiere und leben länger.
+      </LOC_STRING>
+      <LOC_STRING _locID="cloningfeedback:which_animal_normal">
+      Gut gemacht! Sie haben ein Exemplar der Art %s erschaffen.
+      </LOC_STRING>
+      <LOC_STRING _locID="cloningfeedback:which_animal_failure">
+      Huch, Ihr Versuch ist fehlgeschlagen! Aber wenn Sie es weiter versuchen, erschaffen Sie nächstes Mal bestimmt ein besseres Tier!
+      </LOC_STRING>
+      <LOC_STRING _locID="cloningfeedback:missing_animal_failure">
+      Oh nein! Sie haben noch keine ausgestorbenen Tiere freigegeben! Suchen Sie zuerst nach Fossilien.
+      </LOC_STRING>
+      <LOC_STRING _locID="cloningfeedback:no_animal_failure">
+      Was ist passiert? Drücken Sie die LEERTASTE, um es erneut zu versuchen, oder drücken Sie ESC, um das Labor zu verlassen. Klicken Sie links auf die Schaltfläche "?", wenn Sie weitere Hilfe benötigen.
+      </LOC_STRING>
+      <LOC_STRING _locID="cloningfeedback:no_clicks_failure">
+      Denken Sie dran, mit der Maustaste zu klicken oder die Pfeiltasten zu drücken, wenn die Scannerlinie auf die Symbole auf dem Bildschirm trifft.
+      </LOC_STRING>
+      <LOC_STRING _locID="puzzlefeedback:animal_format">
+          <font name="arial" size="12">
+            <color r="200" g="192" b="168">
+               <b>%text%</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="fpfossildisplay:piece_found">Sie haben ein versteinertes Teil der Art %1s freigelegt! (%2s)</LOC_STRING>
+      <LOC_STRING _locID="fpfossildisplay:puzzle_ready">Sie können jetzt im Forschungslabor ein %s-Fossil rekonstruieren!</LOC_STRING>
+      <LOC_STRING _locID="fpfossildisplay:placeable_object_found">Sie haben %s gefunden.</LOC_STRING>
+      <LOC_STRING _locID="fpfossildisplay:nonplaceable_object_found">Sie haben %2m für Ihren %1s-Fund erhalten.</LOC_STRING>
+      <LOC_STRING _locID="fpfossildisplay:next_level_unlocked">Ihr Fossiliensuchgerät wurde aufgerüstet. Jetzt können Sie mehr Fossilien finden!</LOC_STRING>
+      <LOC_STRING _locID="fpfossildisplay:next_level_unavailable">Steigern Sie den Bekanntheitsgrad Ihres Zoos, um Ihr Suchgerät für Fossilien aufzurüsten</LOC_STRING>
+      <LOC_STRING _locID="minigameHelp:minigameHelp_format">
+         <font name="arial" size="9" shadowx="1" shadowy="1">
+            <color r="250" g="250" b="200">
+               <b>%text%</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="minigameHelp:minigameHelp_FossilFinding">
+      <u>Steuerung:</u>
+      <br/>
+      Fortbewegung: Pfeiltasten (UMSCHALT gedrückt halten, um zu rennen)
+      <br/>
+      Drehen/Schauen: Maus bewegen
+      <br/>
+      In Ausgrabungsstätten graben: LEERTASTE
+      <p/>
+      Willkommen bei der Suche nach Fossilien! In diesem Spielmodus laufen Sie mit einem tragbaren Fossiliensuchgerät durch den Zoo und suchen nach verborgenen Fossilienteilen. 
+      <p/>
+      Anhand der vertikalen Leiste in der Mitte des Geräts erkennen Sie, wann Sie sich einem Objekt im Boden nähern. Wenn Sie sehr dicht an einer Fundstätte sind, erscheint automatisch eine entsprechende Markierung. Drücken Sie die LEERTASTE, um an dieser Stelle zu graben, oder fahren Sie mit der Suche nach weiteren Fundstätten fort.   
+      <p/>
+      Alle von Ihnen gesammelten Fossilien werden in das Forschungslabor für ausgestorbene Arten gebracht. Wenn Sie alle Teile für ein komplettes Fossil haben, gehen Sie zum Labor, wählen Sie die Registerkarte "Rekonstruktion von Fossilien", und starten Sie das Spiel zur Fossilienrekonstruktion!
+      </LOC_STRING>
+      <LOC_STRING _locID="minigameHelp:minigameHelp_FossilBuilding">
+      <u>Steuerung:</u>
+      <br/>
+      Teile verschieben: Auf Teil klicken und ziehen.
+      <br/>
+      Teile drehen: &lt; und &gt; 
+      <br/>
+      Puzzle zurücksetzen: Strg + R
+      <br/>
+      ACHTUNG: Die Teile müssen sich innerhalb der Skelett-Umrisslinie befinden, damit sie fest platziert werden.      
+      <p/>
+      Willkommen im Fossilienrekonstruktionsraum des Forschungslabors für ausgestorbene Arten.  
+      <p/>
+      Sie müssen Ihre Fundstücke korrekt anordnen, um ein versteinertes Skelett vollständig zusammenzusetzen. Klicken Sie einfach auf die Teile, um sie zu verschieben. Befindet sich ein Fundstück an der richtigen Position, ändert sich die Farbe, wenn Sie die Maustaste loslassen. Als Hilfe ist bereits vorab ein Teil an der richtigen Stelle platziert.   
+      <p/>
+      Wenn Sie das Puzzle neu starten möchten, drücken Sie Strg + R. Sie können dann mit einem neuen Teil beginnen, alle bereits gelegten Teile werden dann aber wieder entfernt!
+      </LOC_STRING>
+      <LOC_STRING _locID="minigameHelp:minigameHelp_Cloning">
+      <u>Steuerung:</u>
+      <br/>
+      Spiel starten: LEERTASTE
+      <br/>
+      Spielen: Drücken Sie die richtige Pfeiltaste, oder klicken Sie Maustaste, wenn die Scannerzeile das Symbol passiert. 
+      <p/>
+      Bei Tieren mit höherer Stern-Bewertung kann das Symbol '?' auf den Symbolen angezeigt werden, die Sie drücken müssen, und diese verdecken. Merken Sie sich das blinkende Muster, und drücken Sie dann die korrekte Taste, wenn die Scannerzeile das Symbol passiert. Ansonsten erzielen Sie kein perfektes Ergebnis!
+      <p/>
+      Willkommen im Erschaffungsraum des Forschungslabors für ausgestorbene Arten! Wenn Sie die Fundstücke eines Tiers bereits gefunden und zusammengesetzt haben, können Sie das Tier hier im Labor erschaffen! Wenn Sie das Tier auswählen, das Sie erschaffen möchten, starten Sie das Musterabgleichspiel!  
+      <p/>
+      Mit der LEERTASTE oder durch Klicken auf den Computerbildschirm starten Sie den Vorgang. Sie müssen die Muster auf dem Computerbildschirm abgleichen, während diese von der Scannerzeile abgetastet werden. 
+      <p/>
+      Wenn Sie diese Aufgabe souverän meistern, erschaffen Sie ein Supertier dieser Tierart. Diese Tiere sind zufriedener, gesünder und stärker als andere Tiere, und Besucher beobachten sie am liebsten. Wenn Sie nur die Mindestanforderungen erfüllen, erhalten Sie ein normales Exemplar. Wenn Sie scheitern, bekommen Sie vielleicht etwas… ganz anderes. 
+      </LOC_STRING>
+      <LOC_STRING _locID="minigameHelp:minigameHelp_DiseaseResearch">
+      <u>Steuerung:</u>
+      <br/>
+      Fortbewegung: Pfeiltasten (UMSCHALT gedrückt halten, um zu rennen)
+      <br/>
+      Probe entnehmen: LEERTASTE
+      <p/>
+      Willkommen im Modus "Heilung von Krankheiten". Wenn ein Tier erkrankt, können Sie nach einem Heilmittel forschen.  
+      <p/>
+      In diesem Modus können Sie durch den Zoo laufen und mit der LEERTASTE Proben möglicher Komponenten entnehmen. Zuerst müssen Sie einem der kranken Tiere eine kleine Probe entnehmen.  
+      <p/>
+      Sobald Ihr Forschungsteam die Probe analysiert hat, erhalten Sie den ersten Forschungsbericht aus dem Labor. Diese Berichte sind sehr hilfreich bei der Suche nach den Komponenten des Heilmittels. Über die Schaltfläche "Neue Forschungsergebnisse einholen" erhalten Sie neue Informationen aus dem Labor. Durch jeden neuen Hinweis verringert sich jedoch die Belohnung, wenn Sie das Heilmittel schließlich finden. Und denken Sie daran: vielleicht sind die Objekte für das Heilmittel noch gar nicht in Ihrem Zoo!
+      <p/>
+      Sobald Sie das Heilmittel haben, wechseln Sie in den Zoobesuchermodus und heilen die Tiere auf dieselbe Art und Weise wie Sie diese waschen oder gesund pflegen. Sie können das Heilmittel auch den Tierpflegern geben, damit diese die Tiere heilen!
+      </LOC_STRING>
+      <LOC_STRING _locID="minigameHelp:minigameHelp_Tranquilize">
+      <u>Steuerung:</u>
+      <br/>
+      Fortbewegung: Pfeiltasten (UMSCHALT gedrückt halten, um zu rennen)
+      <br/>
+      Drehen/Schauen: Maus bewegen
+      <br/>
+      Betäubungsgewehr laden: 
+      <br/>
+      Nehmen Sie das tobende Tier ins Visier.
+      <br/>
+      Betäubungsgewehr abfeuern: LEERTASTE
+      <br/>
+      <u>HINWEIS:</u> Das Gewehr muss voll geladen sein, damit es eine Wirkung erzielt.
+      <p/>
+
+      Einer Ihrer Saurier hat wohl einen kleinen Tobsuchtsanfall, oder? Sie haben alles, was Sie für diesen Job brauchen! Um einen tobenden Dino zu bändigen, nehmen Sie ihn ins Visier, halten Sie das Ziel, und drücken Sie zum Abfeuern des Betäubungsmittels die LEERTASTE, sobald Ihr Gewehr voll aufgeladen ist. Da größere Saurier eine höhere Dosis benötigen, dauert das Laden länger als bei kleineren. Ruhig halten! Wenn Sie verwackeln, verliert das Betäubungsgewehr einen Teil der Ladung.  
+      <p/>
+      Wenn Sie einen tobenden Saurier betäubt haben, legt er sich nieder und macht ein kleines Nickerchen. Sie können ihn dann an abholen, in einen Transportkäfig sperren und ihn zurück in sein Gehege bringen. Wenn ein Tier nicht in Ihrer Zielanzeige auftaucht, handelt es sich auch nicht um einen tobenden Dino.   
+      </LOC_STRING>
+</ZT2Strings>

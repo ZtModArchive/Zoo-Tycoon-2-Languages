@@ -1,0 +1,172 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_aquarium:entry">Aquarien</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_aquarium:text">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities\objects\buildings\Aquarium_Jellyfish\Aquarium_Jellyfish_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities\objects\buildings\Aquarium_Octopus\Aquarium_Octopus_icon.dds" sx="0" sy="0" sw="64" sh="64"/>                  
+                  <img src="entities\objects\buildings\Aquarium_Seahorse\Aquarium_Seahorse_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities\objects\buildings\Aquarium_TropicalFish\Aquarium_TropicalFish_icon.dds" sx="0" sy="0" sw="64" sh="64"/>                  
+                  <br/>Aquarien sind hervorragend für die Präsentation kleinerer Meerestiere geeignet. Ein kleines, bewegliches Aquarium nimmt nicht so viel Platz wie ein richtiges Becken ein und kann überall im Zoo platziert werden. Außerdem sehen die Besucher gerne die Tiere ganz aus der Nähe.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_cannon:entry">Piratenkanone</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_cannon:text">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities/objects/scenery/Cannon/Cannon_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>Mit dieser antiken Kanone schaffen Sie eine authentische Piratenatmosphäre für Ihren Meeresbereich. In einem Becken "verschießt" die Kanone ein Strom aus Luftblasen, an Land ist sie eine schöne Dekoration.	
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_koi:entry">Koi</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_koi:text">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities\units\animals\Koi\Koi_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>Kois, auch Nishikigoi genannt, sind eine dekorative Zuchtform des gemeinen Karpfens, die speziell wegen ihrer leuchtenden Farben gezüchtet werden. Kois faszinieren die Besucher und eignen sich als Dekoration der Becken - einen Koi in ein Becken mit Haien oder anderen Meeresraubtieren zu setzen, ist natürlich keine gute Idee!
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_drinkingfountain_mm:entry">Nautilustrinkbrunnen</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_drinkingfountain_mm:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities\objects\scenery\drinkingfountain_mm\drinkingfountain_mm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>Mit dem Nautilustrinkbrunnen erzielen Sie zwar keinen direkten Gewinn, doch Ihre Besucher freuen sich über die Möglichkeit, einen erfrischenden Schluck aus dem Brunnen zu trinken.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_fountain_splash_mm:entry">Belugaplanschbrunnen</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_fountain_splash_mm:text">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities/objects/scenery/FountainSplash_mm/FountainSplash_mm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>Dieser Brunnen ist mit süßen Belugawalfiguren ausgestattet, die mit ihrem Wasserstrahl Besucher nass spritzen. Kinder spielen und planschen gerne in diesem Brunnen. Wenn Sie den Brunnen auf einem Weg platzieren, formt er einen Bogen.	
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_pirate_mast:entry">Piratenmast</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_pirate_mast:text">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities/objects/scenery/PirateMast/PirateMast_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>Dieser verwitterte Mast dient unter Wasser als Beckendekoration oder auf dem Grund als interessante Sehenswürdigkeit.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_pirate_ship:entry">Piratenschiff</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_pirate_ship:text">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities/objects/scenery/PirateShip/PirateShip_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>Dieses antike Schiffswrack eignet sich hervorragend für Dekorationszwecke sowohl unter Wasser als auch an Land.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_seahorseride:entry">Seepferdchenschaukelpferd</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_seahorseride:text">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities/objects/scenery/Playground_BouncyRide_Seahorse_mm/BouncyRide_Seahorse_mm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>Kinder lieben es, in ihrer Fantasie mit diesem überlebensgroßen Seepferd die Tiefen des Ozeans zu erkunden.	Um das Seepferdchenschaukelpferd zu erwerben, müssen Sie die Meerestiertycoon-Auszeichnung zweiten Grades gewinnen.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_treasure_chest:entry">Schatztruhe</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_treasure_chest:text">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities/objects/scenery/TreasureChest/TreasureChest_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>Diese alte, randvoll mit Piratengold gefüllte Schatztruhe ist eine tolle Dekoration sowohl an Land als auch für Ihre Becken.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_gazebo_mm:entry">Leuchtturmpavillon</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_gazebo_mm:text">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities/objects/scenery/gazebo_mm/gazebo_mm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>             
+               Besucher legen in der Leuchtturmspitze gerne eine Ruhepause ein. Dieses malerische Objekt bietet Ihren Besuchern die Möglichkeit, sich auszuruhen und verleiht dem Zoo eine maritime Atmosphäre.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_marinetrainingstatue:entry">Meerestrainingsstatue</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_marinetrainingstatue:text">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities\objects\scenery\Statue_Training_mm\Statue_Training_mm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>
+Besuchern mögen es, wenn Sie im Zoo viele Statuen sehen. Um die Meerestrainingsstatue freizugeben, müssen Sie beim Trainieren Ihrer Meerestiere hundert perfekte Trainingsergebnisse von 100 % erreichen. 
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>   
+
+</ZT2Strings>

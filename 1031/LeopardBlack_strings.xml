@@ -1,0 +1,128 @@
+<ZT2Strings>
+   <entityname>
+      <!--animal names-->
+      <LeopardBlack>Schwarzer Leopard</LeopardBlack>
+      <LeopardBlack_stt>Schwarzer Leopard</LeopardBlack_stt>
+      <LeopardBlack_lower>Schwarzer Leopard</LeopardBlack_lower>
+      <LeopardBlack_ltt>
+         <color r="255" g="248" b="178">
+            <b>Schwarzer Leopard</b>
+         </color>
+         <br/>
+         Klicken Sie hier, um einen schwarzen Leoparden auszuwählen und zu platzieren. Der schwarze Leopard (oder Panther) ist eine schwarze Abart des Leopards.
+      </LeopardBlack_ltt>
+      <!--gift names-->
+      <LeopardBlack_Gift>Schwarzer Leopard-Rucksack</LeopardBlack_Gift>
+      <LeopardBlack_Gift_stt>Schwarzer Leopard-Rucksack</LeopardBlack_Gift_stt>
+      <LeopardBlack_Gift_lower>der Schwarzer Leopard-Rucksack</LeopardBlack_Gift_lower>
+      <LeopardBlack_Gift_ltt>
+         <color r="255" g="248" b="178">
+            <b>Schwarzer Leopard-Rucksack</b>
+         </color>
+         <br/>Besucher, die sich gerne schwarze Leoparden anschauen, kaufen dieses Andenken.
+      </LeopardBlack_Gift_ltt>
+      <LeopardBlack_Gift_Adult>Schwarzer Leopard-Rucksack</LeopardBlack_Gift_Adult>
+      <LeopardBlack_Gift_Adult_stt>Schwarzer Leopard-Rucksack</LeopardBlack_Gift_Adult_stt>
+      <LeopardBlack_Gift_Adult_lower>der Schwarzer Leopard-Rucksack</LeopardBlack_Gift_Adult_lower>
+      <LeopardBlack_Gift_Adult_ltt>
+         <color r="255" g="248" b="178">
+            <b>Schwarzer Leopard-Rucksack</b>
+         </color>
+         <br/>Besucher, die sich gerne schwarze Leoparden anschauen, kaufen dieses Andenken.
+      </LeopardBlack_Gift_Adult_ltt>
+   </entityname>
+   <zoopedia_leopardblack version="2">
+      <entry>Leopard, Schwarzer</entry>
+      <text>
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/LeopardBlack/LeopardBlack_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						</cell>
+						<cell width="16">
+							<img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						</cell>
+						<cell width="16">
+							<img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						</cell>
+						<cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Artenschutzstatus:
+                     <br/>
+                        <color r="170" g="255" b="0">
+                     Gering gefährdet
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>             
+            
+               <cell width="128">
+                  <color r="255" g="255" b="255">Tropischer Regenwald<br/></color>
+                  <img src="ui/icon_biomes/icon_tropicalrainforest.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+               </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Afrika<br/></color>
+                  <img src="ui/icon_maplocations/Rainforest_Africa.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">Klasse: Säugetiere <i>(Mammalia)</i><br/>Ordnung: Raubtiere <i>(Carnivora)</i><br/>Familie: Katzen <i>(Felidae)</i><br/>Gattung: <i>Panthera</i><br/>Art:<i>pardus</i></color>
+               </cell>
+               <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/tropicalrainforest_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+               </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Spannende Fakten zum schwarzen Leoparden</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Der schwarze Leopard ist eine schwarze Abart des Leoparden.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Der schwarze Leopard hat in der Tat Flecken. Aus der Nähe betrachtet und bei geeignetem Lichteinfall sind diese gut zu sehen.</color>
+               </cell>
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">Um einen schwarzen Leoparden im Herausforderungs- oder Kampagnenmodus freizugeben, muss der Zoo einen Bekanntheitsgrad von 3 Sternen erreichen.</color>
+<p/>Genau wie ein Leopard hat auch ein schwarzer Leopard Flecken. Diese sind jedoch nicht so leicht zu erkennen.
+<p/>Leopard ist die Bezeichnung für ein großes Mitglied der Katzenfamilie, das in zahlreichen Lebensräumen vorkommt und das größte Verbreitungsgebiet - weite Teile Afrikas und Asiens - von allen in freier Wildbahn lebenden Katzenarten aufweist. Der Körper eines ausgewachsenen Leoparden hat eine Länge von 9o bis 190 cm, ohne den 1 m langen Schwanz gemessen. In der Regel besitzt das Fell eine blasse Grundfärbung und viele schwarze Flecken in der Form nicht vollständig geschlossener Kreise. Im Gegensatz zu den Rosetten des amerikanischen Jaguars haben diese Kreise keinen Fleck in der Mitte. Es gibt auch Exemplare mit einer dunkleren Grundfärbung. Einige Leoparden sind vollständig schwarz, wobei die anderen Jungen des Wurfes jedoch die typische Färbung aufweisen. Sie werden auch als schwarze Panther bezeichnet.
+<p/>Der schwarze Leopard ist ein geschickter Kletterer und stellt oft Affen auf Bäumen nach. Er jagt meist in der Nacht. Wenn seine bevorzugten Beutetiere knapp sind, frisst er auch Feldmäuse, Früchte, Stachelschweine, Paviane oder Gliederfüßler. Das Weibchen bringt ein bis sechs Junge pro Wurf auf die Welt.
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Mit freundlicher Genehmigung von <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2004.</color></u></a>(C) 1993-2003 Microsoft Corporation. Alle Rechte vorbehalten.
+         </cell>
+      </text>
+   </zoopedia_leopardblack>
+</ZT2Strings>

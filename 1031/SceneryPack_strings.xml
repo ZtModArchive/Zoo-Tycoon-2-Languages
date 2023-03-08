@@ -1,0 +1,190 @@
+<ZT2Strings>
+   <!--entity names-->
+   <entityname>
+      <!--scenery object names-->
+      <Statue_Gorilla_df>Gorillastatue</Statue_Gorilla_df>
+      <Statue_Gorilla_df_stt>Gorillastatue</Statue_Gorilla_df_stt>
+      <Statue_Gorilla_df_lower>die Gorillastatue</Statue_Gorilla_df_lower>
+      <Statue_Gorilla_df_ltt>
+         <color r="255" g="248" b="178">
+            <b>Gorillastatue</b>
+         </color>
+         <br/>
+         Klicken Sie hier, um die Gorillastatue auszuwählen und zu platzieren. Dies ist eine schöne Statue einer Gorillamutter mit ihrem Baby.
+      </Statue_Gorilla_df_ltt>
+      <Statue_Tiger_df>Tigerstatue</Statue_Tiger_df>
+      <Statue_Tiger_df_stt>Tigerstatue</Statue_Tiger_df_stt>
+      <Statue_Tiger_df_lower>die Tigerstatue</Statue_Tiger_df_lower>
+      <Statue_Tiger_df_ltt>
+         <color r="255" g="248" b="178">
+            <b>Tigerstatue</b>
+         </color>
+         <br/>
+         Klicken Sie hier, um die Tigerstatue auszuwählen und zu platzieren. Dies ist eine schöne Statue einer Tigermutter mit ihren Jungen.
+      </Statue_Tiger_df_ltt>
+      <Playground_TortoiseTrampoline_df>Schildkrötentrampolin</Playground_TortoiseTrampoline_df>
+      <Playground_TortoiseTrampoline_df_stt>Schildkrötentrampolin</Playground_TortoiseTrampoline_df_stt>
+      <Playground_TortoiseTrampoline_df_lower>das Schildkrötentrampolin</Playground_TortoiseTrampoline_df_lower>
+      <Playground_TortoiseTrampoline_df_ltt>
+         <color r="255" g="248" b="178">
+            <b>Schildkrötentrampolin</b>
+         </color>
+         <br/>
+         Klicken Sie hier, um ein Schildkrötentrampolin auszuwählen und zu platzieren. Kinder lieben es, darauf herumspringen.
+      </Playground_TortoiseTrampoline_df_ltt>
+      <Fountain_Small_df>Kleiner Brunnen</Fountain_Small_df>
+      <Fountain_Small_df_stt>Kleiner Brunnen</Fountain_Small_df_stt>
+      <Fountain_Small_df_lower>der kleine Brunnen</Fountain_Small_df_lower>
+      <Fountain_Small_df_ltt>
+         <color r="255" g="248" b="178">
+            <b>Kleiner Brunnen</b>
+         </color>
+         <br/>
+         Klicken Sie hier, um einen kleinen Brunnen auszuwählen und zu platzieren. Besucher sehen gerne Brunnen.
+      </Fountain_Small_df_ltt>
+      <Fountain_Splash_df>Planschbrunnen</Fountain_Splash_df>
+      <Fountain_Splash_df_stt>Planschbrunnen</Fountain_Splash_df_stt>
+      <Fountain_Splash_df_lower>der Planschbrunnen</Fountain_Splash_df_lower>
+      <Fountain_Splash_df_ltt>
+         <color r="255" g="248" b="178">
+            <b>Planschbrunnen</b>
+         </color>
+         <br/>
+         Klicken Sie hier, um einen Planschbrunnen auszuwählen und zu platzieren. Dies ist ein erfrischendes, nasses Vergnügen für Kinder.
+      </Fountain_Splash_df_ltt>
+      
+      <!--fence names-->      
+      <brickwindow_df>Ziegelmauer mit Fenstern</brickwindow_df>
+      <brickwindow_df_stt>Ziegelmauer mit Fenstern</brickwindow_df_stt>
+      <brickwindow_df_lower>die Ziegelmauer mit Fenstern</brickwindow_df_lower>
+      <brickwindow_df_ltt>
+         <color r="255" g="248" b="178">
+            <b>Ziegelmauer mit Fenstern</b>
+         </color>
+         <br/>
+         Klicken Sie hier, um Abschnitte der Ziegelmauer mit Fenstern auszuwählen und zu platzieren. Sie ist stabil und bietet einen guten Blick.
+      </brickwindow_df_ltt>
+      <stonewindow_df>Steinmauer mit Fenstern</stonewindow_df>
+      <stonewindow_df_stt>Steinmauer mit Fenstern</stonewindow_df_stt>
+      <stonewindow_df_lower>die Steinmauer mit Fenstern</stonewindow_df_lower>
+      <stonewindow_df_ltt>
+         <color r="255" g="248" b="178">
+            <b>Steinmauer mit Fenstern</b>
+         </color>
+         <br/>
+         Klicken Sie hier, um Abschnitte der Steinmauer mit Fenstern auszuwählen und zu platzieren. Sie ist stabil und bietet einen guten Blick.
+      </stonewindow_df_ltt>
+      <junglewindow>Dschungelzaun mit Fenstern</junglewindow>
+      <junglewindow_stt>Dschungelzaun mit Fenstern</junglewindow_stt>
+      <junglewindow_lower>der Dschungelzaun mit Fenstern</junglewindow_lower>
+      <junglewindow_ltt>
+         <color r="255" g="248" b="178">
+            <b>Dschungelzaun mit Fenstern</b>
+         </color>
+         <br/>
+         Klicken Sie hier, um Abschnitte des Dschungelzauns mit Fenstern auszuwählen und zu platzieren. Er ist stabil und bietet einen guten Blick.
+      </junglewindow_ltt>            
+   </entityname>
+   
+   <!--Zoopedia entries-->
+   <zoopedia_brickwindow>
+	      <entry>Ziegelmauer mit Fenstern</entry>
+	      <text>
+	         <cell pady="0" width="1000"/>
+	         <p/>
+	         <cell width="260"/>
+	         <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+	            <cell width="600" padx="20" pady="20">
+	               <color r="255" g="255" b="255">
+	                  <img src="entities\objects\fences\brickwindow_df\brickwindow_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+	                  <p/>Die Ziegelmauer mit Fenstern bietet Besuchern einen hervorragenden Blick auf die Tiere und Sie können sicher sein, dass die Tiere nicht entlaufen.
+	                  <p/>Verwenden Sie die Ziegelmauer mit Fenstern mit der normalen Ziegelmauer für ein attraktives und beständiges Gehege.
+	               </color>
+	            </cell>
+	         </cell>
+	      </text>
+   </zoopedia_brickwindow>
+   <zoopedia_stonewindow>
+		      <entry>Steinmauer mit Fenstern</entry>
+		      <text>
+		         <cell pady="0" width="1000"/>
+		         <p/>
+		         <cell width="260"/>
+		         <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+		            <cell width="600" padx="20" pady="20">
+		               <color r="255" g="255" b="255">
+		                  <img src="entities\objects\fences\stonewindow_df\stonewindow_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+		                  <p/>Die Steinmauer mit Fenstern bietet Besuchern einen hervorragenden Blick auf die Tiere und Sie können sicher sein, dass die Tiere nicht entlaufen.
+		                  <p/>Verwenden Sie die Steinmauer mit Fenstern mit der normalen Steinmauer für ein attraktives und beständiges Gehege.
+		               </color>
+		            </cell>
+		         </cell>
+		      </text>
+   </zoopedia_stonewindow>
+   <zoopedia_junglewindow>
+		      <entry>Dschungelzaun mit Fenstern</entry>
+		      <text>
+		         <cell pady="0" width="1000"/>
+		         <p/>
+		         <cell width="260"/>
+		         <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+		            <cell width="600" padx="20" pady="20">
+		               <color r="255" g="255" b="255">
+		                  <img src="entities\objects\fences\junglewindow_jt\junglewindow_jt_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+		                  <p/>Der Dschungelzaun mit Fenstern bietet Besuchern einen hervorragenden Blick auf die Tiere und Sie können sicher sein, dass die Tiere nicht entlaufen.
+		                  <p/>Zäune mit einem Dschungelthema eignen sich für Gehege mit Tieren des Dschungels und des Regenwalds, beispielsweise Tiger, Gorillas und Schimpansen. Themenobjekte sind bei den Besuchern beliebt.
+		               </color>
+		            </cell>
+		         </cell>
+		      </text>
+   </zoopedia_junglewindow> 
+   <zoopedia_tortoisetrampoline>
+      <entry>Trampolin, Schildkröten-</entry>
+      <text>
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+               <img src="entities/objects/scenery/Playground_TortoiseTrampoline_df/Playground_TortoiseTrampoline_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>               
+                  <p/>
+                  <p/>Kinder lieben es, auf den Rücken der bunten, aufblasbaren Schildkröte zu klettern und auf diesem Trampolin hoch in die Luft zu springen.
+               </color>
+            </cell>
+         </cell>
+      </text>
+   </zoopedia_tortoisetrampoline>
+   <zoopedia_fountainsmall>
+      <entry>Brunnen, Kleiner</entry>
+      <text>
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+               <img src="entities\objects\scenery\Fountain_Small_df\Fountain_Small_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>Der kleine Brunnen eignet sich gut zur Verschönerung des Zoos und nimmt nicht viel Platz ein. Die Besucher sehen gerne Brunnen im Zoo.
+               </color>
+            </cell>
+         </cell>
+      </text>
+   </zoopedia_fountainsmall>
+   <zoopedia_fountainsplash>
+      <entry>Brunnen, Plansch-</entry>
+      <text>
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities\objects\scenery\Fountain_Splash_df\Fountain_Splash_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>Kinder können in den Planschbrunnen hineinklettern und im kühlen, erfrischenden Wasser spielen.
+               </color>
+            </cell>
+         </cell>
+      </text>
+   </zoopedia_fountainsplash>   
+</ZT2Strings>

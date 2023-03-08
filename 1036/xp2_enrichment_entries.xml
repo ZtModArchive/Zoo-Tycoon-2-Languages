@@ -1,0 +1,75 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_bubbleemitter:entry">Palourde à bulles</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_bubbleemitter:text">
+		<cell pady="0" width="1000"/>
+		<p/>
+		<cell width="260"/>
+		<cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+		 <cell width="600" padx="20" pady="20">
+		  <color r="255" g="255" b="255">
+			<img src="entities/objects/enrichment/BubbleEmitter/BubbleEmitter_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+			<p/>Les animaux marins, tels que la raie manta, aiment traverser la colonne de bulles créée par cette fausse palourde géante.
+		  </color>
+		 </cell>
+		</cell>
+	  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_jarwithfish:entry">Bocal avec poisson</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_jarwithfish:text">
+		<cell pady="0" width="1000"/>
+		<p/>
+		<cell width="260"/>
+		<cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+		 <cell width="600" padx="20" pady="20">
+		  <color r="255" g="255" b="255">
+			<img src="entities/objects/enrichment/JarWithFish/JarWithFish_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+			<p/>Les loutres de mer adorent se démener pour libérer leur repas de poisson renfermé dans le bocal ; et les visiteurs adorent les regarder faire !
+		  </color>
+		 </cell>
+		</cell>
+	  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_livetunayellowfin:entry">Thon à nageoires jaunes vivant, nourriture</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_livetunayellowfin:text">
+		<cell pady="0" width="1000"/>
+		<p/>
+		<cell width="260"/>
+		<cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+		 <cell width="600" padx="20" pady="20">
+		  <color r="255" g="255" b="255">
+			<img src="entities/units/animals/TunaYellowfin/TunaYellowfin_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+			<p/>Les prédateurs marins apprécient d'autant plus leur nourriture qu'ils doivent la chasser ! Nombre de zoos ont ainsi introduit la nourriture vivante dans le cadre de leurs programmes d'amélioration du bien-être des animaux.
+			<p/>Pour débloquer le thon aux nageoires jaunes vivant, relevez deux défis Animaux marins en mode Défi.
+		  </color>
+		 </cell>
+		</cell>
+	  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_livecodarctic:entry">Morue polaire vivante, nourriture</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_livecodarctic:text">
+		<cell pady="0" width="1000"/>
+		<p/>
+		<cell width="260"/>
+		<cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+		 <cell width="600" padx="20" pady="20">
+		  <color r="255" g="255" b="255">
+			<img src="entities/units/animals/CodArctic/CodArctic_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+			<p/>Les prédateurs marins apprécient d'autant plus leur nourriture qu'ils doivent la chasser ! Nombre de zoos ont ainsi introduit la nourriture vivante dans le cadre de leurs programmes d'amélioration du bien-être des animaux.
+		  </color>
+		 </cell>
+		</cell>
+	  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_sealpreydummy:entry">Faux phoque à chasser</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_sealpreydummy:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>
+                  <img src="entities\objects\enrichment\Seal_Prey_Dummy\SealPreyDummy_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>Cet objet de bien-être flottant est prévu pour les gros prédateurs marins tels que le requin blanc ou l'orque. Ces animaux adorent mettre des coups de tête dans ce faux phoque et le mordre.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+
+</ZT2Strings>

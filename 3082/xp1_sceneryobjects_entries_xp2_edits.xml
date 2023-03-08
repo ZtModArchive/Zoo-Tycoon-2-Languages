@@ -1,0 +1,22 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_redwoodtunnel" version="6"/>
+      <LOC_STRING _locID="zoopedia_redwoodtunnel:entry" version="6">Túnel de secuoya</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_redwoodtunnel:text" version="6">
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\objects\scenery\zoopedia_redwoodtunnel\RedwoodTunnel_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+El túnel de secuoya permite a los vehículos Jeep® atravesar una fisura natural en una secuoya viva gigante.
+      <p/>
+El túnel de secuoya es un objeto de recorrido. Si un visitante ve un objeto de ese tipo mientras realiza un recorrido, aumentará su donación y el nivel de recorrido.
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+
+ 
+</ZT2Strings>

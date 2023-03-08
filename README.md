@@ -1,39 +1,41 @@
 # Zoo-Tycoon-2-Languages
+
 Archives of all official localised versions of the series
 
-## LOCALE IDs
-#### 1028 - Chinese (Traditional)
-#### 1031 - German
-#### 1033 - English
-#### 1036 - French
-#### 1040 - Italian
-#### 1041 - Japanese
-#### 1042 - Korean
-#### 1043 - Dutch
-#### 1045 - Polish
-#### 1046 - Portuguese (Brazil)
-#### 1053 - Swedish
-#### 2070 - Portuguese (Portugal)
-#### 3082 - Spanish
+## Coverage
 
-## Up to Base Game only:
-#### 1028
-#### 1040
-#### 1041
+### Expansions
 
-## Up to Expansions:
-#### 1031 - ES, AA, MM, EA, UC
-#### 1033 - ES, AA, MM, EA, UC
-#### 1036 - ES, AA, MM, EA, UC
-#### 1042 - ES, AA, MM
-#### 1043 - ES, AA, MM, EA, UC
-#### 1045 - ES, AA, MM, EA
-#### 1046 - ES, AA, MM, EA
-#### 1053 - ES, AA, MM, EA, UC
-#### 2070 - ES, AA, MM, EA?
-#### 3082 - ES, AA, MM, EA, UC
+| Language              | LCID | ZT2 | ES | AA | MM | EA |
+|-----------------------|------|-----|----|----|----|----|
+| Chinese (Traditional) | 1028 |     |    |    |    |    |
+| German                | 1031 | x   | x  | x  | x  | x  |
+| English               | 1033 |     |    |    |    |    |
+| French                | 1036 | x   | x  | x  | x  | x  |
+| Italian               | 1040 | x   |    |    |    |    |
+| Japanese              | 1041 | x   |    |    |    |    |
+| Korean                | 1042 |     |    |    |    |    |
+| Dutch                 | 1043 | x   | x  | x  | x  | x  |
+| Polish                | 1045 |     |    |    |    |    |
+| Portuguese (Brazil)   | 1046 |     |    |    |    |    |
+| Swedish               | 1053 |     |    |    |    |    |
+| Portuguese (Portugal) | 2070 |     |    |    |    |    |
+| Spanish               | 3082 | x   | x  | x  | x  | x  |
 
-### MISSING LOCALES:
-#### 1045
-#### 1053
-#### 2070
+### DLC
+
+| Language              | LCID | BL&SPD | HP | MO&TTP | CP1 | SP | Asian Elephant | SBP | GFP | Addax | DDP |
+|-----------------------|------|--------|----|--------|-----|----|----------------|-----|-----|-------|-----|
+| Chinese (Traditional) | 1028 |        |    |        |     |    |                |     |     |       |     |
+| German                | 1031 |        |    |        |     |    |                |     |     |       |     |
+| English               | 1033 |        |    |        |     |    |                |     |     |       |     |
+| French                | 1036 |        |    |        |     |    |                |     |     |       |     |
+| Italian               | 1040 |        |    |        |     |    |                |     |     |       |     |
+| Japanese              | 1041 |        |    |        |     |    |                |     |     |       |     |
+| Korean                | 1042 |        |    |        |     |    |                |     |     |       |     |
+| Dutch                 | 1043 | x      | x  | x      | x   | x  | x              | x   | x   | x     | x   |
+| Polish                | 1045 |        |    |        |     |    |                |     |     |       |     |
+| Portuguese (Brazil)   | 1046 |        |    |        |     |    |                |     |     |       |     |
+| Swedish               | 1053 |        |    |        |     |    |                |     |     |       |     |
+| Portuguese (Portugal) | 2070 |        |    |        |     |    |                |     |     |       |     |
+| Spanish               | 3082 | x      | x  | x      | x   | x  | x              | x   | x   | x     | x   |

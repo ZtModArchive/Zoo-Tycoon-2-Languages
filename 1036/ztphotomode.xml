@@ -1,0 +1,59 @@
+<ZT2Strings>
+      <LOC_STRING _locID="ZTPhotoMode" version="0"/>
+      <LOC_STRING _locID="ZTPhotoMode:NumPicsFormat" version="0"  >%02d / %02d</LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:photo_challenge_mode_label" version="0"  >
+         <font name="arial" size="16" image="ui\font\color_mainmenu.tga" shadowx="-1" shadowy="1" shadowa="64">
+            <color r="255" g="248" b="178">
+               <b>Défi photo</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:CameraNotFullFormat" version="0"  >
+         <font name="arial" size="12" shadowx="1" shadowy="1" shadowa="64">
+            <color r="0" g="255" b="0">
+               <b>%text%</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:CameraFullFormat" version="0"  >
+         <font name="arial" size="12" shadowx="1" shadowy="1" shadowa="64">
+            <color r="255" g="8" b="8">
+               <b>%text%</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:go_to_cursor_mode" version="0"  >
+         <font name="arial" size="12" shadowx="0" shadowy="0" shadowa="60">
+            <color r="255" g="255" b="255" a="100">
+               <b>Un clic droit active ou désactive le curseur de la souris.</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:go_to_photo_mode" version="0"  >
+         <font name="arial" size="12" shadowx="0" shadowy="0" shadowa="60">
+            <color r="255" g="255" b="255" a="100">
+               <b>Cliquez avec le bouton droit pour passer en mode photo.</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:ScoreLabel" version="0"  >Score :</LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:Challenge2stt" version="0"  >Prenez la photo d'un éléphant en train de brouter.</LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:Challenge3stt" version="0"  >Prenez la photo d'un éléphant en train de marcher.</LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:Challenge2Completestt" version="0"  >Défi relevé (prendre la photo d'un éléphant en train de brouter).</LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:Challenge3Completestt" version="0"  >Défi relevé (prendre la photo d'un éléphant en train de marcher).</LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:challengeset_tiger_difficulty1" version="0"  >Défi Tigre (niveau de difficulté 1)</LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:challenge_tiger_eating_stt" version="0"  >Prenez la photo d'un tigre en train de manger.</LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:challenge_tiger_eating_cstt" version="0"  >Défi relevé (prendre la photo d'un tigre en train de manger).</LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:challenge_tiger_walking_stt" version="0"  >Prenez la photo d'un tigre en train de marcher.</LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:challenge_tiger_walking_cstt" version="0"  >Défi relevé (prendre la photo d'un tigre en train de marcher).</LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:challenge_hungry_tiger_stt" version="0"  >Prenez la photo d'un tigre affamé.</LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:challenge_hungry_tiger_cstt" version="0"  >Défi relevé (prendre la photo d'un tigre affamé).</LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:challenge_mother_and_young_tiger_stt" version="0"  >Prenez la photo d'une tigresse avec son petit.</LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:challenge_mother_and_young_tiger_cstt" version="0"  >Défi relevé (prendre la photo d'une tigresse avec son petit).</LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:challenge_tiger_and_gorilla_stt" version="0"  >Prenez la photo d'un tigre à côté d'un gorille.</LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:challenge_tiger_and_gorilla_cstt" version="0"  >Défi relevé (prendre la photo d'un tigre à côté d'un gorille).</LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:UndoneChallengeltt" version="0"  >Pour remporter le défi photo, vous devez prendre une photo qui complète la liste de clichés demandés.</LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:SubmitPhotosstt" version="0"  >Participez au défi photo.</LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:default_album_name" version="0"  >Mon album photos</LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:default_photo_caption" version="0"  >Sujet mystère</LOC_STRING>
+</ZT2Strings>

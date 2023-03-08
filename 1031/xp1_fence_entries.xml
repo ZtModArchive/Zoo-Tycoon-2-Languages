@@ -1,0 +1,72 @@
+﻿<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_endangeredanimalsfence:entry">"Bedrohte Arten"-Zaun</LOC_STRING> <LOC_STRING _locID="zoopedia_endangeredanimalsfence:text">
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255"><img src="entities\objects\fences\mosaic_end\mosaic_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+Zäune des Themas "Bedrohte Arten" eignen sich besonders für Gehege für bedrohte Tierarten, z. B. das Przewalski-Pferd oder die Säbelantilope. Mit "Bedrohte Arten"-Zäunen können außerdem attraktive öffentliche Themenbereiche in der Nähe der Tiergehege gestaltet werden.</color>
+    </cell>
+   </cell>
+  </LOC_STRING> <LOC_STRING _locID="zoopedia_conservationfences:entry">Artenschutzzaun</LOC_STRING> <LOC_STRING _locID="zoopedia_conservationfences:text">
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255"><img src="entities\objects\fences\conservation_df\conservation_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+Artenschutzzäune werden verwendet, um besonders geschützte <a href="zoopedia:zoopedia_conservationarea:entry"><u><color r="255" g="231" b="135">Artenschutzbereiche</color></u></a> einzuschließen. Artenschutzzäune können nicht verkauft oder wiederverwertet werden.</color>
+    </cell>
+   </cell>
+  </LOC_STRING> <LOC_STRING _locID="zoopedia_mosaicwindow:entry">"Bedrohte Arten"-Fensterzaun</LOC_STRING> <LOC_STRING _locID="zoopedia_mosaicwindow:text">
+      <cell pady="0" width="1000"/>
+      <p/>
+      <cell width="260"/>
+      <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+         <cell width="600" padx="20" pady="20">
+            <color r="255" g="255" b="255"><img src="entities\objects\fences\mosaicwindow_end\mosaicwindow_end_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+            <p/>
+Der "Bedrohte Arten"-Fensterzaun verbindet die Sicherheit eines hohen Zauns mit einer ungestörten Aussicht für Besucher. Zäune des Themas "Bedrohte Arten" eignen sich besonders für Gehege für bedrohte Tierarten, z. B. das Przewalski-Pferd oder die Säbelantilope.</color>
+         </cell>
+      </cell>
+   </LOC_STRING> <LOC_STRING _locID="zoopedia_vehiclegate:entry">Tor für Fahrzeuge</LOC_STRING> <LOC_STRING _locID="zoopedia_vehiclegate:text">
+      <cell pady="0" width="1000"/>
+      <p/>
+      <cell width="260"/>
+      <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+         <cell width="600" padx="20" pady="20">
+            <color r="255" g="255" b="255"><img src="entities\objects\fences\vehiclegate_end\vehiclegate_end_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+            <p/>
+Durch Tore für Fahrzeuge gelangen Bodenfahrzeuge in Tiergehege und wieder heraus. Damit keine Tiere entkommen können, schließt sich das mechanische Tor automatisch, wenn das Fahrzeug durchgefahren ist.</color>
+         </cell>
+      </cell>
+   </LOC_STRING> <LOC_STRING _locID="zoopedia_vehiclegate_reward:entry">Tor für Fahrzeuge, Verziertes</LOC_STRING> <LOC_STRING _locID="zoopedia_vehiclegate_reward:text">
+      <cell pady="0" width="1000"/>
+      <p/>
+      <cell width="260"/>
+      <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+         <cell width="600" padx="20" pady="20">
+            <color r="255" g="255" b="255"><img src="entities\objects\fences\vehiclegate_reward_end\vehiclegate_end_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+            <p/>
+Durch Tore für Fahrzeuge gelangen Bodenfahrzeuge in Tiergehege und wieder heraus. Damit keine Tiere entkommen können, schließt sich das mechanische Tor automatisch, wenn das Fahrzeug durchgefahren ist.
+            <p/>
+Um das verzierte Tor für Fahrzeuge freizugeben, müssen Sie die Transport-Kampagne abschließen.</color>
+         </cell>
+      </cell>
+   </LOC_STRING> <LOC_STRING _locID="zoopedia_wroughtiron:entry">Schmiedeeisenzaun</LOC_STRING> <LOC_STRING _locID="zoopedia_wroughtiron:text">
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255"><img src="entities\objects\fences\wroughtiron_df\wroughtiron_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+Schmiedeeisen ist ein stabiles Material, das in anmutige, dekorative Formen gebracht werden kann. Der Schmiedeeisenzaun ist ebenso attraktiv wie effektiv und eignet sich für starke Tiere, die weniger stabile Zäune durchbrechen können. Außerdem können Ihre Besucher durch diesen Zaun einen freien Blick auf die Tiere genießen.</color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+ 
+</ZT2Strings>

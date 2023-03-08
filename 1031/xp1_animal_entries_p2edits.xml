@@ -1,0 +1,136 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_antelopesablegiant" version="2"/>
+      <LOC_STRING _locID="zoopedia_antelopesablegiant:entry" version="2">Riesen-Rappenantilope</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_antelopesablegiant:text" version="2">
+  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">   
+
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/AntelopeSableGiant/AntelopeSableGiant_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/AntelopeSableGiant/AntelopeSableGiant_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>						 
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/critical.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Gefährdungsstatus:
+                     <br/>
+                        <color r="255" g="0" b="0">
+                     Stark bedroht
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>   
+   
+    <cell width="128">
+     <color r="255" g="255" b="255">Savanne<br/></color>
+     <img src="ui/icon_biomes/icon_savannah.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+    </cell>
+    <cell width="128">
+     <color r="255" g="255" b="255">Südliches Afrika<br/></color>
+     <img src="ui/icon_maplocations/Savannah_Africa_South_GiantSable.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+    </cell>
+    <br/>
+    <cell width="284" pady="10">
+     <color r="255" g="255" b="255">
+      Klasse: Säugetiere <i>(Mammalia)</i><br/>
+      Ordnung: Paarhufer <i>(Artiodactyla)</i><br/>
+      Familie: Hornträger <i>(Bovidae)</i><br/>
+      Gattung: <i>Hippotragus</i><br/>
+      Art: <i>Niger</i><br/>
+      Unterart: <i>Variani</i>
+     </color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="UI/zoopedia/biome/savannah_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Spannende Fakten zur Riesen-Rappenantilope</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Die gewaltigen gebogenen Hörner der Riesen-Rappenantilope können bis zu 1,5 m lang werden.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>        
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Wenn eine Riesen-Rappenantilope ein Horn verliert, wächst es nicht nach.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Die Riesen-Rappenantilope kann Geschwindigkeiten von bis zu 55 km/h erreichen und diese über eine gewisse Entfernung halten.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Das Überleben der in Angola heimischen Riesen-Rappenantilope wurde durch den 27 Jahre währenden Bürgerkrieg in diesem Land bedroht.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Weltweit haben lediglich 1.000 Riesen-Rappenantilopen überlebt, die alle in Zentralangola im Luando-Reservat und im Kangandala-Nationalpark heimisch sind.</color>
+    </cell>    
+    <br/> 
+   </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178">
+    Um die Riesen-Rappenantilope im Herausforderungs- oder Kampagnenmodus freizugeben, muss der Zoo einen Bekanntheitsgrad von 2 Sternen erreichen.
+   </color>
+   <p/>
+Antilope ist der gebräuchliche Name für eine aus vielen Arten bestehende Gruppe von Säugetieren mit hohlen Hörnern, die zur gleichen Familie wie Rinder, Ziegen und Schafe gehören. In Afrika und Asien leben ungefähr 100 Arten von Antilopen, darunter einige der schnellsten und elegantesten und leider auch der bedrohtesten Huftiere.
+   <p/>
+Zu den sieben Arten der Pferdeböcke (Unterfamilie Hippotraginae) zählt man die Rappenantilope, die Pferdeantilope, die Oryxantilope und die Mendesantilope - alles groß gewachsene Tiere mit pferdeähnlichem Bau. Sie leben in Afrika und auf der arabischen Halbinsel und bevölkern die unterschiedlichsten Lebensräume, von Waldland bis hin zu Wüsten. Trotz der Bezeichnung Pferdeböcke ist eine Verwechslung mit Pferden aufgrund der außergewöhnlich langen Hörner ausgeschlossen. Die Hörner dieser Antilopen sind bei Trophäenjägern sehr begehrt. Daher sind einige dieser Tiere unmittelbar vom Aussterben bedroht.
+   <p/>
+Im Gegensatz zu Hirschen, die ihr verzweigtes Geweih jährlich abwerfen, besitzen Antilopen spitz zulaufende Hörner, die sie ein Leben lang behalten. Die Hörner der Antilope können bis 1,5 m lang werden. Sie sehen gefährlich aus, ihr Nutzen als Waffe ist jedoch begrenzt. Es sind Fälle bekannt, in denen Antilopen selbst große Fressfeinde wie Löwen aufgespießt und getötet haben. In der Regel neigen sie jedoch viel eher dazu, vor einer Bedrohung zu flüchten.
+   <p/>
+Antilopen sind Wiederkäuer, die teilweise verdaute Nahrung nochmals hervorwürgen und erneut kauen. Wie andere Wiederkäuer (z. B. Rinder und Schafe) verfügen Antilopen über gut entwickelte Backenzähne oder Mahlzähne, mit denen sie das Futter zu einer breiigen Masse zerkleinern. Sie haben keine oberen Schneidezähne. Um Grashalme oder Blätter herauszureißen, pressen sie daher die unteren Schneidezähne beim Zubeißen gegen eine Hornplatte im Oberkiefer.
+   <p/>
+Ob beim Fressen oder beim Ausruhen, Antilopen verlassen sich auf ihre sensiblen Wahrnehmungsorgane, um Gefahren auszuweichen. Die Augen sind seitwärts gerichtet, die Pupillen horizontal verlängert. So haben sie Gefahren von vorne und von hinten im Blickfeld. Gehör und Geruchssinn sind ebenfalls stark ausgeprägt - beides wertvolle Werkzeuge für ein Leben in der offenen Landschaft, in der nach Einbruch der Dunkelheit viele Raubtiere auf die Pirsch gehen.
+   <p/>
+Um zu überleben, verlassen sich die Antilopen auf ihre Fähigkeit, Gefahren zu erkennen und mit hoher Geschwindigkeit zu flüchten. Dank dieser Verteidigungsstrategie können Antilopen den meisten natürlichen Feinden entkommen. Es bietet jedoch relativ wenig Schutz vor dem Menschen, der am Fell, an den Hörnern oder am Fleisch der Antilope interessiert ist - und noch weniger vor Veränderungen des Lebensraums.
+  </cell>
+  <p/>
+  <cell width="260"/>
+  <cell width="620">
+   Mit freundlicher Genehmigung von <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2005.</color></u></a>(C) 1993-2004 Microsoft Corporation. Alle Rechte vorbehalten.
+  </cell>
+ </LOC_STRING>
+
+</ZT2Strings>

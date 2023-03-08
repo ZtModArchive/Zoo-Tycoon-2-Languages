@@ -1,0 +1,187 @@
+﻿<ZT2Strings>
+   <entityname>
+      <!--animal names-->
+      <MuskOx>Muskusos</MuskOx>
+      <MuskOx_stt>Muskusos</MuskOx_stt>
+      <MuskOx_lower>muskusos</MuskOx_lower>
+      <MuskOx_ltt>
+         <color r="255" g="248" b="178">
+            <b>Muskusos</b>
+         </color>
+         <br/>
+         Klik op de muskusos, een langharig poolrund, om deze te selecteren en vervolgens te plaatsen.
+      </MuskOx_ltt>
+      <!--gift names-->
+      <MuskOx_Gift>Muskusos-petje</MuskOx_Gift>
+      <MuskOx_Gift_stt>Muskusos-petje</MuskOx_Gift_stt>
+      <MuskOx_Gift_lower>muskusos-petje</MuskOx_Gift_lower>
+      <MuskOx_Gift_ltt>
+         <color r="255" g="248" b="178">
+            <b>Muskusos-petje</b>
+         </color>
+         <br/>Bezoekers die graag naar de muskusos kijken, zullen dit souvenir kopen.
+      </MuskOx_Gift_ltt>
+      <MuskOx_Gift_Adult>Muskusos-petje</MuskOx_Gift_Adult>
+      <MuskOx_Gift_Adult_stt>Muskusos-petje</MuskOx_Gift_Adult_stt>
+      <MuskOx_Gift_Adult_lower>muskusos-petje</MuskOx_Gift_Adult_lower>
+      <MuskOx_Gift_Adult_ltt>
+         <color r="255" g="248" b="178">
+            <b>Muskusos-petje</b>
+         </color>
+         <br/>Bezoekers die graag naar de muskusos kijken, zullen dit souvenir kopen.
+      </MuskOx_Gift_Adult_ltt>
+      <!--foliage names-->
+      <DiamondLeafWillow_Tundra>Groene wilg</DiamondLeafWillow_Tundra>
+      <DiamondLeafWillow_Tundra_stt>Groene wilg</DiamondLeafWillow_Tundra_stt>
+      <DiamondLeafWillow_Tundra_lower>groene wilg</DiamondLeafWillow_Tundra_lower>
+      <DiamondLeafWillow_Tundra_ltt>
+         <color r="255" g="248" b="178">
+            <b>Groene wilg</b>
+         </color>
+         <br/>Klik op de groene wilg, de favoriete voedingsbron van de muskusos, om deze te selecteren en vervolgens te plaatsen.
+      </DiamondLeafWillow_Tundra_ltt>
+      <!--guest thoughts-->
+      <AnimalDefend>%2s verdedigt zich tegen %1s!</AnimalDefend>
+      <!--animal actions-->
+      <DefendingAt>Verdedigen tegen %s</DefendingAt>
+   </entityname>
+   <zoopedia_muskox version="2">
+      <entry>Muskusos</entry>
+      <text>
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/MuskOx/MuskOx_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						</cell>
+						<cell width="16">
+							<img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						</cell>
+						<cell width="16">
+							<img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						</cell>
+						<cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Status in het wild:
+                     <br/>
+                        <color r="170" g="255" b="0">
+                     enigszins bedreigd
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>   
+            
+               <cell width="128">
+                  <color r="255" g="255" b="255">Toendra<br/></color>
+                  <img src="ui/icon_biomes/icon_tundra.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+               </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Noordpool<br/></color>
+                  <img src="ui/icon_maplocations/Tundra_Arctic.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">Klasse: zoogdieren <i>(Mammalia)</i><br/>Orde: evenhoevigen <i>(Artiodactyla)</i><br/>Familie: runderen <i>(Bovidae)</i><br/>Geslacht: <i>Ovibos</i><br/>Soort: <i>moschatus</i></color>
+               </cell>
+               <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/tundra_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+               </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Interessante feiten over de muskusos</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Onder de ogen van muskusosstieren bevindt zich een klier die een muskusachtige geur afgeeft bij het schurken tegen takken van struiken of bomen.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">De muskusos leeft al sinds de laatste ijstijd op aarde en stamt dus nog uit de tijd van de langharige mammoets die al duizenden jaren zijn uitgestorven.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">De ondervacht van de muskusos, qiviut-wol genoemd, is zo zacht als kasjmier en wordt alom beschouwd als de warmste vezel ter wereld.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">De Eskimo's noemden de muskusos 'oomingmak', wat 'hij met de baard' betekent.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Muskusossen leven in groepen van 10 tot 20 en scharen zich in een cirkel om hun jongen heen als zij gevaar ruiken.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">De muskusos kan met zijn hoeven door ijs breken, zodat er altijd vers water beschikbaar is.</color>
+               </cell>
+            </cell>
+         </cell>
+         <cell width="340">
+         <color r="255" g="248" b="178">Om de muskusos in een campagne- of uitdagingsspel te ontgrendelen, moet je dierentuin een bekendheidsscore van 1/2 ster hebben.</color>
+         <p/>De muskusos is een donkerbruine, langharige herkauwer, die familie is van de geit en het schaap. De muskusos komt oorspronkelijk uit Canada en Groenland, en is ook uitgezet in Alaska en andere noordelijke gebieden. Een volwassen stier is gemiddeld 1,9 tot 2,3 meter lang, met een schouderhoogte van 1,2 tot 1,5 meter. Het dier heeft omlaag buigende hoorns met scherpe, omhoog stekende punten. De vrouwtjes zijn heel wat kleiner. Zowel het mannetje als het vrouwtje heeft een dichte ondervacht en een bovenvacht tot op de enkels, waarmee ze tegen de kou worden beschermd. Het mannetje geeft in de bronsttijd een sterke muskusgeur af, waar het dier dan ook zijn naam aan te danken heeft.
+         <p/>De muskusos verplaatst zich in kuddes van 10 tot 100 dieren. Het aantal muskusossen is aanzienlijk gedaald en ook het verspreidingsgebied is behoorlijk ingedamd door de mens, die op het dier jaagt om zijn vacht en vlees. Er zijn echter projecten ter behoud van deze diersoort opgezet en de muskusos is inmiddels in Canada erkend als bedreigde diersoort. De volwassen dieren van een kudde vormen bij gevaar een naar buiten toe gerichte cirkel om de jongen heen.
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Inhoud beschikbaar gesteld door <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2004.</color></u></a>(C) 1993-2003 Microsoft Corporation. Alle rechten voorbehouden.
+         </cell>
+      </text>
+   </zoopedia_muskox>
+   <zoopedia_diamondleafwillow>
+      <entry>Plant, groene wilg</entry>
+      <text>
+         <color r="255" g="255" b="255">
+            <cell pady="0" width="1000"/>
+            <p/>
+            <cell width="260"/>
+            <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+               <cell width="150">
+                  <img src="entities/objects/foliage/DiamondLeafWillow/DiamondLeafWillow_Tundra_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128"/>
+               </cell>
+               <cell pady="15" width="400">
+               <p/>Wilg is de algemene naam van een kleine familie houtachtige, bloeiende planten en bepaalde bomen uit de betreffende geslachten. De wilgenfamilie omvat ongeveer 435 soorten wilgen en populieren (zie Populier), inclusief espen. Leden van deze familie komen vooral voor in vochtige gebieden, stroomgebieden en riviervlakten. Het zijn snelgroeiende boomsoorten die vaak als eerste opduiken. Het hout van deze bomen wordt voor vele doeleinden gebruikt en de bladeren vormen een goede voedingsbron voor planteneters. Sommige soorten zijn echte sierbomen. De familie wordt onderverdeeld in twee geslachten: wilgen en populieren. Beide geslachten zijn wijd verspreid over het noordelijk halfrond. Op het zuidelijk halfrond komt slechts een beperkt aantal soorten voor. De circa 35 populiersoorten zijn allemaal bomen, maar de overgrote meerderheid van de circa 400 wilgensoorten zijn struiken. Wilgen komen vooral overvloedig voor op noordelijke toendra's, waar zij laag en compact van vorm zijn. Ook komen zij tot boven de boomgrens op bergen voor.
+               <p/>Wilgen en populieren produceren mannetjes- en vrouwtjesbloemen in afzonderlijke planten. Het zijn bijzonder eenvoudige bloemen, zonder kelkblaadjes of kroonblaadjes. De bloemen groeien dicht op elkaar, ook wel katjes genoemd, voor of tijdens de groei van nieuwe bladeren in het voorjaar. De katjes van populieren hangen naar beneden en produceren geen nectar. Bestuiving vindt plaats dankzij de wind. De katjes van wilgen staan daarentegen rechtop en produceren volop geurige nectar, waardoor insecten, vooral bijen en motten, worden aangetrokken, die vervolgens voor bestuiving zorgen. Insectbestuiving van de uiterst eenvoudige bloemen van wilgen vormt een uitzondering op de gouden regel van het plantenrijk dat alleen het stuifmeel van plantengroepen met complexe, opvallende bloemen door insecten wordt verspreid. In het vroege voorjaar, als de meeste andere bloemen nog niet in bloei zijn, zijn insecten echter afhankelijk van de nectar van wilgenkatjes als voedingsbron.
+               <p/>De vruchten van wilgen en populieren zijn kleine capsules met talloze zaadjes. Elk zaadje is voorzien van katoenachtige draadjes die een soort parachutefunctie hebben en bijdragen aan de verspreiding door de wind. Als de zaadjes op geschikte, vochtige grond terechtkomen, ontkiemen zij binnen een of twee dagen. De meeste wilgen en populieren groeien snel en komen al na enkele jaren tot bloei. Het zijn echter bomen die niet echt oud worden en soms zelfs een leeftijd van 20 jaar niet overstijgen.
+               <p/>Het economisch belang van deze familie varieert nogal. Twijgen van de teenwilg worden gebruikt in de mandenmakerij, en het lichte maar stevige hout van andere wilgen wordt gebruikt voor protheses, klompen en cricketknuppels. Wilgenschors bevat de actieve stof salicine, die in vele natuurgeneesmiddelen wordt toegepast. Aspirine is een afgeleide van salicylzuur, dat oorspronkelijk werd verkregen uit wilgenschors. Een aantal wilgen, zoals de treurwilg en de water- of boswilg, is van belang als sierboom.
+            </cell>
+            </cell>
+            <p/>
+         </color>
+      </text>
+   </zoopedia_diamondleafwillow>
+</ZT2Strings>

@@ -1,0 +1,82 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_soundrock" version="7"/>
+      <LOC_STRING _locID="zoopedia_soundrock:entry" version="7">Roca musical</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_soundrock:text" version="7">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities/objects/scenery/MusicalRock_df/MusicalRock_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/scenery/MusicalRock_jt/MusicalRock_jt_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/scenery/MusicalRock_St/MusicalRock_St_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/scenery/MusicalRock_mm/MusicalRock_mm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>                  
+                  <br/>
+                  Estas pequeñas rocas son altavoces para exteriores que combinan con el paisaje y crean un agradable ambiente. A los visitantes les gusta oír el sonido cuando pasan cerca de ellos.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_themedfountains" version="6"/>
+      <LOC_STRING _locID="zoopedia_themedfountains:entry" version="6">Fuentes, temáticas</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_themedfountains:text" version="6">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities\objects\scenery\Fountain_Jt\Fountain_Jt_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities\objects\scenery\Fountain_St\Fountain_St_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities\objects\scenery\Fountain_mm\Fountain_mm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>                  
+                  <br/>Las fuentes hacen felices a los visitantes, especialmente cuando representan un animal favorito. A los visitantes que hacen recorridos les gusta ver zonas temáticas.
+                  <p/>Para ver los diversos temas que puede desbloquear, haga clic en el botón Mostrar fama del zoo, seleccione la ficha Premios del zoo y luego haga clic en Premios permanentes. 
+				</color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_themedstatue" version="6"/>
+      <LOC_STRING _locID="zoopedia_themedstatue:entry" version="6">Estatua, temática</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_themedstatue:text" version="6">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities\objects\scenery\Statue_Jt\Statue_Jt_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities\objects\scenery\Statue_St\Statue_St_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities\objects\scenery\Statue_mm\Statue_mm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  
+                  <br/>Los visitantes disfrutan viendo estatuas, especialmente cuando representan un animal favorito. A los visitantes que hacen recorridos les gusta ver zonas temáticas.          
+                  <p/>Para ver los diversos temas que puede desbloquear, haga clic en el botón Mostrar fama del zoo, seleccione la ficha Premios del zoo y luego haga clic en Premios permanentes. 
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_themedarch" version="6"/>
+      <LOC_STRING _locID="zoopedia_themedarch:entry" version="6">Arco, temático</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_themedarch:text" version="6">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities\objects\scenery\PathArch_Jt\PathArch_Jt_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities\objects\scenery\PathArch_St\PathArch_St_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities\objects\scenery\PathArch_mm\PathArch_mm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>                  
+                  <br/>Los arcos son bonitos elementos decorativos para senderos y zonas del zoo. Los visitantes disfrutan caminando bajo los arcos. A los visitantes que hacen recorridos les gusta ver zonas temáticas.
+                  <p/>Para ver los diversos temas que puede desbloquear, haga clic en el botón Mostrar fama del zoo, seleccione la ficha Premios del zoo y luego haga clic en Premios permanentes. 
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+
+
+</ZT2Strings>

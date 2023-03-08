@@ -1,0 +1,136 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_shows:entry">Bassin et spectacle</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_shows:text">
+		<cell pady="0" width="1000"/>
+		<p/>
+		<cell width="260"/>
+		<cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+		 <cell width="600" padx="20" pady="20">
+		  <color r="255" g="255" b="255">
+			<p/>Pour créer un bassin de spectacle, placez une plate-forme de spectacle dans un bassin qui communique avec un bassin classique contenant des animaux de spectacle. Placez des gradins face au bassin de spectacle, puis commencez à planifier des numéros !
+			<p/>Pour plus d'informations sur un objet de spectacle ou de bassin, cliquez sur son nom dans la liste à gauche.	  
+		  </color>
+		 </cell>
+		</cell>
+	  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_showplatform:entry">Plate-forme de spectacle</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_showplatform:text">
+		<cell pady="0" width="1000"/>
+		<p/>
+		<cell width="260"/>
+		<cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+		 <cell width="600" padx="20" pady="20">
+		  <color r="255" g="255" b="255">
+			<img src="entities/objects/buildings/Platform_Show_mm/Platform_Show_mm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+			<p/>Le maître de cérémonie présente des spectacles aquatiques depuis la plate-forme de spectacle. Vous pouvez également créer des spectacles en utilisant la plate-forme de spectacle. Placez-en une dans un bassin vide qui communique avec un bassin classique contenant des animaux de spectacle. Cliquez ensuite sur la plate-forme de spectacle pour ouvrir le Planning des spectacles.
+			<p/>Terminez deux défis Spectacles aquatiques en mode Défi pour débloquer l'écran géant sur votre plate-forme de spectacle. Terminez la campagne Spectacles aquatiques pour débloquer la plate-forme de spectacle améliorée avec auvent.
+		  </color>
+		 </cell>
+		</cell>
+	  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_grandstand_mm:entry">Gradins</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_grandstand_mm:text">
+		<cell pady="0" width="1000"/>
+		<p/>
+		<cell width="260"/>
+		<cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+		 <cell width="600" padx="20" pady="20">
+		  <color r="255" g="255" b="255">
+			<img src="entities/objects/scenery/Grandstand_I_mm/Grandstand_I_mm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+			<img src="entities/objects/scenery/Grandstand_II_mm/Grandstand_II_mm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+			<img src="entities/objects/scenery/Grandstand_III_mm/Grandstand_III_mm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>			
+			<p/>Les gradins permettent au public de s'asseoir confortablement pendant les spectacles aquatiques. Les visiteurs peuvent ainsi apprécier davantage le spectacle.
+			<p/>Les petits gradins peuvent accueillir deux visiteurs, les moyens quatre et les grands six.
+		  </color>
+		 </cell>
+		</cell>
+	  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_grandstand_upgraded_mm:entry">Gradins, améliorés</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_grandstand_upgraded_mm:text">
+		<cell pady="0" width="1000"/>
+		<p/>
+		<cell width="260"/>
+		<cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+		 <cell width="600" padx="20" pady="20">
+		  <color r="255" g="255" b="255">
+			<img src="entities/objects/scenery/Upgraded_Grandstand_I_mm/Upgraded_Grandstand_I_mm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+			<img src="entities/objects/scenery/Upgraded_Grandstand_II_mm/Upgraded_Grandstand_II_mm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+			<img src="entities/objects/scenery/Upgraded_Grandstand_III_mm/Upgraded_Grandstand_III_mm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+			<p/>Les gradins améliorés apportent plus de couleur et de confort aux espaces de spectacle. Gagnez le Prix des dons pour les spectacles Zoo Tycoon - niveau 1 pour débloquer les gradins améliorés de taille moyenne. Gagnez le Prix des dons pour les spectacles Zoo Tycoon - niveau 2 pour débloquer les gradins améliorés de grande taille.
+		  </color>
+		 </cell>
+		</cell>
+	  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_light_mm:entry">Éclairage de bassin</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_light_mm:text">
+		<cell pady="0" width="1000"/>
+		<p/>
+		<cell width="260"/>
+		<cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+		 <cell width="600" padx="20" pady="20">
+		  <color r="255" g="255" b="255">
+			<img src="entities/objects/scenery/light_mm/light_mm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+			<p/>L'éclairage de bassin illumine l'eau située à l'intérieur des bassins marins et autres plans d'eau. Il est particulièrement utile pour éclairer des enclos benthiques ou marécageux obscurs.
+			<p/>Vous pouvez acheter l'éclairage de bassin en débloquant le Prix du spectacle Zoo Tycoon - niveau 1.
+		  </color>
+		 </cell>
+		</cell>
+	  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_tankportal:entry">Ouverture de bassin</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_tankportal:text">
+		<cell pady="0" width="1000"/>
+		<p/>
+		<cell width="260"/>
+		<cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+		 <cell width="600" padx="20" pady="20">
+		  <color r="255" g="255" b="255">
+			<img src="entities/objects/fences/AnimalTank_Gate/AnimalTank_Gate_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+			<p/>Les ouvertures de bassin permettent aux bassins de spectacle aquatique et aux bassins classiques de communiquer. Les animaux de spectacle ne peuvent pas vivre en permanence dans un bassin de spectacle. Vous devez créer un bassin classique dans lequel les animaux de spectacle pourront vivre une fois le spectacle terminé. Placez un bassin classique à côté d'un bassin de spectacle et faites-les communiquer à l'aide d'une ouverture. Lorsque c'est l'heure d'un spectacle, les animaux passent du bassin classique au bassin de spectacle en empruntant l'ouverture de bassin.
+		  </color>
+		 </cell>
+		</cell>
+	  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_trainingarea:entry">Zone de dressage</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_trainingarea:text">
+		<cell pady="0" width="1000"/>
+		<p/>
+		<cell width="260"/>
+		<cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+		 <cell width="600" padx="20" pady="20">
+		  <color r="255" g="255" b="255">
+			<img src="entities/objects/props/TrainingArea/TrainingArea_mm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+			<p/>Les zones de dressage servent à faire apprendre aux animaux marins des numéros qu'ils reproduiront en spectacle. Vous devez installer une zone de dressage et une entrée de bassin avant de pouvoir dresser les animaux.
+		  </color>
+		 </cell>
+		</cell>
+	  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_trickarea_mm:entry">Zone de numéro</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_trickarea_mm:text">
+		<cell pady="0" width="1000"/>
+		<p/>
+		<cell width="260"/>
+		<cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+		 <cell width="600" padx="20" pady="20">
+		  <color r="255" g="255" b="255">
+			<img src="entities/objects/props/TrickArea_mm/TrickArea_mm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+			<p/>Les animaux des spectacles aquatiques exécutent leurs numéros dans une zone de numéro. Pour la déplacer, sélectionnez-la puis installez-la à l'endroit voulu.
+		  </color>
+		 </cell>
+		</cell>
+	  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_trickplatform:entry">Plate-forme de numéro</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_trickplatform:text">
+		<cell pady="0" width="1000"/>
+		<p/>
+		<cell width="260"/>
+		<cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+		 <cell width="600" padx="20" pady="20">
+		  <color r="255" g="255" b="255">
+			<img src="entities/objects/props/Platform_Trick/Platform_Trick_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+			<p/>Les animaux comme le morse du Pacifique et l'otarie de Californie exécutent leurs numéros sur une plate-forme de numéro. Pour la déplacer, sélectionnez-la puis installez-la à l'endroit voulu.
+		  </color>
+		 </cell>
+		</cell>
+	  </LOC_STRING>	
+
+</ZT2Strings>

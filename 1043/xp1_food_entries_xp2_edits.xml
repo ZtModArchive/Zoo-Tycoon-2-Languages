@@ -1,0 +1,27 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_eucalyptus" version="6"/>
+      <LOC_STRING _locID="zoopedia_eucalyptus:entry" version="6">Eucalyptusbladeren</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_eucalyptus:text" version="6">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/food/Terrain_df/TerrainEucalyptus_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>
+In Australië staan enorm veel eucalyptusbomen, maar hun bladeren zijn taai, bezitten weinig voedingswaarde en bevatten oliën die voor veel dieren giftig zijn. Slechts weinig diersoorten eten daarom van de eucalyptus. Er is echter één dier dat zich vrijwel uitsluitend met de geurige eucalyptusbladeren voedt: de    
+                  <a href="zoopedia:zoopedia_koala:entry">
+                     <u>
+                        <color r="255" g="231" b="135">koala</color>
+                     </u>
+                  </a>
+. Het lichaam van de koala is bestand tegen de giftige stoffen van de eucalyptusboom, terwijl de trage stofwisseling van de koala compensatie biedt voor de lage voedingswaarde van eucalyptusbladeren. 
+                  <p/>
+Eucalyptusbladeren kun je direct op de grond, in een voerbak of op een voederplateau leggen.    
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+ 
+</ZT2Strings>

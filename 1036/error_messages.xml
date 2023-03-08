@@ -1,0 +1,52 @@
+<ZT2Strings>
+      <LOC_STRING _locID="alert:sttformat">
+         <font name="arial" size="10">%text%</font>
+      </LOC_STRING>
+      <LOC_STRING _locID="alert:lttformat">
+         <font name="arial" size="10">%text%</font>
+      </LOC_STRING>
+      <LOC_STRING _locID="alert:save_game_message">
+         <font name="arial" size="20">
+            <b>Partie enregistrée</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="alert:alert">
+         <font name="arial" size="16">
+            <color r="255" g="197" b="78">
+               <b>%text%</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="alert:save_failed">Espace disque insuffisant. Impossible d'enregistrer la partie.</LOC_STRING>
+      <LOC_STRING _locID="alert:diskfull_operation_failure">Espace disque insuffisant. Impossible de terminer l'opération.</LOC_STRING>
+      <LOC_STRING _locID="alert:photo_save_failed">Espace disque insuffisant. Impossible d'enregistrer la photo.</LOC_STRING>
+      <LOC_STRING _locID="alert:download_save_failed">Espace disque insuffisant. Impossible de terminer le téléchargement.</LOC_STRING>
+      <LOC_STRING _locID="alert:invalid_name_profile">Les noms de profils doivent comporter au moins un caractère alphanumérique.</LOC_STRING>
+      <LOC_STRING _locID="alert:invalid_name_save">Les noms de fichiers doivent comporter au moins un caractère alphanumérique.</LOC_STRING>
+      <LOC_STRING _locID="alert:profile_exists">Ce profil existe déjà. Choisissez un autre nom.</LOC_STRING>
+      <LOC_STRING _locID="alert:album_exists">Les noms d'albums photos ne peuvent pas être vides ni en double. Choisissez un autre nom.</LOC_STRING>
+      <LOC_STRING _locID="alert:profile_problem">Problème lors de la création de ce profil. Essayez avec un autre nom.</LOC_STRING>
+      <LOC_STRING _locID="alert:save_failed_readonly">Le fichier est en lecture seule. Impossible d'enregistrer la partie.</LOC_STRING>
+      <LOC_STRING _locID="alert:load_failed">Le fichier est endommagé ou illisible. Impossible de charger la partie.</LOC_STRING>
+      <LOC_STRING _locID="alert:skipped_entity_load">L'enregistrement que vous avez chargé contient des références à des composants non installés sur votre ordinateur. Par conséquent, il risque de manquer des objets, des animaux ou des clôtures !</LOC_STRING>
+      <LOC_STRING _locID="alert:delete_failed">Impossible de supprimer la partie. Le fichier est peut-être en lecture seule.</LOC_STRING>
+      <LOC_STRING _locID="alert:options_save_failed">Impossible d'enregistrer les options d'utilisateur. Le profil actuel n'est peut-être pas valide.</LOC_STRING>
+      <LOC_STRING _locID="alert:new_save_game">La partie enregistrée que vous essayez de charger a été créée avec une version plus récente de Zoo Tycoon 2. Elle n'est pas prise en charge par cette version.</LOC_STRING>
+      <LOC_STRING _locID="alert:old_save_game">La partie enregistrée que vous essayez de charger n'est plus prise en charge par cette version de Zoo Tycoon 2.</LOC_STRING>
+      <LOC_STRING _locID="error:startup_error_title">Erreur au démarrage de Zoo Tycoon 2</LOC_STRING>
+      <LOC_STRING _locID="error:init_config_info_failed">Erreur lors de l'appel d'InitConfigInformation.</LOC_STRING>
+      <LOC_STRING _locID="error:d3d_create_failed">Impossible de créer un objet Direct3D.</LOC_STRING>
+      <LOC_STRING _locID="error:init_video_card_info_failed">Erreur lors de l'appel de Config_InitVideoCardInfo.</LOC_STRING>
+      <LOC_STRING _locID="error:enumerate_adapter_modes_failed">Impossible d'énumérer les modes de cartes graphiques.</LOC_STRING>
+      <LOC_STRING _locID="error:slow_processor">Vous devez disposer au minimum d'un processeur 1.0 GHz pour que Zoo Tycoon 2 s'exécute correctement. (%s MHz détectés)</LOC_STRING>
+      <LOC_STRING _locID="error:low_system_memory">Vous devez disposer d'au moins %1s Mo de mémoire système pour exécuter Zoo Tycoon 2. (%2s Mo détectés)</LOC_STRING>
+      <LOC_STRING _locID="error:low_video_memory">Vous devez disposer d'au moins %1s Mo de mémoire vidéo pour exécuter Zoo Tycoon 2. (%2s Mo détectés)</LOC_STRING>
+      <LOC_STRING _locID="error:unsupported_graphics_adapter">Zoo Tycoon 2 ne prend pas en charge la carte graphique %s.</LOC_STRING>
+      <LOC_STRING _locID="error:prototype_graphics_adapter">La carte graphique %s est un prototype et risque de créer des problèmes avec Zoo Tycoon 2.</LOC_STRING>
+      <LOC_STRING _locID="error:invalid_graphics_driver">La version de votre pilote graphique n'est pas valide pour votre système d'exploitation. Contactez le fabricant de votre carte graphique pour obtenir une version mise à jour du pilote.</LOC_STRING>
+      <LOC_STRING _locID="error:old_graphics_driver">La version de votre pilote graphique est peut-être trop ancienne pour exécuter Zoo Tycoon 2. Contactez le fabricant de votre carte graphique pour obtenir une version mise à jour du pilote.</LOC_STRING>
+      <LOC_STRING _locID="error:invalid_sound_driver">La version de votre pilote audio n'est pas valide pour votre système d'exploitation. Contactez le fabricant de votre carte son pour obtenir une version mise à jour du pilote.</LOC_STRING>
+      <LOC_STRING _locID="error:old_sound_driver">Votre pilote audio est peut-être trop ancien pour exécuter Zoo Tycoon 2. Contactez le fabricant de votre carte son pour obtenir un pilote à jour.</LOC_STRING>
+      <LOC_STRING _locID="error:renderer_create_failed">Zoo Tycoon 2 n'a pas pu créer de moteur de rendu graphique. Contactez le fabricant de votre carte graphique pour être sûr de disposer du dernier pilote disponible.</LOC_STRING>
+      <LOC_STRING _locID="error:mm_not_installed">Zoo Tycoon 2 semble n'avoir pas été installé correctement. Veuillez vérifier vos paramètres système et réinstaller le pack d'extension à partir du CD-ROM.</LOC_STRING>
+</ZT2Strings>

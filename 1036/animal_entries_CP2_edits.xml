@@ -1,0 +1,181 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_zebra" version="9"/>
+      <LOC_STRING _locID="zoopedia_zebra:entry" version="9">Zèbre commun</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_zebra:text" version="9">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+			<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+				<img src="entities/units/animals/ZebraCommon/ZebraCommon_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+			</cell>
+			<cell width="16">
+				<img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+			</cell>
+			<cell width="16">
+				<img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+		</cell>
+		<cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     État de préservation :
+                     <br/>
+                        <color r="170" g="255" b="0">
+                     Peu menacé
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>              
+   
+               <cell width="128">   
+                  <color r="255" g="255" b="255">	Savane</color>
+                  <br/>
+                  <img src="ui/icon_biomes/icon_savannah.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+               </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">	Afrique orientale</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/Savannah_Africa_East.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+
+                     Classe :  	Mammifères                                                        
+                     <i>(Mammalia)</i>
+                     <br/>
+                     Ordre :		Ongulés périssodactyles                                                        
+                     <i>(Perissodactyla)</i>
+                     <br/>
+      Famille : Chevaux, ânes, zèbres <i>(Equidae)</i><br/>
+  		     Genre :		                                                       
+                     <i>Equus</i>
+                     <br/>
+     		     Espèce :	                                                       
+                     <i>burchelli</i>
+                     <br/>
+       			Sous-espèce :	                                                       
+                     <i>boehmi</i>
+                  </color>
+               </cell>
+               <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/savannah_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+               </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Bon à savoir sur le zèbre commun      					</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">			
+                  Les zèbres peuvent se reconnaître entre eux aux rayures de leur robe.		</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">			
+                  Bien que moins docile que le cheval, il est possible d'apprivoiser et d'atteler un zèbre, mais il est extrêmement difficile de le monter.		</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">			
+                  Les zèbres communiquent entre eux par des sons et des signes, à l'instar des chevaux domestiques. 			Par exemple, un zèbre abaisse les oreilles avant de ruer et s'ébroue pour signaler un danger.		</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">			
+                                    Pendant la journée, une harde de zèbres peut parcourir plus de 20 km pour rechercher de la nourriture. En général, ils reviennent tous les soirs au même endroit pour se reposer.		</color>
+		                 </cell>
+		                 <cell width="32" pady="10">
+		                    <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+		                 </cell>
+		                 <cell width="202" pady="10">
+		                    <color r="255" g="255" b="255">			
+		                    Les scientifiques de Zoo Tycoon et les spécialistes de la reproduction ont tenté un processus d'accouplement pour récupérer le 
+		                                <a href="zoopedia:zoopedia_quagga:entry">
+		  		                 <u>
+		  		                    <color r="255" g="231" b="135">couagga</color>
+		  		                 </u>
+		  		              </a> disparu.  
+		                    </color>
+		                 </cell>               
+		                 <br/>
+		              </cell>
+		           </cell>
+		           <cell width="340">
+		              <color r="255" g="248" b="178">
+		              Pour débloquer le zèbre commun au cours de parties en mode Défi ou Campagne, votre zoo doit atteindre une renommée de 1,5 étoile pour votre zoo.
+		              </color>
+		              <p/>
+		            
+		                Le zèbre appartient à la famille des équidés et se distingue par sa robe à rayures noires et blanches. Bien que les zèbres vivent uniquement en Afrique, ce sont les mammifères les plus connus du monde entier en raison de leur robe caractéristique. Il existe trois espèces de zèbres arborant chacune une robe à rayures différente : le zèbre de Grévy, le zèbre de montagne et le zèbre des plaines (ou zèbre de Burchell).                        
+		              <p/>
+		            
+		                Les zèbres appartiennent à la famille des équidés qui inclut également les chevaux et les ânes. L'ancêtre connu le plus ancien de cette famille est un animal de petite taille appelé Hyracotherium (plus communément dénommé Eohippus) qui a vécu il y a 60 millions d'années à l'ère du pléistocène. Les ancêtres directs du cheval, de l'âne et du zèbre actuels sont apparus en Europe, en Afrique et en Asie il y a environ 4 millions d'années à l'ère du pliocène.                        
+
+            <p/>
+
+        	Comme tous les autres membres de la famille des équidés, les zèbres sont herbivores et se nourrissent essentiellement d'herbe        		fraîche. Les zèbres doivent faire face à de nombreux prédateurs, notamment aux          			                        
+            
+            
+            <a href="zoopedia:zoopedia_lion:entry">
+               <u>
+                  <color r="255" g="231" b="135">lions</color>
+               </u>
+            </a> et aux hyènes, mais leur survie a surtout été très menacée par l'homme au cours des deux derniers siècles. Le zèbre couagga, qui se distinguait des autres zèbres par des rayures présentes uniquement au niveau du cou et de la tête, a vécu dans le sud de l'Afrique jusqu'en 1870 avant d'être exterminé par une chasse incontrôlée. Aujourd'hui, la survie du zèbre de Grévy et du zèbre de montagne est menacée par le braconnage et la destruction de leur habitat.  
+         
+         
+         
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">
+
+            
+                                                Avec le concours de la                         
+            
+            
+            <a href="zoopedia:zoopedia_encarta:entry">
+               <u>
+                  <color r="255" g="231" b="135">Collection Microsoft (R) Encarta (R) 2004.</color>
+               </u>
+            </a>
+
+            
+                                                              (C) 1993-2003 Microsoft Corporation. Tous droits réservés.	                                                   
+         
+         
+         
+         </cell>
+      </LOC_STRING>
+</ZT2Strings>

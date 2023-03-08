@@ -1,0 +1,85 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_buoynet:entry">Bouée filet</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_buoynet:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/food/BuoyNet/BuoyNet_Chum_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/food/BuoyNet/BuoyNet_Shellfish_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>Le filet attaché à la bouée contient de la nourriture.
+            </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_buoylure:entry">Bouée appât</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_buoylure:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/food/BuoyLure/BuoyLure_Fish_icon.dds" sx="0" sy="0" sw="64" sh="64"/>                   
+                  <img src="entities/objects/food/BuoyLure/BuoyLure_Jellyfish_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/food/BuoyLure/BuoyLure_Plankton_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/food/BuoyLure/BuoyLure_Squid_icon.dds" sx="0" sy="0" sw="64" sh="64"/>                  
+                  <p/>Une bouée appât est équipée d'un appât spécial qui attire la nourriture vivante. Les soigneurs veillent à ce que de la nourriture soit toujours présente à proximité de la bouée.
+            </color>            
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_foodbox:entry">Bac à nourriture</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_foodbox:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/food/FoodBox/FoodBox_Chum_icon.dds" sx="0" sy="0" sw="64" sh="64"/>                   
+                  <img src="entities/objects/food/FoodBox/FoodBox_Fish_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/food/FoodBox/FoodBox_Plankton_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/food/FoodBox/FoodBox_Seaweed_icon.dds" sx="0" sy="0" sw="64" sh="64"/>                  
+                  <img src="entities/objects/food/FoodBox/Foodbox_Squid_icon.dds" sx="0" sy="0" sw="64" sh="64"/>                  
+                  <p/>Un bac à nourriture est un bac grillagé placé sous l'eau, dans lequel flotte de la nourriture.
+            </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_marinecarcass:entry">Carcasse marine artificielle</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_marinecarcass:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/food/Carcass_mm/Carcass_Chum_mm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/food/Carcass_mm/Carcass_Fish_mm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>Cette carcasse de poisson artificielle est utilisée pour nourrir de des poissons en grand nombre, et même des animaux marins carnivores. Les visiteurs aiment assister au spectacle des animaux se nourrissant dans ces mangeoires originales.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_artificialreef:entry">Récif artificiel</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_artificialreef:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/food/ArtificialReef/ArtificialReef_Fish_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/food/ArtificialReef/ArtificialReef_Jellyfish_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/food/ArtificialReef/ArtificialReef_Plankton_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/food/ArtificialReef/ArtificialReef_Shellfish_icon.dds" sx="0" sy="0" sw="64" sh="64"/>                 
+                  <p/>Les grands animaux marins adorent trouver de délicieuses proies à proximité de ce faux récif fabriqué à partir de matériaux artificiels. Les soigneurs approvisionnent le récif artificiel avec le type d'espèce alimentaire approprié.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING> 
+
+</ZT2Strings>

@@ -1,0 +1,72 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_endangeredanimalsfence:entry">Clôture Espèces en danger</LOC_STRING> <LOC_STRING _locID="zoopedia_endangeredanimalsfence:text">
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255"><img src="entities\objects\fences\mosaic_end\mosaic_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+Les clôtures qui reflètent le thème Espèces en danger s'intègrent au mieux dans les enclos d'espèces animales menacées, telles que le cheval de Prjevalski ou l'oryx algazelle. Vous pouvez également utiliser les clôtures Espèces en danger pour créer des espaces publics à thème attrayants à proximité des enclos d'animaux.</color>
+    </cell>
+   </cell>
+  </LOC_STRING> <LOC_STRING _locID="zoopedia_conservationfences:entry">Clôtures de protection</LOC_STRING> <LOC_STRING _locID="zoopedia_conservationfences:text">
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255"><img src="entities\objects\fences\conservation_df\conservation_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+Les clôtures de protection servent à délimiter des <a href="zoopedia:zoopedia_conservationarea:entry"><u><color r="255" g="231" b="135">zones de préservation</color></u></a> requérant une protection particulière. Elles ne peuvent être ni vendues ni recyclées.</color>
+    </cell>
+   </cell>
+  </LOC_STRING> <LOC_STRING _locID="zoopedia_mosaicwindow:entry">Clôture fenêtrée Espèces en danger</LOC_STRING> <LOC_STRING _locID="zoopedia_mosaicwindow:text">
+      <cell pady="0" width="1000"/>
+      <p/>
+      <cell width="260"/>
+      <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+         <cell width="600" padx="20" pady="20">
+            <color r="255" g="255" b="255"><img src="entities\objects\fences\mosaicwindow_end\mosaicwindow_end_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+            <p/>
+La clôture fenêtrée Espèces en danger allie la sécurité d'une clôture haute avec des ouvertures dégagées pour les visiteurs. Les clôtures qui reflètent le thème Espèces en danger s'intègrent au mieux dans les enclos d'espèces animales menacées, telles que le cheval de Prjevalski ou l'oryx gazelle.</color>
+         </cell>
+      </cell>
+   </LOC_STRING> <LOC_STRING _locID="zoopedia_vehiclegate:entry">Porte d'accès véhicules</LOC_STRING> <LOC_STRING _locID="zoopedia_vehiclegate:text">
+      <cell pady="0" width="1000"/>
+      <p/>
+      <cell width="260"/>
+      <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+         <cell width="600" padx="20" pady="20">
+            <color r="255" g="255" b="255"><img src="entities\objects\fences\vehiclegate_end\vehiclegate_end_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+            <p/>
+Les portes d'accès véhicules permettent l'entrée et la sortie des véhicules terrestres des enclos des animaux. Pour empêcher que les animaux ne s'enfuient, ces portes mécanisées se ferment automatiquement après le passage des véhicules.</color>
+         </cell>
+      </cell>
+   </LOC_STRING> <LOC_STRING _locID="zoopedia_vehiclegate_reward:entry">Porte d'accès véhicules décorée</LOC_STRING> <LOC_STRING _locID="zoopedia_vehiclegate_reward:text">
+      <cell pady="0" width="1000"/>
+      <p/>
+      <cell width="260"/>
+      <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+         <cell width="600" padx="20" pady="20">
+            <color r="255" g="255" b="255"><img src="entities\objects\fences\vehiclegate_reward_end\vehiclegate_end_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+            <p/>
+Les portes d'accès véhicules permettent l'entrée et la sortie des véhicules terrestres des enclos des animaux. Pour empêcher que les animaux ne s'enfuient, ces portes mécanisées se ferment automatiquement après le passage des véhicules.
+            <p/>
+Vous devez mener à terme la campagne Transport afin de pouvoir débloquer la porte d'accès véhicules décorée.</color>
+         </cell>
+      </cell>
+   </LOC_STRING> <LOC_STRING _locID="zoopedia_wroughtiron:entry">Grilles en fer forgé</LOC_STRING> <LOC_STRING _locID="zoopedia_wroughtiron:text">
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255"><img src="entities\objects\fences\wroughtiron_df\wroughtiron_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+Le fer forgé est un matériau solide auquel on peut donner d'élégantes formes. En plus d'être décoratives, les grilles en fer forgé sont efficaces pour réfréner les ardeurs des animaux assez forts pour défoncer des clôtures plus légères. Enfin, ce type de clôtures permet aux visiteurs de jouir d'une très belle vue sur les animaux.</color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+ 
+</ZT2Strings>

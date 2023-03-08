@@ -1,0 +1,202 @@
+<ZT2Strings>
+   <!--entity names-->
+   <entityname>
+      <!--building names-->
+      <snackcart_candycane_tt>Carrito barras de caramelo</snackcart_candycane_tt>
+      <snackcart_candycane_tt_stt>Carrito barras de caramelo</snackcart_candycane_tt_stt>
+      <snackcart_candycane_tt_lower>el carrito de barras de caramelo</snackcart_candycane_tt_lower>
+      <snackcart_candycane_tt_ltt>
+         <color r="255" g="248" b="178">
+            <b>Carrito barras de caramelo</b>
+         </color>
+         <br/>
+         Haga clic para seleccionar y para colocar el carrito de barras de caramelo, una golosina típica de estas fiestas.
+      </snackcart_candycane_tt_ltt>
+      <!--scenery object names-->
+      <binoculars_tt>Mirador con prismát. del muñeco de nieve</binoculars_tt>
+      <binoculars_tt_stt>Mirador con prismát. del muñeco de nieve</binoculars_tt_stt>
+      <binoculars_tt_lower>el mirador con prismáticos del muñeco de nieve</binoculars_tt_lower>
+      <binoculars_tt_ltt>
+         <color r="255" g="248" b="178">
+            <b>Mirador con prismát. del muñeco de nieve</b>
+         </color>
+         <br/>
+         Haga clic para selecc. y para colocar el mirador con prismát. del muñeco de nieve. A los visitantes les encantará ver a los anim. mediante esos prismáticos.
+      </binoculars_tt_ltt>
+      <Reindeer_tt>Reno mecánico</Reindeer_tt>
+      <Reindeer_tt_stt>Reno mecánico</Reindeer_tt_stt>
+      <Reindeer_tt_lower>el reno mecánico</Reindeer_tt_lower>
+      <Reindeer_tt_ltt>
+         <color r="255" g="248" b="178">
+            <b>Reno mecánico</b>
+         </color>
+         <br/>
+         Haga clic para seleccionar y para colocar un reno mecánico, sobre el que los niños pueden imaginar que cabalgan.
+      </Reindeer_tt_ltt>
+      <lowholidayfence_tt>Valla de vacaciones baja</lowholidayfence_tt>
+      <lowholidayfence_tt_stt>Valla de vacaciones baja</lowholidayfence_tt_stt>
+      <lowholidayfence_tt_lower>la valla de vacaciones baja</lowholidayfence_tt_lower>
+      <lowholidayfence_tt_ltt>
+         <color r="255" g="248" b="178">
+            <b>Valla de vacaciones baja</b>
+         </color>
+         <br/>
+         Haga clic para seleccionar y para colocar secciones de la valla de vacaciones baja, que puede servir para delimitar el camino durante las fiestas.
+      </lowholidayfence_tt_ltt>
+      <lowholidayfence_broken_tt>Valla de vacaciones baja</lowholidayfence_broken_tt>
+      <lowholidayfence_broken_tt_stt>Valla de vacaciones baja</lowholidayfence_broken_tt_stt>
+      <lowholidayfence_broken_tt_lower>la valla de vacaciones baja</lowholidayfence_broken_tt_lower>
+      <lowholidayfence_broken_tt_ltt>
+         <color r="255" g="248" b="178">
+            <b>Valla de vacaciones baja</b>
+         </color>
+         <br/>
+         Haga clic para seleccionar y para colocar secciones de la valla de vacaciones baja, que puede servir para delimitar el camino durante las fiestas.
+      </lowholidayfence_broken_tt_ltt>
+      <!--fence names-->
+      <!--enrichment object names-->
+      <PresentApple>Regalo de vacaciones (manzana)</PresentApple>
+      <PresentApple_stt>Regalo de vacaciones (manzana)</PresentApple_stt>
+      <PresentApple_lower>el regalo de vacaciones (manzana)</PresentApple_lower>
+      <PresentApple_ltt>
+         <color r="255" g="248" b="178">
+            <b>Regalo de vacaciones (manzana)</b>
+         </color>
+         <br/>
+         Haga clic para seleccionar y para colocar el regalo de vacaciones (manzana). A los animales a los que les gustan las manzanas les encantará este regalo de vacaciones.
+      </PresentApple_ltt>
+      <PresentBeef>Regalo de vacaciones (vaca)</PresentBeef>
+      <PresentBeef_stt>Regalo de vacaciones (vaca)</PresentBeef_stt>
+      <PresentBeef_lower>el regalo de vacaciones (vaca)</PresentBeef_lower>
+      <PresentBeef_ltt>
+         <color r="255" g="248" b="178">
+            <b>Regalo de vacaciones (vaca)</b>
+         </color>
+         <br/>
+         Haga clic para seleccionar y para colocar el regalo de vacaciones (vaca). A los animales a los que les gusta la pierna de vaca les encantará este regalo de vacaciones.
+      </PresentBeef_ltt>
+      <!--item names-->
+      <Candycane>Barra de caramelo</Candycane>
+      <Candycane_stt>Barra de caramelo</Candycane_stt>
+      <Candycane_lower>la barra de caramelo</Candycane_lower>
+      <Candycane_ltt>
+         <color r="255" g="248" b="178">
+            <b>Barra de caramelo</b>
+         </color>
+         <br/>A todo el mundo le gusta comer una barra de caramelo durante las vacaciones.
+      </Candycane_ltt>
+      <!--guest thoughts-->
+      <EatCandycaneNotLike>Prefiero otra cosa en lugar de la barra de caramelo.</EatCandycaneNotLike>
+      <EatCandycane>Mmm. ¡Una barra de caramelo! ¡Es lo que apetece en esta época!</EatCandycane>
+      <EatCandycaneLike>¡Vaya! Este caramelo es genial.</EatCandycaneLike>
+   </entityname>
+   <!--Zoopedia entries-->
+   <zoopedia_candycane>
+      <entry>Barra de caramelo</entry>
+      <text>
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>
+                  <img src="entities\objects\buildings\Snackcart\snackcart_candycane_tt_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>El carrito de barras de caramelo es un carrito de postres con galletas de jengibre, barras de caramelos y dulces diversos. En este carrito venden barras de caramelo.
+                  <p/>Las barras de caramelo les gustan especialmente a los niños, pero las comprará todo el que desee un postre apetitoso.
+               </color>
+            </cell>
+         </cell>
+      </text>
+   </zoopedia_candycane>
+   <zoopedia_binoculars_tt>
+      <entry>Prismáticos, muñeco de nieve</entry>
+      <text>
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>
+                  <img src="entities\objects\scenery\binoculars_tt\binoculars_tt_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>El mirador con prismáticos del muñeco de nieve es una versión especial del mirador con prismáticos de las vacaciones o de las  áreas temáticas de la tundra.
+                  <p/>A los visitantes les encantará tener una buena vista de los animales por medio de los prismáticos del muñeco de nieve. A los animales no parece importarles que les mire un muñeco de nieve.
+               </color>
+            </cell>
+         </cell>
+      </text>
+   </zoopedia_binoculars_tt>
+   <zoopedia_lowholidayfence_tt>
+      <entry>Valla de vacaciones</entry>
+      <text>
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities\objects\fences\lowholidayfence_tt\lowholidayfence_tt_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>La valla de vacaciones es un tipo de valla de resistencia media que es más eficaz si se usa en combinación con un foso o dique, o como valla decorativa de las áreas públicas.
+                  <p/>La valla de vacaciones, decorada con bombillas de fiesta, resulta fascinante tanto para los visitantes como para los animales.
+               </color>
+            </cell>
+         </cell>
+      </text>
+   </zoopedia_lowholidayfence_tt>
+   <zoopedia_reindeer_tt>
+      <entry>Reno mecánico</entry>
+      <text>
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>
+                  <img src="entities\objects\scenery\Playground_BouncyRide_Reindeer_tt/BouncyRide_Reindeer_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>Los niños se suben a lomos del reno y pueden imaginar que cabalgan. Aunque el reno da saltos, este ejemplar no vuela.
+               </color>
+            </cell>
+         </cell>
+      </text>
+   </zoopedia_reindeer_tt>
+   <zoopedia_presentapple>
+      <entry>Regalo de vacaciones (manzana)</entry>
+      <text>
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>
+                  <img src="entities\objects\enrichment\PresentApple\PresentApple_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>¡También a los animales les gusta un regalo de vacaciones!
+                  <p/>La manzana de regalo es una caja cubierta con papel de envolver de colores y una cinta de fiesta. A lo animales les divierte golpear la caja.
+                  <p/>Cuando los animales lleven un rato golpeando la caja, esta se abrirá y dejará al descubierto una manzana que el animal se puede comer.
+               </color>
+            </cell>
+         </cell>
+      </text>
+   </zoopedia_presentapple>
+   <zoopedia_presentbeef>
+      <entry>Regalo de vacaciones (vaca)</entry>
+      <text>
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>
+                  <img src="entities\objects\enrichment\PresentApple\PresentBeef_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>¡También a los animales les gusta un regalo de vacaciones!
+                  <p/>La pierna de vaca de regalo es una caja cubierta con papel de envolver de colores y una cinta de fiesta. A lo animales les divierte golpear la caja.
+                  <p/>Cuando los animales lleven un rato golpeando la caja, esta se abrirá y dejará al descubierto una pierna de vaca que el animal se puede comer.
+               </color>
+            </cell>
+         </cell>
+      </text>
+   </zoopedia_presentbeef>
+</ZT2Strings>

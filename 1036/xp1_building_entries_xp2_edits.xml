@@ -1,0 +1,39 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_facepaintingkiosk" version="6"/>
+      <LOC_STRING _locID="zoopedia_facepaintingkiosk:entry" version="6">Kiosque maquillage</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_facepaintingkiosk:text" version="6">
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\objects\buildings\Face_Painting_Kiosk_end\FacePaintingKiosk_end_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+Les jeunes visiteurs adoreront le kiosque maquillage, où ils seront maquillés en tigre, en panda ou autre.
+<p/>
+Pour que le kiosque maquillage soit disponible dans votre partie, vous devez gagner le Prix de la collecte de dons en faveur du divertissement.
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_headphonekiosk" version="6"/>
+      <LOC_STRING _locID="zoopedia_headphonekiosk:entry" version="6">Kiosque casque</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_headphonekiosk:text" version="6">
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\objects\buildings\HeadphoneKiosk_end\HeadphoneKiosk_end_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+Les casques proposés par le kiosque casque sont très appréciés des visiteurs. Ces casques sans fil leur donnent des informations complémentaires sur les animaux du zoo.
+		<p/>
+Pour que le kiosque casque soit disponible dans votre partie, vous devez gagner le Prix de la collecte de dons en faveur de l'éducation.
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+  
+</ZT2Strings>

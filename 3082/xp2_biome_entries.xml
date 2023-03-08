@@ -1,0 +1,62 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_benthic:entry">Biomedio bentónico</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_benthic:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" bgimg="ui/zoopedia/topCellBg.dds" pady="15" padx="15">
+            <color r="255" g="255" b="255">
+               <cell width="600">
+                  <img src="UI/zoopedia/biome/benthic_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+                  <p/>El biomedio bentónico es la región del fondo del mar situada por debajo de la zona pelágica. No obstante, no incluye la parte más profunda y oscura del océano, denominada zona abisal.
+                  <p/>El fondo del biomedio bentónico consta de arena, limo y organismos muertos. Algunos animales y organismos medran en este entorno rico en nutrientes, entre ellos las bacterias, hongos, esponjas, anémonas y estrellas de mar, gusanos y peces adaptados a la vida en el bentos. También abundan las algas marinas.
+               </cell>
+            </color>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_coastal:entry">Biomedio costero</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_coastal:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" bgimg="ui/zoopedia/topCellBg.dds" pady="15" padx="15">
+            <color r="255" g="255" b="255">
+               <cell width="600">
+                  <img src="UI/zoopedia/biome/coastal_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+                  <p/>El biomedio costero, también conocido como zona intertidal o intermareal, es la región en la que el océano contacta con la costa. En ocasiones está sumergida bajo el mar y en ocasiones queda descubierta. Los animales de este biomedio deben ser capaces de adaptarse tanto al agua como al aire libre.
+                  <p/>En las áreas terrestres a las que llegan las mareas más altas existen solamente algunas pocas especies de algas y moluscos. No obstante, se observa una amplia variedad de este tipo de algas y pequeños animales, como caracoles herbívoros, cangrejos, estrellas de mar y peces minúsculos. En el fondo del biomedio costero, que queda expuesto solamente durante las mareas más bajas, encontramos muchos invertebrados, peces y algas marinas. Todas estas especies deben adaptarse a la constante volatilidad de las arenas en movimiento. En las regiones costeras rocosas, también clasificadas como biomedio costero, existen menos formas vivas y estas especies tienen un hábitat más sólido.
+   
+               </cell>
+            </color>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_pelagic:entry">Biomedio pelágico</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_pelagic:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" bgimg="ui/zoopedia/topCellBg.dds" pady="15" padx="15">
+            <color r="255" g="255" b="255">
+               <cell width="600">
+                  <img src="UI/zoopedia/biome/pelagic_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+                  <p/>Lejos de tierra firme, el biomedio pelágico es el mar abierto. El biomedio pelágico suele ser frío. No obstante, existe cierta variación de temperatura debido a la estratificación térmica, con la constante mezcla de corrientes marinas cálidas y frías. En el biomedio pelágico abundan las algas marinas de superficie, así como numerosas especies de peces y algunos mamíferos, como ballenas y delfines.  
+               </cell>
+            </color>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_reef:entry">Biomedio de arrecife</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_reef:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" bgimg="ui/zoopedia/topCellBg.dds" pady="15" padx="15">
+            <color r="255" g="255" b="255">
+               <cell width="600">
+                  <img src="UI/zoopedia/biome/reef_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+                  <p/>El arrecife es un ecosistema costero y oceánico que cuenta con uno de los hábitats de mayor biodiversidad del planeta, así como con algunas de las formas de vida más bellas. El arrecife es una cadena de rocas situadas apenas por debajo de la superficie del mar. Los arrecifes de coral han sido construidos en gran medida, o enteramente, por corales, unos minúsculos animales que viven en colonias. Durante un período de centenares, e incluso miles de años, los esqueletos de piedra caliza de los corales muertos se han acumulado, conformando una estructura cada vez mayor para formar nuevos corales. La estructura física, con su superficie de colonias de corales vivos y muchos otros organismos, se denomina arrecife de coral.   
+               </cell>
+            </color>
+         </cell>
+      </LOC_STRING>   
+
+</ZT2Strings>

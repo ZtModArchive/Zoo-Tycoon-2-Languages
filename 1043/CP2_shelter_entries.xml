@@ -1,0 +1,33 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_burrow_grassland:entry">Hol, weide</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_burrow_grassland:text">
+			<cell pady="0" width="1000"/>
+			<p/>
+			<cell width="260"/>
+			<cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+				<cell width="600" padx="20" pady="20">
+					<color r="255" g="255" b="255">
+						<img src="entities/objects/shelters/AnimalBurrows_Shelter/AnimalBurrows_Grasslands_Large_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+						<p/>
+						Het hol voor weide is perfect voor kleine weidedieren, zoals de Falklandwolf. Ze slapen graag in de donkere ondergrondse omgeving van zo'n hol.
+					</color>
+				</cell>
+			</cell>
+		</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_largeextinctshelter_shelter:entry">Stenen schuilplaats</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_largeextinctshelter_shelter:text">
+ 			<cell pady="0" width="1000"/>
+ 			<p/>
+ 			<cell width="260"/>
+ 			<cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+ 				<cell width="600" padx="20" pady="20">
+ 					<color r="255" g="255" b="255">
+ 						<img src="entities/objects/shelters/LargeExtinctShelter_Shelter/LargeExtinctShelter_Shelter_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+ 						<p/>
+ 						Dit grote stenen bouwwerk is een stevige schuilplaats, geschikt voor bijna al je uitgestorven dieren. Alle uitgestorven dieren die van koelte houden zullen genieten van de stenen schuilplaats. De binnen aangelegde waterval is niet alleen mooi om te zien maar werkt ook verfrissend en kalmerend voor de dieren.
+ 					</color>
+ 				</cell>
+ 			</cell>
+ 		</LOC_STRING> 
+ 
+</ZT2Strings>

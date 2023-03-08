@@ -1,0 +1,44 @@
+<ZT2Strings>
+   <!--entity names-->
+   <entityname>
+      <!--scenery object names-->
+      <drinkingfountain_df>Trinkbrunnen</drinkingfountain_df>
+      <drinkingfountain_df_stt>Trinkbrunnen</drinkingfountain_df_stt>
+      <drinkingfountain_df_lower>Trinkbrunnen</drinkingfountain_df_lower>
+      <drinkingfountain_df_ltt>
+         <color r="255" g="248" b="178">
+            <b>Trinkbrunnen</b>
+         </color>
+         <br/>
+         Klicken Sie hier, um einen Trinkbrunnen auszuwählen und zu platzieren. Besucher können hier einen Schluck Wasser genießen.
+      </drinkingfountain_df_ltt>
+   </entityname>
+   
+   <!--Zoopedia entries-->
+   <zoopedia_drinkingfountain>
+      <entry>Trinkbrunnen</entry>
+      <text>
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities\objects\scenery\drinkingfountain_df\drinkingfountain_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>Auch wenn der Trinkbrunnen keine zusätzliche Einnahmequelle ist, sind Besucher immer erfreut über eine kühle Gratiserfrischung.
+               </color>
+            </cell>
+         </cell>
+      </text>
+   </zoopedia_drinkingfountain>
+   <guestpackactions>
+      <GoToDrinkingFountain>Holt sich einen Schluck vom %s</GoToDrinkingFountain>
+      <UseDrinkingFountain>Trinkt vom %s</UseDrinkingFountain>      
+   </guestpackactions>
+   <guestpackthoughts>
+      <GoToDrinkingFountain>Ich bin froh, dass hier ein %s ist, denn ich bin durstig.</GoToDrinkingFountain>
+      <UseDrinkingFountain>Der %s ist erfrischend.</UseDrinkingFountain>            
+   </guestpackthoughts>
+</ZT2Strings>
+
+  

@@ -1,0 +1,172 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_aquarium:entry">Aquariums</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_aquarium:text">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities\objects\buildings\Aquarium_Jellyfish\Aquarium_Jellyfish_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities\objects\buildings\Aquarium_Octopus\Aquarium_Octopus_icon.dds" sx="0" sy="0" sw="64" sh="64"/>                  
+                  <img src="entities\objects\buildings\Aquarium_Seahorse\Aquarium_Seahorse_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities\objects\buildings\Aquarium_TropicalFish\Aquarium_TropicalFish_icon.dds" sx="0" sy="0" sw="64" sh="64"/>                  
+                  <br/>Les aquariums sont des vitrines idéales pour montrer de petits animaux marins. Un aquarium portatif prend moins de place qu'un grand bassin et vous pouvez l'installer où vous voulez dans votre zoo. Les visiteurs aiment pouvoir admirer les animaux de près.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_cannon:entry">Canon pirate</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_cannon:text">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities/objects/scenery/Cannon/Cannon_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>Ce canon ancien donne une ambiance pirate aux enclos. Dans un bassin, il envoie des jets de bulles. Sur terre, il décore votre zoo.	
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_koi:entry">Carpe koï</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_koi:text">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities\units\animals\Koi\Koi_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>Les carpes koï, également appelées nishikigoi, sont des carpes communes d'ornement. Elles sont élevées pour leurs couleurs brillantes et leur motifs plaisants. Elles attirent l'œil des visiteurs et se mélangent parfaitement aux autres espèces dans les bassins, mais évitez de les placer dans les bassins où vivent des requins ou d'autres prédateurs marins !
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_drinkingfountain_mm:entry">Borne fontaine, nautile</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_drinkingfountain_mm:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities\objects\scenery\drinkingfountain_mm\drinkingfountain_mm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>Bien qu'elle ne génère aucun revenu pour le zoo, la borne fontaine nautile sera appréciée des visiteurs qui pourront s'y rassasier.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_fountain_splash_mm:entry">Fontaine à jets béluga</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_fountain_splash_mm:text">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities/objects/scenery/FountainSplash_mm/FountainSplash_mm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>Cette fontaine représente d'adorables baleines bélugas avec des jets d'eau qui éclaboussent les passants. Les enfants adorent s'y amuser et s'y éclabousser. Installez-la sur un chemin pour qu'elle forme une arche.	
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_pirate_mast:entry">Mât pirate</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_pirate_mast:text">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities/objects/scenery/PirateMast/PirateMast_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>Ce mât usé est utilisé sous l'eau comme décoration de bassin ou sur terre comme point d'arrêt digne d'intérêt.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_pirate_ship:entry">Bateau pirate</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_pirate_ship:text">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities/objects/scenery/PirateShip/PirateShip_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>Cette ancienne épave sert à merveille sous l'eau ou sur la terre ferme.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_seahorseride:entry">Hippocampe à ressort</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_seahorseride:text">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities/objects/scenery/Playground_BouncyRide_Seahorse_mm/BouncyRide_Seahorse_mm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>Les enfants adorent s'imaginer qu'ils explorent le fond des océans sur le dos de cet hippocampe géant.	Pour débloquer l'hippocampe à ressort, gagnez le Prix de l'animal marin Zoo Tycoon - niveau 2.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_treasure_chest:entry">Trésor à bulles</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_treasure_chest:text">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities/objects/scenery/TreasureChest/TreasureChest_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>Ce vieux coffre à trésor débordant d'or de pirates est une merveilleuse décoration sur terre ou dans un bassin.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_gazebo_mm:entry">Pavillon, phare</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_gazebo_mm:text">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities/objects/scenery/gazebo_mm/gazebo_mm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>             
+               Les visiteurs adorent se reposer au pavillon phare. Cette structure décorative est un lieu de détente idéal et ajoute une touche marine à votre zoo.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_marinetrainingstatue:entry">Statue, dressage marin</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_marinetrainingstatue:text">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities\objects\scenery\Statue_Training_mm\Statue_Training_mm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>
+Les visiteurs adorent voir des statues dans votre zoo. Pour débloquer la statue dressage marin, vous devez obtenir 100 scores parfaits à 100 % lors du dressage de vos animaux marins. 
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>   
+
+</ZT2Strings>

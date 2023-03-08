@@ -1,0 +1,59 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_themedtrashcan" version="6"/>
+      <LOC_STRING _locID="zoopedia_themedtrashcan:entry" version="6">Poubelles à thème</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_themedtrashcan:text" version="6">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities\objects\scenery\trashcan_jt\trashcan_jt_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities\objects\scenery\trashcan_st\trashcan_st_icon.dds" sx="0" sy="0" sw="64" sh="64"/>                  
+                  <br/>Les poubelles permettent aux visiteurs de se débarrasser de leurs détritus. Les agents d'entretien seront chargés de les vider. Les visiteurs n'aiment pas que les poubelles soient pleines, et ils jonchent le sol de détritus si une poubelle n'est pas disponible. Le public aime découvrir des objets à thème lors des visites guidées.          
+                  <p/>Pour voir les nombreux thèmes que vous pouvez débloquer, cliquez sur le bouton Renommée du zoo, sur l'onglet Récompenses du zoo, puis sur Prix permanents.     
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_themedviewingareas" version="6"/>
+      <LOC_STRING _locID="zoopedia_themedviewingareas:entry" version="6">Postes d'observation à thème</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_themedviewingareas:text" version="6">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities\objects\scenery\ViewingArea_Jt\ViewingArea_Jt_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities\objects\scenery\ViewingArea_St\ViewingArea_St_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>
+               Un poste d'observation à thème offre au public un endroit abrité pour observer les animaux. Le public aime découvrir des objets à thème lors des visites guidées.
+                  <p/>Pour voir les thèmes que vous pouvez débloquer, cliquez sur le bouton Renommée du zoo, sur l'onglet Récompenses du zoo, puis sur Prix permanents. 
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_themedumbrellatable" version="6"/>
+      <LOC_STRING _locID="zoopedia_themedumbrellatable:entry" version="6">Table avec parasol à thème</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_themedumbrellatable:text" version="6">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities\objects\scenery\umbrellatable_jt\umbrellatable_jt_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities\objects\scenery\umbrellatable_St\umbrellatable_St_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>
+               Une table d'extérieur permet aux visiteurs de s'asseoir pour consommer la nourriture et les boissons qu'ils ont achetées au zoo. Les visiteurs apprécient de ne pas devoir manger debout. Le public aime découvrir des objets à thème lors des visites guidées.
+                  <p/>Pour voir les nombreux thèmes que vous pouvez débloquer, cliquez sur le bouton Renommée du zoo, sur l'onglet Récompenses du zoo, puis sur Prix permanents.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+
+</ZT2Strings>

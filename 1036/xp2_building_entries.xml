@@ -1,0 +1,69 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_bluewhalehall_mm:entry">Palais de la baleine bleue</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_bluewhalehall_mm:text">
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\objects\buildings\bluewhalehall_mm\bluewhalehall_mm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+Le palais de la baleine bleue est un vaste aquarium où l'on peut admirer des baleines bleues, les plus gros animaux au monde. Ce musée amuse autant qu'il éduque ses visiteurs qui, lorsqu'ils en sortent, n'hésitent pas à faire des dons éducatifs.
+		<p/>
+Pour débloquer le palais de la baleine bleue, menez à bien la campagne Animaux marins.
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_giftcart_mm:entry">Marchand souvenirs marins</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_giftcart_mm:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities/objects/buildings/giftcart_mm/giftcart_mm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>
+Le marchand de souvenirs marins propose des cadeaux sur le thème des animaux marins. Placez un marchand de souvenirs marins près de vos bassins classiques et spectacles aquatiques pour permettre aux visiteurs d'y acheter des objets à l'effigie de leurs animaux marins préférés.         
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_sharkphotobooth:entry">Cabine photo requin</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_sharkphotobooth:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities/objects/buildings/sharkphotobooth_mm/sharkphotobooth_mm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>                 
+La cabine photo requin permet aux visiteurs de se faire photographier aux côtés d'un requin des plus réalistes. Certains apprécient de se faire photographier avec un faux requin, mais d'autres se montrent plus craintifs.             
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_touchpool_mm:entry">Bassin de contact</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_touchpool_mm:text">
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\objects\buildings\touchpool_mm\touchpool_mm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+Le bassin de contact permet aux visiteurs de voir et d'interagir avec de petits animaux aquatiques parmi lesquels des conques, des crabes fer à cheval, des étoiles et des concombres de mer. Les visiteurs raffolent du bassin de contact.
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING> 
+
+
+  
+</ZT2Strings>

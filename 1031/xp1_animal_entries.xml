@@ -1,0 +1,2299 @@
+﻿<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_foxfennec:entry">Fennek</LOC_STRING> <LOC_STRING _locID="zoopedia_foxfennec:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/FoxFennec/FoxFennec_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						</cell>
+						<cell width="16">
+							<img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						</cell>
+						<cell width="16">
+							<img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						</cell>
+						<cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">Gefährdungsstatus: <br/> <color r="170" g="255" b="0">Gering gefährdet</color></color>                  
+                  </cell>
+               </cell>             
+               
+               <cell width="128">
+                  <color r="255" g="255" b="255">Wüste<br/></color> <img src="ui/icon_biomes/icon_desert.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+               </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Nordafrika<br/></color> <img src="ui/icon_maplocations/Desert_Africa_North.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">Klasse: Säugetiere<i>(Mammalia)</i> <br/>Ordnung: Raubtiere <i>(Carnivora)</i> <br/>Familie: Hunde <i>(Canidae)</i> <br/>Gattung: <i>Vulpes</i> <br/>Art: <i>Zerda</i></color>
+               </cell>
+               <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/desert_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+               </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Spannende Fakten zum Fennek</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Der Fennek ist der kleinste aller Hunde und kleiner als eine Hauskatze, hat aber proportional zum Körper die größten Ohren.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Die Ohren des Fennek sind so empfindlich, dass er große Insekten (z. B. Käfer und Heuschrecken) hören kann, die sich auf dem Sand fortbewegen.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Sein dickes Fell scheint für ein Wüstentier etwas ungewöhnlich. Der nachtaktive Fennek benötigt diese Isolierung jedoch als Schutz vor den kalten Wüstennächten.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Fenneks verbringen den Tag in unterirdischen Tunneln, die miteinander verbunden sind, und so eine gemütliche unterirdische Gemeinschaft bilden.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>               
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Fenneks werden häufig wegen ihres Pelzes gejagt oder als Haustiere verkauft.</color>
+               </cell>                              
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">Um den Fennek im Herausforderungs- oder Kampagnenmodus freizugeben, muss der Zoo einen Bekanntheitsgrad von 2 Sternen erreichen.</color>
+            <p/>Fennek ist der gebräuchliche Name für eine kleine Hundeart aus den nordafrikanischen Wüsten. Der Körper des Fenneks ist etwa 35,7 bis 40,7 cm lang. Der buschige Schwanz misst ungefähr 17,8 bis 30,5 cm. Der Fennek ist blassbraun bis fast weiß und ähnelt mit Ausnahme der abstehenden Ohren, die jeweils so groß sind wie das Gesicht, seinem Verwandten, dem Fuchs.
+            <p/>
+            Der Fennek kann mit großer Geschwindigkeit graben. Wenn er verfolgt wird, scheint er fast in den Sand einzutauchen. Sein Tunnel ist mit einer Vielzahl an weichen Gegenständen ausgelegt, darunter Fellstücke und Federn. Tagsüber schläft der Fennek in der Regel, um sich dann in der Nacht auf Beutesuche zu begeben.
+            <p/>
+            Er ernährt sich hauptsächlich von Mäusen, kleinen Vögeln, Eidechsen und Insekten. Daneben ergänzt er diese Diät durch Früchte. Manchmal trinkt der Fennek an Wasserlöchern. Studien deuten jedoch darauf hin, dass dies eigentlich nicht notwendig ist. Der Fennek ist perfekt an seinen Lebensraum in der Wüste angepasst und kann daher auch für unbegrenzte Zeit ohne Wasser leben.
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Mit freundlicher Genehmigung von <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2005.</color></u></a> (C) 1993-2005 Microsoft Corporation. Alle Rechte vorbehalten.
+         </cell>
+      </LOC_STRING> <LOC_STRING _locID="zoopedia_bearspectacled:entry">Brillenbär</LOC_STRING> <LOC_STRING _locID="zoopedia_bearspectacled:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/BearSpectacled/BearSpectacled_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						</cell>
+						<cell width="16">
+							<img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						</cell>
+						<cell width="16">
+							<img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						</cell>
+						<cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/vulnerable.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">Gefährdungsstatus: <br/> <color r="255" g="255" b="0">Gefährdet</color></color>                  
+                  </cell>
+               </cell>            
+
+               <cell width="128">
+                  <color r="255" g="255" b="255">Gemäß. Wald<br/></color> <img src="ui/icon_biomes/icon_temperateforest.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+               </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Südamerika<br/></color> <img src="ui/icon_maplocations/Temperateforest_America_South.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">Klasse: Säugetiere <i>(Mammalia)</i><br/>Ordnung: Raubtiere <i>(Carnivora)</i><br/>Familie: Bären <i>(Ursidae)</i><br/>Gattung: <i>Tremarctos</i><br/>Art: <i>Ornatus</i></color>
+               </cell>
+               <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/temperateforest_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+               </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Spannende Fakten zum Brillenbär</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Brillenbären sind auch als Andenbären bekannt, da sie hauptsächlich in dieser südamerikanischen Gebirgskette leben.</color>
+               </cell>
+               <br/>
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Der Brillenbär verdankt seinen Namen der Fellzeichnung rund um die Augen. Sie ist bei jedem Bären anders und ermöglicht so eine leichte Identifizierung dieses Tieres.</color>
+               </cell>
+               <br/>
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Der Brillenbär spielt eine wichtige Rolle beim Verteilen von Samen. Zu seiner Nahrung gehören die Samen von Lorbeerbäumen und anderen Pflanzen, die er über seinen Kot ausscheidet.</color>
+               </cell>
+               <br/>
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Die größten Bedrohungen für den Fortbestand des Brillenbären sind die Zerstörung seines Lebensraums und die Wilderei.</color>
+               </cell>
+               <br/>
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Im Rahmen eines internationalen Brillenbär-Symposiums im Jahre 1988 beschlossen Biologen und Zoodirektoren gemeinsam eine bessere und genaue Überwachung des Bestandes der Bärenpopulation in Südamerika.</color>
+               </cell>
+               <br/>               
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">Um den Brillenbär im Herausforderungs- oder Kampagnenmodus freizugeben, muss der Zoo einen Bekanntheitsgrad von 4 Sternen erreichen.</color>
+            <p/>
+Brillenbär ist der gebräuchliche Name für einen südamerikanischen Bären mit einer typischen Gesichtsfärbung. Brillenbären sind zumeist schwarz oder braun mit weißen oder cremefarbenen, manchmal auch in Orangetöne übergehenden Flecken rund um Brust, Hals und den Augenbereich, häufig mit einem Ring um einen Teil der beiden Augen. Verwandte des Brillenbären bevölkerten einst große Teile Nordamerikas. Mittlerweile ist der Brillenbär jedoch die letzte vorhandene Art seiner Gattung. Heutzutage findet man den Brillenbären von Bolivien bis Kolumbien, wo er sich in hochgelegene, steile und raue Gebiete zurückziehen musste, die sich nicht für die Landwirtschaft eignen.
+            <p/>
+Brillenbären sind klein: Die Männchen wiegen bis zu 154 kg, die Weibchen etwa 62 kg. Die Tatzen verfügen über relativ kurze, scharfe und kraftvolle Krallen, die sich zum Klettern und zum Auseinanderreißen von Bäumen eignen. Die Bären ernähren sich größtenteils von wilden Früchten (zumeist Feigen), Blättern, Kleintieren, Insekten, saftigen Kräutern und Gräsern. Häufig verweilen sie für längere Zeit in Baumkronen und bauen sich dort jede Nacht ein Nest zum Schlafen. Die Bären geben relativ oft Laute von sich. Ausgewachsene Exemplare trillern beim Herumwandern, die Jungen brummen, wenn sie entspannt sind.
+            <p/>
+Für Menschen stellen die Brillenbären keine Bedrohung dar, aber sie richten oft einen beträchtlichen Schaden auf landwirtschaftlich genutzten Feldern an. Die Bejagung des Brillenbären wegen seines schmackhaften Fleisches und zum Schutz vor landwirtschaftlichen Schäden setzt den Populationen erheblich zu. Aufgrund der Verfolgung durch den Menschen ist sein Lebensraum in den meisten Ländern stark zurückgegangen. Lediglich in Bolivien ist der Bestand einigermaßen gesichert.
+            <p/>
+Beitrag von: <br/>Charles Joseph Jonkel
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Mit freundlicher Genehmigung von <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2005.</color></u></a> (C) 1993-2005 Microsoft Corporation. Alle Rechte vorbehalten.
+         </cell>
+      </LOC_STRING> <LOC_STRING _locID="zoopedia_oryxscimitarhorned:entry">Säbelantilope</LOC_STRING> <LOC_STRING _locID="zoopedia_oryxscimitarhorned:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/OryxScimitarHorned/OryxScimitarHorned_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						</cell>
+						<cell width="16">
+							<img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						</cell>
+						<cell width="16">
+							<img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						</cell>
+						<cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/critical.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">Gefährdungsstatus: <br/> <color r="255" g="0" b="0">Stark bedroht</color></color>                  
+                  </cell>
+               </cell>            
+            
+               <cell width="128">
+                  <color r="255" g="255" b="255">Wüste<br/></color> <img src="ui/icon_biomes/icon_desert.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+               </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Nordafrika<br/></color> <img src="ui/icon_maplocations/Desert_Africa_North.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">Klasse: Säugetiere <i>(Mammalia)</i><br/>Ordnung: Paarhufer <i>(Artiodactyla)</i><br/>Familie: Hornträger <i>(Bovidae)</i><br/>Gattung: <i>Oryx</i><br/>Art: <i>Dammah</i></color>
+               </cell>
+               <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/desert_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+               </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Spannende Fakten zur Säbelantilope</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Die Säbelantilope hat sich ihrer Wüstenumgebung bestens angepasst. Ihre Nieren minimieren den Wasserverlust durch das Urin, sodass die Tiere wochenlang ohne Wasser überleben können.</color>
+               </cell>
+               <br/>
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Die Säbelantilope schwitzt erst dann, wenn ihre Körpertemperatur 46 Grad C übersteigt.</color>
+               </cell>
+               <br/>
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Das auffallendste Merkmal der Säbelantilope sind die sichelförmigen Hörner, die sehr empfindlich sind und leicht brechen. Dennoch können sie als kraftvolle Waffen eingesetzt werden. Es sind Fälle bekannt, in denen die Antilopen damit einen Löwen getötet haben.</color>
+               </cell>
+               <br/>
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Insbesondere wegen ihrer schönen Hörner wurde die Säbelantilope bis an den Rand der Ausrottung gejagt. Sie gilt in freier Wildbahn als ausgestorben.</color>
+               </cell>
+               <br/>
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Die größten Feinde der Säbelantilope sind Löwen, Leoparden, Hyänen und Afrikanische Wildhunde.</color>
+               </cell>
+               <br/>
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Die Einführung tiefer Brunnen zur Wasserversorgung von Rinderherden entlang der Ränder der Wüste Sahara hat ebenfalls zum Rückgang der Säbelantilope beigetragen, da die Herden die vorhandene Nahrung vollständig wegfressen.</color>
+               </cell>
+               <br/>             
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">Um die Säbelantilope im Herausforderungs- oder Kampagnenmodus freizugeben, muss der Zoo einen Bekanntheitsgrad von einem Stern erreichen.</color>
+            <p/>
+Als Oryxantilopen bezeichnet man drei Arten von Antilopen mit Hörnern, die in Afrika und im Nahen Osten leben. Die bekannteste Art ist die Oryxantilope. Sowohl die Weiße (oder Arabische) Oryx als auch die Säbelantilope sind als bedrohte Tierarten gelistet. Das Tier kann mehr als 200 kg wiegen, hat eine Schulterhöhe von 1,4 m und verfügt über Hörner, die fast genauso lang sind.
+            <p/>
+Seit es entsprechende Aufzeichnungen gibt, wurde unter den Antilopenarten lediglich der südafrikanische Blaubock ausgerottet, der um 1800 verschwunden ist. Seither verzeichneten jedoch die meisten Arten einen erheblichen zahlenmäßigen Rückgang, und einige stehen kurz vor dem Aussterben. Zu den gefährdetsten Arten gehören die Mendesantilope, die Säbelantilope und die Arabische Oryx, die alle wegen ihrer Hörner gejagt werden. Alle drei Arten leben in Trockengebieten und Wüsten ohne hochgewachsene Vegetation, wo sie für Jäger in motorisierten Fahrzeugen ein leichtes Ziel sind. Nach mehreren Jahrzehnten der motorisierten Jagd haben nur wenige Hundert Mendesantilopen und Arabische Oryx in freier Wildbahn überlebt. Die Rote Liste der bedrohten Tierarten der World Conservation Union (IUCN), einer nichtstaatlichen Organisation, die weltweit Informationen zu gefährdeten Arten erfasst, führt die Säbelantilope mittlerweile als in freier Wildbahn ausgestorben auf. Lediglich in geschützten Parks und Zoos haben einige kleine Populationen überlebt.
+            <p/>
+In den vergangenen Jahrzehnten wurden bei einigen Artenschutzprogrammen gewisse Erfolge bei überjagten Arten erzielt. In Aufzuchtprogrammen von amerikanischen und europäischen Zoos konnten seit den Sechzigerjahren über 2.000 Arabische Oryx herangezogen werden. Die Art wurde in geschützten Gebieten im Oman ausgewildert und ihre Zukunft gilt als relativ sicher. Weltweit gibt es in Zoos ähnliche Artenschutzprogramme für die Mendes- und die Säbelantilope.
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Mit freundlicher Genehmigung von <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2005.</color></u></a> (C) 1993-2005 Microsoft Corporation. Alle Rechte vorbehalten.
+         </cell>
+      </LOC_STRING> <LOC_STRING _locID="zoopedia_bisonamerican:entry">Bison, Amerikanischer</LOC_STRING> <LOC_STRING _locID="zoopedia_bisonamerican:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/BisonAmerican/BisonAmerican_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						</cell>
+						<cell width="16">
+							<img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						</cell>
+						<cell width="16">
+							<img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						</cell>
+						<cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">Gefährdungsstatus: <br/> <color r="170" g="255" b="0">Gering gefährdet</color></color>                  
+                  </cell>
+               </cell>            
+            
+               <cell width="128">
+                  <color r="255" g="255" b="255">Grasland<br/></color> <img src="ui/icon_biomes/icon_grassland.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+               </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Nordamerika<br/></color> <img src="ui/icon_maplocations/Grassland_America_North.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">Klasse: Säugetiere <i>(Mammalia)</i><br/>Ordnung: Paarhufer <i>(Artiodactyla)</i><br/>Familie: Hornträger <i>(Bovidae)</i><br/>Gattung: <i>Bison</i><br/>Art: <i>Bison</i></color>
+               </cell>
+               <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/grassland_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+               </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Spannende Fakten zum Amerikanischen Bison</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Der Amerikanische Bison ernährt sich hauptsächlich von Gräsern und Sauergräsern sowie gelegentlich von Beeren oder Flechten.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Im Winter fegt der Bison mit seinem Kopf und den Hufen den Schnee von der Vegetation.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Amerikanische Bisons sind am frühen Morgen, am späten Nachmittag und in mondhellen Nächten am aktivsten.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Der amerikanische Bison ist so beweglich, dass sein Kopf, die Schulter und der Schwanz beim Schwimmen über Wasser bleiben.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Wenn der Amerikanische Bison in Panik vor einer Gefahr flieht, kann er Geschwindigkeiten von bis zu 50 km/h erreichen.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>               
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Die meisten heute lebenden Amerikanischen Bisons sind Nachfahren einer kleinen Herde, die im Yellowstone-Park Anfang des 20. Jahrhunderts von der Regierung unter Schutz gestellt wurde.</color>
+               </cell>               
+               <br/>               
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">Um den Amerikanischen Bison im Herausforderungs- oder Kampagnenmodus freizugeben, muss der Zoo einen Bekanntheitsgrad von 1/2 Stern erreichen.</color>
+            <p/>
+Der Bison ist das größte Landtier Nordamerikas und wird dort in der Regel "Buffalo" (Büffel) genannt. Biologen bevorzugen jedoch die Bezeichnung Bison, die auf dem lateinischen Namen des Tiers beruht und es vom afrikanischen Kaffernbüffel und dem asiatischen Wasserbüffel unterscheidet.
+            <p/>
+Der Bison zeichnet sich durch einen Buckel über den vorderen Schultern, durch kurze, spitz zulaufende Hörner (bei Männchen und Weibchen), die sich von beiden Seiten des riesigen Kopfes auswärts nach oben drehen, und durch ein schlankeres Hinterteil aus. Ein ausgewachsener Nordamerikanischer Bisonbulle erreicht am Buckel eine Höhe von etwa 2 m, ist 2,7 bis 3,7 m lang und wiegt 850 bis 1.100 kg. Die Weibchen sind kleiner. Kopf, Hals, Vorderbeine und die Vorderseite des Körpers sind mit einem Fell von langen, dunklen Haaren bedeckt. Das Fell auf der Hinterseite ist bedeutend kürzer. Ein ausgewachsener Bulle besitzt in der Regel einen etwa 30 cm langen Bart.
+            <p/>
+Bisons treten mit Ausnahme von alten, einzelgängerischen Bullen normalerweise in Gruppen auf. Die meiste Zeit des Jahres bilden die Kühe gemeinsam mit den Jungen kleine Gruppen, zu denen mitunter auch nicht ausgewachsene Bullen gehören. Ausgewachsene Bullen bilden eigene Gruppen. Oft versammeln sich die Gruppen im Herbst oder Frühling in großen Herden, um nach Futter und Wasser zu suchen. Das Grunzen und Schnauben der Bisons ist auf kurze Entfernung gut hörbar. Der Brunftschrei der Bullen, mit einer Reichweite von beinahe 5 km, ist meistens in der Paarungszeit zwischen Juli und September zu hören, wenn die Bullen nach Kühen suchen und versuchen, ihre Rivalen zu vertreiben. Während der Paarungszeit haben die Bullen wenig Zeit für die Nahrungsaufnahme und verlieren mehr als 90 kg ihres Gewichts. Die Tragezeit beträgt acht bis neun Monate. Dann wird ein einzelnes gelbrotes Kalb geboren. Nach wenigen Tagen kann das Kalb mit der Herde mitziehen und folgt der Mutter bis zum nächsten Frühling.
+            <p/>
+Der Bison stammt aus Eurasien und ist eines der wenigen Mitglieder dieser Familie, die in prähistorischer Zeit über die Landbrücke der Beringstraße nach Nordamerika gekommen sind. Bis heute haben zwei Unterarten überlebt, der Präriebison und der Waldbison. Der Europäische Bison, das Wisent, das größer aber leichter ist als der Amerikanische Bison, ist beinahe ausgerottet. Es existieren nur noch wenige Exemplare in Parks und Zoos.
+				<p/>
+Bis ins 19. Jahrhundert lebten in den Präriegebieten zwischen Mexiko und Kanada ganze 60 Millionen Bisons. Manche lebten sogar östlich des Mississippi. Sie waren für die Stämme der Prärie lebenswichtig, denn sie lieferten Nahrung, Häute und Knochenwerkzeuge. Sogar der getrocknete Kot (Buffalo Chips genannt) wurde genutzt - als Brennmaterial. Zwischen 1830 und 1889 wurde dieser Bestand aufgrund der methodischen Bejagung durch weiße Siedler, aus reinem Spaß oder der Häute wegen, auf unter 1000 Exemplare reduziert. Heute leben auf privaten Farmen und in Schutzgebieten mehr als 200.000 Bisons.				
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Mit freundlicher Genehmigung von <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2005.</color></u></a> (C) 1993-2005 Microsoft Corporation. Alle Rechte vorbehalten.
+         </cell>
+      </LOC_STRING> <LOC_STRING _locID="zoopedia_pantherflorida:entry">Florida-Panther</LOC_STRING> <LOC_STRING _locID="zoopedia_pantherflorida:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+               <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+                  <img src="entities/units/animals/PantherFlorida/PantherFlorida_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+               </cell>
+               <cell width="16">
+                  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+               </cell>
+               <cell width="16">
+                  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+               </cell>
+               <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/critical.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">Gefährdungsstatus: <br/> <color r="255" g="0" b="0">Stark bedroht</color></color>                  
+                  </cell>
+               </cell>            
+            
+               <cell width="128">
+                  <color r="255" g="255" b="255">Feuchtgebiete<br/></color> <img src="ui/icon_biomes/icon_wetlands.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+               </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Florida<br/></color> <img src="ui/icon_maplocations/Wetlands_Florida.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">Klasse: Säugetiere <i>(Mammalia)</i><br/>Ordnung: Raubtiere <i>(Carnivora)</i><br/>Familie: Katzen<i>(Felidae)</i><br/>Gattung: <i>Puma</i><br/>Art: <i>Concolor</i> <br/>Unterart:  <i>Coryi</i></color>
+               </cell>
+               <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/wetlands_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+               </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Spanennde Fakten zum Florida-Panther</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Florida-Panther markieren ihr Territorium mit kleinen Haufen (aus Erde, Blättern oder Kiefernnadeln, auf die sie dann oft noch Urin- oder Kotmarken setzen).</color>
+               </cell>
+               <br/>
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Der Florida-Panther ernährt sich überwiegend von Weißwedelhirschen, Wildschweinen, Hasen, Waschbären, Gürteltieren und Vögel.</color>
+               </cell>
+               <br/>
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Die Jungkatzen halten mit ihren Müttern über Pfiffe Kontakt.</color>
+               </cell>
+               <br/>
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Die Jungtiere können ihre Energie und die Körpertemperatur für einige Tage aufrechterhalten. Dadurch können die Muttertiere sie alleine zurück lassen, um nach Futter zu suchen.</color>
+               </cell>
+               <br/>
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Das Überleben des Florida-Panthers ist bedroht. Durch zunehmendes Bevölkerungswachstum und Abholzung gibt es immer weniger der für dieses wundervolle Tier so wichtigen ausgedehnten Waldgebiete.</color>
+               </cell>
+               <br/>               
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">Um den Florida-Panther im Herausforderungs- oder Kampagnenmodus freizugeben, muss der Zoo einen Bekanntheitsgrad von 5 Sternen erreichen.</color>
+            <p/>
+Der Florida-Panther (auch als Puma oder Berglöwe bekannt) ist ein nordamerikanisches Raubtier mit dickem, rotbraunem Fell. An den Seiten ist das Fell weniger dicht und an der Schnauze, dem Kinn, der Kehle, der Brust und an den Innenseiten der Füße weißlich. Der Körper ist auch ohne den langen Schwanz bis zu 1,95 m lang. Der Kopf ist relativ klein und weist über den Augen jeweils einen schwarzen Fleck auf. Die Weibchen gebären pro Wurf zwei bis vier Junge mit dunkelbraunen Flecken auf dem Rücken und einem geringelten Schwanz.
+            <p/>
+Die Everglades und die Zypressensümpfe Südfloridas bieten vielen Wildtieren im Osten der Vereinigten Staaten eine der letzten Zufluchtsstätten. Eine der seltensten Arten dieser Region ist der so genannte Florida-Panther. Dies ist der einzige Puma, den man heute noch östlich des Mississippi antrifft. Er ist als bedrohte Tierart gelistet und wird durch bundesstaatliche Gesetze und Bundesgesetze geschützt.
+            <p/>
+Der Florida-Panther genießt außerdem heute in Florida, wo er bislang in den Kiefer- und Eichenwäldern im und rund um den Big Cypress Swamp gerade noch so überleben konnte, wieder eine außerordentliche öffentliche Unterstützung. Vom Staat seit 1958 geschützt, gewann der Florida-Panther eine Kampagne von Schulkindern und wurde im Jahre 1982 zum offiziellen Tier des Staates gekürt.            
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Mit freundlicher Genehmigung von <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2005.</color></u></a> (C) 1993-2005 Microsoft Corporation. Alle Rechte vorbehalten.
+         </cell>
+      </LOC_STRING> <LOC_STRING _locID="zoopedia_rhinocerosjavan:entry">Javanashorn</LOC_STRING> <LOC_STRING _locID="zoopedia_rhinocerosjavan:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/RhinocerosJavan/RhinocerosJavan_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						</cell>
+						<cell width="16">
+							<img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						</cell>
+						<cell width="16">
+							<img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						</cell>
+						<cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/critical.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">Gefährdungsstatus: <br/> <color r="255" g="0" b="0">Stark bedroht</color></color>                  
+                  </cell>
+               </cell>            
+            
+               <cell width="128">
+                  <color r="255" g="255" b="255">Tropischer Regenwald<br/></color> <img src="ui/icon_biomes/icon_tropicalrainforest.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+               </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Südostasien<br/></color> <img src="ui/icon_maplocations/Rainforest_Asia_SouthEast.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284">
+                  <color r="255" g="255" b="255">Klasse: Säugetiere <i>(Mammalia)</i><br/>Ordnung: Unpaarhufer <i>(Perissodactyla)</i><br/>Familie: Nashörner <i>(Rhinocerotidae)</i><br/>Gattung: <i>Rhinoceros</i><br/>Art: <i>Sondaicus</i></color>
+               </cell>
+               <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/tropicalrainforest_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+               </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Spannende Fakten zum Javanashorn</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Das Rhinozeros verdankt seinen Namen dem griechischen Wort "rhino" für "Nase" und "cero" für "Horn".</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>               
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Viele weibliche Javanashörner haben keine Hörner und sind - anders als bei anderen Arten - größer als die Männchen.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>               
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">In freier Wildbahn haben heute weniger als 60 Javanashörner überlebt.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>               
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Zwar gibt es keine Javanashörner in Gefangenschaft, im Cat Loc-Naturreservat in Vietnam leben jedoch fünf bis acht Exemplare.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>               
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Die Tiere werden nicht nur wegen des Horns gewildert, auch die dichten Regenwälder, ihr Lebensraum, wurden stark gerodet.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>               
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Aufgrund des kleinen noch vorhandenen Genbestandes und der langen Tragezeit fürchten Wissenschaftler, dass das Javanashorn kurz vor dem Aussterben steht.</color>
+               </cell>               
+               <br/>
+               
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">Um das Javanashorn im Herausforderungs- oder Kampagnenmodus freizugeben, muss der Zoo einen Bekanntheitsgrad von 3-1/2 Sternen erreichen.</color>
+            <p/>
+Das Javanashorn lebt in dichten tropischen Regenwäldern auf der Insel Java im Süden Indonesiens und in einigen Gebieten Vietnams. Es wird stark bejagt wegen seines Horns, das in der traditionellen Medizin verwendet wird. In freier Wildbahn haben weniger als 60 Tiere überlebt. Die Rote Liste der bedrohten Tierarten der World Conservation Union (IUCN), einer nichtstaatlichen Organisation, die weltweit Informationen zu gefährdeten Arten erfasst, führt das Javanashorn als stark bedroht auf.
+            <p/>
+Das indische Panzernashorn und das Javanashorn ähneln sich in vielerlei Hinsicht. Die größte Gemeinsamkeit ist dabei das einzelne Horn. Das Horn des Panzernashorns kann eine Länge von bis zu 50 cm erreichen, das des Javanashorns ist etwa halb so groß und bei Weibchen fehlt es oft ganz. Beide Arten haben eine graubraune, in dicke Falten geworfene Haut. Diese Falten sind bei männlichen Panzernashörnern besonders auffällig, da sie in der Halsgegend mit zunehmendem Alter zusätzliche Falten ausbilden. Anders als das Sumatranashorn sind beide Arten mit Ausnahme einiger Fransen um die Ohren und einer Quaste am Schwanz praktisch haarlos. 
+            <p/>
+Das Panzernashorn erreicht als größte asiatische Art eine Schulterhöhe von bis zu 1,8 m. Ausgewachsene Männchen wiegen bis zu 2.200 kg. Damit sind sie das zweitschwerste Landtier in Asien (nach dem Asiatischen Elefanten). Das Javanashorn wiegt maximal 2.000 kg. Erstaunlicherweise sind beim Javanashorn die Weibchen größer als die Männchen. Beide Arten benötigen eine wasserreiche Umgebung. Dabei hält sich das Panzernashorn häufig im offenen Grasland auf, statt sich wie die anderen Arten im dichten Wald zu verbergen.            
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Mit freundlicher Genehmigung von <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2005.</color></u></a> (C) 1993-2005 Microsoft Corporation. Alle Rechte vorbehalten.
+         </cell>
+      </LOC_STRING> <LOC_STRING _locID="zoopedia_tapirbairds:entry">Tapir, Mittelamerikanischer</LOC_STRING> <LOC_STRING _locID="zoopedia_tapirbairds:text">
+  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">
+   
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/TapirBairds/TapirBairds_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/endangered.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">Gefährdungsstatus: <br/> <color r="255" g="155" b="0">Bedroht</color></color>                  
+                  </cell>
+               </cell>   
+   
+    <cell width="128">
+     <color r="255" g="255" b="255">Tropischer Regenwald<br/></color> <img src="ui/icon_biomes/icon_tropicalrainforest.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+    </cell>
+    <cell width="128">
+     <color r="255" g="255" b="255">Mittelamerika<br/></color> <img src="ui/icon_maplocations/Rainforest_America_Central.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+    </cell>
+    <br/>
+    <cell width="284">
+     <color r="255" g="255" b="255">Klasse: Säugetiere <i>(Mammalia)</i><br/>Ordnung: Unpaarhufer <i>(Perissodactyla)</i><br/>Familie: Tapire <i>(Tapiridae)</i><br/>Gattung: <i>Tapirus</i><br/>Art: <i>Bairdii</i></color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="UI/zoopedia/biome/tropicalrainforest_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Spannende Fakten zum Mittelamerikanischen Tapir</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Der Mittelamerikanische Tapir ist das größte einheimische Säugetier Mittelamerikas.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Es ist das Nationaltier von Belize und steht in den meisten mittelamerikanischen Staaten unter Schutz.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Die Einheimischen gaben ihm den Spitznamen "Bergkuh". Tatsächlich ist der Mittelamerikanische Tapir aber mit dem Pferd und dem Nashorn verwandt.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>        
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Der Mittelamerikanische Tapir ist ein lebendes Fossil. Seine Körperform hat sich in den letzten 35 Millionen Jahren nicht verändert.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Das Tier ist bekannt für seine lange, flexible Oberlippe, die dem Rüssel eines Elefanten ähnelt.</color>     
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>        
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Das Überleben des Mittelamerikanischen Tapirs ist durch den Verlust des Lebensraums aufgrund der starken Abholzung bedroht.</color>
+    </cell>
+  </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178">Um den Mittelamerikanischen Tapir im Herausforderungs- oder Kampagnenmodus freizugeben, muss der Zoo einen Bekanntheitsgrad von 1-1/2 Sternen erreichen.</color>
+   <p/>
+Tapir ist der gebräuchliche Name für ein Huftier mit einem wuchtigen Körper, kurzen Beinen, einem kurzen Schwanz und einem Kopf, der durch einen kurzen, flexiblen Rüssel, kleine Augen und abstehende Ohren gekennzeichnet ist. Die Tiere leben in dichten Wäldern und Grasgebieten in Mittel- und Südamerika sowie in Asien. Wenn sich Tapire bedroht fühlen, flüchten sie ins Wasser oder ins dichte Unterholz. Mit anderen Mitgliedern des Familienverbandes scheinen sie sich im Pflanzendickicht des Regenwalds durch Quieken zu verständigen. Sie ernähren sich von Blättern, Früchten und anderer Vegetation. Der Tapir ähnelt so sehr den Überresten eines Tiers aus dem Pliozän, dass beide Tiere der gleichen Gattung zugeordnet werden. Abgesehen vom Menschen hat der Tapir nur einige Mitglieder aus der Familie der Großkatzen zum Feind. Der Verlust des Lebensraums durch Abholzung und die Jagd haben zwei Arten in den nördlichen Anden und in Panama an den Rand des Aussterbens gebracht.
+  </cell>
+  <p/>
+  <cell width="260"/>
+  <cell width="620">
+   Mit freundlicher Genehmigung von <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2005.</color></u></a> (C) 1993-2005 Microsoft Corporation. Alle Rechte vorbehalten.
+  </cell>
+ </LOC_STRING> <LOC_STRING _locID="zoopedia_caribou:entry">Karibu</LOC_STRING> <LOC_STRING _locID="zoopedia_caribou:text">
+  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">
+   
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/Caribou/Caribou_M_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/Caribou/Caribou_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>						 
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>						 
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/vulnerable.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">Gefährdungsstatus: <br/> <color r="255" g="255" b="0">Gefährdet</color></color>                  
+                  </cell>
+               </cell>   
+   
+    <cell width="128">
+     <color r="255" g="255" b="255">Tundra<br/></color> <img src="ui/icon_biomes/icon_Tundra.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+    </cell>
+    <cell width="128">
+     <color r="255" g="255" b="255">Nordamerika<br/></color> <img src="ui/icon_maplocations/Tundra_Arctic.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+    </cell>
+    <br/>
+    <cell width="284" pady="10">
+     <color r="255" g="255" b="255">Klasse: Säugetiere <i>(Mammalia)</i><br/>Ordnung: Paarhufer <i>(Artiodactyla)</i><br/>Familie: Hirsche <i>(Cervidae)</i><br/>Gattung: <i>Rangifer</i><br/>Art: <i>Tarandus</i></color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="UI/zoopedia/biome/tundra_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Spannende Fakten zum Karibu</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Obwohl sie unterschiedliche Namen haben, gelten Karibu und Rentier als ein und dieselbe Art.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Ein Karibukalb kann bereits 90 Minuten nach der Geburt laufen und mit der Herde Schritt halten.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>        
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Die hohlen Haare des Karibus schließen Luft ein. Dies sorgt für eine hervorragende Isolierung und verleiht Ihnen im Wasser zusätzlichen Auftrieb.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>        
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Karibus sind optimal an die raue arktische Tundra angepasst, da sie sich über den Winter von Flechten (auch Rentiermoos genannt) ernähren können.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Die Karibus verfügen ähnlich wie Zugvögel über einen inneren Kompass, der es ihnen bei der Futtersuche erlaubt, in unbekannte Gegenden vorzudringen.</color>
+    </cell>
+   <br/> 
+   </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178">Um das Karibu im Herausforderungs- oder Kampagnenmodus freizugeben, muss der Zoo einen Bekanntheitsgrad von 1/2 Stern erreichen.</color>
+   <p/>
+   Karibu, nordamerikanischer Hirsch derselben Art wie das eurasische Rentier. Karibus erreichen eine Schulterhöhe von 87 bis 140 cm und wiegen zwischen 60 und 318 kg. Männchen und Weibchen haben Geweihe, die der Weibchen sind jedoch kleiner und einfacher. Es gibt zwei Hauptarten: das Barren Ground-Karibu und das Waldlandkaribu.
+   <p/>
+   Das Barren Ground-Karibu lebt in den Tundren Nordkanadas, Grönlands und Alaskas. Über Jahrhunderte waren diese Tiere für das Überleben der Inuit von größter Wichtigkeit. Sie nutzten sämtliche Bestandteile des Tieres als Nahrung, Werkzeug oder Kleidung. Karibus leben in der Regel in kleinen Herden von Kühen und Kälbern mit einigen wenigen Bullen. Die meisten älteren Bullen bilden außerhalb der Brunstzeit eigene kleine Gruppen und wandern am Rande der Herde. Die Brunstzeit ist im September und Oktober, die Kälber werden im Mai und Juni geboren. Diese Karibus haben ein graues oder hellbraunes Sommerfell und ein weißes Winterfell. Im Winter versammeln sie sich in großen Herden und ziehen bis zu 5.000 km weit zu den etwas wärmeren Wäldern im Süden Kanadas, um dann im Frühling wieder Richtung Norden aufzubrechen. Die Hauptnahrung der Karibus besteht aus Flechten, sie fressen aber auch Gräser, Sträucher, Baumtriebe und Pilze. In Alaska und Kanada wurden dank der Bemühungen von Umweltschützern die Pläne für die Errichtung einer Öl- und Gaspipeline so geändert, dass sie die Wanderrouten der Karibus nicht beeinträchtigen.
+   <p/>
+   Das Waldkaribu ist von geringerer wirtschaftlicher Bedeutung. Es ist dunkler und kräftiger und hat ein schwereres Geweih als das Barren Ground-Karibu. Einst waren diese Tiere von Maine bis Montana sehr verbreitet, heute sind sie in weiten Teilen der USA ausgerottet.
+  </cell>
+  <p/>
+  <cell width="260"/>
+  <cell width="620">
+   Mit freundlicher Genehmigung von <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2005.</color></u></a> (C) 1993-2005 Microsoft Corporation. Alle Rechte vorbehalten.
+  </cell>
+ </LOC_STRING> <LOC_STRING _locID="zoopedia_antelopesablegiant:entry">Riesen-Rappenantilope</LOC_STRING> <LOC_STRING _locID="zoopedia_antelopesablegiant:text">
+  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">   
+
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/AntelopeSableGiant/AntelopeSableGiant_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/AntelopeSableGiant/AntelopeSableGiant_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>						 
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/critical.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">Gefährdungsstatus: <br/> <color r="255" g="0" b="0">Stark bedroht</color></color>                  
+                  </cell>
+               </cell>   
+   
+    <cell width="128">
+     <color r="255" g="255" b="255">Savanne<br/></color> <img src="ui/icon_biomes/icon_savannah.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+    </cell>
+    <cell width="128">
+     <color r="255" g="255" b="255">Südafrika<br/></color> <img src="ui/icon_maplocations/Savannah_Africa_South_GiantSable.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+    </cell>
+    <br/>
+    <cell width="284" pady="10">
+     <color r="255" g="255" b="255">Klasse: Säugetiere <i>(Mammalia)</i><br/>Ordnung: Paarhufer <i>(Artiodactyla)</i><br/>Familie: Hornträger <i>(Bovidae)</i><br/>Gattung: <i>Hippotragus</i><br/>Art: <i>Niger</i><br/>Unterart: <i>Variani</i></color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="UI/zoopedia/biome/savannah_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Spann. Fakten zur Ries.-Rappenantilope</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Die gewaltigen gebogenen Hörner der Riesen-Rappenantilope können bis zu 1,5 m lang werden.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>        
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Wenn eine Riesen-Rappenantilope ein Horn verliert, wächst es nicht nach.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Die Riesen-Rappenantilope kann Geschwindigkeiten von bis zu 55 km/h erreichen und diese über eine gewisse Entfernung halten.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Das Überleben der in Angola heimischen Riesen-Rappenantilope wurde durch den 27 Jahre währenden Bürgerkrieg in diesem Land bedroht.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Weltweit haben lediglich 1.000 Riesen-Rappenantilopen überlebt, die alle in Zentralangola im Luando-Reservat und im Kangandala-Nationalpark heimisch sind.</color>
+    </cell>    
+    <br/> 
+   </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178">Um die Riesen-Rappenantilope im Herausforderungs- oder Kampagnenmodus freizugeben, muss der Zoo einen Bekanntheitsgrad von 2 Sternen erreichen.</color>
+   <p/>
+Antilope ist der gebräuchliche Name für eine aus vielen Arten bestehende Gruppe von Säugetieren mit hohlen Hörnern, die zur gleichen Familie wie Rinder, Ziegen und Schafe gehören. In Afrika und Asien leben ungefähr 100 Arten von Antilopen, darunter einige der schnellsten und elegantesten und leider auch der bedrohtesten Huftiere.
+   <p/>
+Zu den sieben Arten der Pferdeböcke (Unterfamilie Hippotraginae) zählt man die Rappenantilope, die Pferdeantilope, die Oryxantilope und die Mendesantilope - alle großgewachsene Tiere mit pferdeähnlichem Bau. Sie leben in Afrika und auf der arabischen Halbinsel und bevölkern die unterschiedlichsten Lebensräume, von Waldland bis hin zu Wüsten. Trotz der Bezeichnung Pferdeböcke ist eine Verwechslung mit Pferden aufgrund der ausgesprochen langen Hörner unmöglich. Die Hörner dieser Antilopen sind bei Trophäenjägern sehr begehrt. Daher sind einige dieser Tiere unmittelbar vom Aussterben bedroht.
+   <p/>
+Im Gegensatz zu Hirschen, die ihr verzweigtes Geweih jährlich abwerfen, haben die Antilopen spitz zulaufende Hörner, die sie ein Leben lang behalten. Antilopenhörner können bis 1,5 m lang werden. Sie sehen gefährlich aus, ihr Wert als Waffe ist jedoch begrenzt. Zwar existieren Berichte, nach denen Antilopen selbst große Fressfeinde wie Löwen aufgespießt und getötet haben, in der Regel neigen sie jedoch viel eher dazu, vor einer Bedrohung zu flüchten.
+   <p/>
+Antilopen sind Wiederkäuer, die teilweise verdaute Nahrung nochmals hervorwürgen und erneut kauen. Wie andere Wiederkäuer (z. B. Rinder und Schafe) besitzen Antilopen gut entwickelte Backenzähne oder Mahlzähne, mit denen Sie das Futter zu einer breiigen Masse zerkleinern. Sie haben keine oberen Schneidezähne. Um Grashalme oder Blätter herauszureißen, pressen die unteren Schneidezähne beim Zubeißen gegen eine Hornplatte im Oberkiefer.
+   <p/>
+Ob beim Fressen oder beim Ausruhen - die Antilopen verlassen sich auf ihre sensiblen Wahrnehmungsorgane, um Gefahren auszuweichen. Ihre Augen sind seitwärts gerichtet und die Pupillen horizontal verlängert. So können sie sowohl Gefahren von vorne als auch von hinten erkennen. Gehör und Geruchssinn sind ebenfalls stark ausgeprägt - beides wertvolle Werkzeuge für ein Leben in der offenen Landschaft, in der nach Einbruch der Dunkelheit viele Raubtiere auf die Pirsch gehen.
+   <p/>
+Um zu überleben, verlassen sich die Antilopen auf ihre Fähigkeit, Gefahren zu erkennen und mit hoher Geschwindigkeit zu flüchten. Mithilfe dieses Verteidigungssystems können die Antilopen den meisten natürlichen Feinden entkommen. Es bietet jedoch keinen Schutz vor dem Menschen, der an ihrem Fell, den Hörnern oder dem Fleisch interessiert ist - und genauso wenig vor Veränderungen ihres Lebensraums.
+  </cell>
+  <p/>
+  <cell width="260"/>
+  <cell width="620">
+   Mit freundlicher Genehmigung von <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2005.</color></u></a> (C) 1993-2005 Microsoft Corporation. Alle Rechte vorbehalten.
+  </cell>
+ </LOC_STRING> <LOC_STRING _locID="zoopedia_wolverine:entry">Vielfraß</LOC_STRING> <LOC_STRING _locID="zoopedia_wolverine:text">
+  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">
+   
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/Wolverine/Wolverine_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/vulnerable.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">Gefährdungsstatus: <br/> <color r="255" g="255" b="0">Gefährdet</color></color>                  
+                  </cell>
+               </cell>   
+   
+				<cell width="128">
+					<color r="255" g="255" b="255">Borealer Wald</color> <br/> <img src="ui/icon_biomes/icon_borealforest.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+				</cell>
+				<cell width="128">
+					<color r="255" g="255" b="255">Nordamerika</color> <br/> <img src="ui/icon_maplocations/Boreal_America_North.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+				</cell>
+    <br/>
+    <cell width="284" pady="10">
+     <color r="255" g="255" b="255">Klasse: Säugetiere <i>(Mammalia)</i><br/>Ordnung: Raubtiere <i>(Carnivora)</i><br/>Familie: Marder <i>(Mustelidae)</i><br/>Gattung: <i>Gulo</i><br/>Art: <i>Gulo</i></color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="UI/zoopedia/biome/borealforest_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Spannende Fakten zum Vielfraß</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Der Vielfraß, das größte und wildeste Mitglied der Marderfamilie, ist auch als Järv, Bärenmarder, Carcajou und Glutton bekannt.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>        
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Der Vielfraß hat äußerst starke Zähne und kraftvolle Kiefer, mit denen er seine Beute komplett verschlingen kann, einschließlich der Haut, Hufen und Knochen.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Wenn der Vielfraß die Größe eines Bären hätte, wäre er das stärkste Tier der Welt.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Er ist ein aggressiver Aasfresser, der sogar Pumas und Wölfen die Beute streitig macht.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Der Vielfraß hat einen hochentwickelten Geruchssinn, mit dem er sogar unter dem Schnee Nahrung wittert.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">In den USA ist das Überleben der Vielfraße mit Ausnahme der Bestände in Alaska durch den Verlust ihres Lebensraums und die Jagd gefährdet.</color>
+    </cell>    
+    <br/> 
+   </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178">Um den Vielfraß im Herausforderungs- oder Kampagnenmodus freizugeben, muss der Zoo einen Bekanntheitsgrad von 3 Sternen erreichen.</color>
+   <p/>
+Vielfraß, fleischfressendes Säugetier, lebt in den nördlichen Regionen Nordamerikas, Europas und Asiens und ähnelt in seinem Verhalten dem Dachs. Frankokanadier nennen das Tier Carcajou, bei den Anglokanadiern heißt es Quickhatch. In Europa gibt es die Bezeichnungen Järv und Bärenmarder. Der Körper des Vielfraß ist stämmig, die Beine kurz und dick, und die Klauen lang und gebogen. Kopf und Schwanz trägt der Vielfraß tief, der Rücken bildet einen Bogen. Die Schnauze ist kurz und spitz zulaufend, der Kopf stumpf und abgerundet. Die Augen stehen weit auseinander, die Ohren ragen nur wenig über das Kopffell hinaus. Der Schwanz ist kurz und äußerst buschig, mit einzelnen Haaren von einer Länge von bis zu 20 cm. Der massige Körper ist mit langen, glänzenden Haaren bedeckt. Der Vielfraß ist dunkelbraun, mit einem helleren Streifen an den Seiten. Die Körperlänge beträgt ohne Schwanz 65 bis 105 cm.
+   <p/>
+Den Vielfraß findet man vom Polarkreis bis zur Nordgrenze der USA in Wäldern, Mooren und der Tundra. Außerdem kann man ihn in den Bergen der kalifornischen Sierra Nevada antreffen. Er ist nachtaktiv und hält keinen Winterschlaf. Trotz seiner schwerfällig wirkenden Bewegungen kann sich der Vielfraß auch äußerst behände fortbewegen. Außer in der Brunstzeit sind Vielfraße Einzelgänger. Die zwei bis vier Jungen eines Wurfes kommen in der Regel von Januar bis April zur Welt. Vielfraße ernähren sich von Vogeleiern, Beeren und allen Tieren, die sie erlegen können. In Ermangelung lebender Beute begnügen sie sich auch mit Aas. Geschickt verstehen sie es, die Köder aus von Jägern aufgestellten Tierfallen zu räubern. Die einstmals großen Bestände des Vielfraßes sind heute durch die Jagd nach seinem Fell und wegen seines schlechten Rufs stark geschrumpft.
+  </cell>
+  <p/>
+  <cell width="260"/>
+  <cell width="620">
+   Mit freundlicher Genehmigung von <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2005.</color></u></a> (C) 1993-2005 Microsoft Corporation. Alle Rechte vorbehalten.
+  </cell>
+ </LOC_STRING> <LOC_STRING _locID="zoopedia_koala:entry">Koala</LOC_STRING> <LOC_STRING _locID="zoopedia_koala:text">
+  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">
+   
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/Koala/Koala_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">Gefährdungsstatus: <br/> <color r="170" g="255" b="0">Gering gefährdet</color></color>                  
+                  </cell>
+               </cell>    
+   
+    <cell width="128">
+     <color r="255" g="255" b="255">Gemäß. Wald<br/></color> <img src="ui/icon_biomes/icon_temperateforest.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+    </cell>
+    <cell width="128">
+     <color r="255" g="255" b="255">Australien<br/></color> <img src="ui/icon_maplocations/Temperateforest_Australia.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+    </cell>
+    <br/>
+    <cell width="284" pady="10">
+     <color r="255" g="255" b="255">Klasse: Säugetiere <i>(Mammalia)</i><br/>Ordnung: Diprotodonten <i>(Diprotodontia)</i><br/>Familie: Koalas <i>(Phascolarctidae)</i><br/>Gattung: <i>Phascolarctos</i><br/>Art: <i>Cinereus</i></color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="UI/zoopedia/biome/temperateforest_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Spannende Fakten zum Koala</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Der Name Koala bedeutet in mehreren Sprachen der Aborigines "trinkt nicht".</color>
+    </cell>
+    <br/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Der Koala sieht aus wie ein Bär, ist jedoch ein Beuteltier, ein Säugetier, das seine Jungen in einem Beutel mit sich trägt.</color>
+    </cell>
+    <br/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Koalababys verbringen die ersten sechs Monate im Beutel der Mutter. Anschließend reiten sie weitere sechs Monate auf dem Rücken der Mutter, bis sie selbständig überleben können.</color>
+    </cell>
+    <br/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Koalas sind nachtaktiv und schlafen häufig mehr als 18 Stunden am Tag.</color>
+    </cell>
+    <br/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Der Koala ist eine von weltweit drei Tierarten, die sich von Eukalyptus ernähren können, einer Pflanze, die für die meisten Tiere giftig ist.</color>
+    </cell>
+    <br/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Koalas besitzen ausgeprägte Revieransprüche. Selbst wenn ein Koala gestorben ist, warten die Artgenossen, bis die Duftmarken des toten Tieres verschwunden sind (bis zu einem Jahr), bevor sie in dessen ehemaliges Revier eindringen.</color>
+    </cell>
+    <br/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Aufgrund der Zerstörung ihres natürlichen bewaldeten Lebensraums weichen mittlerweile einige Koalas auch in die Bäume bewohnter Gebiete aus, in denen sie der Bedrohung durch Autos, Hunden und Katzen ausgesetzt sind.</color>
+    </cell>
+    <br/>    
+   </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178">Um den Koala im Herausforderungs- oder Kampagnenmodus freizugeben, muss der Zoo einen Bekanntheitsgrad von 2-1/2 Sternen erreichen.</color>
+   <p/>
+Der Koala ist ein in Bäumen lebendes Beuteltier, das sich fast ausschließlich von Eukalyptus ernährt. Koalas leben in Australien und werden dort mnachmal auch als Koalabären bezeichnet, obwohl sie nicht mit den Bären verwandt sind. Bären sind plazentale Säugetiere - ihre Jungen entwickeln sich vollständig im Mutterleib, wo sie über die Plazenta, ein schwammartiges Organ, ernährt werden. Wie alle Beuteltiere kommen die jungen Koalas noch nicht vollständing entwickelt auf die Welt. Neugeborene Koalas schließen ihre Entwicklung in einem Beutel am Unterleib der Mutter ab.
+   <p/>
+Nur wenige Wildtiere können den Koala an Beliebtheit und Bekanntheitsgrad überbieten. Seine Ähnlichkeit mit einem Teddybär weckt die Zuneigung der Menschen und die Sorge um die Erhaltung dieser Tierart, da mehr und mehr Eukalyptuswälder Ackerbau und Viehzucht, Wohngebieten oder der Industrie weichen müssen.
+   <p/>
+Mit ihrem großen Kopf auf einem untersetzten Körper, dem winzigen Schwanz und den langen, muskulösen Gliedern ähneln die Koalas einem kleinen Bären. Sie haben ein rundes Gesicht mit nach vorne gerichteten Augen, einer stumpfen, auffallenden Nase und zwei runden Ohren an der Oberseite des Kopfes. Koalas sind 70 bis 80 cm groß und wiegen zwischen 5 und 12 kg. Die Männchen sind in der Regel größer als die Weibchen und die Koalas im Süden Australiens sind im Vergleich zu ihren nördlichen Artgenossen ebenfalls meistens größer.
+   <p/>
+Der Körper des Koalas ist von einem dicken, wolligen Fell bedeckt. Bei den meisten Koalas ist das Fell um Hals, Brust und an den Rändern der gerundeten Ohren weiß. Am Rest des Körpers variieren Farbe und Länge des Fells je nach Region. Die Koalas in den kühleren Gebieten des Südens haben ein langes, graubraunes bis zimtfarbenes Fell. In den tropischen Lebensräumen im Norden ist das Fell kürzer und hat eine helle silbergraue Färbung.
+   <p/>
+Die Pfoten des Koala sind ideal zum Greifen und Klettern in den Bäumen geeignet. Die beiden Vorderpfoten weisen fünf Glieder (Finger oder Zehen) auf, die jeweils mit spitzen, gebogenen Krallen zum Klettern ausgestattet sind. Die ersten beiden Glieder stehen den drei anderen gegenüber. Daher sieht es so aus, als ob der Koala zwei Daumen und drei Finger besitzt. Dank dieser Pfotenstruktur kann der Koala nach Zweigen greifen. Die beiden Hinterpfoten haben ebenfalls jeweils fünf Glieder. Ein breites, krallenloses Glied steht vier weiteren gegenüber. Das zweite und dritte Glied sind zu einer einzelnen Zehe mit zwei Klauen vereinigt, die wie ein Kamm zur Fellpflege verwendet wird.
+   <p/>
+Ausgewachsene Koalas haben in der Mitte der Brust eine braune Duftdrüse. Diese Drüse produziert eine stark riechende Substanz, die das Fell rund um die Drüse feucht und dunkel hält. Die Männchen reiben diese Drüse an Baumstämmen und Zweigen. Der dabei hinterlassene Duft spielt möglicherweise eine Rolle bei der Kommunikation unter den Koalas. Die Weibchen besitzen den für die Beuteltiere typischen Beutel am Bauch, in dem sich das Baby die ersten sieben Monate nach der Geburt aufhält und entwickelt. Der Beutel ist nach oben geöffnet, allerdings drückt das Gewicht eines heranwachsenden Babys die Öffnung des Beutels häufig nach unten.
+   <p/>
+Die Augen des Koalas sind nach vorne gerichtet, sodass die Tiere ein Objekt mit beiden Augen fokussieren können. Dank dieser Fähigkeit, dem binokularen Sehen, können Koalas Entfernungen exakt abschätzen. Diese Fähigkeit ist für das Springen von einem Ast zum anderen sehr wichtig. Koalas scheinen einen guten Geruchssinn zu haben - sie schnüffeln an Zweigen, bevor sie sich entscheiden, sie zu fressen. Dies deutet darauf hin, dass sie einen Unterschied zwischen einzelnen Blättern riechen können. Außerdem riechen sie an den Duftsekreten, die die Männchen an den Baumstümpfen und Zweigen hinterlassen. 
+   <p/>
+Weibliche Koalas werden sowohl in Freiheit als auch in Gefangenschaft zwischen 13 und 20 Jahre alt, während die Männchen in der Regel höchstens um die 12 Jahre alt werden. In der Wildnis sterben die meisten Koalas jedoch früher. Sie fallen Fressfeinden, Krankheiten oder Unfällen mit Kraftfahrzeugen zum Opfer.
+  </cell>
+  <p/>
+  <cell width="260"/>
+  <cell width="620">
+   Mit freundlicher Genehmigung von <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2005.</color></u></a> (C) 1993-2005 Microsoft Corporation. Alle Rechte vorbehalten.
+  </cell>
+ </LOC_STRING> <LOC_STRING _locID="zoopedia_wolfgray:entry">Wolf</LOC_STRING> <LOC_STRING _locID="zoopedia_wolfgray:text">
+  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">
+   
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/WolfGray/WolfGray_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">Gefährdungsstatus: <br/> <color r="170" g="255" b="0">Gering gefährdet</color></color>                  
+                  </cell>
+               </cell>   
+   
+    <cell width="128">
+     <color r="255" g="255" b="255">Borealer Wald<br/></color> <img src="ui/icon_biomes/icon_borealforest.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+    </cell>
+    <cell width="128">
+     <color r="255" g="255" b="255">Nordamerika<br/></color> <img src="ui/icon_maplocations/Boreal_America_North.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+    </cell>
+    <br/>
+    <cell width="284" pady="10">
+     <color r="255" g="255" b="255">Klasse: Säugetiere <i>(Mammalia)</i><br/>Ordnung: Raubtiere <i>(Carnivora)</i><br/>Familie: Hunde <i>(Canidae)</i><br/>Gattung: <i>Canis</i><br/>Art: <i>Lupus</i></color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="UI/zoopedia/biome/borealforest_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Spannende Fakten zum Wolf</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Der Wolf, auch als Grauwolf oder Timberwolf bezeichnet, ist der größte aller Wildhunde.</color>
+    </cell>
+    <br/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Wölfe kommunizieren über Duftmarken, Laute (z. B. durch Heulen), Gesichtsausdrücke und Körpersprache.</color>
+    </cell>
+    <br/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Der Wolf ist ein territoriales Tier. Er überwacht die Grenzen seines Reviers, das von allen erwachsenen Mitgliedern des Rudels verteidigt wird. Die Territorien können bis zu 13.000 Quadratkilometer umfassen.</color>
+    </cell>
+    <br/> 
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Wolfsrudel wandern auf der Futtersuche in einem Territorium von über 1.500 Quadratkilometern bis zu 30 km am Tag.</color>
+    </cell>
+    <br/> 
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Der Wolf wurde Anfang des 20. Jahrhunderts durch Siedler beinahe ausgerottet. Die US-Regierung unterstützte die Ausrottungsprogramme zum Schutz des Viehbestands.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>        
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Die Population hat sich aufgrund des Artenschutzes und mithilfe von Aufklärungsprogrammen langsam wieder erholt.</color>
+    </cell>    
+    <br/> 
+   </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178">Um den Wolf im Herausforderungs- oder Kampagnenmodus freizugeben, muss der Zoo einen Bekanntheitsgrad von 2-1/2 Sternen erreichen.</color>
+   <p/>
+Der Wolf, oder Grauwolf, ist das größte Mitglied der Wildhundfamilie und eine von nur zwei weltweit bekannten Wolfarten. Die andere Art ist der Rotwolf, der im Südosten der Vereinigten Staaten anzutreffen ist. Die Wölfe der baumlosen Ebenen der Arktis werden Polarwölfe genannt, die der bewaldeten subarktischen Zonen nennt man Timberwolf oder Östlicher Timberwolf. Die Wissenschaft kennt lediglich eine Unterart des Grauwolfs an, den Mexikanischen Wolf.
+   <p/>
+Der Wolf ist zu einem Symbol für bedrohte Tierarten geworden. Wölfe waren einst neben den Menschen das verbreitetste alle größeren Säugetiere und fast überall in der nördlichen Hemisphäre anzutreffen. Heute gibt es noch zahlreiche Wölfe in Nordeuropa, Asien, Alaska und Kanada. In Zentral- und Osteuropa, im Nahen Osten und den Vereinigten Staaten beschränkt sich der Bestand auf wenige kleine unberührte Gebiete.
+   <p/>
+Wölfe sind kraftvolle Tiere mit hundeartigem Kopf, langen, buschigen Schwänzen und langen Läufen mit großen Pfoten. Das Fell der meisten Wölfe ist rauchgrau, manchmal auch mit einer leicht bräunlichen oder rötlichen Färbung. Die Brust und der Unterleib des Wolfes ist weiß, auf dem Rücken und an den Seiten finden sich schwarze Flecken. Einige Wolfspopulationen sind komplett weiß oder schwarz.
+   <p/>
+Ein ausgewachsener Grauwolf misst einschließlich des Schwanzes, der weniger als die Hälfte der Körpergröße ausmacht, bis zu 2 m und wiegt bis zu 80 kg. Die Schulterhöhe liegt zwischen 0,5 und 1 m. Die Rüden sind größer als die Weibchen und die südlichen Grauwölfe kleiner als die Artgenossen im Norden.
+   <p/>
+Wölfe bilden Rudel von bis zu 24 Tieren, um große Pflanzenfresser wie Hirsche, Karibus und Elche zu jagen. Das Rudel arbeitet zusammen, um die Beute zu jagen und ihr aufzulauern. Eine solche Jagd kann vom frühen Abend bis in die Morgenstunden dauern. Wenn sie alleine jagen, ernähren sich Wölfe von Mäusen, Hasen, Bibern und domestizierten Tieren.
+   <p/>
+Wolfsrudel bilden soziale Gruppen mit strikten Hierarchien, in denen einige Tiere dominant und andere rangniedriger sind. Wenn sich zwei Tiere eines Rudels begegnen, steht das dominante Tier aufrecht, während das andere kauert. Eines der Sozialverhalten der Wölfe ist ihr Heulen. Diese Verhaltensweise stärkt den Zusammenhalt innerhalb des Rudels und signalisiert anderen Wölfen die Anwesenheit des Rudels.
+   <p/>
+Wölfe bilden meistens lebenslange Partnerschaften. In einem Rudel pflanzen sich lediglich der dominante Rüde und das dominante Weibchen, das sogenannte Alphapaar, fort. Wölfe paaren sich im Spätwinter. Die vier bis sieben Jungen werden nach einer Tragezeit von 61 bis 63 Tagen geboren. Beide Elternteile sowie einige Tiere des Rudels versorgen die Welpen mit Nahrung. Die Welpen werden in einem Bau aufgezogen. Dies kann ein unterirdischer Tunnel, eine Felsspalte, ein hohler Baumstamm oder ein umgedrehter Baumstumpf sein.
+   <p/>
+Obwohl Wölfe selten auf Menschen treffen, haben Menschen schon immer ihren Hass gegenüber dem Wolf gnadenlos ausgelebt. Einige unberührte Gebiete bieten Rückzugsräume für Wölfe, die Zerstörung des Lebensraums lässt diese aber immer mehr schwinden. 1973 wurde der Wolf auf die US-Liste der bedrohten Tierarten gesetzt. Dadurch wurden die Wölfe der 48 Stammstaaten der USA unter Schutz gestellt. Außerdem wurde das öffentliche Interesse für die Bedeutung dieser Tiere geweckt.
+   <p/>
+1987 stellte der United States Fish and Wildlife Service (USFWS) einen Plan vor, im Yellowstone Park und in Teilen von Zentral-Idaho wieder Wölfe anzusiedeln. Um Widerstände gegen diesen Plan abzubauen, erklärten sich Umweltschützer und die Bundesbehörden bereit, den Ranchern durch Wölfe verursachte Verluste an ihren Viehherden zu ersetzen. Diese Wiederansiedlung war äußerst erfolgreich. Wolfsforscher gehen davon aus, das der Wolf in den Stammstaaten der USA bald von einer bedrohten zu einer lediglich gefährdeten Art zurückgestuft wird.
+   <p/>
+Die Unterstützer des Wölfe richten mittlerweile ihre Aufmerksamkeit auf den Mexikanischen Wolf, der seit beinahe 50 Jahren nicht mehr in seinen ursprünglichen Territorien im Südwesten der USA gesichtet wurde. Anfang 1998 legte der USFWS einen Plan für die Wiederansiedlung des Mexikanischen Wolfs im Apache National Forest in Arizona vor.
+  </cell>
+  <p/>
+  <cell width="260"/>
+  <cell width="620">
+   Mit freundlicher Genehmigung von <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2005.</color></u></a> (C) 1993-2005 Microsoft Corporation. Alle Rechte vorbehalten.
+  </cell>
+ </LOC_STRING> <LOC_STRING _locID="zoopedia_orangutan:entry">Orang-Utan</LOC_STRING> <LOC_STRING _locID="zoopedia_orangutan:text">
+  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">
+   
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/Orangutan/Orangutan_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/Orangutan/Orangutan_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>						 
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/endangered.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">Gefährdungsstatus: <br/> <color r="255" g="155" b="0">Bedroht</color></color>                  
+                  </cell>
+               </cell>   
+   
+    <cell width="128">
+     <color r="255" g="255" b="255">Tropischer Regenwald<br/></color> <img src="ui/icon_biomes/icon_tropicalrainforest.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+    </cell>
+    <cell width="128">
+     <color r="255" g="255" b="255">Südostasien<br/></color> <img src="ui/icon_maplocations/Rainforest_Asia_SouthEast.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+    </cell>
+    <br/>
+    <cell width="284" pady="10">
+     <color r="255" g="255" b="255">Klasse: Säugetiere <i>(Mammalia)</i><br/>Ordnung: Primaten <i>(Primata)</i><br/>Familie: Eigentliche Menschenaffen <i>(Pongidae)</i><br/>Gattung: <i>Pongo</i><br/>Art: <i>Pygmaeus</i></color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="UI/zoopedia/biome/tropicalrainforest_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Spannende Fakten zum Orang-Utan</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Die Spanne der ausgestreckten Arme des Orang-Utans ist mit mehr als 2 m länger als die Körpergröße.</color>
+    </cell>
+	 <cell width="32" pady="10">
+	 	 <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	 </cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Orang-Utans bewegen sich durch die Bäume, indem sie sich mit ihren langen Fingern an Zweige hängen und mit schwingenden Armen von Ast zu Ast hangeln.</color>
+    </cell>
+	 <cell width="32" pady="10">
+	 	 <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	 </cell> 
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Unter den Menschenaffen sind die Orang-Utans die am wenigsten geselligen. Insbesondere ausgewachsene Männchen gehen sich aus dem Weg.</color>
+    </cell>
+	 <cell width="32" pady="10">
+	 	 <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	 </cell> 
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Wie wir Menschen geben auch Orang-Utans sozial erworbene Verhaltensmuster weiter. So verwenden beispielsweise die Orang-Utans in Borneo Blätter als Servietten, mit denen sie sich den Mund abwischen. Artgenossen in Sumatra setzen sogar Blätter als Handschuhe ein, wenn sie dornige Ästen anfassen müssen.</color>
+    </cell>
+	 <cell width="32" pady="10">
+	 	 <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	 </cell> 
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Orang-Utans sind hochintelligente Beobachter. So ist ein Fall bekannt, in dem die Tiere Menschen beim Losbinden eines Bootes und dem Überqueren eines Flusses beobachteten, ein Verhalten, das sie anschließend nachahmten.</color>
+    </cell>    
+	 <cell width="32" pady="10">
+	 	 <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	 </cell> 
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Die Hauptbedrohung für Orang-Utans ist die Zerstörung des tropischen Regenwalds.</color>
+    </cell>    
+	 <cell width="32" pady="10">
+	 	 <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	 </cell> 
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Wilderer töten oft Muttertiere, um an lebende Junge zu gelangen. Von zehn neugeborenen Orang-Utans überleben lediglich vier.</color>
+    </cell>
+    <br/> 
+   </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178">Um den Orang-Utan im Herausforderungs- oder Kampagnenmodus freizugeben, muss der Zoo einen Bekanntheitsgrad von 4-1/2 Sternen erreichen.</color>
+   <p/>
+   Der Orang-Utan ist der Menschenaffe Südostasiens. Der Name bedeutet auf Malaiisch, einer austronesischen Sprache, so viel wie "Mann aus dem Dschungel". Orang-Utans leben ausschließlich auf der Insel Borneo und in der nördlichen Ecke der Insel Sumatra.
+	<p/>
+	Der Orang-Utan verbringt die meiste Zeit in den Bäumen. Dabei setzt er seine langen Arme und hakenförmigen Hände und Füße ein, um nach Ästen und Lianen zu greifen. Selten macht er Ausflüge auf den Boden. Dort bewegt er sich dann allen vieren fort. Da die Fortbewegung durch die Bäume schwierig ist, überwindet ein Orang-Utan pro Tag nur eine Strecke von wenigen hundert Metern. Jeden Abend bauen sich die Tiere in den Baumkronen ein Nest, oftmals indem sie sich die Wedel eines Betelbaumes zurechtziehen. Ältere Männchen leben und schlafen manchmal auch auf dem Boden.
+   <p/>	
+	Orang-Utans verfügen über ein charakteristisches langes und dichtes rotbraunes Fell. Männliche Orang-Utans werden im Schnitt 95 cm groß und etwa 77 kg schwer. Die Weibchen sind mit etwa 78 cm kleiner und wiegen lediglich um die 37 kg. Die Männchen haben ausgeprägte Backenwülste und einen hängenden Kehlsack. Dieser Sack enthält Lufttaschen, mit denen die Tiere einen stöhnenden, gurgelnden Ruf ausstoßen können, der mindestens einen Kilometer weit zu hören ist.
+   <p/>	
+	Die Nahrung der Orang-Utans setzt sich zur Hälfte aus Früchten zusammen. Sie fressen aber auch junge Blätter, weiche Innenrinde, Termiten, Eier und gelegentlich andere Affen. Im Winter sammeln die Tiere Fett an, um sich auf die nahrungsarme Regenzeit von April bis Oktober vorzubereiten.
+   <p/>	
+	Orang-Utans sind Einzelgänger. Abgesehen von der Paarungszeit begeben sie sich alleine auf Wanderschaft und Futtersuche. Wenn ein Weibchen paarungswillig ist, sucht sie sich ein erwachsenes Männchen. Das Paar bleibt für einige Tage zusammen, aber sobald das Weibchen schwanger ist, gehen sie wieder ihre eigenen Wege. Die Schwangerschaft dauert fast genau wie beim Menschen knapp neun Monate. Die Weibchen gebären alle vier bis acht Jahre ein einzelnes Junges. Die Jungen bleiben bis zur Entwöhnung etwa drei Jahre lang bei der Mutter. In den folgenden drei bis fünf Jahren werden sie immer selbständiger, bis sie mit etwa acht Jahren komplett unabhängig sind. Gelegentlich bilden zwei Weibchen mit Nachwuchs für einen Zeitraum von bis zu drei Tagen eine Gemeinschaft, während der die Jungen miteinander spielen.
+   <p/>	
+	Obwohl es verboten ist, Orang-Utans zu töten, zu besitzen oder zu exportieren, werden die Tiere weiterhin gewildert. Der Lebensraum des Orang-Utans geht zudem aufgrund großräumiger Abholzungen und Brandrodungen rapide zurück. Bei den großen Waldbränden in den Jahren 1997 und 1998 in Sumatra und Borneo starben Tausende von Orang-Utans. Zudem wurde der Lebensraum von Tausenden weiterer Tieren zerstört. Das Überleben der Art ist bedroht.
+  </cell>
+  <p/>
+  <cell width="260"/>
+  <cell width="620">
+   Mit freundlicher Genehmigung von <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2005.</color></u></a> (C) 1993-2005 Microsoft Corporation. Alle Rechte vorbehalten.
+  </cell>
+ </LOC_STRING> <LOC_STRING _locID="zoopedia_wilddogafrican:entry">Wildhund, Afrikanischer</LOC_STRING> <LOC_STRING _locID="zoopedia_wilddogafrican:text">
+  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">
+   
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/WildDogAfrican/WildDogAfrican_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/endangered.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">Gefährdungsstatus: <br/> <color r="255" g="155" b="0">Bedroht</color></color>                  
+                  </cell>
+               </cell>   
+   
+    <cell width="128">
+     <color r="255" g="255" b="255">Savanne<br/></color> <img src="ui/icon_biomes/icon_savannah.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+    </cell>
+    <cell width="128">
+     <color r="255" g="255" b="255">Afrika<br/></color> <img src="ui/icon_maplocations/Savannah_Africa_South.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+    </cell>
+    <br/>
+    <cell width="284" pady="10">
+     <color r="255" g="255" b="255">Klasse: Säugetiere <i>(Mammalia)</i><br/>Ordnung: Raubtiere <i>(Carnivora)</i><br/>Familie: Hunde <i>(Canidae)</i><br/>Gattung: <i>Lycaon</i><br/>Art: <i>Pictus</i></color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="UI/zoopedia/biome/savannah_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Spannende Fakten zum Afrikanischen Wildhund</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Der Afrikanische Wildhund ist ein unermüdlicher Jäger (und Läufer), der seine Beute fast eine Stunde lang über eine Strecke von mehr als 6 km verfolgt.</color>
+    </cell>
+    <br/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Der Afrikanische Wildhund ist eines der bedrohtesten Raubtiere Afrikas.</color>
+    </cell>
+    <br/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Das Überleben des Afrikanischen Wildhunds ist durch den Kontakt mit Haushunden gefährdet, durch die Staupe und Tollwut eingeschleppt wurden.</color>
+    </cell>
+    <br/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Auch der Rückgang des Lebensraums ist ein großes Problem für den Fortbestand des Afrikanischen Wildhundes, da für das Überleben einer Population große Reviere notwendig sind.</color>
+    </cell>
+    <br/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Der Verlust des Lebensraums ist insbesondere für nomadische Tiere wie den Afrikanischen Wildhund eine große Gefahr.</color>
+    </cell>
+    <br/>     
+   </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178">Um den Afrikanischen Wildhund im Herausforderungs- oder Kampagnenmodus freizugeben, muss der Zoo einen Bekanntheitsgrad von 3-1/2 Sternen erreichen.</color>
+   <p/>
+Der Afrikanische Wildhund ist ein kleiner, wilder, fleischfressender Hund, den man in Afrika südlich und östlich der Sahara findet. Er wird auch Kap-Jagdhund oder Hyänenhund genannt. Dieser langbeinige Hund mit seiner schwarzen Haut wiegt bis zu 23 kg und hat ein kurzes, spärliches Fell mit einer Vielzahl an Mustern aus schwarz, gelb und weiß. Die großen Ohren sind abgerundet, die Pfoten haben jeweils nur vier Zehen.
+  <p/>
+Das Tier lebt in Rudeln, die nur wenige Tiere oder bis zu 50 Mitglieder umfassen können. Auf der Futtersuche bewegen sie sich auf einem Gebiet von bis zu 3.900 km². Diese Art verfügt über komplexe soziale Verhaltensweisen. Anders als bei den meisten geselligen Arten machen die Rüden den größten Teil des Rudels aus. Innerhalb des Rudels paart sich zumeist nur ein einziges Paar. Die beiden Elterntiere kümmern sich um die Jungen, die von den älteren Hunden des Rudels viel über das Jagen und Aufspüren von Beute lernen. Ein großes Rudel kann auch große Tiere wie Löwen überwältigen. Nach einer Tragezeit von 79 bis 80 Tagen werden 6 bis 16 Junge geboren.  
+  </cell>
+  <p/>
+  <cell width="260"/>
+  <cell width="620">
+   Mit freundlicher Genehmigung von <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2005.</color></u></a> (C) 1993-2005 Microsoft Corporation. Alle Rechte vorbehalten.
+  </cell>
+ </LOC_STRING> <LOC_STRING _locID="zoopedia_horseprzewalskiswild:entry">Przewalski-Pferd</LOC_STRING> <LOC_STRING _locID="zoopedia_horseprzewalskiswild:text">
+  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">
+   
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/HorsePrzewalskisWild/HorsePrzewalskisWild_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/critical.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">Gefährdungsstatus: <br/> <color r="255" g="0" b="0">Stark bedroht</color></color>                  
+                  </cell>
+               </cell>   
+   
+    <cell width="128">
+     <color r="255" g="255" b="255">Grasland<br/></color> <img src="ui/icon_biomes/icon_grassland.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+    </cell>
+    <cell width="128">
+     <color r="255" g="255" b="255">Zentralasien<br/></color> <img src="ui/icon_maplocations/Grassland_Asia_Central.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+    </cell>
+    <br/>
+    <cell width="284" pady="10">
+     <color r="255" g="255" b="255">Klasse: Säugetiere <i>(Mammalia)</i><br/>Ordnung: Unpaarhufer <i>(Perissodactyla)</i><br/>Familie: Pferde/Esel/Zebras <i>(Equidae)</i><br/>Gattung: <i>Equus</i><br/>Art: <i>Ferus</i>Unterart: <i>Przewalski</i></color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="UI/zoopedia/biome/grassland_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Spannende Fakten zum Przewalski-Pferd</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Das einzige wirkliche Wildpferd, das Przewalski-Pferd, ist nach einem berühmten russischen Forscher und Naturwissenschaftler benannt, der das Tier 1879 in der westlichen Mongolei entdeckte.</color>
+    </cell>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Das Przewalski-Pferd ist auch als Asiatisches und Mongolisches Wildpferd sowie als Takhi bekannt.</color>
+    </cell>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Die Altai-Berge, in denen das Przewalski-Pferd einst lebte, werden auch als "Berge der gelben Pferde" bezeichnet.</color>
+    </cell>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Der Fuß des Przewalski-Pferdes ist eigentlich ein einzelner Zeh, dessen letzter Knochen zu einem Huf verbreitert und abgerundet ist. Dies macht das Tier zu einem schnellen Läufer.</color>
+    </cell>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Anders als andere Pferde hat das Przewalski-Pferd kein Stirnhaar, und die Mähne steht aufrecht.</color>
+    </cell>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">In freier Wildbahn wurde dieses Pferd zuletzt in den späten Sechzigerjahren gesichtet. Trotz verschiedener Auswilderungsversuche gilt die Art nach wie vor als in Freiheit ausgestorben.</color>
+    </cell>    
+    <br/> 
+   </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178">Um das Przewalski-Pferd im Herausforderungs- oder Kampagnenmodus freizugeben, muss der Zoo einen Bekanntheitsgrad von 3 Sternen erreichen.</color>
+   <p/>
+   Das Przewalski-Pferd, eine Unterart des Hauspferdes, ist vergleichsweise klein und stämmig und hat einen großen Kopf und einen langen Schwanz. Im späten 19. Jahrhundert waren die Tiere in den Steppen und Wüsten der Mongolei, Kasachstans und in Teilen Chinas verbreitet. Der anhaltende Verlust des Lebensraums und die Jagd nach dem Tier führten zu einem so dramatischen Rückgang der Population des Przewalski-Pferdes, dass die Art in freier Wildbahn verschwunden ist. Mittlerweile leben nur noch Tiere in Gefangenschaft.
+   <p/>
+Die letzen wildlebenden Exemplare des Przewalski-Pferds, von dem man annimmt, dass es sich um das einzige wirkliche Wildpferd handelt, das bis in die Neuzeit überlebt hat, wurden vermutlich in den Sechzigerjahren in der Mongolei ausgerottet. Heute überleben etwa 1.100 Przewalski-Pferde in der Gefangenschaft in Zoos und Wildparks.   
+  </cell>
+  <p/>
+  <cell width="260"/>
+  <cell width="620">
+   Mit freundlicher Genehmigung von <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2005.</color></u></a> (C) 1993-2005 Microsoft Corporation. Alle Rechte vorbehalten.
+  </cell>
+ </LOC_STRING> <LOC_STRING _locID="zoopedia_lynxspanish:entry">Pardelluchs</LOC_STRING> <LOC_STRING _locID="zoopedia_lynxspanish:text">
+  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">
+   
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/LynxSpanish/LynxSpanish_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/critical.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">Gefährdungsstatus: <br/> <color r="255" g="0" b="0">Stark bedroht</color></color>                  
+                  </cell>
+               </cell>   
+   
+    <cell width="128">
+			<color r="255" g="255" b="255">Gemäß. Wald<br/></color> <img src="ui/icon_biomes/icon_temperateforest.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+    </cell>
+    <cell width="128">
+     <color r="255" g="255" b="255">Spanien<br/></color> <img src="ui/icon_maplocations/Scrub_Europe_Spain.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+    </cell>
+    <br/>
+    <cell width="284" pady="10">
+     <color r="255" g="255" b="255">Klasse: Säugetiere <i>(Mammalia)</i><br/>Ordnung: Raubtiere <i>(Carnivora)</i><br/>Familie: Katzen <i>(Felidae)</i><br/>Gattung: <i>Lynx</i><br/>Art: <i>Pardinus</i></color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="UI/zoopedia/biome/scrub_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Spannende Fakten zum Pardelluchs</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Der Gattungsname "Lynx" stammt von dem griechischen Wort "scheinen", möglicherweise eine Anspielung auf die reflektierenden Augen des Tieres.</color>
+    </cell>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Der Pardelluchs ist größtenteils nachtaktiv, wird in den Wintermonaten jedoch auch am Tage aktiv.</color>
+    </cell>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Der Pardelluchs vergräbt Beutereste, um die Mahlzeit am nächsten Tag fortzusetzen.</color>
+    </cell>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Der Pardelluchs ist die weltweit bedrohteste Katzenart. In freier Wildbahn leben nur noch etwa 1.000 Tiere.</color>
+    </cell>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Viele Pardellüchse geraten versehentlich in Fallen, die für andere Tiere aufgestellt wurden.</color>
+    </cell>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Europäische Artenschutzorganisationen haben den Pardelluchs in die "Large Carnivore Initiative for Europe" aufgenommen, um seiner Erhaltung eine größere Aufmerksamkeit zu sichern.</color>
+    </cell>     
+    <br/> 
+   </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178">Um den Pardelluchs im Herausforderungs- oder Kampagnenmodus freizugeben, muss der Zoo einen Bekanntheitsgrad von 3-1/2 Sternen erreichen.</color>
+   <p/>
+Luchs ist der gebräuchliche Name für drei Mitglieder einer Gattung wilder Fleischfresser, die sich durch überproportional lange Läufe und große, schwere Pfoten auszeichnen. Luchse sind in allen gemäßigten und subarktischen Regionen der nördlichen Hemisphäre beheimatet. Es sind stämmige, 65 bis 130 cm lange Tiere mit dickem, weichem Fell und einem kurzen Stummelschwanz. Typisch für die meisten Arten ist ein mehr als 2 cm langes Haarbüschel an den Ohrenspitzen. Luchse sind bewegliche Kletterer, die bei gutem Wetter viel Zeit in den Baumkronen verbringen. Dort warten sie auf ihre Beute, meistens schwächere Säugetiere und flugunfähige Vögel. Oft pirschen sich Luchse auch an ihre Beute heran. Bei schlechtem Wetter und während der Paarungszeit suchen die Luchse in Höhlen oder hohlen Baumstämmen Schutz. Ein durchschnittlicher Wurf besteht aus zwei bis vier Jungkatzen. Das Fell des Luchses ist sehr begehrt.
+   <p/>
+Im Allgemeinen werden vier Luchsarten unterschieden: der Pardelluchs, der als bedrohte Tierart gelistet wird, der Rotluchs, (auch als Wildkatze bekannt), der überall in den USA mit Ausnahme des Mittleren Westens weit verbreitet ist, der Eurasische oder Nordluchs, und der Kanadaluchs. Das Verbreitungsgebiet des Kanadaluchses reicht vom Norden der Vereinigten Staaten bis nach Kanada und Alaska. Er ist die größte Art Nordamerikas, wird durchschnittlich 90 cm groß und hat einen Schwanz von etwa 5 bis 14 cm Länge. Der Rücken ist dunkelgrau mit kastanienbraunen Streifen, der Bauch gräulichweiß mit schwarzen Flecken. Diese Art ernährt sich hauptsächlich von Schneeschuhhasen, Hirschen und anderen Huftieren. 1998 hat der "United States Fish and Wildlife Service" den Kanadaluchs für sämtliche Wälder der 48 Stammstaaten zur geschützten Tierart erklärt.
+  </cell>
+  <p/>
+  <cell width="260"/>
+  <cell width="620">
+   Mit freundlicher Genehmigung von <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2005.</color></u></a> (C) 1993-2005 Microsoft Corporation. Alle Rechte vorbehalten.
+  </cell>
+ </LOC_STRING> <LOC_STRING _locID="zoopedia_komododragon:entry">Komodowaran</LOC_STRING> <LOC_STRING _locID="zoopedia_komododragon:text">
+  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">
+   
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/KomodoDragon/KomodoDragon_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/vulnerable.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">Gefährdungsstatus: <br/> <color r="255" g="255" b="0">Gefährdet</color></color>                  
+                  </cell>
+               </cell>   
+   
+    <cell width="128">
+     <color r="255" g="255" b="255">Buschland<br/></color> <img src="ui/icon_biomes/icon_scrub.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+    </cell>
+    <cell width="128">
+     <color r="255" g="255" b="255">Südostasien<br/></color> <img src="ui/icon_maplocations/Scrub_Asia_SouthEast_KomodoIsland.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+    </cell>
+    <br/>
+    <cell width="284" pady="10">
+     <color r="255" g="255" b="255">Klasse: Reptilien <i>(Reptilia)</i><br/>Ordnung:  Schuppenkriechtiere <i>(Squamata)</i><br/>Familie: Warane<i>(Varanidae)</i><br/>Gattung: <i>Varanus</i><br/>Art: <i>Komodoensis</i></color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="UI/zoopedia/biome/scrub_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Spannende Fakten zum Komodowaran</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Der Komodowaran ist die größte Echse der Welt.</color>
+    </cell>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Der Komodowaran kann bei einer einzigen Mahlzeit bis zu 80 Prozent seines Körpergewichts zu sich nehmen.</color>
+    </cell>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Der Speichel des Komodowaran enthält Bakterien, die zu einer schweren (in der Regel tödlichen) Blutvergiftung führen können.</color>
+    </cell>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Die Form der Zähne eines Komodowarans ähnelt eher der von Haien als der anderer Echsen.</color>
+    </cell>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Nach dem Schlüpfen muss ein junger Komodowaran für sich selbst sorgen. Er hält sich bevorzugt in Bäumen auf, da erwachsenen Warane gerne junge Warane verspeisen.</color>
+    </cell>    
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Der Komodowaran scheint sich nicht vor Menschen zu fürchten. Immer wieder wird von Angriffen und Todesfällen berichtet.</color>
+    </cell>    
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Komodowarane werden von Jägern und anderen menschlichen Übergriffen bedroht. In der Wildnis gefangene Tiere gehen in Gefangenschaft meist ein. Einige in Zoos geschlüpfte Exemplare wachsen und gedeihen jedoch.</color>
+    </cell>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Der Lebensraum des Komodowarans war eines der ersten geschützten Gebiete in Asien.</color>
+    </cell>    
+    <br/> 
+   </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178">Um den Komodowaran im Herausforderungs- oder Kampagnenmodus freizugeben, muss der Zoo einen Bekanntheitsgrad von 2 Sternen erreichen.</color>
+   <p/>
+Waran ist der gebräuchliche Name für eine Gattung von Echsen, zu denen auch die größte lebende Echse gehört, der Komodowaran. Warane leben in tropischen Gebieten und Wüsten in Afrika, in Asien von Arabien bis nach Südchina und Malaysia sowie auf den Ostindischen Inseln und in Australien. Die Gattung umfasst mehr als 30 Arten, die zwischen 20 cm und mehr als 3 m lang sind. Sie alle weisen die charakteristischen langen, geteilten schlangenartigen Zungen auf und sind in der Lage, riesige Beutestücke zu verschlingen und zu schlucken. Sie sind geschmeidige, schnelle Läufer mit spitz zulaufenden Köpfen, längen Hälsen, starken Beinen und langen, kraftvollen Schwänzen. Warane ernähren sich von Insekten, Vögeln, Reptilien und deren Eiern, kleinen Säugetieren und Aas.
+  <p/>
+Warane gehören zu den ältesten lebenden Echsen. Sie sind mit dem Mosasaurus verwandt, einer Seeechse, die vor 136 Millionen bis 65 Millionen Jahren lebte und bis zu 10 m lang war. Der größte Waran ist der 165 kg schwere Komodowaran. Er lebt auf mehreren Inseln in Indonesien, darunter Komodo. Diese Echse ist ein leidenschaftlicher Fleisch- und Aasfresser, in dessen Maul sich ein giftiges Bakterium befindet, durch das ein einziger Biss tödlich sein kann.
+  <p/>
+Obwohl Warane hauptsächlich auf dem Boden leben, sind einige Arten auch hervorragende Kletterer und Schwimmer. Der indische Bindenwaran wurde schon weit vom Land entfernt beobachtet. Zwei Arten, der Komodowaran und der Grays-Waran, werden auf der Roten Liste der World Conservation Union (IUCN) als bedrohte Tierarten geführt.
+  </cell>
+  <p/>
+  <cell width="260"/>
+  <cell width="620">
+   Mit freundlicher Genehmigung von <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2005.</color></u></a> (C) 1993-2005 Microsoft Corporation. Alle Rechte vorbehalten.
+  </cell>
+ </LOC_STRING> <LOC_STRING _locID="zoopedia_markhor:entry">Schraubenziege</LOC_STRING> <LOC_STRING _locID="zoopedia_markhor:text">
+  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">
+   
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/Markhor/Markhor_M_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/Markhor/Markhor_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/endangered.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">Gefährdungsstatus: <br/> <color r="255" g="155" b="0">Bedroht</color></color>                  
+                  </cell>
+               </cell>   
+   
+    <cell width="128">
+     <color r="255" g="255" b="255">Gebirge<br/></color> <img src="ui/icon_biomes/icon_alpine.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+    </cell>
+    <cell width="128">
+     <color r="255" g="255" b="255">Himalaja<br/></color> <img src="ui/icon_maplocations/Alpine_Asia.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+    </cell>
+    <br/>
+    <cell width="284" pady="10">
+     <color r="255" g="255" b="255">Klasse: Säugetiere <i>(Mammalia)</i><br/>Ordnung: Paarhufer <i>(Artiodactyla)</i><br/>Familie: Hornträger <i>(Bovidae)</i><br/>Gattung: <i>Capra</i><br/>Art: <i>Falconeri</i></color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="UI/zoopedia/biome/alpine_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Spannende Fakten zur Schraubenziege</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Die Schraubenziege ist das größte Mitglied der Ziegenfamilie.</color>
+    </cell>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Obwohl sich die Schraubenziege vegetarisch ernährt, leitet sich ihr persischer Name "Markhor" von den Begriffen für Schlange,"mar", und Essen, "hor", ab.</color>
+    </cell>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Schraubenziegen sind sehr flink und besitzen die Fähigkeit, auf Bäume zu klettern. Im Zoo von San Diego wurden sogar Schraubenziegen dabei beobachtet, wie sie auf Maschendrahtzäunen laufen.</color>
+    </cell>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Die langen, gebogenen Hörner der Böcke können über 1,5 m lang werden.</color>
+    </cell>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Zu den größten Fressfeinden der Schraubenziegen gehören Schneeleoparden, Wölfe, Luchse und Menschen, von denen einige hohe Summen für die Jagd zahlen.</color>
+    </cell>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Schraubenziegen wurden wegen des Fleisches und als Trophäen intensiv gejagt. Außerdem leiden sie unter dem Verlust des Lebensraums und der Konkurrenz durch Nutzviehherden.</color>
+    </cell>    
+    <br/> 
+   </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178">Um die Schraubenziege im Herausforderungs- oder Kampagnenmodus freizugeben, muss der Zoo einen Bekanntheitsgrad von 2 Sternen erreichen.</color> 
+   <p/>
+   Die Schraubenziege ist die größte Wildziege und ein Mitglied der Unterfamilie Ziegen. Die Schraubenziege stammt aus den Bergregionen Pakistans, Afghanistans und Nordindiens. 
+   <p/>
+   Schraubenziegen fallen durch die großen, spiralförmig gewundenen Hörner der Böcke auf. Die Hörner können bis zu 160 cm lang werden. Weibchen besitzen ebenfalls spiralförmige Hörner, diese sind aber kürzer und erreichen lediglich eine Länge von etwa 25 cm. Die Böcke erreichen eine Schulterhöhe von 91 bis 104 cm und wiegen durchschnittlich etwa 90 kg. Die Weibchen sind deutlich kleiner: Ihre Schulterhöhe beträgt zwischen 65 und 70 cm und sie wiegen durchschnittlich etwa 40 kg. 
+   <p/>
+   Die Schraubenziege hat ein langes, seidiges Fell, das im Sommer blassrötlichbraun und im Winter roststahlgrau ist. Die Böcke werden mit zunehmendem Alter blasser und grauer. Die Böcke der nördlichen Verbreitungsgebiete entwickeln lange, wehende Mähnen und lange Bärte, die fast bis zu den Knien reichen. 
+   <p/>
+   Wie andere Ziegenarten sind auch Schraubenziegen Herdentiere. Im Frühjahr suchen sie Täler und geschützte Schluchten auf, während sie im Sommer in höhergelegene Regionen wandern, insbesondere in die felsigen Klippen an der Baumgrenze. Die Böcke leben die meiste Zeit des Jahres in kleinen Verbünden von vier oder fünf Tieren, stoßen aber im Spätherbst zu den Ziegen. Wie bei den meisten gehörnten Tieren kämpfen auch die Schraubenziegenböcke um die Gunst der Weibchen. Die Paarungszeit ist im November oder Dezember. Sechs Monate später gebären die trächtigen Ziegen jeweils ein Junges, manchmal auch Zwillinge.
+   <p/>
+   Schraubenziegen weisen verschiedene auffällige Unterschiede auf, sodass Wissenschaftler schon des öfteren verschiedene Arten klassifiziert haben. Derzeit teilt die Wissenschaft die Varietäten in zwei Unterarten ein:  eine nördilche Unterart mit breiten gewundenen Hörnern und eine südliche Unterart mit schmalen gewundenen Hörnern.
+   <p/>
+   Sportjäger haben die Schraubenziege lange als hervorragendes Jagdwild betrachtet. Die wachsende Konkurrenz durch Nutzviehherden, der Rückgang des Lebensraums durch das Anwachsen der menschlichen Bevölkerung und die intensive Jagd haben die Schraubenziegenpopulationen merklich verringert. Die Art wird von der International Union for the Conservation of Nature als gefährdet eingestuft, die südliche Unterart gilt sogar als bedroht.
+  </cell>
+  <p/>
+  <cell width="260"/>
+  <cell width="620">
+   Mit freundlicher Genehmigung von <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2005.</color></u></a> (C) 1993-2005 Microsoft Corporation. Alle Rechte vorbehalten.
+  </cell>
+ </LOC_STRING> <LOC_STRING _locID="zoopedia_gibboncrested:entry">Schopfgibbon</LOC_STRING> <LOC_STRING _locID="zoopedia_gibboncrested:text">
+  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">
+   
+
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/GibbonCrested/GibbonCrested_M_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/GibbonCrested/GibbonCrested_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>
+						 <cell width="16">						 
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/endangered.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">Gefährdungsstatus: <br/> <color r="255" g="155" b="0">Bedroht</color></color>                  
+                  </cell>
+               </cell>   
+   
+    <cell width="128">
+     <color r="255" g="255" b="255">Tropischer Regenwald<br/></color> <img src="ui/icon_biomes/icon_tropicalrainforest.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+    </cell>
+    <cell width="128">
+     <color r="255" g="255" b="255">Südostasien<br/></color> <img src="ui/icon_maplocations/Rainforest_Asia_SouthEast.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+    </cell>
+    <br/>
+    <cell width="284" pady="10">
+     <color r="255" g="255" b="255">Klasse: Säugetiere <i>(Mammalia)</i><br/>Ordnung: Primaten <i>(Primata)</i><br/>Familie: Niedere Menschenaffen <i>(Hylobatidae)</i><br/>Gattung: <i>Hylobates</i><br/>Art: <i>Concolor</i></color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="UI/zoopedia/biome/tropicalrainforest_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Spannende Fakten zum Schopfgibbon</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Der Schopfgibbon verdankt seinen Namen dem langen Fellbüschel auf dem Kopf.</color>
+    </cell>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Männliche Schopfgibbons sind schwarz, die Weibchen golden mit schwarzen Gesichtern.</color>
+    </cell>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Der Schopfgibbon gehört zu den bedrohtesten Primaten der Welt.</color>
+    </cell>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Das Überleben der Schopfgibbons ist durch den Rückgang des Lebensraums, durch Abholzung, durch die Jagd und den Verkauf des Nachwuchses als Haustiere bedroht.</color>
+    </cell>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">In Artenschutzprojekten wird versucht, die letzten verbliebenen Schopfgibbonpopulationen und ihre Lebensräume zu erhalten und die Art so vor dem Aussterben zu bewahren.</color>
+    </cell>    
+    <br/> 
+   </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178">Um den Schopfgibbon im Herausforderungs- oder Kampagnenmodus freizugeben, muss der Zoo einen Bekanntheitsgrad von 4 Sternen erreichen.</color>
+   <p/>
+Gibbon ist der gebräuchliche Name aller kleinen Anthropoiden aus den subäquatorialen Wälder Indiens, Indochinas und des indonesischen Archipels. Der Gibbon ist ein schlankes Tier mit einem kleinen, runden Kopf und weichem, wolligem Fell. Das auffallendste Merkmal sind die langen Arme, mit denen sich das Tier äußerst beweglich von Ast zu Ast schwingen kann. Die Hände werden dabei eher als Haken und nicht zum Greifen genutzt. Ein großer Gibbon kann zwischen 75 und 90 cm groß werden. Die Spannweite der Arme ist beinahe doppelt so lang. Der Gibbon ist der einzige Anthropoide, der sich ausschließlich mit den Hinterbeinen fortbewegt und dabei die Arme zum Balancieren nach oben reckt. Gibbons sind monogam. Die einzeln geborenen Jungen bleiben bis zum Alter von fünf bis sechs Jahren bei der Familiengruppe. Die Tiere fressen Blätter, Früchte, Blumenteile, Insekten, Spinnen, Vögel und Vogeleier. Tagsüber sind sie zumeist ruhig, bei Sonnenaufgang und am späten Nachmittag beginnen sie jedoch zu Heulen. Es gibt etwa neun Gibbonarten. Der Silbergibbon oder Wauwau aus Java ist aschgrau. Der Weißhandgibbon oder Lar auf der malaiischen Halbinsel lässt sich durch seine weißen Hände und Füße sowie das musikalische Heulen unterscheiden.
+   <p/>
+Der größte Gibbon ist der Siamang aus Malaysia und Sumatra. 1979 berichtete der Grant Park Zoo in Atlanta im US-Bundesstaat Georgia von einem vierjährigen weiblichen "Siabon", einem Mischlingskind eines männlichen Silbergibbon und eines weiblichen Siamang. Dies ist die erste bekannte Paarung zwischen verschiedenen Primatenarten. Die Populationen wilder Gibbons sind aufgrund der Abholzung und der Jagd stark zurückgegangen.
+
+  </cell>
+  <p/>
+  <cell width="260"/>
+  <cell width="620">
+   Mit freundlicher Genehmigung von <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2005.</color></u></a> (C) 1993-2005 Microsoft Corporation. Alle Rechte vorbehalten.
+  </cell>
+ </LOC_STRING> <LOC_STRING _locID="zoopedia_tortoisegalapagos:entry">Galápagos-Riesenschildkröte</LOC_STRING> <LOC_STRING _locID="zoopedia_tortoisegalapagos:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities\units\animals\TortoiseGalapagos\TortoiseGalapagos_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						</cell>
+						<cell width="16">
+							<img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						</cell>
+						<cell width="16">
+							<img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						</cell>
+						<cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/endangered.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">Gefährdungsstatus: <br/> <color r="255" g="155" b="0">Bedroht</color></color>                  
+                  </cell>
+               </cell>            
+            
+               <cell width="128">
+                  <color r="255" g="255" b="255">Buschland<br/></color> <img src="ui/icon_biomes/icon_scrub.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+               </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Westliches Südamerika<br/></color> <img src="ui/icon_maplocations/Scrub_America_South_West.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">Klasse: Reptilien <i>(Reptilia)</i><br/>Ordnung: Schildkröten<i>(Testudines)</i><br/>Familie: Landschildkröten <i>(Testudinidae)</i><br/>Gattung: <i>Geochelone</i><br/>Art: <i>Nigra</i><br/>Unterart:  <i>Porteri</i></color>
+               </cell>
+               <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/scrub_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+               </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Span. Fakten zur Gal.-Riesenschildkröte</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Die Galápagos-Riesenschildkröte ist die größte Schildkröte der Welt. Sie wiegt häufig bis zu 230 kg und misst vom Kopf bis zum Schwanz 1,8 m.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Galápagos-Riesenschildkröten können Nahrung und Wasser so gut speichern, dass sie bis zu einem Jahr ohne Futter oder Flüssigkeit überleben können.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Ein Galápagos-Riesenschildkrötenbaby braucht etwa einen Monat, um sich aus dem Nest zu graben, in dem es geboren wurde.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Die Sozialstruktur der Galápagos-Schildkröte ist hierarchisch gegliedert. Die Schildkröte, die ihren Hals am höchsten strecken kann, ist das Alpha-Tier.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Spanische Seefahrer nannten die Inseln Galápagos (das spanische Wort für Schildkröte) nach den 250.000 Schildkröten, die sie dort vorfanden. Heute gibt es nur noch 15.000.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Die Riesenschildkröten der Galápagosinseln gehören zu den am meisten vom Aussterben bedrohten Landschildkröten der Welt. Eine riesige Anzahl dieser Schildkröten wurde Anfang des 19. Jahrhunderts durch die Mannschaften von Walfangschiffen getötet.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Heute sind die Schildkröten durch die vielen Tiere bedroht, die von den Menschen auf die Insel gebracht wurden. Schweine fressen die Schildkröteneier, Ratten die frisch geschlüpften Schildkröten und Ziegen die Pflanzen, auf die die Schildkröten als Nahrungsquelle angewiesen sind.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Die Galápagos-Riesenschildkröten sind inzwischen in Ecuador gesetzlich geschützt.</color>
+               </cell>
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">Um die Galápagos-Riesenschildkröte im Herausforderungs- oder Kampagnenmodus freizugeben, muss der Zoo einen Bekanntheitsgrad von 1-1/2 Sternen erreichen.</color>
+            <p/>
+            Landschildkröte ist die Bezeichnung für Vertreter der Familie Schildkröten, die ausschließlich an Land leben. Landschildkröten bewegen sich langsam fort und sind für ihre Langlebigkeit bekannt, die in Einzelfällen 150 Jahre übersteigt. Es gibt 41 Landschildkrötenarten.
+            <p/>
+            Mit Ausnahme von Australien und der Antarktis sind sie auf der gesamten Welt heimisch. Die meisten Landschildkrötenarten leben es in den tropischen Regionen Afrikas, Südamerikas und Asiens. Sie kommen in trockenen Gegenden wie Wüsten und Savannen vor, obwohl einige Arten auch feuchte Lebensräume wie Regenwälder und Waldland bevorzugen.
+            <p/>
+            Die Größe von Landschildkröten variiert je nach Art zwischen 10 cm für eine ausgewachsene Spinnenschildkröte und bis zu 1,4 m und 254 kg für eine Aldabra-Riesenschildkröte. Landschildkröten sind durch schwere Panzer geschützt, die aus einer inneren, knöchernen Schicht und einer äußeren Schicht aus Hornschildern bestehen. Bei den meisten Landschildkröten ist der Panzer kuppelförmig. Diese Form erschwert es Raubtieren, ihre Kiefer um den Panzer zu schließen und ihn zu zermalmen. Bei einigen Arten hat der Panzer biegsame Scharniere, mit denen die Schildkröten die Öffnungen fest verschließen, durch die sie Kopf, Beine und Schwanz in das Panzerinnere ziehen. 
+            <p/>
+            Landschildkröten haben kraftvolle, stämmige Beine, die das Gewicht der schweren Panzer tragen können. Wenn sich Landschildkröten überhaupt bewegen, dann sehr langsam. Manchmal liegen Sie stundenlang reglos an derselben Stelle und bewegen sich dann wieder mit einer Geschwindigkeit von nur 0,2 km/h. Die Vorderbeine mancher Arten, etwa der im Süden der USA und in Nordmexiko beheimateten Gopherschildkröte, sind abgeflacht, damit sie besser Tunnel graben können. Die Haut an Kopf, Schwanz und Beinen der Landschildkröten ist mit Hornschuppen bedeckt, um das Körperinnere vor dem Austrocknen zu bewahren.
+            <p/>
+            Die meisten Landschildkröten sind Pflanzenfresser. Wie alle Schildkröten besitzen Landschildkröten keine Zähne, sondern in ihren Kiefern scharfkantige Hornscheiden. Landschildkröten beißen mit ihren Kiefern Pflanzenteile ab. Die Nahrung einiger Arten besteht aus einer Mischung aus Pflanzen, kleinen Tieren wie Insekten und Würmern sowie Kadavern größerer Tiere. Da sich Landschildkröten nicht schnell bewegen können, sind sie auch nicht in der Lage, Beutetiere zu verfolgen.
+            <p/>
+            Die Paarung von Landschildkröten beginnt gewöhnlich mit dem Werbungsverhalten eines Männchens, das ein Weibchen umkreist und dabei den Kopf auf und nieder bewegt. Manchmal beißt das Männchen auch in den Panzer und die Beine des Weibchens. Das Männchen besteigt dann das Weibchen, um sich mit ihm zu paaren. Einige Riesenschildkröten geben dabei laute Brüllgeräusche von sich. Die Schildkrötenweibchen legen ihre Eier in unterirdischen Nestern ab. Je nach Art erstreckt sich die Brutdauer von etwa zwei Monaten bis zu über einem Jahr. Bei einigen Arten wie etwa der braunen Landschildkröte bleiben die Weibchen einige Tage in der Nähe des Nests, um die Eier gegen Raubtiere zu verteidigen. Nach dem Schlüpfen sind die Schildkrötenjungen jedoch auf sich allein gestellt und erhalten keine Unterstützung durch die Eltern.
+            <p/>
+            Viele Landschildkrötenarten sind durch den Menschen bedroht. Das Fleisch und die Eier von Landschildkröten wird als Nahrung genutzt und ihr natürlicher Lebensraum zerstört oder verändert. Die Riesenschildkröten der Galápagosinseln gehören zu den am meisten vom Aussterben bedrohten Landschildkröten der Welt. Eine riesige Anzahl dieser Schildkröten wurde Anfang des 19. Jahrhunderts durch die Mannschaften von Walfangschiffen getötet. Heute sind diese Riesenschildkröten durch viele Tierarten bedroht, die der Mensch auf die Galapagosinseln eingeschleppt hat. Schweine fressen die Schildkröteneier, Ratten die frisch geschlüpften Schildkröten und Ziegen die Pflanzen, auf die die Schildkröten als Nahrungsquelle angewiesen sind. Die Galápagos-Riesenschildkröten sind inzwischen in Ecuador gesetzlich geschützt.
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Mit freundlicher Genehmigung von <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2004.</color></u></a> (C) 1993-2005 Microsoft Corporation. Alle Rechte vorbehalten.
+         </cell>
+      </LOC_STRING>
+
+</ZT2Strings>

@@ -1,0 +1,231 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_beluga" version="9"/>
+      <LOC_STRING _locID="zoopedia_beluga:entry" version="9">Witte dolfijn</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_beluga:text" version="9">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/Beluga/Beluga_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>						 
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/vulnerable.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Status in het wild:
+                     <br/>
+                        <color r="255" g="255" b="0">
+                     Kwetsbaar
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+				 <cell width="128">
+				  <color r="255" g="255" b="255">Toendra<br/></color>
+				  <img src="ui/icon_biomes/icon_tundra.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+				 </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Noordelijke IJszee</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/tundra_arctic_ocean.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Klasse: zoogdieren <i>(Mammalia)</i>
+                  <br/>
+                  Orde: <i>Cetacea</i>
+                  <br/>
+                  Familie: <i>Monodontidae</i>
+                  <br/>
+                  Geslacht: <i>Delphinapterus</i>
+                  <br/>
+                  Soort: <i>leucas</i>
+                  </color>
+               </cell>
+				 <cell width="256" pady="10">
+				  <img src="UI/zoopedia/biome/tundra_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+				 </cell>				 
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Interessante feiten over de witte dolfijn</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Witte dolfijnen zijn bij hun geboorte donkergrijs, bruin of zwart, maar worden geleidelijk steeds lichter, tot ze op vijfjarige leeftijd volledig wit zijn.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Witte dolfijnen kunnen voor- en achteruit zwemmen!</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Witte dolfijnen kauwen hun voedsel niet; ze slikken het in zijn geheel door.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Witte dolfijnen zoeken naar voedsel vlakbij de bodem in ondiep water en eten dus doorgaans vissen die op de bodem leven.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">De nek van de witte dolfijn is erg flexibel, waardoor hij deze gemakkelijk kan bewegen terwijl hij eet. Met zijn bek kan hij ook dusdanig hard zuigen, dat hij ook dieren kan oppikken die niet willen worden opgegeten!</color>
+               </cell>                
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">De witte dolfijn komt in de modus Uitdaging of Campagne beschikbaar zodra je dierentuin een bekendheidsscore van 0,5 ster behaalt.</color>
+            <p/>De witte dolfijn is een walvis met tanden die nauw verwant is aan de dolfijn, met een karakteristieke kop en korte vinnen. Witte dolfijnen worden zwart of donkerbruin geboren zonder rugvin, en worden in ongeveer vijf jaar tijd melkachtig wit. De mannetjes kunnen maximaal 7 meter lang worden. De vrouwtjes zijn iets kleiner. Witte dolfijnen reizen in scholen van enkele duizenden dieren en voeden zich met vissen, inktvissen, krabben, slakken en pijlinktvissen. Ze komen veel voor in de Noordelijke IJszee en reizen ver zuidwaarts tot de hoogte van de staat New Jersey in de Verenigde Staten en de rivier de Rijn in Europa.     
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Inhoud gebaseerd op <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft® Encarta® 2006.</color></u></a> © 1993-2005 Microsoft Corporation. Alle rechten voorbehouden.
+         </cell>         
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_penguinrockhopper" version="9"/>
+      <LOC_STRING _locID="zoopedia_penguinrockhopper:entry" version="9">Rotsspringer</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_penguinrockhopper:text" version="9">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/PenguinRockhopper/PenguinRockhopper_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/PenguinRockhopper/PenguinRockhopper_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>							 
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>						 
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/vulnerable.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Status in het wild:
+                     <br/>
+                        <color r="255" g="255" b="0">
+                     Kwetsbaar
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+				 <cell width="128">
+				  <color r="255" g="255" b="255">Kust<br/></color>
+				  <img src="ui/icon_biomes/icon_coastal.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+				 </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Antarctische eilanden</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/coastal_southern_ocean_islands.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Klasse: vogels <i>Aves</i>
+                  <br/>
+                  Orde: <i>Sphenisciformes</i>
+                  <br/>
+                  Familie: <i>Spheniscidae</i>
+                  <br/>
+                  Geslacht: <i>Eudyptes</i>
+                  <br/>
+                  Soort: <i>chrysocome</i>
+                  </color>
+               </cell>
+				 <cell width="256" pady="10">
+				  <img src="UI/zoopedia/biome/coastal_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+				 </cell>				 
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Interessante feiten over de rotsspringer</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Vrouwelijke rotsspringers leggen normaal gesproken twee eieren in een broedseizoen, maar er wordt slechts één ei uitgebroed.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Rotsspringers worden gemiddeld tien jaar oud.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Om een partner voor zich te winnen schudden mannetjes hun koppen om de aandacht te vestigen op hun kuif met gele veren.</color>
+               </cell>                 
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">De rotsspringer komt in de modus Uitdaging of Campagne beschikbaar zodra je dierentuin een bekendheidsscore van 2 sterren behaalt.</color>
+            <p/>Rotsspringers danken hun naam aan hun gespring van en naar de rotsblokken op de rotsachtige eilanden waarop ze leven. Dit is een sub-Antarctische pinguïnsoort, die dus hoofdzakelijk te vinden is op zuidelijke eilanden zoals de Falklandeilanden, het Macquarie-eiland, Australië en Nieuw-Zeeland.
+            <p/>Rotsspringers hebben een fraaie, opvallende kuif en bloedrode ogen, en zijn zo agressief als je op grond van hun intens starende blik mag verwachten. Ze vechten vaak om de beste nestplaatsen op het rotsachtige terrein. Het zijn kleine pinguïns, maar dankzij hun krachtige poten met zwemvliezen en hun vinnen zijn het voortreffelijke zwemmers en jagers.
+				<p/>Rotsspringers jagen op lantaarnvissen, krill en soms ook op kleine inktvissen. Ze zijn zelf een prooi voor blauwe haaien, zeeluipaarden en pelsrobben. Daarnaast vallen hun eieren en kuikens op het land vaak ten prooi aan meeuwen en andere vogels.
+				<p/>Omdat ze hun nesten langs rotsachtige kustlijnen maken, is hun vermogen om vanuit het water op de rotsen te springen een belangrijke vaardigheid om te overleven.  
+         </cell>        
+      </LOC_STRING>  
+
+</ZT2Strings>

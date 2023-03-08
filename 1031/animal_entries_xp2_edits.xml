@@ -1,0 +1,265 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_moose" version="6"/>
+      <LOC_STRING _locID="zoopedia_moose:entry" version="6">Elch</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_moose:text" version="6">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+               <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+                  <img src="entities/units/animals/Moose/Moose_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+               </cell>
+               <cell width="16">
+                  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+               </cell>
+               <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+                  <img src="entities/units/animals/Moose/Moose_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+               </cell>
+               <cell width="16">
+                  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+               </cell>
+               <cell width="60"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Gefährdungsstatus:
+                     <br/>
+                        <color r="170" g="255" b="0">
+                     Gering gefährdet
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>             
+            
+               <cell width="128">
+                  <color r="255" g="255" b="255">Borealer Wald</color>
+                  <br/>
+                  <img src="ui/icon_biomes/icon_borealforest.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+               </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Nordamerika</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/Boreal_America_North.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+Klasse: Säugetiere                                                                            
+                     <i>(Mammalia)</i>
+                     <br/>
+Ordnung: Paarhufer                                                        
+                     <i>(Artiodactyla)</i>
+                     <br/>
+Familie: Hirsche                                                        
+                     <i>(Cervidae)</i>
+                     <br/>
+Gattung:		                                                       
+                     <i>alces  </i>
+                     <br/>
+Art:	                                                       
+                     <i>alces</i>
+                     <br/>
+Unterart:	                                                       
+                     <i>americana</i>
+                  </color>
+               </cell>
+               <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/borealforest_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+               </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Spannende Fakten zum Elch</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Elchkühe sind in der Lage, ihr Kalb vor Wölfen zu schützen, indem sie es in flache Gewässer führen und sich dann zwischen Kalb und Wölfe stellen, die dann meistens dann tatsächlich abziehen.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Elche fliehen häufig vor Wölfen, indem sie sich in Seen und Sümpfe retten. Dort sind sie sicher - außer im Winter, wenn die Wasseroberfläche gefriert und die Wölfe ihnen folgen können.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Elche können bis zu 6 m tief tauchen und 40 Sekunden unter Wasser bleiben, während sie unter Wasser nach Pflanzen und Wurzeln suchen.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Elche können eine Schulterhöhe von 2 m erreichen.</color>
+               </cell>
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">Um den Elch im Herausforderungs- oder Kampagnenmodus freizugeben, muss der Zoo einen Bekanntheitsgrad von 1/2 Stern erreichen.
+            </color>
+            <p/>Als Elche werden die größten Mitglieder der Familie der Hirsche bezeichnet. Der von den Algonquin (ein Stamm nordamerikanischer Ureinwohner) vergebene Namen "Moose" bedeutet "Zweigesser" und weist auf die Hauptnahrung von Blättern und Zweigen hin. Elche bewohnen die Wälder Nordasiens und Europas von Sibirien im Osten bis Norwegen im Westen sowie in den baltischen Ländern und Nordchina. In Nordamerika kommt der Elch in Waldgebieten Kanadas und der nördlichen USA vor. Die nordamerikanische Unterart dieses Hirsches wird auch Elk oder Wapiti genannt. Elche sind gewaltige Tiere. Die männlichen Tiere, die Bullen, können eine Schulterhöhe von bis zu 2 m erreichen. Einige Bullen haben ein Gewicht von über 726 kg. Mit ihren typischen langen Beinen können Elche sowohl niedrige Büsche und kleine Bäume abgrasen, als auch auf der Suche nach Wasserpflanzen durch Seen und Teiche waten. Im Wasser können sich Elche geschickt fortbewegen, und sie sind hervorragende Schwimmer.                                    
+            <p/>Der Kopf des Elchs ist groß und die Oberlippe (Muffel) ist überhängend. An der Kehle des Männchens hängt     eine lange, behaarte Hautfalte, auch Bart oder Wamme genannt. Die großen Ohren, die ständig in Bewegung sind, funktionieren wie ein Radar,     		und geben dem Elch ein sehr feines Gehör. Der große Schulterhöcker wird durch nach oben verlängerte Fortsätze der Nackenwirbel geformt.     		Daran sind starke Bänder befestigt, die notwendig sind, um den großen Kopf aufrecht zu halten.     		Die Färbung des Elchs ist meist von bräunlichem Schwarz, das Gesicht dabei von hellerem Braunton im Sommer. Kurz vor der Brunstzeit färbt sich das Gesicht der Bullen dunkelbraun bis schwarz.                        
+            <p/>Das bekannteste Merkmal der Elchbullen ist das breite Geweih mit den flächigen Schaufeln, die eine Spannweite von 1,50 m     		und ein Gewicht von über 22 kg erreichen können. Das Geweih ist von einer weichen, nährstoffreichen Basthaut     		überzogen, die meist in den ersten Septembertagen von den Bullen abgestreift und gewöhnlich gefressen wird. Nach der Paarungszeit, die in der Regel     		am Ende des Septembers stattfindet, wird das Geweih vollständig abgeworfen. Ältere Bullen werfen ihre Geweihschaufeln im Dezember ab,     		bis Ende Januar haben die meisten Bullen ihr Geweih verloren. Es kann vorkommen, dass junge Bullen ihr     		Geweih bis in den Februar tragen. Ab Anfang April beginnt das neue Geweih zu wachsen.                        
+            <p/>Elche sind meistens Einzelgänger. Während der Paarungszeit bilden sie jedoch ab und zu kleine Gruppen von bis zu zwölf Tieren. Dieses Verhalten lässt sich vor allem im kanadischen Yukon und in Alaska beobachten. Männchen und Weibchen erreichen im zweiten Lebensjahr ihre Geschlechtsreife. In der Paarungszeit tragen die Elchbullen im Kampf um die Weibchen heftige Duelle mit ihren Geweihen aus. Nach einer erfolgreichen Paarung und einer Tragezeit von etwa 230 Tagen werden die meisten Elchkälber Ende Mai geboren. Die Kühe bekommen gewöhnlich ein Junges, obwohl auch Zwillingsgeburten des Öfteren vorkommen und selbst Drillings- und Vierlingsgeburten beobachtet wurden. Kälber haben bei der Geburt rotbraunes Fell und wiegen 11 bis 16 Kilogramm.                        
+            <p/>Ein Elch lebt im Durchschnitt fünf bis sechs Jahre, auch wenn einige Elche ein Alter von bis zu 20 Jahren erreichen. Das     		Alter eines Elchs kann anhand der Ringe in der Wurzelspitze des mittleren Schneidezahns     		bestimmt werden. Ähnlich den Jahresringen von Baumstämmen bilden Elche jedes Jahr     		einen deutlich abgesetzten Ring aus.                        
+            <p/>Die Ernährungsgewohnheiten der Elche sind abhängig von der Jahreszeit. Im Herbst, Winter und Frühling fressen Elche die im Sommer gewachsenen Triebe von     		Espe, Schwarzpappel, Weide, Birke, Haselnussstrauch, Hartriegel und Balsamtanne. Im späten Frühjahr und     		frühen Sommer lecken Elche an natürlichen Salzvorkommen wie Salzquellen oder das abfließende     		Wasser von mit Salz gestreuten Straßen, um ihre während des Winters aufgebrauchten Mineralreserven aufzufüllen. Im Sommer bevorzugen Elche Wasserpflanzen als Nahrungsquellen und können bei     		ihrer Nahrungssuche bis zu 40 Sekunden unter Wasser bleiben.    		Trotz ihrer enormen Körpergröße und einer Laufgeschwindigkeit über kurze Strecken von bis zu 58 km/h,     		zählen Elche zu den Beutetieren von Wölfen sowie Schwarz- und 	                        
+        
+            <a href="zoopedia:zoopedia_grizzly:entry">
+               <u>
+                  <color r="255" g="231" b="135">Grizzlybären.</color>
+               </u>
+            </a> Es wurde nachgewiesen, dass bis zu 75 Prozent der neugeborenen Kälber während der ersten acht Lebenswochen von Bären getötet werden. Eine weitere Bedrohung für den Elch ist die Winterzecke. Ein starker Zeckenbefall führt zu Hautschädigungen und verursacht einen starken Juckreiz, in dessen Folge die Elche sich ganze Fellpartien abscheuern. So verlieren sie einen wichtigen Teil des Fells, das sie während der harten Winter vor Kälte schützt. Harte Winter können bei gleichzeitigem starkem Zeckenbefall Elchpopulationen um die Hälfte reduzieren.                           
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Beitrag von: Vince Crichton   			                        
+            <br/>Mit freundlicher Genehmigung von                         
+            <a href="zoopedia:zoopedia_encarta:entry">
+               <u>
+                  <color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2004.</color>
+               </u>
+            </a>(C) 1993-2003 Microsoft Corporation. Alle Rechte vorbehalten.                           
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_peafowl" version="6"/>
+      <LOC_STRING _locID="zoopedia_peafowl:entry" version="6">Pfau</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_peafowl:text" version="6">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/PeafowlCommon/PeafowlCommon_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>
+						<cell width="16">
+							<img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						</cell>
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/PeafowlCommon/PeafowlCommon_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>
+						<cell width="16">
+							<img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						</cell>
+						<cell width="60"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Gefährdungsstatus:
+                     <br/>
+                        <color r="170" g="255" b="0">
+                     Gering gefährdet
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>             
+
+               <cell width="128">
+                  <color r="255" g="255" b="255">Wald gemäß. Zone</color>
+                  <br/>
+                  <img src="ui/icon_biomes/icon_temperateforest.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+               </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Asien</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/temperateforest_Asia.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                     Klasse: Vögel                                                        
+                     <i>(Aves)</i>
+                     <br/>
+                     Ordnung: Hühnervögel                                                        
+                     <i>(Galliformes)</i>
+                     <br/>
+                     Familie: Wachteln, Rebhühner, Frankoline, Fasane, 	                                                       
+                     <br/>
+                     Waldhühner, Truthahn                                                        
+                     <i>(Phasianidae)</i>
+                     <br/>
+                     Gattung: <i>Pavo  </i>
+                     <br/>
+                     Art:	                                                       
+                     <i>Cristatus</i>
+                  </color>   
+               </cell>
+               <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/temperateforest_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+               </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Spannende Fakten zum Pfau</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Pfauen sind Allesfresser und ernähren sich von Würmern, Insekten, kleinen Schlangen und Pflanzensamen.</color>
+               </cell>
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">
+            Um den Pfau im Herausforderungs- oder Kampagnenmodus freizugeben, muss der Zoo einen Bekanntheitsgrad von 1 1/2 Sternen erreichen.
+            </color>
+            <p/>Als Pfauen werden drei Mitglieder der fasanenartigen Vögel bezeichnet. Eigentlich bezieht sich der Begriff Pfau jedoch nur auf den männlichen Vertreter. Weibliche Tiere werden genauer als Pfauenhennen bezeichnet. Zwei Arten kommen in Asien vor:  der Gemeine oder Indische Pfau und der Grüne oder Ährenträgerpfau. Die dritte Art, der Kongopfau, ist nur in den Wäldern der Demokratischen Republik Kongo (vormals Zaire) heimisch. Die asiatischen Pfauen sind für die prächtigen Fächer aus langen Oberschwanzdeckfedern bekannt, die ihre relativ kurzen Bürzel verdecken. Das Gefieder kann aufgestellt und zu einem Rad geschlagen werden. Die Federn sind meist von schimmerndem Grün und Gold und mit augenförmigen Zeichnungen in pfauenblauer Farbe versehen. Dasselbe Blau zeigt sich auch an Kopf, Hals, Brust und Haube. Beim Ährenträgerpfau sind Kopf, Hals und Unterpartie grün. Die Hennen haben keine Federschleppe und sind weniger farbenprächtig als die Hähne. Pfauen bauen ihre Nester auf dem Boden oder in den niedrigen Zweigen eines Baumes. Die Vögel ernähren sich von einer vielfältigen Kost aus Würmern, Insekten, kleinen Schlangen und Samen.                                    
+            <p/>Der gemeine Pfau wurde in vielen Teilen der Welt domestiziert und es gibt wilde Populationen auf Hawaii. Durch selektive Zucht ist inzwischen auch eine weiße Variante entstanden.                           
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">
+         Mit freundlicher Genehmigung von 
+            <a href="zoopedia:zoopedia_encarta:entry">
+               <u>
+                  <color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2004.</color>
+               </u>
+            </a>
+            (C) 1993-2003 Microsoft Corporation. Alle Rechte vorbehalten.                           
+         </cell>
+      </LOC_STRING>
+
+</ZT2Strings>

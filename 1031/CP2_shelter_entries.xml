@@ -1,0 +1,33 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_burrow_grassland:entry">Bau, Grasland</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_burrow_grassland:text">
+			<cell pady="0" width="1000"/>
+			<p/>
+			<cell width="260"/>
+			<cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+				<cell width="600" padx="20" pady="20">
+					<color r="255" g="255" b="255">
+						<img src="entities/objects/shelters/AnimalBurrows_Shelter/AnimalBurrows_Grasslands_Large_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+						<p/>
+						Der Graslandbau eignet sich perfekt für kleine Graslandtiere wie den Falklandfuchs. Dieser schläft gerne in der dunklen unterirdischen Umgebung des Baus.
+					</color>
+				</cell>
+			</cell>
+		</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_largeextinctshelter_shelter:entry">Felsenunterschlupf</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_largeextinctshelter_shelter:text">
+ 			<cell pady="0" width="1000"/>
+ 			<p/>
+ 			<cell width="260"/>
+ 			<cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+ 				<cell width="600" padx="20" pady="20">
+ 					<color r="255" g="255" b="255">
+ 						<img src="entities/objects/shelters/LargeExtinctShelter_Shelter/LargeExtinctShelter_Shelter_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+ 						<p/>
+ 						Diese große Felsanlage ist eine robuste Zuflucht, die für nahezu alle ausgestorbenen Tierarten geeignet ist. Jedes ausgestorbene Tier, das einen kühlen, erholsamen und ruhigen Ort mag, wird sich im Felsenunterschlupf wohl fühlen. Der erfrischende Wasserfall im Außenbereich ist ein optischer Genuss und hat gleichzeitig eine beruhigende Wirkung auf die Tiere.
+ 					</color>
+ 				</cell>
+ 			</cell>
+ 		</LOC_STRING> 
+ 
+</ZT2Strings>

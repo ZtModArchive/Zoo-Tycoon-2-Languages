@@ -1,0 +1,111 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_tanks:entry">Construcción de tanques</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_tanks:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>
+Zoo Tycoon 2: Marine Mania incluye tanques de exposición que se pueden construir para albergar a sus animales marinos.
+                  <p/>
+Para obtener información sobre un elemento del tanque, haga clic en el nombre del elemento en la lista de la izquierda.  
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_tankwall:entry">Pared de tanque acrílica</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_tankwall:text">
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\objects\fences\BasicTank\basictank_transparent_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+La pared de tanque acrílica está hecha de fibra sintética transparente. Utilícela para construir tanques que permitan a los visitantes ver sus animales marinos.
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_tankwallopaque:entry">Pared de tanque opaca</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_tankwallopaque:text">
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\objects\fences\BasicTank\basictank_opaque_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+La pared de tanque opaca está fabricada con sólidos paneles de hormigón a través de los cuales los visitantes no pueden ver. Combínela con la pared de tanque acrílica para crear un tanque que ofrezca privacidad a los animales marinos.
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_marinetankwall:entry">Pared de tanque de tema marino</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_marinetankwall:text">
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\objects\fences\ThemedTank_mm\themedtank_mm_opaque_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <img src="entities\objects\fences\ThemedTank_mm\themedtank_mm_transparent_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+Las paredes de tanque con un tema marino aportan un toque divertido a las instalaciones de animales marinos. Existen dos variedades: transparentes y opacas. Gane el Premio Magnate de Espectáculos de nivel 3 para desbloquear las paredes de tanque con un tema marino.    
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_showtankwall:entry">Pared de tanque de espectáculo marino</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_showtankwall:text">
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\objects\fences\ThemedTank_show\themedtank_show_opaque_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <img src="entities\objects\fences\ThemedTank_show\themedtank_show_transparent_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+Use la pared de tanque de espectáculo para que los tanques de espectáculo resulten más atractivos. Si construye una instalación fuera del tanque de espectáculo, el juego le pedirá automáticamente que coloque una plataforma de espectáculo y puertas de espectáculo.
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_tankentrance:entry">Entrada al tanque</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_tankentrance:text">
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\objects\fences\Tank_Gate\Tank_Gate_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+Los guardianes no pueden entrar y cuidar de los animales marinos de un tanque que no tiene entrada. Los entrenadores no pueden entrenar a los animales marinos de un tanque que no tiene una plataforma de entrada. Tenga en cuenta que las entradas al tanque sólo se pueden colocar en las paredes del mismo.
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_waterfilter:entry">Filtro de agua</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_waterfilter:text">
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\objects\misc\Water_Filter\Water_Filter_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+Los filtros de agua eliminan la suciedad y los desechos del agua que contienen los tanques de exposición y espectáculo. Si el agua del tanque está limpia, los animales se mantendrán sanos y felices. Los filtros de agua deben ser comprobados regularmente por los técnicos de mantenimiento. También puede reparar los filtros de agua usted mismo en el modo Visitante del zoo. 
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+ 
+</ZT2Strings>

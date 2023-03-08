@@ -1,0 +1,46 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_safarifence" version="2"/> <LOC_STRING _locID="zoopedia_safarifence:entry" version="2">Valla de safari</LOC_STRING> <LOC_STRING _locID="zoopedia_safarifence:text" version="2">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255"><img src="entities/objects/fences/bamboo_st/bamboo_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>Vallado que refleja un tema de safari que suele utilizarse cuando se crean instalaciones para animales de la sabana, como cebras, jirafas y leones. También puede utilizar el vallado de safari para crear áreas públicas temáticas adyacentes a instalaciones de sabana. A los visitantes les encanta visitar las áreas temáticas.
+						<p/>Para desbloquear los temas de safari, debe completar cinco desafíos del juego en modo Desafío.</color>
+            </cell>
+         </cell>
+      </LOC_STRING> <LOC_STRING _locID="zoopedia_junglefence" version="2"/> <LOC_STRING _locID="zoopedia_junglefence:entry" version="2">Valla de jungla</LOC_STRING> <LOC_STRING _locID="zoopedia_junglefence:text" version="2">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255"><img src="entities/objects/fences/junglefence_jt/junglefence_jt_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>Vallado que refleja un tema de jungla que suele utilizarse cuando se crean instalaciones para animales de la jungla y de la pluviselva, como tigres, gorilas y chimpancés. También puede utilizar el vallado de jungla para crear áreas públicas temáticas adyacentes a instalaciones de pluviselva. A los visitantes les encanta visitar las áreas temáticas.
+						<p/>Para desbloquear los temas de jungla, debe completar cinco desafíos fotográficos en modo Desafío.</color>
+            </cell>
+         </cell>
+      </LOC_STRING> <LOC_STRING _locID="zoopedia_fencegate" version="2"/> <LOC_STRING _locID="zoopedia_fencegate:entry" version="2">Puerta, del personal</LOC_STRING> <LOC_STRING _locID="zoopedia_fencegate:text" version="2">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255"><img src="entities/objects/fences/staffgate_df/staffgate_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>Cada instalación necesitará una puerta para el personal, que permita a cada miembro de la plantilla del zoo el acceso directo a los animales. Las puertas del personal también resultan de gran utilidad cuando se colocan en senderos, para impedir a los visitantes que accedan a determinadas zonas del zoo.  Sólo los miembros de la plantilla del zoo, incluidos los guardianes, los educadores de animales y los empleados de mantenimiento, pueden pasar por dichas puertas.</color>
+            </cell>
+         </cell>
+      </LOC_STRING> <LOC_STRING _locID="zoopedia_brick" version="2"/> <LOC_STRING _locID="zoopedia_brick:entry" version="2">Muro de ladrillo</LOC_STRING> <LOC_STRING _locID="zoopedia_brick:text" version="2">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255"><img src="entities/objects/fences/brickwall_df/brickwall_icon.dds" sx="0" sy="0" sw="64" sh="64"/> <img src="entities/objects/fences/lowbrickwall_df/lowbrickwall_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>Tanto el muro de ladrillo estándar como el de baja altura desempeñan una buena función en la contención de animales y además pueden utilizarse como un atractivo límite para los senderos.</color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+
+</ZT2Strings>

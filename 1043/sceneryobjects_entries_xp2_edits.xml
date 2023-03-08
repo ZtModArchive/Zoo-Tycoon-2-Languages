@@ -1,0 +1,59 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_themedtrashcan" version="6"/>
+      <LOC_STRING _locID="zoopedia_themedtrashcan:entry" version="6">Vuilnisbak, thema</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_themedtrashcan:text" version="6">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities\objects\scenery\trashcan_jt\trashcan_jt_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities\objects\scenery\trashcan_st\trashcan_st_icon.dds" sx="0" sy="0" sw="64" sh="64"/>                  
+                  <br/>Bezoekers kunnen vuilnisbakken gebruiken om hun afval in te gooien. De bakken worden geleegd door onderhoudsmedewerkers. Bezoekers ergeren zich als vuilnisbakken overvol raken en ze gooien hun afval op de grond als ze geen vuilnisbak kunnen vinden. Bezoekers zien tijdens rondleidingen graag themaobjecten.          
+                  <p/>Klik op de knop Bekendheid van dierentuin, klik op het tabblad Prijzen voor dierentuin en klik op Definitieve prijzen als je wilt weten welke verschillende thema's beschikbaar kunnen komen.     
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_themedviewingareas" version="6"/>
+      <LOC_STRING _locID="zoopedia_themedviewingareas:entry" version="6">Thema-uitkijkoverkappingen</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_themedviewingareas:text" version="6">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities\objects\scenery\ViewingArea_Jt\ViewingArea_Jt_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities\objects\scenery\ViewingArea_St\ViewingArea_St_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>
+               Een themaoverkapping vormt een beschutte locatie vanwaar bezoekers de dieren kunnen observeren. Bezoekers zien tijdens rondleidingen graag themaobjecten.
+                  <p/>Klik op de knop Bekendheid van dierentuin als je wilt weten welke verschillende thema's beschikbaar kunnen worden gemaakt. Klik vervolgens op het tabblad Prijzen voor dierentuin en klik op Definitieve prijzen. 
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_themedumbrellatable" version="6"/>
+      <LOC_STRING _locID="zoopedia_themedumbrellatable:entry" version="6">Thematafel met parasol</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_themedumbrellatable:text" version="6">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities\objects\scenery\umbrellatable_jt\umbrellatable_jt_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities\objects\scenery\umbrellatable_St\umbrellatable_St_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>
+               Bezoekers kunnen aan een tafel gaan zitten om te genieten van het eten en drinken dat ze in de dierentuin kopen. Bezoekers vinden het fijn als ze niet staand hoeven eten. Bezoekers zien tijdens rondleidingen graag themaobjecten.
+                  <p/>Klik op de knop Bekendheid van dierentuin, klik op het tabblad Prijzen voor dierentuin en klik op Definitieve prijzen als je wilt weten welke verschillende thema's beschikbaar kunnen komen.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+
+</ZT2Strings>

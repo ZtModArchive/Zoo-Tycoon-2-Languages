@@ -1,0 +1,39 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_facepaintingkiosk" version="6"/>
+      <LOC_STRING _locID="zoopedia_facepaintingkiosk:entry" version="6">Schminkkiosk</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_facepaintingkiosk:text" version="6">
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\objects\buildings\Face_Painting_Kiosk_end\FacePaintingKiosk_end_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+Jonge bezoekertjes vinden de schminkkiosk geweldig. Hier kunnen zij hun gezicht laten beschilderen als een tijger, panda of ander dier.
+<p/>
+Om de schminkkiosk beschikbaar te maken voor je spel, moet je de Prijs voor meeste donaties voor amusement in de wacht slepen.
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_headphonekiosk" version="6"/>
+      <LOC_STRING _locID="zoopedia_headphonekiosk:entry" version="6">Headsetkiosk</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_headphonekiosk:text" version="6">
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\objects\buildings\HeadphoneKiosk_end\HeadphoneKiosk_end_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+Bezoekers waarderen de headsets die in de headsetkiosk te verkrijgen zijn. Via de draadloze headsets krijgen bezoekers extra informatie over de dieren in je dierentuin te horen.
+		<p/>
+Om de headsetkiosk beschikbaar te maken voor je spel, moet je de Prijs voor de meeste donaties voor educatie in de wacht slepen.
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+  
+</ZT2Strings>

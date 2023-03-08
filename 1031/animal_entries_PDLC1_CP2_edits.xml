@@ -1,0 +1,993 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_styracosaurus" version="9"/>
+      <LOC_STRING _locID="zoopedia_styracosaurus:entry" version="9">Styracosaurus</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_styracosaurus:text" version="9">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/Styracosaurus/Styracosaurus_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/Styracosaurus/Styracosaurus_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/extinct.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Gefährdungsstatus:
+                     <br/>
+                        <color r="255" g="255" b="255">
+                     Ausgestorben
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+               <cell width="128">
+                  <color r="255" g="255" b="255">Trop. Regenwald<br/></color>
+                  <img src="ui/icon_biomes/icon_tropicalrainforest.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+               </cell>
+					<cell width="128">
+						<color r="255" g="255" b="255">Nordamerika</color>
+						<br/>
+						<img src="ui/icon_maplocations/tropicalrainforest_northamerica_southeastern.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+					</cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Klasse: <i>Archosauria</i>
+                  <br/>
+                  Ordnung: <i>Ornithischia</i>
+                  <br/>
+                  Familie: <i>Ceratopsidae</i>
+                  <br/>
+                  Gattung: <i>Styracosaurus</i>
+                  <br/>
+                  Art: <i>Albertensis</i>
+                  </color>
+               </cell>
+					 <cell width="256" pady="10">
+					  <img src="UI/zoopedia/biome/tropicalrainforest_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+					 </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Spannende Fakten zum Styracosaurus</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Der Styracosaurus ist ein Vorfahre des bekannteren Triceratops.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Der Styracosaurus besitzt ein Horn und einen stachelbewehrten Nackenschild zum Schutz gegen Fleisch fressende Räuber wie dem Tyrannosaurus Rex und dem Carnotaurus.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Der Styracosaurus ist ein Pflanzenfresser. Seine Nahrung besteht aus den Blättern der Palmfarne, z. B. der Sagopalme.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Fossile Knochenfunde deuten darauf hin, dass der Styracosaurus in Herden umherzog und fraß.</color>
+               </cell>                             
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">Um den Styracosaurus im Herausforderungs- oder Kampagnenmodus freizugeben, muss der Zoo einen Bekanntheitsgrad von 1 Stern erreichen.</color>
+            <p/>Der Styracosaurus war ein Pflanzenfresser, der vor über 65 Millionen Jahren während der Kreidezeit lebte. Der Styracosaurus war ein kleinerer Vorfahre des Triceratops und lebte rund 10 Millionen Jahre vor ihm. Ein ausgewachsener Styracosaurus erreichte eine durchschnittliche Länge von 5 m und eine Höhe von 1,8 m, und konnte bis zu 3 t wiegen. Er besaß ein großes Horn auf der Schnauze und über beiden Augen jeweils ein sehr kleines Horn sowie einen Nackenschild mit mehreren langen Stacheln. Der Nackenschild bot einen Schutz vor Fleischfressern wie dem Tyrannosaurus, und ließ ihn größer und bedrohlicher (und vielleicht auch attraktiver bei der Partnersuche) aussehen. Wie der Triceratops verfügte auch der Styracosaurus über einen scharfen Schnabel, mit dem er die Blätter von niedrig wachsenden Pflanzen wie dem Palmfarn abtrennen konnte, und über kräftige Kiefer, mit denen er die festen Blätter gut zerkauen konnte. Der Styracosaurus wurde 1915 im Red Deer Valley, Alberta, Kanada entdeckt. In Arizona wurde ebenfalls eine große Fundstelle mit den Überresten von rund 100 Styracosauriern entdeckt. Dies lässt darauf schließen, dass der Styracosaurus in Herden umherzog.
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_triceratops" version="9"/>
+      <LOC_STRING _locID="zoopedia_triceratops:entry" version="9">Triceratops</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_triceratops:text" version="9">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/triceratops/triceratops_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/triceratops/triceratops_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>						 
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/extinct.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Gefährdungsstatus:
+                     <br/>
+                        <color r="255" g="255" b="255">
+                     Ausgestorben
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>             
+               
+					<cell width="128">
+						<color r="255" g="255" b="255">Borealer Wald</color>
+						<br/>
+						<img src="ui/icon_biomes/icon_borealforest.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+					</cell>
+					<cell width="128">
+						<color r="255" g="255" b="255">Nordamerika</color>
+						<br/>
+						<img src="ui/icon_maplocations/Cretaceous_America_Boreal.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+					</cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Klasse: <i>Archosauria</i>
+                  <br/>
+                  Ordnung: <i>Ornithischia</i>
+                  <br/>
+                  Familie: <i>Ceratopsidae</i>
+                  <br/>
+                  Gattung: <i>Triceratops</i>
+                  <br/>
+                  Art: <i>Horridus</i>
+                  </color>
+               </cell>
+				 <cell width="256" pady="10">
+				  <img src="UI/zoopedia/biome/borealforest_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+				 </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Spannende Fakten zum Triceratops</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Der Triceratops ist ein Nachfahre des Styracosaurus.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Der Triceratops besaß drei Hörner und einen Nackenschild aus Knochen.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Mit den Hörnen und dem Nackenschild verteidigte sich der Triceratops gegen Fleischfresser wie Tyrannosaurus Rex und Carnotaurus.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Der Triceratops ist ein Pflanzenfresser, dessen Nahrung aus den Blättern der Palmfarne besteht, z. B. der Sagopalme.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>               
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Der Triceratops hat einen scharfen Schnabel, mit dem er Pflanzen zerteilen kann, und einen Kiefer, den er zum Erfassen von Blättern seitlich öffnen kann.</color>
+               </cell>                              
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">Um den Triceratops im Herausforderungs- oder Kampagnenmodus freizugeben, muss der Zoo einen Bekanntheitsgrad von 4 Sternen erreichen.</color>
+            <p/>Die Gattung Triceratops umfasst mehrere Arten vierbeiniger, Pflanzen fressender Dinosaurier, die während der Kreidezeit vor über 65 Millionen Jahren lebten. Der Triceratops besaß drei Hörner auf seinem Schädel, eines auf der Schnauze und je eines über den Augen. Der Name leitet sich von den griechischen Wörtern "Treis" (drei), "Kerat" (Horn) und "Ops" (Gesicht) ab. Triceratops war einer der größten Horndinosaurier. Andere Erkennungsmerkmale des Dinosauriers sind sein Schnabel und sein Nackenschild. Der Triceratops war ein Mitglied der Ceratopsia (Horndinosaurier), eine artenreiche Gruppe der Ornithischia (Vogelbeckendinosaurier), die gegen Ende des Dinosaurierzeitalters Nordamerika und Asien bevölkerten. Es wurden zahlreiche Schädel in Ablagerungen gefunden, die vor 65 bis 67 Millionen Jahren durch Überschwemmungen an niedrigen Küstenebenen nahe einer Wasserstraße gebildet wurden, die das Binnenland der USA und Kanada bedeckte.
+            
+				<p/>Ein ausgewachsener Triceratops erreichte eine durchschnittliche Länge von 8 m und ein Gewicht von bis zu 12 t. Die Schädel von ausgewachsenen Exemplaren hatten eine Länge von 2,5 m und einen schmalen, papageienartigen Schnabel. Der Schnabel war mit Reihen eng beieinander liegender Zähne ausgestattet, die großen Scheren ähnelten. Diese Saurier konnte seine Kiefer über ein Gelenk zwischen Kopf und Hals seitlich öffnen, um so Blätter und Zweige mit einer Kopfdrehung zu erfassen. Wenn er die Nahrung mit seinem Schnabel erfasst hatte, drehte er seinen Kopf zurück und zerkaute die Nahrung mithilfe seiner kräftigen Kiefer. Die Unterseite des Nackenschilds war mit einem dichten Netz aus Blutgefäßen durchzogen. Fossilienfunde lassen darauf schließen, dass über diese Blutgefäße Körperwärme abgegeben wurde, ähnlich den heutigen Elefanten, die Blut durch ihre Ohren transportieren, um ihre Körpertemperatur zu regulieren. Einige Wissenschaftler glauben, dass der Triceratops wie ein Nashorn galoppieren konnte, andere sind dagegen der Meinung, dass er dafür viel zu schwer und schwerfällig war.
+				
+				<p/>Skelettreste des Triceratops wurden in einer großen Schwemmebene gefunden, die der heutigen Tiefebene an der Grenze zum unteren Teil des Mississippi am Golf von Mexiko ähnelt. Die Kiefer des Triceratops eigneten hervorragend zum Abreißen von faserigen Pflanzen wie Schilf und Palmen, die für die damalige Zeit in dieser Ebene typisch waren. Die riesige Größe des Triceratops lässt darauf schließen, dass er in einer Umgebung mit reichem Nahrungsangebot lebte. Schlecht verheilte Verletzungen in fossilen Schädeln weisen darauf hin, dass die Dinosaurier wie einige gehörnte Säugetiere der Jetztzeit (z. B. Ziegenböcke oder Hirsche) Kämpfe untereinander austrugen. Einige Paläontologen glauben jedoch, dass die Hörner des Triceratops auch in verschiedenen Bereichen des Sozialverhaltens eine Rolle spielten, z. B. zur Unterscheidung zwischen Männchen und Weibchen, bei der Rangfolge in Herden und bei der Paarung. 
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Mit freundlicher Genehmigung von <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft® Encarta® 2006.</color></u></a> © 1993-2005 Microsoft Corporation. Alle Rechte vorbehalten.
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_tyrannosaurusrex" version="9"/>
+      <LOC_STRING _locID="zoopedia_tyrannosaurusrex:entry" version="9">Tyrannosaurus Rex</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_tyrannosaurusrex:text" version="9">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/tyrannosaurusrex/tyrannosaurusrex_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/tyrannosaurusrex/tyrannosaurusrex_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/extinct.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Gefährdungsstatus:
+                     <br/>
+                        <color r="255" g="255" b="255">
+                     Ausgestorben
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>             
+               
+               <cell width="128">
+                  <color r="255" g="255" b="255">Trop. Regenwald<br/></color>
+                  <img src="ui/icon_biomes/icon_tropicalrainforest.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+               </cell>
+					<cell width="128">
+						<color r="255" g="255" b="255">Nordamerika</color>
+						<br/>
+						<img src="ui/icon_maplocations/Cretaceous_America_TropicalRainForest.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+					</cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Klasse: <i>Archosauria</i>
+                  <br/>
+                  Ordnung: <i>Saurischia</i>
+                  <br/>
+                  Familie: <i>Tyrannosauridae</i>
+                  <br/>
+                  Gattung: <i>Tyrannosaurus</i>
+                  <br/>
+                  Art: <i>Rex</i>
+                  </color>
+               </cell>
+				 <cell width="256" pady="10">
+				  <img src="UI/zoopedia/biome/tropicalrainforest_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+				 </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Spannende Fakten zum Tyrannosaurus Rex</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Wissenschaftler haben über den Tyrannosaurus mehr herausgefunden als über jeden anderen Fleisch fressenden Dinosaurier.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Der Tyrannosaurus war ein Karnivore (Fleischfresser), der oft Jagd auf Pflanzenfresser wie den Triceratops oder den Styracosaurus machen.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">In den versteinerten Ausscheidungen eines Tyrannosaurus wurden Reste eines Triceratops-Nackenschildes gefunden.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Der Unterleib des Tyrannosaurus war zum Schutz vor den scharfen Hörnern sich verteidigender Pflanzenfresser mit einem Knochengitter ausgestattet.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>               
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Sein Magen hatte ein Fassungsvermögen von einer halben Tonne Fleisch.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>               
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Wissenschaftler fanden kürzlich Hinweise darauf, dass der Tyrannosaurus als Jungtier ein Daunenfederkleid trug, um seine Körperwärme zu halten.</color>
+               </cell>                 
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">Um den Tyrannosaurus Rex im Herausforderungs- oder Kampagnenmodus freizugeben, muss der Zoo einen Bekanntheitsgrad von 5 Sternen erreichen.</color>
+            <p/>Tyrannosaurus ist die Bezeichnung für eine Gattung großer zweibeiniger, Fleisch fressender Dinosaurier, die vor rund 65 Millionen Jahren in der Kreidezeit lebte. Der Name Tyrannosaurus leitet sich aus den griechischen Wörtern "Tyrannos" (Tyrann) und "Sauros" (Echse) ab. Aufgrund seiner Größe, des aufrechten Gangs, der kleinen Vordergliedmaßen mit zwei Fingern und des gezackten Gebisses ist der Tyrannosaurus leicht zu erkennen. Er ist einer der größten Fleischfresser aller Zeiten.
+
+<p/>Wissenschaftler wissen über den Tyrannosaurus mehr als über jeden anderen Fleisch fressenden Dinosaurier. In der Mongolei und im Westen der USA und Kanada wurden Dutzende von Skeletten dieses riesigen Dinosauriers der Ordnung Saurischia (Echsenbeckendinosaurier) gefunden. Ein besonders großes und vollständig erhaltenes Skelett ist im Field Museum in Chicago ausgestellt. Es trägt den Namen "Sue". Ein weiteres Exemplar eines Tyrannosaurus wurde in Montana gefunden. Es war so gut konserviert, dass sogar Blutgefäße und anderes weiches Gewebe im Schenkelknochen erhalten war.
+
+<p/>Der Tyrannosaurus gehört zur Familie der Tyrannosauridae aus der Unterordnung Theropoda. Die Wissenschaft ist sich über die Anzahl an Arten innerhalb der Gattung Tyrannosaurus uneinig. Einige Wissenschaftler gehen von vier Arten aus, mit dem Tyrannosaurus Rex als bekanntesten Vertreter. 
+
+<p/>Der Tyrannosaurus gehörte zu den größten Landräubern aller Zeiten, nur übertroffen vom Giganotosaurus und Carcharodontosaurus. Tyrannosaurus Rex erreichte eine Länge von 12,5 m, eine Höhe von 5 m und ein Gewicht von mehr als 5 t. Der Schädel eines Tyrannosaurus war groß und beweglich, und sein Gehirn war etwa so groß wie das heutiger Reptilien. Von allen Fleisch fressenden Dinosauriern besaß er vermutlich das kräftigste Gebiss, mit dem er sogar Knochen zermalmen konnte. Auf der Oberseite der Schnauze befanden sich warzenartige Auswüchse und Narben. Diese Saurier hatten ein weites Sichtfeld, konnten ihre Augen jedoch auch direkt nach vorne ausrichten. Der Tyrannosaurus besaß kurze Arme, die nur von wenigen Nerven durchzogen waren. Die geringe Anzahl an Nervenbahnen deutet darauf hin, dass seine Armbewegungen unbeholfen und schwerfällig gewesen sein müssen. Der tonnenförmige Brustkorb dieser Dinosaurier lässt auf sehr große Lungen schließen. Der Bauch und die inneren Organe wurden durch ein Gitter aus Knochen geschützt. Die Beine waren lang und schlank.
+
+<p/>Der Tyrannosaurus bevorzugte vermutlich offenes Gelände, zum Beispiel breite von Tieren ausgetretene Pfade und lichte Wälder, in dem er seinen massigen Körper leichter manövrieren konnte und ein freies Blickfeld hatte. Wissenschaftler vermuten, dass der Tyrannosaurus ein schneller Läufer war und bei der Jagd Geschwindigkeiten von bis zu 40 km/h erreichte. Er konnte sich gut in Lauerstellung begeben, indem er sich auf der kräftige Erweiterung seines Beckens niederließ. Dabei legte er das Kinn auf den Boden und spähte mit den hoch sitzenden Augen nach Beute. 
+
+<p/>Die Wissenschaftler streiten sich, ob der Tyrannosaurus wie heutige Säugetiere ebenfalls ein Warmblüter war. Forschungsergebnisse legen die Annahme nahe, dass diese Tiere eine konstante Körpertemperatur hatten und ihr Stoffwechsel daher höher als der von anderen Reptilien gewesen sein muss. Einige Wissenschaftler äußern sogar die Vermutung, dass der Tyrannosaurus Federn besaß, mit denen er zwar nicht fliegen, aber dafür seine Körperwärme halten konnte.
+
+<p/>Wenn der Tyrannosaurus tatsächlich eine höhere Körpertemperatur hatte, war auch sein Nahrungsbedarf größer als bei anderen Reptilien. Sein Magen konnte über eine halbe Tonne Fleisch aufnehmen. Diese Menge musste er alle paar Wochen zu sich nehmen. Wissenschaftler fanden einen 2 Liter-Klumpen aus versteinerten Ausscheidungen, aus denen die Nahrung des Tyrannosaurus ermittelt werden konnte. Er enthielt die teilweise verdauten Knochenfragmente von jungen Pflanzen fressenden Dinosauriern. Außerdem wurde das Becken eines Triceratops gefunden, das tiefe Bissspuren von Tyrannosauruszähnen aufweist. Wie die meisten Beute jagenden Fleischfresser ernährte sich wahrscheinlich auch der Tyrannosaurus vom Aas anderer Dinosaurier, die durch Hunger oder Überschwemmungen getötet wurden. Bissspuren an verschiedenen Schädeln von Tyrannosauriern zeigen, dass sie auch untereinander Kämpfte ausftrugen, bei denen sie sich in das Gesicht bissen. 
+
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Mit freundlicher Genehmigung von <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft® Encarta® 2006.</color></u></a> © 1993-2005 Microsoft Corporation. Alle Rechte vorbehalten.
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_carnotaurus" version="9"/>
+      <LOC_STRING _locID="zoopedia_carnotaurus:entry" version="9">Carnotaurus</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_carnotaurus:text" version="9">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+             <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/carnotaurus/carnotaurus_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/carnotaurus/carnotaurus_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>						 
+						 <cell width="16">						 
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/extinct.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Gefährdungsstatus:
+                     <br/>
+                        <color r="255" g="255" b="255">
+                     Ausgestorben
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>             
+               
+					<cell width="128">
+						<color r="255" g="255" b="255">Borealer Wald</color>
+						<br/>
+						<img src="ui/icon_biomes/icon_borealforest.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+					</cell>
+					<cell width="128">
+						<color r="255" g="255" b="255">Südamerika</color>
+						<br/>
+						<img src="ui/icon_maplocations/Rainforest_America_South.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+					</cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Klasse: <i>Archosauria</i>
+                  <br/>
+                  Ordnung: <i>Saurischia</i>
+                  <br/>
+                  Familie: <i>Abelisauridae</i>
+                  <br/>
+                  Gattung: <i>Carnotaurus</i>
+                  <br/>
+                  Art: <i>Sastrei</i>
+                  </color>
+               </cell>
+				 <cell width="256" pady="10">
+				  <img src="UI/zoopedia/biome/borealforest_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+				 </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Spannende Fakten zum Carnotaurus</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Der Name Carnotaurus bedeutet "Fleisch (fressender) Stier".</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Die kleinen Hörner über den Augen wurden vermutlich bei Kopfstößen gegen Rivalen oder bei Paarungsritualen eingesetzt.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Im Gegensatz zu den meisten anderen Fleischfressern sind Kopf und Kiefer des Carnotaurus relativ kurz (ähnlich dem Kopf einer Bulldogge).</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>               
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Trotz seines aufrechten Gangs, den kleinen Armen und einem dem T. Rex ähnlichen Erscheinungsbild ist er nicht mit diesem verwandt.</color>
+               </cell>              
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">Um den Carnotaurus im Herausforderungs- oder Kampagnenmodus freizugeben, muss der Zoo einen Bekanntheitsgrad von 3 Sternen erreichen.</color>
+            <p/>Der Carnotaurus war ein ungewöhnlicher Dinosaurier. Sein Name bedeutet "Fleisch (fressender) Stier" und leitet sich von den kurzen Hörnern über den Augen ab. Während die meisten Dinosaurierfossilien in Nordamerika entdeckt wurden, fand man die Überreste des Carnotaurus in Südamerika. Er wurde übrigens erst vor relativ kurzer Zeit entdeckt: 1984 in Argentinien, von José F. Bonaparte, der nur ein einziges Exemplar fand. Dieses war jedoch so gut erhalten, dass sogar noch die groben Schuppen seiner Haut zu erkennen waren.
+
+<p/>Der Carnotaurus lebte während der mittleren Kreidezeit vor etwa 113 bis 91 Millionen Jahren. Er erreichte eine Länge von 7,5 m und ein Gewicht von rund 1 t. Über den Augen trug er zwei kleine Hörner. Über den Augen trug er zwei kleine Hörner. Seine kleinen Arme waren noch kürzer als die des T. Rex und endeten in vierfingrigen "Händen", die mit einer rückwärts gerichteten Klaue bewehrt waren. Obwohl der Carnotaurus wie die meisten Fleischfresser auf seinen Hinterbeinen lief, ist er nicht mit den bekannten Fleischfressern wie dem Giganotosaurus, Allosaurus und T. Rex verwandt. Er gehört zu einer Gattung von Fleischfressern der südlichen Halbkugel, die Abelisaurier genannt werden.
+
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_super_styracosaurus:entry">(Super-)Styracosaurus</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_super_styracosaurus:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+			<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+			  <img src="entities/units/animals/Styracosaurus/Styracosaurus_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+			 </cell>
+			 <cell width="32">
+				  <img src="ui/infopan/icon_supermale.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+			 </cell>
+			<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+				<img src="entities/units/animals/Styracosaurus/Styracosaurus_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+			</cell>	
+			 <cell width="32">
+				  <img src="ui/infopan/icon_superfemale.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+			 </cell>
+			 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/extinct.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Gefährdungsstatus:
+                     <br/>
+                        <color r="255" g="255" b="255">
+                     Ausgestorben
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+               <cell width="128">
+                  <color r="255" g="255" b="255">Trop. Regenwald<br/></color>
+                  <img src="ui/icon_biomes/icon_tropicalrainforest.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+               </cell>
+					<cell width="128">
+						<color r="255" g="255" b="255">Nordamerika</color>
+						<br/>
+						<img src="ui/icon_maplocations/tropicalrainforest_northamerica_southeastern.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+					</cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Klasse: <i>Archosauria</i>
+                  <br/>
+                  Ordnung: <i>Ornithischia</i>
+                  <br/>
+                  Familie: <i>Ceratopsidae</i>
+                  <br/>
+                  Gattung: <i>Styracosaurus</i>
+                  <br/>
+                  Art: <i>Albertensis</i>
+                  </color>
+               </cell>
+					 <cell width="256" pady="10">
+					  <img src="UI/zoopedia/biome/tropicalrainforest_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+					 </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Spannende Fakten zum Styracosaurus</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Der Styracosaurus ist ein Vorfahre des bekannteren Triceratops.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Der Styracosaurus besitzt ein Horn und einen stachelbewehrten Nackenschild zum Schutz gegen Fleisch fressende Räuber wie dem Tyrannosaurus Rex und dem Carnotaurus.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Der Styracosaurus ist ein Pflanzenfresser. Seine Nahrung besteht aus den Blättern der Palmfarne, z. B. der Sagopalme.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Fossile Knochenfunde deuten darauf hin, dass der Styracosaurus in Herden umherzog und fraß.</color>
+               </cell>                             
+            </cell>
+         </cell>
+         <cell width="340">
+               <color r="255" g="248" b="178">Nachdem Sie die Fossilienteile gefunden und zusammengesetzt haben, können Sie im Forschungslabor für ausgestorbene Arten einen Super-Styracosaurus erschaffen. Um weitere Informationen zu erhalten, klicken Sie auf den Link zum Eintrag für das <a href="zoopedia:zoopedia_cloningcenter:entry">  <u> <color r="32" g="126" b="32">Forschungslabor für ausgestorbene Arten. </color>  </u> </a> </color>
+            <p/>Der Styracosaurus war ein Pflanzenfresser, der vor über 65 Millionen Jahren während der Kreidezeit lebte. Der Styracosaurus war ein kleinerer Vorfahre des Triceratops und lebte rund 10 Millionen Jahre vor ihm. Ein ausgewachsener Styracosaurus erreichte eine durchschnittliche Länge von 5 m und eine Höhe von 1,8 m, und konnte bis zu 3 t wiegen. Er besaß ein großes Horn auf der Schnauze und über beiden Augen jeweils ein sehr kleines Horn sowie einen Nackenschild mit mehreren langen Stacheln. Der Nackenschild bot einen Schutz vor Fleischfressern wie dem Tyrannosaurus, und ließ ihn größer und bedrohlicher (und vielleicht auch attraktiver bei der Partnersuche) aussehen. Wie der Triceratops verfügte auch der Styracosaurus über einen scharfen Schnabel, mit dem er die Blätter von niedrig wachsenden Pflanzen wie dem Palmfarn abtrennen konnte, und über kräftige Kiefer, mit denen er die festen Blätter gut zerkauen konnte. Der Styracosaurus wurde 1915 im Red Deer Valley, Alberta, Kanada entdeckt. In Arizona wurde ebenfalls eine große Fundstelle mit den Überresten von rund 100 Styracosauriern entdeckt. Dies lässt darauf schließen, dass der Styracosaurus in Herden umherzog.
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_super_triceratops:entry">(Super-)Triceratops</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_super_triceratops:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+			<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+			  <img src="entities/units/animals/triceratops/triceratops_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+			 </cell>
+			 <cell width="32">
+				  <img src="ui/infopan/icon_supermale.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+			 </cell>
+			<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+			  <img src="entities/units/animals/triceratops/triceratops_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+			 </cell>						 
+			 <cell width="32">
+				  <img src="ui/infopan/icon_superfemale.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+			 </cell>
+			 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/extinct.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Gefährdungsstatus:
+                     <br/>
+                        <color r="255" g="255" b="255">
+                     Ausgestorben
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>             
+               
+					<cell width="128">
+						<color r="255" g="255" b="255">Borealer Wald</color>
+						<br/>
+						<img src="ui/icon_biomes/icon_borealforest.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+					</cell>
+					<cell width="128">
+						<color r="255" g="255" b="255">Nordamerika</color>
+						<br/>
+						<img src="ui/icon_maplocations/Cretaceous_America_Boreal.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+					</cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Klasse: <i>Archosauria</i>
+                  <br/>
+                  Ordnung: <i>Ornithischia</i>
+                  <br/>
+                  Familie: <i>Ceratopsidae</i>
+                  <br/>
+                  Gattung: <i>Triceratops</i>
+                  <br/>
+                  Art: <i>Horridus</i>
+                  </color>
+               </cell>
+				 <cell width="256" pady="10">
+				  <img src="UI/zoopedia/biome/borealforest_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+				 </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Spannende Fakten zum Triceratops</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Der Triceratops ist ein Nachfahre des Styracosaurus.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Der Triceratops besaß drei Hörner und einen Nackenschild aus Knochen.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Mit den Hörnen und dem Nackenschild verteidigte sich der Triceratops gegen Fleischfresser wie Tyrannosaurus Rex und Carnotaurus.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Der Triceratops ist ein Pflanzenfresser, dessen Nahrung aus den Blättern der Palmfarne besteht, z. B. der Sagopalme.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>               
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Der Triceratops hat einen scharfen Schnabel, mit dem er Pflanzen zerteilen kann, und einen Kiefer, den er zum Erfassen von Blättern seitlich öffnen kann.</color>
+               </cell>                              
+            </cell>
+         </cell>
+         <cell width="340">
+               <color r="255" g="248" b="178">Nachdem Sie die Fossilienteile gefunden und zusammengesetzt haben, können Sie im Forschungslabor für ausgestorbene Arten einen Super-Triceratops erschaffen. Um weitere Informationen zu erhalten, klicken Sie auf den Link zum Eintrag für das <a href="zoopedia:zoopedia_cloningcenter:entry">  <u> <color r="32" g="126" b="32">Forschungslabor für ausgestorbene Arten. </color>  </u> </a> </color>
+            <p/>Die Gattung Triceratops umfasst mehrere Arten vierbeiniger, Pflanzen fressender Dinosaurier, die vor über 65 Millionen Jahren während der Kreidezeit lebten. Der Triceratops besaß drei Hörner auf seinem Schädel, eines auf der Schnauze und je eines über den Augen. Der Name leitet sich von den griechischen Wörtern "Treis" (drei), "Kerat" (Horn) und "Ops" (Gesicht) ab. Triceratops war einer der größten Horndinosaurier. Andere Erkennungsmerkmale dieses Dinosauriers sind sein Schnabel und sein Nackenschild. Der Triceratops war ein Mitglied der Ceratopsia (Horndinosaurier), eine artenreiche Gruppe der Ornithischia (Vogelbeckendinosaurier), die gegen Ende des Dinosaurierzeitalters Nordamerika und Asien bevölkerten. Man fand zahlreiche Schädel in den Ablagerungen von Überschwemmungen vor 67 bis 65 Millionen Jahren an niedrigen Küstenebenen nahe einer Wasserstraße, die das Binnenland der USA und Kanada bedeckte.
+            
+				<p/>Ein ausgewachsener Triceratops erreichte eine durchschnittliche Länge von 8 m und ein Gewicht von bis zu 12 t. Die Schädel von ausgewachsenen Exemplaren hatten eine Länge von 2,5 m und einen schmalen, papageienartigen Schnabel. Der Schnabel war mit Reihen eng beieinander liegender Zähne ausgestattet, die großen Scheren ähnelten. Diese Saurier konnte seine Kiefer über ein Gelenk zwischen Kopf und Hals seitlich öffnen, um so Blätter und Zweige mit einer Kopfdrehung zu erfassen. Wenn er die Nahrung mit seinem Schnabel erfasst hatte, drehte er seinen Kopf zurück und zerkaute die Nahrung mithilfe seiner kräftigen Kiefer. Die Unterseite des Nackenschilds war mit einem dichten Netz aus Blutgefäßen durchzogen. Fossilienfunde lassen darauf schließen, dass über diese Blutgefäße Körperwärme abgegeben wurde, ähnlich den heutigen Elefanten, die Blut durch ihre Ohren transportieren, um ihre Körpertemperatur zu regulieren. Einige Wissenschaftler glauben, dass der Triceratops wie ein Nashorn galoppieren konnte, andere sind dagegen der Meinung, dass er dafür viel zu schwer und schwerfällig war.
+				
+				<p/>Reste von Triceratops-Skeletten wurden in einer großen Schwemmebene gefunden, die der heutigen Tiefebene an der Grenze zum unteren Teil des Mississippis am Golf von Mexiko ähnelt. Die Kiefer des Triceratops waren gut zum Abreißen von faserigen Pflanzen geeignet, die für die damalige Zeit in dieser Ebene typisch waren, z. B. Schilf und Palmen. Die riesige Größe von Triceratops legt die Vermutung nahe, dass er in einer Umgebung mit reichem Nahrungsangebot lebte. Schlecht verheilte Verletzungen in fossilen Schädeln weisen darauf hin, dass die Dinosaurier wie einige gehörnte Säugetiere der Jetztzeit (z. B. Ziegenböcke oder Hirsche) Kämpfe untereinander austrugen. Einige Paläontologen glauben jedoch, dass die Hörner des Triceratops auch in anderen Bereichen des Sozialverhaltens eine Rolle spielten, z. B. zur Unterscheidung zwischen Männchen und Weibchen, bei der Rangfolge in Herden und bei der Paarung. 
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Mit freundlicher Genehmigung von <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft® Encarta® 2006.</color></u></a> © 1993-2005 Microsoft Corporation. Alle Rechte vorbehalten.
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_super_tyrannosaurusrex:entry">(Super-)Tyrannosaurus Rex</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_super_tyrannosaurusrex:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+			<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+			  <img src="entities/units/animals/tyrannosaurusrex/tyrannosaurusrex_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+			 </cell>
+			 <cell width="32">
+				  <img src="ui/infopan/icon_supermale.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+			 </cell>
+			<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+				<img src="entities/units/animals/tyrannosaurusrex/tyrannosaurusrex_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+			</cell>	
+			 <cell width="32">
+				  <img src="ui/infopan/icon_superfemale.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+			 </cell>	  
+			 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/extinct.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Gefährdungsstatus:
+                     <br/>
+                        <color r="255" g="255" b="255">
+                     Ausgestorben
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>             
+               
+               <cell width="128">
+                  <color r="255" g="255" b="255">Trop. Regenwald<br/></color>
+                  <img src="ui/icon_biomes/icon_tropicalrainforest.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+               </cell>
+					<cell width="128">
+						<color r="255" g="255" b="255">Nordamerika</color>
+						<br/>
+						<img src="ui/icon_maplocations/Cretaceous_America_TropicalRainForest.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+					</cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Klasse: <i>Archosauria</i>
+                  <br/>
+                  Ordnung: <i>Saurischia</i>
+                  <br/>
+                  Familie: <i>Tyrannosauridae</i>
+                  <br/>
+                  Gattung: <i>Tyrannosaurus</i>
+                  <br/>
+                  Art: <i>Rex</i>
+                  </color>
+               </cell>
+				 <cell width="256" pady="10">
+				  <img src="UI/zoopedia/biome/tropicalrainforest_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+				 </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Spannende Fakten zum Tyrannosaurus Rex</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Wissenschaftler haben über den Tyrannosaurus mehr herausgefunden als über jeden anderen Fleisch fressenden Dinosaurier.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Der Tyrannosaurus war ein Karnivore (Fleischfresser), der oft Jagd auf Pflanzenfresser wie den Triceratops oder den Styracosaurus machen.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">In den versteinerten Ausscheidungen eines Tyrannosaurus wurden Reste eines Triceratops-Nackenschildes gefunden.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Der Unterleib des Tyrannosaurus war zum Schutz vor den scharfen Hörnern sich verteidigender Pflanzenfresser mit einem Knochengitter ausgestattet.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>               
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Sein Magen hatte ein Fassungsvermögen von einer halben Tonne Fleisch.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>               
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Wissenschaftler fanden kürzlich Hinweise darauf, dass der Tyrannosaurus als Jungtier ein Daunenfederkleid trug, um seine Körperwärme zu halten.</color>
+               </cell>                 
+            </cell>
+         </cell>
+         <cell width="340">
+               <color r="255" g="248" b="178">Nachdem Sie die Fossilienteile gefunden und zusammengesetzt haben, können Sie im Forschungslabor für ausgestorbene Arten einen Super-T. Rex erschaffen. Um weitere Informationen zu erhalten, klicken Sie auf den Link zum Eintrag für das <a href="zoopedia:zoopedia_cloningcenter:entry">  <u> <color r="32" g="126" b="32">Forschungslabor für ausgestorbene Arten. </color>  </u> </a> </color>
+            <p/>Tyrannosaurus ist die Bezeichnung für eine Gattung großer zweibeiniger, Fleisch fressender Dinosaurier, die vor rund 65 Millionen Jahren in der Kreidezeit lebte. Der Name Tyrannosaurus leitet sich aus den griechischen Wörtern "Tyrannos" (Tyrann) und "Sauros" (Echse) ab. Aufgrund seiner Größe, des aufrechten Gangs, der kleinen Vordergliedmaßen mit zwei Fingern und des gezackten Gebisses ist der Tyrannosaurus leicht zu erkennen. Er ist einer der größten Fleischfresser aller Zeiten.
+
+<p/>Wissenschaftler wissen über den Tyrannosaurus mehr als über jeden anderen Fleisch fressenden Dinosaurier. In der Mongolei und im Westen der USA und Kanada wurden Dutzende von Skeletten dieses riesigen Dinosauriers der Ordnung Saurischia (Echsenbeckendinosaurier) gefunden. Ein besonders großes und vollständig erhaltenes Skelett ist im Field Museum in Chicago ausgestellt. Es trägt den Namen "Sue". Ein weiteres Exemplar eines Tyrannosaurus wurde in Montana gefunden. Es war so gut konserviert, dass sogar Blutgefäße und anderes weiches Gewebe im Schenkelknochen erhalten war.
+
+<p/>Der Tyrannosaurus gehört zur Familie der Tyrannosauridae aus der Unterordnung Theropoda. Die Wissenschaft ist sich über die Anzahl an Arten innerhalb der Gattung Tyrannosaurus uneinig. Einige Wissenschaftler gehen von vier Arten aus, mit dem Tyrannosaurus Rex als bekanntesten Vertreter. 
+
+<p/>Der Tyrannosaurus gehörte zu den größten Landräubern aller Zeiten, nur übertroffen vom Giganotosaurus und Carcharodontosaurus. Tyrannosaurus Rex erreichte eine Länge von 12,5 m, eine Höhe von 5 m und ein Gewicht von mehr als 5 t. Der Schädel eines Tyrannosaurus war groß und beweglich, und sein Gehirn war etwa so groß wie das heutiger Reptilien. Von allen Fleisch fressenden Dinosauriern besaß er vermutlich das kräftigste Gebiss, mit dem er sogar Knochen zermalmen konnte. Auf der Oberseite der Schnauze befanden sich warzenartige Auswüchse und Narben. Diese Saurier hatten ein weites Sichtfeld, konnten ihre Augen jedoch auch direkt nach vorne ausrichten. Der Tyrannosaurus besaß kurze Arme, die nur von wenigen Nerven durchzogen waren. Die geringe Anzahl an Nervenbahnen deutet darauf hin, dass seine Armbewegungen unbeholfen und schwerfällig gewesen sein müssen. Der tonnenförmige Brustkorb dieser Dinosaurier lässt auf sehr große Lungen schließen. Der Bauch und die inneren Organe wurden durch ein Gitter aus Knochen geschützt. Die Beine waren lang und schlank.
+
+<p/>Der Tyrannosaurus bevorzugte vermutlich offenes Gelände, zum Beispiel breite von Tieren ausgetretene Pfade und lichte Wälder, in dem er seinen massigen Körper leichter manövrieren konnte und ein freies Blickfeld hatte. Wissenschaftler vermuten, dass der Tyrannosaurus ein schneller Läufer war und bei der Jagd Geschwindigkeiten von bis zu 40 km/h erreichte. Er konnte sich gut in Lauerstellung begeben, indem er sich auf der kräftige Erweiterung seines Beckens niederließ. Dabei legte er das Kinn auf den Boden und spähte mit den hoch sitzenden Augen nach Beute. 
+
+<p/>Die Wissenschaftler streiten sich, ob der Tyrannosaurus wie heutige Säugetiere ebenfalls ein Warmblüter war. Forschungsergebnisse legen die Annahme nahe, dass diese Tiere eine konstante Körpertemperatur hatten und ihr Stoffwechsel daher höher als der von anderen Reptilien gewesen sein muss. Einige Wissenschaftler äußern sogar die Vermutung, dass Tyrannosaurus Federn besaß, mit denen er zwar nicht fliegen, aber dafür seine Körperwärme halten konnte.
+
+<p/>Wenn der Tyrannosaurus tatsächlich eine höhere Körpertemperatur hatte, war auch sein Nahrungsbedarf größer als bei anderen Reptilien. Sein Magen konnte über eine halbe Tonne Fleisch aufnehmen. In der Regel reichte diese Menge dann aber für einige Wochen. Wissenschaftler fanden einen 2 Liter-Klumpen aus versteinerten Tyrannosaurus-Ausscheidungen, aus denen sein Beutespektrum ermittelt werden konnte. Er enthielt die teilweise verdauten Knochenfragmente junger Pflanzen fressender Dinosaurier. Außerdem wurde das Becken eines Triceratops gefunden, das tiefe Bissspuren von Tyrannosauruszähnen aufweist. Wie die meisten Beute jagenden Fleischfresser ernährte sich wahrscheinlich auch Tyrannosaurus vom Aas anderer an Hunger oder bei Überschwemmungen verendeter Dinosaurier. Bissspuren an verschiedenen Schädeln von Tyrannosauriern zeigen, dass sie auch untereinander Kämpfe ausftrugen, bei denen sie sich in das Gesicht bissen. 
+
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Mit freundlicher Genehmigung von <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft® Encarta® 2006.</color></u></a> © 1993-2005 Microsoft Corporation. Alle Rechte vorbehalten.
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_super_carnotaurus:entry">(Super-)Carnotaurus</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_super_carnotaurus:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+             <cell width="284">
+		<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+		  <img src="entities/units/animals/carnotaurus/carnotaurus_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+		 </cell>
+			 <cell width="32">
+				  <img src="ui/infopan/icon_supermale.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+			 </cell>
+		<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+		  <img src="entities/units/animals/carnotaurus/carnotaurus_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+		 </cell>						 
+			 <cell width="32">
+				  <img src="ui/infopan/icon_superfemale.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+		 	 </cell>
+		 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/extinct.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Gefährdungsstatus:
+                     <br/>
+                        <color r="255" g="255" b="255">
+                     Ausgestorben
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>             
+               
+					<cell width="128">
+						<color r="255" g="255" b="255">Borealer Wald</color>
+						<br/>
+						<img src="ui/icon_biomes/icon_borealforest.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+					</cell>
+					<cell width="128">
+						<color r="255" g="255" b="255">Südamerika</color>
+						<br/>
+						<img src="ui/icon_maplocations/Rainforest_America_South.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+					</cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Klasse: <i>Archosauria</i>
+                  <br/>
+                  Ordnung: <i>Saurischia</i>
+                  <br/>
+                  Familie: <i>Abelisauridae</i>
+                  <br/>
+                  Gattung: <i>Carnotaurus</i>
+                  <br/>
+                  Art: <i>Sastrei</i>
+                  </color>
+               </cell>
+				 <cell width="256" pady="10">
+				  <img src="UI/zoopedia/biome/borealforest_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+				 </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Spannende Fakten zum Carnotaurus</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Der Name Carnotaurus bedeutet "Fleisch (fressender) Stier".</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Die kleinen Hörner über den Augen wurden vermutlich bei Kopfstößen gegen Rivalen oder bei Paarungsritualen eingesetzt.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Im Gegensatz zu den meisten anderen Fleischfressern sind Kopf und Kiefer des Carnotaurus relativ kurz (ähnlich dem Kopf einer Bulldogge).</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>               
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Trotz seines aufrechten Gangs, den kleinen Armen und einem dem T. Rex ähnlichen Erscheinungsbild ist er nicht mit diesem verwandt.</color>
+               </cell>              
+            </cell>
+         </cell>
+         <cell width="340">
+               <color r="255" g="248" b="178">Nachdem Sie die Fossilienteile gefunden und zusammengesetzt haben, können Sie im Forschungslabor für ausgestorbene Arten einen Super-Carnotaurus erschaffen. Um weitere Informationen zu erhalten, klicken Sie auf den Link zum Eintrag für das <a href="zoopedia:zoopedia_cloningcenter:entry">  <u> <color r="32" g="126" b="32">Forschungslabor für ausgestorbene Arten. </color>  </u> </a> </color>
+            <p/>Der Carnotaurus war ein ungewöhnlicher Dinosaurier. Sein Name bedeutet "Fleisch (fressender) Stier" und leitet sich von den kurzen Hörnern über den Augen ab. Während die meisten Dinosaurierfossilien in Nordamerika entdeckt wurden, fand man die Überreste des Carnotaurus in Südamerika. Er wurde übrigens erst vor relativ kurzer Zeit entdeckt: 1984 in Argentinien, von José F. Bonaparte, der nur ein einziges Exemplar fand. Dieses war jedoch so gut erhalten, dass man sogar noch die groben Schuppen seiner Haut erkennen konnte.
+
+<p/>Der Carnotaurus lebte während der mittleren Kreidezeit vor etwa 113 bis 91 Millionen Jahren. Er erreichte eine Länge von 7,5 m und ein Gewicht von rund 1 Tonne. Über den Augen trug er zwei kleine Hörner. Seine kleinen Arme waren noch kürzer als die des T. Rex und endeten in vierfingrigen "Händen", die mit einer rückwärts gerichteten Klaue bewehrt waren. Obwohl der Carnotaurus wie die meisten Fleischfresser auf seinen Hinterbeinen lief, ist er nicht mit den bekannten Fleischfressern wie dem Giganotosaurus, Allosaurus und T. Rex verwandt. Er gehört zu einer Gattung von Fleischfressern der südlichen Halbkugel, die Abelisaurier genannt werden.
+
+         </cell>
+      </LOC_STRING>
+
+</ZT2Strings>

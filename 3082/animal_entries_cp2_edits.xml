@@ -1,0 +1,181 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_zebra" version="9"/>
+      <LOC_STRING _locID="zoopedia_zebra:entry" version="9">Cebra, común</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_zebra:text" version="9">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+			<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+				<img src="entities/units/animals/ZebraCommon/ZebraCommon_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+			</cell>
+			<cell width="16">
+				<img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+			</cell>
+			<cell width="16">
+				<img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+		</cell>
+		<cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Estado de conservación:
+                     <br/>
+                        <color r="170" g="255" b="0">
+                     Riesgo bajo
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>              
+   
+               <cell width="128">   
+                  <color r="255" g="255" b="255">	Sabana</color>
+                  <br/>
+                  <img src="ui/icon_biomes/icon_savannah.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+               </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">	África oriental</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/Savannah_Africa_East.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+
+                     Clase:  	Mamíferos                                                        
+                     <i>(Mammalia)</i>
+                     <br/>
+                     Orden:		Perisodáctilos                                                        
+                     <i>(Perissodactyla)</i>
+                     <br/>
+      Familia: Équidos <i>(Equidae)</i><br/>
+  		     Género:		                                                       
+                     <i>Equus</i>
+                     <br/>
+     		     Especie:	                                                       
+                     <i>burchelli</i>
+                     <br/>
+       			Subespecie:	                                                       
+                     <i>boehmi</i>
+                  </color>
+               </cell>
+               <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/savannah_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+               </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Datos divertidos de la cebra común      					</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">			
+                  Las cebras se pueden reconocer entre sí por las rayas de su pelaje.		</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">			
+                  Aunque son menos dóciles que los caballos, las cebras pueden domesticarse y amaestrarse para tirar de carruajes, pero son muy difíciles de montar.		</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">			
+                  Las cebras envían señales a las demás cebras mediante el lenguaje corporal y los sonidos que emiten, igual que los caballos domésticos.			Por ejemplo, si bajan las orejas, significa que es posible que comiencen a cocear, mientras que un bufido es señal de alarma.		</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">			
+                                    A lo largo del día, un rebaño de cebras puede recorrer 20 km o más buscando comida y suele volver al mismo lugar de descanso cada noche.		</color>
+		                 </cell>
+		                 <cell width="32" pady="10">
+		                    <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+		                 </cell>
+		                 <cell width="202" pady="10">
+		                    <color r="255" g="255" b="255">			
+		                    Los científicos y expertos en cría de Zoo Tycoon han estado intentando cruzar cebras con ejemplares más puros para intentar recuperar a la 
+		                                <a href="zoopedia:zoopedia_quagga:entry">
+		  		                 <u>
+		  		                    <color r="255" g="231" b="135">cuaga</color>
+		  		                 </u>
+		  		              </a> extinguida.  
+		                    </color>
+		                 </cell>               
+		                 <br/>
+		              </cell>
+		           </cell>
+		           <cell width="340">
+		              <color r="255" g="248" b="178">
+		              Para desbloquear a la cebra común en las partidas de desafío o de campaña, debe ganar un nivel de fama del zoo de una estrella y media.
+		              </color>
+		              <p/>
+		            
+		                La cebra pertenece a la familia de los équidos, y posee un atractivo pelaje de rayas blancas y negras. Las cebras solo se encuentran en África, pero sus vistosas marcas las convierten en uno de los mamíferos más conocidos del mundo. Se distinguen tres especies de cebras atendiendo a las variaciones en la disposición de las rayas del pelaje: la cebra de Grévy, la cebra de montaña y la cebra de las llanuras (también conocida como cebra de Burchell).                        
+		              <p/>
+		            
+		                Las cebras pertenecen a la familia Equidae, que también incluye a los caballos y los asnos. El antepasado más antiguo conocido de los animales de esta familia fue un animal denominado Hyracotherium, más comúnmente conocido como Eohippus, que vivió hace 60 millones de años durante el Pleistoceno. Los antepasados directos de los actuales caballos, asnos y cebras aparecieron en Europa, África y Asia hace unos cuatro millones de años, durante el Plioceno.                        
+
+            <p/>
+
+        	Al igual que otros integrantes de la familia de los équidos, las cebras son principalmente animales que pastan y se alimentan de        		hierba salvaje. Las cebras han de hacer frente a muchos depredadores, sobre todo a          			                        
+            
+            
+            <a href="zoopedia:zoopedia_lion:entry">
+               <u>
+                  <color r="255" g="231" b="135">leones</color>
+               </u>
+            </a> y hienas, pero en los últimos 200 años la mayor amenaza a su supervivencia ha sido el ser humano. La cuaga, una cebra que presenta rayas en la cabeza y el cuello, pero normalmente no en los lados ni en los cuartos traseros, habitó en el sur de África hasta la década de 1870, cuando se extinguió por la caza. En la actualidad, tanto la cebra de Grévy como la cebra de las montañas son especies amenazadas por la caza y la pérdida de su hábitat.  
+         
+         
+         
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">
+
+            
+                                                Contenido facilitado por cortesía de la                         
+            
+            
+            <a href="zoopedia:zoopedia_encarta:entry">
+               <u>
+                  <color r="255" g="231" b="135">Biblioteca de Consulta Microsoft (R) Encarta (R) 2004.</color>
+               </u>
+            </a>
+
+            
+                                                              (C) 1993-2003 Microsoft Corporation. Reservados todos los derechos.	                                                   
+         
+         
+         
+         </cell>
+      </LOC_STRING>
+</ZT2Strings>

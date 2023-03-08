@@ -1,0 +1,1635 @@
+<ZT2Strings>
+      <LOC_STRING _locID="tricknames:Add">Neuen Trick hinzufügen</LOC_STRING>
+      <LOC_STRING _locID="tricknames:Wait">Warten</LOC_STRING>
+      <LOC_STRING _locID="tricknames:Delete">Löschen</LOC_STRING>
+      <LOC_STRING _locID="tricknames:Jump">Sprung im %1s vorführen</LOC_STRING>
+      <LOC_STRING _locID="tricknames:StraightUpJump">Senkrechtsprung im %1s vorführen</LOC_STRING>
+      <LOC_STRING _locID="tricknames:JumpFallSide">Seitwärtsfallen im %1s vorführen</LOC_STRING>
+      <LOC_STRING _locID="tricknames:DiveJump">Tauchsprung im %1s vorführen</LOC_STRING>
+      <LOC_STRING _locID="tricknames:FlipForward">Vorwärtssalto im %1s vorführen</LOC_STRING>
+      <LOC_STRING _locID="tricknames:FlipBack">Rückwärtssalto im %1s vorführen</LOC_STRING>
+      <LOC_STRING _locID="tricknames:FlipperSplash">Flossenplatschertrick im %1s vorführen</LOC_STRING>
+      <LOC_STRING _locID="tricknames:Spyhop">Spyhop im%1s vorführen</LOC_STRING>
+      <LOC_STRING _locID="tricknames:TailSplash">Schwanzplats- im %1s vorführen</LOC_STRING>
+      <LOC_STRING _locID="tricknames:CorkscrewTwist">Drehung im%1s vorführen</LOC_STRING>
+      <LOC_STRING _locID="tricknames:WaterWalk">Auf-dem-Wasser-laufen im %1s vorführen</LOC_STRING>
+      <LOC_STRING _locID="tricknames:Squirt">Wasserspritztrick im%1s vorführen</LOC_STRING>
+      <LOC_STRING _locID="tricknames:JumpOver">Sprung im %1s vorführen</LOC_STRING>
+      <LOC_STRING _locID="tricknames:JumpOn">Auf %1s springen</LOC_STRING>
+      <LOC_STRING _locID="tricknames:JumpSwipeAt">Nach %1s schlagen</LOC_STRING>
+      <LOC_STRING _locID="tricknames:RamAt">%1s rammen</LOC_STRING>
+      <LOC_STRING _locID="tricknames:SlideOn">Auf %1s rutschen</LOC_STRING>
+      <LOC_STRING _locID="tricknames:SwingOn">Auf %1s schaukeln</LOC_STRING>
+      <LOC_STRING _locID="tricknames:SeatOn">Auf %1s setzen</LOC_STRING>
+      <LOC_STRING _locID="tricknames:Playing">%1s spielen</LOC_STRING>
+      <LOC_STRING _locID="tricknames:BalanceOnNose">%1s balancieren</LOC_STRING>
+      <LOC_STRING _locID="tricknames:PlayingBasketball">Mit %1s Basketball spielen</LOC_STRING>
+      <LOC_STRING _locID="tricknames:BellowOn">Auf %1s brüllen</LOC_STRING>
+      <LOC_STRING _locID="tricknames:OpenUp">%1s öffnen</LOC_STRING>
+      <LOC_STRING _locID="tricknames:ForageIn">In %1s nach Futter suchen</LOC_STRING>
+      <LOC_STRING _locID="tricknames:LookCuteOn">Niedlich aussehen</LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:DolphinJump_ltt">
+         <color r="255" g="248" b="178">
+            <b>Sprung in Trickbereich vorführen</b>
+         </color>
+         <br/>
+         Klicken Sie hier, um dem Delfin das Vorführen eines Sprungs im Trickbereich beizubringen. Nach Abschluss dieses Trainings wird der nächste Trick freigegeben.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:DolphinJump_complete_ltt">
+         <color r="255" g="248" b="178">
+            <b>Sprung in Trickbereich vorführen</b>
+         </color>
+         <br/>
+            <b>    Training abgeschlossen</b>
+         <br/>
+         Das Training ist abgeschlossen. Das Tier hat das Training für diesen Trick abgeschlossen.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:DolphinJumpFallSide_ltt">
+         <color r="255" g="248" b="178">
+            <b>Seitwärtsfallen im Trickbereich vorführen</b>
+         </color>
+         <br/>
+         Klicken Sie hier, um dem Delfin das Seitwärtsfallen im Trickbereich beizubringen.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:DolphinJumpFallSide_locked_ltt">
+         <color r="255" g="248" b="178">
+            <b>Seitwärtsfallen im Trickbereich vorführen</b>
+         </color>
+         <br/>
+            <b>    Trick nicht freigegeben</b>
+         <br/>
+         Der Seitwärtsfalltrick ist nicht freigegeben. Dazu müssen Sie das Training des vorigen Tricks abschließen
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:DolphinJumpFallSide_complete_ltt">
+         <color r="255" g="248" b="178">
+            <b>Seitwärtsfallen im Trickbereich vorführen</b>
+         </color>
+         <br/>
+            <b>    Training abgeschlossen</b>
+         <br/>
+         Das Training ist abgeschlossen. Das Tier hat das Training für diesen Trick abgeschlossen.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:DolphinStraightUpJump_ltt">
+         <color r="255" g="248" b="178">
+            <b>Senkrechtsprung im Trickbereich vorführen</b>
+         </color>
+         <br/>
+         Klicken Sie hier, um dem Delfin das Vorführen eines Senkrechtsprungs im Trickbereich beizubringen. Nach Abschluss dieses Trainings wird der nächste Trick freigegeben.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:DolphinStraightUpJump_locked_ltt">
+         <color r="255" g="248" b="178">
+            <b>Senkrechtsprung im Trickbereich vorführen</b>
+         </color>
+         <br/>
+            <b>    Trick nicht freigegeben</b>
+         <br/>
+         Der Senkrechtsprungtrick ist nicht freigegeben. Dazu müssen Sie das Training des vorigen Tricks abschließen
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:DolphinStraightUpJump_complete_ltt">
+         <color r="255" g="248" b="178">
+            <b>Senkrechtsprung im Trickbereich vorführen</b>
+         </color>
+         <br/>
+            <b>    Training abgeschlossen</b>
+         <br/>
+         Das Training ist abgeschlossen. Das Tier hat das Training für diesen Trick abgeschlossen.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:DolphinDiveJump_ltt">
+         <color r="255" g="248" b="178">
+            <b>Tauchsprung im Trickbereich vorführen</b>
+         </color>
+         <br/>
+         Klicken Sie hier, um dem Delfin das Vorführen eines Tauchsprungs im Trickbereich beizubringen.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:DolphinDiveJump_locked_ltt">
+         <color r="255" g="248" b="178">
+            <b>Tauchsprung im Trickbereich vorführen</b>
+         </color>
+         <br/>
+            <b>    Trick nicht freigegeben</b>
+         <br/>
+         Der Tauchsprungtrick ist nicht freigegeben. Dazu müssen Sie das Training des vorigen Tricks abschließen
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:DolphinDiveJump_complete_ltt">
+         <color r="255" g="248" b="178">
+            <b>Tauchsprung im Trickbereich vorführen</b>
+         </color>
+         <br/>
+            <b>    Training abgeschlossen</b>
+         <br/>
+         Das Training ist abgeschlossen. Das Tier hat das Training für diesen Trick abgeschlossen.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:DolphinFlipForward_ltt">
+         <color r="255" g="248" b="178">
+            <b>Vorwärtssalto im Trickbereich vorführen</b>
+         </color>
+         <br/>
+         Klicken Sie hier, um dem Delfin das Vorführen eines Vorwärtssaltos im Trickbereich beizubringen. Nach Abschluss dieses Trainings wird der nächste Trick freigegeben.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:DolphinFlipForward_locked_ltt">
+         <color r="255" g="248" b="178">
+            <b>Vorwärtssalto im Trickbereich vorführen</b>
+         </color>
+         <br/>
+            <b>    Trick nicht freigegeben</b>
+         <br/>
+         Der Vorwärtssaltotrick ist nicht freigegeben. Dazu müssen Sie das Training des vorigen Tricks abschließen
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:DolphinFlipForward_complete_ltt">
+         <color r="255" g="248" b="178">
+            <b>Vorwärtssalto im Trickbereich vorführen</b>
+         </color>
+         <br/>
+            <b>    Training abgeschlossen</b>
+         <br/>
+         Das Training ist abgeschlossen. Das Tier hat das Training für diesen Trick abgeschlossen.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:DolphinFlipBack_ltt">
+         <color r="255" g="248" b="178">
+            <b>Rückwärtssalto im Trickbereich vorführen</b>
+         </color>
+         <br/>
+         Klicken Sie hier, um dem Delfin das Vorführen eines Rückwärtssaltos im Trickbereich beizubringen.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:DolphinFlipBack_locked_ltt">
+         <color r="255" g="248" b="178">
+            <b>Rückwärtssalto im Trickbereich vorführen</b>
+         </color>
+         <br/>
+            <b>    Trick nicht freigegeben</b>
+         <br/>
+         Der Rückwärtssaltotrick ist nicht freigegeben. Dazu müssen Sie das Training des vorigen Tricks abschließen
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:DolphinFlipBack_complete_ltt">
+         <color r="255" g="248" b="178">
+            <b>Rückwärtssalto im Trickbereich vorführen</b>
+         </color>
+         <br/>
+            <b>    Training abgeschlossen</b>
+         <br/>
+         Das Training ist abgeschlossen. Das Tier hat das Training für diesen Trick abgeschlossen.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:DolphinFlipperSplash_ltt">
+         <color r="255" g="248" b="178">
+            <b>Flossenplatsch- ertrick vorführen</b>
+         </color>
+         <br/>
+         Klicken Sie hier, um dem Delfin das Vorführen des Flossenplatschertricks im Trickbereich beizubringen Nach Abschluss dieses Trainings wird der nächste Trick freigegeben.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:DolphinFlipperSplash_locked_ltt">
+         <color r="255" g="248" b="178">
+            <b>Flossenplatsch- ertrick vorführen</b>
+         </color>
+         <br/>
+            <b>    Trick nicht freigegeben</b>
+         <br/>
+         Der Flossenplatschertrick ist nicht freigegeben Dazu müssen Sie das Training des vorigen Tricks abschließen
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:DolphinFlipperSplash_complete_ltt">
+         <color r="255" g="248" b="178">
+            <b>Flossenplatsch- ertrick vorführen</b>
+         </color>
+         <br/>
+            <b>    Training abgeschlossen</b>
+         <br/>
+         Das Training ist abgeschlossen. Das Tier hat das Training für diesen Trick abgeschlossen.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:DolphinSpyhop_ltt">
+         <color r="255" g="248" b="178">
+            <b>Spyhop im Trickbereich vorführen</b>
+         </color>
+         <br/>
+         Klicken Sie hier, um dem Delfin das Vorführen eines Spyhops im Trickbereich beizubringen.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:DolphinSpyhop_locked_ltt">
+         <color r="255" g="248" b="178">
+            <b>Spyhop im Trickbereich vorführen</b>
+         </color>
+         <br/>
+            <b>    Trick nicht freigegeben</b>
+         <br/>
+         Der Spyhoptrick ist nicht freigegeben. Dazu müssen Sie das Training des vorigen Tricks abschließen
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:DolphinSpyhop_complete_ltt">
+         <color r="255" g="248" b="178">
+            <b>Spyhop im Trickbereich vorführen</b>
+         </color>
+         <br/>
+            <b>    Training abgeschlossen</b>
+         <br/>
+         Das Training ist abgeschlossen. Das Tier hat das Training für diesen Trick abgeschlossen.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:DolphinTailSplash_ltt">
+         <color r="255" g="248" b="178">
+            <b>Schwanzplats- chertrick vorführen</b>
+         </color>
+         <br/>
+         Klicken Sie hier, um dem Delfin das Vorführen des Schwanzplatschertricks im Trickbereich beizubringen.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:DolphinTailSplash_locked_ltt">
+         <color r="255" g="248" b="178">
+            <b>Schwanzplats- chertrick vorführen</b>
+         </color>
+         <br/>
+            <b>    Trick nicht freigegeben</b>
+         <br/>
+         Der Schwanzplatschertrick ist nicht freigegeben. Dazu müssen Sie das Training des vorigen Tricks abschließen
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:DolphinTailSplash_complete_ltt">
+         <color r="255" g="248" b="178">
+            <b>Schwanzplats- chertrick vorführen</b>
+         </color>
+         <br/>
+            <b>    Training abgeschlossen</b>
+         <br/>
+         Das Training ist abgeschlossen. Das Tier hat das Training für diesen Trick abgeschlossen.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:DolphinCorkscrewTwist_ltt">
+         <color r="255" g="248" b="178">
+            <b>Drehung im Trickbereich vorführen</b>
+         </color>
+         <br/>
+         Klicken Sie hier, um dem Delfin das Vorführen einer Drehung im Trickbereich beizubringen. Nach Abschluss dieses Trainings wird der nächste Trick freigegeben.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:DolphinCorkscrewTwist_locked_ltt">
+         <color r="255" g="248" b="178">
+            <b>Drehung im Trickbereich vorführen</b>
+         </color>
+         <br/>
+            <b>    Trick nicht freigegeben</b>
+         <br/>
+         Der Drehungstrick ist nicht freigegeben. Dazu müssen Sie das Training des vorigen Tricks abschließen
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:DolphinCorkscrewTwist_complete_ltt">
+         <color r="255" g="248" b="178">
+            <b>Drehung im Trickbereich vorführen</b>
+         </color>
+         <br/>
+            <b>    Training abgeschlossen</b>
+         <br/>
+         Das Training ist abgeschlossen. Das Tier hat das Training für diesen Trick abgeschlossen.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:DolphinWaterWalk_ltt">
+         <color r="255" g="248" b="178">
+            <b>Wasser- laufen im Trickbereich vorführen</b>
+         </color>
+         <br/>
+         Klicken Sie hier, um dem Delfin das Auf-dem-Wasser-laufen im Trickbereich beizubringen. Nach Abschluss dieses Trainings wird der nächste Trick freigegeben.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:DolphinWaterWalk_complete_ltt">
+         <color r="255" g="248" b="178">
+            <b>Wasser- laufen im Trickbereich vorführen</b>
+         </color>
+         <br/>
+            <b>    Training abgeschlossen</b>
+         <br/>
+         Das Training ist abgeschlossen. Das Tier hat das Training für diesen Trick abgeschlossen.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:DolphinJumpHoop_ltt">
+         <color r="255" g="248" b="178">
+            <b>Sprung durch Reifen vorführen</b>
+         </color>
+         <br/>
+         Klicken Sie hier, um dem Delfin den Sprung durch einen Reifen beizubringen. Nach Abschluss dieses Trainings wird der nächste Trick freigegeben.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:DolphinJumpHoop_complete_ltt">
+         <color r="255" g="248" b="178">
+            <b>Sprung durch Reifen vorführen</b>
+         </color>
+         <br/>
+            <b>    Training abgeschlossen</b>
+         <br/>
+         Das Training ist abgeschlossen. Das Tier hat das Training für diesen Trick abgeschlossen.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:DolphinJumpBar_ltt">
+         <color r="255" g="248" b="178">
+            <b>Sprung über Balken vorführen</b>
+         </color>
+         <br/>
+         Klicken Sie hier, um dem Delfin den Sprung über einen Balken beizubringen. Nach Abschluss dieses Trainings wird der nächste Trick freigegeben.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:DolphinJumpBar_complete_ltt">
+         <color r="255" g="248" b="178">
+            <b>Sprung über Balken vorführen</b>
+         </color>
+         <br/>
+            <b>    Training abgeschlossen</b>
+         <br/>
+         Das Training ist abgeschlossen. Das Tier hat das Training für diesen Trick abgeschlossen.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:DolphinFlukeSwipeBall_ltt">
+         <color r="255" g="248" b="178">
+            <b>Nach Ball schlagen</b>
+         </color>
+         <br/>
+         Klicken Sie hier, um dem Delfin das Schlagen nach einem Ball beizubringen Nach Abschluss dieses Trainings wird der nächste Trick freigegeben.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:DolphinFlukeSwipeBall_locked_ltt">
+         <color r="255" g="248" b="178">
+            <b>Nach Ball schlagen</b>
+         </color>
+         <br/>
+            <b>    Trick nicht freigegeben</b>
+         <br/>
+         Der Nach-Ball-schlagen-Trick ist nicht freigegeben. Dazu müssen Sie das Training des vorigen Tricks abschließen
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:DolphinFlukeSwipeBall_complete_ltt">
+         <color r="255" g="248" b="178">
+            <b>Nach Ball schlagen</b>
+         </color>
+         <br/>
+            <b>    Training abgeschlossen</b>
+         <br/>
+         Das Training ist abgeschlossen. Das Tier hat das Training für diesen Trick abgeschlossen.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:DolphinRamBallOutOfWater_ltt">
+         <color r="255" g="248" b="178">
+            <b>Ball rammen</b>
+         </color>
+         <br/>
+         Klicken Sie hier, um dem Delfin das Rammen eines Balls beizubringen.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:DolphinRamBallOutOfWater_locked_ltt">
+         <color r="255" g="248" b="178">
+            <b>Ball rammen</b>
+         </color>
+         <br/>
+            <b>    Trick nicht freigegeben</b>
+         <br/>
+         Der Ball-rammen-Trick ist nicht freigegeben. Dazu müssen Sie das Training des vorigen Tricks abschließen
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:DolphinRamBallOutOfWater_complete_ltt">
+         <color r="255" g="248" b="178">
+            <b>Ball rammen</b>
+         </color>
+         <br/>
+            <b>    Training abgeschlossen</b>
+         <br/>
+         Das Training ist abgeschlossen. Das Tier hat das Training für diesen Trick abgeschlossen.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:DolphinFlukeSwipeTetherBall_ltt">
+         <color r="255" g="248" b="178">
+            <b>Nach Ball an Kette schlagen</b>
+         </color>
+         <br/>
+         Klicken Sie hier, um dem Delfin das Schlagen nach einem Ball an einer Kette beizubringen. Nach Abschluss dieses Trainings wird der nächste Trick freigegeben.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:DolphinFlukeSwipeTetherBall_locked_ltt">
+         <color r="255" g="248" b="178">
+            <b>Nach Ball an Kette schlagen</b>
+         </color>
+         <br/>
+            <b>    Trick nicht freigegeben</b>
+         <br/>
+         Der Nach-Ball-an-Kette-schlagen-Trick ist nicht freigegeben. Dazu müssen Sie das Training des vorigen Tricks abschließen
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:DolphinFlukeSwipeTetherBall_complete_ltt">
+         <color r="255" g="248" b="178">
+            <b>Nach Ball an Kette schlagen</b>
+         </color>
+         <br/>
+            <b>    Training abgeschlossen</b>
+         <br/>
+         Das Training ist abgeschlossen. Das Tier hat das Training für diesen Trick abgeschlossen.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:DolphinRamTetherBall_ltt">
+         <color r="255" g="248" b="178">
+            <b>Ball an Kette rammen</b>
+         </color>
+         <br/>
+         Klicken Sie hier, um dem Delfin das Rammen eines Balls an einer Kette beizubringen.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:DolphinRamTetherBall_locked_ltt">
+         <color r="255" g="248" b="178">
+            <b>Ball an Kette rammen</b>
+         </color>
+         <br/>
+            <b>    Trick nicht freigegeben</b>
+         <br/>
+         Der Ball-an-Kette-rammen-Trick ist nicht freigegeben. Dazu müssen Sie das Training des vorigen Tricks abschließen
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:DolphinRamTetherBall_complete_ltt">
+         <color r="255" g="248" b="178">
+            <b>Ball an Kette rammen</b>
+         </color>
+         <br/>
+            <b>    Training abgeschlossen</b>
+         <br/>
+         Das Training ist abgeschlossen. Das Tier hat das Training für diesen Trick abgeschlossen.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:DolphinBeachSlidingPlatform_ltt">
+         <color r="255" g="248" b="178">
+            <b>Auf Landeplattform rutschen</b>
+         </color>
+         <br/>
+         Klicken Sie hier, um dem Delfin das Rutschen auf die Landeplattform beizubringen.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:DolphinBeachSlidingPlatform_complete_ltt">
+         <color r="255" g="248" b="178">
+            <b>Auf Landeplattform rutschen</b>
+         </color>
+         <br/>
+            <b>    Training abgeschlossen</b>
+         <br/>
+         Das Training ist abgeschlossen. Das Tier hat das Training für diesen Trick abgeschlossen.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:BelugaJump_ltt">
+         <color r="255" g="248" b="178">
+            <b>Sprung in Trickbereich vorführen</b>
+         </color>
+         <br/>
+         Klicken Sie hier, um dem Beluga das Vorführen eines Sprungs im Trickbereich beizubringen. Nach Abschluss dieses Trainings wird der nächste Trick freigegeben.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:BelugaJump_complete_ltt">
+         <color r="255" g="248" b="178">
+            <b>Sprung in Trickbereich vorführen</b>
+         </color>
+         <br/>
+            <b>    Training abgeschlossen</b>
+         <br/>
+         Das Training ist abgeschlossen. Das Tier hat das Training für diesen Trick abgeschlossen.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:BelugaFlipperSplash_ltt">
+         <color r="255" g="248" b="178">
+            <b>Flossenplatsch- ertrick vorführen</b>
+         </color>
+         <br/>
+         Klicken Sie hier, um dem Beluga das Vorführen des Flossenplatschertricks im Trickbereich beizubringen. Nach Abschluss dieses Trainings wird der nächste Trick freigegeben.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:BelugaFlipperSplash_locked_ltt">
+         <color r="255" g="248" b="178">
+            <b>Flossenplatsch- ertrick vorführen</b>
+         </color>
+         <br/>
+            <b>    Trick nicht freigegeben</b>
+         <br/>
+         Der Flossenplatschertrick ist nicht freigegeben Dazu müssen Sie das Training des vorigen Tricks abschließen
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:BelugaFlipperSplash_complete_ltt">
+         <color r="255" g="248" b="178">
+            <b>Flossenplatsch- ertrick vorführen</b>
+         </color>
+         <br/>
+            <b>    Training abgeschlossen</b>
+         <br/>
+         Das Training ist abgeschlossen. Das Tier hat das Training für diesen Trick abgeschlossen.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:BelugaSpyhop_ltt">
+         <color r="255" g="248" b="178">
+            <b>Spyhop im Trickbereich vorführen</b>
+         </color>
+         <br/>
+         Klicken Sie hier, um dem Beluga das Vorführen eines Spyhops im Trickbereich beizubringen. Nach Abschluss dieses Trainings wird der nächste Trick freigegeben.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:BelugaSpyhop_locked_ltt">
+         <color r="255" g="248" b="178">
+            <b>Spyhop im Trickbereich vorführen</b>
+         </color>
+         <br/>
+            <b>    Trick nicht freigegeben</b>
+         <br/>
+         Der Spyhoptrick ist nicht freigegeben. Dazu müssen Sie das Training des vorigen Tricks abschließen
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:BelugaSpyhop_complete_ltt">
+         <color r="255" g="248" b="178">
+            <b>Spyhop im Trickbereich vorführen</b>
+         </color>
+         <br/>
+            <b>    Training abgeschlossen</b>
+         <br/>
+         Das Training ist abgeschlossen. Das Tier hat das Training für diesen Trick abgeschlossen.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:BelugaTailSplash_ltt">
+         <color r="255" g="248" b="178">
+            <b>Schwanzplats- chertrick vorführen</b>
+         </color>
+         <br/>
+         Klicken Sie hier, um dem Beluga das Vorführen des Schwanzplatschertricks im Trickbereich beizubringen.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:BelugaTailSplash_locked_ltt">
+         <color r="255" g="248" b="178">
+            <b>Schwanzplats- chertrick vorführen</b>
+         </color>
+         <br/>
+            <b>    Trick nicht freigegeben</b>
+         <br/>
+         Der Schwanzplatschertrick ist nicht freigegeben. Dazu müssen Sie das Training des vorigen Tricks abschließen
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:BelugaTailSplash_complete_ltt">
+         <color r="255" g="248" b="178">
+            <b>Schwanzplats- chertrick vorführen</b>
+         </color>
+         <br/>
+            <b>    Training abgeschlossen</b>
+         <br/>
+         Das Training ist abgeschlossen. Das Tier hat das Training für diesen Trick abgeschlossen.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:BelugaSquirt_ltt">
+         <color r="255" g="248" b="178">
+            <b>Wasserspritztrick im Trickbereich vorführen</b>
+         </color>
+         <br/>
+         Klicken Sie hier, um dem Beluga das Verspritzen von Wasser im Trickbereich beizubringen.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:BelugaSquirt_locked_ltt">
+         <color r="255" g="248" b="178">
+            <b>Wasserspritztrick im Trickbereich vorführen</b>
+         </color>
+         <br/>
+            <b>    Trick nicht freigegeben</b>
+         <br/>
+         Trick nicht freigegeben. Dazu müssen Sie das Training des vorigen Tricks abschließen
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:BelugaSquirt_complete_ltt">
+         <color r="255" g="248" b="178">
+            <b>Wasserspritztrick im Trickbereich vorführen</b>
+         </color>
+         <br/>
+            <b>    Training abgeschlossen</b>
+         <br/>
+         Das Training ist abgeschlossen. Das Tier hat das Training für diesen Trick abgeschlossen.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:BelugaFlukeSwipeBall_ltt">
+         <color r="255" g="248" b="178">
+            <b>Nach Ball schlagen</b>
+         </color>
+         <br/>
+         Klicken Sie hier, um dem Beluga das Schlagen nach einem Ball beizubringen.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:BelugaFlukeSwipeBall_complete_ltt">
+         <color r="255" g="248" b="178">
+            <b>Nach Ball schlagen</b>
+         </color>
+         <br/>
+            <b>    Training abgeschlossen</b>
+         <br/>
+         Das Training ist abgeschlossen. Das Tier hat das Training für diesen Trick abgeschlossen.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:BelugaRamBallOutOfWater_ltt">
+         <color r="255" g="248" b="178">
+            <b>Ball rammen</b>
+         </color>
+         <br/>
+         Klicken Sie hier, um dem Beluga das Rammen eines Balls beizubringen.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:BelugaRamBallOutOfWater_locked_ltt">
+         <color r="255" g="248" b="178">
+            <b>Ball rammen</b>
+         </color>
+         <br/>
+            <b>    Trick nicht freigegeben</b>
+         <br/>
+         Der Ball-rammen-Trick ist nicht freigegeben. Dazu müssen Sie das Training des vorigen Tricks abschließen
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:BelugaRamBallOutOfWater_complete_ltt">
+         <color r="255" g="248" b="178">
+            <b>Ball rammen</b>
+         </color>
+         <br/>
+            <b>    Training abgeschlossen</b>
+         <br/>
+         Das Training ist abgeschlossen. Das Tier hat das Training für diesen Trick abgeschlossen.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleOrcaJump_ltt">
+         <color r="255" g="248" b="178">
+            <b>Sprung in Trickbereich vorführen</b>
+         </color>
+         <br/>
+         Klicken Sie hier, um dem Orca das Vorführen eines Sprungs im Trickbereich beizubringen. Nach Abschluss dieses Trainings wird der nächste Trick freigegeben.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleOrcaJump_complete_ltt">
+         <color r="255" g="248" b="178">
+            <b>Sprung in Trickbereich vorführen</b>
+         </color>
+         <br/>
+            <b>    Training abgeschlossen</b>
+         <br/>
+         Das Training ist abgeschlossen. Das Tier hat das Training für diesen Trick abgeschlossen.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleOrcaJumpFallSide_ltt">
+         <color r="255" g="248" b="178">
+            <b>Seitwärtsfallen im Trickbereich vorführen</b>
+         </color>
+         <br/>
+         Klicken Sie hier, um dem Orca das Seitwärtsfallen im Trickbereich beizubringen. Nach Abschluss dieses Trainings wird der nächste Trick freigegeben.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleOrcaJumpFallSide_locked_ltt">
+         <color r="255" g="248" b="178">
+            <b>Seitwärtsfallen im Trickbereich vorführen</b>
+         </color>
+         <br/>
+            <b>    Trick nicht freigegeben</b>
+         <br/>
+         Der Seitwärtsfalltrick ist nicht freigegeben. Dazu müssen Sie das Training des vorigen Tricks abschließen
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleOrcaJumpFallSide_complete_ltt">
+         <color r="255" g="248" b="178">
+            <b>Seitwärtsfallen im Trickbereich vorführen</b>
+         </color>
+         <br/>
+            <b>    Training abgeschlossen</b>
+         <br/>
+         Das Training ist abgeschlossen. Das Tier hat das Training für diesen Trick abgeschlossen.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleOrcaStraightUpJump_ltt">
+         <color r="255" g="248" b="178">
+            <b>Senkrechtsprung im Trickbereich vorführen</b>
+         </color>
+         <br/>
+         Klicken Sie hier, um dem Orca das Vorführen eines Senkrechtsprungs im Trickbereich beizubringen.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleOrcaStraightUpJump_locked_ltt">
+         <color r="255" g="248" b="178">
+            <b>Senkrechtsprung im Trickbereich vorführen</b>
+         </color>
+         <br/>
+            <b>    Trick nicht freigegeben</b>
+         <br/>
+         Der Senkrechtsprungtrick ist nicht freigegeben. Dazu müssen Sie das Training des vorigen Tricks abschließen
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleOrcaStraightUpJump_complete_ltt">
+         <color r="255" g="248" b="178">
+            <b>Senkrechtsprung im Trickbereich vorführen</b>
+         </color>
+         <br/>
+            <b>    Training abgeschlossen</b>
+         <br/>
+         Das Training ist abgeschlossen. Das Tier hat das Training für diesen Trick abgeschlossen.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleOrcaFlipForward_ltt">
+         <color r="255" g="248" b="178">
+            <b>Vorwärtssalto im Trickbereich vorführen</b>
+         </color>
+         <br/>
+         Klicken Sie hier, um dem Orca das Vorführen des Vorwärtssaltos im Trickbereich beizubringen.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleOrcaFlipForward_locked_ltt">
+         <color r="255" g="248" b="178">
+            <b>Vorwärtssalto im Trickbereich vorführen</b>
+         </color>
+         <br/>
+            <b>    Trick nicht freigegeben</b>
+         <br/>
+         Der Vorwärtssaltotrick ist nicht freigegeben. Dazu müssen Sie das Training des vorigen Tricks abschließen
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleOrcaFlipForward_complete_ltt">
+         <color r="255" g="248" b="178">
+            <b>Vorwärtssalto im Trickbereich vorführen</b>
+         </color>
+         <br/>
+            <b>    Training abgeschlossen</b>
+         <br/>
+         Das Training ist abgeschlossen. Das Tier hat das Training für diesen Trick abgeschlossen.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleOrcaFlipperSplash_ltt">
+         <color r="255" g="248" b="178">
+            <b>Flossenplatsch- ertrick vorführen</b>
+         </color>
+         <br/>
+         Klicken Sie hier, um dem Orca das Vorführen des Flossenplatschertricks im Trickbereich beizubringen. Nach Abschluss dieses Trainings wird der nächste Trick freigegeben.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleOrcaFlipperSplash_locked_ltt">
+         <color r="255" g="248" b="178">
+            <b>Flossenplatsch- ertrick vorführen</b>
+         </color>
+         <br/>
+            <b>    Trick nicht freigegeben</b>
+         <br/>
+         Der Flossenplatschertrick ist nicht freigegeben Dazu müssen Sie das Training des vorigen Tricks abschließen
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleOrcaFlipperSplash_complete_ltt">
+         <color r="255" g="248" b="178">
+            <b>Flossenplatsch- ertrick vorführen</b>
+         </color>
+         <br/>
+            <b>    Training abgeschlossen</b>
+         <br/>
+         Das Training ist abgeschlossen. Das Tier hat das Training für diesen Trick abgeschlossen.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleOrcaSpyhop_ltt">
+         <color r="255" g="248" b="178">
+            <b>Spyhop im Trickbereich vorführen</b>
+         </color>
+         <br/>
+         Klicken Sie hier, um dem Orca das Vorführen des Spyhops im Trickbereich beizubringen. Nach Abschluss dieses Trainings wird der nächste Trick freigegeben.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleOrcaSpyhop_locked_ltt">
+         <color r="255" g="248" b="178">
+            <b>Spyhop im Trickbereich vorführen</b>
+         </color>
+         <br/>
+            <b>    Trick nicht freigegeben</b>
+         <br/>
+         Der Spyhoptrick ist nicht freigegeben. Dazu müssen Sie das Training des vorigen Tricks abschließen
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleOrcaSpyhop_complete_ltt">
+         <color r="255" g="248" b="178">
+            <b>Spyhop im Trickbereich vorführen</b>
+         </color>
+         <br/>
+            <b>    Training abgeschlossen</b>
+         <br/>
+         Das Training ist abgeschlossen. Das Tier hat das Training für diesen Trick abgeschlossen.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleOrcaTailSplash_ltt">
+         <color r="255" g="248" b="178">
+            <b>Schwanzplats- chertrick vorführen</b>
+         </color>
+         <br/>
+         Klicken Sie hier, um dem Orca das Vorführen des Schwanzplatschertricks im Trickbereich beizubringen.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleOrcaTailSplash_locked_ltt">
+         <color r="255" g="248" b="178">
+            <b>Schwanzplats- chertrick vorführen</b>
+         </color>
+         <br/>
+            <b>    Trick nicht freigegeben</b>
+         <br/>
+         Der Schwanzplatschertrick ist nicht freigegeben. Dazu müssen Sie das Training des vorigen Tricks abschließen
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleOrcaTailSplash_complete_ltt">
+         <color r="255" g="248" b="178">
+            <b>Schwanzplats- chertrick vorführen</b>
+         </color>
+         <br/>
+            <b>    Training abgeschlossen</b>
+         <br/>
+         Das Training ist abgeschlossen. Das Tier hat das Training für diesen Trick abgeschlossen.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleOrcaFlukeSwipeBall_ltt">
+         <color r="255" g="248" b="178">
+            <b>Nach Ball schlagen</b>
+         </color>
+         <br/>
+         Klicken Sie hier, um dem Orca das Schlagen nach einem Ball beizubringen. Nach Abschluss dieses Trainings wird der nächste Trick freigegeben.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleOrcaFlukeSwipeBall_complete_ltt">
+         <color r="255" g="248" b="178">
+            <b>Nach Ball schlagen</b>
+         </color>
+         <br/>
+            <b>    Training abgeschlossen</b>
+         <br/>
+         Das Training ist abgeschlossen. Das Tier hat das Training für diesen Trick abgeschlossen.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleOrcaRamBallOutOfWater_ltt">
+         <color r="255" g="248" b="178">
+            <b>Ball rammen</b>
+         </color>
+         <br/>
+         Klicken Sie hier, um dem Orca das Rammen eines Balls beizubringen.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleOrcaRamBallOutOfWater_locked_ltt">
+         <color r="255" g="248" b="178">
+            <b>Ball rammen</b>
+         </color>
+         <br/>
+            <b>    Trick nicht freigegeben</b>
+         <br/>
+         Der Ball-rammen-Trick ist nicht freigegeben. Dazu müssen Sie das Training des vorigen Tricks abschließen
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleOrcaRamBallOutOfWater_complete_ltt">
+         <color r="255" g="248" b="178">
+            <b>Ball rammen</b>
+         </color>
+         <br/>
+            <b>    Training abgeschlossen</b>
+         <br/>
+         Das Training ist abgeschlossen. Das Tier hat das Training für diesen Trick abgeschlossen.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleOrcaBeachSlidingPlatform_ltt">
+         <color r="255" g="248" b="178">
+            <b>Auf Landeplattform rutschen</b>
+         </color>
+         <br/>
+         Klicken Sie hier, um dem Orca das Rutschen auf eine Landeplattform beizubringen.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleOrcaBeachSlidingPlatform_complete_ltt">
+         <color r="255" g="248" b="178">
+            <b>Auf Landeplattform rutschen</b>
+         </color>
+         <br/>
+            <b>    Training abgeschlossen</b>
+         <br/>
+         Das Training ist abgeschlossen. Das Tier hat das Training für diesen Trick abgeschlossen.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleFalseKillerJump_ltt">
+         <color r="255" g="248" b="178">
+            <b>Sprung in Trickbereich vorführen</b>
+         </color>
+         <br/>
+         Klicken Sie hier, um dem Kleinen Schwertwal das Vorführen eines Sprungs im Trickbereich beizubringen. Nach Abschluss dieses Trainings wird der nächste Trick freigegeben.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleFalseKillerJump_complete_ltt">
+         <color r="255" g="248" b="178">
+            <b>Sprung in Trickbereich vorführen</b>
+         </color>
+         <br/>
+            <b>    Training abgeschlossen</b>
+         <br/>
+         Das Training ist abgeschlossen. Das Tier hat das Training für diesen Trick abgeschlossen.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleFalseKillerJumpFallSide_ltt">
+         <color r="255" g="248" b="178">
+            <b>Seitwärtsfallen im Trickbereich vorführen</b>
+         </color>
+         <br/>
+         Klicken Sie hier, um dem Kleinen Schwertwal das Seitwärtsfallen im Trickbereich beizubringen.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleFalseKillerJumpFallSide_locked_ltt">
+         <color r="255" g="248" b="178">
+            <b>Seitwärtsfallen im Trickbereich vorführen</b>
+         </color>
+         <br/>
+            <b>    Trick nicht freigegeben</b>
+         <br/>
+         Der Seitwärtsfalltrick ist nicht freigegeben. Dazu müssen Sie das Training des vorigen Tricks abschließen
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleFalseKillerJumpFallSide_complete_ltt">
+         <color r="255" g="248" b="178">
+            <b>Seitwärtsfallen im Trickbereich vorführen</b>
+         </color>
+         <br/>
+            <b>    Training abgeschlossen</b>
+         <br/>
+         Das Training ist abgeschlossen. Das Tier hat das Training für diesen Trick abgeschlossen.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleFalseKillerStraightUpJump_ltt">
+         <color r="255" g="248" b="178">
+            <b>Senkrechtsprung im Trickbereich vorführen</b>
+         </color>
+         <br/>
+         Klicken Sie hier, um dem Kleinen Schwertwal das Vorführen eines Senkrechtsprungs im Trickbereich beizubringen. Nach Abschluss dieses Trainings wird der nächste Trick freigegeben.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleFalseKillerStraightUpJump_locked_ltt">
+         <color r="255" g="248" b="178">
+            <b>Senkrechtsprung im Trickbereich vorführen</b>
+         </color>
+         <br/>
+            <b>    Trick nicht freigegeben</b>
+         <br/>
+         Der Senkrechtsprungtrick ist nicht freigegeben. Dazu müssen Sie das Training des vorigen Tricks abschließen
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleFalseKillerStraightUpJump_complete_ltt">
+         <color r="255" g="248" b="178">
+            <b>Senkrechtsprung im Trickbereich vorführen</b>
+         </color>
+         <br/>
+            <b>    Training abgeschlossen</b>
+         <br/>
+         Das Training ist abgeschlossen. Das Tier hat das Training für diesen Trick abgeschlossen.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleFalseKillerDiveJump_ltt">
+         <color r="255" g="248" b="178">
+            <b>Tauchsprung im Trickbereich vorführen</b>
+         </color>
+         <br/>
+         Klicken Sie hier, um dem Kleinen Schwertwal das Vorführen des Tauchsprungs im Trickbereich beizubringen.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleFalseKillerDiveJump_locked_ltt">
+         <color r="255" g="248" b="178">
+            <b>Tauchsprung im Trickbereich vorführen</b>
+         </color>
+         <br/>
+            <b>    Trick nicht freigegeben</b>
+         <br/>
+         Der Tauchsprungtrick ist nicht freigegeben. Dazu müssen Sie das Training des vorigen Tricks abschließen
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleFalseKillerDiveJump_complete_ltt">
+         <color r="255" g="248" b="178">
+            <b>Tauchsprung im Trickbereich vorführen</b>
+         </color>
+         <br/>
+            <b>    Training abgeschlossen</b>
+         <br/>
+         Das Training ist abgeschlossen. Das Tier hat das Training für diesen Trick abgeschlossen.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleFalseKillerFlipperSplash_ltt">
+         <color r="255" g="248" b="178">
+            <b>Flossenplatsch- ertrick vorführen</b>
+         </color>
+         <br/>
+         Klicken Sie hier, um dem Kleinen Schwertwal das Vorführen des Flossenplatschertricks im Trickbereich beizubringen. Nach Abschluss dieses Trainings wird der nächste Trick freigegeben.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleFalseKillerFlipperSplash_locked_ltt">
+         <color r="255" g="248" b="178">
+            <b>Flossenplatsch- ertrick vorführen</b>
+         </color>
+         <br/>
+            <b>    Trick nicht freigegeben</b>
+         <br/>
+         Der Flossenplatschertrick ist nicht freigegeben Dazu müssen Sie das Training des vorigen Tricks abschließen
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleFalseKillerFlipperSplash_complete_ltt">
+         <color r="255" g="248" b="178">
+            <b>Flossenplatsch- ertrick vorführen</b>
+         </color>
+         <br/>
+            <b>    Training abgeschlossen</b>
+         <br/>
+         Das Training ist abgeschlossen. Das Tier hat das Training für diesen Trick abgeschlossen.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleFalseKillerSpyhop_ltt">
+         <color r="255" g="248" b="178">
+            <b>Spyhop im Trickbereich vorführen</b>
+         </color>
+         <br/>
+         Klicken Sie hier, um dem Kleinen Schwertwal das Vorführen des Spyhops im Trickbereich beizubringen. Nach Abschluss dieses Trainings wird der nächste Trick freigegeben.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleFalseKillerSpyhop_locked_ltt">
+         <color r="255" g="248" b="178">
+            <b>Spyhop im Trickbereich vorführen</b>
+         </color>
+         <br/>
+            <b>    Trick nicht freigegeben</b>
+         <br/>
+         Der Spyhoptrick ist nicht freigegeben. Dazu müssen Sie das Training des vorigen Tricks abschließen
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleFalseKillerSpyhop_complete_ltt">
+         <color r="255" g="248" b="178">
+            <b>Spyhop im Trickbereich vorführen</b>
+         </color>
+         <br/>
+            <b>    Training abgeschlossen</b>
+         <br/>
+         Das Training ist abgeschlossen. Das Tier hat das Training für diesen Trick abgeschlossen.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleFalseKillerTailSplash_ltt">
+         <color r="255" g="248" b="178">
+            <b>Schwanzplats- chertrick vorführen</b>
+         </color>
+         <br/>
+         Klicken Sie hier, um dem Kleinen Schwertwal das Vorführen des Schwanzplatschertricks im Trickbereich beizubringen.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleFalseKillerTailSplash_locked_ltt">
+         <color r="255" g="248" b="178">
+            <b>Schwanzplats- chertrick vorführen</b>
+         </color>
+         <br/>
+            <b>    Trick nicht freigegeben</b>
+         <br/>
+         Der Schwanzplatschertrick ist nicht freigegeben. Dazu müssen Sie das Training des vorigen Tricks abschließen
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleFalseKillerTailSplash_complete_ltt">
+         <color r="255" g="248" b="178">
+            <b>Schwanzplats- chertrick vorführen</b>
+         </color>
+         <br/>
+            <b>    Training abgeschlossen</b>
+         <br/>
+         Das Training ist abgeschlossen. Das Tier hat das Training für diesen Trick abgeschlossen.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleFalseKillerJumpHoop_ltt">
+         <color r="255" g="248" b="178">
+            <b>Sprung durch Reifen vorführen</b>
+         </color>
+         <br/>
+         Klicken Sie hier, um dem Kleinen Schwertwal den Sprung durch einen Reifen beizubringen. Nach Abschluss dieses Trainings wird der nächste Trick freigegeben.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleFalseKillerJumpHoop_complete_ltt">
+         <color r="255" g="248" b="178">
+            <b>Sprung durch Reifen vorführen</b>
+         </color>
+         <br/>
+            <b>    Training abgeschlossen</b>
+         <br/>
+         Das Training ist abgeschlossen. Das Tier hat das Training für diesen Trick abgeschlossen.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleFalseKillerJumpBar_ltt">
+         <color r="255" g="248" b="178">
+            <b>Sprung über Balken vorführen</b>
+         </color>
+         <br/>
+         Klicken Sie hier, um dem Kleinen Schwertwal den Sprung über einen Balken beizubringen.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleFalseKillerJumpBar_complete_ltt">
+         <color r="255" g="248" b="178">
+            <b>Sprung über Balken vorführen</b>
+         </color>
+         <br/>
+            <b>    Training abgeschlossen</b>
+         <br/>
+         Das Training ist abgeschlossen. Das Tier hat das Training für diesen Trick abgeschlossen.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleFalseKillerFlukeSwipeBall_ltt">
+         <color r="255" g="248" b="178">
+            <b>Nach Ball schlagen</b>
+         </color>
+         <br/>
+         Klicken Sie hier, um dem Kleinen Schwertwal das Schlagen nach einem Ball beizubringen.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleFalseKillerFlukeSwipeBall_complete_ltt">
+         <color r="255" g="248" b="178">
+            <b>Nach Ball schlagen</b>
+         </color>
+         <br/>
+            <b>    Training abgeschlossen</b>
+         <br/>
+         Das Training ist abgeschlossen. Das Tier hat das Training für diesen Trick abgeschlossen.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleFalseKillerRamBallOutOfWater_ltt">
+         <color r="255" g="248" b="178">
+            <b>Ball rammen</b>
+         </color>
+         <br/>
+         Klicken Sie hier, um dem Kleinen Schwertwal das Rammen eines Balls beizubringen.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleFalseKillerRamBallOutOfWater_locked_ltt">
+         <color r="255" g="248" b="178">
+            <b>Ball rammen</b>
+         </color>
+         <br/>
+            <b>    Trick nicht freigegeben</b>
+         <br/>
+         Der Ball-rammen-Trick ist nicht freigegeben. Dazu müssen Sie das Training des vorigen Tricks abschließen
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleFalseKillerRamBallOutOfWater_complete_ltt">
+         <color r="255" g="248" b="178">
+            <b>Ball rammen</b>
+         </color>
+         <br/>
+            <b>    Training abgeschlossen</b>
+         <br/>
+         Das Training ist abgeschlossen. Das Tier hat das Training für diesen Trick abgeschlossen.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleFalseKillerBeachSlidingPlatform_ltt">
+         <color r="255" g="248" b="178">
+            <b>Auf Landeplattform rutschen</b>
+         </color>
+         <br/>
+         Klicken Sie hier, um dem Kleinen Schwertwal das Rutschen auf die Landeplattform beizubringen.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleFalseKillerBeachSlidingPlatform_complete_ltt">
+         <color r="255" g="248" b="178">
+            <b>Auf Landeplattform rutschen</b>
+         </color>
+         <br/>
+            <b>    Training abgeschlossen</b>
+         <br/>
+         Das Training ist abgeschlossen. Das Tier hat das Training für diesen Trick abgeschlossen.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhalePilotShortFinnedJump_ltt">
+         <color r="255" g="248" b="178">
+            <b>Sprung in Trickbereich vorführen</b>
+         </color>
+         <br/>
+         Klicken Sie hier, um dem Kurzflossen-Grindwal das Vorführen eines Sprungs im Trickbereich beizubringen. Nach Abschluss dieses Trainings wird der nächste Trick freigegeben.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhalePilotShortFinnedJump_complete_ltt">
+         <color r="255" g="248" b="178">
+            <b>Sprung in Trickbereich vorführen</b>
+         </color>
+         <br/>
+            <b>    Training abgeschlossen</b>
+         <br/>
+         Das Training ist abgeschlossen. Das Tier hat das Training für diesen Trick abgeschlossen.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhalePilotShortFinnedJumpFallSide_ltt">
+         <color r="255" g="248" b="178">
+            <b>Seitwärtsfallen im Trickbereich vorführen</b>
+         </color>
+         <br/>
+         Klicken Sie hier, um dem Kurzflossen-Grindwal das Seitwärtsfallen im Trickbereich beizubringen.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhalePilotShortFinnedJumpFallSide_locked_ltt">
+         <color r="255" g="248" b="178">
+            <b>Seitwärtsfallen im Trickbereich vorführen</b>
+         </color>
+         <br/>
+            <b>    Trick nicht freigegeben</b>
+         <br/>
+         Der Seitwärtsfalltrick ist nicht freigegeben. Dazu müssen Sie das Training des vorigen Tricks abschließen
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhalePilotShortFinnedJumpFallSide_complete_ltt">
+         <color r="255" g="248" b="178">
+            <b>Seitwärtsfallen im Trickbereich vorführen</b>
+         </color>
+         <br/>
+            <b>    Training abgeschlossen</b>
+         <br/>
+         Das Training ist abgeschlossen. Das Tier hat das Training für diesen Trick abgeschlossen.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhalePilotShortFinnedStraightUpJump_ltt">
+         <color r="255" g="248" b="178">
+            <b>Senkrechtsprung im Trickbereich vorführen</b>
+         </color>
+         <br/>
+         Klicken Sie hier, um dem Kurzflossen-Grindwal das Vorführen des Senkrechtsprungs im Trickbereich beizubringen.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhalePilotShortFinnedStraightUpJump_locked_ltt">
+         <color r="255" g="248" b="178">
+            <b>Senkrechtsprung im Trickbereich vorführen</b>
+         </color>
+         <br/>
+            <b>    Trick nicht freigegeben</b>
+         <br/>
+         Der Senkrechtsprungtrick ist nicht freigegeben. Dazu müssen Sie das Training des vorigen Tricks abschließen
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhalePilotShortFinnedStraightUpJump_complete_ltt">
+         <color r="255" g="248" b="178">
+            <b>Senkrechtsprung im Trickbereich vorführen</b>
+         </color>
+         <br/>
+            <b>    Training abgeschlossen</b>
+         <br/>
+         Das Training ist abgeschlossen. Das Tier hat das Training für diesen Trick abgeschlossen.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhalePilotShortFinnedFlipperSplash_ltt">
+         <color r="255" g="248" b="178">
+            <b>Flossenplatsch- ertrick vorführen</b>
+         </color>
+         <br/>
+         Klicken Sie hier, um dem Kurzflossen-Grindwal das Vorführen des Flossenplatschertricks im Trickbereich beizubringen. Nach Abschluss dieses Trainings wird der nächste Trick freigegeben.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhalePilotShortFinnedFlipperSplash_locked_ltt">
+         <color r="255" g="248" b="178">
+            <b>Flossenplatsch- ertrick vorführen</b>
+         </color>
+         <br/>
+            <b>    Trick nicht freigegeben</b>
+         <br/>
+         Der Flossenplatschertrick ist nicht freigegeben Dazu müssen Sie das Training des vorigen Tricks abschließen
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhalePilotShortFinnedFlipperSplash_complete_ltt">
+         <color r="255" g="248" b="178">
+            <b>Flossenplatsch- ertrick vorführen</b>
+         </color>
+         <br/>
+            <b>    Training abgeschlossen</b>
+         <br/>
+         Das Training ist abgeschlossen. Das Tier hat das Training für diesen Trick abgeschlossen.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhalePilotShortFinnedSpyhop_ltt">
+         <color r="255" g="248" b="178">
+            <b>Spyhop im Trickbereich vorführen</b>
+         </color>
+         <br/>
+         Klicken Sie hier, um dem Kurzflossen-Grindwal das Vorführen des Spyhops im Trickbereich beizubringen. Nach Abschluss dieses Trainings wird der nächste Trick freigegeben.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhalePilotShortFinnedSpyhop_locked_ltt">
+         <color r="255" g="248" b="178">
+            <b>Spyhop im Trickbereich vorführen</b>
+         </color>
+         <br/>
+            <b>    Trick nicht freigegeben</b>
+         <br/>
+         Der Spyhoptrick ist nicht freigegeben. Dazu müssen Sie das Training des vorigen Tricks abschließen
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhalePilotShortFinnedSpyhop_complete_ltt">
+         <color r="255" g="248" b="178">
+            <b>Spyhop im Trickbereich vorführen</b>
+         </color>
+         <br/>
+            <b>    Training abgeschlossen</b>
+         <br/>
+         Das Training ist abgeschlossen. Das Tier hat das Training für diesen Trick abgeschlossen.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhalePilotShortFinnedTailSplash_ltt">
+         <color r="255" g="248" b="178">
+            <b>Schwanzplats- chertrick vorführen</b>
+         </color>
+         <br/>
+         Klicken Sie hier, um dem Kurzflossen-Grindwal das Vorführen des Schwanzplatschertricks im Trickbereich beizubringen.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhalePilotShortFinnedTailSplash_locked_ltt">
+         <color r="255" g="248" b="178">
+            <b>Schwanzplats- chertrick vorführen</b>
+         </color>
+         <br/>
+            <b>    Trick nicht freigegeben</b>
+         <br/>
+         Der Schwanzplatschertrick ist nicht freigegeben. Dazu müssen Sie das Training des vorigen Tricks abschließen
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhalePilotShortFinnedTailSplash_complete_ltt">
+         <color r="255" g="248" b="178">
+            <b>Schwanzplats- chertrick vorführen</b>
+         </color>
+         <br/>
+            <b>    Training abgeschlossen</b>
+         <br/>
+         Das Training ist abgeschlossen. Das Tier hat das Training für diesen Trick abgeschlossen.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhalePilotShortFinnedJumpHoop_ltt">
+         <color r="255" g="248" b="178">
+            <b>Sprung durch Reifen vorführen</b>
+         </color>
+         <br/>
+         Klicken Sie hier, um dem Kurzflossen-Grindwal den Sprung durch einen Reifen im Trickbereich beizubringen. Nach Abschluss dieses Trainings wird der nächste Trick freigegeben.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhalePilotShortFinnedJumpHoop_complete_ltt">
+         <color r="255" g="248" b="178">
+            <b>Sprung durch Reifen vorführen</b>
+         </color>
+         <br/>
+            <b>    Training abgeschlossen</b>
+         <br/>
+         Das Training ist abgeschlossen. Das Tier hat das Training für diesen Trick abgeschlossen.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhalePilotShortFinnedJumpBar_ltt">
+         <color r="255" g="248" b="178">
+            <b>Sprung über Balken vorführen</b>
+         </color>
+         <br/>
+         Klicken Sie hier, um dem Kurzflossen-Grindwal den Sprung über einen Balken im Trickbereich beizubringen.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhalePilotShortFinnedJumpBar_complete_ltt">
+         <color r="255" g="248" b="178">
+            <b>Sprung über Balken vorführen</b>
+         </color>
+         <br/>
+            <b>    Training abgeschlossen</b>
+         <br/>
+         Das Training ist abgeschlossen. Das Tier hat das Training für diesen Trick abgeschlossen.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhalePilotShortFinnedFlukeSwipeBall_ltt">
+         <color r="255" g="248" b="178">
+            <b>Nach Ball schlagen</b>
+         </color>
+         <br/>
+         Klicken Sie hier, um dem Kurzflossen-Grindwal das Schlagen nach einem Ball beizubringen. Nach Abschluss dieses Trainings wird der nächste Trick freigegeben.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhalePilotShortFinnedFlukeSwipeBall_complete_ltt">
+         <color r="255" g="248" b="178">
+            <b>Nach Ball schlagen</b>
+         </color>
+         <br/>
+            <b>    Training abgeschlossen</b>
+         <br/>
+         Das Training ist abgeschlossen. Das Tier hat das Training für diesen Trick abgeschlossen.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhalePilotShortFinnedRamBallOutOfWater_ltt">
+         <color r="255" g="248" b="178">
+            <b>Ball rammen</b>
+         </color>
+         <br/>
+         Klicken Sie hier, um dem Kurzflossen-Grindwal das Rammen eines Balls beizubringen.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhalePilotShortFinnedRamBallOutOfWater_locked_ltt">
+         <color r="255" g="248" b="178">
+            <b>Ball rammen</b>
+         </color>
+         <br/>
+            <b>    Trick nicht freigegeben</b>
+         <br/>
+         Der Ball-rammen-Trick ist nicht freigegeben. Dazu müssen Sie das Training des vorigen Tricks abschließen
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhalePilotShortFinnedRamBallOutOfWater_complete_ltt">
+         <color r="255" g="248" b="178">
+            <b>Ball rammen</b>
+         </color>
+         <br/>
+            <b>    Training abgeschlossen</b>
+         <br/>
+         Das Training ist abgeschlossen. Das Tier hat das Training für diesen Trick abgeschlossen.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:SeaLionCaliforniaJump_ltt">
+         <color r="255" g="248" b="178">
+            <b>Sprung in Trickbereich vorführen</b>
+         </color>
+         <br/>
+         Klicken Sie hier, um dem Kalifornischen Seelöwen das Vorführen eines Sprungs im Trickbereich beizubringen.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:SeaLionCaliforniaJump_complete_ltt">
+         <color r="255" g="248" b="178">
+            <b>Sprung in Trickbereich vorführen</b>
+         </color>
+         <br/>
+            <b>    Training abgeschlossen</b>
+         <br/>
+         Das Training ist abgeschlossen. Das Tier hat das Training für diesen Trick abgeschlossen.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:SeaLionCaliforniaSlide_ltt">
+         <color r="255" g="248" b="178">
+            <b>Auf Rutsche rutschen</b>
+         </color>
+         <br/>
+         Klicken Sie hier, um dem Kalifornischen Seelöwen das Rutschen auf der Rutsche beizubringen.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:SeaLionCaliforniaSlide_complete_ltt">
+         <color r="255" g="248" b="178">
+            <b>Auf Rutsche rutschen</b>
+         </color>
+         <br/>
+            <b>    Training abgeschlossen</b>
+         <br/>
+         Das Training ist abgeschlossen. Das Tier hat das Training für diesen Trick abgeschlossen.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:SeaLionCaliforniaSwing_ltt">
+         <color r="255" g="248" b="178">
+            <b>Auf Schaukel schaukeln</b>
+         </color>
+         <br/>
+         Klicken Sie hier, um dem Kalifornischen Seelöwen das Schaukeln auf der Schaukel beizubringen.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:SeaLionCaliforniaSwing_locked_ltt">
+         <color r="255" g="248" b="178">
+            <b>Auf Schaukel schaukeln</b>
+         </color>
+         <br/>
+            <b>    Trick nicht freigegeben</b>
+         <br/>
+         Der Schaukeltrick ist nicht freigegeben. Dazu müssen Sie das Training des vorigen Tricks abschließen
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:SeaLionCaliforniaSwing_complete_ltt">
+         <color r="255" g="248" b="178">
+            <b>Auf Schaukel schaukeln</b>
+         </color>
+         <br/>
+            <b>    Training abgeschlossen</b>
+         <br/>
+         Das Training ist abgeschlossen. Das Tier hat das Training für diesen Trick abgeschlossen.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:SeaLionCaliforniaSeat_ltt">
+         <color r="255" g="248" b="178">
+            <b>Auf Podest setzen</b>
+         </color>
+         <br/>
+         Klicken Sie hier, um dem Kalifornischen Seelöwen das Auf-ein-Podest-setzen beizubringen.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:SeaLionCaliforniaSeat_complete_ltt">
+         <color r="255" g="248" b="178">
+            <b>Auf Podest setzen</b>
+         </color>
+         <br/>
+            <b>    Training abgeschlossen</b>
+         <br/>
+         Das Training ist abgeschlossen. Das Tier hat das Training für diesen Trick abgeschlossen.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:SeaLionCaliforniaHorns_ltt">
+         <color r="255" g="248" b="178">
+            <b>Auf Trompete spielen</b>
+         </color>
+         <br/>
+         Klicken Sie hier, um dem Kalifornischen Seelöwen das Spielen auf einer Trompete beizubringen.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:SeaLionCaliforniaHorns_locked_ltt">
+         <color r="255" g="248" b="178">
+            <b>Auf Trompete spielen</b>
+         </color>
+         <br/>
+            <b>    Trick nicht freigegeben</b>
+         <br/>
+         Der Trompetentrick ist nicht freigegeben. Dazu müssen Sie das Training des vorigen Tricks abschließen
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:SeaLionCaliforniaHorns_complete_ltt">
+         <color r="255" g="248" b="178">
+            <b>Auf Trompete spielen</b>
+         </color>
+         <br/>
+            <b>    Training abgeschlossen</b>
+         <br/>
+         Das Training ist abgeschlossen. Das Tier hat das Training für diesen Trick abgeschlossen.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:SeaLionCaliforniaBall_ltt">
+         <color r="255" g="248" b="178">
+            <b>Ball balancieren</b>
+         </color>
+         <br/>
+         Klicken Sie hier, um dem Kalifornischen Seelöwen das Balancieren eines Balls beizubringen.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:SeaLionCaliforniaBall_complete_ltt">
+         <color r="255" g="248" b="178">
+            <b>Ball balancieren</b>
+         </color>
+         <br/>
+            <b>    Training abgeschlossen</b>
+         <br/>
+         Das Training ist abgeschlossen. Das Tier hat das Training für diesen Trick abgeschlossen.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:SeaLionCaliforniaTrampoline_ltt">
+         <color r="255" g="248" b="178">
+            <b>Auf Trampolin springen</b>
+         </color>
+         <br/>
+         Klicken Sie hier, um dem Kalifornischen Seelöwen das Springen auf einem Trampolin beizubringen.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:SeaLionCaliforniaTrampoline_locked_ltt">
+         <color r="255" g="248" b="178">
+            <b>Auf Trampolin springen</b>
+         </color>
+         <br/>
+            <b>    Trick nicht freigegeben</b>
+         <br/>
+         Der Trampolinsprung ist nicht freigegeben. Dazu müssen Sie das Training des vorigen Tricks abschließen
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:SeaLionCaliforniaTrampoline_complete_ltt">
+         <color r="255" g="248" b="178">
+            <b>Auf Trampolin springen</b>
+         </color>
+         <br/>
+            <b>    Training abgeschlossen</b>
+         <br/>
+         Das Training ist abgeschlossen. Das Tier hat das Training für diesen Trick abgeschlossen.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:SeaLionCaliforniaBasketball_ltt">
+         <color r="255" g="248" b="178">
+            <b>Mit Basketballkorb Basketball spielen</b>
+         </color>
+         <br/>
+         Klicken Sie hier, um dem Kalifornischen Seelöwen das Basketballspielen mit Basketballkorb beizubringen.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:SeaLionCaliforniaBasketball_locked_ltt">
+         <color r="255" g="248" b="178">
+            <b>Basketball spielen</b>
+         </color>
+         <br/>
+            <b>    Trick nicht freigegeben</b>
+         <br/>
+         Der Basketballtrick ist nicht freigegeben. Dazu müssen Sie das Training des vorigen Tricks abschließen
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:SeaLionCaliforniaBasketball_complete_ltt">
+         <color r="255" g="248" b="178">
+            <b>Mit Basketballkorb Basketball spielen</b>
+         </color>
+         <br/>
+            <b>    Training abgeschlossen</b>
+         <br/>
+         Das Training ist abgeschlossen. Das Tier hat das Training für diesen Trick abgeschlossen.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WalrusPacificJump_ltt">
+         <color r="255" g="248" b="178">
+            <b>Sprung in Trickbereich vorführen</b>
+         </color>
+         <br/>
+         Klicken Sie hier, um dem Pazifischen Walross das Vorführen eines Sprungs im Trickbereich beizubringen.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WalrusPacificJump_complete_ltt">
+         <color r="255" g="248" b="178">
+            <b>Sprung in Trickbereich vorführen</b>
+         </color>
+         <br/>
+            <b>    Training abgeschlossen</b>
+         <br/>
+         Das Training ist abgeschlossen. Das Tier hat das Training für diesen Trick abgeschlossen.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WalrusPacificSeat_ltt">
+         <color r="255" g="248" b="178">
+            <b>Auf Podest setzen</b>
+         </color>
+         <br/>
+         Klicken Sie hier, um dem Pazifischen Walross das Auf-ein-Podest-setzen beizubringen.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WalrusPacificSeat_locked_ltt">
+         <color r="255" g="248" b="178">
+            <b>Auf Podest setzen</b>
+         </color>
+         <br/>
+            <b>    Trick nicht freigegeben</b>
+         <br/>
+         Der Auf-ein-Podest-setzen-Trick ist nicht freigegeben. Dazu müssen Sie das Training des vorigen Tricks abschließen
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WalrusPacificSeat_complete_ltt">
+         <color r="255" g="248" b="178">
+            <b>Auf Podest setzen</b>
+         </color>
+         <br/>
+            <b>    Training abgeschlossen</b>
+         <br/>
+         Das Training ist abgeschlossen. Das Tier hat das Training für diesen Trick abgeschlossen.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WalrusPacificBellow_ltt">
+         <color r="255" g="248" b="178">
+            <b>Auf Trickplattform brüllen</b>
+         </color>
+         <br/>
+         Klicken Sie hier, um dem Pazifischen Walross das Brüllen auf der Trickplattform beizubringen.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WalrusPacificBellow_locked_ltt">
+         <color r="255" g="248" b="178">
+            <b>Auf Trickplattform brüllen</b>
+         </color>
+         <br/>
+            <b>    Trick nicht freigegeben</b>
+         <br/>
+         Der Brülltrick ist nicht freigegeben. Dazu müssen Sie das Training des vorigen Tricks abschließen
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WalrusPacificBellow_complete_ltt">
+         <color r="255" g="248" b="178">
+            <b>Auf Trickplattform brüllen</b>
+         </color>
+         <br/>
+            <b>    Training abgeschlossen</b>
+         <br/>
+         Das Training ist abgeschlossen. Das Tier hat das Training für diesen Trick abgeschlossen.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:OtterSeaJump_ltt">
+         <color r="255" g="248" b="178">
+            <b>Sprung in Trickbereich vorführen</b>
+         </color>
+         <br/>
+         Klicken Sie hier, um dem Seeotter das Vorführen eines Sprungs im Trickbereich beizubringen.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:OtterSeaJump_complete_ltt">
+         <color r="255" g="248" b="178">
+            <b>Sprung in Trickbereich vorführen</b>
+         </color>
+         <br/>
+            <b>    Training abgeschlossen</b>
+         <br/>
+         Das Training ist abgeschlossen. Das Tier hat das Training für diesen Trick abgeschlossen.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:OtterSeaShakerToy_ltt">
+         <color r="255" g="248" b="178">
+            <b>Shaker öffnen</b>
+         </color>
+         <br/>
+         Klicken Sie hier, um dem Seeotter das Öffnen des Shakers beizubringen.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:OtterSeaShakerToy_locked_ltt">
+         <color r="255" g="248" b="178">
+            <b>Shaker öffnen</b>
+         </color>
+         <br/>
+            <b>    Trick nicht freigegeben</b>
+         <br/>
+         Der Shaker-öffnen-Trick ist nicht freigegeben. Dazu müssen Sie das Training des vorigen Tricks abschließen
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:OtterSeaShakerToy_complete_ltt">
+         <color r="255" g="248" b="178">
+            <b>Shaker öffnen</b>
+         </color>
+         <br/>
+            <b>    Training abgeschlossen</b>
+         <br/>
+         Das Training ist abgeschlossen. Das Tier hat das Training für diesen Trick abgeschlossen.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:OtterSeaForage_ltt">
+         <color r="255" g="248" b="178">
+            <b>In Felshaufen nach Futter suchen</b>
+         </color>
+         <br/>
+         Klicken Sie hier, um dem Seeotter die Futtersuche in einem Felshaufen beizubringen.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:OtterSeaForage_locked_ltt">
+         <color r="255" g="248" b="178">
+            <b>In Felshaufen nach Futter suchen</b>
+         </color>
+         <br/>
+            <b>    Trick nicht freigegeben</b>
+         <br/>
+         Der Futtersuchtrick ist nicht freigegeben. Dazu müssen Sie das Training des vorigen Tricks abschließen
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:OtterSeaForage_complete_ltt">
+         <color r="255" g="248" b="178">
+            <b>In Felshaufen nach Futter suchen</b>
+         </color>
+         <br/>
+            <b>    Training abgeschlossen</b>
+         <br/>
+         Das Training ist abgeschlossen. Das Tier hat das Training für diesen Trick abgeschlossen.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:OtterSeaSeat_ltt">
+         <color r="255" g="248" b="178">
+            <b>Niedlich aussehen</b>
+         </color>
+         <br/>
+         Klicken Sie hier, um dem Seeotter beizubringen, auf dem Podest niedlich auszusehen.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:OtterSeaSeat_complete_ltt">
+         <color r="255" g="248" b="178">
+            <b>Niedlich aussehen</b>
+         </color>
+         <br/>
+            <b>    Training abgeschlossen</b>
+         <br/>
+         Das Training ist abgeschlossen. Das Tier hat das Training für diesen Trick abgeschlossen.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:OtterSeaBasketball_ltt">
+         <color r="255" g="248" b="178">
+            <b>Mit Basketballkorb Basketball spielen</b>
+         </color>
+         <br/>
+         Klicken Sie hier, um dem Seeotter das Basketballspielen mit dem Basketballkorb beizubringen.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:OtterSeaBasketball_locked_ltt">
+         <color r="255" g="248" b="178">
+            <b>Mit Basketballkorb Basketball spielen</b>
+         </color>
+         <br/>
+            <b>    Trick nicht freigegeben</b>
+         <br/>
+         Der Basketballtrick ist nicht freigegeben. Dazu müssen Sie das Training des vorigen Tricks abschließen
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:OtterSeaBasketball_complete_ltt">
+         <color r="255" g="248" b="178">
+            <b>Mit Basketballkorb Basketball spielen</b>
+         </color>
+         <br/>
+            <b>    Training abgeschlossen</b>
+         <br/>
+         Das Training ist abgeschlossen. Das Tier hat das Training für diesen Trick abgeschlossen.
+      </LOC_STRING>
+      <LOC_STRING _locID="trickmarkup:CreateNewProp">Neues Requisit für %1s erstellen</LOC_STRING>
+      <LOC_STRING _locID="trickmarkup:ReuseProp">Requisite für %1s erneut verwenden</LOC_STRING>
+      <LOC_STRING _locID="trickmarkup:AppendPopularityMarkup">%1s - %2s</LOC_STRING>
+      <LOC_STRING _locID="trickmarkup:trick_popularity_05">Beliebtheit: 1/2 Stern</LOC_STRING>
+      <LOC_STRING _locID="trickmarkup:trick_popularity_10">Beliebtheit: 1 Stern</LOC_STRING>
+      <LOC_STRING _locID="trickmarkup:trick_popularity_15">Beliebtheit: 1 1/2 Stern</LOC_STRING>
+      <LOC_STRING _locID="trickmarkup:trick_popularity_20">Beliebtheit: 2 Sterne</LOC_STRING>
+      <LOC_STRING _locID="trickmarkup:trick_popularity_25">Beliebtheit: 2 1/2 Sterne</LOC_STRING>
+      <LOC_STRING _locID="trickmarkup:trick_popularity_30">Beliebtheit: 3 Sterne</LOC_STRING>
+      <LOC_STRING _locID="trickmarkup:trick_popularity_35">Beliebtheit: 3 1/2 Sterne</LOC_STRING>
+      <LOC_STRING _locID="trickmarkup:trick_popularity_40">Beliebtheit: 4 Sterne</LOC_STRING>
+      <LOC_STRING _locID="trickmarkup:trick_popularity_45">Beliebtheit: 4 1/2 Sterne</LOC_STRING>
+      <LOC_STRING _locID="trickmarkup:trick_popularity_50">Beliebtheit: 5 Sterne</LOC_STRING>
+</ZT2Strings>

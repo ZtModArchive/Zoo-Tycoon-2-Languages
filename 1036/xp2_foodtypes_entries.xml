@@ -1,0 +1,99 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_chum:entry">Miettes de poisson</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_chum:text">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/food/BuoyNet/BuoyNet_Chum_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/food/FoodBox/FoodBox_Chum_icon.dds" sx="0" sy="0" sw="64" sh="64"/>                  
+                  <p/>Les miettes de poisson sont du poisson haché et des morceaux de poisson. Les prédateurs marins, comme le grand requin blanc et l'orque apprécient les miettes de poisson.    
+                  <p/>Les miettes de poisson peuvent être placées dans une bouée filet ou dans un bac à nourriture.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_jellyfish:entry">Méduses</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_jellyfish:text">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/food/BuoyLure/BuoyLure_Jellyfish_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/food/ArtificialReef/ArtificialReef_Jellyfish_icon.dds" sx="0" sy="0" sw="64" sh="64"/>                   
+                  <p/>La plupart des animaux évitent les méduses en raison de leurs tentacules venimeuses. Mais la méduse est un ingrédient de base dans le régime alimentaire de certaines tortues de mer, qui résistent à leurs piqures.
+               </color>   
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_plankton:entry">Zooplancton</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_plankton:text">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/food/FoodBox/FoodBox_Plankton_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/food/ArtificialReef/ArtificialReef_Plankton_icon.dds" sx="0" sy="0" sw="64" sh="64"/>                  
+                  <p/>Le zooplancton est un ensemble de petits animaux marins minuscules, généralement microscopiques, portés par le courant marin. Le zooplancton comprend de nombreux types d'animaux différents, depuis les protozoaires microscopiques jusqu'aux œufs de poisson, en passant par de minuscules crustacés. Un autre grand type de plancton est le phytoplancton, constitué de petites plantes flottantes.
+                  <p/>Les animaux marins filtrants, tels que la raie manta, les requins baleines et l'énorme baleine bleue, ne vivent que de zooplancton. 
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_shellfish:entry">Mollusques</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_shellfish:text">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/food/Terrain/Terrain_Shellfish_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/food/BuoyNet/BuoyNet_Shellfish_icon.dds" sx="0" sy="0" sw="64" sh="64"/>                  
+                  <img src="entities/objects/food/SubstratePile/SubstratePile_Shellfish_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/food/ArtificialReef/ArtificialReef_Shellfish_icon.dds" sx="0" sy="0" sw="64" sh="64"/>                  
+                  <p/>Les mollusques sont une catégorie générale comprenant les crabes, les pétoncles, et les huitres. Les mollusques sont un ingrédient de base du régime alimentaire  de nombreux animaux marins, tels que les dauphins et les loutres de mer, même s'il leur faut des efforts considérables pour libérer la nourriture de sa coquille.    
+                  <p/>Les mollusques peuvent être placés à même le sol, dans une bouée filet, un substrat, ou sur un récif artificiel.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_seaweed:entry">Goémon</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_seaweed:text">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/food/Terrain/Terrain_Seaweed_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/food/FoodBox/FoodBox_Seaweed_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/food/SubstratePile/SubstratePile_Seaweed_icon.dds" sx="0" sy="0" sw="64" sh="64"/>                  
+                  <p/>Les algues sont des plantes marines, que certains animaux marins tels que le lamantin et la tortue verte apprécient.    
+                  <p/>Les algues peuvent être placées à même le sol, dans un bac à nourriture, ou dans un substrat.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_squid:entry">Calmar</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_squid:text">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/food/BuoyLure/BuoyLure_Squid_icon.dds" sx="0" sy="0" sw="64" sh="64"/>               
+                  <p/>Tendre et goûteux, les calmars sont une friandise appréciée par divers animaux marins.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+
+</ZT2Strings>

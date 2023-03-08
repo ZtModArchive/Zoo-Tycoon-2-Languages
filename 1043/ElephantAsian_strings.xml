@@ -1,0 +1,180 @@
+﻿<ZT2Strings>
+   <entityname>
+      <!--animal names-->
+      <ElephantAsian>Aziatische olifant</ElephantAsian>
+      <ElephantAsian_stt>Aziatische olifant</ElephantAsian_stt>
+      <ElephantAsian_lower>Aziatische olifant</ElephantAsian_lower>
+      <ElephantAsian_ltt>
+         <color r="255" g="248" b="178">
+            <b>Aziatische olifant</b>
+         </color>
+         <br/>
+         Klik op de Aziatische olifant, een sterke olifant met kleinere oren dan de Afrikaanse olifant, om deze te selecteren en vervolgens te plaatsen.
+      </ElephantAsian_ltt>
+      <!--gift names-->
+      <ElephantAsian_Gift>Aziatische-olifantknuffel</ElephantAsian_Gift>
+      <ElephantAsian_Gift_stt>Aziatische-olifantknuffel</ElephantAsian_Gift_stt>
+      <ElephantAsian_Gift_lower>Aziatische-olifantknuffel</ElephantAsian_Gift_lower>
+      <ElephantAsian_Gift_ltt>
+         <color r="255" g="248" b="178">
+            <b>Aziatische-olifantknuffel</b>
+         </color>
+         <br/>Bezoekers die graag naar de Aziatische olifant kijken, zullen dit souvenir kopen.
+      </ElephantAsian_Gift_ltt>
+   </entityname>
+   <zoopedia_elephantasian version="2">
+      <entry>Olifant, Aziatisch</entry>
+      <text>
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/ElephantAsian/ElephantAsian_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/ElephantAsian/ElephantAsian_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>						 
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>	
+						<cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/endangered.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Status in het wild:
+                     <br/>
+                        <color r="255" g="155" b="0">
+                     bedreigd
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>            
+            
+               <cell width="128">
+                  <color r="255" g="255" b="255">Kreupelhout<br/></color>
+                  <img src="ui/icon_biomes/icon_scrub.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+               </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Zuidoost-Azië<br/></color>
+                  <img src="ui/icon_maplocations/Scrub_Asia_Southeast.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284">
+                  <color r="255" g="255" b="255">Klasse: zoogdieren <i>(Mammalia)</i><br/>Orde: olifanten <i>(Proboscidea)</i><br/>Familie: olifanten <i>(Elephantidae)</i><br/>Geslacht: <i>Elephas</i><br/>Soort:<i>maximus</i></color>
+               </cell>
+               <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/scrub_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+               </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Interessante feiten over de Aziatische olifant</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Elk kalf van de Aziatische olifant wordt verzorgd door de moeder en de andere vrouwtjesdieren in de kudde (de 'tantes').</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Aziatische olifanten zijn echte baanbrekers voor andere dieren. De paden van olifanten in het bos worden vaak ook door andere dieren gebruikt.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Olifanten maken zeer lage geluiden waarmee ze zowel in de kudde als daarbuiten kunnen communiceren. Andere olifanten kunnen deze geluidsgolven nog horen op een afstand van meer dan 15 km.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">De Aziatische olifant wordt ook wel Indische olifant genoemd.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">De Aziatische olifant gebruikt zijn ivoren slagtanden om te graven, bomen te ontwortelen en indruk te maken tijdens de paartijd.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">De kudde wordt geleid door een vrouwtje. Deze matriarch is meestal het grootste, oudste of meest ervaren vrouwtje in de groep.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">De fijngevoelige punt van de slurf is een vingervormig uitsteeksel waarmee de olifant erg kleine voorwerpen zoals pinda's kan oprapen.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Aziatische olifanten spinnen tijdens het eten.</color>
+               </cell>
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">Om de Aziatische olifant in een campagne- of uitdagingsspel te ontgrendelen, moet je dierentuin een bekendheidsscore van 3 1/2 ster hebben.</color>
+            <p/>De olifant is een reusachtig zoogdier met een kenmerkende slurf en twee lange, gekromde slagtanden. Olifanten zijn behalve sterk ook uiterst intelligent. Het zijn de grootste landdieren en ze kunnen behoorlijk oud worden. Zestig jaar of meer is geen uitzondering. De enige natuurlijke vijand van gezonde, volwassen olifanten is de mens.
+            <p/>Door de eeuwen heen hebben mensen zich lovend uitgelaten over de omvang en kracht van olifanten. Op het slagveld werden bereden olifanten gebruikt om de soldaten van de vijand angst aan te jagen en te vertrappen. Ook zijn olifanten getraind om zware voorraden door de jungle te dragen en enorme boomstammen weg te slepen uit het woud dat ooit hun leefwereld was.
+            <p/>Olifanten worden van oudsher vereerd. In Thailand, India en andere landen in Zuidoost-Azië spelen prachtig versierde olifanten nog steeds een belangrijke rol in traditionele religieuze ceremonies. Volgens boeddhisten koos Boeddha de witte olifant als een van de talrijke belichamingen waarmee hij op aarde verscheen. De zeldzame witte olifant wordt dan ook nog steeds gezien als een openbaring van de goden.
+            <p/>Uit fossielvondsten blijkt dat de olifant vroeger voorkwam op alle continenten, behalve Australië en Antarctica. Tegenwoordig is het leefgebied van de olifant beperkt tot Afrika en delen van Zuidoost-Azië. De olifanten in Afrika en Zuidoost-Azië leven in allerlei omgevingen, variërend van graslanden, moerassen, bossen, woestijnen tot bergen. Deze herbivoren of planteneters moeten vanwege hun enorme omvang dagelijks grote hoeveelheden voedsel eten. Ze moeten bovendien veel water drinken zodat ze alleen kunnen leven in gebieden waar voldoende vegetatie en water aanwezig zijn.
+            <p/>Olifanten trekken voortdurend rond omdat zelfs een kleine kudde olifanten in korte tijd een aanzienlijke aanslag kan plegen op het aanwezige voedsel en water in een gebied. Bij de zoektocht naar voedsel en water trekt een kudde olifanten door een omvangrijk territorium van soms wel meer dan 1500 km2. Hierbij legt de olifant jaarlijks tussen de 5000 en 10.000 kilometer af, een trektocht die door geen enkel ander zoogdier wordt overtroffen.
+            <p/>De Afrikaanse en Aziatische olifant verschillen in grootte, kleur en bepaalde fysieke kenmerken. De Afrikaanse olifant is groter en heeft bredere oren die over zijn schouders hangen. De mannetjes, ook wel stieren genoemd, kunnen 4 meter hoog worden en wel 7000 kg wegen. De vrouwtjes, ofwel koeien, zijn kleiner en hebben een gemiddelde hoogte van 2,8 meter en een aanzienlijk lager gewicht van ongeveer 3600 kg. De Afrikaanse olifant heeft gewoonlijk een lichtgrijze kleur, maar is soms donkergrijs, rood of bruin van de modderbaden. Het dier heeft een laag, plat voorhoofd en een enigszins holle rug. Hun waaiervormige oren zijn gemiddeld 1,5 meter lang en 1,2 meter breed. Zowel de stieren als de koeien hebben lange, kromme slagtanden. 
+            <p/>De Aziatische olifant is kleiner en wat meer gedrongen dan zijn Afrikaanse tegenhanger, en zijn kleinere oren komen niet tot op de schouders. De stier van de Aziatische olifant kan 3 meter hoog worden en ongeveer 2300 kg wegen, dus ongeveer de helft van het gewicht van het Afrikaanse mannetje. De koeien hebben een gemiddelde hoogte van 2,5 meter en een gemiddeld gewicht van 3000 kg. De Aziatische olifant heeft een donkergrijze huid, een bolvormig voorhoofd en een ronde rug. Zijn oren zijn gemiddeld 0,75 meter lang en 0,5 meter breed. De slagtanden van de koeien ontbreken of zijn niet ontwikkeld. 
+            <p/>Olifanten bewegen zich ondanks hun enorme gewicht bijna geruisloos en uitermate sierlijk voort, waarbij de pilaarvormige poten in een soepele, ritmische tred voortstappen. Onder aan de voet zit een dikke laag veerkrachtig weefsel waardoor de schok van het gewicht als het ware in een kussen wordt opgevangen. De tenen bieden verdere ondersteuning om het lijf in balans te houden. Olifanten lopen normaal met een snelheid van ongeveer 6 km/uur, maar kunnen bij een aanval wel 40 km/uur halen. Ze kunnen niet galopperen of over greppels springen, maar wel rivieren en meren oversteken en daarbij moeiteloos grote afstanden zwemmen omdat het water hun gewicht ondersteunt.
+            <p/>De slagtanden zijn eigenlijk verlengde bovensnijtanden. Er is geen enkel ander levend wezen dat zulke grote en zware tanden heeft. Olifanten gebruiken hun slagtanden om naar wortels en water te graven, de schors van bomen te halen, bij gevechten tijdens de paartijd en, in het geval van de Afrikaanse vrouwtjesolifant, om roofdieren zoals leeuwen en luipaarden te verjagen wanneer ze in de buurt van hun jongen komen. Wanneer een kalf 6 tot 12 maanden oud is, worden de eerste tanden gewisseld en verschijnt het begin van de slagtanden, die de rest van hun leven met ongeveer 17 cm per jaar zullen groeien. De lengte van de slagtanden is afhankelijk van genetische eigenschappen en voeding, en de mate van slijtage die normaal in de loop der jaren optreedt. De slagtanden van een Afrikaanse olifant wegen meestal ongeveer 20 tot 45 kg per stuk en zijn 1,8 tot 2,4 meter lang. De slagtanden van een volwassen Aziatische olifant hebben een lengte van ongeveer 1,5 meter en een gewicht van ongeveer 30 kg. Omdat de Afrikaanse olifant zwaardere slagtanden heeft en zowel de stieren als koeien slagtanden dragen, vormen deze dieren meer nog dan de Aziatische olifant een gewild doelwit van stropers ten behoeve van de ivoorhandel.
+            <p/>Olifanten hebben in totaal vier tanden, allemaal kiezen, met gekartelde randen zodat het dier de bladeren, stengels en wortels goed kan vermalen. Een enkele tand kan al meer dan 5 kg wegen en 30 cm lang zijn. Het eerste paar kiezen bevindt zich voor in de mond. Naarmate deze voorste kiezen in de loop der jaren verslijten, schuiven de achterste kiezen naar voren en vallen de voorste kiezen uit. Vervolgens verschijnen achter in de mond twee nieuwe kiezen ter vervanging van de opgeschoven kiezen. De olifant kan de achterste kiezen tijdens zijn leven zesmaal verwisselen. Het laatste paar kiezen is vaak versleten wanneer de olifant tussen de 40 en 60 jaar oud is. Het dier kan dan geen voedsel meer kauwen en sterft door verhongering. Een dergelijke doodsoorzaak is geen uitzondering onder olifanten.
+            <p/>Omdat olifanten geen zweetklieren hebben, gebruiken ze hun oren om overtollige lichaamswarmte kwijt te raken. Door met hun grote oren te flapperen komen de talloze bloedvaten die daar zitten in contact met de buitenlucht. Hierdoor wordt het bloed afgekoeld voordat het verder door het lichaam circuleert. Dit afkoelingsmechanisme vormt mogelijk een verklaring voor de grotere oren van de Afrikaanse olifant vergeleken met zijn Aziatische verwant. In het warme klimaat van Afrika speelde afkoeling evolutionair gezien een grotere rol dan in het koelere leefgebied van de Aziatische olifant. Olifanten hebben een onbehaarde staart met een kleine borstel aan de punt die vaak wordt gebruikt om lastige vliegen te verjagen. De staart weegt gewoonlijk 10 kilo.
+            <p/>Olifanten zien niet al te best en hebben relatief kleine ogen vergeleken met hun enorme hoofd. Ze hebben bovendien een beperkt gezichtsveld omdat ze hun hoofd maar licht kunnen draaien. De olifant moet daarom zijn hele lijf draaien om een ruimer beeld te krijgen. Zijn overige zintuigen (gehoor, reukvermogen, smaak- en tastzin) zijn uitstekend. Het meest gevoelige orgaan is zijn slurf. Hiermee snuffelt het dier regelmatig op de grond en in de lucht om de geur van voedsel en gevaar op te vangen. Olifanten kunnen water op grote afstand ruiken en bepaalde geluiden op ruim 1,5 km afstand horen. 
+            <p/>Olifanten leven in hechte matriarchale groepen die worden geleid door de oudste vrouwtjesdieren. Deze families, bestaande uit 2 tot 29 individuen, kennen een complexe sociale structuur van zusters, nichten, tantes en nichtjes en hun nakomelingen. Deze dieren blijven soms hun hele leven bij elkaar. Als de familie te groot wordt, vormen enkele vrouwtjes uit de groep een nieuwe kudde. De leden van de familie baden, foerageren en trekken steeds als een groep. De leden blijven meestal binnen een afstand van 50 meter van de matriarch, zodat er voortdurend contact kan worden gemaakt. Leden die zelfs maar voor een paar uur het contact met de groep hebben verloren, worden na terugkomst uitgebreid begroet. Tijdens deze ceremonie gaan de dieren rennen, grommen, ronddraaien, trompetteren, poepen, plassen, met hun slagtanden tegen elkaar tikken en met hun hoofd over elkaars lichaam wrijven. De hechte familieband zorgt ook dat jonge, zieke, oude en gewonde olifanten tegen roofdieren worden beschermd. Wanneer het oudste vrouwtje in de groep sterft, wordt het op een na oudste vrouwtje meestal de nieuwe leider.
+            <p/>Olifanten communiceren met elkaar via aanraking, geluid, geur en lichaamstaal. De aanraking gebeurt gewoonlijk met de slurf, en kan liefdevol zijn, zoals een koe die haar kalf streelt, maar kan ook een disciplinaire klap zijn die een volwassen vrouwtje uitdeelt aan een ongehoorzaam jong mannetje. Duwen, trappen en tegen elkaar aan wrijven zijn andere manieren van communicatie.
+            <p/>Olifanten kunnen ook met geluid communiceren en trompetteren om andere olifanten in de buurt te begroeten of te waarschuwen. De dieren kunnen ook lage bromgeluiden maken, die andere olifanten nog op kilometers afstand kunnen horen. Uit recent onderzoek is gebleken dat olifanten ook communiceren met infrageluid, dat te laag is om door mensen gehoord te worden.
+            <p/>Olifanten communiceren ook door verschillende feromonen af te scheiden in de urine en mest. Deze chemische geursignalen kunnen door olifanten in de buurt worden geroken of via wind worden opgepikt door olifanten op grotere afstand. Ook razende olifanten kunnen ter waarschuwing bepaalde geuren afscheiden. Olifanten kunnen tevens berichten uitwisselen via bepaalde lichaamshoudingen. Als de Afrikaanse olifant bijvoorbeeld wil aanvallen, maakt hij dit kenbaar door zijn oren breed uit te zetten en zijn slurf tegen zijn lichaam te houden. 
+            <p/>Er is al veel geschreven over het gevoelsleven van de olifant. Uit de waarneming van wilde olifanten blijkt dat het trouwe en aanhankelijke dieren zijn die bereid zijn hun leven te geven voor de andere leden van hun groep. Het is bekend dat wilde olifanten de geboorte van babyolifanten vieren en dat ze rouwen en zelfs huilen om de dood van een familielid. Olifanten die in gevangenschap leven, hechten zich vaak zo sterk aan een bepaalde verzorger of dompteur dat verder niemand anders iets van hen gedaan krijgt.
+            <p/>Bijdrage van:<br/>David George Gordon
+            <p/>Gereviseerd door:<br/>Russ Roach
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Inhoud beschikbaar gesteld door <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2004.</color></u></a>(C) 1993-2003 Microsoft Corporation. Alle rechten voorbehouden.
+         </cell>
+      </text>
+   </zoopedia_elephantasian>
+</ZT2Strings>

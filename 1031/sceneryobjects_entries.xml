@@ -1,0 +1,1231 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_trash:entry">Abfall</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_trash:text">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+            Herumliegender Abfall stößt Zoobesucher ab. Servicekräfte fegen herumliegenden Abfall
+            zusammen. In Abfalleimern können Zoobesucher ihren Abfall angemessen entsorgen.
+				</color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_trashcan:entry">Abfalleimer</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_trashcan:text">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities/objects/scenery/trashcan_df/trashcan_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+            In Abfalleimern können Besucher ihren Müll entsorgen. Sie werden von Servicekräften geleert. 
+            Besucher werden ungehalten, wenn die Abfalleimer voll sind. Wenn Besucher keine Abfalleimer finden, werfen 
+            sie ihren Abfall auf den Boden.
+				
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+              
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_themedtrashcan:entry">Themenabfalleimer</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_themedtrashcan:text">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities\objects\scenery\trashcan_jt\trashcan_jt_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities\objects\scenery\trashcan_st\trashcan_st_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>
+                  
+                  
+                  
+               In Abfalleimern können Besucher ihren Müll entsorgen. Sie werden von Servicekräften geleert. 
+            Besucher werden ungehalten, wenn die Abfalleimer voll sind. Wenn Besucher keine Abfalleimer finden, werfen 
+            sie ihren Abfall auf den Boden. Besucher, denen ein Gehege gefallen hat, mögen es gerne, wenn 
+		Objekte in der Umgebung ein ähnliches Thema haben.  
+               
+                  
+                  <p/>
+                  
+                  
+		Um Themenobjekte freizugeben, müssen Sie fünf Fotosafari-Herausforderungen und fünf Herausforderungen
+		im Herausforderungsmodus abschließen.
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_recyclebin:entry">Recycling-Abfalleimer</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_recyclebin:text">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities/objects/scenery/recyclingbin_df/recyclingbin_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                              
+               Besucher können recycelbaren Abfall in diesen Tonnen entsorgen. 
+		Der Zoo erhält eine geringe Pfandrückgabe, wenn der recycelbare Abfall wiederverwertet wird.
+				
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_donationbox:entry">Spendenkästchen</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_donationbox:text">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities/objects/scenery/donationbox_df/donationbox_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities\objects\scenery\DonationBox_Jt\DonationBox_Jt_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities\objects\scenery\DonationBox_St\DonationBox_St_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                                          
+               Auf Spendenkästchen ist eine Informationstafel über das entsprechende Gehege angebracht. 
+		Besucher können hier Ihrem Zoo eine Spende zukommen lassen. Besucher, denen ein Tiergehege gefällt, sind 
+		eher zu einer Spende bereit.
+				
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_lamp:entry">Straßenlaterne</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_lamp:text">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <br/>
+                  <img src="entities/objects/scenery/lamp_df/lamp_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                                 
+               Laternen bieten ein zusätzliches Flair für die Besucher.
+				
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_themedlamp:entry">Themenlaternen</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_themedlamp:text">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities\objects\scenery\lamp_jt\lamp_jt_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities\objects\scenery\lamp_st\lamp_st_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  Themenlaternen bieten Besuchern zusätzlichen Flair. Besucher, denen ein Gehege gefallen hat, mögen es, wenn 
+		Objekte in der Umgebung ein ähnliches Thema haben.
+				
+               
+                  
+                  <p/>
+                  
+                  
+		Um Themenobjekte freizugeben, müssen Sie fünf Fotosafari-Herausforderungen und fünf Herausforderungen
+		im Herausforderungsmodus abschließen.
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_viewingareas:entry">Aussichtsschutzdächer</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_viewingareas:text">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities/objects/scenery/viewareabasic_df/viewareabasic_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/scenery/viewingarea_steel/viewingarea_steel_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/scenery/viewingarea_stone/viewingarea_stone_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/scenery/viewingarea_wood/viewingarea_wood_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>
+                  
+                  
+                  
+                  
+                  
+                  
+                             
+                                 
+               Ein Aussichtspunkt bietet Besuchern einen geschützten Ort, von dem aus sie die Tiere beobachten können. Durch Verwendung
+		 von Holz, Stahl oder Stein können Sie Ihren Zoo optisch ansprechend gestalten.
+				
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_themedviewingareas:entry">Themenaussichtsschutzdächer</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_themedviewingareas:text">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities\objects\scenery\ViewingArea_Jt\ViewingArea_Jt_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities\objects\scenery\ViewingArea_St\ViewingArea_St_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>
+                  
+                  
+                  
+               Ein Themenaussichtsschutzdach bietet Besuchern einen geschützten Ort, von dem aus sie die Tiere beobachten können. 
+               Besucher, denen ein Gehege gefallen hat, mögen es, wenn das Aussichtsschutzdach in der Nähe ein ähnliches Thema hat.
+               
+                  
+                  <p/>
+                  
+                  
+		Um Themenobjekte freizugeben, müssen Sie fünf Fotosafari-Herausforderungen und fünf Herausforderungen
+		im Herausforderungsmodus abschließen.
+				
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_picnictable:entry">Picknicktisch</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_picnictable:text">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities/objects/scenery/picnictable_df/picnictable_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                                  
+               An Picknicktischen können Besucher im Zoo gekaufte Speisen und Getränke genießen. 
+		Besucher sind zufriedener, wenn sie nicht im Stehen essen müssen.
+				
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_fountains:entry">Springbrunnen</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_fountains:text">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities/objects/scenery/Fountain_Elephant/Fountain_Elephant_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/scenery/Fountain_Lion/Fountain_Lion_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/scenery/Fountain_Tiger/Fountain_Tiger_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                                  
+               Besucher freuen sich über Brunnen, vor allem, wenn diese ihr Lieblingstier darstellen.
+				
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_themedfountains:entry">Themenbrunnen</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_themedfountains:text">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities\objects\scenery\Fountain_Jt\Fountain_Jt_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities\objects\scenery\Fountain_St\Fountain_St_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>
+                  
+                  
+                  
+               Besucher freuen sich über Brunnen, vor allem, wenn diese ihr Lieblingstier darstellen. 
+		Besucher, denen ein Gehege gefallen hat, mögen es, wenn Objekte in der Umgebung ein ähnliches Thema haben.
+               
+                  
+                  <p/>
+                  
+                  
+		Um Themenobjekte freizugeben, müssen Sie fünf Fotosafari-Herausforderungen und fünf Herausforderungen
+		im Herausforderungsmodus abschließen.
+				
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_statue:entry">Statue</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_statue:text">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities/objects/scenery/Statue_PolarBear/Statue_PolarBear_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/scenery/Statue_Rhino/Statue_Rhino_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                               
+               Besucher freuen sich über Statuen, vor allem, wenn sie ihr Lieblingstier darstellen.
+				
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_themedstatue:entry">Themenstatue</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_themedstatue:text">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities\objects\scenery\Statue_Jt\Statue_Jt_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities\objects\scenery\Statue_St\Statue_St_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>
+                  
+                  
+                  
+               Besucher freuen sich über Statuen, vor allem, wenn sie ihr Lieblingstier darstellen. 
+		Besucher, denen ein Gehege gefallen hat, mögen es, wenn Objekte in der Umgebung ein ähnliches Thema haben.
+               
+                  
+                  <p/>
+                  
+                  
+		Um Themenobjekte freizugeben, müssen Sie fünf Fotosafari-Herausforderungen und fünf Herausforderungen
+		im Herausforderungsmodus abschließen.
+				
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_zoomap:entry">Zooplan</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_zoomap:text">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities/objects/scenery/zoomap_df/zoomap_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                               
+				Der Zooplan mit einer grafischen Darstellung des Zoogrundrisses, der Wege und der Gehege kann eine sehr 
+				hilfreiche Ergänzung für den Zoo sein. 
+				
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+				Die Besucher nutzen den Zooplan, um sich zu orientieren, und um ihre Lieblingstiere im Zoo zu suchen. 
+				In der Nähe des Zooeingangs und an wichtigen Wegkreuzungen sind Zoopläne besonders effektiv.
+				
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_bench:entry">Bank</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_bench:text">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities/objects/scenery/bench_df/bench_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                                
+               Besucher werden müde, wenn sie im Zoo herumlaufen. Eine Bank ist ein angenehmer Ort für 
+		eine Pause. Müde Besucher, die keine Sitzgelegenheit finden, werden unzufrieden.
+				
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_themedbench:entry">Themenbank</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_themedbench:text">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities\objects\scenery\bench_jt\bench_jt_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities\objects\scenery\bench_st\bench_st_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>
+                  
+                  
+                  
+               Besucher werden müde, wenn sie im Zoo umherlaufen. Eine Themenbank ist ein gemütlicher Ort für 
+		eine Pause und um die Atmosphäre des Zoos zu genießen. Müde Besucher, die keine Sitzgelegenheit finden, werden unzufrieden. Besucher, denen ein Gehege gefallen hat, 
+               mögen, wenn Ausstattungsobjekte in der Nähe ein ähnliches Thema haben.
+               
+                  
+                  <p/>
+                  
+                  
+		Um Themenobjekte freizugeben, müssen Sie fünf Fotosafari-Herausforderungen und fünf Herausforderungen
+		im Herausforderungsmodus abschließen.
+				
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_arch:entry">Bogen</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_arch:text">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities/objects/scenery/PathArch_df/PathArch_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/scenery/PathArch_Stone_df/PathArch_Stone_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/scenery/PathArch_Wood_df/PathArch_Wood_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                                
+               Ein Bogen ist eine schöne Dekoration eines Weges oder Zoobereichs. Besucher gehen gerne unter Bögen hindurch.
+				
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_themedarch:entry">Bogen, themenbezogen</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_themedarch:text">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities\objects\scenery\PathArch_Jt\PathArch_Jt_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities\objects\scenery\PathArch_St\PathArch_St_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>
+                  
+                  
+                  
+               Ein Bogen ist eine schöne Dekoration eines Weges oder Zoobereichs. Besucher gehen gerne unter Bögen 
+		 hindurch. Besucher, denen ein Gehege gefallen hat, mögen es, wenn Objekte in der Umgebung ein ähnliches Thema haben.
+               
+                  
+                  <p/>
+                  
+                  
+		Um Themenobjekte freizugeben, müssen Sie fünf Fotosafari-Herausforderungen und fünf Herausforderungen
+		im Herausforderungsmodus abschließen.
+				
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_binoculars:entry">Ferngläser</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_binoculars:text">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities/objects/scenery/binoculars_df/binoculars_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                               
+               Ferngläser ermöglichen den Besuchern eine genauere Beobachtung der Tiere in den Gehegen. Wenn Besucher 
+		 die interessanten Verhaltensweisen eines Tieres gut beobachten können, gefällt ihnen das Gehege noch besser.
+				
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_soundrock:entry">Musikfelsen</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_soundrock:text">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities/objects/scenery/MusicalRock_df/MusicalRock_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/scenery/MusicalRock_jt/MusicalRock_jt_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/scenery/MusicalRock_St/MusicalRock_St_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>
+                  
+                  
+                  
+                  Diese kleinen Felsen sind Außenlautsprecher, die sich harmonisch in die Landschaft einfügen und Besuchern eine angenehme Atmosphäre bieten. Besucher freuen sich über die Geräuschkulisse, wenn sie an den Lautsprechern vorbeigehen.
+				
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_gazebo:entry">Pavillon</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_gazebo:text">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities/objects/scenery/gazebo_df/gazebo_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                              
+               Besucher setzen sich gerne zu einer Pause in den Pavillon. Besucher sitzen gerne an diesem entspannenden 
+		Ort und beobachten das Treiben um sich herum.
+				
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_umbrellatable:entry">Tisch mit Sonnenschirm</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_umbrellatable:text">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities/objects/scenery/umbrellatable_df/umbrellatable_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>
+                  
+                  
+                  
+                  
+                   An Tischen können sich Besucher niederlassen und im Zoo gekaufte Speisen und Getränke genießen. 
+Besucher sind zufriedener, wenn sie nicht im Stehen essen müssen. Außerdem spendet der Tisch mit Sonnenschirm noch zusätzlich Schatten.
+				
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_themedumbrellatable:entry">Thementisch mit Sonnenschirm</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_themedumbrellatable:text">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities\objects\scenery\umbrellatable_jt\umbrellatable_jt_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities\objects\scenery\umbrellatable_St\umbrellatable_St_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>
+                  
+                  
+                  
+               An Tischen können sich Besucher niederlassen und im Zoo gekaufte Speisen und Getränke genießen. 
+		Besucher sind zufriedener, wenn sie nicht im Stehen essen müssen. Besucher, denen ein Gehege gefallen hat, 
+		mögen es, wenn Objekte in der Umgebung unter dem gleichen Thema stehen.
+               
+                  
+                  <p/>
+                  
+                  
+		Um Themenobjekte freizugeben, müssen Sie fünf Fotosafari-Herausforderungen und fünf Herausforderungen
+		im Herausforderungsmodus abschließen.
+				
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_sundialstatue:entry">Sonnenuhrstatue</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_sundialstatue:text">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities/objects/scenery/Statue_Sundial_df/Statue_Sundial_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+               Die Sonnenuhrstatue ist ein dekoratives Ausstattungsobjekt, das 
+               schön aussieht und einen lehrreichen praktischen Zweck erfüllt.
+               
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+               Besonders Kinder versuchen gerne, vom Schattenstand der Sonnenuhr 
+               die Uhrzeit abzulesen.
+				
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_flowerpost:entry">Blumenpfosten</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_flowerpost:text">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities/objects/scenery/flowerpost_df/flowerpost_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+               Ein Blumenpfosten ist ein hoher Pfahl, auf dem ein großer Korb mit Blumen befestigt ist. 
+               Blumenpfosten sind für fast jeden Bereich in Ihrem Zoo geeignet. Sie verleihen auch den Plätzen und Stellen eine Farbenpracht und Schönheit, an denen keine Blumenbeete wachsen können.
+				
+               
+               
+               
+               
+               
+               
+               
+              
+               
+               
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_globe:entry">Globus</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_globe:text">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities/objects/scenery/Statue_Globe_df/Statue_Globe_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                    
+               Der Globus, ein Kugelmodell der Erde, ist eine beliebte Bereicherung 
+               für Gärten und Besucherbereiche eines Zoos.
+				
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_gildedstatue:entry">Vergoldete Statue</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_gildedstatue:text">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities/objects/scenery/GildedStatue_df/GildedStatue_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  Die vergoldete Pandastatue sieht besonders in den Gartenbereichen und anderen landschaftlich gestalteten Bereiche des Zoos sehr schön aus. 
+               Mit dem hellen Glanz des Goldes ist die Statue auch in großen Menschenmengen nicht zu übersehen.
+				
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_flowerarch:entry">Blumenbogen</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_flowerarch:text">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities\objects\scenery\PathArch_Flower_df\PathArch_Flower_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>
+                  
+                  
+                  Der Blumenbogen stellt für jeden Besucherweg in Ihrem Zoo eine sehr schöne Bereicherung. Vor allem in Bereichen zum Sitzen und Picknicken kann er als äußerst attraktiver Eingang dienen.
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+</ZT2Strings>

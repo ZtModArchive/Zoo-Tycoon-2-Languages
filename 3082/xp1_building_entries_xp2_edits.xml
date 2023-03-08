@@ -1,0 +1,39 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_facepaintingkiosk" version="6"/>
+      <LOC_STRING _locID="zoopedia_facepaintingkiosk:entry" version="6">Quiosco de pintar caras</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_facepaintingkiosk:text" version="6">
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\objects\buildings\Face_Painting_Kiosk_end\FacePaintingKiosk_end_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+A los visitantes más jóvenes les encantará el quiosco con pintura para la cara, donde podrán pintarse las caras y así parecerse a los tigres, a los pandas o a cualquier otro animal.
+<p/>
+Para disponer de un quiosco con pintura para la cara en su juego, debe ganar el Premio al logro por donaciones para entretenimientos.
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_headphonekiosk" version="6"/>
+      <LOC_STRING _locID="zoopedia_headphonekiosk:entry" version="6">Quiosco de auriculares</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_headphonekiosk:text" version="6">
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\objects\buildings\HeadphoneKiosk_end\HeadphoneKiosk_end_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+A los visitantes les gusta ponerse los cascos con auriculares que facilita el quiosco en cuestión. Los cascos con auriculares inalámbricos proporcionan a los visitantes información adicional acerca de los animales del zoo.
+		<p/>
+Para disponer de un quiosco de auriculares en su juego, debe ganar el Premio por donaciones para educación.
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+  
+</ZT2Strings>

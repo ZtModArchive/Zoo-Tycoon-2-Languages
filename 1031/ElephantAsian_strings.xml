@@ -1,0 +1,180 @@
+﻿<ZT2Strings>
+   <entityname>
+      <!--animal names-->
+      <ElephantAsian>Asiatischer Elefant</ElephantAsian>
+      <ElephantAsian_stt>Asiatischer Elefant</ElephantAsian_stt>
+      <ElephantAsian_lower>der Asiatische Elefant</ElephantAsian_lower>
+      <ElephantAsian_ltt>
+         <color r="255" g="248" b="178">
+            <b>Asiatischer Elefant</b>
+         </color>
+         <br/>
+         Klicken Sie hier, um einen Asiatischen Elefanten auszuwählen und dann zu platzieren. Dieser starke Elefant hat kleinere Ohren als der Afrikanische.
+      </ElephantAsian_ltt>
+      <!--gift names-->
+      <ElephantAsian_Gift>Asiatischer Elefant-Stofftier</ElephantAsian_Gift>
+      <ElephantAsian_Gift_stt>Asiatischer Elefant-Stofftier</ElephantAsian_Gift_stt>
+      <ElephantAsian_Gift_lower>das Asiatischer Elefant-Stofftier</ElephantAsian_Gift_lower>
+      <ElephantAsian_Gift_ltt>
+         <color r="255" g="248" b="178">
+            <b>Asiatischer Elefant-Stofftier</b>
+         </color>
+         <br/>Besucher, die sich gerne Asiatische Elefanten anschauen, kaufen dieses Andenken.
+      </ElephantAsian_Gift_ltt>
+   </entityname>
+   <zoopedia_elephantasian version="2">
+      <entry>Elefant, Asiatischer</entry>
+      <text>
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/ElephantAsian/ElephantAsian_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/ElephantAsian/ElephantAsian_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>						 
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>	
+						<cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/endangered.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Artenschutzstatus:
+                     <br/>
+                        <color r="255" g="155" b="0">
+                     Bedroht
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>            
+            
+               <cell width="128">
+                  <color r="255" g="255" b="255">Buschland<br/></color>
+                  <img src="ui/icon_biomes/icon_scrub.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+               </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Südostasien<br/></color>
+                  <img src="ui/icon_maplocations/Scrub_Asia_Southeast.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284">
+                  <color r="255" g="255" b="255">Klasse: Säugetiere <i>(Mammalia)</i><br/>Ordnung: Elefanten <i>(Proboscidea)</i><br/>Familie: Elefanten <i>(Elephantidae)</i><br/>Gattung: <i>Elephas</i><br/>Art:<i>maximus</i></color>
+               </cell>
+               <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/scrub_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+               </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Spannende Fakten zum Asiatischen Elefanten</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Ein junger Asiatischer Elefant wird von seiner Mutter und weiteren Kühen der Herde (so genannte "Tanten") versorgt.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Asiatische Elefanten sind für andere Tiere wahre "Wegbereiter". Die von Elefanten gebahnten Pfade durch den Wald werden oft auch von anderen Tieren genutzt.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Elefanten setzen zur Kommunikation innerhalb und außerhalb der Herde niedrige Tonfrequenzen ein. Diese reichen manchmal über eine Entfernung von bis zu 15 Kilometer.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Der Asiatische Elefant wird gelegentlich auch als Indischer Elefant bezeichnet.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Der Asiatische Elefant setzt seine Elfenbeinstoßzähne zum Graben und Ausreißen von Bäumen ein und bei Kämpfen mit Artgenossen während der Paarungszeit.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Der dominante Elefant einer Herde ist ein Weibchen, die Matriarchin. Diese ist in der Regel das größte, älteste oder erfahrenste Weibchen der Herde.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Die fingerartige Muskelendung an der Spitze des Elefantenrüssels ist so empfindlich, dass auch kleine Objekte wie etwa Erdnüsse aufgenommen werden können.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Asiatische Elefanten brummen während der Nahrungsaufnahme.</color>
+               </cell>
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">Um den Asiatischen Elefanten im Herausforderungs- oder Kampagnenmodus freizugeben, muss der Zoo einen Bekanntheitsgrad von 3 1/2 Sternen erreichen.</color>
+            <p/>Der Elefant ist ein riesiges Säugetier, das als typische Merkmale einen langen kräftigen Rüssel und zwei lange gebogene Stoßzähne aufweist. Elefanten sind äußerst intelligent und kräftig. Sie sind die größten Landlebewesen und gehören mit einer Lebenserwartung von 60 Jahren und mehr auch zu den langlebigsten. Gesunde, ausgewachsene Elefanten haben außer dem Menschen keine natürlichen Feinde.
+            <p/>Seit jeher hat der Mensch den Elefanten wegen seiner Größe und Stärke bewundert. Auf dem Schlachtfeld haben Soldaten hoch zu Elefant den Feind in Angst und Schrecken versetzt und sogar niedergetrampelt. Elefanten wurden auch als Nutztiere für den Transport schwerer Lasten durch den Dschungel und zum Schleppen von schweren Baumstämmen aus ihrem ursprünglichen Lebensraum, den Wäldern, eingesetzt.
+            <p/>Lange Zeit wurden Elefanten verehrt und in Thailand, Indien und anderen Ländern Südostasiens spielen wunderschön gestaltete Elefanten noch heute eine wichtige Rolle in traditionellen religiösen Zeremonien. In der buddhistischen Tradition wählte Buddha die Form eines weißen Elefanten als eine seiner vielen irdischen Inkarnationen. Noch immer wird das seltene Auftauchen eines weißen Elefanten als Manifestation der Götter gesehen.
+            <p/>Fossilienfunde von Vorfahren der Elefanten lassen darauf schließen, dass sie einst mit Ausnahme von Australien und der Antarktis auf allen Kontinenten lebten. Heute ist ihr Lebensraum jedoch auf Afrika und Teile Südostasiens beschränkt. Elefanten sind in einer Vielzahl unterschiedlicher Lebensräume in Afrika und Südostasien heimisch - in Steppen, Sumpfgebieten, Wäldern, Wüsten und Gebirgsregionen. Sie sind Pflanzenfresser und benötigen aufgrund ihrer Körpermasse große Mengen an Futter. Sie müssen auch sehr viel Wasser zu sich nehmen. Ihr Vorkommen ist deshalb auf Gebiete mit üppiger Vegetation und ausreichend Wasser beschränkt.
+            <p/>Selbst kleine Herden mit wenigen Elefanten können die Nahrungs- und Trinkwasserressourcen eines Gebiets rasch erschöpfen. Dies zwingt sie dazu, ständig weiterzuziehen. Eine Elefantenherde wandert jahreszeitenbedingt in einer weiten Schleife. Dabei sucht sie neue Ressourcen innerhalb ihres beanspruchten Gebiets, das sich über 1.500 Quadratkilometer erstrecken kann. Auf der Suche nach Nahrung können Elefanten pro Jahr 5.000 bis 10.000 km zurücklegen - die längste bekannte Wanderstrecke eines Säugetiers.
+            <p/>Afrikanische und Asiatische Elefanten unterscheiden sich in Größe, Färbung und weiteren Körpermerkmalen. Der Afrikanische Elefant ist an seiner größeren Körpergröße und den breiteren Ohren zu erkennen, die bis über die Schultern reichen. Männchen, auch Elefantenbullen genannt, erreichen eine Körpergröße von 4 m und ein Gewicht von 7.000 kg. Die Weibchen oder Elefantenkühe sind kleiner und erreichen im Durchschnitt eine Größe von 2,8 m und ein beträchtlich geringeres Gewicht von etwa 3.600 kg. Afrikanische Elefanten sind hellgrau gefärbt, können jedoch durch ihre Schlammbäder dunkelgrau, rot oder auch braun wirken. Sie haben eine niedrige, flache Stirn und einen leicht geneigten Rücken. Ihre fächerförmigen Ohren sind durchschnittlich 1,5 m lang und 1,2 m breit. Sowohl Elefantenbullen als auch Elefantenkühe haben lange, gebogene Stoßzähne. 
+            <p/>Asiatische Elefanten sind kleiner und stämmiger als ihre afrikanischen Verwandten. Ihre Ohren erreichen nicht die Schultern. Asiatische Elefantenbullen sind durchschnittlich 3 m groß und wiegen 2.300 kg, etwa die Hälfte des Gewichts der Afrikanischen Elefantenbullen. Die Elefantenkühe erreichen im Durchschnitt eine Größe von 2,4 m und ein Gewicht von 3.000 kg. Asiatische Elefanten haben dunkelgraue Haut, eine gewölbte Stirn und einen gerundeten Rücken. Die Ohren sind durchschnittlich 0,75 m lang und 0,6 m breit. Die Stoßzähne der Elefantenkühe fehlen oder sind kaum ausgebildet. 
+            <p/>Trotz ihres großen Gewichts laufen Elefanten fast geräuschlos und außergewöhnlich anmutig. Mit weichen, rhythmischen Schritten tragen die säulenartigen Beine die massige Gestalt vorwärts. An der Unterseite des Fußes befindet sich ein dickes, federndes Polster, das die Wucht des Gewichts beim Auftreten absorbiert. Beim Gehen helfen die Zehen dabei, das Körpergewicht zu balancieren. Im Allgemeinen laufen Elefanten mit einer Geschwindigkeit von ungefähr sechs Kilometern pro Stunde. Wenn sie angreifen, können sie aber auch eine Geschwindigkeit von bis zu 40 Kilometern pro Stunde erreichen. Elefanten können nicht galoppieren und auch nicht über Gräben springen. Sie wagen sich jedoch ohne Probleme in Flüsse und Seen, da das Wasser ihr Körpergewicht trägt. Dabei können sie große Strecken schwimmen, ohne zu ermüden.
+            <p/>Die Stoßzähne der Elefanten, also die paarweise vorkommenden verlängerten oberen Schneidezähne, sind die längsten und schwersten Zähne aller lebenden Tierarten. Die Stoßzähne dienen zum Graben nach Wurzeln und Wasser, zum Entrinden von Bäumen bei der Nahrungssuche, zum Kämpfen während der Paarungszeit und bei den afrikanischen Elefantenkühen auch zum Schutz der Elefantenbabys vor Raubtieren wie Löwen und Leoparden. Bei einem Elefantenkalb werden die ersten Schneidezähne 6 bis 12 Monate nach der Geburt gewechselt. Die zweiten Zähne werden zu Stoßzähnen und wachsen das gesamte Leben mit einer Geschwindigkeit von 17 cm pro Jahr. Das Wachstum der Stoßzähne wird durch die Erbanlagen und die Ernährung bestimmt. Ihre Länge reduziert sich über die Jahre durch den alltäglichen Verschleiß. Der Stoßzahn eines afrikanischen Elefantenbullen wiegt in der Regel zwischen 20 bis 45 kg und ist 1,8 bis 2,4 m lang. Die Stoßzähne eines ausgewachsenen asiatischen Elefantenbullen sind durchschnittlich 1,5 m lang und 30 kg schwer. Die massiveren Stoßzähne des afrikanischen Elefanten und die Tatsache, dass Bullen und Kühe Stoßzähne besitzen, macht diese Tiere bei Elfenbeinjägern zu einem begehrteren Ziel als der Asiatische Elefant.
+            <p/>Elefanten besitzen insgesamt vier Backenzähne mit gezackten Rändern zum Zermahlen von Blättern, Stielen und Wurzeln. Ein einzelner Zahn kann mehr als 5 kg wiegen und 30 cm lang werden. Das erste Backenzahnpaar befindet sich im vorderen Bereich des Mauls. Wenn es abgenutzt ist, fallen die Zähne aus und die beiden hinteren Backenzähne wandern nach vorn. Im hinteren Bereich des Mauls erscheinen dann zwei neue Backenzähne und ersetzen die beiden, die nach vorn gewandert sind. Elefanten können die hinteren Backenzähne im Laufe ihres Lebens sechs Mal wechseln. Wenn das letzte Paar Backenzähne verbraucht ist (etwa in einem Alter zwischen 40 und 60 Jahren), kann der Elefant kein Futter mehr kauen und muss verhungern. Eine recht häufige Todesursache für Elefanten.
+            <p/>Elefanten besitzen in der Haut keine Schweißdrüsen. Ihre Ohren dienen als Kühler, um Körperwärme abzugeben. Durch Schlagen mit den Ohren sorgen Elefanten dafür, dass die vielen Blutgefäße in ihren breiten Ohren in Kontakt mit der Luft geraten, die dadurch das Blut abkühlt, bevor es wieder in den Körper fließt. Dieser Kühlvorgang erklärt möglicherweise, warum afrikanische Elefanten, die sich in einem heißen Klima entwickelt haben, über größere Ohren verfügen als ihre asiatischen Verwandten in kühleren Regionen. Der Schwanz eines Elefanten ist unbehaart, hat jedoch an der Spitze ein spärliches Haarbüschel, das ein nützliches Werkzeug zum Verscheuchen lästiger Fliegen ist. Der Schwanz kann bis zu 10 kg wiegen.
+            <p/>Elefanten können schlecht sehen, da ihre Augen im Verhältnis zum großen und ziemlich unbeweglichen Kopf des Tieres klein sind. Dieser beschränkte Bewegungsspielraum führt zu einer eingeschränkten Sicht zur Seite. Elefanten müssen daher den ganzen Körper bewegen, um ihr Sichtfeld zu erweitern. Gehör sowie Geschmacks- und Tastsinn sind jedoch hervorragend ausgebildet. Das empfindlichste Organ ist der Rüssel, der ständig eingesetzt wird, um den Geruch von Nahrung oder Feinden am Boden und in der Luft aufzunehmen. Elefanten können Wasser auf große Entfernung riechen und bestimmte Geräusche über eine Entfernung von zwei Kilometer hören. 
+            <p/>Elefanten zeigen ein komplexes soziales Verhalten und leben in engen Familienverbänden mit einer matriarchalischen Hierarchie, d. h. sie werden von den ältesten Weibchen angeführt. Die Familien bestehen aus Schwestern, Kusinen, Tanten und Nichten sowie deren jungen Nachkommen und setzen sich aus 2 bis 29 Einzeltieren zusammen. Diese Tiere bleiben unter Umständen ihr ganzes Leben zusammen. Wenn eine Familie zu groß wird, verlassen einige Weibchen die Gruppe, um eine eigene Herde zu bilden. Die Mitglieder einer Familie baden, fressen und wandern als Gruppe. Die Familienmitglieder bleiben üblicherweise innerhalb von 46 m im Umkreis des Leittieres, mit dem sie durch Rufe Kontakt halten. Auch wenn sie nur wenige Stunden voneinander getrennt waren, wird ihre Wiedervereinigung von einer aufwendigen Begrüßungszeremonie begleitet, zu der Laufen, Knurren, Drehen, Trompeten, das Ausscheiden von Kot und Urin, das Aneinanderschlagen der Stoßzähne und das gegenseitige Reiben der Körper mit dem Kopf gehört. Eine Elefantenfamilie verteidigt auch die Jungen, Kranken, Alten und Behinderten gegen Raubtiere. Wenn die rangälteste Elefantenkuh einer Familie stirbt, nimmt in der Regel die nächstälteste ihren Platz als Anführerin ein.
+            <p/>Elefanten kommunizieren miteinander durch Berührung, Geräusche, Geruch und Körpersprache. Die Berührungen erfolgen meistens mit dem Rüssel und reichen vom sanften Streicheln eines Kalbes durch eine Elefantenkuh bis zum disziplinarischen Klaps eines widerspenstigen jugendlichen Männchens durch die Matriarchin. Auch durch Schubsen, Treten und Aneinanderreiben können Elefanten kommunizieren.
+            <p/>Elefanten benutzen zur Kommunikation auch ihre Stimmen, indem Sie als Warnung oder zur Begrüßung anderer Elefanten in der Nähe laut trompeten. Die Tiere stoßen auch niederfrequente Knurrlaute aus, die sich über große Entfernungen ausbreiten können und die Ohren von mehrere Kilometer entfernten Elefanten erreichen. Aktuelle Forschungsergebnisse lassen darauf schließen, dass Elefanten außerdem über Infraschall kommunizieren, der für das menschliche Ohr nicht hörbar ist.
+            <p/>Zum Kommunikationsrepertoire von Elefanten gehört auch das Absondern verschiedener Pheromone über Urin oder Kot. Diese chemischen Duftsignale können von in der Nähe befindlichen Elefanten aufgenommen oder mit dem Wind zu sich weit entfernt aufhaltenden Elefanten getragen werden. Über das Drüsensekret der Bullen während der Musth (ein vorübergehend auftretender hormoneller Zustand beim Bullen) werden ebenfalls bestimmte Duftsignale übermittelt. Darüber hinaus werden Informationen durch Körpersprache ausgetauscht. Beispielsweise breiten afrikanische Elefanten ihre Ohren weit aus und schlagen mit ihnen, während sie den Rüssel an den Körper gepresst halten. Damit signalisieren sie, dass ein Angriff unmittelbar bevorsteht. 
+            <p/>Es wurde schon viel über das Seelenleben von Elefanten geschrieben. Bei der Beobachtung wild lebender Elefanten wurde bestätigt, dass sie loyal, liebevoll und bereit sind, ihr Leben für das Wohl anderer in der familiären Gruppe zu riskieren. Es wurden schon wilde Elefanten dabei beobachtet, wie sie die Geburt junger Elefanten feierten oder den Tod eines Familienmitglieds betrauerten und dabei sogar Tränen vergossen. In Gefangenschaft entwickeln Elefanten manchmal eine enge Bindung zu bestimmten Tierpflegern oder Zirkusangestellten und lehnen die Zusammenarbeit mit allen anderen ab.
+            <p/>Beitrag von:<br/>David George Gordon
+            <p/>Geprüft von:<br/>Russ Roach
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Mit freundlicher Genehmigung von <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2004.</color></u></a>(C) 1993-2003 Microsoft Corporation. Alle Rechte vorbehalten.
+         </cell>
+      </text>
+   </zoopedia_elephantasian>
+</ZT2Strings>

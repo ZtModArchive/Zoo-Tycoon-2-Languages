@@ -1,0 +1,265 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_moose" version="6"/>
+      <LOC_STRING _locID="zoopedia_moose:entry" version="6">Alce</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_moose:text" version="6">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+               <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+                  <img src="entities/units/animals/Moose/Moose_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+               </cell>
+               <cell width="16">
+                  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+               </cell>
+               <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+                  <img src="entities/units/animals/Moose/Moose_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+               </cell>
+               <cell width="16">
+                  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+               </cell>
+               <cell width="60"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Estado de conservación:
+                     <br/>
+                        <color r="170" g="255" b="0">
+                     riesgo moderado
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>             
+            
+               <cell width="128">
+                  <color r="255" g="255" b="255">Bosque boreal</color>
+                  <br/>
+                  <img src="ui/icon_biomes/icon_borealforest.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+               </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Norteamérica</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/Boreal_America_North.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+Clase: mamíferos                                                                            
+                     <i>(Mammalia)</i>
+                     <br/>
+Orden: Artiodáctilos                                                        
+                     <i>(Artiodactyla)</i>
+                     <br/>
+Familia: cérvidos                                                        
+                     <i>(Cervidae)</i>
+                     <br/>
+Género:		                                                       
+                     <i>Alces  </i>
+                     <br/>
+Especie:	                                                       
+                     <i>alces</i>
+                     <br/>
+Subespecie:	                                                       
+                     <i>americana</i>
+                  </color>
+               </cell>
+               <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/borealforest_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+               </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Datos divertidos del alce</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Las hembras de los alces pueden proteger a sus crías conduciéndolas hasta aguas poco profundas e interponiéndose entre ellas y los lobos, que normalmente acaban cediendo.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Para escapar de los lobos, los alces suelen retirarse a lagos y pantanos, donde se encuentran seguros hasta que se congela el agua y los lobos pueden perseguirlos.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Los alces pueden bucear hasta unos 6 (18 pies) m de profundidad y mantenerse bajo el agua durante 40 segundos mientras buscan plantas acuáticas y raíces para alimentarse.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Los alces alcanzan hasta 2 m (7 pies) de altura en la cruz.</color>
+               </cell>
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">Para descubrir al alce en los juegos de desafío o de campaña, su zoo debe ganar un nivel de fama de media estrella.
+            </color>
+            <p/>Alce es el nombre común del miembro de mayor tamaño de la familia de los cérvidos. En inglés, el nombre originario del alce (moose) se debe a los algonquinos, una tribu nativa de Norteamérica, y significa "que come ramitas", lo que refleja la dieta básica de hojas y brotes de estos animales. En Europa y Asia, el nombre en inglés es distinto: elk. En estos continentes habitan en los bosques del norte de Asia y de Europa, desde Siberia en el este hasta Noruega en el oeste, la región del Báltico y el norte de China. En Norteamérica, el alce tiene su hábitat en las zonas boscosas de Canadá y el norte de Estados Unidos. En Norteamérica, el animal conocido como elk también se denomina uapití o wapití. Los alces son animales grandes; los machos pueden alcanzar hasta 2 m de altura en la cruz. Algunos machos pesan más de 725 kg. Sus largas patas características le permiten ramonear en arbustos bajos y pequeños árboles, así como adentrarse en lagos y charcas para alimentarse de plantas acuáticas. Una vez dentro del agua, el alce se mueve con facilidad y es un excelente nadador.                                    
+            <p/>La cabeza del alce es grande y el hocico presenta un labio superior, o morro, sobresaliente. Del cuello le cuelga una campanilla     de piel cubierta de pelo. Las grandes orejas del alce, que están en constante movimiento, actúan como un radar     		y le proporcionan un sentido del oído excelente. La proyección hacia arriba de las vértebras del cuello forma una marcada joroba en los hombros.     		Los fuertes ligamentos necesarios para mantener erguida la gran cabeza se unen a estas proyecciones óseas.     		El color del pelaje del cuerpo del alce suele ser marrón tirando a negro, con la cabeza pasando a un marrón más claro en el verano. La cabeza de los machos se oscurece para tomar un tono marrón más oscuro o negruzco a medida que se aproxima la época de celo.                        
+            <p/>Características destacadas de los machos son las enormes astas con puntas o prolongaciones marginales, que pueden superar un ancho de 1,5 m     		y un peso de 22,7 kg. La cornamenta está cubierta de una piel suave y rica en nutrientes llamada     		terciopelo, que aparece a principios de septiembre y a menudo la comen los machos. Las astas se mudan todos los años     		después del período de celo, que suele tener lugar a finales de septiembre. Los machos de más edad mudan las astas en diciembre     		y, a finales de enero, la mayoría ya las ha mudado. En ocasiones, algunos ejemplares jóvenes conservan     		las astas hasta febrero. La nueva cornamenta comienza a crecer a principios de abril.                        
+            <p/>Por lo general, los alces son animales solitarios, aunque pueden formar pequeños rebaños de hasta doce ejemplares o más durante la época de celo, especialmente en el territorio canadiense del Yukón y en Alaska. Tanto las hembras como los machos pueden aparearse en su segundo año de vida. Durante la época de celo, los machos se enfrentan por la posesión de las hembras en peleas con otros machos. Después del celo, la gestación dura en torno a 230 días y las crías suelen nacer a finales del mes de mayo. Las hembras suelen parir una sola cría, aunque son frecuentes los nacimientos de gemelos y también se han observado camadas de tres o cuatro crías. Las crías suelen tener un pelaje rojizo-marrón y pesan entre 11 y 16 kg en el momento de nacer.                        
+            <p/>La longevidad media de los alces es de entre 5 y 6 años, aunque algunos pueden vivir hasta 20 años. La     		edad de los alces puede determinarse examinando la raíz del diente incisivo central, que posee un patrón     		de anillos. De la misma manera que el crecimiento de un árbol revela su edad, cada anillo oscuro del incisivo central combinado     		con un anillo claro corresponde a un año de edad.                        
+            <p/>Los hábitos de alimentación de los alces varían con las estaciones. Durante el otoño, el invierno y la primavera, se alimentan de     		las hojas y brotes de álamo, álamo negro, sauce, abedul, avellano y abeto del verano anterior. A finales de primavera y     		principios del verano, los alces lamen los depósitos naturales de sal que encuentran en manantiales salinos o en las cunetas de los caminos para recargar las     		reservas minerales que han ido gastando durante el invierno. En verano, los alces prefieren alimentarse de plantas acuáticas y pueden     		sumergirse hasta 40 segundos para llegar a las plantas que hay bajo la superficie del agua.    		A pesar de su tamaño y de su capacidad para conseguir velocidades en carrera cercanas a los 60 km/h durante distancias cortas,     		los alces suelen ser presas de los lobos, de los osos negros y de los 	                        
+        
+            <a href="zoopedia:zoopedia_grizzly:entry">
+               <u>
+                  <color r="255" g="231" b="135">osos grises.</color>
+               </u>
+            </a> Hay estudios que indican que los osos pueden matar hasta el 75% de las crías en las primeras ocho semanas de vida. Otra amenaza que sufren los alces son las garrapatas de invierno. Las infestaciones de garrapatas irritan la piel de los alces, por lo que se frotan, hasta arrancárselo, partes del pelo del que dependen para protegerse de los fríos extremos del invierno, característicos de gran parte de su hábitat. Los inviernos rigurosos, combinados con infestaciones masivas de garrapatas, pueden reducir a la mitad las poblaciones de alces.                           
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Contribución de: Vince Crichton   			                        
+            <br/>Contenido facilitado por cortesía de la                         
+            <a href="zoopedia:zoopedia_encarta:entry">
+               <u>
+                  <color r="255" g="231" b="135">Biblioteca de Consulta 2004 Microsoft (R) Encarta (R) 2004.</color>
+               </u>
+            </a>(C) 1993-2003 Microsoft Corporation. Reservados todos los derechos.                           
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_peafowl" version="6"/>
+      <LOC_STRING _locID="zoopedia_peafowl:entry" version="6">Pavo real</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_peafowl:text" version="6">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/PeafowlCommon/PeafowlCommon_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>
+						<cell width="16">
+							<img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						</cell>
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/PeafowlCommon/PeafowlCommon_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>
+						<cell width="16">
+							<img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						</cell>
+						<cell width="60"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Estado de conservación:
+                     <br/>
+                        <color r="170" g="255" b="0">
+                     riesgo moderado
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>             
+
+               <cell width="128">
+                  <color r="255" g="255" b="255">Bosque templado</color>
+                  <br/>
+                  <img src="ui/icon_biomes/icon_temperateforest.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+               </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Asia</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/temperateforest_Asia.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                     Clase: aves                                                        
+                     <i>(Aves)</i>
+                     <br/>
+                     Orden: Galliformes                                                        
+                     <i>(Galliformes)</i>
+                     <br/>
+                     Familia: Codornices, perdices, francolines, faisanes,  	                                                       
+                     <br/>
+                     urogallo, pavo                                                        
+                     <i>(Phasianidae)</i>
+                     <br/>
+                     Género: <i>Pavo  </i>
+                     <br/>
+                     Especie:	                                                       
+                     <i>cristatus</i>
+                  </color>   
+               </cell>
+               <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/temperateforest_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+               </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Datos divertidos del pavo real</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Los machos y las hembras de pavo real subsisten gracias a una dieta omnívora compuesta de gusanos, insectos, pequeñas serpientes y semillas.</color>
+               </cell>
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">
+            Para descubrir al pavo real en los juegos de desafío o de campaña, su zoo debe ganar un nivel de fama de media estrella.
+            </color>
+            <p/>Pavo real es el nombre común de tres miembros de la familia de los fasiánidos. Aunque estas aves se denominan comúnmente pavos reales, la hembra de esta especie se llama pava real. Hay dos especies asiáticas: el pavo real común o de la India, y el pavo real verde. La tercera especie, el pavo real del Congo, se encuentra solamente en los bosques de la República Democrática del Congo (RDC, antiguo Zaire). Los pavos reales asiáticos destacan por sus vistosas colas de largas y espesas plumas, que dejan ocultas sus colas relativamente cortas y se levantan y despliegan durante los pavoneos del cortejo. Las plumas suelen ser de un color dorado y verde iridiscente y están ornamentadas con marcas en forma de ojo de un bonito color conocido como el azul pavo real. Este mismo color azul también está presente en la cabeza, el cuello, el pecho y la cresta del pavo real común, mientras que en el pavo real verde, la cabeza, el cuello y la parte inferior del cuerpo son de color verde. Las hembras no tienen estos largos plumajes y sus colores son menos variados que los de los machos. Los pavos reales construyen sus nidos en el suelo o en las ramas más bajas de los árboles. Estas aves subsisten gracias a una dieta omnívora compuesta de gusanos, insectos, pequeñas serpientes y semillas.                                    
+            <p/>El pavo real común se ha domesticado en muchas partes del mundo y hay poblaciones silvestres en las Islas Hawái. Mediante la cría selectiva se ha producido una variedad blanca.                           
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">
+         Contenido facilitado por cortesía de la 
+            <a href="zoopedia:zoopedia_encarta:entry">
+               <u>
+                  <color r="255" g="231" b="135">Biblioteca de Consulta 2004 Microsoft (R) Encarta (R) 2004.</color>
+               </u>
+            </a>
+            (C) 1993-2003 Microsoft Corporation. Reservados todos los derechos.                           
+         </cell>
+      </LOC_STRING>
+
+</ZT2Strings>

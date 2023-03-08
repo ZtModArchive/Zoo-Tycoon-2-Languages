@@ -1,0 +1,111 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_tanks:entry">Bassin bouwen</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_tanks:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>
+In Zoo Tycoon 2: Marine Mania kun je leefbassins bouwen waarin je zeedieren kunnen verblijven.
+                  <p/>
+Als je meer informatie over een bassin wilt, klik je op de naam van het bassin in de lijst aan de linkerkant.  
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_tankwall:entry">Acryl bassinmuur</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_tankwall:text">
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\objects\fences\BasicTank\basictank_transparent_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+De acryl bassinmuur is gemaakt van doorzichtige synthetische vezels. Hiermee kun je bassins bouwen waarin de zeedieren zichtbaar zijn voor bezoekers.
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_tankwallopaque:entry">Ondoorzichtige bassinmuur</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_tankwallopaque:text">
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\objects\fences\BasicTank\basictank_opaque_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+De ondoorzichtige bassinmuur is gemaakt van stevige betonpanelen waar bezoekers niet doorheen kunnen kijken. Combineer deze muur met de acryl bassinmuur om bassins te maken waarin je zeedieren wat privacy hebben.
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_marinetankwall:entry">Thematische bassinmuur</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_marinetankwall:text">
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\objects\fences\ThemedTank_mm\themedtank_mm_opaque_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <img src="entities\objects\fences\ThemedTank_mm\themedtank_mm_transparent_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+De thematische bassinmuren in zeestijl zorgen voor vrolijke zeedierverblijven. Er zijn doorzichtige en ondoorzichtige variëteiten. Win de prijs voor watershows op het derde niveau om thematische bassinmuren beschikbaar te maken.    
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_showtankwall:entry">Muur voor showbassins</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_showtankwall:text">
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\objects\fences\ThemedTank_show\themedtank_show_opaque_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <img src="entities\objects\fences\ThemedTank_show\themedtank_show_transparent_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+Gebruik showbassinmuren om de showbassins nog fraaier te maken. Als je een bassin bouwt met showbassinmuren word je automatisch gevraagd ook een showplatform en doorgangen te plaatsen.
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_tankentrance:entry">Bassin-ingang</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_tankentrance:text">
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\objects\fences\Tank_Gate\Tank_Gate_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+Dierenverzorgers kunnen een bassin niet ingaan om voor de dieren te zorgen als er geen ingang is. Ook trainers hebben een ingang nodig om het bassin in te gaan als ze dieren willen gaan trainen. Je kunt de bassin-ingangen alleen in bassinmuren plaatsen.
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_waterfilter:entry">Waterfilter</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_waterfilter:text">
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\objects\misc\Water_Filter\Water_Filter_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+Waterfilters verwijderen vuil en afval uit het water in leef- en showbassins. Als het water schoon is, houd je de dieren in het bassin gezond en tevreden. Waterfilters moeten regelmatig worden gecontroleerd door onderhoudsmedewerkers. Je kunt waterfilters ook zelf repareren in de bezoekersmodus. 
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+ 
+</ZT2Strings>

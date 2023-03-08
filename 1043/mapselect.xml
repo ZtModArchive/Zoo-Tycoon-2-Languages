@@ -1,0 +1,208 @@
+<ZT2Strings>
+      <LOC_STRING _locID="mapdata:map_info_label">
+         <font name="arial" size="12" image="ui\font\color_mainmenu.tga">
+            <color r="255" g="248" b="178">
+               <b>Kaartinformatie:</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="mapdata:map_select_label">
+         <font name="arial" size="12" image="ui\font\color_mainmenu.tga">
+            <color r="255" g="248" b="178">
+               <b>Kaart selecteren:</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="mapdata:map_scenario_label">
+         <font name="arial" size="12" image="ui\font\color_mainmenu.tga">
+            <color r="255" g="248" b="178">
+               <b>Scenario selecteren:</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="mapdata:map_list_label">
+         <font name="arial" size="12" image="ui\font\color_mainmenu.tga">
+            <color r="255" g="248" b="178">
+               <b>Kaart selecteren:</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="mapdata:map_location_label">
+         <font name="arial" size="12" image="ui\font\color_mainmenu.tga">
+            <color r="255" g="248" b="178">
+               <b>Biosysteem selecteren:</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="mapdata:select_campaign_label">
+         <font name="arial" size="12" image="ui\font\color_mainmenu.tga">
+            <color r="255" g="248" b="178">
+               <b>Campagne selecteren:</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="mapdata:biome">
+         <font name="arial" size="10" shadowx="1" shadowy="1">
+            <b>Bio:</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="mapdata:play">
+         <font name="arial" size="16">
+            <b>Spelen</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="mapdata:back">
+         <font name="arial" size="16">
+            <b>Terug</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="mapdata:challengeheading">Uitdagingsmodus</LOC_STRING>
+      <LOC_STRING _locID="mapdata:freeformheading">Onbeperkte modus</LOC_STRING>
+      <LOC_STRING _locID="mapdata:campaignheading">Campagnemodus</LOC_STRING>
+      <LOC_STRING _locID="mapdata:modeheading">
+         <font name="arial" size="16" image="ui\font\color_mainmenu.tga">
+            <color r="255" g="248" b="178">
+               <b>%text%</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="mapdata:unlimited">
+         <font name="arial" size="14">Onbeperkt budget</font>
+      </LOC_STRING>
+      <LOC_STRING _locID="mapdata:play_button_stt">Spelen</LOC_STRING>
+      <LOC_STRING _locID="mapdata:play_button_ltt">
+         <color r="255" g="248" b="178">
+            <b>Spelen</b>
+         </color>
+         <br>Klik op deze knop om met de geselecteerde plattegrond te spelen.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="mapdata:cancel_button_stt">Annuleren</LOC_STRING>
+      <LOC_STRING _locID="mapdata:cancel_button_ltt">
+         <color r="255" g="248" b="178">
+            <b>Annuleren</b>
+         </color>
+         <br>Klik hier om de actie te annuleren en terug te keren naar het hoofdmenu.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="mapdata:posformat">
+         <font name="arial" size="14" shadowx="-1" shadowy="1" shadowa="255">
+            <color r="0" g="255" b="0">
+               <b>%text%</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="mapdata:campaign_name">
+         <font name="arial" size="14" image="ui\font\color_mainmenu.tga">
+            <b>%text%</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="mapdata:campaign_names">
+         <font name="arial" size="12" image="ui\font\color_mainmenu.tga">
+            <b>%text%</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="mapname:format">
+         <font name="arial" size="12" shadowx="1" shadowy="1">
+            <b>%text%</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="mapname:largeformat">
+         <font name="arial" size="12" shadowx="1" shadowy="1">
+            <b>%text%</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="mapname:atestmap">Een kleine testkaart</LOC_STRING>
+      <LOC_STRING _locID="mapname:nomap">kaart van testformaat</LOC_STRING>
+      <LOC_STRING _locID="mapname:alpinebig">Berggebied (groot)</LOC_STRING>
+      <LOC_STRING _locID="mapname:alpinemed">Berggebied (middelgroot)</LOC_STRING>
+      <LOC_STRING _locID="mapname:alpinesml">Berggebied (klein)</LOC_STRING>
+      <LOC_STRING _locID="mapname:borealbig">Noordelijk bos (groot)</LOC_STRING>
+      <LOC_STRING _locID="mapname:borealmed">Noordelijk bos (middelgr.)</LOC_STRING>
+      <LOC_STRING _locID="mapname:borealsml">Noordelijk bos (klein)</LOC_STRING>
+      <LOC_STRING _locID="mapname:cityzoo">Stadszoo (groot)</LOC_STRING>
+      <LOC_STRING _locID="mapname:cityzoomed">Stadszoo (middelgroot)</LOC_STRING>
+      <LOC_STRING _locID="mapname:cityzoosml">Stadszoo (klein)</LOC_STRING>
+      <LOC_STRING _locID="mapname:desert">Woestijn (groot)</LOC_STRING>
+      <LOC_STRING _locID="mapname:desertmed">Woestijn (middelgroot)</LOC_STRING>
+      <LOC_STRING _locID="mapname:desertsml">Woestijn (klein)</LOC_STRING>
+      <LOC_STRING _locID="mapname:grassland">Weide (groot)</LOC_STRING>
+      <LOC_STRING _locID="mapname:grasslandmed">Weide (middelgroot)</LOC_STRING>
+      <LOC_STRING _locID="mapname:grasslandsml">Weide (klein)</LOC_STRING>
+      <LOC_STRING _locID="mapname:savannah">Savanne (groot)</LOC_STRING>
+      <LOC_STRING _locID="mapname:savannahmed">Savanne (middelgroot)</LOC_STRING>
+      <LOC_STRING _locID="mapname:savannahsml">Savanne (klein)</LOC_STRING>
+      <LOC_STRING _locID="mapname:scrub">Kreupelhout (groot)</LOC_STRING>
+      <LOC_STRING _locID="mapname:scrubmed">Kreupelhout (middelgroot)</LOC_STRING>
+      <LOC_STRING _locID="mapname:scrubsml">Kreupelhout (klein)</LOC_STRING>
+      <LOC_STRING _locID="mapname:tempforest">Gematigd woud (groot)</LOC_STRING>
+      <LOC_STRING _locID="mapname:temperatemed">Gematigd woud (middelgroot)</LOC_STRING>
+      <LOC_STRING _locID="mapname:temperatesml">Gematigd woud (klein)</LOC_STRING>
+      <LOC_STRING _locID="mapname:rainforestbig">Regenwoud (groot)</LOC_STRING>
+      <LOC_STRING _locID="mapname:rainforestmed">Regenwoud (middelgroot)</LOC_STRING>
+      <LOC_STRING _locID="mapname:rainforestsml">Regenwoud (klein)</LOC_STRING>
+      <LOC_STRING _locID="mapname:tundrabig">Toendra (groot)</LOC_STRING>
+      <LOC_STRING _locID="mapname:tundramed">Toendra (middelgroot)</LOC_STRING>
+      <LOC_STRING _locID="mapname:tundrasml">Toendra (klein)</LOC_STRING>
+      <LOC_STRING _locID="mapname:wetlandbig">Moeras (groot)</LOC_STRING>
+      <LOC_STRING _locID="mapname:wetlandmed">Moeras (middelgroot)</LOC_STRING>
+      <LOC_STRING _locID="mapname:wetlandsml">Moeras (klein)</LOC_STRING>
+      <LOC_STRING _locID="mapname:biome_squares">Biosysteemvakken</LOC_STRING>
+      <LOC_STRING _locID="mapname:river">Rivier</LOC_STRING>
+      <LOC_STRING _locID="mapname:savannahridge">Safaristrook (groot)</LOC_STRING>
+      <LOC_STRING _locID="mapname:polarcoast">Poolkust (groot)</LOC_STRING>
+      <LOC_STRING _locID="mapname:rockies">Rotsvallei (middelgroot)</LOC_STRING>
+      <LOC_STRING _locID="mapname:desertshore">Woestijnkust (middelgroot)</LOC_STRING>
+      <LOC_STRING _locID="mapname:junglepool">Junglepoel (klein)</LOC_STRING>
+      <LOC_STRING _locID="mapname:mangrovecoast">Mangrovekust (klein)</LOC_STRING>
+      <LOC_STRING _locID="mapsize:small">Klein</LOC_STRING>
+      <LOC_STRING _locID="mapsize:medium">Middelgroot</LOC_STRING>
+      <LOC_STRING _locID="mapsize:large">Groot</LOC_STRING>
+      <LOC_STRING _locID="mapsize:header">
+         <font name="arial" size="10" shadowx="1" shadowy="1">
+            <b>Kaartformaat:</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="maplocation:format">
+         <font name="arial" size="10" shadowx="1" shadowy="1">
+            <b>%text%</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="maplocation:header">
+         <font name="arial" size="10" shadowx="1" shadowy="1">
+            <b>Locatie:</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="difficulty:format">
+         <font name="arial" size="10" shadowx="1" shadowy="1">
+            <b>%text%</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="difficulty:header">
+         <font name="arial" size="10" shadowx="1" shadowy="1">
+            <b>Niveau:</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="difficulty:easy">Laag</LOC_STRING>
+      <LOC_STRING _locID="difficulty:medium">Normaal</LOC_STRING>
+      <LOC_STRING _locID="difficulty:hard">Hoog</LOC_STRING>
+      <LOC_STRING _locID="globe_label:format">
+         <font name="arial" size="15" image="ui\font\color_mainmenu.tga">
+            <color r="255" g="248" b="178">
+               <b>Locaties op de wereldkaart</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="map_name_field:format">
+         <font name="arial" size="20" image="ui\font\color_mainmenu.tga">
+            <color r="255" g="248" b="178">
+               <b>%text%</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="map_other_field:format">
+         <font name="arial" size="14" image="ui\font\color_mainmenu.tga">
+            <color r="255" g="248" b="178">
+               <b>%text%</b>
+            </color>
+         </font>
+      </LOC_STRING>
+</ZT2Strings>

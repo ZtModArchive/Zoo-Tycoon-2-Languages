@@ -1,0 +1,59 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_animaleducator:entry">Zooführer</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_animaleducator:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/units/staff/Educator/Educator_F_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/units/staff/Educator/Educator_M_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>
+                  Aufgabe eines Zooführers ist es, mit den Besuchern im Zoo zu sprechen und ihnen die            Tiere im Zoo zu erklären. Zooführer tragen zum Vergnügen der Zoobesucher bei, indem sie ihnen interessante             Informationen zu den Tieren mitteilen, die sie gerade sehen.        
+                  <p/>
+                  Zooführer sprechen von Pulten aus, die Sie gekauft und an verschiedenen     Stellen des Zoos platziert haben. Sobald das Podium platziert ist, hält der Zooführer     regelmäßig vom dem Pult aus Vorträge über die Gehege, die sich in unmittelbarer Nähe befinden.        
+                  <p/>
+                      Wenn sie kein Pult finden können, begeben sich die Zooführer ins Personalzentrum. Wenn sie kein Personalzentrum finden, wandern sie ziellos durch den Zoo.
+                  <p/>
+                      Zooführer erhalten ein Gehalt, das am Ersten jedes Monats von Ihrem Zookonto     abgezogen wird. Beachten Sie jedoch, dass Zooführer zu steigenden Spendeneinnahmen durch zufriedene     Besucher beitragen, da diese bei ihrem Besuch sowohl unterhalten als auch informiert     wurden.			
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_maintworker:entry">Servicekraft</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_maintworker:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/units/staff/Worker/Worker_F_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/units/staff/Worker/Worker_M_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>
+                             Servicekräfte sind für den Unterhalt des Zoos verantwortlich. Zu ihren Hauptaufgaben gehören das Fegen der Wege und das Leeren der Abfalleimer. Die Servicekräfte erfüllen diese Aufgaben selbstständig, Sie können ihnen jedoch auch bestimmte Aufgaben zuweisen.            
+                  <p/>
+                       Servicekräfte sind wichtig für den Zoo, da sich ein sauberer Zoo auf die Zufriedenheit der Besucher auswirkt. Wenn der Zoo schmutzig ist (Abfall auf den Wegen, volle Abfalleimer usw.), verlassen ihn die Besucher womöglich wieder sehr schnell. Servicekräfte erhalten ein Gehalt, das am Ersten jedes Monats von Ihrem Zookonto abgezogen wird.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_zookeeper:entry">Tierpfleger</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_zookeeper:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/units/staff/Keeper/Keeper_F_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/units/staff/Keeper/Keeper_M_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>
+                  
+Tierpfleger sind die wichtigsten Mitarbeiter des Zoos. Sie werden ausgebildet, die Bedürfnisse aller Zootiere zu erfüllen. Dazu gehören die Fütterung und Heilung der Tiere und die Reinigung der Gehege von Kothaufen. Servicekräfte erhalten das höchste Gehalt aller Zoomitarbeiter. Das Gehalt wird am Ersten jedes Monats von Ihrem Zookonto abgezogen. Beachten Sie jedoch, dass Sie im Zoobesuchermodus alle Aufgaben der Tierpfleger selbst und umsonst durchführen können.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+</ZT2Strings>

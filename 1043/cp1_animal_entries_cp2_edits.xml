@@ -1,0 +1,254 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_meerkat" version="9"/>
+      <LOC_STRING _locID="zoopedia_meerkat:entry" version="9">Stokstaartje</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_meerkat:text" version="9">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/Meerkat/Meerkat_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>							 
+						 <cell width="156"/>						 
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Status in het wild:
+                     <br/>
+                        <color r="170" g="255" b="0">
+                     enigszins bedreigd
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+				 <cell width="128">
+				  <color r="255" g="255" b="255">Kreupelhout<br/></color>
+				  <img src="ui/icon_biomes/icon_scrub.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+				 </cell>	
+               <cell width="128">
+                  <color r="255" g="255" b="255">Zuidelijk Afrika</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/Savannah_Africa_South.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Klasse: zoogdieren <i>(Mammalia)</i>
+                  <br/>
+                  Orde: carnivoren <i>(Carnivora)</i>
+                  <br/>
+                  Familie: civetkatachtigen <i>(Viverridae)</i>
+                  <br/>
+                  Geslacht: <i>Suricata</i>
+                  <br/>
+                  Soort: <i>suricatta</i>
+                  <br/>
+                  Ondersoort: <i>suricata</i>                  
+                  </color>
+               </cell>
+				 <cell width="256" pady="10">
+				  <img src="UI/zoopedia/biome/scrub_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+				 </cell>	
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Leuke weetjes over het stokstaartje</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Stokstaartjes zijn sociale dieren die in groepen leven, waarbij ze hetzelfde toilet gebruiken en op elkaars jongen passen.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Een groep stokstaartjes bestaat meestal uit vijf tot dertig dieren.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Aangezien stokstaartjes door veel roofdieren als een lekker hapje tussendoor worden gezien, staat er altijd een stokstaartje op wacht wanneer de anderen slapen of eten.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Het stokstaartje eet kevers, spinnen, duizendpoten, krekels en schorpioenen (stokstaartjes zijn immuun voor hun gif).</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>               
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Het stokstaartje gebruikt zijn staart om in balans te blijven en om met andere leden van zijn groep te communiceren.</color>
+               </cell>                   
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">Het stokstaartje komt in de modus Uitdaging en Campagne beschikbaar zodra je dierentuin een bekendheidsscore van 3,5 sterren bereikt.</color>
+            <p/>Het stokstaartje, ook wel aardmannetje genoemd. is een klein roofdier dat tot de mangoesten behoort en in zuidelijk Afrika leeft. Stokstaartjes vallen op door hun rechtopstaande houding en hun sociale gewoonten.
+
+<p/>Stokstaartjes leven doorgaans in droge, open gebieden en savannes. Hun leefgebied strekt zich uit van zuidwestelijk Angola tot aan Zuid-Afrika. Deze sociale dieren leven in kolonies, meestal op plaatsen met een zanderige grond, waar ze complexe ondergrondse holen kunnen graven.
+
+<p/>Stokstaartjes zijn ongeveer 25 tot 35 cm lang (exclusief staart). Ze zijn slanker dan de meeste andere mangoesten. Het stokstaartje heeft een spitse snuit en een zilverbruine vacht en er lopen onregelmatige donkere strepen over zijn romp. Ze hebben witte gezichtjes met donkere markeringen op de oren en rond de ogen. In tegenstelling tot de meeste mangoesten hebben stokstaartjes aan elke poot vier in plaats van vijf tenen.
+
+<p/>Stokstaartjes gaan alleen overdag op zoek naar voedsel en eten hoofdzakelijk insecten, met name kevers, spinnen en duizendpoten. Soms eten ze ook kleine gewervelde dieren, eieren en plantenwortels. Stokstaartjes krijgen doorgaans twee tot vier jongen die na een draagtijd van ongeveer elf weken vaak in de herfst of vroeg in de winter worden geboren. Zowel de vrouwtjes als de mannetjes verzorgen en bewaken hun nakomelingen.
+
+<p/>Stokstaartjes staan meestal recht op hun achterpoten of zelfs op hun tenen om aan de wind te ruiken of er rovers op de loer liggen. Ze hebben een uitstekend gezichtsvermogen en kunnen ten minste tien verschillende geluiden produceren, waaronder een alarmgeblaf.
+
+<p/>Aangezien stokstaartjes dragers van hondsdolheid kunnen zijn, is er in gebieden waar ze een bedreiging voor mensen vormen veel op hen gejaagd en zijn ze vaak in hun holen vergast. Dit heeft echter niet tot een significante afname van de populatie geleid. In Zuid-Afrika worden deze aanhankelijke en makkelijk te temmen dieren vaak als huisdier gehouden.
+
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Inhoud gebaseerd op <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft® Encarta® 2006.</color></u></a> © 1993-2005 Microsoft Corporation. Alle rechten voorbehouden.
+         </cell>         
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_birdsecretary" version="9"/>
+      <LOC_STRING _locID="zoopedia_birdsecretary:entry" version="9">Secretarisvogel</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_birdsecretary:text" version="9">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/BirdSecretary/BirdSecretary_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>						 
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Status:
+                     <br/>
+                        <color r="170" g="255" b="0">
+                     Laag risico
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+               <cell width="128">
+                  <color r="255" g="255" b="255">Grasland<br/></color>
+                  <img src="ui/icon_biomes/icon_grassland.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+               </cell>
+					<cell width="128">
+						<color r="255" g="255" b="255">Afrika</color>
+						<br/>
+						<img src="ui/icon_maplocations/Grassland_Africa_Asia.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+					</cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Klasse: vogels <i>(Aves)</i>
+                  <br/>
+                  Orde: dagroofvogels <i>(Falconiformes)</i>
+                  <br/>
+                  Familie: <i>Sagittariidae</i>
+                  <br/>
+                  Geslacht: <i>Sagittarius</i>
+                  <br/>
+                  Soort: <i>serpentarius</i>
+                  </color>
+               </cell>
+               <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/grassland_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+               </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Interessante feiten over de secretarisvogel</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Secretarisvogels lopen op hun hoge stelten soms wel 30 kilometer per dag.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">In Zuid-Afrika worden secretarisvogels soms als huisdier gehouden omdat ze slangen en ratten doden.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Slangen zijn het lievelingseten van secretarisvogels. Ze pakken de slang met hun tenen vast en slaan het dier dan tegen de grond, waarbij ze zich met hun vleugels tegen beten beschermen.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Secretarisvogels blijven hun leven lang bij dezelfde partner en gebruiken ook jarenlang hetzelfde nest. Hoewel ze overwegend alleen leven, is hun partner meestal wel in de buurt.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>               
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Secretarisvogels maken bijna nooit geluid. De enige uitzondering is het gekras dat ze laten horen wanneer ze indruk op hun partner proberen te maken.</color>
+               </cell>                   
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">De secretarisvogel komt in de modus Uitdaging of Campagne beschikbaar zodra je dierentuin een bekendheidsscore van 3 sterren bereikt.</color>
+            <p/>De secretarisvogel is een grote roofvogel die in Afrika ten zuiden van de Sahara voorkomt. De vogel is meer dan een meter lang en heeft erg lange poten, een lange staart en een krachtige kromme snavel. De vogel ontleent zijn naam volgens velen aan het feit dat zijn kuif met lange veren sterk lijkt op een stel ganzenveren die een secretaris achter zijn oor heeft gestoken. Eigenlijk is de naam echter een verbastering van de Arabische naam voor deze soort. De vogel is overwegend blauwgrijs van kleur, met zwarte slagpennen, flanken en staarttekening. De vogel eet kleine dieren en reptielen, vooral slangen, die hij meestal besluipt om ze te vangen. Secretarisvogels vliegen maar zelden. Deze solitaire vogels bouwen grote, sterke nesten van twijgen in bomen of struiken en leggen per keer twee eieren.
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Inhoud gebaseerd op <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft® Encarta® 2006.</color></u></a> © 19932005 Microsoft Corporation. Alle rechten voorbehouden.
+         </cell>         
+      </LOC_STRING>
+
+</ZT2Strings>

@@ -1,0 +1,39 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_facepaintingkiosk" version="6"/>
+      <LOC_STRING _locID="zoopedia_facepaintingkiosk:entry" version="6">Gesichtsmalereikiosk</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_facepaintingkiosk:text" version="6">
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\objects\buildings\Face_Painting_Kiosk_end\FacePaintingKiosk_end_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+Ihre jungen Besucher werden den Gesichtsmalereikiosk lieben. Dort können sie sich als Tiger, Pandas oder andere Tiere schminken lassen.
+<p/>
+Damit der Gesichtsmalereikiosk für Ihr Spiel zur Verfügung steht, müssen Sie die "Auszeichnung für Spenden durch Unterhaltungserfolge" gewinnen.
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_headphonekiosk" version="6"/>
+      <LOC_STRING _locID="zoopedia_headphonekiosk:entry" version="6">Kopfhörerkiosk</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_headphonekiosk:text" version="6">
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\objects\buildings\HeadphoneKiosk_end\HeadphoneKiosk_end_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+Die Gäste tragen begeistert die Kopfhörer, die man im Kopfhörerkiosk erwerben kann. Die drahtlosen Kopfhörer bieten Ihren Besuchern zusätzliche Informationen zu den Tieren im Zoo.
+		<p/>
+Damit der Kopfhörerkiosk in Ihrem Spiel zur Verfügung steht, müssen Sie die "Auszeichnung für Spenden für Lehrzwecke" gewinnen.
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+  
+</ZT2Strings>

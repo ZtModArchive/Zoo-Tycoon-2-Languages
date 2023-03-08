@@ -1,0 +1,130 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_entertainer:entry">Entertainer</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_entertainer:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/units/staff/EntertainerExtinct/Entertainer_F_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/units/staff/EntertainerExtinct/Entertainer_M_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/units/staff/EntertainerDinosaur/EntertainerDinosaur_F_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/units/staff/EntertainerDinosaur/EntertainerDinosaur_M_icon.dds" sx="0" sy="0" sw="64" sh="64"/>                  
+                  <p/>
+Diese farbenfroh gekleideten Mitarbeiter tanzen, erzählen Witze, machen Puppentheater und vieles mehr, um die Besucher zu unterhalten. Denken Sie daran, ihnen einen Platz für ihre Aufführungen zu bauen! Die 	    
+		<a href="zoopedia:zoopedia_entertainerstage:entry">
+               <u>
+                  <color r="255" g="231" b="135">Entertainerbühne</color>
+               </u> bietet 
+           	</a>
+  eine tolle Möglichkeit, ihre einzigartigen Talente zu präsentieren.            	
+						<p/>
+Denken Sie daran, dass Entertainer zum Personal gehören und ihr Gehalt am Ersten jeden Monats von Ihrem Zookonto abgezogen wird.			
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_paleontologist:entry">Paläontologe</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_paleontologist:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/units/staff/paleontologist/Paleontologist_M_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/units/staff/paleontologist/Paleontologist_F_icon.dds" sx="0" sy="0" sw="64" sh="64"/>                
+                  <p/>
+Diese etwas rauen, aber sehr schlauen Mitarbeiter wissen alles über ausgestorbene Tiere. Sie lehren Besucher über alle Aspekte der Tiere aus längst vergangenen Zeiten, und sie unterrichten gerne im 
+		<a href="zoopedia:zoopedia_fossileducationcenter:entry">
+               <u>
+                  <color r="255" g="231" b="135">"Ausgestorbene Tierarten"-Lernbereich</color>
+               </u>. 
+           	</a>
+		
+<p/>		
+Sie können Ihnen auch bei der Suche und Ausgrabung von Fossilien helfen, die Sie dann im  	    
+		<a href="zoopedia:zoopedia_cloningcenter:entry">
+               <u>
+                  <color r="255" g="231" b="135">Forschungslabor für ausgestorbene Arten zusammensetzen können</color>
+               </u>. 
+           	</a>
+<p/>
+Denken Sie daran, dass Paläontologen zum Personal gehören und ihr Gehalt am Ersten jeden Monats von Ihrem Zookonto abgezogen wird.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_drt_gun:entry">Dinoeinsatzkommando: Betäubungsspezialist</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_drt_gun:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/units/staff/DinoRecoveryTeam/DinoRecoveryTranqTeam_M_icon.dds" sx="0" sy="0" sw="64" sh="64"/>          
+                  <p/>
+		Dieser etwas ungehobelte, aber sehr geschickte Mitarbeiter des Dinoeinsatzkommandos ist Ihr Scharfschütze. Dieser hochgerüstete Mitarbeiter betäubt tobende Saurier, damit der Verwahrungsspezialist sie dann in einen Käfig sperren kann.  
+		<p/>
+		Wenn der 'Tobsucht'-Alarm im 
+		<a href="zoopedia:zoopedia_dinorecoverybuilding:entry">
+               <u>
+                  <color r="255" g="231" b="135">Bunker des Dinoeinsatzkommandos ausgelöst wird</color>, 
+               </u>
+           	</a>
+		tritt das Team in Aktion.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_drt_crate:entry">Dinoeinsatzkommando: Verwahrungsspezialist</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_drt_crate:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/units/staff/DinoRecoveryTeam/DinoRecoveryCrateTeam_M_icon.dds" sx="0" sy="0" sw="64" sh="64"/>          
+                  <p/>
+		Dieses Mitglied des Dinoeinsatzkommandos hat einen gefährlichen Job und ist Ihr Teamkapitän. Nachdem der Betäubungsspezialist den tobenden Saurier ruhig gestellt hat, setzt der Verwahrungsspezialist sein FANG-Gewehr (Fix ausfahrbares Notfall-Gehege) ein, um ihn festzuhalten.  
+		<p/>
+		Wenn der 'Tobsucht'-Alarm im 
+		<a href="zoopedia:zoopedia_dinorecoverybuilding:entry">
+               <u>
+                  <color r="255" g="231" b="135">Bunker des Dinoeinsatzkommandos ausgelöst wird</color>, 
+               </u>
+           	</a>
+		tritt das Team in Aktion.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_drt_robot:entry">Dinoeinsatzkommando: Roboterlockvogel</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_drt_robot:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/units/staff/DinoRecoveryTeam/DinoRecovery_Robot_icon.dds" sx="0" sy="0" sw="64" sh="64"/>          
+                  <p/>
+		Die meisten Dinos haben ein schlechtes Sehvermögen, und das Dinoeinsatzkommando nutzt diese Schwäche. Wie? Ein Roboterlockvogel zieht mit Sirenen und Blinklichtern die Aufmerksamkeit des tobenden Sauriers auf sich. Wenn der Dino dann ganz auf den Roboter fixiert ist, wird er vom Team betäubt. Der Roboter besteht zu 100 % aus organischen Materialien und ist für Ihre Dinos nicht schädlich.
+		<p/>
+		Wenn der 'Tobsucht'-Alarm im 
+		<a href="zoopedia:zoopedia_dinorecoverybuilding:entry">
+               <u>
+                  <color r="255" g="231" b="135">Bunker des Dinoeinsatzkommandos ausgelöst wird</color>, 
+               </u>
+           	</a>
+		tritt das Team in Aktion.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>     
+
+
+</ZT2Strings>

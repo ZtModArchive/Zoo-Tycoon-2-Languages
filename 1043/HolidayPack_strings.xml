@@ -1,0 +1,202 @@
+<ZT2Strings>
+   <!--entity names-->
+   <entityname>
+      <!--building names-->
+      <snackcart_candycane_tt>Zuurstokkenkraam</snackcart_candycane_tt>
+      <snackcart_candycane_tt_stt>Zuurstokkenkraam</snackcart_candycane_tt_stt>
+      <snackcart_candycane_tt_lower>de zuurstokkenkraam</snackcart_candycane_tt_lower>
+      <snackcart_candycane_tt_ltt>
+         <color r="255" g="248" b="178">
+            <b>Zuurstokkenkraam</b>
+         </color>
+         <br/>
+         Klik hier om de zuurstokkenkraam te selecteren en vervolgens te plaatsen. Een echte winterfavoriet.
+      </snackcart_candycane_tt_ltt>
+      <!--scenery object names-->
+      <binoculars_tt>Verrekijker van de sneeuwman</binoculars_tt>
+      <binoculars_tt_stt>Verrekijker van de sneeuwman</binoculars_tt_stt>
+      <binoculars_tt_lower>de verrekijker van de sneeuwman</binoculars_tt_lower>
+      <binoculars_tt_ltt>
+         <color r="255" g="248" b="178">
+            <b>Verrekijker van de sneeuwman</b>
+         </color>
+         <br/>
+         Klik hier om de verrekijker van de sneeuwman te selecteren en te plaatsen. Bezoekers bekijken de dieren graag door zijn ogen.
+      </binoculars_tt_ltt>
+      <Reindeer_tt>Rendierautomaat</Reindeer_tt>
+      <Reindeer_tt_stt>Rendierautomaat</Reindeer_tt_stt>
+      <Reindeer_tt_lower>de rendierautomaat</Reindeer_tt_lower>
+      <Reindeer_tt_ltt>
+         <color r="255" g="248" b="178">
+            <b>Rendierautomaat</b>
+         </color>
+         <br/>
+         Klik hier om de rendierautomaat te selecteren en te plaatsen. Kleine kinderen kunnen erop klimmen en een ritje maken.
+      </Reindeer_tt_ltt>
+      <lowholidayfence_tt>Lage omheining in winterstijl</lowholidayfence_tt>
+      <lowholidayfence_tt_stt>Lage omheining in winterstijl</lowholidayfence_tt_stt>
+      <lowholidayfence_tt_lower>de lage omheining in winterstijl</lowholidayfence_tt_lower>
+      <lowholidayfence_tt_ltt>
+         <color r="255" g="248" b="178">
+            <b>Lage omheining in winterstijl</b>
+         </color>
+         <br/>
+         Klik hier om delen lage omheining in winterstijl te selecteren en te plaatsen. Deze kunnen dienst doen als feestelijk versierde afrastering.
+      </lowholidayfence_tt_ltt>
+      <lowholidayfence_broken_tt>Lage omheining in winterstijl</lowholidayfence_broken_tt>
+      <lowholidayfence_broken_tt_stt>Lage omheining in winterstijl</lowholidayfence_broken_tt_stt>
+      <lowholidayfence_broken_tt_lower>de lage omheining in winterstijl</lowholidayfence_broken_tt_lower>
+      <lowholidayfence_broken_tt_ltt>
+         <color r="255" g="248" b="178">
+            <b>Lage omheining in winterstijl</b>
+         </color>
+         <br/>
+         Klik hier om delen lage omheining in winterstijl te selecteren en te plaatsen. Deze kunnen dienst doen als feestelijk versierde afrastering.
+      </lowholidayfence_broken_tt_ltt>
+      <!--fence names-->
+      <!--enrichment object names-->
+      <PresentApple>Kerstcadeau (appel)</PresentApple>
+      <PresentApple_stt>Kerstcadeau (appel)</PresentApple_stt>
+      <PresentApple_lower>het kerstcadeau (appel)</PresentApple_lower>
+      <PresentApple_ltt>
+         <color r="255" g="248" b="178">
+            <b>Kerstcadeau (appel)</b>
+         </color>
+         <br/>
+         Klik hier om het kerstcadeau (appel) te selecteren en te plaatsen. Dieren die dol zijn op appels vinden dit kerstcadeau geweldig.
+      </PresentApple_ltt>
+      <PresentBeef>Kerstcadeau (rundvlees)</PresentBeef>
+      <PresentBeef_stt>Kerstcadeau (rundvlees)</PresentBeef_stt>
+      <PresentBeef_lower>het kerstcadeau (rundvlees)</PresentBeef_lower>
+      <PresentBeef_ltt>
+         <color r="255" g="248" b="178">
+            <b>Kerstcadeau (rundvlees)</b>
+         </color>
+         <br/>
+         Klik hier om het kerstcadeau (rundvlees) te selecteren en te plaatsen. Dieren die dol zijn op een stuk vlees vinden dit kerstcadeau geweldig.
+      </PresentBeef_ltt>
+      <!--item names-->
+      <Candycane>Zuurstok</Candycane>
+      <Candycane_stt>Zuurstok</Candycane_stt>
+      <Candycane_lower>de zuurstok</Candycane_lower>
+      <Candycane_ltt>
+         <color r="255" g="248" b="178">
+            <b>Zuurstok</b>
+         </color>
+         <br/>Iedereen is dol op deze zuurstokken tijdens de winterperiode.
+      </Candycane_ltt>
+      <!--guest thoughts-->
+      <EatCandycaneNotLike>Ik heb liever wat anders dan een zuurstok.</EatCandycaneNotLike>
+      <EatCandycane>Mmm. Een zuurstok! Dat is ook lekker in de winter!</EatCandycane>
+      <EatCandycaneLike>Jummie! Deze zuurstok smaakt heerlijk.</EatCandycaneLike>
+   </entityname>
+   <!--Zoopedia entries-->
+   <zoopedia_candycane>
+      <entry>Zuurstokkenkraam</entry>
+      <text>
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>
+                  <img src="entities\objects\buildings\Snackcart\snackcart_candycane_tt_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>De zuurstokkenkraam is een ijscokarretje gemaakt van peperkoek, zuurstokken en andere soorten snoep. Bij de zuurstokkenkraam kun je zuurstokken kopen.
+                  <p/>Vooral kinderen zijn hier dol op, maar iedereen die een smakelijk toetje wil, koopt zuurstokken.
+               </color>
+            </cell>
+         </cell>
+      </text>
+   </zoopedia_candycane>
+   <zoopedia_binoculars_tt>
+      <entry>Verrekijker, sneeuwman</entry>
+      <text>
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>
+                  <img src="entities\objects\scenery\binoculars_tt\binoculars_tt_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>De verrekijker van de sneeuwman is een speciale versie van de verrekijker die je kunt gebruiken tijdens de winterperiode of in gebieden van je dierentuin in toendrastijl.
+                  <p/>Door de ogen van de sneeuwman hebben bezoekers een goed uitzicht op de dieren. De dieren zelf kijken niet op van een sneeuwman die naar ze staat te kijken.
+               </color>
+            </cell>
+         </cell>
+      </text>
+   </zoopedia_binoculars_tt>
+   <zoopedia_lowholidayfence_tt>
+      <entry>Omheining in winterstijl</entry>
+      <text>
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities\objects\fences\lowholidayfence_tt\lowholidayfence_tt_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>De omheining in winterstijl is een redelijk stevig type omheining dat het meest effectief is in combinatie met een sloot of gracht en dat kan worden gebruikt als decoratieve afrastering in openbare zones.
+                  <p/>De omheining in winterstijl is versierd met feestelijke lichtjes. Zowel het publiek als de dieren vinden dit geweldig.
+               </color>
+            </cell>
+         </cell>
+      </text>
+   </zoopedia_lowholidayfence_tt>
+   <zoopedia_reindeer_tt>
+      <entry>Rendierautomaat</entry>
+      <text>
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>
+                  <img src="entities\objects\scenery\Playground_BouncyRide_Reindeer_tt/BouncyRide_Reindeer_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>Kinderen kunnen op de rug van het rendier klimmen en op en neer wippen op de rendierautomaat. Hoewel het rendier beweegt, kan dit specifieke exemplaar niet vliegen.
+               </color>
+            </cell>
+         </cell>
+      </text>
+   </zoopedia_reindeer_tt>
+   <zoopedia_presentapple>
+      <entry>Kerstcadeau (appel)</entry>
+      <text>
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>
+                  <img src="entities\objects\enrichment\PresentApple\PresentApple_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>Ook dieren zijn dol op een kerstcadeautje!
+                  <p/>Het kerstcadeau (appel) is een doos in een kleurrijke verpakking met een feestelijke strik. Dieren vinden het leuk om met de doos te spelen.
+                  <p/>Nadat de dieren een tijdje met de doos hebben rondgebanjerd, breekt deze open en valt er een appel uit die het dier kan opeten.
+               </color>
+            </cell>
+         </cell>
+      </text>
+   </zoopedia_presentapple>
+   <zoopedia_presentbeef>
+      <entry>Kerstcadeau (rundvlees)</entry>
+      <text>
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>
+                  <img src="entities\objects\enrichment\PresentApple\PresentBeef_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>Ook dieren zijn dol op een kerstcadeautje!
+                  <p/>Het kerstcadeau (rundvlees) is een doos in een kleurrijke verpakking met een feestelijke strik. Dieren vinden het leuk om met de doos te spelen
+                  <p/>Nadat de dieren een tijdje met de doos hebben rondgebanjerd, breekt deze open en valt er een stuk vlees uit die het dier kan opeten.
+               </color>
+            </cell>
+         </cell>
+      </text>
+   </zoopedia_presentbeef>
+</ZT2Strings>

@@ -1,0 +1,27 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_eucalyptus" version="6"/>
+      <LOC_STRING _locID="zoopedia_eucalyptus:entry" version="6">Feuilles d'eucalyptus</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_eucalyptus:text" version="6">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/food/Terrain_df/TerrainEucalyptus_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>
+Les eucalyptus sont des arbres très répandus dans toute l'Australie mais leurs feuilles sont dures, pauvres du point de vue nutritionnel et contiennent des huiles toxiques pour la plupart des animaux. Parmi les rares espèces animales qui mangent les feuilles d'eucalyptus, citons un animal qui s'en nourrit presque exclusivement : le    
+                  <a href="zoopedia:zoopedia_koala:entry">
+                     <u>
+                        <color r="255" g="231" b="135">koala</color>
+                     </u>
+                  </a>
+. Le corps du koala est spécialement adapté aux toxines des feuilles d'eucalyptus. La lenteur de son métabolisme contribue à compenser leur faible apport nutritionnel. 
+                  <p/>
+Les feuilles d'eucalyptus peuvent être placées directement sur le sol, ou dans une mangeoire ordinaire ou surélevée.    
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+ 
+</ZT2Strings>

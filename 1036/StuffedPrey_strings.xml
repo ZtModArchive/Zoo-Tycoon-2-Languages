@@ -1,0 +1,33 @@
+<ZT2Strings>
+   <entityname>
+      <!--animal names-->
+      <StuffedPrey>Fausse proie en chiffon</StuffedPrey>
+      <StuffedPrey_stt>Fausse proie en chiffon</StuffedPrey_stt>
+      <StuffedPrey_lower>la fausse proie en chiffon</StuffedPrey_lower>
+      <StuffedPrey_ltt>
+         <color r="255" g="248" b="178">
+            <b>Fausse proie en chiffon</b>
+         </color>
+         <br/>
+         Sélectionnez, puis placez la fausse proie en chiffon, jouet destiné à l'entraînement à l'attaque des prédateurs.
+      </StuffedPrey_ltt>
+   </entityname>
+   <zoopedia_stuffedprey>
+      <entry>Fausse proie en chiffon</entry>
+      <text>
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>
+                  <img src="entities\objects\enrichment\StuffedPrey\StuffedPrey_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>La fausse proie en chiffon est un leurre ressemblant à une gazelle, fait de paille et de toile et monté sur un solide ressort.
+                  <p/>Les carnivores apprécient de s'entraîner en mordant et en sautant sur ce leurre, car il rebondit sous leurs attaques.
+               </color>
+            </cell>
+         </cell>
+      </text>
+   </zoopedia_stuffedprey>
+</ZT2Strings>

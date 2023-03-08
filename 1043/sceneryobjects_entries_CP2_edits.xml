@@ -1,0 +1,196 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_soundrock" version="9"/>
+      <LOC_STRING _locID="zoopedia_soundrock:entry" version="9">Muziekrots</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_soundrock:text" version="9">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities/objects/scenery/MusicalRock_df/MusicalRock_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/scenery/MusicalRock_jt/MusicalRock_jt_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/scenery/MusicalRock_St/MusicalRock_St_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/scenery/MusicalRock_xt/MusicalRock_xt_icon.dds" sx="0" sy="0" sw="64" sh="64"/>                  
+                  <br/>
+                  Deze luidsprekers zien eruit als kleine rotsblokken zodat ze goed in de omgeving opgaan. Bezoekers horen graag muziek als ze in de buurt langswandelen.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_themedtrashcan" version="9"/>
+      <LOC_STRING _locID="zoopedia_themedtrashcan:entry" version="9">Vuilnisbak, thema</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_themedtrashcan:text" version="9">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities\objects\scenery\trashcan_jt\trashcan_jt_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities\objects\scenery\trashcan_st\trashcan_st_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities\objects\scenery\trashcan_xt\trashcan_xt_icon.dds" sx="0" sy="0" sw="64" sh="64"/>                    
+                  <br/>Bezoekers gooien afval in vuilnisbakken. De bakken worden geleegd door onderhoudsmedewerkers. Als de bakken te vol raken, raken bezoekers geïrriteerd. Als je geen vuilnisbak in je dierentuin plaatst of als je er niet genoeg hebt, gooien bezoekers het afval gewoon op de grond, en de andere bezoekers storen zich daaraan.
+                  <p/>Bezoekers houden van objecten in een bepaalde stijl, vooral tijdens rondleidingen. Je kunt zien welke thema's je beschikbaar kunt maken door op de knop Bekendheid van dierentuin te klikken, vervolgens op het tabblad Prijzen voor dierentuinen te klikken en ten slotte op Permanente prijzen te klikken.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_themedlamp" version="9"/>
+      <LOC_STRING _locID="zoopedia_themedlamp:entry" version="9">Lantaarnpalen, thema</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_themedlamp:text" version="9">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities\objects\scenery\lamp_jt\lamp_jt_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities\objects\scenery\lamp_st\lamp_st_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities\objects\scenery\lamp_xt\lamp_xt_icon.dds" sx="0" sy="0" sw="64" sh="64"/>                  
+                  <br/>Lampen in een bepaald thema voegen een prettige sfeer toe voor bezoekers.
+                  <p/>Bezoekers houden van objecten in een bepaalde stijl, vooral tijdens rondleidingen. Je kunt zien welke thema's je beschikbaar kunt maken door op de knop Bekendheid van dierentuin te klikken, vervolgens op het tabblad Prijzen voor dierentuinen te klikken en ten slotte op Permanente prijzen te klikken.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_themedviewingareas" version="9"/>
+      <LOC_STRING _locID="zoopedia_themedviewingareas:entry" version="9">Overkapping, thema</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_themedviewingareas:text" version="9">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities\objects\scenery\ViewingArea_Jt\ViewingArea_Jt_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities\objects\scenery\ViewingArea_St\ViewingArea_St_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities\objects\scenery\ViewingArea_xt\ViewingArea_xt_icon.dds" sx="0" sy="0" sw="64" sh="64"/>                  
+                  <br/>Een themaoverkapping biedt bezoekers beschutting van waaruit ze de dieren kunnen observeren. Bezoekers houden ervan als de stijl van de beschutting in harmonie is met het verblijf.
+                  <p/>Je kunt zien welke thema's je beschikbaar kunt maken door op de knop Bekendheid van dierentuin te klikken, vervolgens op het tabblad Prijzen voor dierentuinen te klikken en ten slotte op Permanente prijzen te klikken.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_themedfountains" version="9"/>
+      <LOC_STRING _locID="zoopedia_themedfountains:entry" version="9">Fonteinen, thema</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_themedfountains:text" version="9">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities\objects\scenery\Fountain_Jt\Fountain_Jt_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities\objects\scenery\Fountain_St\Fountain_St_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities\objects\scenery\Fountain_xt\Fountain_xt_icon.dds" sx="0" sy="0" sw="64" sh="64"/>                  
+                  <br/>Van fonteinen in je dierentuin worden bezoekers echt gelukkig. Ze vinden het vooral leuk als zich een dier op de fontein bevindt.
+                  <p/>Themazones maken bezoekers tevreden. Je kunt zien welke thema's je beschikbaar kunt maken door op de knop Bekendheid van dierentuin te klikken, vervolgens op het tabblad Prijzen voor dierentuinen te klikken en ten slotte op Permanente prijzen te klikken.
+				</color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_themedstatue" version="9"/>
+      <LOC_STRING _locID="zoopedia_themedstatue:entry" version="9">Standbeeld, thema</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_themedstatue:text" version="9">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities\objects\scenery\Statue_Jt\Statue_Jt_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities\objects\scenery\Statue_St\Statue_St_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities\objects\scenery\Statue_xt\Statue_xt_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  
+                  <br/>Bezoekers zien graag standbeelden in je dierentuin, vooral als het standbeeld van een favoriet dier is.
+                  <p/>Bezoekers genieten tijdens rondleidingen van themazones. Je kunt zien welke thema's je beschikbaar kunt maken door op de knop Bekendheid van dierentuin te klikken, vervolgens op het tabblad Prijzen voor dierentuinen te klikken en ten slotte op Permanente prijzen te klikken.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_themedbench" version="9"/>
+      <LOC_STRING _locID="zoopedia_themedbench:entry" version="9">Bank, thema</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_themedbench:text" version="9">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities\objects\scenery\bench_jt\bench_jt_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities\objects\scenery\bench_st\bench_st_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities\objects\scenery\bench_xt\bench_xt_icon.dds" sx="0" sy="0" sw="64" sh="64"/>                  
+                  <br/>Bezoekers raken vermoeid als ze de hele dag rondlopen. Een bank in een bepaalde stijl biedt een welkome plaats om te pauzeren en de sfeer van je dierentuin in je op te nemen. Vermoeide gasten die geen bank kunnen vinden, worden humeurig.
+                  <p/>Bezoekers genieten tijdens rondleidingen van themazones. Je kunt zien welke thema's je beschikbaar kunt maken door op de knop Bekendheid van dierentuin te klikken, vervolgens op het tabblad Prijzen voor dierentuinen te klikken en ten slotte op Permanente prijzen te klikken.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_themedarch" version="9"/>
+      <LOC_STRING _locID="zoopedia_themedarch:entry" version="9">Boog in bepaalde stijl</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_themedarch:text" version="9">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities\objects\scenery\PathArch_Jt\PathArch_Jt_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities\objects\scenery\PathArch_St\PathArch_St_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities\objects\scenery\PathArch_xt\PathArch_xt_icon.dds" sx="0" sy="0" sw="64" sh="64"/>                  
+                  <br/>Bogen voegen een decoratief element toe aan paden en andere gebieden in je dierentuin. Bezoekers vinden het heerlijk om onder een boog in een bepaalde stijl te wandelen.
+                  <p/>Bezoekers genieten tijdens rondleidingen van themazones. Je kunt zien welke thema's je beschikbaar kunt maken door op de knop Bekendheid van dierentuin te klikken, vervolgens op het tabblad Prijzen voor dierentuinen te klikken en ten slotte op Permanente prijzen te klikken.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_themedumbrellatable" version="9"/>
+      <LOC_STRING _locID="zoopedia_themedumbrellatable:entry" version="9">Tafel met parasol, thema</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_themedumbrellatable:text" version="9">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities\objects\scenery\umbrellatable_jt\umbrellatable_jt_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities\objects\scenery\umbrellatable_St\umbrellatable_St_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities\objects\scenery\umbrellatable_xt\umbrellatable_xt_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>Bezoekers gaan graag zitten om het eten en drinken te nuttigen dat ze in je dierentuin hebben gekocht. Ze raken geïrriteerd als ze geen picknicktafel kunnen vinden.
+                  <p/>Bezoekers vinden het heel leuk als omgeving en objecten in harmonie zijn met dichtbij gelegen dierenverblijven. Je kunt zien welke thema's je beschikbaar kunt maken door op de knop Bekendheid van dierentuin te klikken, vervolgens op het tabblad Prijzen voor dierentuinen te klikken en ten slotte op Permanente prijzen te klikken.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_donationbox" version="9"/>
+      <LOC_STRING _locID="zoopedia_donationbox:entry" version="9">Donatiebox</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_donationbox:text" version="9">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities/objects/scenery/donationbox_df/donationbox_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities\objects\scenery\DonationBox_Jt\DonationBox_Jt_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities\objects\scenery\DonationBox_St\DonationBox_St_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities\objects\scenery\DonationBox_xt\DonationBox_xt_icon.dds" sx="0" sy="0" sw="64" sh="64"/>                  <br/>
+                         
+               De donatiebox bevat donaties van bezoekers voor je dierentuin. Als gasten een verblijf mooi vinden, is de kans dat ze iets doneren groter. De donatiebox heeft ook een bord met informatie over het verblijf.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+
+</ZT2Strings>

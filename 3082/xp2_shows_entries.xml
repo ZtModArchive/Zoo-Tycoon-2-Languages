@@ -1,0 +1,136 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_shows:entry">Objetos tanque y espec.</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_shows:text">
+		<cell pady="0" width="1000"/>
+		<p/>
+		<cell width="260"/>
+		<cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+		 <cell width="600" padx="20" pady="20">
+		  <color r="255" g="255" b="255">
+			<p/>Para crear un tanque de espectáculo, coloque una plataforma de espectáculo en un tanque que esté unido a un tanque de exposición con animales en su interior. ¡Coloque gradas mirando al tanque del espectáculo y comience a programar trucos!
+			<p/>Para obtener información sobre un espectáculo concreto o un objeto de tanque, haga clic en el nombre del espectáculo o en el objeto del tanque en la lista de la izquierda.	  
+		  </color>
+		 </cell>
+		</cell>
+	  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_showplatform:entry">Plataforma de espectáculo</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_showplatform:text">
+		<cell pady="0" width="1000"/>
+		<p/>
+		<cell width="260"/>
+		<cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+		 <cell width="600" padx="20" pady="20">
+		  <color r="255" g="255" b="255">
+			<img src="entities/objects/buildings/Platform_Show_mm/Platform_Show_mm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+			<p/>El MC, o maestro de ceremonias, organiza espectáculos marinos desde la plataforma de espectáculo. También puede crear espectáculos utilizando la plataforma de espectáculo. Coloque una plataforma de espectáculo en un tanque vacío unido a un tanque de exposición con animales en su interior. A continuación, haga clic en la plataforma del espectáculo para abrir el Programador de espectáculos.
+			<p/>Complete dos desafíos de espectáculo en el modo Desafío para desbloquear el televisor de pantalla grande para la plataforma de espectáculo. Complete la campaña Espectáculos Marinos para desbloquear la plataforma de espectáculo actualizada con un baldaquín.
+		  </color>
+		 </cell>
+		</cell>
+	  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_grandstand_mm:entry">Tribunas</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_grandstand_mm:text">
+		<cell pady="0" width="1000"/>
+		<p/>
+		<cell width="260"/>
+		<cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+		 <cell width="600" padx="20" pady="20">
+		  <color r="255" g="255" b="255">
+			<img src="entities/objects/scenery/Grandstand_I_mm/Grandstand_I_mm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+			<img src="entities/objects/scenery/Grandstand_II_mm/Grandstand_II_mm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+			<img src="entities/objects/scenery/Grandstand_III_mm/Grandstand_III_mm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>			
+			<p/>Las tribunas ofrecen a los visitantes un lugar cómodo donde sentarse para ver los espectáculos marinos. Los visitantes sentados en las tribunas disfrutan mucho más del espectáculo.
+			<p/>En la tribuna pequeña caben dos visitantes; en la mediana, cuatro; y en la grande, seis.
+		  </color>
+		 </cell>
+		</cell>
+	  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_grandstand_upgraded_mm:entry">Tribunas actualizadas</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_grandstand_upgraded_mm:text">
+		<cell pady="0" width="1000"/>
+		<p/>
+		<cell width="260"/>
+		<cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+		 <cell width="600" padx="20" pady="20">
+		  <color r="255" g="255" b="255">
+			<img src="entities/objects/scenery/Upgraded_Grandstand_I_mm/Upgraded_Grandstand_I_mm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+			<img src="entities/objects/scenery/Upgraded_Grandstand_II_mm/Upgraded_Grandstand_II_mm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+			<img src="entities/objects/scenery/Upgraded_Grandstand_III_mm/Upgraded_Grandstand_III_mm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+			<p/>Las tribunas actualizadas añaden color y confort a las áreas del espectáculo. Gane el Premio por donaciones para el espectáculo de nivel 1 para desbloquear la tribuna mediana actualizada. Gane el Premio por donaciones para el espectáculo de nivel 2 para desbloquear la tribuna grande actualizada.
+		  </color>
+		 </cell>
+		</cell>
+	  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_light_mm:entry">Luz del tanque</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_light_mm:text">
+		<cell pady="0" width="1000"/>
+		<p/>
+		<cell width="260"/>
+		<cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+		 <cell width="600" padx="20" pady="20">
+		  <color r="255" g="255" b="255">
+			<img src="entities/objects/scenery/light_mm/light_mm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+			<p/>Las luces del tanque iluminan el agua dentro de tanques marinos y otros espectáculos de agua. Son especialmente útiles para iluminar aguas bénticas y turbias o exhibiciones en pantanos.
+			<p/>La luz del tanque se puede adquirir tras ganar el Premio Magnate de espectáculos de nivel 1.
+		  </color>
+		 </cell>
+		</cell>
+	  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_tankportal:entry">Puerta del tanque</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_tankportal:text">
+		<cell pady="0" width="1000"/>
+		<p/>
+		<cell width="260"/>
+		<cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+		 <cell width="600" padx="20" pady="20">
+		  <color r="255" g="255" b="255">
+			<img src="entities/objects/fences/AnimalTank_Gate/AnimalTank_Gate_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+			<p/>Las puertas de los tanques unen los tanques de espectáculos marinos con los tanques de exposición normales. Los animales de espectáculo no pueden vivir en un tanque de espectáculo todo el tiempo. Cree un tanque de exposición en el que vivan los animales de espectáculo cuando terminen su actuación. Coloque un tanque de exposición junto a un tanque de espectáculo y únalos mediante una puerta. Cuando llegue la hora del espectáculo, los animales pasarán del tanque de exposición al de espectáculo a través de la puerta.
+		  </color>
+		 </cell>
+		</cell>
+	  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_trainingarea:entry">Área de entrenamiento</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_trainingarea:text">
+		<cell pady="0" width="1000"/>
+		<p/>
+		<cell width="260"/>
+		<cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+		 <cell width="600" padx="20" pady="20">
+		  <color r="255" g="255" b="255">
+			<img src="entities/objects/props/TrainingArea/TrainingArea_mm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+			<p/>Las áreas de entrenamiento se usan para entrenar los trucos de los animales marinos que actuarán en los espectáculos marinos. En un tanque destinado a entrenar a los animales, debe colocar un área de entrenamiento y una entrada al tanque.
+		  </color>
+		 </cell>
+		</cell>
+	  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_trickarea_mm:entry">Área de trucos</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_trickarea_mm:text">
+		<cell pady="0" width="1000"/>
+		<p/>
+		<cell width="260"/>
+		<cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+		 <cell width="600" padx="20" pady="20">
+		  <color r="255" g="255" b="255">
+			<img src="entities/objects/props/TrickArea_mm/TrickArea_mm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+			<p/>Los animales de los espectáculos marinos actúan en áreas de trucos. Para mover un área de truco, seleccione el área de truco y desplácela a la ubicación deseada.
+		  </color>
+		 </cell>
+		</cell>
+	  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_trickplatform:entry">Plataforma de trucos</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_trickplatform:text">
+		<cell pady="0" width="1000"/>
+		<p/>
+		<cell width="260"/>
+		<cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+		 <cell width="600" padx="20" pady="20">
+		  <color r="255" g="255" b="255">
+			<img src="entities/objects/props/Platform_Trick/Platform_Trick_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+			<p/>Los animales como la morsa y el lobo marino de California actúan en plataformas de truco. Para mover una plataforma de truco, seleccione la plataforma de truco y desplácela a la ubicación deseada.
+		  </color>
+		 </cell>
+		</cell>
+	  </LOC_STRING>	
+
+</ZT2Strings>

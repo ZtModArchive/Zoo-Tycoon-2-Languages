@@ -1,0 +1,33 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_paths" version="2"/>
+      <LOC_STRING _locID="zoopedia_paths:entry" version="2">Wege</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_paths:text" version="2">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>Sinnvoll angelegte Wege sind wichtig, um die Zoobesucher zufrieden zu stellen und sie in die richtige Richtung zu lenken.
+                  <p/>Um weitere Informationen zu den verschiedenen Wegen anzuzeigen, klicken Sie in der Liste links auf das Thema "Wegmaterialien".
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_staff" version="3"/>
+      <LOC_STRING _locID="zoopedia_staff:entry" version="3">Mitarbeiter</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_staff:text" version="3">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>Um den Zoobetrieb am Laufen zu halten, stehen Ihnen verschiedene Arten von Mitarbeitern zur Verfügung, die Sie einstellen können.
+                  <p/>Um weitere Informationen zu den einzelnen Mitarbeitertypen anzuzeigen, klicken Sie in der Liste links auf den Namen eines Mitarbeitertyps.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+
+</ZT2Strings>

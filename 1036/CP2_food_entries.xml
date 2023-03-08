@@ -1,0 +1,42 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_roots:entry">Racines</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_roots:text">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/food/Terrain/Terrain_Roots_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>
+ La plupart des animaux aiment faire des efforts pour obtenir leur nourriture. Les animaux qui creusent à la recherche de nourriture, comme le 
+                  <a href="zoopedia:zoopedia_beaver:entry">
+                     <u>
+                        <color r="255" g="231" b="135">castor</color>
+                     </u>, le 
+                  </a>
+                  <a href="zoopedia:zoopedia_gorilla:entry">
+                     <u>
+                        <color r="255" g="231" b="135">gorille de montagne</color>
+                     </u>, le 
+                  </a>
+                  <a href="zoopedia:zoopedia_warthoggiant:entry">
+                     <u>
+                        <color r="255" g="231" b="135">phacochère</color>
+                     </u> 
+                  </a>et le 
+                  <a href="zoopedia:zoopedia_gigantopithecus:entry">
+                     <u>
+                        <color r="255" g="231" b="135">gigantopithecus</color>
+                     </u>
+                  </a>                  
+ aiment manger des racines.  
+
+                  <p/>
+Placez des racines sur le sol ou dans une mangeoire, du substrat ou une auge.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>  
+ 
+</ZT2Strings>

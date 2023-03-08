@@ -1,0 +1,27 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_eucalyptus" version="6"/>
+      <LOC_STRING _locID="zoopedia_eucalyptus:entry" version="6">Eukalyptusblätter</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_eucalyptus:text" version="6">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/food/Terrain_df/TerrainEucalyptus_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>
+Eukalyptusbäume sind in ganz Australien weit verbreitet. Ihre Blätter sind robust, wenig nahrhaft und enthalten Öle, die für die meisten Tiere giftig sind. Nur sehr wenige Tierarten fressen Eukalyptus. Es gibt jedoch ein Tier, dass sich fast ausschließlich von diesen wohlriechenden Blättern ernährt: der    
+                  <a href="zoopedia:zoopedia_koala:entry">
+                     <u>
+                        <color r="255" g="231" b="135">Koala</color>
+                     </u>
+                  </a>
+. Der Körper des Koalas ist daran angepasst, das Eukalyptusgift zu verarbeiten. Gleichzeitig gleicht der schwerfällige Stoffwechsel des Tieres den geringen Nährwert von Eukalyptus aus. 
+                  <p/>
+Eukalyptusblätter können direkt auf den Boden, in einen Futternapf oder auf eine erhöhte Futterplatte gelegt werden.    
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+ 
+</ZT2Strings>

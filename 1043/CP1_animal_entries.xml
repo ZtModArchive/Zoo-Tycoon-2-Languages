@@ -1,0 +1,2357 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_aardvark:entry">Aardvarken</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_aardvark:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/aardvark/Aardvark_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>						 
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Status in het wild:
+                     <br/>
+                        <color r="170" g="255" b="0">
+                     enigszins bedreigd
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+				 <cell width="128">
+				  <color r="255" g="255" b="255">Struiksavanne<br/></color>
+				  <img src="ui/icon_biomes/icon_scrub.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+				 </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Afrika</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/Savannah_Africa.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Klasse: zoogdieren <i>(Mammalia)</i>
+                  <br/>
+                  Orde: aardvarkens <i>(Tubulidentata)</i>
+                  <br/>
+                  Familie: aardvarkens <i>(Orycteropodidae)</i>
+                  <br/>
+                  Geslacht: <i>Orycteropus</i>
+                  <br/>
+                  Soort: <i>afer</i>
+                  </color>
+               </cell>
+				 <cell width="256" pady="10">
+				  <img src="UI/zoopedia/biome/scrub_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+				 </cell>				 
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Interessante feiten over het aardvarken</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Aardvarkens kunnen zich aan verschillende klimaten aanpassen. Ze kunnen zowel in vochtige regenwouden als droge savannes leven: als er maar termieten te vinden zijn!</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Aardvarkens komen meestal 's nachts uit hun hol, maar blijven soms 's ochtends buiten om op te warmen in de zon.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Aardvarkens eten hoofdzakelijk termieten die zij met hun plakkerige tong oplikken. Soms steken ze hun snuit in een termietenheuvel, waarna ze de termieten eruit zuigen.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Wanneer een aardvarken wordt aangevallen (door een leeuw, hyena of luipaard), duikt het snel een hol in of graaft het ter plekke een nieuw hol om zich in te verschuilen. Als het aardvarken geen hol kan graven, gaat het de strijd aan met de vijand, waarbij het zijn poten en zelfs zijn staart gebruikt.</color>
+               </cell>                  
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">Het aardvarken komt in de modus Uitdaging of Campagne beschikbaar zodra je dierentuin een bekendheidsscore van 2,5 sterren bereikt.</color>
+            <p/>Aardvarken is de algemene naam voor een mierenetend zoogdier dat zich in holen schuilhoudt. Het aardvarken komt in het grootste deel van Afrika voor, van zuidelijk Egypte tot aan Kaap de Goede Hoop. Dit nachtdier leeft in holen en eet hoofdzakelijk mieren en termieten, maar soms ook andere insecten, een muis en wilde komkommer.
+<p/>Het aardvarken kan zo'n 2,3 meter lang worden, inclusief zijn dikke, spits toelopende staart die het bij het graven van holen gebruikt om aarde naar achteren te gooien. Het aardvarken heeft een kromme rug, een slurfachtige snuit en grote, rechtopstaande oren. Het aardvarken gebruikt zijn speciale beitelvormige klauwen om de harde klei van termietenheuvels open te breken, waarna het de insecten met zijn plakkerige tong uit de heuvel haalt. In tegenstelling tot de tandeloze miereneter heeft het aardvarken 20 cilindervormige, wortelloze tanden die zijn hele leven blijven doorgroeien.
+<p/>Het vrouwtje baart één en soms twee jongen die na zes maanden al hun eigen hol kunnen graven. Hoewel het aardvarken nogal schuchter is, vecht het wel als het niet kan vluchten en niet gauw een hol kan graven. Het dier verdedigt zich met zijn sterke klauwen of door met zijn staart of schouders te slaan.
+
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Inhoud gebaseerd op <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft® Encarta® 2006.</color></u></a> © 1993-2005 Microsoft Corporation. Alle rechten voorbehouden.
+         </cell>         
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_apebarbary:entry">Magot</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_apebarbary:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/ApeBarbary/ApeBarbary_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>						 
+						 <cell width="156"/>
+                  <br/>                   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/vulnerable.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Status in het wild:
+                     <br/>
+                        <color r="255" g="255" b="0">
+                     kwetsbaar
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+               <cell width="128">
+                  <color r="255" g="255" b="255">Gematigd woud<br/></color>
+                  <img src="ui/icon_biomes/icon_temperateforest.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+               </cell>
+					<cell width="128">
+						<color r="255" g="255" b="255">NW-Afrika</color>
+						<br/>
+						<img src="ui/icon_maplocations/TemperateForest_Africa_NorthWest.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+					</cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Klasse: zoogdieren <i>(Mammalia)</i>
+                  <br/>
+                  Orde: primaten <i>(Primata)</i>
+                  <br/>
+                  Familie: meerkatachtigen<i>(Cercopithecidae)</i>
+                  <br/>
+                  Geslacht: <i>Macaca</i>
+                  <br/>
+                  Soort: <i>sylvanus</i>
+                  </color>
+               </cell>
+               <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/temperateforest_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+               </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Interessante feiten over de magot</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">In Europa komen slechts twee leden van de primatenfamilie voor: de magot en de mens!</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Al behoort de magot tot de primaten, hij is geen mensaap. Het dier is een staartloze aap.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Magots leven in groepen van tien tot dertig leden, waarbij de vrouwtjes de dienst uitmaken.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">De mannetjes helpen bij het grootbrengen van de jongen en spelen urenlang met hen.</color>
+               </cell>                  
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">Om de magot in een campagne- of uitdagingsspel te ontgrendelen, moet je 2 1/2 ster voor je dierentuin verdienen.</color>
+            <p/>De magot is ongeveer 61 cm lang en heeft een groenbruine vacht. Het is de enige makaak die buiten Azië voorkomt. In sommige delen van Noord-Afrika is de magot zelfs prominent aanwezig. In het wild leeft de magot in de hooggelegen ceder- en eikenbossen van het Atlasgebergte in Marokko en Algerije. Er leven naar schatting 14.000 tot 23.000 magots in de vrije natuur.
+
+<p/>Er zijn fossielen van magots uit het Pleistoceen gevonden (2,5 miljoen tot 10.000 jaar geleden) en de magot is nu de enige aap die in Europa voorkomt. Waarschijnlijk is de Europese populatie echter door de mens tot stand gebracht. Bovendien is deze beperkt tot ongeveer 240 dieren in Gibraltar. Steeds wanneer de populatie daar groter wordt, worden de extra exemplaren naar dierentuinen overgebracht.
+            
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Inhoud gebaseerd op <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft® Encarta® 2006.</color></u></a> © 1993-2005 Microsoft Corporation. Alle rechten voorbehouden.
+         </cell>         
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_birdsecretary:entry">Secretarisvogel</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_birdsecretary:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/BirdSecretary/BirdSecretary_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>						 
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Status in het wild:
+                     <br/>
+                        <color r="170" g="255" b="0">
+                     enigszins bedreigd
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+               <cell width="128">
+                  <color r="255" g="255" b="255">Weide<br/></color>
+                  <img src="ui/icon_biomes/icon_grassland.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+               </cell>
+					<cell width="128">
+						<color r="255" g="255" b="255">Afrika</color>
+						<br/>
+						<img src="ui/icon_maplocations/savannah_africa.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+					</cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Klasse: vogels <i>(Aves)</i>
+                  <br/>
+                  Orde: dagroofvogels <i>(Falconiformes)</i>
+                  <br/>
+                  Familie: <i>Sagittariidae</i>
+                  <br/>
+                  Geslacht: <i>Sagittarius</i>
+                  <br/>
+                  Soort: <i>serpentarius</i>
+                  </color>
+               </cell>
+               <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/grassland_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+               </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Interessante feiten over de secretarisvogel</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Secretarisvogels lopen op hun hoge stelten soms wel 30 kilometer per dag.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">In Zuid-Afrika worden secretarisvogels soms als huisdier gehouden omdat ze slangen en ratten doden.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Slangen zijn het lievelingseten van secretarisvogels. Ze pakken de slang met hun tenen vast en slaan het dier dan tegen de grond, waarbij ze zich met hun vleugels tegen beten beschermen.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Secretarisvogels blijven hun leven lang bij dezelfde partner en gebruiken ook jarenlang hetzelfde nest. Hoewel ze overwegend alleen leven, is hun partner meestal wel in de buurt.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>               
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Secretarisvogels maken bijna nooit geluid. De enige uitzondering is het gekras dat ze laten horen wanneer ze indruk op hun partner proberen te maken.</color>
+               </cell>                   
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">De secretarisvogel komt in de modus Uitdaging of Campagne beschikbaar zodra je dierentuin een bekendheidsscore van 3 sterren bereikt.</color>
+            <p/>De secretarisvogel is een grote roofvogel die in Afrika ten zuiden van de Sahara voorkomt. De vogel is meer dan een meter lang en heeft erg lange poten, een lange staart en een krachtige kromme snavel. De vogel ontleent zijn naam volgens velen aan het feit dat zijn kuif met lange veren sterk lijkt op een stel ganzenveren die een secretaris achter zijn oor heeft gestoken. Eigenlijk is de naam echter een verbastering van de Arabische naam voor deze soort. De vogel is overwegend blauwgrijs van kleur, met zwarte slagpennen, flanken en staarttekening. De vogel eet kleine dieren en reptielen, vooral slangen, die hij meestal besluipt om ze te vangen. Secretarisvogels vliegen maar zelden. Deze solitaire vogels bouwen grote, sterke nesten van twijgen in bomen of struiken en leggen per keer twee eieren.
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Inhoud gebaseerd op <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft® Encarta® 2006.</color></u></a> © 1993-2005 Microsoft Corporation. Alle rechten voorbehouden.
+         </cell>         
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_bongo:entry">Bongo</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_bongo:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/Bongo/Bongo_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>						 
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Status in het wild:
+                     <br/>
+                        <color r="170" g="255" b="0">
+                     enigszins bedreigd
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+               <cell width="128">
+                  <color r="255" g="255" b="255">Tropisch regenwoud<br/></color>
+                  <img src="ui/icon_biomes/icon_tropicalrainforest.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+               </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Centraal Afrika</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/Rainforest_Africa_central.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Klasse: zoogdieren <i>(Mammalia)</i>
+                  <br/>
+                  Orde: evenhoevigen <i>(Artiodactyla)</i>
+                  <br/>
+                  Familie: holhoornigen<i>(Bovidae)</i>
+                  <br/>
+                  Geslacht: <i>Tragelaphus</i>
+                  <br/>
+                  Soort: <i>eurycerus</i>
+                  </color>
+               </cell>
+               <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/tropicalrainforest_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+               </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Interessante feiten over de bongo</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Bongo's zijn de grootste en meest kleurrijke Afrikaanse antilopensoort.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">De grootste vijand van de bongo is de luipaard.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Wanneer bongo's door het woud rennen, leggen ze hun gewei in hun nek zodat dit niet verstrikt raakt in de begroeiing. Dit doen ze zelfs zo vaak dat veel bongo's kale plekken in de vacht van hun nek hebben.</color>
+               </cell>                  
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">De bongo komt in de modus Uitdaging of Campagne beschikbaar zodra je dierentuin een bekendheidsscore van 0,5 ster bereikt.</color>
+            <p/>De bongo is een kastanjebruine antilope die in de wouden van centraal en westelijk Afrika leeft. Net als sommige andere antilopensoorten heeft hij over zijn schouders opvallende witte strepen die op druipend glazuur lijken. Zowel de mannetjes als de vrouwtjes hebben spiraalvormige hoorns.
+
+<p/>Bongo's eten plantenwortels, bataten, uitlopers van takken en plantenscheuten. Soms eten ze zelfs modder of verbrand hout om zouten en andere mineralen binnen te krijgen. Ze kunnen gemakkelijk van hoge planten eten door hun tong eromheen te wikkelen.
+
+<p/>De bongo is de enige bosantilope die in kuddes leeft. Deze schuchtere dieren zijn erg op zichzelf en slaan bij het eerste het beste teken van onraad op de vlucht. Aangezien ze in het woud leven, vormt vernietiging van de habitat een van de grootste bedreigingen voor deze soort.
+
+         </cell>       
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_buffaloafrican:entry">Buffel, Afrikaans</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_buffaloafrican:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/BuffaloAfrican/BuffaloAfrican_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/BuffaloAfrican/BuffaloAfrican_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Status in het wild:
+                     <br/>
+                        <color r="170" g="255" b="0">
+                     enigszins bedreigd
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+               <cell width="128">
+                  <color r="255" g="255" b="255">Moeras<br/></color>
+                  <img src="ui/icon_biomes/icon_wetlands.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+               </cell>
+					<cell width="128">
+						<color r="255" g="255" b="255">Afrika</color>
+						<br/>
+						<img src="ui/icon_maplocations/savannah_africa.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+					</cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Klasse: zoogdieren <i>(Mammalia)</i>
+                  <br/>
+                  Orde: evenhoevigen <i>(Artiodactyla)</i>
+                  <br/>
+                  Familie: holhoornigen <i>(Bovidae)</i>
+                  <br/>
+                  Geslacht: <i>Syncerus</i>
+                  <br/>
+                  Soort: <i>caffer</i>
+                  </color>
+               </cell>
+					 <cell width="256" pady="10">
+					  <img src="UI/zoopedia/biome/wetlands_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+					 </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Interessante feiten over de Afrikaanse buffel</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">De Afrikaanse buffel is een grazende herbivoor die hoofdzakelijk van gras leeft.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">De grootste vijand van de Afrikaanse buffel is de leeuw.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Wanneer een lid van de kudde wordt aangevallen, komen de andere buffels het dier verdedigen.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">De hoorns van de mannetjesbuffel zijn door een soort beschermplaat met elkaar verbonden.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>               
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">De Afrikaanse buffel is een sociaal dier dat in grote kuddes rondtrekt.</color>
+               </cell>                   
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">De Afrikaanse buffel komt in de modus Uitdaging of Campagne beschikbaar zodra je dierentuin een bekendheidsscore van 0,5 ster bereikt.</color>
+            <p/>De Afrikaanse buffel (ook wel Kaapse buffel genoemd) is een wild inheems rund. Net als rundvee en sommige andere evenhoevigen is de buffel een herkauwer met gekloofde hoeven en vaste hoorns. De buffel is echter een stuk groter en sterker dan ons rundvee.
+            <p/>De Afrikaanse buffel, die in het grootste deel van zuidelijk en centraal Afrika voorkomt, is een groot en imposant dier dat vaak als het gevaarlijkste dier van al het groot Afrikaans wild wordt beschouwd. De buffel weegt 500 tot 900 kg en heeft een schofthoogte van ongeveer 1,7 meter. De buffel staat bekend om zijn hoorns, die onderaan zo breed zijn dat ze een soort helm over het voorhoofd vormen. De hoorns kunnen ongeveer 1 meter lang worden.
+            <p/>De Afrikaanse buffel leeft zowel in dorre savannes als regenwouden, moerasgebieden, rietvlakten en hooggelegen graslanden. De buffelpopulatie is in veel gebieden flink uitgedund door de jacht, nieuwe nederzettingen, landbouw en de virusziekte runderpest. Toch zijn er nog ruim een miljoen exemplaren in de vrije natuur te vinden.
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Inhoud gebaseerd op <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft® Encarta® 2006.</color></u></a> © 1993-2005 Microsoft Corporation. Alle rechten voorbehouden.
+         </cell>         
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_caracal:entry">Karakal</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_caracal:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/Caracal/Caracal_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>							 
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Status in het wild:
+                     <br/>
+                        <color r="170" g="255" b="0">
+                     enigszins bedreigd
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+				 <cell width="128">
+				  <color r="255" g="255" b="255">Struiksavanne<br/></color>
+				  <img src="ui/icon_biomes/icon_scrub.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+				 </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Afrika en Azië</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/Scrub_Africa_Asia.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Klasse: zoogdieren <i>(Mammalia)</i>
+                  <br/>
+                  Orde: carnivoren <i>(Carnivora)</i>
+                  <br/>
+                  Familie: katachtigen <i>(Felidae)</i>
+                  <br/>
+                  Geslacht: <i>Caracal</i>
+                  <br/>
+                  Soort: <i>caracal</i>
+                  </color>
+               </cell>
+				 <cell width="256" pady="10">
+				  <img src="UI/zoopedia/biome/scrub_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+				 </cell>	
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Interessante feiten over de karakal</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Karakallen zijn de snelste katachtigen van deze grootte.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Ze zijn bijzonder snelle jagers en vangen soms zelfs laagvliegende vogels uit de lucht!</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Hoewel de karakal soms ook wel 'woestijnlynx' wordt genoemd, is hij niet verwant aan de lynxenfamilie.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Wanneer een karakal een dier doodt dat hij niet in één keer kan opeten, sleept hij het karkas in een boom, zodat andere dieren er niet bij kunnen.</color>
+               </cell>                  
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">De karakal komt in de modus Uitdaging of Campagne beschikbaar zodra je dierentuin een bekendheidsscore van 4,5 sterren bereikt.</color>
+            <p/>De karakal, ook wel woestijnlynx genoemd, is een katachtige die voorkomt in de savannes en droge, rotsachtige heuvels van Afrika en Azië. De romp en de kop van de karakal zijn samen 60 tot 92 cm lang en hij heeft een staart met een lengte van 23 tot 31 cm. Het dier heeft een schofthoogte van 38 tot 50 cm en weegt 13 tot 19 kg. De karakal heeft een roodbruine vacht, een witte buik en plukken zwart haar op de punten van zijn oren ('karakal' is Turks voor 'zwarte oren'). De karakal jaagt op knaagdieren, vogels en kleine antilopen. In India en Iran wordt de karakal soms tam gemaakt en gebruikt voor de jacht omdat het dier zo snel en behendig is. De karakal valt ook broedende vogels in boomtoppen en soms zelfs adelaars aan. Door de intensieve jacht op de karakal is hij nu erkend als bedreigde diersoort.
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Inhoud gebaseerd op <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft® Encarta® 2006.</color></u></a> © 1993-2005 Microsoft Corporation. Alle rechten voorbehouden.
+         </cell>         
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_gelada:entry">Geladabaviaan</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_gelada:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/Gelada/Gelada_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/Gelada/Gelada_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/vulnerable.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Status in het wild:
+                     <br/>
+                        <color r="255" g="255" b="0">
+                     kwetsbaar
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+					 <cell width="128">
+					  <color r="255" g="255" b="255">Berggebied<br/></color>
+					  <img src="ui/icon_biomes/icon_alpine.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+					 </cell>
+					<cell width="128">
+						<color r="255" g="255" b="255">Ethiopië</color>
+						<br/>
+						<img src="ui/icon_maplocations/Alpine_Africa_NorthEast.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+					</cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Klasse: zoogdieren <i>(Mammalia)</i>
+                  <br/>
+                  Orde: primaten <i>(Primata)</i>
+                  <br/>
+                  Familie: meerkatachtigen <i>(Cercopithecidae)</i>
+                  <br/>
+                  Geslacht: <i>Theropithecus</i>
+                  <br/>
+                  Soort: <i>gelada</i>
+                  </color>
+               </cell>
+					 <cell width="256" pady="10">
+					  <img src="UI/zoopedia/biome/alpine_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+					 </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Interessante feiten over de geladabaviaan</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Hoewel het mannetje in geladafamilies centraal staat, spelen ze geen dominante rol. De vrouwtjes zijn kleiner dan de mannetjes, maar als groep staan ze sterk en dat weten ze maar al te goed.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Wanneer er roofdieren in de buurt zijn, laat de mannetjesgelada een tweetonig geblaf horen dat als 'wahoe' klinkt.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">De sociale structuur van geladafamilies is bijzonder complex en het onderhouden van sociale contacten vereist heel wat communicatie. De taal van de geladabaviaan kent 27 verschillende geluiden, aangevuld met communicatie door aanrakingen en allerlei verschillende gezichtsuitdrukkingen.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">De jongere mannetjes hangen vaak in de buurt van de geladafamilie rond en trekken er uiteindelijk met een paar jongere vrouwtjes op uit om een nieuwe familie te stichten.</color>
+               </cell>                  
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">Om de gelada in een campagne- of uitdagingenspel te ontgrendelen, moet je 3 1/2 sterren voor je dierentuin verdienen.</color>
+            <p/>De geladabaviaan is nauw verwant aan de baviaan. Hij onderscheidt zich echter van de baviaan door de structuur van zijn neusgaten, die verder van zijn bovenlip afstaan dan bij de baviaan. De volwassen mannetjesgelada heeft een opvallende bos haar die zijn kop bedekt en over zijn rug hangt.
+
+<p/>De geladabaviaan is een Afrikaans dier dat hoofdzakelijk in de hooggelegen graslanden van Ethiopië leeft. Het dier komt alleen op hoogten tussen 1400 en 4400 meter boven zeeniveau voor. De geladabaviaan leeft bijna alleen van gras, aangevuld met wat plantenwortels, bolgewassen en af en toe een peul of een insect. Door de beperkte variatie in zijn voeding is het dier het grootste deel van de dag aan het grazen.
+
+<p/>De sociale structuur van geladabavianen is gebaseerd op groepen van een groot aantal families waarin het mannetje centraal staat. De mannetjesgelada paart soms wel met twaalf vrouwtjes tegelijk. Deze familie-eenheden met één mannetje als middelpunt vormen samen grotere groepen van honderden gelada's die samen grazen en soms in combinatie met andere groepen nog grotere groepen vormen.
+            
+         </cell>         
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_gerenuk:entry">Gerenoek</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_gerenuk:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/Gerenuk/Gerenuk_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/Gerenuk/Gerenuk_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Status in het wild:
+                     <br/>
+                        <color r="170" g="255" b="0">
+                     enigszins bedreigd
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+				 <cell width="128">
+				  <color r="255" g="255" b="255">Struiksavanne<br/></color>
+				  <img src="ui/icon_biomes/icon_scrub.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+				 </cell>	
+               <cell width="128">
+                  <color r="255" g="255" b="255">Afrika</color>
+                  <br/>
+						<img src="ui/icon_maplocations/savannah_africa.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Klasse: zoogdieren <i>(Mammalia)</i>
+                  <br/>
+                  Orde: evenhoevigen <i>(Artiodactyla)</i>
+                  <br/>
+                  Familie: holhoornigen <i>(Bovidae)</i>
+                  <br/>
+                  Geslacht: <i>Litocranius</i>
+                  <br/>
+                  Soort: <i>walleri</i>
+                  </color>
+               </cell>
+				 <cell width="256" pady="10">
+				  <img src="UI/zoopedia/biome/scrub_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+				 </cell>	
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Interessante feiten over de gerenoek</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">De naam gerenoek betekent 'giraffennek' in het Somalisch.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Gerenoeks kunnen planten eten die 2 tot 3 meter boven de grond groeien.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Aangezien gerenoeks alleen hoog groeiende planten eten, kunnen ze vreedzaam samenleven met dieren die lager groeiende planten eten.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Tijdens het paringsritueel benadert de mannetjesgerenoek het vrouwtje en tikt hij met een van zijn voorpoten herhaaldelijk op haar buik.</color>
+               </cell>                
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">De gerenoek komt in de modus Uitdaging of Campagne beschikbaar zodra je dierentuin een bekendheidsscore van 2 sterren bereikt.</color>
+            <p/>De gerenoek wordt ook wel girafgazelle genoemd en is dan ook verwant aan de gazelle. In tegenstelling tot andere gazellensoorten heeft de gerenoek een lange nek en een hardere schedel. Alleen de mannetjes hebben hoorns.
+
+Gerenoeks leven in kleine groepen. Er zijn groepen van vrouwtjes met hun jongen en groepen die uitsluitend uit mannetjes bestaan. De mannetjes verdedigen doorgaans een vast territorium, terwijl de vrouwtjesgroepen vaak rondtrekken en daarbij territoria van verschillende mannetjesgroepen doorkruisen. De gerenoek kent geen specifiek paarseizoen. Aangezien deze dieren flexibele eters zijn, kunnen ze in elk seizoen paren.
+
+Gerenoeks zijn herbivoren en profiteren van hun lange nek om hoog groeiende planten te kunnen bereiken. Ze gaan bij het eten soms zelfs op hun achterpoten staan om boomtakken vervolgens met hun voorpoten omlaag te trekken. Gerenoeks worden belaagd door jachtluipaarden, luipaarden, leeuwen en jakhalzen.
+         </cell>        
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_giraffemasai:entry">Giraffe, massai-</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_giraffemasai:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/GiraffeMasai/GiraffeMasai_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>							 
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Status in het wild:
+                     <br/>
+                        <color r="170" g="255" b="0">
+                     enigszins bedreigd
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+				 <cell width="128">
+				  <color r="255" g="255" b="255">Savanne<br/></color>
+				  <img src="ui/icon_biomes/icon_savannah.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+				 </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255"> 	  				Afrika</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/savannah_africa.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Klasse: zoogdieren <i>(Mammalia)</i>
+                  <br/>
+                  Orde: evenhoevigen <i>(Artiodactyla)</i>
+                  <br/>
+                  Familie: giraffen <i>(Giraffidae)</i>
+                  <br/>
+                  Geslacht: <i>Giraffa</i>
+                  <br/>
+                  Soort: <i>camelopardalis</i>
+                  <br/>
+                  Ondersoort: <i>tippelskirchi</i>                  
+                  </color>
+               </cell>
+				 <cell width="256" pady="10">
+				  <img src="UI/zoopedia/biome/savannah_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+				 </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Interessante feiten over de massaigiraffe</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">De massaigiraffe is het hoogste landdier ter wereld.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Hij is ook het grootste herkauwende hoefdier ter wereld. (Ook koeien zijn herkauwende hoefdieren.)</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Een moedergiraffe staat boven haar kalf en verdedigt dit met haar scherpe hoeven tegen leeuwen en hyena's.</color>
+               </cell>                   
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">Om de massaigiraffe in een campagne- of uitdagingsspel te ontgrendelen, moet je 1 ster voor je dierentuin verdienen.</color>
+            <p/>De massaigiraffe is een van de negen ondersoorten van de giraffenfamilie. Giraffen hebben een kortharige, dikke vacht met een complex patroon van geelbruine vlekken. Dankzij deze kleurencombinatie zijn giraffen tussen bomen en bladeren moeilijk door roofdieren te herkennen. Hoewel elke giraffe een uniek vlekkenpatroon heeft, vertonen de patronen binnen bepaalde gebieden vaak dusdanige overeenkomsten dat zoölogen op basis van deze patronen een aantal ondersoorten hebben vastgesteld. Een van de meest opvallende ondersoorten is de netgiraffe, die smalle lichte lijnen tussen zijn grote bruine vlekken heeft. Zodoende ontstaat een soort klinkerpatroon. De massaigiraffe heeft vlekken met een complexe, hoekige omtrek. De vacht van elke giraffe wordt steeds donkerder naarmate hij ouder wordt. In gevangenschap worden giraffen soms wel 35 jaar oud, maar in de vrije natuur hebben ze een maximale levensverwachting van ongeveer 25 jaar.
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Inhoud gebaseerd op <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft® Encarta® 2006.</color></u></a> © 1993-2005 Microsoft Corporation. Alle rechten voorbehouden.
+         </cell>         
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_hippopotamuspygmy:entry">Nijlpaard, dwerg-</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_hippopotamuspygmy:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/HippopotamusPygmy/HippopotamusPygmy_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>							 
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/critical.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Status in het wild:
+                     <br/>
+                        <color r="255" g="0" b="0">
+                     ernstig bedreigd
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+               <cell width="128">
+                  <color r="255" g="255" b="255">Tropisch regenwoud<br/></color>
+                  <img src="ui/icon_biomes/icon_tropicalrainforest.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+               </cell> 
+               <cell width="128">
+                  <color r="255" g="255" b="255">Centraal Afrika</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/Rainforest_Africa_central.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Klasse: zoogdieren <i>(Mammalia)</i>
+                  <br/>
+                  Orde: evenhoevigen <i>(Artiodactyla)</i>
+                  <br/>
+                  Familie: nijlpaarden <i>(Hippopotamidae)</i>
+                  <br/>
+                  Geslacht: <i>Hexaprotodon</i>
+                  <br/>
+                  Soort: <i>liberiensis</i>
+                  <br/>
+                  Ondersoort: <i>heslopi</i>                  
+                  
+                  </color>
+               </cell>
+               <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/tropicalrainforest_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+               </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Interessante feiten over het dwergnijlpaard</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">De meeste dwergnijlpaarden die tegenwoordig in Amerikaanse dierentuinen te zien zijn, stammen af van een dwergnijlpaard dat in 1927 aan president Calvin Coolidge werd geschonken.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Bij hun geboorte kunnen dwergnijlpaarden nog niet zwemmen. Dit moeten ze van hun moeder leren.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Dwergnijlpaarden scheiden een witte olieachtige substantie af die hun huid beschermt tijdens de vele uren die ze in het water doorbrengen.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Afgezien van het gewone nijlpaard zijn varkens en zwijnen de nauwste verwanten van het dwergnijlpaard.</color>
+               </cell>                 
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">Het dwergnijlpaard komt in de modus Uitdaging of Campagne beschikbaar zodra je dierentuin een bekendheidsscore van 4 sterren bereikt.</color>
+            <p/>Het meest opvallende verschil tussen het dwergnijlpaard en het gewone nijlpaard is uiteraard hun omvang. Dwergnijlpaarden hebben een schofthoogte van slechts 80 cm en wegen150 tot 250 kg. Dat klinkt voor een mens misschien zwaar, maar het gewone nijlpaard kan een gewicht van wel 3.500 kg bereiken.
+
+<p/>We weten veel minder over de habitat van dwergnijlpaarden dan over die van hun grote neef. Dwergnijlpaarden zijn niet alleen zeldzaam, maar bovendien solitaire nachtdieren die alleen om te paren gezelschap zoeken. Het is dus niet makkelijk om ze in de vrije natuur tegen te komen. In tegenstelling tot het gewone nijlpaard, dat zo'n beetje overal op het Afrikaanse continent voorkomt, is het dwergnijlpaard slechts in een klein gebied in westelijk Afrika te vinden.
+
+<p/>Net als andere nijlpaarden is ook het dwergnijlpaard een herbivoor. Het dier leeft van gras, sappige planten, gevallen vruchten en andere lage begroeiing.
+
+<p/>Het dwergnijlpaard heeft in de vrije natuur veel te lijden gehad van activiteiten van de mens. De populatie is geslonken door de jacht en de vernietiging van zijn habitat. De populatie in dierentuinen is echter stabiel.
+         </cell>        
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_hyenastriped:entry">Hyena, gestreepte</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_hyenastriped:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/HyenaStriped/HyenaStriped_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>							 
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Status in het wild:
+                     <br/>
+                        <color r="170" g="255" b="0">
+                     enigszins bedreigd
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+               <cell width="128">
+                  <color r="255" g="255" b="255">Woestijn<br/></color>
+                  <img src="ui/icon_biomes/icon_desert.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+               </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">	Noord-Afrika</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/Desert_Africa_North.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Klasse: zoogdieren <i>(Mammalia)</i>
+                  <br/>
+                  Orde: carnivoren <i>(Carnivora)</i>
+                  <br/>
+                  Familie: hyena's <i>(Hyaenidae)</i>
+                  <br/>
+                  Geslacht: <i>Hyaena</i>
+                  <br/>
+                  Soort: <i>hyaena</i>
+                  </color>
+               </cell>
+               <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/desert_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+               </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Interessante feiten over de gestreepte hyena</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">De gestreepte hyena weet soms luipaarden en jachtluipaarden weg te jagen van zijn voedsel, maar laat zijn voedsel wel altijd stelen door de grotere gevlekte hyena.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">In sommige dorpen in Afrika laat men het vuilnis 's nachts buiten staan zodat gestreepte hyena's hiervan kunnen eten.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Gestreepte hyena's eten zelden met elkaar samen in een groep omdat ze de concurrentiestrijd om voedsel liever uit de weg gaan.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Hoewel de gestreepte hyena hoofdzakelijk van karkassen leeft, hapt hij soms ook motten of andere insecten uit de lucht.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">De gestreepte hyena gaat woestijnen uit de weg en zorgt er altijd voor dat er een waterbron in de buurt is (op een afstand van maximaal 10 km).</color>
+               </cell>                 
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">De gestreepte hyena komt in de modus Uitdaging en Campagne beschikbaar zodra je dierentuin een bekendheidsscore van 4 sterren bereikt.</color>
+            <p/>De hyena is een hondachtige carnivoor en een berucht aaseter. Hyena's hebben sterke klauwen waarmee ze grote botten kunnen breken die voor andere roofdieren oneetbaar zijn. Het leefgebied van de hyena strekt zich uit van Afrika en het Midden-Oosten tot aan zuidwestelijk Azië, inclusief India. Tijdens de prehistorie maakte de hyena ook Europa onveilig. Hun habitat bestaat doorgaans uit open vlakten en graslanden, maar ze zijn soms ook te vinden in rotsachtige gebieden, gebieden met struikgewassen en niet al te dicht begroeide bossen.
+
+<p/>Er zijn drie verschillende hyenasoorten: de gevlekte hyena, de gestreepte hyena en de bruine hyena. De gevlekte hyena is de grootste van deze drie. Gestreepte hyena's worden 1,2 tot 1,5 meter lang (inclusief een staart van 30 cm) en wegen 25 tot 55 kg. Gestreepte hyena's zijn geelbruin van kleur, met donkere strepen en rechtopstaande manen in hun nek en op hun rug.
+
+<p/>Alle hyena's hebben een opvallend schuin aflopende rug door het verschil in lengte tussen hun grote, gespierde voorpoten en hun kleinere achterpoten. Elke poot heeft vier tenen met niet-intrekbare klauwen, die goed van pas komen wanneer ze over de open vlakten rennen. Hyena's hebben een kleine kop met indrukwekkende kaken en tanden. De gestreepte hyena gebruikt de twee opvallende anale klieren onder zijn lange, borstelige staart om een geurspoor uit te zetten.
+
+<p/>Hyena's zijn hoofdzakelijk 's nachts actief en eten meestal de resten van karkassen die door andere roofdieren zijn achtergelaten. Ze zijn in staat door dikke huiden heen te bijten en grote botten te verteren. Onverteerbaar materiaal, zoals haar, hoeven en hoorns, vormen zich in het spijsverteringskanaal tot ballen die vervolgens worden uitgebraakt. Hyena's doden ook zelf prooi. Ze kunnen een snelheid van wel 65 km per uur bereiken en vallen in hun eentje schapen, geiten, gnoes en andere dieren aan. Wanneer ze een zebra aanvallen, vormen ze soms troepen van wel tien of meer dieren.
+
+<p/>Hyena's leven meestal in clans met een sterk territoriumgevoel die rond gezamenlijke holen zijn gecentreerd. Een clan bestaat doorgaans uit 10 of 12 vrouwtjes, 20 welpen en een aantal mannetjes die in de buurt van de clan rondhangen. Er is geen sprake van overduidelijke paarvorming en het vrouwtje, dat groter is dan het mannetje, bepaalt de partnerkeuze. Vrouwtjes kunnen het hele jaar door drachtig worden en werpen één tot vijf welpen na een draagtijd van 92 tot 110 dagen.
+
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Inhoud gebaseerd op <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft® Encarta® 2006.</color></u></a> © 1993-2005 Microsoft Corporation. Alle rechten voorbehouden.
+         </cell>         
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_mandrill:entry">Mandril</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_mandrill:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/Mandrill/Mandrill_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/Mandrill/Mandrill_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/vulnerable.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Status in het wild:
+                     <br/>
+                        <color r="255" g="255" b="0">
+                     kwetsbaar
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+               <cell width="128">
+                  <color r="255" g="255" b="255">Tropisch regenwoud<br/></color>
+                  <img src="ui/icon_biomes/icon_tropicalrainforest.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+               </cell> 
+               <cell width="128">
+                  <color r="255" g="255" b="255">Centraal Afrika</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/Rainforest_Africa_central.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Klasse: zoogdieren <i>(Mammalia)</i>
+                  <br/>
+                  Orde: primaten <i>(Primata)</i>
+                  <br/>
+                  Familie: meerkatachtigen<i>(Cercopithecidae)</i>
+                  <br/>
+                  Geslacht: <i>Mandrillus</i>
+                  <br/>
+                  Soort: <i>sphinx</i>
+                  </color>
+               </cell>
+               <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/tropicalrainforest_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+               </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Interessante feiten over de mandril</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">De mannetjesmandril is het meest kleurrijke zoogdier ter wereld.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Mandrils kunnen grote hoeveelheden voedsel in hun wangzakken bewaren. Wanneer ze hun vier poten nodig hebben om aan een roofdier te ontkomen, kunnen ze hun voedsel in deze wangzakken stoppen en ervandoor gaan.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Hoewel de mandril in het bos leeft, verblijft het dier voornamelijk op de grond. De mandril klimt alleen in bomen om voor roofdieren te vluchten en om te slapen.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">De grootste vijand van de mandril is het luipaard.</color>
+               </cell>                  
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">De mandril komt in de modus Uitdaging en Campagne beschikbaar zodra je dierentuin een bekendheidsscore van 4,5 sterren bereikt.</color>
+            <p/>De mandril is een op de grond levende bavianensoort uit de tropen van West-Afrika. Het zware, gespierde lichaam van de mandril heeft korte, sterke poten en een zachte, olijfbruine vacht met een grijze buik. Verder heeft hij nog een gele baard rond zijn kin en een gele kuif op zijn kop. Hij heeft een opvallende oogbrug en kleine, dicht bij elkaar staande en diep verzonken ogen. De enorme hondachtige tanden maken de mandril nog indrukwekkender. Over zijn snuit, die voor zijn ogen uitsteekt, bevinden zich benige ribbels bedekt met naakte huid de in de lengte is geplooid. De kop en romp kunnen bij volwassen dieren samen een lengte van 90 cm bereiken. De staart is niet meer dan een stompje. De vrouwtjes zijn minder opvallend gekleurd dan de mannetjes en zijn meestal ook kleiner en slanker.
+
+<p/>Een volwassen mannetjesmandril onderscheidt zich door zijn unieke, felgekleurde gezichtstekening. De snuitplooien zijn felblauw, omgeven door zwart, en de neus is knalrood over de volle lengte. De blauwe kleur houdt verband met de structuur van de huid, terwijl de rode kleur aan huidpigment is toe te schrijven. De kleine, spitse oren zijn blauwzwart en de baard en wangen zijn witgeel. Het achterwerk van de mandril en de binnenkant van zijn poten zijn onbedekt en dus felrood met lila, blauwe of zwarte accenten. De mannetjes zijn volgroeid als ze ongeveer negen jaar oud zijn.
+
+<p/>De mandril vormt een bedreigde diersoort door de jacht en de vernietiging van zijn habitat.       
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Inhoud gebaseerd op <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft® Encarta® 2006.</color></u></a> © 1993-2005 Microsoft Corporation. Alle rechten voorbehouden.
+         </cell>         
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_meerkat:entry">Stokstaartje</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_meerkat:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/Meerkat/Meerkat_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>							 
+						 <cell width="156"/>						 
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Status in het wild:
+                     <br/>
+                        <color r="170" g="255" b="0">
+                     enigszins bedreigd
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+				 <cell width="128">
+				  <color r="255" g="255" b="255">Struiksavanne<br/></color>
+				  <img src="ui/icon_biomes/icon_scrub.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+				 </cell>	
+               <cell width="128">
+                  <color r="255" g="255" b="255">Zuidelijk Afrika</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/Savannah_Africa_South.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Klasse: zoogdieren <i>(Mammalia)</i>
+                  <br/>
+                  Orde: carnivoren <i>(Carnivora)</i>
+                  <br/>
+                  Familie: civetkatachtigen <i>(Viverridae)</i>
+                  <br/>
+                  Geslacht: <i>Suricata</i>
+                  <br/>
+                  Soort: <i>suricatta</i>
+                  <br/>
+                  Ondersoort: <i>suricata</i>                  
+                  </color>
+               </cell>
+				 <cell width="256" pady="10">
+				  <img src="UI/zoopedia/biome/scrub_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+				 </cell>	
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Interessante feiten over het stokstaartje</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Stokstaartjes zijn sociale dieren die in groepen leven, waarbij ze hetzelfde toilet gebruiken en op elkaars jongen passen.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Een groep stokstaartjes bestaat meestal uit vijf tot dertig dieren.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Aangezien stokstaartjes door veel roofdieren als een lekker hapje tussendoor worden gezien, staat er altijd een stokstaartje op wacht wanneer de anderen slapen of eten.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Het stokstaartje eet kevers, spinnen, duizendpoten, krekels en schorpioenen (stokstaartjes zijn immuun voor hun gif).</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>               
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Het stokstaartje gebruikt zijn staart om in balans te blijven en om met andere leden van zijn groep te communiceren.</color>
+               </cell>                   
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">Het stokstaartje komt in de modus Uitdaging en Campagne beschikbaar zodra je dierentuin een bekendheidsscore van 3,5 sterren bereikt.</color>
+            <p/>Het stokstaartje, ook wel aardmannetje genoemd. is een klein roofdier dat tot de mangoesten behoort en in zuidelijk Afrika leeft. Stokstaartjes vallen op door hun rechtopstaande houding en hun sociale gewoonten.
+
+<p/>Stokstaartjes leven doorgaans in droge, open gebieden en savannes. Hun leefgebied strekt zich uit van zuidwestelijk Angola tot aan Zuid-Afrika. Deze sociale dieren leven in kolonies, meestal op plaatsen met een zanderige grond, waar ze complexe ondergrondse holen kunnen graven.
+
+<p/>Stokstaartjes zijn ongeveer 25 tot 35 cm lang (exclusief staart). Ze zijn slanker dan de meeste andere mangoesten. Het stokstaartje heeft een spitse snuit en een zilverbruine vacht en er lopen onregelmatige donkere strepen over zijn romp. Ze hebben witte gezichtjes met donkere markeringen op de oren en rond de ogen. In tegenstelling tot de meeste mangoesten hebben stokstaartjes aan elke poot vier in plaats van vijf tenen.
+
+<p/>Stokstaartjes gaan alleen overdag op zoek naar voedsel en eten hoofdzakelijk insecten, met name kevers, spinnen en duizendpoten. Soms eten ze ook kleine gewervelde dieren, eieren en plantenwortels. Stokstaartjes krijgen doorgaans twee tot vier jongen die na een draagtijd van ongeveer elf weken vaak in de herfst of vroeg in de winter worden geboren. Zowel de vrouwtjes als de mannetjes verzorgen en bewaken hun nakomelingen.
+
+<p/>Stokstaartjes staan meestal recht op hun achterpoten of zelfs op hun tenen om aan de wind te ruiken of er rovers op de loer liggen. Ze hebben een uitstekend gezichtsvermogen en kunnen ten minste tien verschillende geluiden produceren, waaronder een alarmgeblaf.
+
+<p/>Aangezien stokstaartjes dragers van hondsdolheid kunnen zijn, is er in gebieden waar ze een bedreiging voor mensen vormen veel op hen gejaagd en zijn ze vaak in hun holen vergast. Dit heeft echter niet tot een significante afname van de populatie geleid. In Zuid-Afrika worden deze aanhankelijke en makkelijk te temmen dieren vaak als huisdier gehouden.
+
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Inhoud gebaseerd op <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft® Encarta® 2006.</color></u></a> © 1993-2005 Microsoft Corporation. Alle rechten voorbehouden.
+         </cell>         
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_monitornile:entry">Varaan, nijl-</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_monitornile:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/MonitorNile/MonitorNile_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>							 
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Status in het wild:
+                     <br/>
+                        <color r="170" g="255" b="0">
+                     enigszins bedreigd
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+               <cell width="128">
+                  <color r="255" g="255" b="255">Moeras<br/></color>
+                  <img src="ui/icon_biomes/icon_wetlands.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+               </cell>
+					<cell width="128">
+						<color r="255" g="255" b="255">Afrika</color>
+						<br/>
+						<img src="ui/icon_maplocations/Savannah_Africa.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+					</cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Klasse: reptielen <i>(Reptilia)</i>
+                  <br/>
+                  Orde: schubreptielen <i>(Squamata)</i>
+                  <br/>
+                  Familie: nijlvaranen<i>(Varanidae)</i>
+                  <br/>
+                  Geslacht: <i>Varanus</i>
+                  <br/>
+                  Soort: <i>niloticus</i>
+                  </color>
+               </cell>
+					 <cell width="256" pady="10">
+					  <img src="UI/zoopedia/biome/wetlands_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+					 </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Interessante feiten over de nijlvaraan</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">De nijlvaraan is de grootste hagedissensoort van Afrika.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Nijlvaranen zijn verwant aan de komodovaraan, die tegenwoordig de grootste hagedissensoort ter wereld is.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Nijlvaranen zijn verwant aan mosasauriërs, gigantische zeereptielen die miljoenen jaren geleden op aarde voorkwamen.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Ondanks hun korte poten kunnen nijlvaranen heel hard rennen.</color>
+               </cell>
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">De nijlvaraan komt in de modus Uitdaging of Campagne beschikbaar zodra je dierentuin een bekendheidsscore van 1,5 ster bereikt.</color>
+            <p/>Nijlvaranen behoren tegenwoordig tot de grootste hagedissensoorten ter wereld. Ze zijn agressief van aard en hebben enorm veel kracht in hun kaken, poten en staart. Ze gebruiken hun staart vaak om prooi te vangen en ook tijdens gevechten met andere varanen.
+
+<p/>Nijlvaranen zijn carnivoren en slikken hun prooi net als slangen doorgaans volledig door. Hun voeding is redelijk gevarieerd: ze eten sprinkhanen en kevers, maar ook vogels, vissen, knaagdieren en zelfs andere hagedissen.
+
+<p/>De nijlvaraan leeft in de buurt van rivieren en stromen in Afrika ten zuiden van de Sahara. Ze kunnen bijna 2 meter lang worden. Hoewel ze meestal op de grond in de buurt van water te vinden zijn, klimmen ze soms ook in bomen om eieren uit vogelnesten te roven.
+
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_ratel:entry">Honingdas</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_ratel:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/Ratel/Ratel_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>						 
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Status in het wild:
+                     <br/>
+                        <color r="170" g="255" b="0">
+                     enigszins bedreigd
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+               <cell width="128">
+                  <color r="255" g="255" b="255">Weide<br/></color>
+                  <img src="ui/icon_biomes/icon_grassland.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+               </cell>
+					<cell width="128">
+						<color r="255" g="255" b="255">Afrika en Azië</color>
+						<br/>
+						<img src="ui/icon_maplocations/Grassland_Africa_Asia.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+					</cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Klasse: zoogdieren <i>(Mammalia)</i>
+                  <br/>
+                  Orde: carnivoren <i>(Carnivora)</i>
+                  <br/>
+                  Familie: marterachtigen <i>(Mustelidae)</i>
+                  <br/>
+                  Geslacht: <i>Mellivora</i>
+                  <br/>
+                  Soort: <i>capensis</i>
+                  </color>
+               </cell>
+               <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/grassland_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+               </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Interessante feiten over de honingdas</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">De honingdas heeft korte poten, maar een enorm uithoudingsvermogen. Soms jaagt de honingdas een groter dier net zo lang op tot dit van uitputting in elkaar zakt.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Ook slagen honingdassen er soms in om jonge leeuwen van hun prooi weg te jagen om vervolgens zelf het voedsel in te pikken.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">De honingdas heeft niet veel natuurlijke vijanden. Zijn dikke huid is zelfs bestand tegen slangenbeten.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">De oren van de honingdas zijn in de huid verzonken zodat er bij het graven van holen geen zand in kan komen.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Honingdassen laten soms stinkende uitwerpselen achter om roofdieren op afstand te houden. Ook gebruiken honingdassen hun onaangename geurspoor om bijen uit hun korf te jagen en zo toegang tot de honing te krijgen.</color>
+               </cell>                
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">De honingdas komt in de modus Uitdaging of Campagne beschikbaar zodra je dierentuin een bekendheidsscore van 2 sterren bereikt.</color>
+            <p/>De honingdas, ook wel ratel genoemd, is een middelgroot, marterachtig zoogdier dat in de vrije natuur van Afrika en delen van Azië voorkomt. De honingdas heeft zijn naam te danken aan zijn voorkeur voor honing, maar is ook een dappere vechtjas die cobra's, vee en zelfs bizons durft aan te vallen.
+
+<p/>Honingdassen komen niet alleen in het grootste deel van Afrika voor, maar ook in zuidelijk en centraal Azië, van het oosten van het Arabisch schiereiland tot aan India en Nepal. Ze leven zowel in bossen als op open graslanden en in droge savannes.
+
+<p/>Honingdassen hebben een gespierd lichaam met een lengte van 60 tot 77 cm, exclusief zijn 20 tot 30 cm lange staart. Ze wegen maximaal ongeveer 13 kg. De honingdas heeft een bijzondere tekening. De kop, nek en rug zijn bedekt met een grove, grijswitte vacht, terwijl het gezicht, de poten, de buik en de korte wollige staart egaal zwart zijn. Heel soms is de honingdas helemaal zwart. Hun korte poten en hun grote, sterke klauwen zijn bijzonder geschikt om mee te graven.
+
+<p/>Het doden van een honingdas is niet gemakkelijk. Hij heeft een bijzonder dikke huid die los om hun zijn lichaam hangt zodat hij niet gemakkelijk door andere dieren kan worden vastgepakt. Dierenbeten, bijensteken en steken van stekelvarkens dringen meestal niet door de dikke huid van de honingdas. Bovendien worden roofdieren ook afgeschrikt door de stinkende geur die de honingdas via zijn anale klieren afscheidt.
+
+<p/>De honingdas heeft zijn naam te danken aan zijn voorkeur voor honing. In delen van Afrika weet de honingdas bijennesten te vinden met behulp van de honingvogel, die bijenlarven eet. Wanneer de honingvogel een bijennest vindt, laat hij een reeks speciale geluiden horen waarmee hij de honingdas naar het nest leidt. De honingdas breekt het nest vervolgens met zijn sterke poten, klauwen en tanden open, waarna beide dieren zich aan de inhoud van het nest te goed kunnen doen. De honingdas eet verder ook insecten, eieren, vogels, hagedissen, slangen, planten en kleine zoogdieren. Het dier kan zowel overdag als 's nachts op zoek gaan naar voedsel.
+
+<p/>Honingdassen leven in ondergrondse holen die ze met hun sterke poten en klauwen graven. Ze leven in groepen, maar gaan vaak alleen of met z'n tweeën op jacht. Pas maanden na het paren beginnen de bevruchte eieren zich in de vrouwtjesdas te ontwikkelen. De draagtijd wordt, inclusief deze zogenaamde wachttijd, op ongeveer zes maanden geschat. Het vrouwtje baart één tot vier jongen, die ze vervolgens in een met gras beklede kamer grootbrengt.
+
+<p/>Honingdassen staan bekend om hun dapperheid: ze aarzelen niet om grote dieren als paarden, vee, antilopen en buffels aan te vallen als deze hun holen verstoren. Omdat de honingdas zich zo goed weet te verdedigen, is er nooit veel op het dier gejaagd om zijn vacht. Ondanks hun stoutmoedigheid worden honingdassen soms als huisdier gehouden: als ze op jonge leeftijd worden gevangen, kunnen ze namelijk heel tam en aanhankelijk worden. Toch blijft een volwassen honingdas een sterk en energiek dier. Het kan dan ook voorkomen dat hij kooien en andere zaken kapotmaakt of zonder duidelijke reden tot de aanval overgaat.
+
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Inhoud gebaseerd op <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft® Encarta® 2006.</color></u></a> © 1993-2005 Microsoft Corporation. Alle rechten voorbehouden.
+         </cell>         
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_rhinoceroswhite:entry">Neushoorn, witte</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_rhinoceroswhite:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/RhinocerosWhite/RhinocerosWhite_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>							 
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Status in het wild:
+                     <br/>
+                        <color r="170" g="255" b="0">
+                     enigszins bedreigd
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                       
+				 <cell width="128">
+				  <color r="255" g="255" b="255">Struiksavanne<br/></color>
+				  <img src="ui/icon_biomes/icon_scrub.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+				 </cell>	
+               <cell width="128">
+                  <color r="255" g="255" b="255">Zuidelijk Afrika</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/Scrub_Africa_South.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Klasse: zoogdieren <i>(Mammalia)</i>
+                  <br/>
+                  Orde: onevenhoevigen <i>(Perissodactyla)</i>
+                  <br/>
+                  Familie: neushoorns <i>(Rhinocerotidae)</i>
+                  <br/>
+                  Geslacht: <i>Ceratotherium</i>
+                  <br/>
+                  Soort: <i>simum</i>
+                  <br/>
+                  Ondersoort: <i>simum</i>                  
+                  </color>
+               </cell>
+				 <cell width="256" pady="10">
+				  <img src="UI/zoopedia/biome/scrub_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+				 </cell>	
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Interessante feiten over de witte neushoorn</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">De witte neushoorn is het grootste grazende dier ter wereld.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">De witte neushoorn is in feite helemaal niet wit. De naam is afgeleid van het Afrikaanse woord 'weit', dat 'breed' betekent en betrekking heeft op de vorm van zijn bek.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">De witte neushoorn heeft een bijzonder slecht gezichtsvermogen en gaat hoofdzakelijk op geuren af. Het reukkanaal van de witte neushoorn is zelfs groter dan zijn hersenen.</color>
+               </cell>                 
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">De witte neushoorn komt in de modus Uitdaging of Campagne beschikbaar zodra je dierentuin een bekendheidsscore van 2,5 sterren bereikt.</color>
+            <p/>De witte neushoorn, ook wel 'breedlipneushoorn' genoemd, is een van de vijf voorkomende neushoornsoorten. Drie soorten leven in Azië en de overige twee (de witte neushoorn en de zwarte neushoorn) leven in Afrika.
+
+<p/>De witte neushoorn is de grootste en tegelijk ook de meest vreedzame van alle neushoornsoorten. De zwarte neushoorn is maar half zo groot als de witte neushoorn, maar wel een stuk agressiever. Beide Afrikaanse neushoornsoorten hebben twee hoorns op hun neus. De hoorns bestaan niet uit bot, zoals bij koeien en antilopen het geval is, maar zijn afzettingen van keratinevezels, het materiaal waaruit ook haar bestaat.
+
+<p/>Alle neushoorns zijn herbivoren. Terwijl de zwarte neushoorn bladeren en twijgen eet, leeft de witte neushoorn nagenoeg uitsluitend van gras. De witte neushoorn eet zelfs zoveel gras dat hij als een van de weinige dieren als 'megaherbivoor' bekendstaat.
+         </cell>        
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_tortoiseafricanspurred:entry">Sporenschildpad, Afrikaanse</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_tortoiseafricanspurred:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/TortoiseAfricanSpurred/TortoiseAfricanSpurred_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/TortoiseAfricanSpurred/TortoiseAfricanSpurred_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/vulnerable.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Status in het wild:
+                     <br/>
+                        <color r="255" g="255" b="0">
+                     kwetsbaar
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+               <cell width="128">
+                  <color r="255" g="255" b="255">Woestijn<br/></color>
+                  <img src="ui/icon_biomes/icon_desert.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+               </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Noord-Afrika</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/Desert_Africa_North.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Klasse: reptielen <i>(Reptilia)</i>
+                  <br/>
+                  Orde: schildpadden<i>(Testudines)</i>
+                  <br/>
+                  Familie: landschildpadden<i>(Testudinidae)</i>
+                  <br/>
+                  Geslacht: <i>Geochelone</i>
+                  <br/>
+                  Soort: <i>sulcata</i>
+                  </color>
+               </cell>
+               <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/desert_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+               </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Interessante feiten over de Afrikaanse sporenschildpad</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Als het erg heet is, laat de Afrikaanse sporenschildpad speeksel over de voorkant van zijn lijf lopen om koel te blijven.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Hoewel de Afrikaanse sporenschildpad vezelrijk voedsel nodig heeft, is fruit slecht voor hem. De meeste producten op de groenten- en fruitafdeling van de supermarkt bevatten zelfs meer suiker of eiwit dan hun spijsverteringssysteem aankan.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">De Afrikaanse sporenschildpad is de op twee na grootste schildpaddensoort ter wereld. Alleen de Galapagos-reuzenschildpad en de Aldabra-schildpad zijn nog groter.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">In tegenstelling tot sommige andere schildpadsoorten houdt de Afrikaanse sporenschildpad geen winterslaap omdat de temperatuur in de Sahelwoestijn, waar hij vandaan komt, nooit ver genoeg zakt om een winterslaap te kunnen houden.</color>
+               </cell>                  
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">De sporenschildpad komt in de modus Uitdaging en Campagne beschikbaar zodra je dierentuin een bekendheidsscore van 1 ster bereikt.</color>
+            <p/>De Afrikaanse sporenschildpad is de grootste landschildpad van het Afrikaanse continent en kan een gewicht van wel 105 kg bereiken. Deze grote dieren hebben veel ruimte nodig. Ook zijn ze bijzonder sterk en moeten ze in zeer stevige verblijven worden ondergebracht wanneer ze in een dierentuin worden geplaatst.
+
+<p/>De Afrikaanse sporenschildpad heeft vezelrijk voedsel nodig om gezond te blijven. In de vrije natuur leeft deze schildpaddensoort van gras, klaver en de kussentjes van de schijfcactus. Om hun maximale omvang te kunnen bereiken hebben ze tevens kalkrijk voedsel nodig. Voor hun vochtpeil zijn ze afhankelijk van sappige planten.
+
+<p/>Zodra de broedtijd begint, gaan deze landschildpadden zich bijzonder agressief ten opzichte van elkaar gedragen. Mannetjes botsen soms tegen elkaar op in een poging om elkaar ondersteboven te kantelen.
+
+<p/>Als het te heet wordt, graven de Afrikaanse sporenschildpad zich in om uitdroging te voorkomen. Als er op een hete dag modder voorhanden is, bedekken ze zich daar zoveel mogelijk mee, waarbij ze de modder zelfs met hun poten op hun schild spatten. Om de extreem hoge temperaturen overdag te vermijden, zijn deze schildpadden met name rond zonsondergang en zonsopkomst actief. Soms koestert de Afrikaanse sporenschildpad zich 's ochtends in het zonnetje om na een koude nacht weer op temperatuur te komen.
+
+         </cell>       
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_warthog:entry">Knobbelzwijn</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_warthog:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/Warthog/Warthog_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/Warthog/Warthog_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Status in het wild:
+                     <br/>
+                        <color r="170" g="255" b="0">
+                     enigszins bedreigd
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+				 <cell width="128">
+				  <color r="255" g="255" b="255">Savanne<br/></color>
+				  <img src="ui/icon_biomes/icon_savannah.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+				 </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Afrika</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/savannah_africa.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Klasse: zoogdieren <i>(Mammalia)</i>
+                  <br/>
+                  Orde: evenhoevigen <i>(Artiodactyla)</i>
+                  <br/>
+                  Familie: varkens <i>(Suidae)</i>
+                  <br/>
+                  Geslacht: <i>Phacochoerus</i>
+                  <br/>
+                  Soort: <i>africanus</i>
+                  <br/>
+                  Ondersoort: <i>aetheopicus</i>
+                  </color>
+               </cell>
+				 <cell width="256" pady="10">
+				  <img src="UI/zoopedia/biome/savannah_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+				 </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Interessante feiten over het knobbelzwijn</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Knobbelzwijnen slapen en rusten in holen, maar nemen deze liever over van andere dieren (zoals aardvarkens) dan dat ze hun eigen hol moeten graven.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Als een knobbelzwijn zich bedreigd voelt, begint hij te knorren of kreunen, legt hij zijn oren plat en duikt hij onder de grond, waarbij hij echter ervoor zorgt dat zijn slagtanden te zien blijven.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Knobbelzwijnen verzorgen zichzelf door zandbaden te nemen, zich tegen bomen en termietenheuvels te schurken en insecten door dieren van hun lijf te laten pikken.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Het knobbelzwijn is een fanatieke grazer en gaat daarbij op zijn eeltige knieën zitten om goed bij het korte gras te kunnen, waarvan hij leeft.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>               
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">De grootste vijanden van het knobbelzwijn zijn leeuwen en luipaarden.</color>
+               </cell>                   
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">Het knobbelzwijn komt in de modus Uitdaging of Campagne beschikbaar zodra je dierentuin een bekendheidsscore van 3 sterren bereikt.</color>
+            <p/>Het knobbelzwijn is een wild varken met twee paar slagtanden en twee paar wratachtige gezwellen op zijn lange, brede kop. Knobbelzwijnen hebben gedrongen lijven met dunne poten en een lange, kwastachtige staart. Het knobbelzwijn komt volop op de vlakten en in de open bosgebieden van Afrika voor en leeft van gras, bessen, schors, plantenwortels en kadavers. Knobbelzwijnen zijn doorgaans overdag actief en brengen de nacht in holen door, maar in gebieden waar mensen prominent aanwezig zijn, gaan ze zich soms als nachtdier gedragen. Een of twee vrouwtjes met jongen vormen kleine groepen waarbij een mannetje zich tijdens het paarseizoen gedurende korte tijd kan aansluiten. Jonge mannetjes vormen groepen vrijgezellen, maar oudere mannetjes leven solitair. Mannetjesjongen verlaten hun moeder na maximaal 15 maanden. Vrouwtjesjongen blijven soms hun hele leven bij de kudde van hun moeder. Wanneer er nieuwe jongen worden geboren, wordt de eerdere lichting verjaagd, ongeacht het geslacht. Oudere jongen keren later soms weer bij hun moeder terug. De slagtanden van het knobbelzwijn vormen scherpe wapens waarmee hij zich kan verdedigen tegen roofdieren, zoals leeuwen. Bij onderlinge gevechten proberen de dieren elkaar meestal alleen weg te duwen en worden de slagtanden maar zelden gebruikt.
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Inhoud gebaseerd op <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft® Encarta® 2006.</color></u></a> © 1993-2005 Microsoft Corporation. Alle rechten voorbehouden.
+         </cell>         
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_wildebeest:entry">Gnoe</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_wildebeest:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/wildebeest/wildebeest_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>						 
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Status in het wild:
+                     <br/>
+                        <color r="170" g="255" b="0">
+                     enigszins bedreigd
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>             
+               
+					<cell width="128">
+						<color r="255" g="255" b="255">Savanne</color>
+						<br/>
+						<img src="ui/icon_biomes/icon_savannah.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+					</cell>
+					<cell width="128">
+						<color r="255" g="255" b="255">Afrika</color>
+						<br/>
+						<img src="ui/icon_maplocations/Savannah_Africa.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+					</cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Klasse: zoogdieren <i>(Mammalia)</i>
+                  <br/>
+                  Orde: evenhoevigen <i>(Artiodactyla)</i>
+                  <br/>
+                  Familie: holhoornigen <i>(Bovidae)</i>
+                  <br/>
+                  Geslacht: <i>Connochaetus</i>
+                  <br/>
+                  Soort: <i>taurinus</i>
+                  </color>
+               </cell>
+				 <cell width="256" pady="10">
+				  <img src="UI/zoopedia/biome/savannah_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+				 </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Interessante feiten over de gnoe</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Gnoes leven hoofdzakelijk van gras.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Leeuwen en hyena's leven hoofdzakelijk van gnoes.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Gnoes beschermen zichzelf door grote kuddes te vormen.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Gnoes maken veel geluid door te kreunen, brullen en knorren.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>               
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Een kudde gnoes legt soms wel 2000 kilometer per jaar af.</color>
+               </cell>                              
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">De gnoe komt in de modus Uitdaging of Campagne beschikbaar zodra je dierentuin een bekendheidsscore van 1,5 ster bereikt.</color>
+            <p/>De gnoe, ook wel wildebeest genoemd, is een grote Afrikaanse antilopensoort met een runderachtige kop, hoorns en schoftlijn, borstelig snuitharen en manen, en een paardenstaart. Er bestaan twee soorten: de witstaartgnoe, die ooit in groten getale in Zuid-Afrika voorkwam, maar door de jacht nu ongeveer 10.000 exemplaren telt, en de blauwe gnoe, waarvan kuddes op de grasvlakten van zuidelijk Kenia tot aan noordelijk Zuid-Afrika te vinden zijn. Bij beide geslachten heeft de gnoe brede, gladde hoorns die omlaag, naar buiten toe en vervolgens omhoog zijn gekromd.
+
+<p/>De blauwe gnoe, die in feite blauwgrijs tot bruin van kleur is, komt in de open bosgebieden en op graslanden in zuidelijk Afrika voor en is een van de snelste bewoners van deze gebieden. De gnoe weegt ongeveer 275 kg en is ongeveer 1,40 hoog. Zijn grote kop en korte nek dragen de hoorns die meer dan 60 cm lang zijn, hoewel zijn beste verdediging in zijn bijzondere loopvermogen schuilt. Hoewel de gnoe met zijn norse blik en forse schouders dreigend kan overkomen, springt hij weg als hij wordt benaderd om vervolgens vanaf een afstand naar de indringers te staren.
+
+<p/>Gnoes trekken in kuddes van 30 tot 500 dieren door de Afrikaanse savanne. Alleen al op de Serengetivlakte grazen meer dan een miljoen gnoes. De vrouwtjes werpen één kalf dat enkele minuten na de geboorte al kan rennen. De vrouwtjes van een kudde krijgen allemaal tegelijk jongen. Deze overvloed aan kalveren is onweerstaanbaar voor veel roofdieren. De jongen vallen vaak ten prooi aan hyena's, terwijl de volwassen dieren bijzonder in de smaak vallen bij leeuwen. Solitaire mannetjes verdedigen hun territorium en proberen langstrekkende bronstige vrouwtjes het hof te maken. Mannetjes zonder territorium vormen samen losse kuddes van vrijgezellen. In droge jaargetijden migreren grote aantallen kuddes soms allemaal samen.
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Inhoud gebaseerd op <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft® Encarta® 2006.</color></u></a> © 1993-2005 Microsoft Corporation. Alle rechten voorbehouden.
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_wolfethiopian:entry">Wolf, Ethiopische</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_wolfethiopian:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/WolfEthiopian/WolfEthiopian_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>						
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/critical.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Status in het wild:
+                     <br/>
+                        <color r="255" g="0" b="0">
+                     ernstig bedreigd
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                       
+					 <cell width="128">
+					  <color r="255" g="255" b="255">Berggebied<br/></color>
+					  <img src="ui/icon_biomes/icon_alpine.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+					 </cell>
+					<cell width="128">
+						<color r="255" g="255" b="255">Ethiopië</color>
+						<br/>
+						<img src="ui/icon_maplocations/Alpine_Africa_NorthEast.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+					</cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Klasse: zoogdieren <i>(Mammalia)</i>
+                  <br/>
+                  Orde: carnivoren <i>(Carnivora)</i>
+                  <br/>
+                  Familie: hondachtigen <i>(Canidae)</i>
+                  <br/>
+                  Geslacht: <i>Canis</i>
+                  <br/>
+                  Soort: <i>simensis</i>
+                  </color>
+               </cell>
+					 <cell width="256" pady="10">
+					  <img src="UI/zoopedia/biome/alpine_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+					 </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Interessante feiten over de Ethiopische wolf</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">De Ethiopische wolf is de enige wolvensoort die in Afrika voorkomt.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Hoewel de Ethiopische wolf meestal overdag actief is, gaat hij zich soms als nachtdier gedragen als de mens prominent in de buurt aanwezig is.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Alleen het dominante mannetje en vrouwtje van een troep paren, maar de andere wolven helpen wel bij het grootbrengen van de jongen.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Ethiopische wolven markeren hun territorium met hun sterk riekende urine.</color>
+               </cell>                   
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">De Ethiopische wolf komt in de modus Uitdaging of Campagne beschikbaar zodra je dierentuin een bekendheidsscore van 5 sterren bereikt.</color>
+            <p/>De Ethiopische wolf is een verre verwant van de jakhals en wordt soms ook wel Abessijnse wolf genoemd. Het is de enige wolvensoort die in Afrika voorkomt en is alleen te vinden in enkele berggebieden van Ethiopië en Eritrea.
+
+<p/>Ethiopische wolven zijn carnivoren en eten meestal knaagdieren, zoals de grote blindmuis. Ze vangen hun prooi door knaagdieren uit hun holen te graven. Soms sluipen ze ook muisstil door gebieden waar veel knaagdieren voorkomen om er vervolgens één op te jagen. Heel soms werken Ethiopische wolven met elkaar samen om een groter dier aan te vallen, zoals een jonge antilope of een lam.
+
+<p/>De Ethiopische wolf is een ernstig bedreigde diersoort. Er komen nog maar zo'n 400 volwassen Ethiopische wolven op aarde voor. De soort wordt officieel door de Ethiopische regering beschermd en aan de Oxford University in het Verenigd Koninkrijk is een organisatie actief die zich inzet om deze diersoort te redden.
+
+         </cell>       
+      </LOC_STRING>   
+
+  
+</ZT2Strings>

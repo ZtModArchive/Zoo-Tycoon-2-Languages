@@ -1,0 +1,472 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_label:label">
+         <font name="arial" size="18" image="ui\font\color_mainmenu.dds" shadowx="-1" shadowy="1" shadowa="255">
+            <color r="255" g="250" b="200">
+               <b>Zoolexikon</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="text_format:body_text">
+         <font name="arial" size="9" shadowx="0" shadowy="0" shadowa="0">
+            <color r="74" g="74" b="74">
+               <b>%text%</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="text_format:zoopedia_entity_label">
+         <font name="arial" size="14" image="ui\font\color_mainmenu.tga" shadowx="-2" shadowy="1" shadowa="50">
+            <color r="255" g="250" b="200">
+               <b>%text%</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="text_format:zoopedia_secondary_label">
+         <font name="arial" size="11" image="ui\font\color_mainmenu.tga" shadowx="-2" shadowy="1" shadowa="50">
+            <color r="225" g="225" b="165">
+               <b>%text%</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_toc:format">
+         <font name="arial" size="10" shadowx="1" shadowy="-1" shadowa="0">
+            <b>%text%</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_animals:entry">Tiere</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_animals:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>
+                  
+                  
+                  
+             Um Informationen über bestimmte Tiere in Zoo Tycoon 2 anzuzeigen, klicken Sie in der Liste links auf den Namen des Tieres.
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_biomes:entry">Biome</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_biomes:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>
+                  
+                  
+                  
+             Zoo Tycoon 2 beinhaltet zehn verschiedene Biome, bei denen es sich um komplexe Tier- und 
+			Pflanzengemeinschaften in einem bestimmten geografischen oder klimatischen Raum handelt.
+			
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+			Um weitere Informationen zu den einzelnen Biomen anzuzeigen, klicken Sie in der Liste links auf den Namen eines Bioms.
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_animalenrichment:entry">Anreize für Tiere</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_animalenrichment:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>
+                  
+                  
+                  
+             In vielen Zoos verwenden inzwischen Tierpfleger Reaktionsanreizobjekte, um Tiere in Gefangenschaft zu stimulieren und sie zu ermutigen, die gleichen natürlichen Verhaltensmuster wie in freier Wildbahn zu zeigen.
+             
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+             So sind es beispielsweise Eisbären in freier Wildbahn gewöhnt, durch dicke Eisschichten zu graben, um an Futter zu gelangen. Auch Sie können diese Verhaltensweise in Ihrem Zoo fördern, indem Sie ihnen in Eisblöcke eingeschlossenes Futter geben.
+			
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+			Schimpansen schätzen Klettergerüste, da sie hier genauso klettern und schaukeln können wie in den Bäumen und Ästen in freier Wildbahn.
+			
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+			Um weitere Informationen zu den einzelnen Reaktionsanreizobjekten anzuzeigen, klicken Sie in der Liste links auf den Namen eines Objekts.
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_paths:entry">Wege</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_paths:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>
+                  
+                  
+                  
+             Sinnvoll angelegte Wege sind wichtig, um die Zoobesucher zufrieden zu stellen und sie in die richtige Richtung zu leiten.
+			
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+			Um weitere Informationen zu den verschiedenen Wegen anzuzeigen, klicken Sie in der Liste links auf den Namen eines Wegtyps.
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_buildings:entry">Gebäude</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_buildings:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>
+                  
+                  
+                  
+             Zoo Tycoon 2 bietet eine große Auswahl an Gebäuden, in denen Verkaufsobjekte und Dienstleistungen angeboten werden, die Ihren Besuchern gefallen.
+			
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+			Um weitere Informationen zu den einzelnen Gebäuden anzuzeigen, klicken Sie in der Liste links auf den Namen eines Gebäudes.
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_staff:entry">Mitarbeiter</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_staff:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>
+                  
+                  
+                  
+             Um Ihren Zoobetrieb am Laufen zu halten, stehen Ihnen drei verschiedene Arten von Mitarbeitern zur Verfügung, die Sie einstellen können.
+			
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+			Um weitere Informationen zu den einzelnen Mitarbeitertypen anzuzeigen, klicken Sie in der Liste links auf den Namen eines Mitarbeitertyps.
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_foodcontainer:entry">Futternäpfe</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_foodcontainer:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>
+                  
+                  
+                  
+             Zoo Tycoon 2 bietet verschiedene Arten von Futterbehälter, um allen Tierarten in diesem Spiel gerecht zu werden.
+			
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+			Um weitere Informationen zu den einzelnen Futterbehältern anzuzeigen, klicken Sie in der Liste links auf den Namen eines Futterbehälters.
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_food:entry">Tierfutter</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_food:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>
+                  
+                  
+                  
+             Mit den verschiedenen Tierfuttersorten in Zoo Tycoon 2 können Sie den Hunger und die Futteransprüche aller Tiere erfüllen.
+			
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+			Um weitere Informationen zu den einzelnen Futtersorten anzuzeigen, klicken Sie in der Liste links auf den Namen einer Tierfuttersorte.
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_shelters:entry">Tierunterstände</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_shelters:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>
+                  
+                  
+                  
+             Zoo Tycoon 2 bietet eine große Auswahl an Unterständen, um den Ansprüchen der vielen Tierarten in diesem Spiel gerecht zu werden.
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_scenery:entry">Ausstattungsobjekte</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_scenery:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>
+                  
+                  
+                  
+             Zoo Tycoon 2 bietet eine breite Palette an Ausstattungsobjekten, mit denen Sie Ihren Zoo verschönern können.
+			
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+			Um weitere Informationen zu den einzelnen Ausstattungsobjekten anzuzeigen, klicken Sie in der Liste links auf den Namen eines Objekts.
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_fences:entry">Zäune</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_fences:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>
+                  
+                  
+                  
+             Zoo Tycoon 2 bietet eine große Auswahl an unterschiedlichen Zauntypen, von Schutz- bis hin zu Dekorationszäunen.
+			
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+			Um weitere Informationen zu den einzelnen Zautypen anzuzeigen, klicken Sie in der Liste links auf den Namen einer Zaunart.
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_foliage:entry">Pflanzen</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_foliage:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>
+                  
+                  
+                  
+             Zoo Tycoon 2 bietet eine große Auswahl an Pflanzen und Bäumen, die für eine Vielzahl von Biomtypen geeignet sind.
+			
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+		Um weitere Informationen zu den einzelnen Pflanzen- und Baumarten anzuzeigen, klicken Sie in der Liste links auf den Namen einer Pflanze oder eines Baums.
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_bushes:entry">Büsche und Bodenbedeckung</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_bushes:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>
+                  
+                  
+                  
+             Zoo Tycoon 2 bietet eine große Auswahl an Pflanzen und Bäumen, die für eine Vielzahl von Biomtypen geeignet sind.
+			
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+		Um weitere Informationen zu den einzelnen Pflanzen- und Baumarten anzuzeigen, klicken Sie in der Liste links auf den Namen einer Pflanze oder eines Baums.
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_trees:entry">Bäume</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_trees:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>
+                  
+                  
+                  
+             Zoo Tycoon 2 bietet eine große Auswahl an Pflanzen und Bäumen, die für eine Vielzahl von Biomtypen geeignet sind.
+			
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+		Um weitere Informationen zu den einzelnen Pflanzen- und Baumarten anzuzeigen, klicken Sie in der Liste links auf den Namen einer Pflanze oder eines Baums.
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_rocks:entry">Felsen</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_rocks:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>
+                  
+                  
+                  
+             Zoo Tycoon 2 bietet verschiedene Arten von Felsen, die für bestimmte Biomtypen geeignet sind.
+             
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+             Um weitere Informationen zu den einzelnen Felstypen anzuzeigen, klicken Sie in der Liste links auf den Namen eines Felsens.
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_legal:entry">Hilfe/Info</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_legal:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>
+                  
+                  
+Um Informationen zu Rechten und Urheberrechten von Zoo Tycoon 2 anzuzeigen, klicken Sie in der Liste links auf die Bezeichnung des entsprechenden Themas.              
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+</ZT2Strings>

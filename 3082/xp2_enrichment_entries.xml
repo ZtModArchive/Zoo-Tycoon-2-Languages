@@ -1,0 +1,75 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_bubbleemitter:entry">Generador burbujas (almeja)</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_bubbleemitter:text">
+		<cell pady="0" width="1000"/>
+		<p/>
+		<cell width="260"/>
+		<cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+		 <cell width="600" padx="20" pady="20">
+		  <color r="255" g="255" b="255">
+			<img src="entities/objects/enrichment/BubbleEmitter/BubbleEmitter_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+			<p/>A los animales marinos como la manta les gusta nadar por el chorro de burbujas creado por este gigante generador de burbujas artificial.
+		  </color>
+		 </cell>
+		</cell>
+	  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_jarwithfish:entry">Tarro de pescado</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_jarwithfish:text">
+		<cell pady="0" width="1000"/>
+		<p/>
+		<cell width="260"/>
+		<cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+		 <cell width="600" padx="20" pady="20">
+		  <color r="255" g="255" b="255">
+			<img src="entities/objects/enrichment/JarWithFish/JarWithFish_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+			<p/>A las nutrias marinas les encanta esforzarse por liberar el pescado encerrado dentro del tarro. ¡Y a los visitantes les encanta ver cómo lo hacen!
+		  </color>
+		 </cell>
+		</cell>
+	  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_livetunayellowfin:entry">Atún de aleta amarilla vivo</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_livetunayellowfin:text">
+		<cell pady="0" width="1000"/>
+		<p/>
+		<cell width="260"/>
+		<cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+		 <cell width="600" padx="20" pady="20">
+		  <color r="255" g="255" b="255">
+			<img src="entities/units/animals/TunaYellowfin/TunaYellowfin_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+			<p/>¡A los depredadores marinos les gusta más aún su comida si tienen que cazarla! Muchos zoos han introducido alimentos vivos como parte de sus programas de enriquecimiento de los animales.
+			<p/>Para desbloquear el atún de aleta amarilla vivo, complete cualquiera de los dos desafíos de animales marinos en el modo Desafío.
+		  </color>
+		 </cell>
+		</cell>
+	  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_livecodarctic:entry">Bacalao ártico vivo</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_livecodarctic:text">
+		<cell pady="0" width="1000"/>
+		<p/>
+		<cell width="260"/>
+		<cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+		 <cell width="600" padx="20" pady="20">
+		  <color r="255" g="255" b="255">
+			<img src="entities/units/animals/CodArctic/CodArctic_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+			<p/>¡A los depredadores marinos les gusta más aún su comida si tienen que cazarla! Muchos zoos han introducido alimentos vivos como parte de sus programas de enriquecimiento de los animales.
+		  </color>
+		 </cell>
+		</cell>
+	  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_sealpreydummy:entry">Peluche de foca</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_sealpreydummy:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>
+                  <img src="entities\objects\enrichment\Seal_Prey_Dummy\SealPreyDummy_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>Este accesorio flotante está diseñado para depredadores marinos bastante grandes, como el tiburón blanco y la orca. A estos animales les encanta embestir y morder al peluche con forma de foca.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+
+</ZT2Strings>

@@ -1,0 +1,197 @@
+﻿<ZT2Strings>
+      <LOC_STRING _locID="mainmenu" version="9"/>
+      <LOC_STRING _locID="mainmenu:legalcopy1" version="9">
+         <font name="arial" size="10" shadowx="0" shadowy="0">
+            <b>© &amp; (p) 2008 Microsoft Corporation. Tous droits réservés.</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="mainmenu:legalcopy2" version="9">
+         <font name="arial" size="10" shadowx="0" shadowy="0">
+            <b>Développé par Blue Fang Games pour Microsoft Corporation.</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="mainmenu:legalcopy3" version="9">
+         <font name="arial" size="10" shadowx="0" shadowy="0">
+            <b>Protégé par les lois américaines et internationales relatives au droit d'auteur</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="mainmenu:legalcopy4" version="9">
+         <font name="arial" size="10" shadowx="0" shadowy="0">
+            <b>comme décrit dans Aide/À propos de.</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="mainmenu:cp2_installed_stt" version="9">Animaux disparus installé</LOC_STRING>
+      <LOC_STRING _locID="mainmenu:cp2_installed_ltt" version="9">
+         <color r="255" g="248" b="178">
+            <b>Animaux disparus installé</b>
+         </color>
+         <br>Le pack d'extension Animaux disparus est installé. </br>
+      </LOC_STRING>
+      <LOC_STRING _locID="mainmenu:tutorial_intro_text_extinct" version="9">
+         <font name="arial" size="20" image="ui\font\color_mainmenu.tga">
+            <color r="255" g="197" b="78">
+               <b>Voulez-vous apprendre à jouer à Zoo Tycoon 2 : Animaux disparus ?</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="fptranqdisplay:tranqscreen_format1">
+         <font name="arial" size="9">
+            <color r="92" g="255" b="64">
+               <b>%text%</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="fptranqdisplay:tranqscreen_format2">
+         <font name="arial" size="9">
+            <color r="255" g="92" b="64">
+               <b>%text%</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="fptranqdisplay:tranqtarget_label_message">
+      Cible :
+      </LOC_STRING>
+      <LOC_STRING _locID="fptranqdisplay:tranqscreen_format3">
+         <font name="arial" size="12">
+            <color r="210" g="50" b="0">
+               <b>%text%</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="fptranqdisplay:tranqdistance_label_message">
+      Mètres jusqu'à la cible : 
+      </LOC_STRING>
+      <LOC_STRING _locID="fptranqdisplay:tranqdistance_outofrange_message">
+      CIBLE HORS DE PORTÉE ! 
+      </LOC_STRING>
+      <LOC_STRING _locID="cloningfeedback:animal_format">
+          <font name="arial" size="12">
+            <color r="92" g="255" b="64">
+               <b>%text%</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="cloningfeedback:initial_message">
+      Cliquez sur l'écran ou appuyez sur ESPACE pour commencer.
+      </LOC_STRING>
+      <LOC_STRING _locID="cloningfeedback:which_animal_success">
+      Beau travail ! Vous avez créé %s. Les super animaux sont plus grands, en meilleure santé et vivent plus longtemps que les animaux normaux.
+      </LOC_STRING>
+      <LOC_STRING _locID="cloningfeedback:which_animal_normal">
+      Bravo ! Vous avez créé %s.
+      </LOC_STRING>
+      <LOC_STRING _locID="cloningfeedback:which_animal_failure">
+      Dommage, votre tentative a échoué ! Réessayez et vous obtiendrez sans aucun doute un meilleur animal la prochaine fois !
+      </LOC_STRING>
+      <LOC_STRING _locID="cloningfeedback:missing_animal_failure">
+      Oh ! Vous n'avez encore débloqué aucun animal disparu. Essayez d'abord de trouver quelques fossiles.
+      </LOC_STRING>
+      <LOC_STRING _locID="cloningfeedback:no_animal_failure">
+      Que s'est-il passé ? Appuyez sur ESPACE pour réessayer, ou sur ÉCHAP pour quitter le laboratoire. Cliquez sur le bouton ? pour demander de l'aide.
+      </LOC_STRING>
+      <LOC_STRING _locID="cloningfeedback:no_clicks_failure">
+      N'oubliez pas de cliquer sur la souris ou d'appuyer sur les flèches lorsque la ligne de balayage atteint les icônes à l'écran.
+      </LOC_STRING>
+      <LOC_STRING _locID="puzzlefeedback:animal_format">
+          <font name="arial" size="12">
+            <color r="200" g="192" b="168">
+               <b>%text%</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="fpfossildisplay:piece_found">Vous avez découvert un morceau de fossile de %1s ! (%2s)</LOC_STRING>
+      <LOC_STRING _locID="fpfossildisplay:puzzle_ready">Assemblez un fossile de %s dans le laboratoire de recherche !</LOC_STRING>
+      <LOC_STRING _locID="fpfossildisplay:placeable_object_found">Vous avez trouvé %s.</LOC_STRING>
+      <LOC_STRING _locID="fpfossildisplay:nonplaceable_object_found">Vous avez obtenu %2m pour %1s trouvé.</LOC_STRING>
+      <LOC_STRING _locID="fpfossildisplay:next_level_unlocked">Votre détecteur de fossiles a été perfectionné. Vous pouvez trouver plus de fossiles !</LOC_STRING>
+      <LOC_STRING _locID="fpfossildisplay:next_level_unavailable">Augmentez la renommée de votre zoo pour améliorer votre outil de détection de fossiles !</LOC_STRING>
+      <LOC_STRING _locID="minigameHelp:minigameHelp_format">
+         <font name="arial" size="9" shadowx="1" shadowy="1">
+            <color r="250" g="250" b="200">
+               <b>%text%</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="minigameHelp:minigameHelp_FossilFinding">
+      <u>Commandes :</u>
+      <br/> 
+      Déplacement : touches fléchées (maintenez la touche MAJ enfoncée pour courir). 
+      <br/>
+     Tourner/Regarder : déplacez la souris.  
+      <br/>
+      Creuser dans les zones de fouilles à fossiles : ESPACE
+      <p/>
+      Bienvenue dans la recherche de fossiles ! Dans ce mode, vous pouvez parcourir votre zoo, équipé de votre outil de détection spécial et rechercher des morceaux de fossile enfouis. 
+      <p/>
+      La barre verticale située au centre de l'appareil vous signale la proximité d'un objet sous terre. Lorsque vous êtes assez près, un indicateur de site à creuser apparaît automatiquement. Appuyez sur ESPACE pour creuser à cet endroit ou continuez à chercher d'autres sites.   
+      <p/>
+      Tous les fossiles que vous ramassez seront placés dans le laboratoire de recherche Animaux disparus. Lorsque vous avez assez de morceaux pour assembler un fossile entier, allez au laboratoire, sélectionnez l'onglet Assemblage de fossiles et commencez le jeu de reconstitution.
+      </LOC_STRING>
+      <LOC_STRING _locID="minigameHelp:minigameHelp_FossilBuilding">
+      <u>Commandes :</u>
+      <br/>
+      Déplacer les morceaux : cliquez et faites glisser les morceaux.   
+      <br/>
+      Faire tourner les morceaux : &lt; et &gt; 
+      <br/>
+      Réinitialiser le puzzle : CTRL+R
+      <br/>
+      REMARQUE : les morceaux doivent se trouver dans le tracé du squelette pour être fixés.      
+      <p/>
+      Bienvenue dans la salle d'assemblage de fossiles du laboratoire de recherche Animaux disparus.  
+      <p/>
+      Pour reconstituer un squelette fossilisé complet, vous devez placer correctement les morceaux de fossile que vous avez trouvés. Cliquez sur les morceaux et déplacez-les. Lorsqu'un morceau est correctement placé, il change de couleur au moment où vous relâchez le bouton gauche de la souris. Pour vous aider, un morceau de référence (qui sert de point de départ) est déjà positionné lorsque vous démarrez.   
+      <p/>
+      Si vous souhaitez réinitialiser le puzzle, appuyez sur CTRL+R. Vous pourrez ainsi obtenir un nouveau morceau de départ, mais le reste du puzzle sera effacé. Alors, faites bien attention !
+      </LOC_STRING>
+      <LOC_STRING _locID="minigameHelp:minigameHelp_Cloning">
+      <u>Commandes :</u>
+      <br/>
+      Démarrer le jeu : ESPACE 
+      <br/>
+      Pour jouer : appuyez sur la touche fléchée requise ou cliquez à l'aide de la souris lorsque la ligne de balayage passe sur l'icône. 
+      <p/>
+      Sur les animaux de haute qualité, l'icône ? peut apparaître devant les symboles sur lesquels vous devez appuyer. Mémorisez le motif qui s'illumine et appuyez sur la flèche droite lorsque la ligne de balayage l'atteint ou vous n'obtiendrez pas un score parfait !
+      <p/>
+      Bienvenue dans la salle de création d'animaux du laboratoire de recherche Animaux disparus. Si vous avez trouvé les morceaux de fossile d'un animal et que vous les avez assemblés, vous pouvez créer l'animal en question dans ce laboratoire ! En sélectionnant l'espèce à qui vous voulez redonner vie, vous lancez le jeu de création d'animal dans lequel vous devrez faire correspondre les modèles !  
+      <p/>
+      Le processus commence lorsque vous appuyez sur ESPACE ou que vous cliquez sur l'écran d'ordinateur. Vous devez faire correspondre le modèle d'icônes sur l'écran au fur et à mesure que la ligne de balayage arrive à leur niveau. 
+      <p/>
+      Si vous faites de l'excellent travail, vous obtiendrez une super version de l'animal. Ces animaux plus heureux, sains et forts sont les préférés des visiteurs. Si vous faites du bon travail, vous obtiendrez un animal normal. Si vous échouez, vous risquez d'obtenir... quelque chose de totalement différent. 
+      </LOC_STRING>
+      <LOC_STRING _locID="minigameHelp:minigameHelp_DiseaseResearch">
+      <u>Commandes :</u>
+      <br/>
+      Mouvement : touches fléchées (maintenez la touche MAJ enfoncée pour courir).  
+      <br/>
+      Prélever un échantillon : ESPACE  
+      <p/>
+      Bienvenue au mode guérison. Si vos animaux attrapent une maladie, vous pouvez diriger les recherches pour trouver un traitement.  
+      <p/>
+      Dans ce mode, vous parcourez votre zoo et utilisez ESPACE pour prélever des échantillons (en vue de trouver un traitement). Tout d'abord, vous avez besoin d'un petit échantillon de l'un de vos animaux malades.  
+      <p/>
+      Une fois que votre équipe de chercheurs a analysé l'échantillon, elle vous envoie un premier rapport indiquant ce dont vous avez besoin pour le remède. Le bouton de rapport de recherche vous fournit des informations supplémentaires du laboratoire, mais plus vous demandez d'indices, plus la somme gagnée pour le remède diminue. N'oubliez pas que les ingrédients nécessaires au traitement ne sont peut-être pas encore disponibles dans votre zoo !
+      <p/>
+      Une fois le remède mis au point, passez en mode Visiteur et guérissez vos animaux de la même façon que vous les lavez ou les soignez. Vous pouvez également distribuer le traitement à vos soigneurs pour qu'ils puissent soigner les animaux à votre place !
+      </LOC_STRING>
+      <LOC_STRING _locID="minigameHelp:minigameHelp_Tranquilize">
+      <u>Commandes :</u>
+      <br/>
+      Mouvement : touches fléchées (maintenez la touche MAJ enfoncée pour courir)  
+      <br/>
+      Tourner/Regarder : déplacer la souris
+      <br/>
+      Charger le fusil tranquillisant : 
+      <br/>
+      Pointer le viseur sur un animal violent.
+      <br/>
+      Tirer avec le fusil tranquillisant : ESPACE
+      <br/>
+      <u>REMARQUE :</u> le fusil doit être chargé au maximum pour produire un minimum d'effet.
+      <p/>
+
+      Un de vos dinosaures est devenu violent ? Vous avez tout ce qu'il faut pour gérer ça ! Pour calmer un dinosaure en furie, prenez-le dans votre ligne de mire, réglez votre viseur sur la cible et, lorsque votre fusil dispose de toute sa puissance, appuyez sur ESPACE pour tirer la flèche de tranquillisant. Le temps de rechargement est plus long pour un grand dinosaure que pour un petit, car la dose de tranquillisant requise est plus importante. Tenez-vous prêt ! Si la cible sort de votre ligne de mire, votre fusil perd une partie de sa puissance.  
+      <p/>
+      Lorsque vous anesthésiez un dinosaure violent, il se calme et s'endort pour un certain temps. Vous pouvez alors le récupérer, le mettre en caisse et le replacer dans son enclos. Si un animal n'apparaît pas sur votre écran de ciblage, il ne s'agit pas d'un dinosaure violent.   
+      </LOC_STRING>
+</ZT2Strings>

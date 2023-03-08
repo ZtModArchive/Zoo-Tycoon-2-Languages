@@ -1,0 +1,53 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_rewardobjects" version="2"/>
+      <LOC_STRING _locID="zoopedia_rewardobjects:entry" version="2">Objets de récompense</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_rewardobjects:text" version="2">
+         <color r="255" g="255" b="255">
+            <cell pady="0" width="1000"/>
+            <p/>
+            <cell width="260"/>
+            <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+               <cell width="600" padx="20" pady="20">
+Pour remporter des objets de récompense, vous devez gagner des <a href="zoopedia:zoopedia_awards:entry"><u><color r="255" g="231" b="135">prix,</color></u></a> répondre à des <a href="zoopedia:zoopedia_challenge:entry"><u><color r="255" g="231" b="135">défis</color></u></a>mener à bien des <a href="zoopedia:zoopedia_campaign:entry"><u><color r="255" g="231" b="135">campagnes.</color></u></a>
+<p/>
+L'écran Récompenses du zoo affiche tous les objets de récompense que vous avez gagnés. Pour ouvrir cet écran, cliquez sur le bouton Afficher la renommée du zoo, puis sélectionnez l'onglet Récompenses du zoo.
+               </cell>
+            </cell>
+         </color>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_layingdownroads" version="2"/>
+      <LOC_STRING _locID="zoopedia_layingdownroads:entry" version="2">Construction de routes</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_layingdownroads:text" version="2">
+         <color r="255" g="255" b="255">
+            <cell pady="0" width="1000"/>
+            <p/>
+            <cell width="260"/>
+            <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+               <cell width="600" padx="20" pady="20">
+Pour utiliser des Jeep®, vous devez avoir au moins une gare pour Jeep reliée à un circuit routier fermé. Une fois que le circuit est fermé, la gare pour Jeep ouvre et vous pouvez y acheter des véhicules. Placez des chemins en direction de l'entrée de votre gare pour que vos visiteurs puissent entrer et sortir.
+<p/>
+Notez que toutes les routes sont à sens unique (que vous pouvez inverser dans une gare pour Jeep). Pour faire un circuit correct, évitez les culs de sac et les interruptions de route.
+               </cell>
+            </cell>
+         </color>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_tours" version="2"/>
+      <LOC_STRING _locID="zoopedia_tours:entry" version="2">Visites</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_tours:text" version="2">
+         <color r="255" g="255" b="255">
+            <cell pady="0" width="1000"/>
+            <p/>
+            <cell width="260"/>
+            <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+               <cell width="600" padx="20" pady="20">
+Les visiteurs raffolent des visites excitantes. Plus ils apprécient une visite, plus leur note de satisfaction est élevée et plus les dons collectés lors des visites sont importants !
+     <p/>
+Pendant les visites, les visiteurs aiment particulièrement voir des animaux, leurs refuges, des rochers et une végétation adaptés au biome, ainsi que des bâtiments à thème, des fontaines, des arches, des suspensions florales et des objets de visite (le cas échéant).
+     <p/>
+Les invités recherchent la variété pendant les visites et peuvent s'ennuyer s'ils voient toujours la même chose.                           
+               </cell>
+            </cell>
+         </color>
+      </LOC_STRING>  
+   
+</ZT2Strings>

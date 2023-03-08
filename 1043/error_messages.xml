@@ -1,0 +1,43 @@
+<ZT2Strings>
+      <LOC_STRING _locID="alert:sttformat">
+         <font name="arial" size="10">%text%</font>
+      </LOC_STRING>
+      <LOC_STRING _locID="alert:lttformat">
+         <font name="arial" size="10">%text%</font>
+      </LOC_STRING>
+      <LOC_STRING _locID="alert:save_game_message">
+         <font name="arial" size="20">
+            <b>Spel opgeslagen</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="alert:alert">
+         <font name="arial" size="16">
+            <color r="255" g="197" b="78">
+               <b>%text%</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="alert:save_failed">Onvoldoende ruimte op het vasteschijfstation. Het spel kan niet worden opgeslagen.</LOC_STRING>
+      <LOC_STRING _locID="alert:photo_save_failed">Onvoldoende ruimte op het vasteschijfstation. De foto kan niet worden opgeslagen.</LOC_STRING>
+      <LOC_STRING _locID="alert:download_save_failed">Onvoldoende ruimte op het vasteschijfstation. De download kan niet worden voltooid.</LOC_STRING>
+      <LOC_STRING _locID="alert:invalid_name_profile">Profielnamen moeten ten minste één letter of cijfer bevatten, en kunnen geen gereserveerde Windows®-woorden zijn.</LOC_STRING>
+      <LOC_STRING _locID="alert:invalid_name_save">Bestandsnamen moeten ten minste één letter of cijfer bevatten, en kunnen geen gereserveerde Windows®-woorden zijn.</LOC_STRING>
+      <LOC_STRING _locID="alert:profile_exists">Dat profiel bestaat al. Kies een andere naam.</LOC_STRING>
+      <LOC_STRING _locID="alert:save_failed_readonly">Bestand is alleen-lezen. Het spel kan niet worden opgeslagen.</LOC_STRING>
+      <LOC_STRING _locID="alert:load_failed">Bestand is beschadigd of anderszins onleesbaar.  Het spel kan niet worden geladen.</LOC_STRING>
+      <LOC_STRING _locID="error:startup_error_title">Zoo Tycoon 2-opstartfout</LOC_STRING>
+      <LOC_STRING _locID="error:init_config_info_failed">Fout in aanroep van InitConfigInformation</LOC_STRING>
+      <LOC_STRING _locID="error:d3d_create_failed">Direct3D-object kan niet worden gemaakt</LOC_STRING>
+      <LOC_STRING _locID="error:init_video_card_info_failed">Fout in aanroep van Config_InitVideoCardInfo</LOC_STRING>
+      <LOC_STRING _locID="error:enumerate_adapter_modes_failed">De grafische-adaptermodi kunnen niet worden opgesomd</LOC_STRING>
+      <LOC_STRING _locID="error:slow_processor">Je hebt een processor van 733 MHz nodig om Zoo Tycoon 2 goed te laten draaien. (Er is %s MHz aangetroffen.)</LOC_STRING>
+      <LOC_STRING _locID="error:low_system_memory">Je hebt ten minste %1s MB systeemgeheugen nodig om Zoo Tycoon 2 goed te laten draaien. (Er is %2s MB aangetroffen.)</LOC_STRING>
+      <LOC_STRING _locID="error:low_video_memory">Je hebt ten minste %1s MB videogeheugen nodig om Zoo Tycoon 2 goed te laten draaien. (Er is %2s MB aangetroffen.)</LOC_STRING>
+      <LOC_STRING _locID="error:unsupported_graphics_adapter">Zoo Tycoon 2 ondersteunt de grafische kaart %s niet.</LOC_STRING>
+      <LOC_STRING _locID="error:prototype_graphics_adapter">De grafische kaart %s is een prototype, dat problemen met Zoo Tycoon 2 kan opleveren.</LOC_STRING>
+      <LOC_STRING _locID="error:invalid_graphics_driver">Het grafisch stuurprogramma is niet geldig voor het besturingssysteem. Neem voor een bijgewerkt stuurprogramma contact op met de leverancier van de grafische kaart.</LOC_STRING>
+      <LOC_STRING _locID="error:old_graphics_driver">Het grafisch stuurprogramma is mogelijk te oud voor Zoo Tycoon 2. Neem voor een bijgewerkt stuurprogramma contact op met de leverancier van de grafische kaart.</LOC_STRING>
+      <LOC_STRING _locID="error:invalid_sound_driver">Het geluidsstuurprogramma is niet geldig voor het besturingssysteem. Neem voor een bijgewerkt stuurprogramma contact op met de leverancier van de geluidskaart.</LOC_STRING>
+      <LOC_STRING _locID="error:old_sound_driver">Het geluidsstuurprogramma is mogelijk te oud voor Zoo Tycoon 2. Neem voor een bijgewerkt stuurprogramma contact op met de leverancier van de geluidskaart.</LOC_STRING>
+      <LOC_STRING _locID="error:renderer_create_failed">Er kan door Zoo Tycoon 2 geen grafische weergavefunctie worden gemaakt. Neem contact op met de leverancier van de grafische kaart om te controleren of je het meest recente stuurprogramma hebt.</LOC_STRING>
+</ZT2Strings>

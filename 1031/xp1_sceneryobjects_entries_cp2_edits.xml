@@ -1,0 +1,19 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_balloonbouquet" version="9"/>
+      <LOC_STRING _locID="zoopedia_balloonbouquet:entry" version="9">Luftballonstrauß</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_balloonbouquet:text" version="9">
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\objects\scenery\MylarBalloons_df\MylarBalloons_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+     <p/>
+Immer wenn in Ihrem Zoo eine bedrohte, stark bedrohte oder ausgestorbene Tierart Nachwuchs bekommt, erhalten Sie als farbenfrohes Souvenir einen Luftballonstrauß!
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+ 
+</ZT2Strings>

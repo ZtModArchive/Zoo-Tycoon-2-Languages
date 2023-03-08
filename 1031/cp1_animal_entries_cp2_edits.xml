@@ -1,0 +1,254 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_meerkat" version="9"/>
+      <LOC_STRING _locID="zoopedia_meerkat:entry" version="9">Erdmännchen</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_meerkat:text" version="9">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/Meerkat/Meerkat_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>							 
+						 <cell width="156"/>						 
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Gefährdungsstatus:
+                     <br/>
+                        <color r="170" g="255" b="0">
+                     Gering gefährdet
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+				 <cell width="128">
+				  <color r="255" g="255" b="255">Buschland<br/></color>
+				  <img src="ui/icon_biomes/icon_scrub.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+				 </cell>	
+               <cell width="128">
+                  <color r="255" g="255" b="255">Südliches Afrika</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/Savannah_Africa_South.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Klasse: Säugetiere <i>(Mammalia)</i>
+                  <br/>
+                  Ordnung: Raubtiere <i>(Carnivora)</i>
+                  <br/>
+                  Familie: Schleichkatzen <i>(Viverridae)</i>
+                  <br/>
+                  Gattung: <i>Suricata</i>
+                  <br/>
+                  Art: <i>Suricatta</i>
+                  <br/>
+                  Unterart: <i>Suricata</i>                  
+                  </color>
+               </cell>
+				 <cell width="256" pady="10">
+				  <img src="UI/zoopedia/biome/scrub_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+				 </cell>	
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Spannende Fakten zum Erdmännchen</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Erdmännchen sind sehr gesellige Tiere. Sie leben in Gruppen zusammen und teilen eine gemeinsame Toilette und auch Pflichten wie die Aufzucht der Jungen.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Eine Gruppe von Erdmännchen besteht aus 5 bis 30 Tieren und wird Kolonie genannt.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Für viele Raubtiere ist ein Erdmännchen ein willkommener kleiner Leckerbissen. Daher steht immer ein Erdmännchen Wache, während die anderen schlafen oder fressen.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Erdmännchen ernähren sich von Käfern, Spinnen, Tausendfüsslern, Grillen und Skorpionen (gegen deren Gift sie immun sind).</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>               
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Erdmännchen halten mithilfe ihres Schwanzes das Gleichgewicht und verwenden ihn auch zur Kommunikation mit anderen Mitgliedern der Kolonie.</color>
+               </cell>                   
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">Um das Erdmännchen im Herausforderungs- oder Kampagnenmodus freizugeben, muss der Zoo einen Bekanntheitsgrad von 3 1/2 Sternen erreichen.</color>
+            <p/>Das Erdmännchen (auch Surikat genannt) gehört zur im südlichen Afrika beheimateten Familie der Mangusten. Wichtige Merkmale des Erdmännchens sind seine aufrechte Körperhaltung und das ausgeprägte Sozialverhalten.
+
+<p/>Erdmännchen leben normalerweise in trockenen offenen Gebieten und Savannen. Ihr Lebensraum erstreckt sich vom südwestlichen Angola bis Südafrika. Diese geselligen Tiere leben in Kolonien, normalerweise in Gebieten mit sandiger Erde, in der sie weit verzweigte unterirdische Bauten graben können.
+
+<p/>Erdmännchen werden ca. 25 bis 35 cm groß (ohne Schwanz). Sie sind wesentlich dünner als andere Mangusten. Sie haben spitze Schnauzen, ein silberbraunes Fell und einen Rücken mit dunklen, unregelmäßigen Streifen. Das Gesicht ist weiß und die Augen und Ohren sind von einer dunklen Fellzeichnung umgeben. Anders als die meisten Mangusten besitzen Erdmännchen vier statt fünf Zehen an jeder Pfote.
+
+<p/>Erdmännchen gehen ausschließlich tagsüber auf Futtersuche und ernähren sich hauptsächlich von Käfern, Spinnen und Tausendfüsslern. Manchmal fressen sie auch kleine Wirbeltiere, Eier und Wurzeln. Erdmännchen haben in der Regel zwei bis vier Junge, die meist im Herbst oder frühen Winter nach einer Tragzeit von etwa 11 Wochen auf die Welt kommen. Männchen und Weibchen kümmern sich gleichermaßen um die Aufzucht und den Schutz der Jungen.
+
+<p/>Erdmännchen richten sich auf ihre Hinterbeine oder sogar Zehen auf, um die Witterung anderer Tiere aufzunehmen und angreifende Geier zu erspähen. Sie verfügen über ausgezeichnete Augen und ein Repertoire von mindestens zehn verschieden Lauten, darunter auch ein bellender Warnruf.
+
+<p/>Da sie die Tollwut übertragen können, wurden die Erdmännchen in Gebieten, in denen sie eine potenzielle Gefahr für den Menschen darstellten, gejagt und in ihren Bauten vergiftet. Dies hat ihren Bestand jedoch nicht sehr beeinträchtigt. In Südafrika werden diese putzigen und zutraulichen Tiere gerne als Haustier gehalten.
+
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Mit freundlicher Genehmigung von <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft® Encarta® 2006.</color></u></a> © 1993-2005 Microsoft Corporation. Alle Rechte vorbehalten.
+         </cell>         
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_birdsecretary" version="9"/>
+      <LOC_STRING _locID="zoopedia_birdsecretary:entry" version="9">Sekretär</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_birdsecretary:text" version="9">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/BirdSecretary/BirdSecretary_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>						 
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Gefährdungsstatus:
+                     <br/>
+                        <color r="170" g="255" b="0">
+                     Gering gefährdet
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+               <cell width="128">
+                  <color r="255" g="255" b="255">Grasland<br/></color>
+                  <img src="ui/icon_biomes/icon_grassland.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+               </cell>
+					<cell width="128">
+						<color r="255" g="255" b="255">Afrika</color>
+						<br/>
+						<img src="ui/icon_maplocations/Grassland_Africa_Asia.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+					</cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Klasse: Vögel <i>(Aves)</i>
+                  <br/>
+                  Ordnung: Greifvögel <i>(Falconiformes)</i>
+                  <br/>
+                  Familie: <i>Sekretäre (Sagittariidae)</i>
+                  <br/>
+                  Gattung: <i>Sagittarius</i>
+                  <br/>
+                  Art: <i>Serpentarius</i>
+                  </color>
+               </cell>
+               <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/grassland_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+               </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Spannende Fakten zum Sekretär</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Der Sekretär kann mit seinen langen Beinen pro Tag bis zu 30 Kilometer zurücklegen.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">In Südafrika werden Sekretäre manchmal als Haustiere gehalten, da sie Schlangen und Ratten töten.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Schlangen sind die bevorzugte Nahrung des Sekretärs. Mit ihren Zehen greifen sie die Schlangen und schlagen sie anschließend auf den Boden, während sie sich mit ihren Flügeln vor Schlangenbissen schützen.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Sekretäre bilden lebenslange Partnerschaften und bewohnen über Jahre hinweg dasselbe Nest. Obwohl sie überwiegend als Einzelgänger leben, ist ihr Partner meist nicht weit entfernt.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>               
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Sekretäre geben so gut wie keine Laute von sich. Der einzige Laut in ihrem Repertoire ist ein Krächzen beim Paarungsritual.</color>
+               </cell>                   
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">Um den Sekretär im Herausforderungs- oder Kampagnenmodus freizugeben, muss der Zoo einen Bekanntheitsgrad von 3 Sternen erreichen.</color>
+            <p/>Sekretär ist der gebräuchliche Name für einen afrikanischen, südlich der Sahara beheimateten Greifvogel. Er ist über einen Meter groß, besitzt sehr lange Beine, einen langen Schwanz sowie einen kräftigen, hakenförmigen Schnabel. In vielen Büchern wird der Ursprung seines Namens der seltsamen Ähnlichkeit der langen Federn an seiner Haube mit Federkielen hinter dem Ohr eines Schreiberlings zugeschrieben. Tatsächlich verdankt er seinen Namen jedoch einer falschen Aussprache der arabischen Bezeichnung für diesen Vogel. Die überwiegende Farbe dieses Vogels ist ein bläuliches Grau. Seine Schenkel und seine Schwanzmarkierungen sind schwarz. Der Vogel ernährt sich von Kleintieren und Reptilien (insbesondere Schlangen), an die er sich meistens geschickt heranpirscht. Sekretäre fliegen äußerst selten. Diese einzelgängerischen Vögel bauen große, stabile Nester aus Ästen und Zweigen in Bäumen und Büschen und legen pro Gelege zwei Eier.
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Mit freundlicher Genehmigung von <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft® Encarta® 2006.</color></u></a> © 1993-2005 Microsoft Corporation. Alle Rechte vorbehalten.
+         </cell>         
+      </LOC_STRING>
+
+</ZT2Strings>

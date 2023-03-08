@@ -1,0 +1,59 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_themedtrashcan" version="6"/>
+      <LOC_STRING _locID="zoopedia_themedtrashcan:entry" version="6">Papelera, temática</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_themedtrashcan:text" version="6">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities\objects\scenery\trashcan_jt\trashcan_jt_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities\objects\scenery\trashcan_st\trashcan_st_icon.dds" sx="0" sy="0" sw="64" sh="64"/>                  
+                  <br/>Un container permite que las huéspedes dispongan de su basura y es vaciado por los trabajadores de mantenimiento. Los huéspedes se irritan si  los containers se llenan por completo, ensucian todo cuando un container no está disponible. Los huéspedes en tours gozan el ver objetos expuestos.          
+                  <p/>Para ver los temas que puedes desbloquear, pulsa el botón de fama del Zoo. Después, pulsa la pesta?a Premios y elige Premios persistentes.     
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_themedviewingareas" version="6"/>
+      <LOC_STRING _locID="zoopedia_themedviewingareas:entry" version="6">Cubiertas de mirador temáticas</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_themedviewingareas:text" version="6">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities\objects\scenery\ViewingArea_Jt\ViewingArea_Jt_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities\objects\scenery\ViewingArea_St\ViewingArea_St_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>
+               El pabellón proporciona una localización abrigada desde la cual los huéspedes pueden ver a los animales.  Los huéspedes en tours gozan el ver objetos expuestos.
+                  <p/>Para ver los diversos temas que puede desbloquear, haga clic en el botón Mostrar fama del zoo, seleccione la ficha Premios del zoo y luego haga clic en Premios permanentes. 
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_themedumbrellatable" version="6"/>
+      <LOC_STRING _locID="zoopedia_themedumbrellatable:entry" version="6">Mesa con sombrilla temática</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_themedumbrellatable:text" version="6">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities\objects\scenery\umbrellatable_jt\umbrellatable_jt_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities\objects\scenery\umbrellatable_St\umbrellatable_St_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>
+               Una mesa para comer permite a los húespedes sentarse para consumir bebida y comida comprada en el zoo. Los huéspedes en tours gozan el ver objetos expuestos.
+                  <p/>Para ver los temas que puedes desbloquear, pulsa el botón de fama del Zoo. Después, pulsa la pesta?a Premios y elige Premios persistentes.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+
+</ZT2Strings>

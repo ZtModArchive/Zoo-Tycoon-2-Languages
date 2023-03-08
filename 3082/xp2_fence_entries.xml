@@ -1,0 +1,48 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_marinefence:entry">Valla marina temática</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_marinefence:text">
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\objects\fences\marinefence_high_mm\marinefence_high_mm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>     
+      <p/>
+La valla marina temática se utiliza en instalaciones de animales y en las áreas públicas adyacentes.
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_marinewindowfence:entry">Valla marina temática con ventanas</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_marinewindowfence:text">
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\objects\fences\marinefence_window_mm\marinefence_window_mm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>     
+      <p/>
+La valla marina temática con ventanas se utiliza en instalaciones de animales y en las áreas públicas adyacentes.
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_showfence:entry">Valla de espectáculo marino</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_showfence:text">
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\objects\fences\showfence_mm\showfence_mm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>     
+      <p/>
+La valla del espectáculo marino no es lo suficientemente sólida por lo que no es la mejor opción para las exhibiciones marinas. Sin embargo, es una opción excelente para crear áreas de espectáculo cercadas para las tribunas.
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+
+</ZT2Strings>
