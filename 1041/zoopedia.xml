@@ -1,0 +1,471 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_label:label">
+         <font name="HGS創英角ﾎﾟｯﾌﾟ体" size="18" image="ui\font\color_mainmenu.dds" shadowx="-1" shadowy="1" shadowa="255">
+            <color r="255" g="250" b="200">
+               <b>動物園百科</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="text_format:body_text">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="0" shadowy="0" shadowa="0">
+            <color r="74" g="74" b="74">
+               <LOC_DUMMY>%text%</LOC_DUMMY>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="text_format:zoopedia_entity_label">
+         <font name="HGS創英角ﾎﾟｯﾌﾟ体" size="14" image="ui\font\color_mainmenu.tga" shadowx="-2" shadowy="1" shadowa="50">
+            <color r="255" g="250" b="200">
+               <LOC_DUMMY>%text%</LOC_DUMMY>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="text_format:zoopedia_secondary_label">
+         <font name="ＭＳ Ｐゴシック" size="11" image="ui\font\color_mainmenu.tga" shadowx="-2" shadowy="1" shadowa="50">
+            <color r="225" g="225" b="165">
+               <LOC_DUMMY>%text%</LOC_DUMMY>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_toc:format">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="1" shadowy="-1" shadowa="0">
+            <LOC_DUMMY>%text%</LOC_DUMMY>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_animals:entry">動物</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_animals:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>
+                  
+                  
+                  
+             Zoo Tycoon 2 に登場する動物の情報を参照するには、画面左にあるリストの動物名をクリックしてください。
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_biomes:entry">生物群系</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_biomes:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>
+                  
+                  
+                  
+             Zoo Tycoon 2 では、10 種類の生物群系が用意されています。生物群系とは、特定の気候条件または天候条件において生息する動植物の複合的な群系です。
+			
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+			生物群系の情報を参照するには、画面左にあるリストの生物群系名をクリックしてください。
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_animalenrichment:entry">動物用アイテム</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_animalenrichment:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>
+                  
+                  
+                  
+             実世界では、飼育員が動物に刺激を与え、その動物が野生で見せるような自然な行動をとるように仕向けるために動物用アイテムを使います。
+             
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+             たとえば、野生のホッキョクグマは、氷を掘らなければ食べ物が見つからないことに慣れています。エサを氷塊の中に詰めて与えれば、動物園でも同じ行動をとらせることができます。
+			
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+			野生のチンパンジーが木の枝にぶら下がるのと同じように、うんていに登ってぶら下がることができるので、うんていを与えられたチンパンジーは喜びます。
+			
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+			動物用アイテムの情報を参照するには、画面左にあるリストのアイテム名をクリックしてください。
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_paths:entry">道</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_paths:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>
+                  
+                  
+                  
+             道を上手に配置すると、来園者の満足度を下げることなく、正しい方向に進むよう導くことができます。
+			
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+			道の情報を参照するには、画面左にあるリストの道の材質名をクリックしてください。
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_buildings:entry">建物</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_buildings:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>
+                  
+                  
+                  
+             Zoo Tycoon 2 では、来園者の興味をそそる品物やサービスを提供する、さまざまな建物が用意されています。
+			
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+			建物の情報を参照するには、画面左にあるリストの建物名をクリックしてください。
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_staff:entry">スタッフ</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_staff:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>
+                  
+                  
+                  
+             動物園の運営に協力してくれる 3 種類のスタッフを雇うことができます。
+			
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+			スタッフの種類の情報を参照するには、画面左にあるリストのスタッフの種類の名前をクリックしてください。
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_foodcontainer:entry">エサ入れ</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_foodcontainer:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>
+                  
+                  
+                  
+             Zoo Tycoon 2 では、登場するさまざまな動物のニーズにこたえるために、いろいろな種類のエサ入れが用意されています。
+			
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+			エサ入れの情報を参照するには、画面左にあるリストのエサ入れの名前をクリックしてください。
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_food:entry">動物のエサ</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_food:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>
+                  
+                  
+                  
+             Zoo Tycoon 2 では、登場するさまざまな動物の空腹を満たすために、いろいろな種類のエサが用意されています。
+			
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+			エサの情報を参照するには、画面左にあるリストのエサ名をクリックしてください。
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_shelters:entry">獣舎</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_shelters:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>
+                  
+                  
+                  
+             Zoo Tycoon 2 では、登場するさまざまな動物のニーズにこたえるために、いろいろな種類の獣舎が用意されています。
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_scenery:entry">設備アイテム</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_scenery:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>
+                  
+                  
+                  
+             Zoo Tycoon 2 では、園内の美観を整えるためのさまざまな設備アイテムが用意されています。
+			
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+			設備アイテムの情報を参照するには、画面左にあるリストのアイテム名をクリックしてください。
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_fences:entry">フェンス</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_fences:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>
+                  
+                  
+                  
+             Zoo Tycoon 2 では、装飾的なものから保護効果の高いものまで、さまざまな種類のフェンスが用意されています。
+			
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+			フェンスの種類の情報を参照するには、画面左にあるリストのフェンスの種類の名前をクリックしてください。
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_foliage:entry">樹木</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_foliage:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>
+                  
+                  
+                  
+             Zoo Tycoon 2 では、各生物群系に適したさまざまな種類の樹木や草花が用意されています。
+			
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+		樹木などの植物の情報を参照するには、画面左にあるリストの植物名をクリックしてください。
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_bushes:entry">低木と地被植物</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_bushes:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>
+                  
+                  
+                  
+             Zoo Tycoon 2 では、各生物群系に適したさまざまな種類の樹木や草花が用意されています。
+			
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+		樹木などの植物の情報を参照するには、画面左にあるリストの植物名をクリックしてください。
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_trees:entry">高木</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_trees:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>
+                  
+                  
+                  
+             Zoo Tycoon 2 では、各生物群系に適したさまざまな種類の樹木や草花が用意されています。
+			
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+		樹木などの植物の情報を参照するには、画面左にあるリストの植物名をクリックしてください。
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_rocks:entry">岩</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_rocks:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>
+                  
+                  
+                  
+             Zoo Tycoon 2 では、各生物群系に適したさまざまな種類の岩が用意されています。
+             
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+             岩の種類の情報を参照するには、画面左にあるリストの岩の名前をクリックしてください。
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_legal:entry">ヘルプ/バージョン情報</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_legal:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>
+                  
+                  
+Zoo Tycoon 2 の法的情報および著作権情報を参照するには、画面左にあるリストのトピック名をクリックしてください。              
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+</ZT2Strings>

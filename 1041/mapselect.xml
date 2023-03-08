@@ -1,0 +1,166 @@
+<ZT2Strings>
+      <LOC_STRING _locID="mapdata:map_info_label">
+         <font name="ＭＳ Ｐゴシック" size="12" image="ui\font\color_mainmenu.tga">
+            <color r="255" g="248" b="178">
+               <b>マップの情報:</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="mapdata:map_select_label">
+         <font name="ＭＳ Ｐゴシック" size="12" image="ui\font\color_mainmenu.tga">
+            <color r="255" g="248" b="178">
+               <b>マップの選択:</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="mapdata:map_scenario_label">
+         <font name="ＭＳ Ｐゴシック" size="12" image="ui\font\color_mainmenu.tga">
+            <color r="255" g="248" b="178">
+               <b>シナリオの選択:</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="mapdata:map_list_label">
+         <font name="ＭＳ Ｐゴシック" size="12" image="ui\font\color_mainmenu.tga">
+            <color r="255" g="248" b="178">
+               <b>マップの選択:</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="mapdata:map_location_label">
+         <font name="ＭＳ Ｐゴシック" size="12" image="ui\font\color_mainmenu.tga">
+            <color r="255" g="248" b="178">
+               <b>生物群系の選択:</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="mapdata:select_campaign_label">
+         <font name="ＭＳ Ｐゴシック" size="12" image="ui\font\color_mainmenu.tga">
+            <color r="255" g="248" b="178">
+               <b>キャンペーンの選択:</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="mapdata:biome">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="1" shadowy="1">
+            生物群系:
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="mapdata:play">
+         <font name="HGS創英角ﾎﾟｯﾌﾟ体" size="16">
+            プレイ
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="mapdata:back">
+         <font name="HGS創英角ﾎﾟｯﾌﾟ体" size="16">
+            戻る
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="mapdata:challengeheading">チャレンジゲーム</LOC_STRING>
+      <LOC_STRING _locID="mapdata:freeformheading">フリーゲーム</LOC_STRING>
+      <LOC_STRING _locID="mapdata:campaignheading">キャンペーンゲーム</LOC_STRING>
+      <LOC_STRING _locID="mapdata:modeheading">
+         <font name="HGS創英角ﾎﾟｯﾌﾟ体" size="16" image="ui\font\color_mainmenu.tga">
+            <color r="255" g="248" b="178">
+               <LOC_DUMMY>%text%</LOC_DUMMY>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="mapdata:unlimited">
+         <font name="HGS創英角ﾎﾟｯﾌﾟ体" size="12">無制限の資金</font>
+      </LOC_STRING>
+      <LOC_STRING _locID="mapdata:play_button_stt">プレイ</LOC_STRING>
+      <LOC_STRING _locID="mapdata:play_button_ltt">
+         <color r="255" g="248" b="178">
+            プレイ
+         </color>
+         <br>選択したマップでプレイします。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="mapdata:cancel_button_stt">キャンセル</LOC_STRING>
+      <LOC_STRING _locID="mapdata:cancel_button_ltt">
+         <color r="255" g="248" b="178">
+            キャンセル
+         </color>
+         <br>キャンセルしてメインメニューに戻ります。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="mapdata:posformat">
+         <font name="HGS創英角ﾎﾟｯﾌﾟ体" size="12" shadowx="-1" shadowy="1" shadowa="255">
+            <color r="0" g="255" b="0">
+               <LOC_DUMMY>%text%</LOC_DUMMY>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="mapdata:campaign_name">
+         <font name="HGS創英角ﾎﾟｯﾌﾟ体" size="12" image="ui\font\color_mainmenu.tga">
+            <LOC_DUMMY>%text%</LOC_DUMMY>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="mapdata:campaign_names">
+         <font name="ＭＳ Ｐゴシック" size="12" image="ui\font\color_mainmenu.tga">
+            <LOC_DUMMY>%text%</LOC_DUMMY>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="mapname:format">
+         <font name="ＭＳ Ｐゴシック" size="12" shadowx="1" shadowy="1">
+            <LOC_DUMMY>%text%</LOC_DUMMY>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="mapname:largeformat">
+         <font name="ＭＳ Ｐゴシック" size="12" shadowx="1" shadowy="1">
+            <LOC_DUMMY>%text%</LOC_DUMMY>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="mapname:demozoo">デモ動物園</LOC_STRING>
+      <LOC_STRING _locID="mapsize:small">小</LOC_STRING>
+      <LOC_STRING _locID="mapsize:medium">中</LOC_STRING>
+      <LOC_STRING _locID="mapsize:large">大</LOC_STRING>
+      <LOC_STRING _locID="mapsize:header">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="1" shadowy="1">
+            マップのサイズ:
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="maplocation:format">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="1" shadowy="1">
+            <LOC_DUMMY>%text%</LOC_DUMMY>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="maplocation:header">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="1" shadowy="1">
+            地域:
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="difficulty:format">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="1" shadowy="1">
+            <LOC_DUMMY>%text%</LOC_DUMMY>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="difficulty:header">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="1" shadowy="1">
+            難易度:
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="difficulty:easy">簡単</LOC_STRING>
+      <LOC_STRING _locID="difficulty:medium">普通</LOC_STRING>
+      <LOC_STRING _locID="difficulty:hard">難しい</LOC_STRING>
+      <LOC_STRING _locID="globe_label:format">
+         <font name="HGS創英角ﾎﾟｯﾌﾟ体" size="15" image="ui\font\color_mainmenu.tga">
+            <color r="255" g="248" b="178">
+               ワールドマップ
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="map_name_field:format">
+         <font name="HGS創英角ﾎﾟｯﾌﾟ体" size="20" image="ui\font\color_mainmenu.tga">
+            <color r="255" g="248" b="178">
+               <LOC_DUMMY>%text%</LOC_DUMMY>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="map_other_field:format">
+         <font name="HGS創英角ﾎﾟｯﾌﾟ体" size="12" image="ui\font\color_mainmenu.tga">
+            <color r="255" g="248" b="178">
+               <LOC_DUMMY>%text%</LOC_DUMMY>
+            </color>
+         </font>
+      </LOC_STRING>
+</ZT2Strings>

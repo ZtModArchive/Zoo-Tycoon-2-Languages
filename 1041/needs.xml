@@ -1,0 +1,474 @@
+<ZT2Strings>
+      <LOC_STRING _locID="entityneeds:satisfied">高</LOC_STRING>
+      <LOC_STRING _locID="entityneeds:pressing">中</LOC_STRING>
+      <LOC_STRING _locID="entityneeds:critical">低</LOC_STRING>
+      <LOC_STRING _locID="entityneeds:healthy">良好</LOC_STRING>
+      <LOC_STRING _locID="entityneeds:unhealthy">やや悪い</LOC_STRING>
+      <LOC_STRING _locID="entityneeds:sick">病気</LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_environment">飼育環境満足度: </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_environment_ltt">
+         <color r="255" g="248" b="178">
+            飼育環境満足度
+         </color>
+         <br/>
+         動物にとっての現在の展示場の快適さを表します。動物本来の生育環境を再現する展示場を作ることは、動物と来園者のどちらのためにもなります。
+         
+         
+         
+         
+         
+         
+         
+           
+      
+      
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_space">広さ: </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_biome">生物群系: </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_hunger">満腹度: </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_hunger_ltt">
+         <color r="255" g="248" b="178">
+            満腹度
+         </color>
+         <br/>
+         
+         動物が現在どの程度お腹をすかせているかを表します。どの動物も、エサと飲み水がなければ生きていくことはできません。
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_thirst">のどのうるおい度: </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_thirst_ltt">
+         <color r="255" g="248" b="178">
+            のどのうるおい度
+         </color>
+         <br/>
+         
+         
+         
+         
+   動物が現在どの程度水を飲みたがっているかを表します。すべての動物がいつでも新鮮な水を飲めるようにしてください。
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_rest">休息量: </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_rest_ltt">
+         <color r="255" g="248" b="178">
+            休息量
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         
+         
+         
+         動物が現在どの程度休息できているかを表します。疲れている動物は、眠れる場所があればそこで眠り、体力を回復します。 
+      
+      
+      
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_hygiene">衛生状態: </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_hygiene_ltt">
+         <color r="255" g="248" b="178">
+            衛生状態
+         </color>
+         <br/>
+         動物が現在どの程度清潔かを表します。汚れた動物は病気にかかりやすくなります。動物は、よく自分で毛づくろいをします。
+
+      </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_exercise">運動量: </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_exercise_ltt">
+         <color r="255" g="248" b="178">
+            運動量
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         
+         
+         
+         動物が現在どの程度運動できているかを表します。動物は、動き回ったり、ほかの動物と触れ合ったり、動物用アイテムを使うことで運動します。
+      
+      
+      
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_shelter">獣舎: </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_shelter_ltt">
+         <color r="255" g="248" b="178">
+            獣舎
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         
+         
+         
+          これがプレイヤーに表示されることはありません。
+      
+      
+      
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_privacy">プライバシー: </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_privacy_ltt">
+         <color r="255" g="248" b="178">
+            プライバシー
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         動物が現在どの程度プライバシーを守ることができているかを表します。見学する来園者が増えたときは、獣舎に入るか、草むらや陰になった部分に伏せることで、プライバシーレベルが回復します。     
+      
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_reproduction">繁殖: </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_reproduction_ltt">
+         <color r="255" g="248" b="178">
+            繁殖
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         
+         
+         
+          これがプレイヤーに表示されることはありません。
+      
+      
+      
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_social">社交: </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_social_ltt">
+         <color r="255" g="248" b="178">
+            社交
+         </color>
+         <br/>
+         
+動物が現在どの程度社交性を満たすことができているかを表します。動物によって、求める社交性の程度は異なります。         
+         
+         
+         
+         
+         
+ 
+      
+      
+      
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_stimulation">刺激: </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_stimulation_ltt">
+         <color r="255" g="248" b="178">
+            刺激
+         </color>
+         <br/>
+         
+  動物が現在どの程度刺激を受けているかを表します。動物は、さまざまな動物用アイテムを使うことで、この欲求を満たすことができます。       
+         
+         
+         
+         
+         
+       
+      </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_happy">幸福度: </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_happy_ltt">
+         <color r="255" g="248" b="178">
+            幸福度
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         
+         
+         動物は幸せで満足しています。
+      
+      
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_not_happy">幸福度: </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_not_happy_ltt">
+         <color r="255" g="248" b="178">
+            幸福度
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         
+         
+         動物は幸せではありません。来園者は、不幸な動物を見たくありません。
+      
+      
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_well">健康状態: </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_well_ltt">
+         <color r="255" g="248" b="178">
+            健康状態
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         
+         
+         動物は健康です。
+      
+      
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_sick">健康状態: </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_sick_ltt">
+         <color r="255" g="248" b="178">
+            健康状態
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         
+         
+         動物は病気です。すぐに治療しないと、死んでしまうかもしれません。飼育員は病気の動物を治療できます。 
+      
+      
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_not_pregnant">妊娠状況: 妊娠していません</LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_not_pregnant_ltt">
+         <color r="255" g="248" b="178">
+            妊娠状況
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         
+         
+         動物は妊娠していません。
+      
+      
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_pregnant">妊娠状況: 妊娠しています</LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_pregnant_ltt">
+         <color r="255" g="248" b="178">
+            妊娠状況
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         
+         
+         動物は妊娠しています。アイコンが赤色に変わると、出産は間もなくです。 
+      
+      
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:guest_happy">満足度: </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:guest_happy_ltt">
+         <color r="255" g="248" b="178">
+            満足度
+         </color>
+         <br/>
+         
+         
+       来園者の現在の満足度を表します。空腹が満たされ、のどの渇きもなく、楽しんでいる来園者は満足度が高くなります。
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:guest_hunger">満腹度: </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:guest_hunger_ltt">
+         <color r="255" g="248" b="178">
+            満腹度
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         
+         
+         
+         来園者が現在どの程度満腹かを表します。来園者は、飲食物のスタンドやレストラン、軽食のカートで、さまざまな食事をするのを好みます。
+      
+      
+      
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:guest_thirst">のどのうるおい度: </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:guest_thirst_ltt">
+         <color r="255" g="248" b="178">
+            のどのうるおい度
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         
+         
+         
+         来園者ののどが現在どの程度うるおっているかを表します。来園者は、飲食物のスタンドで飲み物を買うのが好きです。 
+      
+      
+      
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:guest_rest">休息量: </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:guest_rest_ltt">
+         <color r="255" g="248" b="178">
+            休息量
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         
+         
+         
+         来園者が現在どの程度疲れているかを表します。来園者は、動物園の中を歩き回っているうちに疲れると、ベンチなどに座って休息したいと思うようになります。 
+      
+      
+      
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:guest_bathroom">トイレ充足度: </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:guest_bathroom_ltt">
+         <color r="255" g="248" b="178">
+            トイレ充足度
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         
+         
+         
+         来園者が現在どの程度トイレに行きたがっているかを表します。多くの場合、来園者は、何かを食べたり飲んだりした後にトイレに行きたくなります。 
+      
+      
+      
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:guest_amusement">楽しさ: </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:guest_amusement_ltt">
+         <color r="255" g="248" b="178">
+            楽しさ
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         
+         
+         
+         来園者が現在どの程度楽しんでいるかを表します。噴水やアーチ、像などのおもしろいアイテムがあると、来園者は楽しく感じます。
+      
+      </LOC_STRING>
+</ZT2Strings>

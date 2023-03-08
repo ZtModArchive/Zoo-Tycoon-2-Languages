@@ -1,0 +1,59 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_animaleducator:entry">インストラクター</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_animaleducator:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/units/staff/Educator/Educator_F_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/units/staff/Educator/Educator_M_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>
+                  インストラクターの役割は、園内を回って、来園者に話しかけ、動物園の動物について説明することです。そのとき見学している動物についてのおもしろい話をインストラクターから聞くと、動物園での見学がより楽しくなります。        
+                  <p/>
+                  インストラクターは、園内の各所に設置されているレクチャーカウンターで動物について来園者に説明します。レクチャーカウンターが設置されると、インストラクターが、その近くにある展示場について来園者に説明を始めます。        
+                  <p/>
+                      レクチャーカウンターを見つけられないインストラクターは、スタッフセンターに向かいます。スタッフセンターが見つからない場合は、園内を歩き回ることになります。
+                  <p/>
+                      インストラクターへの給料は、毎月動物園の口座から引き落とされます。ただし、インストラクターは寄付金収入の増加にも貢献することを忘れないでください。動物園を訪れて、楽しみながらためになる知識を得ることのできた来園者は寄付を惜しまないからです。			
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_maintworker:entry">メンテナンス員</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_maintworker:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/units/staff/Worker/Worker_F_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/units/staff/Worker/Worker_M_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>
+                             メンテナンス員は、動物園の維持管理を担当します。主な仕事は、道の掃除とごみの回収です。メンテナンス員は進んで仕事をこなしますが、特定の業務を割り当てることもできます。            
+                  <p/>
+                       動物園が清潔に保たれていると来園者の満足度が上がるので、メンテナンス員は重要な役割を担っています。園内の道にごみが落ちていたり、ごみ箱があふれていたりといった汚れが目立ち始めると、来園者は長居せずに帰ってしまうことがあります。メンテナンス員への給料は、毎月動物園の口座から引き落とされます。
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_zookeeper:entry">飼育員</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_zookeeper:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/units/staff/Keeper/Keeper_F_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/units/staff/Keeper/Keeper_M_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>
+                  
+飼育員は、動物園で最も重要なスタッフです。エサやりや病気の治療、フンの始末など、園内のあらゆる動物の欲求を満たしてやれるように訓練されています。飼育員の給料はスタッフの中でも最も高額で、毎月 動物園の口座から引き落とされますが、来園者視点に切り替えて、自分で飼育員の担当業務をすべてこなせば、この費用はかからないということを忘れないでください。
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+</ZT2Strings>

@@ -1,0 +1,43 @@
+<ZT2Strings>
+      <LOC_STRING _locID="alert:sttformat">
+         <font name="ＭＳ Ｐゴシック" size="10">%text%</font>
+      </LOC_STRING>
+      <LOC_STRING _locID="alert:lttformat">
+         <font name="ＭＳ Ｐゴシック" size="10">%text%</font>
+      </LOC_STRING>
+      <LOC_STRING _locID="alert:save_game_message">
+         <font name="HGS創英角ﾎﾟｯﾌﾟ体" size="20">
+            セーブされました
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="alert:alert">
+         <font name="HGS創英角ﾎﾟｯﾌﾟ体" size="16">
+            <color r="255" g="197" b="78">
+               <LOC_DUMMY>%text%</LOC_DUMMY>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="alert:save_failed">ハードディスクの空き領域が不足しています。ゲームを保存できません。</LOC_STRING>
+      <LOC_STRING _locID="alert:photo_save_failed">ハードディスクの空き領域が不足しています。写真を保存できません。</LOC_STRING>
+      <LOC_STRING _locID="alert:download_save_failed">ハードディスクの空き領域が不足しています。ダウンロードを完了できません。</LOC_STRING>
+      <LOC_STRING _locID="alert:invalid_name_profile">プロファイル名には、1 つ以上の英字または数字が含まれている必要があります。また、Windows(R) の予約語は使用できません。</LOC_STRING>
+      <LOC_STRING _locID="alert:invalid_name_save">ファイル名には、1 つ以上の英字または数字が含まれている必要があります。また、Windows(R) の予約語は使用できません。</LOC_STRING>
+      <LOC_STRING _locID="alert:profile_exists">そのプロファイルは既に存在します。別の名前を選んでください。</LOC_STRING>
+      <LOC_STRING _locID="alert:save_failed_readonly">ファイルが読み取り専用になっています。ゲームをセーブできません。</LOC_STRING>
+      <LOC_STRING _locID="alert:load_failed">ファイルが壊れているか、読み込むことができません。ゲームをロードできません。</LOC_STRING>
+      <LOC_STRING _locID="error:startup_error_title">Zoo Tycoon 2 スタートアップエラー</LOC_STRING>
+      <LOC_STRING _locID="error:init_config_info_failed">InitConfigInformation の呼び出しエラー</LOC_STRING>
+      <LOC_STRING _locID="error:d3d_create_failed">Direct3D オブジェクトの作成に失敗しました</LOC_STRING>
+      <LOC_STRING _locID="error:init_video_card_info_failed">Config_InitVideoCardInfo の呼び出しエラー</LOC_STRING>
+      <LOC_STRING _locID="error:enumerate_adapter_modes_failed">グラフィックアダプタモードの列挙に失敗しました</LOC_STRING>
+      <LOC_STRING _locID="error:slow_processor">Zoo Tycoon 2 が正しく動作するには、1 GHz MHz 以上のプロセッサが必要です (%s MHz が検出されました)。</LOC_STRING>
+      <LOC_STRING _locID="error:low_system_memory">Zoo Tycoon 2 を実行するには、%1s MB 以上のシステムメモリが必要です (%2s MB が検出されました)。</LOC_STRING>
+      <LOC_STRING _locID="error:low_video_memory">Zoo Tycoon 2 を実行するには、%1s MB 以上のビデオメモリが必要です (%2s MB が検出されました)。</LOC_STRING>
+      <LOC_STRING _locID="error:unsupported_graphics_adapter">Zoo Tycoon 2 では、%s グラフィックカードはサポートされません。</LOC_STRING>
+      <LOC_STRING _locID="error:prototype_graphics_adapter">%s グラフィックカードはプロトタイプのため、Zoo Tycoon 2 で使用すると問題が生じる可能性があります。</LOC_STRING>
+      <LOC_STRING _locID="error:invalid_graphics_driver">グラフィックドライバが OS に対応していません。グラフィックカードの製造元から新しいドライバを入手してください。</LOC_STRING>
+      <LOC_STRING _locID="error:old_graphics_driver">グラフィックドライバがおそらく古いため、Zoo Tycoon 2 を実行できません。グラフィックカードの製造元から新しいドライバを入手してください。</LOC_STRING>
+      <LOC_STRING _locID="error:invalid_sound_driver">サウンドドライバが OS に対応していません。サウンドカードの製造元から新しいドライバを入手してください。</LOC_STRING>
+      <LOC_STRING _locID="error:old_sound_driver">サウンドドライバがおそらく古いため、Zoo Tycoon 2 を実行できません。サウンドカードの製造元から新しいドライバを入手してください。</LOC_STRING>
+      <LOC_STRING _locID="error:renderer_create_failed">グラフィックレンダラを作成できません。グラフィックカードの製造元でドライバが最新かどうか確認してください。</LOC_STRING>
+</ZT2Strings>

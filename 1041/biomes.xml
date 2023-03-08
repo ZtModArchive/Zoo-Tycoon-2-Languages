@@ -1,0 +1,305 @@
+<ZT2Strings>
+      <LOC_STRING _locID="biometype:format">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="1" shadowy="1" shadowa="32">%text%</font>
+      </LOC_STRING>
+      <LOC_STRING _locID="biometype:alpine">高山帯</LOC_STRING>
+      <LOC_STRING _locID="biometype:alpine_ltt">
+         <color r="255" g="248" b="178">
+            高山帯
+         </color>
+         <br/>
+      </LOC_STRING>
+      <LOC_STRING _locID="biometype:borealforest">亜寒帯樹林</LOC_STRING>
+      <LOC_STRING _locID="biometype:borealforest_ltt">
+         <color r="255" g="248" b="178">
+            亜寒帯樹林
+         </color>
+         <br/>
+      </LOC_STRING>
+      <LOC_STRING _locID="biometype:temperateforest">温帯林 </LOC_STRING>
+      <LOC_STRING _locID="biometype:temperateforest_ltt">
+         <color r="255" g="248" b="178">
+            温帯林
+         </color>
+         <br/>
+      </LOC_STRING>
+      <LOC_STRING _locID="biometype:desert">砂漠</LOC_STRING>
+      <LOC_STRING _locID="biometype:desert_ltt">
+         <color r="255" g="248" b="178">
+            砂漠
+         </color>
+         <br/>
+      </LOC_STRING>
+      <LOC_STRING _locID="biometype:grassland">草原 </LOC_STRING>
+      <LOC_STRING _locID="biometype:grassland_ltt">
+         <color r="255" g="248" b="178">
+            草原
+         </color>
+         <br/>
+      </LOC_STRING>
+      <LOC_STRING _locID="biometype:gridland">グリッドランド</LOC_STRING>
+      <LOC_STRING _locID="biometype:gridland_ltt">
+         <color r="255" g="248" b="178">
+            グリッドランド
+         </color>
+         <br/>
+      </LOC_STRING>
+      <LOC_STRING _locID="biometype:tropicalrainforest">熱帯雨林</LOC_STRING>
+      <LOC_STRING _locID="biometype:tropicalrainforest_ltt">
+         <color r="255" g="248" b="178">
+            熱帯雨林
+         </color>
+         <br/>
+      </LOC_STRING>
+      <LOC_STRING _locID="biometype:savannah">サバンナ</LOC_STRING>
+      <LOC_STRING _locID="biometype:savannah_ltt">
+         <color r="255" g="248" b="178">
+            サバンナ
+         </color>
+         <br/>
+      </LOC_STRING>
+      <LOC_STRING _locID="biometype:scrub">低木帯</LOC_STRING>
+      <LOC_STRING _locID="biometype:scrub_ltt">
+         <color r="255" g="248" b="178">
+            低木帯
+         </color>
+         <br/>
+      </LOC_STRING>
+      <LOC_STRING _locID="biometype:tundra">ツンドラ</LOC_STRING>
+      <LOC_STRING _locID="biometype:tundra_ltt">
+         <color r="255" g="248" b="178">
+            ツンドラ
+         </color>
+         <br/>
+      </LOC_STRING>
+      <LOC_STRING _locID="biometype:wetlands">湿地帯</LOC_STRING>
+      <LOC_STRING _locID="biometype:wetlands_ltt">
+         <color r="255" g="248" b="178">
+            湿地帯
+         </color>
+         <br/>
+      </LOC_STRING>
+      <LOC_STRING _locID="alpine:icon_stt">高山帯</LOC_STRING>
+      <LOC_STRING _locID="alpine:deepwater">深い水域</LOC_STRING>
+      <LOC_STRING _locID="alpine:deepwater_stt">深い水域</LOC_STRING>
+      <LOC_STRING _locID="alpine:deepwater_ltt">深い水域を選択します。地面にマウスポインタを置いてクリックし、深い水域を作ります。</LOC_STRING>
+      <LOC_STRING _locID="alpine:shallowwater">浅い水域</LOC_STRING>
+      <LOC_STRING _locID="alpine:shallowwater_stt">浅い水域</LOC_STRING>
+      <LOC_STRING _locID="alpine:shallowwater_ltt">浅い水域を選択します。地面にマウスポインタを置いてクリックし、浅い水域を作ります。</LOC_STRING>
+      <LOC_STRING _locID="alpine:ground">岩</LOC_STRING>
+      <LOC_STRING _locID="alpine:ground_stt">岩</LOC_STRING>
+      <LOC_STRING _locID="alpine:ground_ltt">岩を選択します。地面にマウスポインタを置いてクリックし、岩場を作ります。</LOC_STRING>
+      <LOC_STRING _locID="alpine:ground-cover">草</LOC_STRING>
+      <LOC_STRING _locID="alpine:ground-cover_stt">草</LOC_STRING>
+      <LOC_STRING _locID="alpine:ground-cover_ltt">草を選択します。地面にマウスポインタを置いてクリックし、草地を作ります。</LOC_STRING>
+      <LOC_STRING _locID="alpine:mix">草と岩</LOC_STRING>
+      <LOC_STRING _locID="alpine:mix_stt">草と岩</LOC_STRING>
+      <LOC_STRING _locID="alpine:mix_ltt">草と岩を選択します。地面にマウスポインタを置いてクリックし、草の生えた岩場を作ります。</LOC_STRING>
+      <LOC_STRING _locID="alpine:foliage-mix">やせ地</LOC_STRING>
+      <LOC_STRING _locID="alpine:foliage-mix_stt">やせ地</LOC_STRING>
+      <LOC_STRING _locID="alpine:foliage-mix_ltt">やせ地を選択します。地面にマウスポインタを置いてクリックし、比較的植物の少ない地面を作ります。</LOC_STRING>
+      <LOC_STRING _locID="alpine:foliage-mix-terrain">雲霧林</LOC_STRING>
+      <LOC_STRING _locID="alpine:foliage-mix-terrain_stt">雲霧林</LOC_STRING>
+      <LOC_STRING _locID="alpine:foliage-mix-terrain_ltt">雲霧林を選択します。地面にマウスポインタを置いてクリックし、森林を作ります。</LOC_STRING>
+      <LOC_STRING _locID="borealforest:icon_stt">亜寒帯樹林</LOC_STRING>
+      <LOC_STRING _locID="borealforest:deepwater">深い水域</LOC_STRING>
+      <LOC_STRING _locID="borealforest:deepwater_stt">深い水域</LOC_STRING>
+      <LOC_STRING _locID="borealforest:deepwater_ltt">深い水域を選択します。地面にマウスポインタを置いてクリックし、深い水域を作ります。</LOC_STRING>
+      <LOC_STRING _locID="borealforest:shallowwater">浅い水域</LOC_STRING>
+      <LOC_STRING _locID="borealforest:shallowwater_stt">浅い水域</LOC_STRING>
+      <LOC_STRING _locID="borealforest:shallowwater_ltt">浅い水域を選択します。地面にマウスポインタを置いてクリックし、浅い水域を作ります。</LOC_STRING>
+      <LOC_STRING _locID="borealforest:ground">土</LOC_STRING>
+      <LOC_STRING _locID="borealforest:ground_stt">土</LOC_STRING>
+      <LOC_STRING _locID="borealforest:ground_ltt">土を選択します。地面にマウスポインタを置いてクリックし、土がむき出しの地面を作ります。</LOC_STRING>
+      <LOC_STRING _locID="borealforest:ground-cover">林床</LOC_STRING>
+      <LOC_STRING _locID="borealforest:ground-cover_stt">林床</LOC_STRING>
+      <LOC_STRING _locID="borealforest:ground-cover_ltt">林床を選択します。地面にマウスポインタを置いてクリックし、松の葉で覆われた林床を作ります。</LOC_STRING>
+      <LOC_STRING _locID="borealforest:mix">林床と土</LOC_STRING>
+      <LOC_STRING _locID="borealforest:mix_stt">林床と土</LOC_STRING>
+      <LOC_STRING _locID="borealforest:mix_ltt">林床と土を選択します。地面にマウスポインタを置いてクリックし、松の葉と土で覆われた林床を作ります。</LOC_STRING>
+      <LOC_STRING _locID="borealforest:foliage-mix">疎林</LOC_STRING>
+      <LOC_STRING _locID="borealforest:foliage-mix_stt">疎林</LOC_STRING>
+      <LOC_STRING _locID="borealforest:foliage-mix_ltt">疎林を選択します。地面にマウスポインタを置いてクリックし、疎林を作ります。</LOC_STRING>
+      <LOC_STRING _locID="borealforest:foliage-mix-terrain">密林</LOC_STRING>
+      <LOC_STRING _locID="borealforest:foliage-mix-terrain_stt">密林</LOC_STRING>
+      <LOC_STRING _locID="borealforest:foliage-mix-terrain_ltt">密林を選択します。地面にマウスポインタを置いてクリックし、密林を作ります。</LOC_STRING>
+      <LOC_STRING _locID="temperateforest:icon_stt">温帯林</LOC_STRING>
+      <LOC_STRING _locID="temperateforest:deepwater">深い水域</LOC_STRING>
+      <LOC_STRING _locID="temperateforest:deepwater_stt">深い水域</LOC_STRING>
+      <LOC_STRING _locID="temperateforest:deepwater_ltt">深い水域を選択します。地面にマウスポインタを置いてクリックし、深い水域を作ります。</LOC_STRING>
+      <LOC_STRING _locID="temperateforest:shallowwater">浅い水域</LOC_STRING>
+      <LOC_STRING _locID="temperateforest:shallowwater_stt">浅い水域</LOC_STRING>
+      <LOC_STRING _locID="temperateforest:shallowwater_ltt">浅い水域を選択します。地面にマウスポインタを置いてクリックし、浅い水域を作ります。</LOC_STRING>
+      <LOC_STRING _locID="temperateforest:ground">土</LOC_STRING>
+      <LOC_STRING _locID="temperateforest:ground_stt">土</LOC_STRING>
+      <LOC_STRING _locID="temperateforest:ground_ltt">土を選択します。地面にマウスポインタを置いてクリックし、土がむき出しの地面を作ります。</LOC_STRING>
+      <LOC_STRING _locID="temperateforest:ground-cover">林床</LOC_STRING>
+      <LOC_STRING _locID="temperateforest:ground-cover_stt">林床</LOC_STRING>
+      <LOC_STRING _locID="temperateforest:ground-cover_ltt">林床を選択します。地面にマウスポインタを置いてクリックし、落ち葉で覆われた林床を作ります。</LOC_STRING>
+      <LOC_STRING _locID="temperateforest:mix">林床と土</LOC_STRING>
+      <LOC_STRING _locID="temperateforest:mix_stt">林床と土</LOC_STRING>
+      <LOC_STRING _locID="temperateforest:mix_ltt">林床と土を選択します。地面にマウスポインタを置いてクリックし、落ち葉と土で覆われた林床を作ります。</LOC_STRING>
+      <LOC_STRING _locID="temperateforest:foliage-mix">疎林</LOC_STRING>
+      <LOC_STRING _locID="temperateforest:foliage-mix_stt">疎林</LOC_STRING>
+      <LOC_STRING _locID="temperateforest:foliage-mix_ltt">疎林を選択します。地面にマウスポインタを置いてクリックし、疎林を作ります。</LOC_STRING>
+      <LOC_STRING _locID="temperateforest:foliage-mix-terrain">密林</LOC_STRING>
+      <LOC_STRING _locID="temperateforest:foliage-mix-terrain_stt">密林</LOC_STRING>
+      <LOC_STRING _locID="temperateforest:foliage-mix-terrain_ltt">密林を選択します。地面にマウスポインタを置いてクリックし、密林を作ります。</LOC_STRING>
+      <LOC_STRING _locID="desert:icon_stt">砂漠</LOC_STRING>
+      <LOC_STRING _locID="desert:deepwater">深い水域</LOC_STRING>
+      <LOC_STRING _locID="desert:deepwater_stt">深い水域</LOC_STRING>
+      <LOC_STRING _locID="desert:deepwater_ltt">深い水域を選択します。地面にマウスポインタを置いてクリックし、深い水域を作ります。</LOC_STRING>
+      <LOC_STRING _locID="desert:shallowwater">浅い水域</LOC_STRING>
+      <LOC_STRING _locID="desert:shallowwater_stt">浅い水域</LOC_STRING>
+      <LOC_STRING _locID="desert:shallowwater_ltt">浅い水域を選択します。地面にマウスポインタを置いてクリックし、浅い水域を作ります。</LOC_STRING>
+      <LOC_STRING _locID="desert:ground">岩</LOC_STRING>
+      <LOC_STRING _locID="desert:ground_stt">岩</LOC_STRING>
+      <LOC_STRING _locID="desert:ground_ltt">岩を選択します。地面にマウスポインタを置いてクリックし、岩場を作ります。</LOC_STRING>
+      <LOC_STRING _locID="desert:ground-cover"> 砂</LOC_STRING>
+      <LOC_STRING _locID="desert:ground-cover_stt"> 砂</LOC_STRING>
+      <LOC_STRING _locID="desert:ground-cover_ltt">砂を選択します。地面にマウスポインタを置いてクリックし、砂地を作ります。</LOC_STRING>
+      <LOC_STRING _locID="desert:mix">砂と岩</LOC_STRING>
+      <LOC_STRING _locID="desert:mix_stt">砂と岩</LOC_STRING>
+      <LOC_STRING _locID="desert:mix_ltt">砂と岩を選択します。地面にマウスポインタを置いてクリックし、岩のある砂地を作ります。</LOC_STRING>
+      <LOC_STRING _locID="desert:foliage-mix">まばらな雑木林</LOC_STRING>
+      <LOC_STRING _locID="desert:foliage-mix_stt">まばらな雑木林</LOC_STRING>
+      <LOC_STRING _locID="desert:foliage-mix_ltt">まばらな雑木林を選択します。地面にマウスポインタを置いてクリックし、背の低い植物と岩がある砂漠を作ります。</LOC_STRING>
+      <LOC_STRING _locID="desert:foliage-mix-terrain">吹きさらしの砂丘</LOC_STRING>
+      <LOC_STRING _locID="desert:foliage-mix-terrain_stt">吹きさらしの砂丘</LOC_STRING>
+      <LOC_STRING _locID="desert:foliage-mix-terrain_ltt">吹きさらしの砂丘を選択します。地面にマウスポインタを置いてクリックし、やせた吹きさらしの砂丘を作ります。</LOC_STRING>
+      <LOC_STRING _locID="grassland:icon_stt">草原 </LOC_STRING>
+      <LOC_STRING _locID="grassland:deepwater">深い水域</LOC_STRING>
+      <LOC_STRING _locID="grassland:deepwater_stt">深い水域</LOC_STRING>
+      <LOC_STRING _locID="grassland:deepwater_ltt">深い水域を選択します。地面にマウスポインタを置いてクリックし、深い水域を作ります。</LOC_STRING>
+      <LOC_STRING _locID="grassland:shallowwater">浅い水域</LOC_STRING>
+      <LOC_STRING _locID="grassland:shallowwater_stt">浅い水域</LOC_STRING>
+      <LOC_STRING _locID="grassland:shallowwater_ltt">浅い水域を選択します。地面にマウスポインタを置いてクリックし、浅い水域を作ります。</LOC_STRING>
+      <LOC_STRING _locID="grassland:ground">土</LOC_STRING>
+      <LOC_STRING _locID="grassland:ground_stt">土</LOC_STRING>
+      <LOC_STRING _locID="grassland:ground_ltt">土を選択します。地面にマウスポインタを置いてクリックし、土がむき出しの地面を作ります。</LOC_STRING>
+      <LOC_STRING _locID="grassland:ground-cover">草</LOC_STRING>
+      <LOC_STRING _locID="grassland:ground-cover_stt">草</LOC_STRING>
+      <LOC_STRING _locID="grassland:ground-cover_ltt">草を選択します。地面にマウスポインタを置いてクリックし、草地を作ります。</LOC_STRING>
+      <LOC_STRING _locID="grassland:mix">草と土</LOC_STRING>
+      <LOC_STRING _locID="grassland:mix_stt">草と土</LOC_STRING>
+      <LOC_STRING _locID="grassland:mix_ltt">草と土を選択します。地面にマウスポインタを置いてクリックし、むき出しの土と草地が混在する地面を作ります。</LOC_STRING>
+      <LOC_STRING _locID="grassland:foliage-mix">トールグラス</LOC_STRING>
+      <LOC_STRING _locID="grassland:foliage-mix_stt">トールグラス</LOC_STRING>
+      <LOC_STRING _locID="grassland:foliage-mix_ltt">トールグラスを選択します。地面にマウスポインタを置いてクリックし、背の高い草が生えた地面を作ります。</LOC_STRING>
+      <LOC_STRING _locID="grassland:foliage-mix-terrain">疎林</LOC_STRING>
+      <LOC_STRING _locID="grassland:foliage-mix-terrain_stt">疎林</LOC_STRING>
+      <LOC_STRING _locID="grassland:foliage-mix-terrain_ltt">疎林を選択します。地面にマウスポインタを置いてクリックし、疎林を作ります。</LOC_STRING>
+      <LOC_STRING _locID="gridland:ground">正方形の格子 (対角線付き)</LOC_STRING>
+      <LOC_STRING _locID="gridland:ground-cover">正方形の格子 (対角線付き)</LOC_STRING>
+      <LOC_STRING _locID="gridland:mix">グリッドランド混在</LOC_STRING>
+      <LOC_STRING _locID="tropicalrainforest:icon_stt">熱帯雨林</LOC_STRING>
+      <LOC_STRING _locID="tropicalrainforest:deepwater">深い水域</LOC_STRING>
+      <LOC_STRING _locID="tropicalrainforest:deepwater_stt">深い水域</LOC_STRING>
+      <LOC_STRING _locID="tropicalrainforest:deepwater_ltt">深い水域を選択します。地面にマウスポインタを置いてクリックし、深い水域を作ります。</LOC_STRING>
+      <LOC_STRING _locID="tropicalrainforest:shallowwater">浅い水域</LOC_STRING>
+      <LOC_STRING _locID="tropicalrainforest:shallowwater_stt">浅い水域</LOC_STRING>
+      <LOC_STRING _locID="tropicalrainforest:shallowwater_ltt">浅い水域を選択します。地面にマウスポインタを置いてクリックし、浅い水域を作ります。</LOC_STRING>
+      <LOC_STRING _locID="tropicalrainforest:ground">土</LOC_STRING>
+      <LOC_STRING _locID="tropicalrainforest:ground_stt">土</LOC_STRING>
+      <LOC_STRING _locID="tropicalrainforest:ground_ltt">土を選択します。地面にマウスポインタを置いてクリックし、土がむき出しの地面を作ります。</LOC_STRING>
+      <LOC_STRING _locID="tropicalrainforest:ground-cover">草</LOC_STRING>
+      <LOC_STRING _locID="tropicalrainforest:ground-cover_stt">草</LOC_STRING>
+      <LOC_STRING _locID="tropicalrainforest:ground-cover_ltt">草を選択します。地面にマウスポインタを置いてクリックし、草地を作ります。</LOC_STRING>
+      <LOC_STRING _locID="tropicalrainforest:mix">草と土</LOC_STRING>
+      <LOC_STRING _locID="tropicalrainforest:mix_stt">草と土</LOC_STRING>
+      <LOC_STRING _locID="tropicalrainforest:mix_ltt">草と土を選択します。地面にマウスポインタを置いてクリックし、むき出しの土と草地が混在する地面を作ります。</LOC_STRING>
+      <LOC_STRING _locID="tropicalrainforest:foliage-mix">まばらな熱帯雨林</LOC_STRING>
+      <LOC_STRING _locID="tropicalrainforest:foliage-mix_stt">まばらな熱帯雨林</LOC_STRING>
+      <LOC_STRING _locID="tropicalrainforest:foliage-mix_ltt">まばらな熱帯雨林を選択します。地面にマウスポインタを置いてクリックし、密度の低い熱帯雨林を作ります。</LOC_STRING>
+      <LOC_STRING _locID="tropicalrainforest:foliage-mix-terrain">濃い熱帯雨林</LOC_STRING>
+      <LOC_STRING _locID="tropicalrainforest:foliage-mix-terrain_stt">濃い熱帯雨林</LOC_STRING>
+      <LOC_STRING _locID="tropicalrainforest:foliage-mix-terrain_ltt">濃い熱帯雨林を選択します。地面にマウスポインタを置いてクリックし、樹木が生い茂った熱帯雨林を作ります。</LOC_STRING>
+      <LOC_STRING _locID="savannah:icon_stt">サバンナ</LOC_STRING>
+      <LOC_STRING _locID="savannah:deepwater">深い水域</LOC_STRING>
+      <LOC_STRING _locID="savannah:deepwater_stt">深い水域</LOC_STRING>
+      <LOC_STRING _locID="savannah:deepwater_ltt">深い水域を選択します。地面にマウスポインタを置いてクリックし、深い水域を作ります。</LOC_STRING>
+      <LOC_STRING _locID="savannah:shallowwater">浅い水域</LOC_STRING>
+      <LOC_STRING _locID="savannah:shallowwater_stt">浅い水域</LOC_STRING>
+      <LOC_STRING _locID="savannah:shallowwater_ltt">浅い水域を選択します。地面にマウスポインタを置いてクリックし、浅い水域を作ります。</LOC_STRING>
+      <LOC_STRING _locID="savannah:ground">土</LOC_STRING>
+      <LOC_STRING _locID="savannah:ground_stt">土</LOC_STRING>
+      <LOC_STRING _locID="savannah:ground_ltt">土を選択します。地面にマウスポインタを置いてクリックし、土がむき出しの地面を作ります。</LOC_STRING>
+      <LOC_STRING _locID="savannah:ground-cover">草</LOC_STRING>
+      <LOC_STRING _locID="savannah:ground-cover_stt">草</LOC_STRING>
+      <LOC_STRING _locID="savannah:ground-cover_ltt">草を選択します。地面にマウスポインタを置いてクリックし、草地を作ります。</LOC_STRING>
+      <LOC_STRING _locID="savannah:mix">草と土</LOC_STRING>
+      <LOC_STRING _locID="savannah:mix_stt">草と土</LOC_STRING>
+      <LOC_STRING _locID="savannah:mix_ltt">草と土を選択します。地面にマウスポインタを置いてクリックし、むき出しの土と草地が混在する地面を作ります。</LOC_STRING>
+      <LOC_STRING _locID="savannah:foliage-mix">トールグラス</LOC_STRING>
+      <LOC_STRING _locID="savannah:foliage-mix_stt">トールグラス</LOC_STRING>
+      <LOC_STRING _locID="savannah:foliage-mix_ltt">トールグラスを選択します。地面にマウスポインタを置いてクリックし、背の高い草が生えた地面を作ります。</LOC_STRING>
+      <LOC_STRING _locID="savannah:foliage-mix-terrain">疎林</LOC_STRING>
+      <LOC_STRING _locID="savannah:foliage-mix-terrain_stt">疎林</LOC_STRING>
+      <LOC_STRING _locID="savannah:foliage-mix-terrain_ltt">疎林を選択します。地面にマウスポインタを置いてクリックし、疎林を作ります。</LOC_STRING>
+      <LOC_STRING _locID="scrub:icon_stt">低木帯</LOC_STRING>
+      <LOC_STRING _locID="scrub:deepwater">深い水域</LOC_STRING>
+      <LOC_STRING _locID="scrub:deepwater_stt">深い水域</LOC_STRING>
+      <LOC_STRING _locID="scrub:deepwater_ltt">深い水域を選択します。地面にマウスポインタを置いてクリックし、深い水域を作ります。</LOC_STRING>
+      <LOC_STRING _locID="scrub:shallowwater">浅い水域</LOC_STRING>
+      <LOC_STRING _locID="scrub:shallowwater_stt">浅い水域</LOC_STRING>
+      <LOC_STRING _locID="scrub:shallowwater_ltt">浅い水域を選択します。地面にマウスポインタを置いてクリックし、浅い水域を作ります。</LOC_STRING>
+      <LOC_STRING _locID="scrub:ground">土</LOC_STRING>
+      <LOC_STRING _locID="scrub:ground_stt">土</LOC_STRING>
+      <LOC_STRING _locID="scrub:ground_ltt">土を選択します。地面にマウスポインタを置いてクリックし、土がむき出しの地面を作ります。</LOC_STRING>
+      <LOC_STRING _locID="scrub:ground-cover">草</LOC_STRING>
+      <LOC_STRING _locID="scrub:ground-cover_stt">草</LOC_STRING>
+      <LOC_STRING _locID="scrub:ground-cover_ltt">草を選択します。地面にマウスポインタを置いてクリックし、草地を作ります。</LOC_STRING>
+      <LOC_STRING _locID="scrub:mix">草と土</LOC_STRING>
+      <LOC_STRING _locID="scrub:mix_stt">草と土</LOC_STRING>
+      <LOC_STRING _locID="scrub:mix_ltt">草と土を選択します。地面にマウスポインタを置いてクリックし、むき出しの土と草地が混在する地面を作ります。</LOC_STRING>
+      <LOC_STRING _locID="scrub:foliage-mix">荒れた地面</LOC_STRING>
+      <LOC_STRING _locID="scrub:foliage-mix_stt">荒れた地面</LOC_STRING>
+      <LOC_STRING _locID="scrub:foliage-mix_ltt">荒れた地面を選択します。地面にマウスポインタを置いてクリックし、起伏の多い荒れた地面を作ります。</LOC_STRING>
+      <LOC_STRING _locID="scrub:foliage-mix-terrain">まばらな雑木林</LOC_STRING>
+      <LOC_STRING _locID="scrub:foliage-mix-terrain_stt">まばらな雑木林</LOC_STRING>
+      <LOC_STRING _locID="scrub:foliage-mix-terrain_ltt">まばらな雑木林を選択します。地面にマウスポインタを置いてクリックし、背の低い植物や岩で地表が覆われた雑木林を作ります。</LOC_STRING>
+      <LOC_STRING _locID="tundra:icon_stt">ツンドラ</LOC_STRING>
+      <LOC_STRING _locID="tundra:deepwater">深い水域</LOC_STRING>
+      <LOC_STRING _locID="tundra:deepwater_stt">深い水域</LOC_STRING>
+      <LOC_STRING _locID="tundra:deepwater_ltt">深い水域を選択します。地面にマウスポインタを置いてクリックし、深い水域を作ります。</LOC_STRING>
+      <LOC_STRING _locID="tundra:shallowwater">浅い水域</LOC_STRING>
+      <LOC_STRING _locID="tundra:shallowwater_stt">浅い水域</LOC_STRING>
+      <LOC_STRING _locID="tundra:shallowwater_ltt">浅い水域を選択します。地面にマウスポインタを置いてクリックし、浅い水域を作ります。</LOC_STRING>
+      <LOC_STRING _locID="tundra:ground">岩</LOC_STRING>
+      <LOC_STRING _locID="tundra:ground_stt">岩</LOC_STRING>
+      <LOC_STRING _locID="tundra:ground_ltt">岩を選択します。地面にマウスポインタを置いてクリックし、岩場を作ります。</LOC_STRING>
+      <LOC_STRING _locID="tundra:ground-cover">雪</LOC_STRING>
+      <LOC_STRING _locID="tundra:ground-cover_stt">雪</LOC_STRING>
+      <LOC_STRING _locID="tundra:ground-cover_ltt">雪を選択します。地面にマウスポインタを置いてクリックし、雪で覆われた地面を作ります。</LOC_STRING>
+      <LOC_STRING _locID="tundra:mix">雪と岩</LOC_STRING>
+      <LOC_STRING _locID="tundra:mix_stt">雪と岩</LOC_STRING>
+      <LOC_STRING _locID="tundra:mix_ltt">雪と岩を選択します。地面にマウスポインタを置いてクリックし、雪の積もった岩場を作ります。</LOC_STRING>
+      <LOC_STRING _locID="tundra:foliage-mix">岩がちなツンドラ</LOC_STRING>
+      <LOC_STRING _locID="tundra:foliage-mix_stt">岩がちなツンドラ</LOC_STRING>
+      <LOC_STRING _locID="tundra:foliage-mix_ltt">岩がちなツンドラを選択します。地面にマウスポインタを置いてクリックし、大きな岩が点在する、雪と氷に覆われた地面を作ります。</LOC_STRING>
+      <LOC_STRING _locID="tundra:foliage-mix-terrain">吹きさらしのツンドラ</LOC_STRING>
+      <LOC_STRING _locID="tundra:foliage-mix-terrain_stt">吹きさらしのツンドラ</LOC_STRING>
+      <LOC_STRING _locID="tundra:foliage-mix-terrain_ltt">吹きさらしのツンドラを選択します。地面にマウスポインタを置いてクリックし、岩と吹きさらしの丘に覆われたツンドラを作ります。</LOC_STRING>
+      <LOC_STRING _locID="wetlands:icon_stt">湿地帯</LOC_STRING>
+      <LOC_STRING _locID="wetlands:deepwater">深い水域</LOC_STRING>
+      <LOC_STRING _locID="wetlands:deepwater_stt">深い水域</LOC_STRING>
+      <LOC_STRING _locID="wetlands:deepwater_ltt">深い水域を選択します。地面にマウスポインタを置いてクリックし、深い水域を作ります。</LOC_STRING>
+      <LOC_STRING _locID="wetlands:shallowwater">浅い水域</LOC_STRING>
+      <LOC_STRING _locID="wetlands:shallowwater_stt">浅い水域</LOC_STRING>
+      <LOC_STRING _locID="wetlands:shallowwater_ltt">浅い水域を選択します。地面にマウスポインタを置いてクリックし、浅い水域を作ります。</LOC_STRING>
+      <LOC_STRING _locID="wetlands:ground">土</LOC_STRING>
+      <LOC_STRING _locID="wetlands:ground_stt">土</LOC_STRING>
+      <LOC_STRING _locID="wetlands:ground_ltt">土を選択します。地面にマウスポインタを置いてクリックし、土がむき出しの地面を作ります。</LOC_STRING>
+      <LOC_STRING _locID="wetlands:ground-cover">草</LOC_STRING>
+      <LOC_STRING _locID="wetlands:ground-cover_stt">草</LOC_STRING>
+      <LOC_STRING _locID="wetlands:ground-cover_ltt">草を選択します。地面にマウスポインタを置いてクリックし、草地を作ります。</LOC_STRING>
+      <LOC_STRING _locID="wetlands:mix">草と土</LOC_STRING>
+      <LOC_STRING _locID="wetlands:mix_stt">草と土</LOC_STRING>
+      <LOC_STRING _locID="wetlands:mix_ltt">草と土を選択します。地面にマウスポインタを置いてクリックし、むき出しの土と草地が混在する地面を作ります。</LOC_STRING>
+      <LOC_STRING _locID="wetlands:foliage-mix">湿原</LOC_STRING>
+      <LOC_STRING _locID="wetlands:foliage-mix_stt">湿原</LOC_STRING>
+      <LOC_STRING _locID="wetlands:foliage-mix_ltt">湿原を選択します。地面にマウスポインタを置いてクリックし、湿地帯の生物群系によく見られる岩と植物を配置します。</LOC_STRING>
+      <LOC_STRING _locID="wetlands:foliage-mix-terrain">沼地</LOC_STRING>
+      <LOC_STRING _locID="wetlands:foliage-mix-terrain_stt">沼地</LOC_STRING>
+      <LOC_STRING _locID="wetlands:foliage-mix-terrain_ltt">沼地を選択します。地面にマウスポインタを置いてクリックし、岩と背の高い草や樹木などの植物が点在する湿気の多い地面を作ります。</LOC_STRING>
+</ZT2Strings>

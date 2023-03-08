@@ -1,0 +1,4688 @@
+<ZT2Strings>
+      <LOC_STRING _locID="buyinfo:sttformat">
+         <font name="ＭＳ Ｐゴシック" size="10">%text%</font>
+      </LOC_STRING>
+      <LOC_STRING _locID="buyinfo:lttformat">
+         <font name="ＭＳ Ｐゴシック" size="10">%text%</font>
+      </LOC_STRING>
+      <LOC_STRING _locID="buyinfo:cost_label">
+         <font name="ＭＳ Ｐゴシック" size="10">
+            費用:
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="buyinfo:research_cost_label">
+         <font name="ＭＳ Ｐゴシック" size="10">
+            研究費:
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="buyinfo:researching_label">
+         <font name="ＭＳ Ｐゴシック" size="10">
+            研究中...
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="buyinfo:biome_label">
+         <font name="ＭＳ Ｐゴシック" size="10">
+            生物群系:
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="buyinfo:brush_size_label">
+         <font name="ＭＳ Ｐゴシック" size="10">
+            ブラシのサイズ:
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="buyinfo:brush_size_format">
+         <font name="ＭＳ Ｐゴシック" size="12" shadowx="-1" shadowy="1" shadowa="255">
+            <color r="255" g="255" b="255">
+               <b>%text%</b>
+               <b>%</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="buyinfo:biome_format">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowa="192">
+            <LOC_DUMMY>%text%</LOC_DUMMY>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="buyinfo:location_label">
+         <font name="ＭＳ Ｐゴシック" size="10">
+            地域:
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="buyinfo:gender_label">
+         <font name="ＭＳ Ｐゴシック" size="10">
+            性別:
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="buyinfo:gender_male_stt">男性</LOC_STRING>
+      <LOC_STRING _locID="buyinfo:gender_female_stt">女性</LOC_STRING>
+      <LOC_STRING _locID="buyinfo:gender_male_people_stt">男性</LOC_STRING>
+      <LOC_STRING _locID="buyinfo:gender_female_people_stt">女性</LOC_STRING>
+      <LOC_STRING _locID="buyinfo:posformat">
+         <font name="ＭＳ Ｐゴシック" size="11" shadowx="-1" shadowy="1" shadowa="255">
+            <color r="0" g="255" b="0">
+               <LOC_DUMMY>%text%</LOC_DUMMY>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="buyinfo:buypanelposformat">
+         <font name="ＭＳ Ｐゴシック" size="12" shadowx="-1" shadowy="1" shadowa="255">
+            <color r="0" g="255" b="0">
+               <LOC_DUMMY>%text%</LOC_DUMMY>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="buyinfo:items_sold_label">
+         <font name="ＭＳ Ｐゴシック" size="10">
+            売っている商品:
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="buyinfo:zoopedia_button_stt">動物園百科</LOC_STRING>
+      <LOC_STRING _locID="buyinfo:zoopedia_button_ltt">
+         <color r="255" g="248" b="178">
+            動物園百科
+         </color>
+         <br>動物園百科を開いてこのアイテムや動植物、スタッフについて学びます。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="buyinfo:research_button_stt">アイテムや動植物の研究</LOC_STRING>
+      <LOC_STRING _locID="buyinfo:research_button_ltt">
+         <color r="255" g="248" b="178">
+            アイテムや動植物の研究
+         </color>
+         <br>アイテムや動植物の研究を始めます。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="buyinfo:zookeeper_rec_button_stt">飼育員からのアドバイス</LOC_STRING>
+      <LOC_STRING _locID="buyinfo:zookeeper_rec_button_ltt">
+         <color r="255" g="248" b="178">
+            飼育員からのアドバイス
+         </color>
+         <br>この動物にふさわしい樹木やエサ、おもちゃなどについて、飼育員からアドバイスを受けることができます。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="buyinfo:upkeep_label">
+         <font name="ＭＳ Ｐゴシック" size="10">
+            維持費:
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="buyareafilter:sttformat">
+         <font name="ＭＳ Ｐゴシック" size="10">%text%</font>
+      </LOC_STRING>
+      <LOC_STRING _locID="buyareafilter:lttformat">
+         <font name="ＭＳ Ｐゴシック" size="10">%text%</font>
+      </LOC_STRING>
+      <LOC_STRING _locID="buyareafilter:biome_filter_button_stt">生物群系フィルタ</LOC_STRING>
+      <LOC_STRING _locID="buyareafilter:biome_filter_button_ltt">
+         <color r="255" g="248" b="178">
+            生物群系フィルタ
+         </color>
+         <br>特定の生物群系タイプの描画オプションを表示します。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="buyareafilter:terrain_objects_filter_button_stt">地形アイテムフィルタ</LOC_STRING>
+      <LOC_STRING _locID="buyareafilter:terrain_objects_filter_button_ltt">
+         <color r="255" g="248" b="178">
+            地形アイテムフィルタ
+         </color>
+         <br>それぞれの生物群系に適応する地形アイテムをパネルに表示します。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="buyareafilter:animal_filter_button_stt">動物フィルタ</LOC_STRING>
+      <LOC_STRING _locID="buyareafilter:animal_filter_button_ltt">
+         <color r="255" g="248" b="178">
+            動物フィルタ
+         </color>
+         <br>それぞれの生物群系に適応する動物をパネルに表示します。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="buyareafilter:animal_objects_filter_button_stt">動物関連アイテムフィルタ</LOC_STRING>
+      <LOC_STRING _locID="buyareafilter:animal_objects_filter_button_ltt">
+         <color r="255" g="248" b="178">
+            動物関連アイテムフィルタ
+         </color>
+         <br>それぞれの調査状況に応じた動物関連アイテムをパネルに表示します。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="buyareafilter:construction_filter_button_stt">建物フィルタ</LOC_STRING>
+      <LOC_STRING _locID="buyareafilter:construction_filter_button_ltt">
+         <color r="255" g="248" b="178">
+            建物フィルタ
+         </color>
+         <br>それぞれの調査状況に応じたアイテムをパネルに表示します。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="cameraset:sttformat">
+         <font name="ＭＳ Ｐゴシック" size="10">%text%</font>
+      </LOC_STRING>
+      <LOC_STRING _locID="cameraset:lttformat">
+         <font name="ＭＳ Ｐゴシック" size="10">%text%</font>
+      </LOC_STRING>
+      <LOC_STRING _locID="cameraset:overheadcameramode_stt">概観マップ</LOC_STRING>
+      <LOC_STRING _locID="cameraset:overheadcameramode_ltt">
+         <color r="255" g="248" b="178">
+            概観マップ
+         </color>
+         <br>動物園全体を見わたすことのできる概観マップに切り替えます。展示場など園内のどのエリアへも直接移動できます。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="cameraset:buildingcameramode_stt">上からの視点</LOC_STRING>
+      <LOC_STRING _locID="cameraset:buildingcameramode_ltt">
+         <color r="255" g="248" b="178">
+            上からの視点
+         </color>
+         <br>上からの視点に切り替えます。園内に展示場を建てたり、動物やアイテムを置くことができます。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="cameraset:firstpersoncameramode_stt">来園者視点</LOC_STRING>
+      <LOC_STRING _locID="cameraset:firstpersoncameramode_ltt">
+         <color r="255" g="248" b="178">
+            来園者視点
+         </color>
+         <br>来園者視点に切り替えます。来園者の視点で園内を歩き回ったり、動物園のスタッフの担当業務を遂行できます。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="cameraset:photocameramode_stt">フォトサファリ視点</LOC_STRING>
+      <LOC_STRING _locID="cameraset:photocameramode_ltt">
+         <color r="255" g="248" b="178">
+            フォトサファリ視点
+         </color>
+         <br>フォトサファリ視点に切り替えます。動物やアイテムの写真を撮ることができます。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="confirm:sttformat">
+         <font name="ＭＳ Ｐゴシック" size="10">%text%</font>
+      </LOC_STRING>
+      <LOC_STRING _locID="confirm:lttformat">
+         <font name="ＭＳ Ｐゴシック" size="10">%text%</font>
+      </LOC_STRING>
+      <LOC_STRING _locID="confirm:exit_app_label">
+         <font name="HGS創英角ﾎﾟｯﾌﾟ体" size="20" image="ui\font\color_mainmenu.tga">
+            <color r="255" g="197" b="78">
+               <text>
+                  <br/>
+                  Zoo Tycoon 2 を
+               </text>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="confirm:exit_app_2_label">
+         <font name="HGS創英角ﾎﾟｯﾌﾟ体" size="20" image="ui\font\color_mainmenu.tga">
+            <color r="255" g="197" b="78">
+               <br/>
+               終了しますか?
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="confirm:cancel_exit_zoo_button_stt">Zoo Tycoon 2 に戻る</LOC_STRING>
+      <LOC_STRING _locID="confirm:cancel_exit_zoo_button_ltt">
+         <color r="255" g="248" b="178">
+            Zoo Tycoon 2 に戻る
+         </color>
+         <br>終了をキャンセルして Zoo Tycoon 2 に戻ります。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="confirm:exit_zoo_stt">終了</LOC_STRING>
+      <LOC_STRING _locID="confirm:exit_zoo_ltt">
+         <color r="255" g="248" b="178">
+            終了
+         </color>
+         <br>ゲームを終了して Windows に戻ります。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="confirm:delete_pic">
+         <font name="HGS創英角ﾎﾟｯﾌﾟ体" size="20" image="ui\font\color_mainmenu.tga">
+            <color r="255" g="197" b="78">
+               <br/>
+               写真を削除しますか?
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="confirm:delete_pic_button_stt">写真の削除</LOC_STRING>
+      <LOC_STRING _locID="confirm:delete_pic_button_ltt">
+         <color r="255" g="248" b="178">
+            写真の削除
+         </color>
+         <br>選択した写真を削除します。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="confirm:delete_pic_cancel_button_stt">キャンセル</LOC_STRING>
+      <LOC_STRING _locID="confirm:delete_pic_cancel_button_ltt">
+         <color r="255" g="248" b="178">
+            写真の削除をキャンセル
+         </color>
+         <br>選択した写真の削除をキャンセルします。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="confirm:delete_camera_pics">
+         <font name="HGS創英角ﾎﾟｯﾌﾟ体" size="20" image="ui\font\color_mainmenu.tga">
+            <color r="255" g="197" b="78">
+               <br/>
+               カメラの写真をすべて削除しますか?
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="confirm:delete_camera_pics_button_stt">カメラの写真をすべて削除</LOC_STRING>
+      <LOC_STRING _locID="confirm:delete_camera_pics_button_ltt">
+         <color r="255" g="248" b="178">
+            カメラの写真をすべて削除
+         </color>
+         <br>カメラの中にあるすべての写真を削除します。フォトアルバムにある写真は削除されません。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="confirm:delete_camera_pics_cancel_button_stt">キャンセル</LOC_STRING>
+      <LOC_STRING _locID="confirm:delete_camera_pics_cancel_button_ltt">
+         <color r="255" g="248" b="178">
+            すべての写真の削除をキャンセル
+         </color>
+         <br>カメラの中にあるすべての写真の削除をキャンセルします。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="confirm:new_profile_label">
+         <font name="HGS創英角ﾎﾟｯﾌﾟ体" size="15" image="ui\font\color_mainmenu.tga" shadowx="-1" shadowy="1" shadowa="255">
+            <color r="255" g="248" b="178">
+               プロファイルの作成
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="confirm:create_profile_label">
+         <font name="HGS創英角ﾎﾟｯﾌﾟ体" size="20" image="ui\font\color_mainmenu.tga" shadowx="-1" shadowy="1" shadowa="255">
+            <color r="255" g="197" b="78">
+               プロファイル名を入力してください
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="confirm:prompt">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="-1" shadowy="1" shadowa="64">
+            <LOC_DUMMY>%text%</LOC_DUMMY>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="confirm:new_profile_cancel_button_stt">キャンセル </LOC_STRING>
+      <LOC_STRING _locID="confirm:new_profile_cancel_button_ltt">
+         <color r="255" g="248" b="178">
+            プロファイルの作成をキャンセル
+         </color>
+         <br>プロファイルの作成をキャンセルしてプロファイルマネージャに戻ります。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="confirm:profile_create_button_stt">プロファイルの作成</LOC_STRING>
+      <LOC_STRING _locID="confirm:profile_create_button_ltt">
+         <color r="255" g="248" b="178">
+            プロファイルの作成
+         </color>
+         <br>新しいプロファイルを作成します。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="confirm:delete_profile_label">
+         <font name="HGS創英角ﾎﾟｯﾌﾟ体" size="15" image="ui\font\color_mainmenu.tga" shadowx="-1" shadowy="1" shadowa="255">
+            <color r="255" g="248" b="178">
+               プロファイルの削除
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="confirm:delete_selected_profile_label">
+         <font name="HGS創英角ﾎﾟｯﾌﾟ体" size="20" image="ui\font\color_mainmenu.tga" shadowx="-1" shadowy="1" shadowa="255">
+            <color r="255" g="197" b="78">
+               プロファイルを削除しますか?
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="confirm:delete_profile_button_stt">プロファイルの削除</LOC_STRING>
+      <LOC_STRING _locID="confirm:delete_profile_button_ltt">
+         <color r="255" g="248" b="178">
+            プロファイルの削除
+         </color>
+         <br>選択したプロファイルを削除します。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="confirm:delete_profile_cancel_button_stt">キャンセル</LOC_STRING>
+      <LOC_STRING _locID="confirm:delete_profile_cancel_button_ltt">
+         <color r="255" g="248" b="178">
+            プロファイルの削除をキャンセル
+         </color>
+         <br>選択したプロファイルの削除をキャンセルしてプロファイルマネージャに戻ります。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="confirm:create_new_album">
+         <font name="HGS創英角ﾎﾟｯﾌﾟ体" size="20" image="ui\font\color_mainmenu.tga">
+            <color r="255" g="197" b="78">
+               フォトアルバムを作成しますか?
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="confirm:create_new_album_button_stt">フォトアルバムの作成</LOC_STRING>
+      <LOC_STRING _locID="confirm:create_new_album_button_ltt">
+         <color r="255" g="248" b="178">
+            フォトアルバムの作成
+         </color>
+         <br>フォトアルバムを作成します。動物園で撮影した写真を表示してフォトアルバムにまとめることができます。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="confirm:create_new_album_cancel_button_stt">フォトアルバムの作成をキャンセル</LOC_STRING>
+      <LOC_STRING _locID="confirm:create_new_album_cancel_button_ltt">
+         <color r="255" g="248" b="178">
+            フォトアルバムの作成をキャンセル
+         </color>
+         <br>フォトアルバムの作成をキャンセルしてフォトアルバムマネージャに戻ります。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="confirm:delete_album_confirmation">
+         <font name="HGS創英角ﾎﾟｯﾌﾟ体" size="20" image="ui\font\color_mainmenu.tga">
+            <color r="255" g="197" b="78">
+               フォトアルバムを削除しますか?
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="confirm:delete_album_button_stt">フォトアルバムの削除</LOC_STRING>
+      <LOC_STRING _locID="confirm:delete_album_button_ltt">
+         <color r="255" g="248" b="178">
+            フォトアルバムの削除
+         </color>
+         <br>フォトアルバムを削除します。フォトアルバムの写真がすべて削除されます。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="confirm:delete_album_cancel_button_stt">キャンセル</LOC_STRING>
+      <LOC_STRING _locID="confirm:delete_album_cancel_button_ltt">
+         <color r="255" g="248" b="178">
+            写真の削除をキャンセル
+         </color>
+         <br>選択したフォトアルバムの削除をキャンセルしてフォトアルバムマネージャに戻ります。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="confirm:return_mainmenu_label">
+         <font name="HGS創英角ﾎﾟｯﾌﾟ体" size="20" image="ui\font\color_mainmenu.tga">
+            <color r="255" g="197" b="78">
+               Zoo Tycoon 2 の
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="confirm:return_mainmenu_label2">
+         <font name="HGS創英角ﾎﾟｯﾌﾟ体" size="20" image="ui\font\color_mainmenu.tga">
+            <color r="255" g="197" b="78">
+               メインメニューに戻りますか?
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="confirm:save_continue_button_stt">ゲームのセーブ</LOC_STRING>
+      <LOC_STRING _locID="confirm:save_continue_button_ltt">
+         <color r="255" g="248" b="178">
+            ゲームのセーブ
+         </color>
+         <br>現在のゲームをセーブしてメインメニューを表示します。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="confirm:no_save_continue_button_stt">続ける</LOC_STRING>
+      <LOC_STRING _locID="confirm:no_save_continue_button_ltt">
+         <color r="255" g="248" b="178">
+            続ける
+         </color>
+         <br>メインメニューに戻ります。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="confirm:return_button_stt">ゲームに戻る</LOC_STRING>
+      <LOC_STRING _locID="confirm:return_button_ltt">
+         <color r="255" g="248" b="178">
+            ゲームに戻る
+         </color>
+         <br>現在のゲームに戻ります。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="confirm:sell_object_button_stt">アイテムの売却</LOC_STRING>
+      <LOC_STRING _locID="confirm:sell_object_button_ltt">
+         <color r="255" g="248" b="178">
+            アイテムの売却
+         </color>
+         <br>選択したアイテムを売却します。売り上げは自動的に銀行口座に追加されます。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="confirm:no_sell_object_button_stt">キャンセル </LOC_STRING>
+      <LOC_STRING _locID="confirm:no_sell_object_button_ltt">
+         <color r="255" g="248" b="178">
+            売却のキャンセル
+         </color>
+         <br>アイテムの売却をキャンセルします。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="confirm:sell_selected_item">%sを売却しますか?</LOC_STRING>
+      <LOC_STRING _locID="confirm:sell_selected_item_format">
+         <font name="HGS創英角ﾎﾟｯﾌﾟ体" size="20" image="ui\font\color_mainmenu.tga">
+            <color r="255" g="197" b="78">
+               <br/>
+               <LOC_DUMMY>%text%</LOC_DUMMY>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="confirm:refundformat">
+         <font name="HGS創英角ﾎﾟｯﾌﾟ体" size="20" image="ui\font\color_mainmenu.tga">
+            <color r="255" g="255" b="255">
+               払戻: 
+               <LOC_DUMMY>%text%</LOC_DUMMY>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="confirm:cancel_photochallenge_label">
+         <font name="HGS創英角ﾎﾟｯﾌﾟ体" size="20" image="ui\font\color_mainmenu.tga">
+            <color r="255" g="197" b="78">
+               <text>
+                  <br/>
+                  フォトチャレンジを辞退しますか?
+               </text>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="confirm:fire_selected_staff_label">
+         <font name="HGS創英角ﾎﾟｯﾌﾟ体" size="20" image="ui\font\color_mainmenu.tga">
+            <color r="255" g="197" b="78">
+               <text>
+                  <br/>
+                  このスタッフを解雇しますか?
+               </text>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="confirm:fire_staff_button_stt">スタッフの解雇</LOC_STRING>
+      <LOC_STRING _locID="confirm:fire_staff_button_ltt">
+         <color r="255" g="248" b="178">
+            スタッフの解雇
+         </color>
+         <br>選択したスタッフを解雇します。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="confirm:no_fire_staff_button_stt">キャンセル </LOC_STRING>
+      <LOC_STRING _locID="confirm:no_fire_staff_button_ltt">
+         <color r="255" g="248" b="178">
+            スタッフの解雇をキャンセル
+         </color>
+         <br>選択したスタッフの解雇をキャンセルします。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="confirm:confimation_delete_game_label">
+         <font name="HGS創英角ﾎﾟｯﾌﾟ体" size="15" image="ui\font\color_mainmenu.tga" shadowx="-1" shadowy="1" shadowa="255">
+            <color r="255" g="248" b="178">
+               ゲームの削除
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="confirm:delete_game_label">
+         <font name="HGS創英角ﾎﾟｯﾌﾟ体" size="20" image="ui\font\color_mainmenu.tga">
+            <color r="255" g="192" b="78">
+               セーブしたゲームを削除しますか?
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="confirm:delete_game_button_stt">セーブしたゲームの削除</LOC_STRING>
+      <LOC_STRING _locID="confirm:delete_game_button_ltt">
+         <color r="255" g="248" b="178">
+            セーブしたゲームの削除
+         </color>
+         <br>以前セーブしたゲームを削除します。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="confirm:delete_game_cancel_button_stt">キャンセル</LOC_STRING>
+      <LOC_STRING _locID="confirm:delete_game_cancel_button_ltt">
+         <color r="255" g="248" b="178">
+            セーブしたゲームの削除をキャンセル
+         </color>
+         <br>以前セーブしたゲームの削除をキャンセルします。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="confirm:restart_game_ok_label">
+         <font name="HGS創英角ﾎﾟｯﾌﾟ体" size="20" image="ui\font\color_mainmenu.tga">
+            <color r="255" g="197" b="78">
+               <text>
+                  <br/>
+                  Zoo Tycoon 2 を
+               </text>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="confirm:restart_game_ok_label2">
+         <font name="HGS創英角ﾎﾟｯﾌﾟ体" size="20" image="ui\font\color_mainmenu.tga">
+            <color r="255" g="197" b="78">
+               <text>
+                  <br/>
+                  再起動する必要があります
+               </text>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="confirm:restart_game_ok_stt">ゲームの再起動</LOC_STRING>
+      <LOC_STRING _locID="confirm:restart_game_ok_ltt">
+         <color r="255" g="248" b="178">
+            Zoo Tycoon 2 の再起動
+         </color>
+         <br>Zoo Tycoon 2 を再起動します。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="confirm:exit_game_label">
+         <font name="HGS創英角ﾎﾟｯﾌﾟ体" size="18" image="ui\font\color_mainmenu.tga">
+            <color r="255" g="197" b="78">
+               <text>
+                  <br/>
+                  セーブして終了しますか?
+               </text>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="confirm:save_and_exit_button_stt">セーブして終了</LOC_STRING>
+      <LOC_STRING _locID="confirm:save_and_exit_button_ltt">
+         <color r="255" g="248" b="178">
+            セーブして終了
+         </color>
+         <br>セーブして終了します。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="confirm:exit_button_stt">セーブしないで終了</LOC_STRING>
+      <LOC_STRING _locID="confirm:exit_button_ltt">
+         <color r="255" g="248" b="178">
+            セーブしないで終了
+         </color>
+         <br>セーブしないで終了します。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="confirm:closealbummananger_stt">閉じる</LOC_STRING>
+      <LOC_STRING _locID="confirm:closealbummananger_ltt">
+         <color r="255" g="248" b="178">
+            閉じる
+         </color>
+         <br>ダイアログボックスを閉じます。 </br>
+      </LOC_STRING>
+      <LOC_STRING _locID="confirm:cancel_photochallenge_button_stt">閉じる</LOC_STRING>
+      <LOC_STRING _locID="confirm:cancel_photochallenge_button_ltt">
+         <color r="255" g="248" b="178">
+            閉じる
+         </color>
+         <br>ダイアログを閉じてフォトチャレンジを続けます。 </br>
+      </LOC_STRING>
+      <LOC_STRING _locID="confirm:decline_photochallenge_button_stt">辞退</LOC_STRING>
+      <LOC_STRING _locID="confirm:decline_photochallenge_button_ltt">
+         <color r="255" g="248" b="178">
+            辞退
+         </color>
+         <br>ダイアログを閉じてフォトチャレンジを辞退します。 </br>
+      </LOC_STRING>
+      <LOC_STRING _locID="confirm:save_current_game_label">
+         <font name="HGS創英角ﾎﾟｯﾌﾟ体" size="18" image="ui\font\color_mainmenu.tga">
+            <color r="255" g="197" b="78">
+               <text>
+                  <br/>
+                  新しいゲームをロードする前に現在のゲームをセーブしますか?
+               </text>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="confirm:save_current_button_stt">セーブして続ける </LOC_STRING>
+      <LOC_STRING _locID="confirm:save_current_button_ltt">
+         <color r="255" g="248" b="178">
+            セーブして続ける
+         </color>
+         <br>セーブして新しいゲームをロードします。 </br>
+      </LOC_STRING>
+      <LOC_STRING _locID="confirm:decline_save_button_stt">セーブしない </LOC_STRING>
+      <LOC_STRING _locID="confirm:decline_save_button_ltt">
+         <color r="255" g="248" b="178">
+            セーブしない
+         </color>
+         <br>セーブしないでゲームのロード画面に進みます。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="confirm:overwrite_button_label">
+         <font name="HGS創英角ﾎﾟｯﾌﾟ体" size="18" image="ui\font\color_mainmenu.tga">
+            <color r="255" g="197" b="78">
+               <text>
+                  <br/>
+                  セーブしたゲームを上書きしますか?
+               </text>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="confirm:overwrite_button_stt">セーブしたゲームを上書き</LOC_STRING>
+      <LOC_STRING _locID="confirm:overwrite_button_ltt">
+         <color r="255" g="248" b="178">
+            セーブしたゲームを上書き
+         </color>
+         <br>選択したゲームを上書きします。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="confirm:decline_overwrite_button_stt">上書きしない</LOC_STRING>
+      <LOC_STRING _locID="confirm:decline_overwrite_button_ltt">
+         <color r="255" g="248" b="178">
+            上書きしない
+         </color>
+         <br>選択したゲームに上書きしません。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="confirm:close_dialog_button_stt">ダイアログを閉じる</LOC_STRING>
+      <LOC_STRING _locID="confirm:close_dialog_button_ltt">
+         <color r="255" g="248" b="178">
+            ダイアログを閉じる
+         </color>
+         <br>ダイアログを閉じます。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="economy:unlimitedcash">無制限</LOC_STRING>
+      <LOC_STRING _locID="entityinfo:sttformat">
+         <font name="ＭＳ Ｐゴシック" size="10">%text%</font>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:lttformat">
+         <font name="ＭＳ Ｐゴシック" size="10">%text%</font>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:task_label">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="-1" shadowy="1" shadowa="64">
+            <color r="255" g="248" b="178">
+               現在の行動:
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:status_label">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="-1" shadowy="1" shadowa="64">
+            <color r="255" g="248" b="178">
+               基本的な欲求:
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:status_advanced_label">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="-1" shadowy="1" shadowa="64">
+            <color r="255" g="248" b="178">
+               その他の欲求:
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:gender_label">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="-1" shadowy="1" shadowa="64">
+            <color r="255" g="248" b="178">
+               性別:
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:inventory_label">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="-1" shadowy="1" shadowa="64">
+            <color r="255" g="248" b="178">
+               持ちもの:
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:cash_label">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="-1" shadowy="1" shadowa="64">
+            <color r="255" g="248" b="178">
+               現金:
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:location_label">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="-1" shadowy="1" shadowa="64">
+            <color r="255" g="248" b="178">
+               地域:
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:biome_label">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="-1" shadowy="1" shadowa="64">
+            <color r="255" g="248" b="178">
+               生物群系:
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:animal_debug_info_stt">デバッグウィンドウ</LOC_STRING>
+      <LOC_STRING _locID="entityinfo:animal_status_info_stt">動物の状態</LOC_STRING>
+      <LOC_STRING _locID="entityinfo:animal_status_info_ltt">
+         <color r="255" g="248" b="178">
+            動物の状態
+         </color>
+         <br>動物の状態パネルを表示します。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:animal_needs_info_stt">動物の欲求</LOC_STRING>
+      <LOC_STRING _locID="entityinfo:animal_needs_info_ltt">
+         <color r="255" g="248" b="178">
+            動物の欲求
+         </color>
+         <br>この動物の「基本的な欲求」と「その他の欲求」を表示します。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:animal_general_info_stt">全般的な情報</LOC_STRING>
+      <LOC_STRING _locID="entityinfo:animal_general_info_ltt">
+         <color r="255" g="248" b="178">
+            全般的な情報
+         </color>
+         <br>動物の性別、適応する生物群系、地域などを表示します。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:adoption_button_stt">動物を手放す</LOC_STRING>
+      <LOC_STRING _locID="entityinfo:adoption_button_ltt">
+         <color r="255" g="248" b="178">
+            動物を手放す
+         </color>
+         <br>この動物を手放します。ほかの動物園が引き取る可能性があります。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:release_button_stt">動物を野生に戻す</LOC_STRING>
+      <LOC_STRING _locID="entityinfo:release_button_ltt">
+         <color r="255" g="248" b="178">
+            動物を野生に戻す
+         </color>
+         <br>動物を野生に戻します。野生に戻すには、その動物の「基本的な欲求」と「その他の欲求」を満たす必要があります。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:pickup_animal_button_stt">動物の移動</LOC_STRING>
+      <LOC_STRING _locID="entityinfo:pickup_animal_button_ltt">
+         <color r="255" g="248" b="178">
+            動物の移動
+         </color>
+         <br>動物を違う場所に移動できます。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:track_animal_button_stt">動物の追跡</LOC_STRING>
+      <LOC_STRING _locID="entityinfo:track_animal_button_ltt">
+         <color r="255" g="248" b="178">
+            動物の追跡
+         </color>
+         <br>動物がどこに移動しても追跡できます。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:crate_animal_button_stt">動物をクレートに入れる</LOC_STRING>
+      <LOC_STRING _locID="entityinfo:crate_animal_button_ltt">
+         <color r="255" g="248" b="178">
+            動物をクレートに入れる
+         </color>
+         <br>動物をクレートに入れることができます。動物が展示場から逃げ出したときに便利です。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:basic_needs_ok_label">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="-1" shadowy="1" shadowa="64">
+            <color r="255" g="248" b="178">
+               基本的な欲求
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:state_indicator_label">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="-1" shadowy="1" shadowa="64">
+            <color r="255" g="248" b="178">
+               現在の状態:
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:advanced_needs_ok_label">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="-1" shadowy="1" shadowa="64">
+            <color r="255" g="248" b="178">
+               その他の欲求
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:cratedanimal">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="-1" shadowy="1" shadowa="64">
+            <color r="255" g="248" b="178">
+               クレートに入った動物
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:pickup_crate_button_stt">クレートの移動</LOC_STRING>
+      <LOC_STRING _locID="entityinfo:pickup_crate_button_ltt">
+         <color r="255" g="248" b="178">
+            クレートの移動
+         </color>
+         <br>クレートおよびクレートに入った動物を移動できます。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:uncrate_button_stt">動物をクレートから出す</LOC_STRING>
+      <LOC_STRING _locID="entityinfo:uncrate_button_ltt">
+         <color r="255" g="248" b="178">
+            動物をクレートから出す
+         </color>
+         <br>動物をクレートから出すことができます。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:guest_debug_info_stt">デバッグウィンドウ</LOC_STRING>
+      <LOC_STRING _locID="entityinfo:guest_thoughts_tab_stt">来園者の気持ち</LOC_STRING>
+      <LOC_STRING _locID="entityinfo:guest_thoughts_tab_ltt">
+         <color r="255" g="248" b="178">
+            来園者の気持ち
+         </color>
+         <br>来園者の気持ちを表示します。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:guest_fav_tab_stt">お気に入りの動物</LOC_STRING>
+      <LOC_STRING _locID="entityinfo:guest_fav_tab_ltt">
+         <color r="255" g="248" b="178">
+            お気に入りの動物
+         </color>
+         <br>来園者のお気に入りの動物リストを表示します。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:guest_status_tab_stt">来園者の状態</LOC_STRING>
+      <LOC_STRING _locID="entityinfo:guest_status_tab_ltt">
+         <color r="255" g="248" b="178">
+            来園者の状態
+         </color>
+         <br>来園者の状態を表示します。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:guest_general_tab_stt">来園者の行動と欲求</LOC_STRING>
+      <LOC_STRING _locID="entityinfo:guest_general_tab_ltt">
+         <color r="255" g="248" b="178">
+            来園者の行動と欲求
+         </color>
+         <br>来園者の現在の行動と「基本的な欲求」を表示します。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:guest_needs_label">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="-1" shadowy="1" shadowa="64">
+            <color r="255" g="248" b="178">
+               基本的な欲求:
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:guest_favorites_label">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="-1" shadowy="1" shadowa="64">
+            <color r="255" g="248" b="178">
+               お気に入りの動物:
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:guest_thought_label">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="-1" shadowy="1" shadowa="64">
+            <color r="255" g="248" b="178">
+               気持ち:
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:close_button_stt">パネルを閉じる</LOC_STRING>
+      <LOC_STRING _locID="entityinfo:close_button_ltt">
+         <color r="255" g="248" b="178">
+            パネルを閉じる
+         </color>
+         <br>パネルを閉じます。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:pickup_button_stt">動物の移動</LOC_STRING>
+      <LOC_STRING _locID="entityinfo:pickup_button_ltt">
+         <color r="255" g="248" b="178">
+            動物の移動
+         </color>
+         <br>動物を違う場所に移動できます。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:track_guest_button_stt">来園者の追跡</LOC_STRING>
+      <LOC_STRING _locID="entityinfo:track_guest_button_ltt">
+         <color r="255" g="248" b="178">
+            来園者の追跡
+         </color>
+         <br>来園者がどこに移動しても追跡できます。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:zoopedia_button_ltt">
+         <color r="255" g="248" b="178">
+            動物園百科トピック
+         </color>
+         <br>このアイテムや動植物、スタッフに関する動物園百科のトピックを表示します。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:zoopedia_button_stt">動物園百科トピック</LOC_STRING>
+      <LOC_STRING _locID="entityinfo:pickup_guest_button_stt">来園者の移動</LOC_STRING>
+      <LOC_STRING _locID="entityinfo:pickup_guest_button_ltt">
+         <color r="255" g="248" b="178">
+            来園者の移動
+         </color>
+         <br>来園者を移動できます。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:pickup_building_button_stt">建物の移動</LOC_STRING>
+      <LOC_STRING _locID="entityinfo:pickup_building_button_ltt">
+         <color r="255" g="248" b="178">
+            建物の移動
+         </color>
+         <br>建物を違う場所に移動できます。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:sell_building_button_stt">売却 </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:sell_building_button_ltt">
+         <color r="255" g="248" b="178">
+            売却
+         </color>
+         <br>選択したアイテムを売却します。売り上げは自動的に銀行口座に追加されます。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:sell_fence_button_stt">売却</LOC_STRING>
+      <LOC_STRING _locID="entityinfo:sell_fence_button_ltt">
+         <color r="255" g="248" b="178">
+            売却
+         </color>
+         <br>選択したアイテムを売却します。売り上げは自動的に銀行口座に追加されます。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:pickup_generic_button_stt">移動 </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:pickup_generic_button_ltt">
+         <color r="255" g="248" b="178">
+            移動
+         </color>
+         <br>アイテムを違う場所に移動できます。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:price_label">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="-1" shadowy="1" shadowa="64">
+            <color r="255" g="248" b="178">
+               価格:
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:price_free">
+         <font name="ＭＳ Ｐゴシック" size="11" shadowx="-1" shadowy="1" shadowa="64">
+            <color r="255" g="255" b="255">
+               無料
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:price_free_stt">無料</LOC_STRING>
+      <LOC_STRING _locID="entityinfo:price_free_ltt">
+         <color r="255" g="248" b="178">
+            無料
+         </color>
+         <br>入園料を無料に設定します。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:price_low">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="-1" shadowy="1" shadowa="64">
+            <color r="255" g="255" b="255">
+               低価格
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:price_low_stt">低価格</LOC_STRING>
+      <LOC_STRING _locID="entityinfo:price_low_ltt">
+         <color r="255" g="248" b="178">
+            低価格
+         </color>
+         <br>価格を低く設定します。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:price_med">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="-1" shadowy="1" shadowa="64">
+            <color r="255" g="255" b="255">
+               標準価格
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:price_med_stt">標準価格</LOC_STRING>
+      <LOC_STRING _locID="entityinfo:price_med_ltt">
+         <color r="255" g="248" b="178">
+            標準価格
+         </color>
+         <br>価格を標準に設定します。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:price_high">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="-1" shadowy="1" shadowa="64">
+            <color r="255" g="255" b="255">
+               高価格
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:price_high_stt">高価格</LOC_STRING>
+      <LOC_STRING _locID="entityinfo:price_high_ltt">
+         <color r="255" g="248" b="178">
+            高価格
+         </color>
+         <br>価格を高く設定します。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:building_status_tab_stt">建物の状態</LOC_STRING>
+      <LOC_STRING _locID="entityinfo:building_status_tab_ltt">
+         <color r="255" g="248" b="178">
+            建物の状態
+         </color>
+         <br>現在の建物の状態を表示します。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:building_finance_tab_stt">収支情報</LOC_STRING>
+      <LOC_STRING _locID="entityinfo:building_finance_tab_ltt">
+         <color r="255" g="248" b="178">
+            収支情報
+         </color>
+         <br>この建物の売上高を表示します。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:building_color_tab_stt">色の変更</LOC_STRING>
+      <LOC_STRING _locID="entityinfo:building_color_tab_ltt">
+         <color r="255" g="248" b="178">
+            色の変更
+         </color>
+         <br>建物の外壁の色を変えます。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:building_income_last_stt">先月の収入:</LOC_STRING>
+      <LOC_STRING _locID="entityinfo:building_income_last_ltt">
+         <color r="255" g="248" b="178">
+            先月の収入
+         </color>
+         <br>先月の収入が表示されます。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:building_upkeep_last_stt">先月の維持費:</LOC_STRING>
+      <LOC_STRING _locID="entityinfo:building_upkeep_last_ltt">
+         <color r="255" g="248" b="178">
+            先月の維持費
+         </color>
+         <br>先月の維持費が表示されます。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:building_profit_last_stt">先月の利益:</LOC_STRING>
+      <LOC_STRING _locID="entityinfo:building_profit_last_ltt">
+         <color r="255" g="248" b="178">
+            先月の利益
+         </color>
+         <br>先月の利益が表示されます。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:building_income_current_stt">本月の収入:</LOC_STRING>
+      <LOC_STRING _locID="entityinfo:building_income_current_ltt">
+         <color r="255" g="248" b="178">
+            本月の収入
+         </color>
+         <br>本月の収入が表示されます。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:building_upkeep_current_stt">本月の維持費:</LOC_STRING>
+      <LOC_STRING _locID="entityinfo:building_upkeep_current_ltt">
+         <color r="255" g="248" b="178">
+            本月の維持費
+         </color>
+         <br>本月の維持費が表示されます。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:building_profit_current_stt">本月の利益:</LOC_STRING>
+      <LOC_STRING _locID="entityinfo:building_profit_current_ltt">
+         <color r="255" g="248" b="178">
+            本月の利益
+         </color>
+         <br>本月の利益が表示されます。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:items_sold_label">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="-1" shadowy="1" shadowa="64">
+            <color r="255" g="248" b="178">
+               売っている商品:
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:months_in_operation_label">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="-1" shadowy="1" shadowa="64">
+            <color r="255" g="248" b="178">
+               建ててからの月数
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:mgh">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="-1" shadowy="1" shadowa="64">
+            <color r="255" g="255" b="255">
+               <b/>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:income_label">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="-1" shadowy="1" shadowa="64">
+            <color r="255" g="248" b="178">
+               売り上げ:
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:upkeep_label">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="-1" shadowy="1" shadowa="64">
+            <color r="255" g="248" b="178">
+               維持費:
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:profit_label">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="-1" shadowy="1" shadowa="64">
+            <color r="255" g="248" b="178">
+               利益:
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:user_label">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="-1" shadowy="1" shadowa="64">
+            <color r="255" g="248" b="178">
+               現在の利用者数:
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:user_lifetime_label">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="-1" shadowy="1" shadowa="64">
+            <color r="255" g="248" b="178">
+               通算利用者数:
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:lifetime_non_commerce_label">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="-1" shadowy="1" shadowa="64">
+            <color r="255" g="248" b="178">
+               通算維持費:
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:lifetime_commerce_label">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="-1" shadowy="1" shadowa="64">
+            <color r="255" g="248" b="178">
+               通算利益:
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:current_label">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="-1" shadowy="1" shadowa="64">
+            <color r="255" g="248" b="178">
+               <b/>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:altposformat">
+         <font name="ＭＳ Ｐゴシック" size="12" shadowx="-1" shadowy="1" shadowa="255">
+            <color r="0" g="255" b="0">
+               <LOC_DUMMY>%text%</LOC_DUMMY>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:altnegformat">
+         <font name="ＭＳ Ｐゴシック" size="12" shadowx="-1" shadowy="1" shadowa="255">
+            <color r="255" g="0" b="0">
+               <LOC_DUMMY>%text%</LOC_DUMMY>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:posformat">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="-1" shadowy="1" shadowa="255">
+            <color r="0" g="255" b="0">
+               <LOC_DUMMY>%text%</LOC_DUMMY>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:negformat">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="-1" shadowy="1" shadowa="255">
+            <color r="255" g="0" b="0">
+               <LOC_DUMMY>%text%</LOC_DUMMY>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:staff_salary_label">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="-1" shadowy="1" shadowa="64">
+            <color r="255" g="248" b="178">
+               毎月の給料:
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:staff_months_employed_label">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="-1" shadowy="1" shadowa="64">
+            <color r="255" g="248" b="178">
+               雇ってからの月数:
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:staff_months_employed">
+         <font name="ＭＳ Ｐゴシック" size="11" shadowx="-1" shadowy="1" shadowa="64">
+            <color r="255" g="255" b="255">
+               <b/>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:staff_month_salary">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="-1" shadowy="1" shadowa="64">
+            <color r="255" g="248" b="178">
+               <LOC_DUMMY>%text%</LOC_DUMMY>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:staff_thoughts_label">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="-1" shadowy="1" shadowa="64">
+            <color r="255" g="255" b="255">
+               気持ち:
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:staff_status_button_stt">スタッフの状態</LOC_STRING>
+      <LOC_STRING _locID="entityinfo:staff_status_button_ltt">
+         <color r="255" g="248" b="178">
+            スタッフの状態
+         </color>
+         <br>スタッフが今何をしているかを確認できます。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:staff_assign_button_stt">スタッフの担当業務</LOC_STRING>
+      <LOC_STRING _locID="entityinfo:staff_assign_button_ltt">
+         <color r="255" g="248" b="178">
+            スタッフの担当業務
+         </color>
+         <br>スタッフが現在担当している業務を確認できます。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:staff_thoughts_button_stt">スタッフの気持ち</LOC_STRING>
+      <LOC_STRING _locID="entityinfo:staff_thoughts_button_ltt">
+         <color r="255" g="248" b="178">
+            スタッフの気持ち
+         </color>
+         <br>スタッフが勤務中に考えていることがわかります。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:staff_salary_button_stt">スタッフの給料</LOC_STRING>
+      <LOC_STRING _locID="entityinfo:staff_salary_button_ltt">
+         <color r="255" g="248" b="178">
+            スタッフの給料
+         </color>
+         <br>スタッフの給料の詳細を表示します。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:pickup_staff_button_stt">スタッフの移動</LOC_STRING>
+      <LOC_STRING _locID="entityinfo:pickup_staff_button_ltt">
+         <color r="255" g="248" b="178">
+            スタッフの移動
+         </color>
+         <br>スタッフを違う場所に移動できます。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:track_staff_button_stt">スタッフの追跡</LOC_STRING>
+      <LOC_STRING _locID="entityinfo:track_staff_button_ltt">
+         <color r="255" g="248" b="178">
+            スタッフの追跡
+         </color>
+         <br>スタッフがどこに移動しても追跡できます。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:add_assignment_stt">担当業務の追加</LOC_STRING>
+      <LOC_STRING _locID="entityinfo:add_assignment_ltt">
+         <color r="255" g="248" b="178">
+            担当業務の追加
+         </color>
+         <br>動物を選んでこの飼育員に担当させます。人気動物の世話がきちんと行われるようになります。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:remove_assignment_stt">担当業務の取り消し</LOC_STRING>
+      <LOC_STRING _locID="entityinfo:remove_assignment_ltt">
+         <color r="255" g="248" b="178">
+            担当業務の取り消し
+         </color>
+         <br>動物を選んで飼育員の担当リストからはずします。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:keeper_assignment_label">担当業務 </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:educator_add_assignment_stt">説明対象の追加</LOC_STRING>
+      <LOC_STRING _locID="entityinfo:educator_add_assignment_ltt">
+         <color r="255" g="248" b="178">
+            説明対象の追加
+         </color>
+         <br>説明対象を選んでインストラクターに担当させます。インストラクターはレクチャーカウンターがないと説明できません。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:educator_remove_assignment_stt">説明対象の取り消し</LOC_STRING>
+      <LOC_STRING _locID="entityinfo:educator_remove_assignment_ltt">
+         <color r="255" g="248" b="178">
+            説明対象の取り消し
+         </color>
+         <br>説明対象を選んでインストラクターの担当リストからはずします。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:fire_staff_button_stt">スタッフの解雇</LOC_STRING>
+      <LOC_STRING _locID="entityinfo:fire_staff_button_ltt">
+         <color r="255" g="248" b="178">
+            スタッフの解雇
+         </color>
+         <br>このスタッフを解雇します。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:assignment_label">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="-1" shadowy="1" shadowa="64">
+            <color r="255" g="248" b="178">
+               現在の担当業務:
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:duty_label">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="-1" shadowy="1" shadowa="64">
+            <color r="255" g="248" b="178">
+               現在の仕事:
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:sweep_label">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="-1" shadowy="1" shadowa="64">
+            <color r="255" g="248" b="178">
+               掃き掃除
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:empty_label">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="-1" shadowy="1" shadowa="64">
+            <color r="255" g="248" b="178">
+               ごみ箱を空にする
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:rake_label">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="-1" shadowy="1" shadowa="64">
+            <color r="255" g="248" b="178">
+               フンの掃除
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:quantity_label">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="-1" shadowy="1" shadowa="64">
+            <color r="255" g="248" b="178">
+               残り
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:average_donation_income_label">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="-1" shadowy="1" shadowa="64">
+            <color r="255" g="248" b="178">
+               寄付額の平均:
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:donation_education_quantity_label">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="-1" shadowy="1" shadowa="64">
+            <color r="255" g="248" b="178">
+               学習体験への寄付者数:
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:donation_education_income_label">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="-1" shadowy="1" shadowa="64">
+            <color r="255" g="248" b="178">
+               学習体験への寄付:
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:donation_education_income">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="-1" shadowy="1" shadowa="64">
+            <color r="0" g="255" b="0">
+               <LOC_DUMMY>%text%</LOC_DUMMY>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:donation_label">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="-1" shadowy="1" shadowa="64">
+            <color r="255" g="248" b="178">
+               寄付者の合計:
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:donation_quantity">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="-1" shadowy="1" shadowa="64">
+            <color r="255" g="255" b="255">
+               <LOC_DUMMY>%text%</LOC_DUMMY>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:donation_income_label">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="-1" shadowy="1" shadowa="64">
+            <color r="255" g="248" b="178">
+               寄付額の合計:
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:donation_income">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="-1" shadowy="1" shadowa="64">
+            <color r="0" g="255" b="0">
+               <LOC_DUMMY>%text%</LOC_DUMMY>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:donation_species_label">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="-1" shadowy="1" shadowa="64">
+            <color r="255" g="248" b="178">
+               種類:
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:donation_number_label">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="-1" shadowy="1" shadowa="64">
+            <color r="255" g="248" b="178">
+               寄付数:
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:donation_status_tab_stt">寄付の状態</LOC_STRING>
+      <LOC_STRING _locID="entityinfo:donation_status_tab_ltt">
+         <color r="255" g="248" b="178">
+            寄付の状態
+         </color>
+         <br>寄付の状態パネルを表示します。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:donation_by_species_tab_stt">寄付の種類 </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:donation_by_species_tab_ltt">
+         <color r="255" g="248" b="178">
+            寄付の種類
+         </color>
+         <br>寄付の種類パネルを表示します。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:donation_total_label">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="-1" shadowy="1" shadowa="64">
+            <color r="255" g="248" b="178">
+               寄付額の合計:
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:trash_quantity_label">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="-1" shadowy="1" shadowa="64">
+            <color r="255" g="248" b="178">
+               ごみの量
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:thought_format">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="-1" shadowy="1" shadowa="64">
+            <LOC_DUMMY>%text%</LOC_DUMMY>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:month_format">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="-1" shadowy="1" shadowa="64">
+            <color r="255" g="255" b="255">
+               <LOC_DUMMY>%text%</LOC_DUMMY>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:poscursorformat">
+         <font name="HGS創英角ﾎﾟｯﾌﾟ体" size="16" shadowx="0" shadowy="0" shadowa="255">
+            <LOC_DUMMY>%text%</LOC_DUMMY>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:negcursorformat">
+         <font name="HGS創英角ﾎﾟｯﾌﾟ体" size="16" shadowx="0" shadowy="0" shadowa="255">
+            <LOC_DUMMY>%text%</LOC_DUMMY>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:species_label">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="-1" shadowy="1" shadowa="64">
+            <color r="255" g="255" b="255">
+               <LOC_DUMMY>%text%</LOC_DUMMY>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:male_stt">オス</LOC_STRING>
+      <LOC_STRING _locID="entityinfo:male_ltt">
+         <color r="255" g="248" b="178">
+            オス
+         </color>
+         <br/>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:female_stt">メス</LOC_STRING>
+      <LOC_STRING _locID="entityinfo:female_ltt">
+         <color r="255" g="248" b="178">
+            メス
+         </color>
+         <br/>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:biome_icon_ltt">
+         <color r="255" g="248" b="178">
+            生物群系
+         </color>
+         <br>この生物群系に多く見られるアイテムです。その地域に住む動物の飼育環境の必要条件を満たすのに大きな役割を果たします。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:animal_biome_icon_ltt">
+         <color r="255" g="248" b="178">
+            生物群系
+         </color>
+         <br>この動物が本来生息する地域の代表的な生物群系です。この動物の飼育環境の必要条件を満たすのに最適です。 </br>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:location_icon_ltt">
+         <color r="255" g="248" b="178">
+            地域
+         </color>
+         <br>このアイテムはこの地域によく見られます。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:animal_location_icon_ltt">
+         <color r="255" g="248" b="178">
+            地域
+         </color>
+         <br>この動物は本来この地域に生息しています。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="filter:sttformat">
+         <font name="ＭＳ Ｐゴシック" size="10">%text%</font>
+      </LOC_STRING>
+      <LOC_STRING _locID="filter:lttformat">
+         <font name="ＭＳ Ｐゴシック" size="10">%text%</font>
+      </LOC_STRING>
+      <LOC_STRING _locID="filter:maximize_filter_button_stt">アイテムフィルタを表示</LOC_STRING>
+      <LOC_STRING _locID="filter:maximize_filter_button_ltt">
+         <color r="255" g="248" b="178">
+            アイテムフィルタを表示
+         </color>
+         <br>アイテムフィルタパネルを表示します。園内の来園者、建物、フェンス、樹木を表示したり隠したりできます。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="filter:minimize_filter_button_stt">アイテムフィルタを非表示</LOC_STRING>
+      <LOC_STRING _locID="filter:minimize_filter_button_ltt">
+         <color r="255" g="248" b="178">
+            アイテムフィルタを非表示
+         </color>
+         <br>アイテムフィルタを隠します。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="filter:guest_toggle_button_stt">来園者を表示/非表示</LOC_STRING>
+      <LOC_STRING _locID="filter:guest_toggle_button_ltt">
+         <color r="255" g="248" b="178">
+            来園者を表示/非表示
+         </color>
+         <br>来園者を表示したり隠したりできます。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="filter:building_toggle_button_stt">建物を表示/非表示</LOC_STRING>
+      <LOC_STRING _locID="filter:building_toggle_button_ltt">
+         <color r="255" g="248" b="178">
+            建物を表示/非表示
+         </color>
+         <br>建設済みの建物を表示したり隠したりできます。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="filter:fence_toggle_button_stt">フェンスを表示/非表示</LOC_STRING>
+      <LOC_STRING _locID="filter:fence_toggle_button_ltt">
+         <color r="255" g="248" b="178">
+            フェンスを表示/非表示
+         </color>
+         <br>建設済みのフェンスを表示したり隠したりできます。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="filter:foliage_toggle_button_stt">樹木を表示/非表示</LOC_STRING>
+      <LOC_STRING _locID="filter:foliage_toggle_button_ltt">
+         <color r="255" g="248" b="178">
+            樹木を表示/非表示
+         </color>
+         <br>設置した植物、樹木やかん木、草などを表示したり隠したりできます。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="firstperson:staffmode">
+         <font name="ＭＳ Ｐゴシック" size="12">右クリックでマウスポインタを使えるようにします。</font>
+      </LOC_STRING>
+      <LOC_STRING _locID="guestthoughtformat:thought_format">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            <LOC_DUMMY>%text%</LOC_DUMMY>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="loadgame:sttformat">
+         <font name="ＭＳ Ｐゴシック" size="10">%text%</font>
+      </LOC_STRING>
+      <LOC_STRING _locID="loadgame:lttformat">
+         <font name="ＭＳ Ｐゴシック" size="10">%text%</font>
+      </LOC_STRING>
+      <LOC_STRING _locID="loadgame:cancel_button_stt">キャンセル</LOC_STRING>
+      <LOC_STRING _locID="loadgame:cancel_button_ltt">
+         <color r="255" g="248" b="178">
+            キャンセル
+         </color>
+         <br>ゲームのロードをキャンセルして、[ゲームのロード] ダイアログボックスを閉じます。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="loadgame:load_button_stt">選択したゲームのロード</LOC_STRING>
+      <LOC_STRING _locID="loadgame:load_button_ltt">
+         <color r="255" g="248" b="178">
+            ゲームのロード
+         </color>
+         <br>選択したゲームをロードします。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="loadgame:delete_button_stt">選択したゲームの削除</LOC_STRING>
+      <LOC_STRING _locID="loadgame:delete_button_ltt">
+         <color r="255" g="248" b="178">
+            ゲームの削除
+         </color>
+         <br>選択したゲームを削除します。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="loadgame:delete">
+         <font name="HGS創英角ﾎﾟｯﾌﾟ体" size="14">
+            削除
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="loadgame:loadgame">
+         <font name="HGS創英角ﾎﾟｯﾌﾟ体" size="14" image="ui\font\color_mainmenu.tga">
+            <color r="255" g="248" b="178">
+               ゲームのロード
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="loadgame:filename">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="1" shadowy="1" shadowa="64">
+            <LOC_DUMMY>%text%</LOC_DUMMY>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="loadgame:prompt">
+         <font name="ＭＳ Ｐゴシック" size="10">
+            <LOC_DUMMY>%text%</LOC_DUMMY>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="loadgame:cancel">
+         <font name="HGS創英角ﾎﾟｯﾌﾟ体" size="14">
+            キャンセル
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="loadgame:load">
+         <font name="HGS創英角ﾎﾟｯﾌﾟ体" size="14">
+            ロード
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="mainmenu:sttformat">
+         <font name="ＭＳ Ｐゴシック" size="10">%text%</font>
+      </LOC_STRING>
+      <LOC_STRING _locID="mainmenu:lttformat">
+         <font name="ＭＳ Ｐゴシック" size="10">%text%</font>
+      </LOC_STRING>
+      <LOC_STRING _locID="mainmenu:nameformat">
+         <font name="HGS創英角ﾎﾟｯﾌﾟ体" size="15" image="ui\font\color_mainmenu.tga">
+            <color r="255" g="248" b="178">
+               <LOC_DUMMY>%text%</LOC_DUMMY>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="mainmenu:playchallenge_name">チャレンジゲーム</LOC_STRING>
+      <LOC_STRING _locID="mainmenu:playchallenge_ltt">
+         <color r="255" g="248" b="178">
+            チャレンジゲーム
+         </color>
+         <br>マップを選んで動物園を作ります。好きなゲームにチャレンジできますが、目標は特にありません。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="mainmenu:playchallenge_help">zoopedia:zoopedia_challenge:entry</LOC_STRING>
+      <LOC_STRING _locID="mainmenu:playfreeform_name">フリーゲーム</LOC_STRING>
+      <LOC_STRING _locID="mainmenu:playfreeform_ltt">
+         <color r="255" g="248" b="178">
+            フリーゲーム
+         </color>
+         <br>マップを選んで動物園を作ります。資金は無制限で、すべての動物やアイテムが使えます。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="mainmenu:playfreeform_help">zoopedia:zoopedia_freeform:entry</LOC_STRING>
+      <LOC_STRING _locID="mainmenu:playcampaign_name">キャンペーンゲーム</LOC_STRING>
+      <LOC_STRING _locID="mainmenu:playcampaign_ltt">
+         <color r="255" g="248" b="178">
+            キャンペーンゲーム
+         </color>
+         <br>キャンペーンを選んでプレイします。いくつかのシナリオがあり、それぞれの目標をクリアします。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="mainmenu:playcampaign_help">zoopedia:zoopedia_campaign:entry</LOC_STRING>
+      <LOC_STRING _locID="mainmenu:gameoptions_name">ゲームオプション</LOC_STRING>
+      <LOC_STRING _locID="mainmenu:gameoptions_ltt">
+         <color r="255" g="248" b="178">
+            ゲームオプション
+         </color>
+         <br>グラフィックやサウンドなどのオプションを変更します。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="mainmenu:gameoptions_help">zoopedia:zoopedia_options:entry</LOC_STRING>
+      <LOC_STRING _locID="mainmenu:downloads_name">ダウンロード</LOC_STRING>
+      <LOC_STRING _locID="mainmenu:downloads_ltt">
+         <color r="255" g="248" b="178">
+            ダウンロード
+         </color>
+         <br>更新情報や新しいコンテンツを確認します。ダウンロードしたコンテンツを有効または無効にすることもできます。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="mainmenu:downloads_help">zoopedia:zoopedia_downloads:entry</LOC_STRING>
+      <LOC_STRING _locID="mainmenu:loadsave_name">ゲームのロード</LOC_STRING>
+      <LOC_STRING _locID="mainmenu:loadsave_ltt">
+         <color r="255" g="248" b="178">
+            ゲームのロード
+         </color>
+         <br>前にセーブしたゲームをロードしてプレイします。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="mainmenu:loadsave_help">zoopedia:zoopedia_loadgame:entry</LOC_STRING>
+      <LOC_STRING _locID="mainmenu:gameexit_name">終了</LOC_STRING>
+      <LOC_STRING _locID="mainmenu:gameexit_ltt">
+         <color r="255" g="248" b="178">
+            終了
+         </color>
+         <br>Zoo Tycoon 2 を終了して Windows に戻ります。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="mainmenu:gameexit_help">zoopedia:zoopedia_exitgame:entry</LOC_STRING>
+      <LOC_STRING _locID="mainmenu:continue_button_stt">プロファイルのロード</LOC_STRING>
+      <LOC_STRING _locID="mainmenu:continue_button_ltt">
+         <color r="255" g="248" b="178">
+            プロファイルのロード
+         </color>
+         <br>選択したプロファイルをロードします。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="mainmenu:delete_button_stt">プロファイルの削除</LOC_STRING>
+      <LOC_STRING _locID="mainmenu:delete_button_ltt">
+         <color r="255" g="248" b="178">
+            プロファイルの削除
+         </color>
+         <br>選択したプロファイルを削除します。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="mainmenu:add_button_stt">プロファイルの作成</LOC_STRING>
+      <LOC_STRING _locID="mainmenu:add_button_ltt">
+         <color r="255" g="248" b="178">
+            プロファイルの作成
+         </color>
+         <br>新しいプロファイルを作成します。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="mainmenu:profile_name">
+         <font name="ＭＳ Ｐゴシック" size="12">
+            <LOC_DUMMY>%text%</LOC_DUMMY>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="mainmenu:profile_label">
+         <font name="HGS創英角ﾎﾟｯﾌﾟ体" size="15" image="ui\font\color_mainmenu.tga">
+            <color r="255" g="248" b="178">
+               プロファイル
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="mainmenu:profile_default">既定のプロファイル</LOC_STRING>
+      <LOC_STRING _locID="mainmenu:profile_manager_label">
+         <font name="HGS創英角ﾎﾟｯﾌﾟ体" size="15" image="ui\font\color_mainmenu.tga" shadowx="-1" shadowy="1" shadowa="255">
+            <color r="255" g="248" b="178">
+               プロファイルマネージャ
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="mainmenu:profile_manger_button_stt">プロファイルの管理</LOC_STRING>
+      <LOC_STRING _locID="mainmenu:profile_manger_button_ltt">
+         <color r="255" g="248" b="178">
+            プロファイルマネージャ
+         </color>
+         <br>プロファイルを管理します。新しいプロファイルを追加したり、既存のプロファイルをロードまたは削除できます。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="mainmenu:profile_manger_close_button_stt">プロファイルマネージャを閉じる</LOC_STRING>
+      <LOC_STRING _locID="mainmenu:profile_manger_close_button_ltt">
+         <color r="255" g="248" b="178">
+            プロファイルマネージャを閉じる
+         </color>
+         <br>プロファイルマネージャを閉じます。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="mainmenu:selected_profile_label">
+         <font name="ＭＳ Ｐゴシック" size="12">
+            選択したプロファイル:
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="mainmenu:guitool">
+         <font name="HGS創英角ﾎﾟｯﾌﾟ体" size="14">
+            UI ツールの実行
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="mainmenu:credits">
+         <font name="ＭＳ Ｐゴシック" size="12">
+            クレジット
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="mainmenu:motdtext">
+         <font name="ＭＳ Ｐゴシック" size="14">%text%</font>
+      </LOC_STRING>
+      <LOC_STRING _locID="mainmenu:savegame">
+         <font name="HGS創英角ﾎﾟｯﾌﾟ体" size="14">
+            ゲームのセーブ
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="mainmenu:legalcopy1">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="0" shadowy="0">
+            (c) &amp; (p) 2004 Microsoft Corporation. All rights reserved.
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="mainmenu:legalcopy2">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="0" shadowy="0">
+            この製品は、著作権に関する法律および国際条約により保護されています。
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="mainmenu:legalcopy3">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="0" shadowy="0">
+            Developed by Blue Fang Games, LLC
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="mainmenu:legalcopy4">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="0" shadowy="0">
+            (c) 2001-2004 Blue Fang Games, LLC
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="mainmenu:click_to_continue">
+         <font name="HGS創英角ﾎﾟｯﾌﾟ体" size="26" shadowx="0" shadowy="0" image="ui\font\color_mainmenu.tga">
+            Click To Continue
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="mainmenu:tutorial_panel_play_stt">チュートリアルをプレイ</LOC_STRING>
+      <LOC_STRING _locID="mainmenu:tutorial_panel_play_ltt">
+         <color r="255" g="248" b="178">
+            チュートリアルをプレイ
+         </color>
+         <br>Zoo Tycoon 2 のチュートリアルを始めから終わりまでプレイします。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="mainmenu:tutorial_panel_dont_play_stt">チュートリアルをスキップ</LOC_STRING>
+      <LOC_STRING _locID="mainmenu:tutorial_panel_dont_play_ltt">
+         <color r="255" g="248" b="178">
+            チュートリアルをスキップ
+         </color>
+         <br>Zoo Tycoon 2 のチュートリアルをスキップしてゲームをプレイします。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="mainmenu:tutorial_play_label">
+         <font name="HGS創英角ﾎﾟｯﾌﾟ体" size="18" image="ui\font\color_mainmenu.tga">
+            <color r="255" g="248" b="178">
+               チュートリアルをプレイ
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="mainmenu:tutorial_intro_text">
+         <font name="HGS創英角ﾎﾟｯﾌﾟ体" size="20" image="ui\font\color_mainmenu.tga">
+            <color r="255" g="197" b="78">
+               Zoo Tycoon 2 のプレイ方法を学びますか?
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="messages:lttformat">
+         <font name="ＭＳ Ｐゴシック" size="10">%text%</font>
+      </LOC_STRING>
+      <LOC_STRING _locID="messages:sttformat">
+         <font name="ＭＳ Ｐゴシック" size="10">%text%</font>
+      </LOC_STRING>
+      <LOC_STRING _locID="messages:normal_format">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            <LOC_DUMMY>%text%</LOC_DUMMY>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="messages:good_format">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            <LOC_DUMMY>%text%</LOC_DUMMY>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="messages:bad_format">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            <LOC_DUMMY>%text%</LOC_DUMMY>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="messages:open_queue_button_stt">メッセージリスト</LOC_STRING>
+      <LOC_STRING _locID="messages:open_queue_button_ltt">
+         <color r="255" g="248" b="178">
+            メッセージリスト
+         </color>
+         <br>園内の様子について書かれたメッセージを開きます。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="messages:object_collision">障害物があるため%sを配置できません。</LOC_STRING>
+      <LOC_STRING _locID="messages:fence_collision">フェンスがあるため%sを配置できません。</LOC_STRING>
+      <LOC_STRING _locID="messages:out_of_zoo">%sは外壁の内側に置いてください。</LOC_STRING>
+      <LOC_STRING _locID="messages:water_collision">%sを水域に置くことはできません。</LOC_STRING>
+      <LOC_STRING _locID="messages:land_collision">%sを陸地に置くことはできません。</LOC_STRING>
+      <LOC_STRING _locID="messages:cannot_afford">%sを購入する資金がありません。</LOC_STRING>
+      <LOC_STRING _locID="messages:unresearched">%sを研究する必要があります。</LOC_STRING>
+      <LOC_STRING _locID="multilist:sttformat">
+         <font name="ＭＳ Ｐゴシック" size="10">%text%</font>
+      </LOC_STRING>
+      <LOC_STRING _locID="multilist:lttformat">
+         <font name="ＭＳ Ｐゴシック" size="10">%text%</font>
+      </LOC_STRING>
+      <LOC_STRING _locID="multilist:multilist_label">
+         <font name="HGS創英角ﾎﾟｯﾌﾟ体" size="14" image="ui\font\color_mainmenu.tga">
+            <color r="255" g="248" b="178">
+               人と動物の状態
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="multilist:num_format">
+         <font name="ＭＳ Ｐゴシック" size="11" shadowx="-1" shadowy="1" shadowa="128">
+            <color r="255" g="255" b="255">
+               <LOC_DUMMY>%text%</LOC_DUMMY>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="multilist:animal_number_label">
+         <font name="ＭＳ Ｐゴシック" size="11" shadowx="-1" shadowy="1" shadowa="128">
+            <color r="255" g="248" b="178">
+               数:
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="multilist:guest_number_label">
+         <font name="ＭＳ Ｐゴシック" size="11" shadowx="-1" shadowy="1" shadowa="128">
+            <color r="255" g="248" b="178">
+               数:
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="multilist:staff_number_label">
+         <font name="ＭＳ Ｐゴシック" size="11" shadowx="-1" shadowy="1" shadowa="128">
+            <color r="255" g="248" b="178">
+               数:
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="multilist:sort_label_format">
+         <font name="ＭＳ Ｐゴシック" size="11" shadowx="-1" shadowy="1" shadowa="128">
+            <color r="255" g="248" b="178">
+               <LOC_DUMMY>%text%</LOC_DUMMY>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="multilist:animal_name_label">
+         <font name="ＭＳ Ｐゴシック" size="11" shadowx="-1" shadowy="1" shadowa="128">
+            <color r="255" g="248" b="178">
+               動物のリスト:
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="multilist:animal_state_label">
+         <font name="ＭＳ Ｐゴシック" size="11" shadowx="-1" shadowy="1" shadowa="128">
+            <color r="255" g="248" b="178">
+               状態:
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="multilist:animal_info_tab_label">
+         <font name="ＭＳ Ｐゴシック" size="11" shadowx="-1" shadowy="1" shadowa="255">
+            <color r="255" g="248" b="178">
+               動物のリスト
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="multilist:animal_info_tab_stt">動物の情報</LOC_STRING>
+      <LOC_STRING _locID="multilist:animal_info_tab_ltt">
+         <color r="255" g="248" b="178">
+            動物の情報
+         </color>
+         <br>園内にいるすべての動物のリストを表示します。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="multilist:animal_sort_type_stt">種類で並べ替え</LOC_STRING>
+      <LOC_STRING _locID="multilist:animal_sort_type_ltt">
+         <color r="255" g="248" b="178">
+            種類で並べ替え
+         </color>
+         <br>動物の種類でリストを並べ替えます。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="multilist:animal_sort_env_stt">飼育環境満足度で並べ替え</LOC_STRING>
+      <LOC_STRING _locID="multilist:animal_sort_env_ltt">
+         <color r="255" g="248" b="178">
+            飼育環境満足度で並べ替え
+         </color>
+         <br>飼育環境の状況でリストを並べ替えます。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="multilist:animal_sort_hunger_stt">満腹度で並べ替え</LOC_STRING>
+      <LOC_STRING _locID="multilist:animal_sort_hunger_ltt">
+         <color r="255" g="248" b="178">
+            満腹度で並べ替え
+         </color>
+         <br>お腹が空いている順にリストを並べ替えます。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="multilist:animal_sort_thirst_stt">のどのうるおい度で並べ替え</LOC_STRING>
+      <LOC_STRING _locID="multilist:animal_sort_thirst_ltt">
+         <color r="255" g="248" b="178">
+            のどのうるおい度で並べ替え
+         </color>
+         <br>のどが渇いている順にリストを並べ替えます。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="multilist:animal_sort_rest_stt">休息量で並べ替え</LOC_STRING>
+      <LOC_STRING _locID="multilist:animal_sort_rest_ltt">
+         <color r="255" g="248" b="178">
+            休息量で並べ替え
+         </color>
+         <br>休息の足りない順にリストを並べ替えます。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="multilist:animal_sort_exercise_stt">運動量で並べ替え</LOC_STRING>
+      <LOC_STRING _locID="multilist:animal_sort_exercise_ltt">
+         <color r="255" g="248" b="178">
+            運動量で並べ替え
+         </color>
+         <br>運動の足りない順にリストを並べ替えます。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="multilist:animal_sort_sick_stt">健康状態で並べ替え</LOC_STRING>
+      <LOC_STRING _locID="multilist:animal_sort_sick_ltt">
+         <color r="255" g="248" b="178">
+            健康状態で並べ替え
+         </color>
+         <br>健康状態の悪い順にリストを並べ替えます。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="multilist:animal_sort_happy_stt">幸福度で並べ替え</LOC_STRING>
+      <LOC_STRING _locID="multilist:animal_sort_happy_ltt">
+         <color r="255" g="248" b="178">
+            幸福度で並べ替え
+         </color>
+         <br>幸福度の低い順にリストを並べ替えます。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="multilist:animal_sort_pregnant_stt">妊娠状況で並べ替え</LOC_STRING>
+      <LOC_STRING _locID="multilist:animal_sort_pregnant_ltt">
+         <color r="255" g="248" b="178">
+            妊娠状況で並べ替え
+         </color>
+         <br>妊娠している順にリストを並べ替えます。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="multilist:guest_info_tab_label">
+         <font name="ＭＳ Ｐゴシック" size="11" shadowx="-1" shadowy="1" shadowa="255">
+            <color r="255" g="248" b="178">
+               来園者のリスト
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="multilist:guest_info_tab_stt">来園者の情報 </LOC_STRING>
+      <LOC_STRING _locID="multilist:guest_info_tab_ltt">
+         <color r="255" g="248" b="178">
+            来園者の情報
+         </color>
+         <br>すべての来園者のリストを表示します。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="multilist:guest_name_label">
+         <font name="ＭＳ Ｐゴシック" size="11" shadowx="-1" shadowy="1" shadowa="128">
+            <color r="255" g="248" b="178">
+               来園者のリスト:
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="multilist:guest_sort_type_stt">性別と年齢で並べ替え</LOC_STRING>
+      <LOC_STRING _locID="multilist:guest_sort_type_ltt">
+         <color r="255" g="248" b="178">
+            性別と年齢で並べ替え
+         </color>
+         <br>来園者の性別と年齢でリストを並べ替えます。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="multilist:guest_sort_happy_stt">満足度で並べ替え</LOC_STRING>
+      <LOC_STRING _locID="multilist:guest_sort_happy_ltt">
+         <color r="255" g="248" b="178">
+            満足度で並べ替え
+         </color>
+         <br>不満な順にリストを並べ替えます。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="multilist:guest_sort_fav_animal_stt">お気に入りの動物で並べ替え</LOC_STRING>
+      <LOC_STRING _locID="multilist:guest_sort_fav_animal_ltt">
+         <color r="255" g="248" b="178">
+            お気に入りの動物で並べ替え
+         </color>
+         <br>来園者のお気に入りの動物順にリストを並べ替えます。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="multilist:guest_sort_hunger_stt">満腹度で並べ替え</LOC_STRING>
+      <LOC_STRING _locID="multilist:guest_sort_hunger_ltt">
+         <color r="255" g="248" b="178">
+            満腹度で並べ替え
+         </color>
+         <br>お腹が空いている順にリストを並べ替えます。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="multilist:guest_sort_thirst_stt">のどのうるおい度で並べ替え</LOC_STRING>
+      <LOC_STRING _locID="multilist:guest_sort_thirst_ltt">
+         <color r="255" g="248" b="178">
+            のどのうるおい度で並べ替え
+         </color>
+         <br>のどが渇いている順にリストを並べ替えます。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="multilist:guest_sort_rest_stt">休息量で並べ替え</LOC_STRING>
+      <LOC_STRING _locID="multilist:guest_sort_rest_ltt">
+         <color r="255" g="248" b="178">
+            休息量で並べ替え
+         </color>
+         <br>疲れている順にリストを並べ替えます。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="multilist:guest_sort_amusement_stt">楽しさで並べ替え</LOC_STRING>
+      <LOC_STRING _locID="multilist:guest_sort_amusement_ltt">
+         <color r="255" g="248" b="178">
+            楽しさで並べ替え
+         </color>
+         <br>楽しんでいない順にリストを並べ替えます。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="multilist:guest_sort_bathroom_stt">トイレ充足度で並べ替え</LOC_STRING>
+      <LOC_STRING _locID="multilist:guest_sort_bathroom_ltt">
+         <color r="255" g="248" b="178">
+            トイレ充足度で並べ替え
+         </color>
+         <br>トイレに行きたい順にリストを並べ替えます。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="multilist:guest_sort_thought_stt">気持ち別で並べ替え</LOC_STRING>
+      <LOC_STRING _locID="multilist:guest_sort_thought_ltt">
+         <color r="255" g="248" b="178">
+            気持ち別で並べ替え
+         </color>
+         <br>来園者の気持ち別でリストを並べ替えます。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="multilist:staff_info_tab_label">
+         <font name="ＭＳ Ｐゴシック" size="11" shadowx="-1" shadowy="1" shadowa="255">
+            <color r="255" g="248" b="178">
+               スタッフのリスト
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="multilist:staff_name_label">
+         <font name="ＭＳ Ｐゴシック" size="11" shadowx="-1" shadowy="1" shadowa="128">
+            <color r="255" g="248" b="178">
+               スタッフ
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="multilist:staff_sort_type_stt">職種で並べ替え</LOC_STRING>
+      <LOC_STRING _locID="multilist:staff_sort_type_ltt">
+         <color r="255" g="248" b="178">
+            職種で並べ替え
+         </color>
+         <br>飼育員、メンテナンス員、インストラクターの順にリストを並べ替えます。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="multilist:staff_sort_task_stt">行動別で並べ替え</LOC_STRING>
+      <LOC_STRING _locID="multilist:staff_sort_task_ltt">
+         <color r="255" g="248" b="178">
+            行動別で並べ替え
+         </color>
+         <br>行動別でリストを並べ替えます。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="multilist:staff_sort_assign_stt">担当業務で並べ替え</LOC_STRING>
+      <LOC_STRING _locID="multilist:staff_sort_assign_ltt">
+         <color r="255" g="248" b="178">
+            担当業務で並べ替え
+         </color>
+         <br>担当業務別でリストを並べ替えます。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="multilist:staff_info_tab_stt">スタッフの情報</LOC_STRING>
+      <LOC_STRING _locID="multilist:staff_info_tab_ltt">
+         <color r="255" g="248" b="178">
+            スタッフの情報
+         </color>
+         <br>動物園で働くすべてのスタッフのリストを表示します。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="options:sttformat">
+         <font name="ＭＳ Ｐゴシック" size="10">%text%</font>
+      </LOC_STRING>
+      <LOC_STRING _locID="options:lttformat">
+         <font name="ＭＳ Ｐゴシック" size="10">%text%</font>
+      </LOC_STRING>
+      <LOC_STRING _locID="options:options_label">
+         <font name="HGS創英角ﾎﾟｯﾌﾟ体" size="16" image="ui\font\color_mainmenu.tga">
+            <color r="255" g="248" b="178">
+               ゲームオプション
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="options:videooptions">
+         <font name="ＭＳ Ｐゴシック" size="12" image="ui\font\color_mainmenu.tga">
+            <color r="255" g="248" b="178">
+               グラフィック &amp; サウンドオプション
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="options:videomode">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="1" shadowy="1" shadowa="64">
+            画面モード
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="options:fullscreen">
+         <font name="ＭＳ Ｐゴシック" size="10">
+            フルスクリーン
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="options:full_screen_button_stt">フルスクリーンモード</LOC_STRING>
+      <LOC_STRING _locID="options:full_screen_button_ltt">
+         <color r="255" g="248" b="178">
+            フルスクリーンモード
+         </color>
+         <br>Zoo Tycoon 2 をフルスクリーンモードでプレイします。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="options:windowed">
+         <font name="ＭＳ Ｐゴシック" size="10">
+            ウィンドウ
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="options:windowed_screen_button_ltt">
+         <color r="255" g="248" b="178">
+            ウィンドウモード
+         </color>
+         <br>デスクトップが見えるウィンドウモードで Zoo Tycoon 2 をプレイします。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="options:windowed_screen_button_stt">ウィンドウモード</LOC_STRING>
+      <LOC_STRING _locID="options:videoquality">
+         <font name="HGS創英角ﾎﾟｯﾌﾟ体" size="14" shadowx="1" shadowy="1" shadowa="64">
+            詳細設定
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="options:high_preset">
+         <font name="HGS創英角ﾎﾟｯﾌﾟ体" size="14">
+            グラフィック優先 (高)
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="options:high_detail_button_ltt">
+         <color r="255" g="248" b="178">
+            グラフィック優先 (高)
+         </color>
+         <br>Zoo Tycoon 2 をグラフィック優先 (高) でプレイします。詳細度は上がりますが、ゲームパフォーマンスが低下する場合があります。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="options:high_detail_button_stt">グラフィック優先 (高)</LOC_STRING>
+      <LOC_STRING _locID="options:medium_preset">
+         <font name="HGS創英角ﾎﾟｯﾌﾟ体" size="14">
+            グラフィック優先 (中)
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="options:medium_detail_button_ltt">
+         <color r="255" g="248" b="178">
+            グラフィック優先 (中)
+         </color>
+         <br>Zoo Tycoon 2 をグラフィック優先 (中) でプレイします。詳細度は上がりますが、ゲームパフォーマンスが低下する場合があります。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="options:medium_detail_button_stt">グラフィック優先 (中)</LOC_STRING>
+      <LOC_STRING _locID="options:low_preset">
+         <font name="HGS創英角ﾎﾟｯﾌﾟ体" size="14">
+            パフォーマンス優先
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="options:low_detail_button_ltt">
+         <color r="255" g="248" b="178">
+            パフォーマンス優先
+         </color>
+         <br>Zoo Tycoon 2 をパフォーマンス優先でプレイします。詳細度は下がりますが、ゲームパフォーマンスが向上します。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="options:low_detail_button_stt">パフォーマンス優先</LOC_STRING>
+      <LOC_STRING _locID="options:custom_preset">
+         <font name="HGS創英角ﾎﾟｯﾌﾟ体" size="14">
+            カスタム
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="options:custom_detail_button_ltt">
+         <color r="255" g="248" b="178">
+            カスタム
+         </color>
+         <br>画面の詳細度に応じて画質をカスタマイズします。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="options:custom_detail_button_stt">カスタム</LOC_STRING>
+      <LOC_STRING _locID="options:audio_rez_display_font">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="1" shadowy="1" shadowa="64">
+            <LOC_DUMMY>%text%</LOC_DUMMY>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="options:on">
+         <font name="ＭＳ Ｐゴシック" size="10">
+            オン
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="options:off">
+         <font name="ＭＳ Ｐゴシック" size="10">
+            オフ
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="options:enable">
+         <font name="ＭＳ Ｐゴシック" size="10">
+            有効
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="options:disable">
+         <font name="ＭＳ Ｐゴシック" size="10">
+            無効
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="options:high">
+         <font name="ＭＳ Ｐゴシック" size="10">
+            高
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="options:medium">
+         <font name="ＭＳ Ｐゴシック" size="10">
+            標準
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="options:low">
+         <font name="ＭＳ Ｐゴシック" size="10">
+            低
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="options:environmentdetail">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="1" shadowy="1" shadowa="64">
+            環境の詳細
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="options:environment_detail_button_ltt">
+         <font name="ＭＳ Ｐゴシック" size="10">
+            <color r="255" g="248" b="178">
+               環境の詳細レベルの変更
+            </color>
+            <br>バーをスライドさせて園内の環境の詳細度を変更します。詳細レベルが高いとゲームパフォーマンスが低下することがあります。</br>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="options:environment_detail_button_stt">環境の詳細レベルの変更</LOC_STRING>
+      <LOC_STRING _locID="options:enableshadows">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="1" shadowy="1" shadowa="64">
+            影の詳細
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="options:shadow_detail_button_ltt">
+         <font name="ＭＳ Ｐゴシック" size="10">
+            <color r="255" g="248" b="178">
+               影の詳細レベルの変更
+            </color>
+            <br>バーをスライドさせて園内の影の詳細度を変更します。詳細レベルが高いとゲームパフォーマンスが低下することがあります。</br>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="options:shadow_detail_button_stt">影の詳細レベルの変更</LOC_STRING>
+      <LOC_STRING _locID="options:enabledetailobjects">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="1" shadowy="1" shadowa="64">
+            詳細オブジェクト
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="options:detail_objects_detail_button_ltt">
+         <font name="ＭＳ Ｐゴシック" size="10">
+            <color r="255" g="248" b="178">
+               地面の詳細オブジェクトの変更
+            </color>
+            <br>バーをスライドさせて地面の詳細アイテムを変更します。アイテムには、地面の生物群系に適応した草や岩などが含まれます。 </br>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="options:terrainresolution">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="1" shadowy="1" shadowa="64">
+            地面の解像度
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="options:terraintexturesize">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="1" shadowy="1" shadowa="64">
+            地面のテクスチャサイズ
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="options:terrainblending">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="1" shadowy="1" shadowa="64">
+            地面の混ぜ合わせ
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="options:viewdistance">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="1" shadowy="1" shadowa="64">
+            遠方表示
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="options:overheadcameradistance">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="1" shadowy="1" shadowa="64">
+            上からのカメラ視点の遠方表示
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="options:objectdetail">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="1" shadowy="1" shadowa="64">
+            オブジェクトの詳細
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="options:objecttexturedetail">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="1" shadowy="1" shadowa="64">
+            オブジェクトのテクスチャの詳細
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="options:animationdetail">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="1" shadowy="1" shadowa="64">
+            アニメーションの詳細
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="options:waterdetail">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="1" shadowy="1" shadowa="64">
+            水面の詳細
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="options:lightingdetail">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="1" shadowy="1" shadowa="64">
+            光源の詳細
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="options:screendetail">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="1" shadowy="1" shadowa="64">
+            アンチエイリアス
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="options:speculareffects">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="1" shadowy="1" shadowa="64">
+            鏡面反射効果の詳細
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="options:fontshadows">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="1" shadowy="1" shadowa="64">
+            フォントの影
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="options:fonttexture">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="1" shadowy="1" shadowa="64">
+            フォントテクスチャの詳細
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="options:back">
+         <font name="HGS創英角ﾎﾟｯﾌﾟ体" size="14">終了</font>
+      </LOC_STRING>
+      <LOC_STRING _locID="options:exit_download_button_stt">ダウンロード画面の終了</LOC_STRING>
+      <LOC_STRING _locID="options:exit_dowload_button_ltt">
+         <color r="255" g="248" b="178">
+            ダウンロード画面の終了
+         </color>
+         <br>ダウンロード画面を終了してゲームに戻ります。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="options:apply">
+         <font name="HGS創英角ﾎﾟｯﾌﾟ体" size="14">適用</font>
+      </LOC_STRING>
+      <LOC_STRING _locID="options:apply_button_stt">変更を保存して終了</LOC_STRING>
+      <LOC_STRING _locID="options:apply_button_ltt">
+         <color r="255" g="248" b="178">
+            変更を保存して終了
+         </color>
+         <br>選択した変更をすべて適用して終了します。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="options:exit_options_button_stt">オプションの終了</LOC_STRING>
+      <LOC_STRING _locID="options:exit_options_button_ltt">
+         <color r="255" g="248" b="178">
+            オプションの終了
+         </color>
+         <br>オプション画面を終了して、すべての変更をキャンセルします。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="options:videoresolution">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="1" shadowy="1" shadowa="64">
+            画面解像度
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="options:highres">
+         <font name="ＭＳ Ｐゴシック" size="10">
+            1280X1024
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="options:mediumres">
+         <font name="ＭＳ Ｐゴシック" size="10">
+            1024x768
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="options:lowres">
+         <font name="ＭＳ Ｐゴシック" size="10">
+            800x600
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="options:soundoptions">
+         <font name="HGS創英角ﾎﾟｯﾌﾟ体" size="16" image="ui\font\color_mainmenu.tga">
+            <color r="255" g="248" b="178">
+               サウンドオプション
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="options:mastervolume">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="1" shadowy="1" shadowa="64">
+            マスターボリューム
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="options:master_audio_higher_button_ltt">
+         <color r="255" g="248" b="178">
+            マスターボリュームを上げる
+         </color>
+         <br>動物の鳴き声や環境音などのマスターボリュームを上げます。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="options:master_audio_higher_button_stt">マスターボリュームを上げる</LOC_STRING>
+      <LOC_STRING _locID="options:master_audio_lower_button_ltt">
+         <color r="255" g="248" b="178">
+            マスターボリュームを下げる
+         </color>
+         <br>動物の鳴き声や環境音などのマスターボリュームを下げます。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="options:master_audio_lower_button_stt">マスターボリュームを下げる</LOC_STRING>
+      <LOC_STRING _locID="options:master_audio_thumb_button_ltt">
+         <color r="255" g="248" b="178">
+            マスターボリュームの変更
+         </color>
+         <br>バーを左右にスライドさせて、動物の鳴き声や環境音などのマスターボリュームを変更します。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="options:master_audio_thumb_button_stt">マスターボリュームの変更</LOC_STRING>
+      <LOC_STRING _locID="options:musicvolume">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="1" shadowy="1" shadowa="64">
+            ミュージックボリューム
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="options:music_audio_higher_button_ltt">
+         <color r="255" g="248" b="178">
+            メニューのミュージックボリュームを上げる
+         </color>
+         <br>メニュー表示画面で流れるミュージックのボリュームを上げます。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="options:music_audio_higher_button_stt">メニューのミュージックボリュームを上げる</LOC_STRING>
+      <LOC_STRING _locID="options:music_audio_lower_button_ltt">
+         <color r="255" g="248" b="178">
+            メニューのミュージックボリュームを下げる
+         </color>
+         <br>メニュー表示画面で流れるミュージックのボリュームを下げます。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="options:music_audio_lower_button_stt">メニューのミュージックボリュームを下げる</LOC_STRING>
+      <LOC_STRING _locID="options:music_audio_thumb_button_ltt">
+         <color r="255" g="248" b="178">
+            メニューのミュージックボリュームの変更
+         </color>
+         <br>バーを左右にスライドさせて、メニュー表示画面で流れるミュージックボリュームを変更します。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="options:music_audio_thumb_button_stt">メニューのミュージックボリュームの変更</LOC_STRING>
+      <LOC_STRING _locID="options:number">
+         <font name="ＭＳ Ｐゴシック" size="10">
+            <LOC_DUMMY>%text%</LOC_DUMMY>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="options:audioboardsettingtext">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="1" shadowy="1" shadowa="64">
+            音声出力方式
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="options:misc_panel_tab_stt">その他のオプション</LOC_STRING>
+      <LOC_STRING _locID="options:misc_panel_tab_ltt">
+         <color r="255" g="248" b="178">
+            その他のオプション
+         </color>
+         <br>来園者視点と MOTD オプションを変更します。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="options:miscoptions">
+         <font name="ＭＳ Ｐゴシック" size="12" image="ui\font\color_mainmenu.tga">
+            <color r="255" g="248" b="178">
+               その他のオプション
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="options:firstpersonmode">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="1" shadowy="1" shadowa="64">
+            来園者視点
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="options:enablemouselook">
+         <font name="ＭＳ Ｐゴシック" size="10">
+            マウス視点を有効にする
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="options:misc_mouse_look_button_ltt">
+         <color r="255" g="248" b="178">
+            マウス視点を有効にする
+         </color>
+         <br>来園者視点で、マウスを使って園内を見回せるようにします。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="options:misc_mouse_look_button_stt">マウス視点を有効にする</LOC_STRING>
+      <LOC_STRING _locID="options:blank">
+         <color r="255" g="248" b="178">
+            <b/>
+         </color>
+         <br/>
+      </LOC_STRING>
+      <LOC_STRING _locID="options:motdlabel">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="1" shadowy="1" shadowa="64">
+            MOTD
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="options:enablemotd">
+         <font name="ＭＳ Ｐゴシック" size="10">
+            MOTD を有効にする
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="options:misc_motd_button_ltt">
+         <color r="255" g="248" b="178">
+            MOTD を有効にする
+         </color>
+         <br>Zoo Tycoon 2 をインターネットに接続して新しいメッセージを表示し、メインメニューに表示できるようにします。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="options:misc_motd_button_stt">MOTD を有効にする</LOC_STRING>
+      <LOC_STRING _locID="options:downloadlabel">
+         <font name="HGS創英角ﾎﾟｯﾌﾟ体" size="16" image="ui\font\color_mainmenu.tga">
+            <color r="255" g="248" b="178">
+               ダウンロード
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="options:enable_content_stt">コンテンツを有効または無効にする</LOC_STRING>
+      <LOC_STRING _locID="options:enable_content_ltt">
+         <color r="255" g="248" b="178">
+            コンテンツを有効または無効にする
+         </color>
+         <br>インターネットからダウンロードした Zoo Tycoon 2 のコンテンツを有効または無効にします。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="options:show_content_stt">新しいコンテンツを検索</LOC_STRING>
+      <LOC_STRING _locID="options:show_content_ltt">
+         <color r="255" g="248" b="178">
+            新しいコンテンツを検索
+         </color>
+         <br>ダウンロードした新しいコンテンツが保存されているフォルダを開きます。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="options:setting_slider_thumb_stt">設定の変更</LOC_STRING>
+      <LOC_STRING _locID="options:setting_slider_thumb_ltt">
+         <color r="255" g="248" b="178">
+            設定の変更
+         </color>
+         <br>バーを左右にスライドさせて画面の詳細設定を変更します。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="options:setting_slider_higher_stt">設定を上げる</LOC_STRING>
+      <LOC_STRING _locID="options:setting_slider_higher_ltt">
+         <color r="255" g="248" b="178">
+            設定を上げる
+         </color>
+         <br>画面の詳細設定を上げます。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="options:setting_slider_lower_stt">設定を下げる</LOC_STRING>
+      <LOC_STRING _locID="options:setting_slider_lower_ltt">
+         <color r="255" g="248" b="178">
+            設定を下げる
+         </color>
+         <br>画面の詳細設定を下げます。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="photoalbum:filmcount">
+         <font name="ＭＳ Ｐゴシック" size="12">%text%</font>
+      </LOC_STRING>
+      <LOC_STRING _locID="photoalbum:sttformat">
+         <font name="ＭＳ Ｐゴシック" size="10">%text%</font>
+      </LOC_STRING>
+      <LOC_STRING _locID="photoalbum:lttformat">
+         <font name="ＭＳ Ｐゴシック" size="10">%text%</font>
+      </LOC_STRING>
+      <LOC_STRING _locID="photoalbum:album_label">
+         <font name="HGS創英角ﾎﾟｯﾌﾟ体" size="16">
+            <color r="255" g="248" b="178">フォトアルバム:</color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="photoalbum:album_name_label">
+         <font name="ＭＳ Ｐゴシック" size="12">
+            <color r="255" g="248" b="178">
+               <LOC_DUMMY>%text%</LOC_DUMMY>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="photoalbum:film_label">
+         <font name="ＭＳ Ｐゴシック" size="12">
+            <color r="255" g="248" b="178">
+               入る写真の数:
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="photoalbum:pagenumber">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="1" shadowy="1" shadowa="64">
+            <LOC_DUMMY>%text%</LOC_DUMMY>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="photoalbum:album_selecter_button_stt">フォトアルバムの選択</LOC_STRING>
+      <LOC_STRING _locID="photoalbum:album_selecter_button_ltt">
+         <color r="255" g="248" b="178">
+            フォトアルバムの選択
+         </color>
+         <br>既存または新しいフォトアルバムのどちらかを選択します。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="photoalbum:createnew_button_stt">フォトアルバムの作成</LOC_STRING>
+      <LOC_STRING _locID="photoalbum:createnew_button_ltt">
+         <color r="255" g="248" b="178">
+            フォトアルバムの作成
+         </color>
+         <br>フォトアルバムを作成して名前を付けます。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="photoalbum:delete_album_button_stt">フォトアルバムの削除</LOC_STRING>
+      <LOC_STRING _locID="photoalbum:delete_album_button_ltt">
+         <color r="255" g="248" b="178">
+            フォトアルバムの削除
+         </color>
+         <br>選択したフォトアルバムを削除します。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="photoalbum:clearall_button_stt">アルバムの写真をすべて削除</LOC_STRING>
+      <LOC_STRING _locID="photoalbum:clearall_button_ltt">
+         <color r="255" g="248" b="178">
+            アルバムの写真をすべて削除
+         </color>
+         <br>このアルバムにあるすべての写真を削除します。 </br>
+      </LOC_STRING>
+      <LOC_STRING _locID="photoalbum:delete_all_pics_button_stt">カメラの写真をすべて削除 </LOC_STRING>
+      <LOC_STRING _locID="photoalbum:delete_all_pics_button_ltt">
+         <color r="255" g="248" b="178">
+            カメラの写真をすべて削除
+         </color>
+         <br>カメラの中のフィルムをクリアしてすべての写真を削除します。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="photoalbum:delete_pic_button_stt">選択した写真の削除</LOC_STRING>
+      <LOC_STRING _locID="photoalbum:delete_pic_button_ltt">
+         <color r="255" g="248" b="178">
+            選択した写真の削除
+         </color>
+         <br>選択した写真を削除します。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="photoalbum:move_pic_button_stt">選択した写真の移動</LOC_STRING>
+      <LOC_STRING _locID="photoalbum:move_pic_button_ltt">
+         <color r="255" g="248" b="178">
+            選択した写真の移動
+         </color>
+         <br>選択した写真を現在のフォトアルバムに移動します。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="photoalbum:save_html_button_stt">フォトアルバムを HTML にエクスポート</LOC_STRING>
+      <LOC_STRING _locID="photoalbum:save_html_button_ltt">
+         <color r="255" g="248" b="178">
+            フォトアルバムを HTML にエクスポート
+         </color>
+         <br>選択したフォトアルバムを HTML ファイルにエクスポートすることができます。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="photoalbum:prevpage_button_stt">前のページ</LOC_STRING>
+      <LOC_STRING _locID="photoalbum:prevpage_button_ltt">
+         <color r="255" g="248" b="178">
+            前のページ
+         </color>
+         <br>フォトアルバムの前のページを表示します。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="photoalbum:nextpage_button_stt">次のページ</LOC_STRING>
+      <LOC_STRING _locID="photoalbum:nextpage_button_ltt">
+         <color r="255" g="248" b="178">
+            次のページ
+         </color>
+         <br>フォトアルバムの次のページを表示します。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="photoalbum:return_button_stt">ゲームに戻る</LOC_STRING>
+      <LOC_STRING _locID="photoalbum:return_button_ltt">
+         <color r="255" g="248" b="178">
+            ゲームに戻る
+         </color>
+         <br>フォトアルバムを閉じてゲームに戻ります。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="photoalbum:return_to_album_stt">フォトアルバムに戻る</LOC_STRING>
+      <LOC_STRING _locID="photoalbum:return_to_album_ltt">
+         <color r="255" g="248" b="178">
+            フォトアルバムに戻る
+         </color>
+         <br>フォトアルバムに戻ります。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="photoalbum:myphotoalbum">マイフォトアルバム</LOC_STRING>
+      <LOC_STRING _locID="photoalbum:prompt">
+         <font name="HGS創英角ﾎﾟｯﾌﾟ体" size="16" shadowx="1" shadowy="1" shadowa="64">
+            <LOC_DUMMY>%text%</LOC_DUMMY>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="photoalbum:photo_safari_label">
+         <font name="HGS創英角ﾎﾟｯﾌﾟ体" size="16" image="ui\font\color_mainmenu.tga">
+            <color r="255" g="248" b="178">
+               フォトアルバム
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="photoalbum:large_pic_stt">写真の選択または拡大</LOC_STRING>
+      <LOC_STRING _locID="photoalbum:large_pic_ltt">
+         <color r="255" g="248" b="178">
+            写真の選択または拡大
+         </color>
+         <br>写真を選択するか、ダブルクリックで拡大します。選択した写真をアルバムに移動または削除できます。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="photoalbum:photo_album_manager_label">
+         <font name="HGS創英角ﾎﾟｯﾌﾟ体" size="14" image="ui\font\color_mainmenu.tga">
+            <color r="255" g="248" b="178">
+               フォトアルバムマネージャ
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="photoalbum:selected_album_label">
+         <font name="ＭＳ Ｐゴシック" size="12">
+            <color r="255" g="248" b="178">
+               選択したアルバム:
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="photoalbum:continue_button_stt">選択したフォトアルバムの使用</LOC_STRING>
+      <LOC_STRING _locID="photoalbum:continue_button_ltt">
+         <color r="255" g="248" b="178">
+            選択したフォトアルバムの使用
+         </color>
+         <br>選択したフォトアルバムを使います。フォトアルバムのメイン画面に戻ることができます。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="photochal:sttformat">
+         <font name="ＭＳ Ｐゴシック" size="10">%text%</font>
+      </LOC_STRING>
+      <LOC_STRING _locID="photochal:lttformat">
+         <font name="ＭＳ Ｐゴシック" size="10">%text%</font>
+      </LOC_STRING>
+      <LOC_STRING _locID="photochal:accept_label">
+         <font name="HGS創英角ﾎﾟｯﾌﾟ体" size="16">
+            <color r="255" g="248" b="178">
+               チャレンジしますか?
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="photochal:goals_label">
+         <font name="HGS創英角ﾎﾟｯﾌﾟ体" size="18" image="ui\font\color_mainmenu.tga">
+            <color r="255" g="248" b="178">
+               チャレンジ
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="photochal:intro_text_format">
+         <font name="ＭＳ Ｐゴシック" size="12" shadowx="-1" shadowy="1" shadowa="128">
+            <color r="255" g="255" b="255">
+               <LOC_DUMMY>%text%</LOC_DUMMY>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="photochal:accept_button_stt">チャレンジする</LOC_STRING>
+      <LOC_STRING _locID="photochal:accept_button_ltt">
+         <color r="255" g="248" b="178">
+            チャレンジする
+         </color>
+         <br>チャレンジします。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="photochal:decline_button_stt">チャレンジの辞退</LOC_STRING>
+      <LOC_STRING _locID="photochal:decline_button_ltt">
+         <color r="255" g="248" b="178">
+            チャレンジの辞退
+         </color>
+         <br>チャレンジを辞退します。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="photochal:scenario_win_label">
+         <font name="HGS創英角ﾎﾟｯﾌﾟ体" size="18" image="ui\font\color_mainmenu.tga">
+            <color r="255" g="248" b="178">
+               シナリオをクリアしました!
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="photochal:continue_label">
+         <font name="HGS創英角ﾎﾟｯﾌﾟ体" size="16">
+            <color r="255" g="248" b="178">
+               このシナリオを続けますか?
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="photochal:continue_button_stt">続ける</LOC_STRING>
+      <LOC_STRING _locID="photochal:continue_button_ltt">
+         <color r="255" g="248" b="178">
+            続ける
+         </color>
+         <br>このシナリオを引き続きプレイします。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="photochal:continue_next_button_stt">次のシナリオをプレイ</LOC_STRING>
+      <LOC_STRING _locID="photochal:continue_next_button_ltt">
+         <color r="255" g="248" b="178">
+            次のシナリオをプレイ
+         </color>
+         <br>次のシナリオをプレイします。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="photochal:no_continue_button_stt">メインメニューに戻る</LOC_STRING>
+      <LOC_STRING _locID="photochal:no_continue_button_ltt">
+         <color r="255" g="248" b="178">
+            メインメニューに戻る
+         </color>
+         <br>メインメニューに戻ります。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="photochal:scenario_failed_label">
+         <font name="HGS創英角ﾎﾟｯﾌﾟ体" size="18" image="ui\font\color_mainmenu.tga">
+            <color r="255" g="248" b="178">
+               シナリオをクリアできませんでした!
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="photochal:scenario_failed_replay_label">
+         <font name="HGS創英角ﾎﾟｯﾌﾟ体" size="16">
+            <color r="255" g="248" b="178">
+               このシナリオをやり直しますか?
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="photochal:scenario_failed_replay_button_stt">シナリオのリプレイ</LOC_STRING>
+      <LOC_STRING _locID="photochal:scenario_failed_replay_button_ltt">
+         <color r="255" g="248" b="178">
+            シナリオのリプレイ
+         </color>
+         <br>このシナリオを再度プレイします。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="photochal:challenge_failed_label">
+         <font name="HGS創英角ﾎﾟｯﾌﾟ体" size="18" image="ui\font\color_mainmenu.tga">
+            <color r="255" g="248" b="178">
+               チャレンジをクリアできませんでした!
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="photochal:challenge_failed_ok_button_stt">続ける</LOC_STRING>
+      <LOC_STRING _locID="photochal:challenge_failed_ok_button_ltt">
+         <color r="255" g="248" b="178">
+            続ける
+         </color>
+         <br>このシナリオを引き続きプレイします。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="photochal:challenge_won_label">
+         <font name="HGS創英角ﾎﾟｯﾌﾟ体" size="18" image="ui\font\color_mainmenu.tga">
+            <color r="255" g="248" b="178">
+               チャレンジをクリアしました!
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="photochal:challenge_won_ok_button_stt">続ける</LOC_STRING>
+      <LOC_STRING _locID="photochal:challenge_won_ok_button_ltt">
+         <color r="255" g="248" b="178">
+            続ける
+         </color>
+         <br>このシナリオを引き続きプレイします。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="photochal:load_game_button_stt">セーブしたゲームのロード</LOC_STRING>
+      <LOC_STRING _locID="photochal:load_game_button_ltt">
+         <color r="255" g="248" b="178">
+            ゲームのロード
+         </color>
+         <br>セーブしたゲームをロードします。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="photochal:cash_grant_label">
+         <font name="HGS創英角ﾎﾟｯﾌﾟ体" size="18" image="ui\font\color_mainmenu.tga">
+            <color r="255" g="248" b="178">
+               補助金
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="photochal:tutorial_label">
+         <font name="HGS創英角ﾎﾟｯﾌﾟ体" size="18" image="ui\font\color_mainmenu.tga">
+            <color r="255" g="248" b="178">
+               チュートリアル
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="photochal:tutorial_heading_label">
+         <font name="HGS創英角ﾎﾟｯﾌﾟ体" size="18">
+            <color r="255" g="248" b="178">
+               <LOC_DUMMY>%text%</LOC_DUMMY>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="photochal:tutorial_menu_label">
+         <font name="HGS創英角ﾎﾟｯﾌﾟ体" size="18" image="ui\font\color_mainmenu.tga">
+            <color r="255" g="248" b="178">
+               チュートリアルをクリア
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="photochal:tutorial_complete_label">
+         <font name="HGS創英角ﾎﾟｯﾌﾟ体" size="18" image="ui\font\color_mainmenu.tga">
+            <color r="255" g="248" b="178">
+               チュートリアルをクリアしました
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="photom:number">
+         <font name="ＭＳ Ｐゴシック" size="12">
+            <LOC_DUMMY>%text%</LOC_DUMMY>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="photom:counter">
+         <font name="ＭＳ Ｐゴシック" size="12">
+            <LOC_DUMMY>%text%</LOC_DUMMY>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="photom:spacebarmessage">
+         <font name="ＭＳ Ｐゴシック" size="12">
+            Space キーを押して写真を撮る
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="photom:photo_zoopedia_button_stt">動物園百科トピック</LOC_STRING>
+      <LOC_STRING _locID="photom:photo_zoopedia_button_ltt">
+         <color r="255" g="248" b="178">
+            動物園百科トピック
+         </color>
+         <br>動物園百科を開いてフォトサファリについての情報を確認します。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="photom:help_button_stt">閉じる</LOC_STRING>
+      <LOC_STRING _locID="photom:help_button_ltt">
+         <color r="255" g="248" b="178">
+            閉じる
+         </color>
+         <br>ヘルプ画面を閉じます。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="photom:photo_help_label">
+         <font name="HGS創英角ﾎﾟｯﾌﾟ体" size="16" image="ui\font\color_mainmenu.tga">
+            <color r="255" g="248" b="178">
+               フォトサファリ
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="photom:photo_help_label2">
+         <font name="HGS創英角ﾎﾟｯﾌﾟ体" size="16">
+            <color r="255" g="248" b="178">
+               操作ボタンのヘルプ
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="photom:photo_right_click_message">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="-1" shadowy="1" shadowa="64">
+            <color r="255" g="255" b="178">
+               右クリックでマウスポインタをアクティブにします。
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="photom:photo_left_click_message">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="-1" shadowy="1" shadowa="64">
+            <color r="255" g="255" b="178">
+               X キーを押してパネルを閉じます。
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="photom:toggle_camera">
+         <font name="ＭＳ Ｐゴシック" size="12" shadowx="-1" shadowy="1" shadowa="64">
+            <color r="255" g="248" b="178">
+               C キーを押してカメラのオンとオフを切り替えます。
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="photom:spacebar_take_photo">
+         <font name="ＭＳ Ｐゴシック" size="12" shadowx="-1" shadowy="1" shadowa="64">
+            <color r="255" g="248" b="178">
+               Space キーを押して写真を撮ります。
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="photom:zoom_camera">
+         <font name="ＭＳ Ｐゴシック" size="12" shadowx="-1" shadowy="1" shadowa="64">
+            <color r="255" g="248" b="178">
+               ズームインまたはズームアウトします。
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="photom:move_forward">
+         <font name="ＭＳ Ｐゴシック" size="12" shadowx="-1" shadowy="1" shadowa="64">
+            <color r="255" g="248" b="178">
+               前進
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="photom:right_click">
+         <font name="ＭＳ Ｐゴシック" size="12" shadowx="-1" shadowy="1" shadowa="64">
+            <color r="255" g="255" b="178">
+               マウスポインタをアクティブ化
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="photom:look_around">
+         <font name="ＭＳ Ｐゴシック" size="12" shadowx="-1" shadowy="1" shadowa="64">
+            <color r="255" g="255" b="178">
+               見回す
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="photom:incomplete_label">
+         <font name="ＭＳ Ｐゴシック" size="12">
+            <color r="255" g="248" b="255" a="128">
+               未クリア
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="photom:decline">
+         <font name="ＭＳ Ｐゴシック" size="10">
+            チャレンジしない
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="photom:photomode_help">zoopedia:zoopedia_photosafari:entry</LOC_STRING>
+      <LOC_STRING _locID="provider:providers">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="1" shadowy="1" shadowa="64">
+            <LOC_DUMMY>%text%</LOC_DUMMY>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="savegame:sttformat">
+         <font name="ＭＳ Ｐゴシック" size="10">%text%</font>
+      </LOC_STRING>
+      <LOC_STRING _locID="savegame:lttformat">
+         <font name="ＭＳ Ｐゴシック" size="10">%text%</font>
+      </LOC_STRING>
+      <LOC_STRING _locID="savegame:cancel_button_stt">キャンセル</LOC_STRING>
+      <LOC_STRING _locID="savegame:cancel_button_ltt">
+         <color r="255" g="248" b="178">
+            キャンセル
+         </color>
+         <br>セーブゲームのダイアログボックスを閉じます。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="savegame:save_button_stt">ゲームのセーブ</LOC_STRING>
+      <LOC_STRING _locID="savegame:save_button_ltt">
+         <color r="255" g="248" b="178">
+            ゲームのセーブ
+         </color>
+         <br>入力したゲーム名でセーブします。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="savegame:delete_button_stt">ゲームの削除</LOC_STRING>
+      <LOC_STRING _locID="savegame:delete_button_ltt">
+         <color r="255" g="248" b="178">
+            ゲームの削除
+         </color>
+         <br>選択したゲームを削除します。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="savegame:savegame">
+         <font name="HGS創英角ﾎﾟｯﾌﾟ体" size="14" image="ui\font\color_mainmenu.tga">
+            <color r="255" g="248" b="178">
+               ゲームのセーブ
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="savegame:untitled">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="1" shadowy="1" shadowa="64">
+            名称未設定
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="savegame:filename">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="1" shadowy="1" shadowa="64">
+            <LOC_DUMMY>%text%</LOC_DUMMY>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="savegame:prompt">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="1" shadowy="1" shadowa="64">
+            <LOC_DUMMY>%text%</LOC_DUMMY>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="savegame:cancel">
+         <font name="HGS創英角ﾎﾟｯﾌﾟ体" size="14">
+            キャンセル
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="savegame:save">
+         <font name="HGS創英角ﾎﾟｯﾌﾟ体" size="14">
+            セーブ
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="savegame:delete">
+         <font name="HGS創英角ﾎﾟｯﾌﾟ体" size="14">
+            削除
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="shell:sttformat">
+         <font name="ＭＳ Ｐゴシック" size="10">%text%</font>
+      </LOC_STRING>
+      <LOC_STRING _locID="shell:lttformat">
+         <font name="ＭＳ Ｐゴシック" size="10">%text%</font>
+      </LOC_STRING>
+      <LOC_STRING _locID="shell:currentdatedisplay">
+         <font name="ＭＳ Ｐゴシック" size="12">
+            <LOC_DUMMY>%text%</LOC_DUMMY>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="shell:profilenameformat">
+         <font name="ＭＳ Ｐゴシック" size="11">
+            <LOC_DUMMY>%text%</LOC_DUMMY>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="shell:posformat">
+         <font name="ＭＳ Ｐゴシック" size="12">
+            <color r="0" g="255" b="0">
+               <LOC_DUMMY>%text%</LOC_DUMMY>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="shell:negformat">
+         <font name="ＭＳ Ｐゴシック" size="12">
+            <color r="255" g="0" b="0">
+               <LOC_DUMMY>%text%</LOC_DUMMY>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="shell:adoption_number">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="1" shadowy="1" shadowa="64">
+            <color r="25" g="25" b="255">
+               <LOC_DUMMY>%text%</LOC_DUMMY>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="shell:pgb_construction_stt">建設 </LOC_STRING>
+      <LOC_STRING _locID="shell:pgb_pointer_construction">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="1" shadowy="1" shadowa="32">
+            <color r="59" g="84" b="65">
+               建設パネル
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="shell:pgb_construction_ltt">
+         <color r="255" g="248" b="178">
+            建設
+         </color>
+         <br>建設パネルを表示します。フェンス、道、建物、ベンチ、噴水、ごみ箱などを購入できます。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="shell:construction_fence_tab_stt">フェンス</LOC_STRING>
+      <LOC_STRING _locID="shell:construction_fence_tab_ltt">
+         <color r="255" g="248" b="178">
+            フェンス
+         </color>
+         <br>購入できるフェンスやゲートを表示します。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="shell:construction_fence_buy_area_label">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="1" shadowy="1" shadowa="32">
+            <color r="59" g="84" b="65">
+               フェンス
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="shell:construction_fenceplacement_octagon_mode_stt">八角形フェンス設置モード</LOC_STRING>
+      <LOC_STRING _locID="shell:construction_fenceplacement_octagon_mode_display_label">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="1" shadowy="1" shadowa="32">
+            <color r="59" g="84" b="65">
+               八角形モード
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="shell:construction_fenceplacement_octagon_mode_ltt">
+         <color r="255" g="248" b="178">
+            八角形フェンス設置モード
+         </color>
+         <br>クリックして設置場所を決めます。マウスを動かしてフェンスの大きさを調整します。再度クリックして完成させます。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="shell:construction_fenceplacement_rectangle_mode_stt">長方形フェンス設置モード</LOC_STRING>
+      <LOC_STRING _locID="shell:construction_fenceplacement_rectangle_mode_ltt">
+         <color r="255" g="248" b="178">
+            長方形フェンス設置モード
+         </color>
+         <br>クリックして設置場所を決めます。マウスを動かしてフェンスの大きさを調整します。再度クリックして完成させます。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="shell:construction_fenceplacement_rectangle_mode_display_label">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="1" shadowy="1" shadowa="32">
+            <color r="59" g="84" b="65">
+               長方形モード
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="shell:construction_fenceplacement_clickdrag_mode_stt">Zoo Tycoon 1 フェンス建設モード</LOC_STRING>
+      <LOC_STRING _locID="shell:construction_fenceplacement_clickdrag_mode_ltt">
+         <color r="255" g="248" b="178">
+            Zoo Tycoon 1 フェンス設置モード
+         </color>
+         <br>フェンスの一部を設置します。</br>
+         <br>クリックして動かすと、複数の箇所を建設できます。再度クリックしてフェンスを完成させます。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="shell:construction_fenceplacement_rubberband_mode_stt">フリーフェンス設置モード</LOC_STRING>
+      <LOC_STRING _locID="shell:construction_fenceplacement_rubberband_mode_ltt">
+         <color r="255" g="248" b="178">
+            フリーフェンス設置モード
+         </color>
+         <br>クリックして設置場所を決めます。続けてクリックするとフェンスのほかの部分も設置できます。右クリックで完成させます。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="shell:construction_fenceplacement_rubberband_mode_display_label">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="1" shadowy="1" shadowa="32">
+            <color r="59" g="84" b="65">
+               フリーフェンスモード
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="shell:construction_path_tab_stt">道</LOC_STRING>
+      <LOC_STRING _locID="shell:construction_path_buy_area_label">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="1" shadowy="1" shadowa="32">
+            <color r="59" g="84" b="65">
+               道
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="shell:construction_path_tab_ltt">
+         <color r="255" g="248" b="178">
+            道
+         </color>
+         <br>購入できるさまざまな種類の道を表示します。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="shell:pgb_animal_stt">動物 </LOC_STRING>
+      <LOC_STRING _locID="shell:pgb_animal_ltt">
+         <color r="255" g="248" b="178">
+            動物
+         </color>
+         <br>動物パネルを表示します。動物を買い付けたり、動物用アイテム、獣舎、エサなどを購入できます。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="shell:pgb_pointer_animal">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="1" shadowy="1" shadowa="32">
+            <color r="59" g="84" b="65">
+               動物パネル
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="shell:decline_button_stt">辞退</LOC_STRING>
+      <LOC_STRING _locID="shell:decline_button_ltt">
+         <color r="255" g="248" b="178">
+            買い付けを辞退
+         </color>
+         <br>現在選択されている動物の買い付けを辞退します。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="shell:female_button_stt">メス</LOC_STRING>
+      <LOC_STRING _locID="shell:female_button_ltt">
+         <color r="255" g="248" b="178">
+            動物
+         </color>
+         <br>買い付けることができるメスの動物を表示します。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="shell:male_button_stt">オス</LOC_STRING>
+      <LOC_STRING _locID="shell:male_button_ltt">
+         <color r="255" g="248" b="178">
+            オスの動物
+         </color>
+         <br>買い付けることができるオスの動物を表示します。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="shell:animal_tab_stt">動物</LOC_STRING>
+      <LOC_STRING _locID="shell:animal_tab_ltt">
+         <color r="255" g="248" b="178">
+            動物
+         </color>
+         <br>現在買い付けることができる動物を表示します。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="shell:animal_buy_area_label">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="1" shadowy="1" shadowa="32">
+            <color r="59" g="84" b="65">
+               動物
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="shell:animal_enrichment_tab_stt">動物用アイテム</LOC_STRING>
+      <LOC_STRING _locID="shell:animal_enrichment_buy_area_label">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="1" shadowy="1" shadowa="32">
+            <color r="59" g="84" b="65">
+               動物用アイテム
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="shell:animal_enrichment_tab_ltt">
+         <color r="255" g="248" b="178">
+            動物用アイテム
+         </color>
+         <br>購入できるおもちゃなどの動物用アイテムを表示します。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="shell:animal_food_tab_stt">動物のエサ </LOC_STRING>
+      <LOC_STRING _locID="shell:animal_food_tab_ltt">
+         <color r="255" g="248" b="178">
+            動物のエサ
+         </color>
+         <br>購入できる動物のエサを表示します。 </br>
+      </LOC_STRING>
+      <LOC_STRING _locID="shell:animal_food_buy_area_label">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="1" shadowy="1" shadowa="32">
+            <color r="59" g="84" b="65">
+               動物のエサ
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="shell:animal_shelter_tab_stt">獣舎</LOC_STRING>
+      <LOC_STRING _locID="shell:animal_shelter_tab_ltt">
+         <color r="255" g="248" b="178">
+            獣舎
+         </color>
+         <br>購入できる獣舎を表示します。 </br>
+      </LOC_STRING>
+      <LOC_STRING _locID="shell:animal_shelter_buy_area_label">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="1" shadowy="1" shadowa="32">
+            <color r="59" g="84" b="65">
+               獣舎
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="shell:animal_gender_male_display_label">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="1" shadowy="1" shadowa="32">
+            <color r="59" g="84" b="65">
+               オスの動物
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="shell:animal_gender_female_display_label">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="1" shadowy="1" shadowa="32">
+            <color r="59" g="84" b="65">
+               メスの動物
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="shell:pgb_structures_stt">施設</LOC_STRING>
+      <LOC_STRING _locID="shell:pgb_structures_ltt">
+         <color r="255" g="248" b="178">
+            施設パネル
+         </color>
+         <br>施設パネルを表示します。建物や設備アイテムを購入できます。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="shell:pgb_pointer_structures">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="1" shadowy="1" shadowa="32">
+            <color r="59" g="84" b="65">
+               施設パネル
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="shell:structures_scenery_buy_area">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="1" shadowy="1" shadowa="32">
+            <color r="59" g="84" b="65">
+               設備
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="shell:structures_scenery_tab_stt">設備アイテム</LOC_STRING>
+      <LOC_STRING _locID="shell:structures_scenery_tab_ltt">
+         <color r="255" g="248" b="178">
+            設備アイテム
+         </color>
+         <br>購入できる設備アイテムを表示します。設備アイテムには、ベンチ、ごみ箱、アーチ、噴水、像が含まれます。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="shell:structures_building_tab_stt">建物</LOC_STRING>
+      <LOC_STRING _locID="shell:structures_building_tab_ltt">
+         <color r="255" g="248" b="178">
+            建物
+         </color>
+         <br>購入できる建物を表示します。建物には、飲食物のショップやスタンド、レストラン、ATM、トイレが含まれます。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="shell:structures_building_buy_area_label">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="1" shadowy="1" shadowa="32">
+            <color r="59" g="84" b="65">
+               建物
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="shell:pgb_terrain_stt">造園</LOC_STRING>
+      <LOC_STRING _locID="shell:pgb_terrain_ltt">
+         <color r="255" g="248" b="178">
+            造園
+         </color>
+         <br>造園パネルを表示します。樹木や植物、岩を設置したり、小山や谷、湖を作ることができます。 </br>
+      </LOC_STRING>
+      <LOC_STRING _locID="shell:pgb_pointer_terrain">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="1" shadowy="1" shadowa="32">
+            <color r="59" g="84" b="65">
+               造園パネル
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="shell:terrain_buy_area_label">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="1" shadowy="1" shadowa="32">
+            <color r="59" g="84" b="65">
+               地形変更ツール
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="shell:terrain_tab_stt">地形変更ツール</LOC_STRING>
+      <LOC_STRING _locID="shell:terrain_tab_ltt">
+         <color r="255" g="248" b="178">
+            地形変更ツール
+         </color>
+         <br>6 種類の地形変更ツールを表示します。地面を平らにしたりなめらかにしたり、がけや山、台地を作ることができます。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="shell:hill_brush_button_stt">小山を作る</LOC_STRING>
+      <LOC_STRING _locID="shell:hill_brush_button_ltt">
+         <color r="255" g="248" b="178">
+            小山を作る
+         </color>
+         <br>小山を作るブラシを選択します。地面の上でクリックまたはクリックしたままにして小山を作ります。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="shell:valley_brush_button_stt">谷を作る</LOC_STRING>
+      <LOC_STRING _locID="shell:valley_brush_button_ltt">
+         <color r="255" g="248" b="178">
+            谷を作る
+         </color>
+         <br>谷を作るブラシを選択します。地面の上でクリックまたはクリックしたままにして谷を作ります。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="shell:flatten_brush_button_stt">地面を平らにする</LOC_STRING>
+      <LOC_STRING _locID="shell:flatten_brush_button_ltt">
+         <color r="255" g="248" b="178">
+            地面を平らにする
+         </color>
+         <br>地面を平らにするブラシを選択します。地面の上でクリックまたはクリックしたままにして、盛り上がった地面を平らにして台地を作ります。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="shell:smooth_brush_button_stt">地面をなめらかにする</LOC_STRING>
+      <LOC_STRING _locID="shell:smooth_brush_button_ltt">
+         <color r="255" g="248" b="178">
+            地面をなめらかにする
+         </color>
+         <br>地面をなめらかにするブラシを選択します。地面の上でクリックまたはクリックしたままにして、でこぼこの地面をならしたり、なめらかな小山を作ります。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="shell:cliff_brush_button_stt">がけを作る</LOC_STRING>
+      <LOC_STRING _locID="shell:cliff_brush_button_ltt">
+         <color r="255" g="248" b="178">
+            がけを作る
+         </color>
+         <br>がけを作るブラシを選択します。地面の上でクリックまたはクリックしたままにしてがけを作ります。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="shell:ditch_brush_button_stt">みぞを掘る</LOC_STRING>
+      <LOC_STRING _locID="shell:ditch_brush_button_ltt">
+         <color r="255" g="248" b="178">
+            みぞを掘る
+         </color>
+         <br>みぞを掘るブラシを選択します。地面の上でクリックまたはクリックしたままにしてみぞを掘ります。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="shell:terrain_biome_area_label">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="1" shadowy="1" shadowa="32">
+            <color r="59" g="84" b="65">
+               生物群系の変更
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="shell:terrain_biome_tab_stt">生物群系の変更</LOC_STRING>
+      <LOC_STRING _locID="shell:terrain_biome_tab_ltt">
+         <color r="255" g="248" b="178">
+            生物群系の変更
+         </color>
+         <br>生物群系を選ぶことができます。生物群系に適応した植物や樹木などを、マウスを使って地面に設置できます。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="shell:previousbiome_stt">前の生物群系</LOC_STRING>
+      <LOC_STRING _locID="shell:previousbiome_ltt">
+         <color r="255" g="248" b="178">
+            前の生物群系
+         </color>
+         <br>前の生物群系を表示します。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="shell:nextbiome_stt">次の生物群系</LOC_STRING>
+      <LOC_STRING _locID="shell:nextbiome_ltt">
+         <color r="255" g="248" b="178">
+            次の生物群系
+         </color>
+         <br>次の生物群系を表示します。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="shell:brushincrease_stt">ブラシを大きくする</LOC_STRING>
+      <LOC_STRING _locID="shell:brushincrease_ltt">
+         <color r="255" g="248" b="178">
+            ブラシを大きくする
+         </color>
+         <br>クリックするたびに、生物群系描画ブラシまたは地形変更ツールのサイズが大きくなります。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="shell:brushdecrease_stt">ブラシを小さくする</LOC_STRING>
+      <LOC_STRING _locID="shell:brushdecrease_ltt">
+         <color r="255" g="248" b="178">
+            ブラシを小さくする
+         </color>
+         <br>クリックするたびに、生物群系描画ブラシまたは地形変更ツールのサイズが小さくなります。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="shell:terrain_tree_tab_stt">樹木</LOC_STRING>
+      <LOC_STRING _locID="shell:terrain_tree_buy_area_label">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="1" shadowy="1" shadowa="32">
+            <color r="59" g="84" b="65">
+               樹木
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="shell:terrain_tree_tab_ltt">
+         <color r="255" g="248" b="178">
+            樹木
+         </color>
+         <br>購入できるさまざまな種類の樹木を表示します。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="shell:terrain_plant_tab_stt">その他の植物</LOC_STRING>
+      <LOC_STRING _locID="shell:terrain_plant_buy_area_label">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="1" shadowy="1" shadowa="32">
+            <color r="59" g="84" b="65">
+               その他の植物
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="shell:terrain_plant_tab_ltt">
+         <color r="255" g="248" b="178">
+            その他の植物
+         </color>
+         <br>購入できるさまざまな種類の植物を表示します。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="shell:terrain_rock_tab_stt">岩</LOC_STRING>
+      <LOC_STRING _locID="shell:terrain_rock_buy_area_label">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="1" shadowy="1" shadowa="32">
+            <color r="59" g="84" b="65">
+               岩
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="shell:terrain_rock_tab_ltt">
+         <color r="255" g="248" b="178">
+            岩
+         </color>
+         <br>購入できるさまざまな種類の岩を表示します。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="shell:pgb_pointer_staff">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="1" shadowy="1" shadowa="32">
+            <color r="59" g="84" b="65">
+               スタッフパネル
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="shell:pgb_staff_stt">スタッフ</LOC_STRING>
+      <LOC_STRING _locID="shell:pgb_staff_ltt">
+         <color r="255" g="248" b="178">
+            スタッフ
+         </color>
+         <br>スタッフパネルを表示します。飼育員、メンテナンス員、インストラクターなどのスタッフを雇うことができます。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="shell:staff_buy_area_label">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="1" shadowy="1" shadowa="32">
+            <color r="59" g="84" b="65">
+               スタッフ
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="shell:staff_tab_stt">スタッフ</LOC_STRING>
+      <LOC_STRING _locID="shell:staff_tab_ltt">
+         <color r="255" g="248" b="178">
+            スタッフ
+         </color>
+         <br>飼育員やメンテナンス員、インストラクターを選ぶことができます。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="shell:keeper_buy_area_label">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="1" shadowy="1" shadowa="32">
+            <color r="59" g="84" b="65">
+               飼育員
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="shell:keeper_tab_stt">飼育員</LOC_STRING>
+      <LOC_STRING _locID="shell:keeper_tab_ltt">
+         <color r="255" g="248" b="178">
+            飼育員
+         </color>
+         <br>飼育員の性別を選ぶことができます。飼育員は動物の欲求を満たすことができます。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="shell:mw_buy_area_label">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="1" shadowy="1" shadowa="32">
+            <color r="59" g="84" b="65">
+               メンテナンス員
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="shell:mw_tab_stt">メンテナンス員</LOC_STRING>
+      <LOC_STRING _locID="shell:mw_tab_ltt">
+         <color r="255" g="248" b="178">
+            メンテナンス員
+         </color>
+         <br>ごみや動物のフンなどを片付けるメンテナンス員を雇うことができます。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="shell:educator_buy_area_label">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="1" shadowy="1" shadowa="32">
+            <color r="59" g="84" b="65">
+               インストラクター
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="shell:educator_tab_ltt">
+         <color r="255" g="248" b="178">
+            インストラクター
+         </color>
+         <br>来園者に動物について説明するインストラクターを雇うことができます。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="shell:educator_tab_stt">インストラクター</LOC_STRING>
+      <LOC_STRING _locID="shell:zoom_in_button_stt">ズームイン</LOC_STRING>
+      <LOC_STRING _locID="shell:zoom_in_button_ltt">
+         <color r="255" g="248" b="178">
+            ズームイン
+         </color>
+         <br>園内の状態を近くで見ることができます。マウスのホイールを使ってズームインすることもできます。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="shell:zoom_out_button_stt">ズームアウト</LOC_STRING>
+      <LOC_STRING _locID="shell:zoom_out_button_ltt">
+         <color r="255" g="248" b="178">
+            ズームアウト
+         </color>
+         <br>園内の状態を高い位置から見ることができます。マウスのホイールを使ってズームアウトすることもできます。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="shell:rotate_counter_clockwise_button_stt">時計回りに回転</LOC_STRING>
+      <LOC_STRING _locID="shell:rotate_counter_clockwise_button_ltt">
+         <color r="255" g="248" b="178">
+            時計回りに回転
+         </color>
+         <br>ゲーム画面が時計回りに回転します。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="shell:rotate_clockwise_button_stt">反時計回りに回転</LOC_STRING>
+      <LOC_STRING _locID="shell:rotate_clockwise_button_ltt">
+         <color r="255" g="248" b="178">
+            反時計回りに回転
+         </color>
+         <br>ゲーム画面が反時計回りに回転します。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="shell:multiinfo_button_stt">人と動物の状態</LOC_STRING>
+      <LOC_STRING _locID="shell:multiinfo_button_ltt">
+         <color r="255" g="248" b="178">
+            人と動物の状態
+         </color>
+         <br>動物、来園者、スタッフについての情報が表示されます。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="shell:undo_button_stt">元に戻す</LOC_STRING>
+      <LOC_STRING _locID="shell:undo_button_ltt">
+         <color r="255" g="248" b="178">
+            元に戻す
+         </color>
+         <br>直前のアクションを取り消します。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="shell:zoo_fame_button_stt">動物園の評判</LOC_STRING>
+      <LOC_STRING _locID="shell:zoo_fame_button_ltt">
+         <color r="255" g="248" b="178">
+            動物園の評判
+         </color>
+         <br>動物園の評判についての詳細を表示します。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="shell:recycle_button_stt">アイテムと建物のリサイクル</LOC_STRING>
+      <LOC_STRING _locID="shell:recycle_button_ltt">
+         <color r="255" g="248" b="178">
+            アイテムと建物のリサイクル
+         </color>
+         <br>マウスポインタがブルドーザーになります。アイテムをポイントしてクリックすると削除されます。ほとんどの場合、アイテムをリサイクルすると現金が手に入ります。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="shell:scenario_goals_button_stt">目標とチャレンジ</LOC_STRING>
+      <LOC_STRING _locID="shell:scenario_goals_button_ltt">
+         <color r="255" g="248" b="178">
+            目標とチャレンジ
+         </color>
+         <br>現在の目標とチャレンジについての情報を表示します。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="shell:options_button_stt">ゲームオプション</LOC_STRING>
+      <LOC_STRING _locID="shell:options_button_ltt">
+         <color r="255" g="248" b="178">
+            ゲームオプション
+         </color>
+         <br>ゲームオプションメニューを表示します。ゲームをセーブまたはロードしたり、メインメニューに戻ったり、Zoo Tycoon 2 を終了することもできます。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="shell:zoo_finance_button_stt">動物園の状態</LOC_STRING>
+      <LOC_STRING _locID="shell:zoo_finance_button_ltt">
+         <color r="255" g="248" b="178">
+            動物園の状態
+         </color>
+         <br>収支、建物、授与された賞、寄付金、グラフなどの動物園に関する情報を表示します。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="shell:photo_album_button_stt">フォトアルバム</LOC_STRING>
+      <LOC_STRING _locID="shell:photo_album_button_ltt">
+         <color r="255" g="248" b="178">
+            フォトアルバム
+         </color>
+         <br>フォトサファリで撮影した写真を表示してアルバムにまとめます。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="shell:ingameoptions_label">
+         <font name="HGS創英角ﾎﾟｯﾌﾟ体" size="14" image="ui\font\color_mainmenu.tga">
+            <color r="255" g="248" b="178">
+               ゲームオプション
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="shell:ingameoptions_cancel">
+         <font name="HGS創英角ﾎﾟｯﾌﾟ体" size="14" image="ui\font\color_mainmenu.tga" shadowx="0" shadowy="0">
+            ゲームに戻る
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="shell:ingameoptions_exit">
+         <font name="HGS創英角ﾎﾟｯﾌﾟ体" size="14" image="ui\font\color_mainmenu.tga" shadowx="0" shadowy="0">
+            終了
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="shell:ingameoptions_load">
+         <font name="HGS創英角ﾎﾟｯﾌﾟ体" size="14" image="ui\font\color_mainmenu.tga" shadowx="0" shadowy="0">
+            ゲームのロード
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="shell:ingameoptions_save">
+         <font name="HGS創英角ﾎﾟｯﾌﾟ体" size="14" image="ui\font\color_mainmenu.tga" shadowx="0" shadowy="0">
+            ゲームのセーブ
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="shell:ingameoptions_options">
+         <font name="HGS創英角ﾎﾟｯﾌﾟ体" size="14" image="ui\font\color_mainmenu.tga" shadowx="0" shadowy="0">
+            ゲームオプション
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="shell:ingameoptions_mainmenu">
+         <font name="HGS創英角ﾎﾟｯﾌﾟ体" size="14" image="ui\font\color_mainmenu.tga" shadowx="0" shadowy="0">
+            メインメニューに戻る
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="shell:rotate_clock_stt">時計回りに回転</LOC_STRING>
+      <LOC_STRING _locID="shell:rotate_clock_ltt">
+         <color r="255" g="248" b="178">
+            時計回りに回転
+         </color>
+         <br>選択したアイテムを置いたり、スタッフを配置する前に時計回りに回転させます。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="shell:rotate_counter-clock_stt">反時計回りに回転</LOC_STRING>
+      <LOC_STRING _locID="shell:rotate_counter-clock_ltt">
+         <color r="255" g="248" b="178">
+            反時計回りに回転
+         </color>
+         <br>選択したアイテムを置いたり、スタッフを配置する前に反時計回りに回転させます。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="shell:devmodedisplay">
+         <font name="HGS創英角ﾎﾟｯﾌﾟ体" size="24" shadowx="2" shadowy="2" shadowa="32">
+            開発モード
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="shell:maximize_ui_button_stt">最大化</LOC_STRING>
+      <LOC_STRING _locID="shell:maximize_ui_button_ltt">
+         <color r="255" g="248" b="178">
+            操作ボタンの最大化
+         </color>
+         <br>操作ボタンパネルのサイズを最大値まで拡大します。より詳細な情報を表示できますが、動物園の状態が見えにくくなります。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="shell:minimize_ui_button_stt">最小化</LOC_STRING>
+      <LOC_STRING _locID="shell:minimize_ui_button_ltt">
+         <color r="255" g="248" b="178">
+            操作ボタンの最小化
+         </color>
+         <br>操作ボタンパネルを最小値まで縮小します。動物園の状態がよく見えるようになります。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="shell:zoo_money_button_stt">収入 &amp; 支出</LOC_STRING>
+      <LOC_STRING _locID="shell:zoo_money_button_ltt">
+         <color r="255" g="248" b="178">
+            収入 &amp; 支出
+         </color>
+         <br>動物園の収入 &amp; 支出を表示します。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="shell:pause_button_stt">プレイとポーズの切り替え</LOC_STRING>
+      <LOC_STRING _locID="shell:pause_button_ltt">
+         <color r="255" g="248" b="178">
+            プレイとポーズの切り替え
+         </color>
+         <br>プレイとポーズを切り替えます。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="shell:pause_game_label">
+         <font name="HGS創英角ﾎﾟｯﾌﾟ体" size="24" shadowx="-1" shadowy="1">
+            ポーズ中
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="shell:filter_all">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="-1" shadowy="1">
+            すべて
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="shell:filter_theme_safari">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="-1" shadowy="1">
+            サファリ風
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="shell:filter_theme_jungle">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="-1" shadowy="1">
+            ジャングル風
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="shell:filter_researchable">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="-1" shadowy="1">
+            研究済み
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="shell:filter_alpine">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="-1" shadowy="1">
+            高山帯
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="shell:filter_borealforest">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="-1" shadowy="1">
+            亜寒帯樹林
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="shell:filter_desert">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="-1" shadowy="1">
+            砂漠
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="shell:filter_grassland">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="-1" shadowy="1">
+            草原
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="shell:filter_savannah">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="-1" shadowy="1">
+            サバンナ
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="shell:filter_scrub">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="-1" shadowy="1">
+            低木帯
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="shell:filter_temperateforest">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="-1" shadowy="1">
+            温帯林
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="shell:filter_tropicalrainforest">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="-1" shadowy="1">
+            熱帯雨林
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="shell:filter_tundra">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="-1" shadowy="1">
+            ツンドラ
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="shell:filter_wetlands">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="-1" shadowy="1">
+            湿地帯
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="shell:filter_show_label">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="-1" shadowy="1">
+            表示
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="shell:downloadformatlabel">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="-1" shadowy="1">
+            <LOC_DUMMY>%text%</LOC_DUMMY>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="sort:sttformat">
+         <font name="ＭＳ Ｐゴシック" size="10">%text%</font>
+      </LOC_STRING>
+      <LOC_STRING _locID="sort:lttformat">
+         <font name="ＭＳ Ｐゴシック" size="10">%text%</font>
+      </LOC_STRING>
+      <LOC_STRING _locID="sort:entity_name_format">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            <color r="59" g="84" b="65">
+               <LOC_DUMMY>%text%</LOC_DUMMY>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="scenario:sttformat">
+         <font name="ＭＳ Ｐゴシック" size="10">%text%</font>
+      </LOC_STRING>
+      <LOC_STRING _locID="scenario:lttformat">
+         <font name="ＭＳ Ｐゴシック" size="10">%text%</font>
+      </LOC_STRING>
+      <LOC_STRING _locID="scenario:goals_label">
+         <font name="HGS創英角ﾎﾟｯﾌﾟ体" size="16" image="ui\font\color_mainmenu.tga">
+            <color r="255" g="248" b="178">
+               目標とチャレンジ
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="scenario:primary_tab_label">
+         <font name="HGS創英角ﾎﾟｯﾌﾟ体" size="14" shadowx="-1" shadowy="1" shadowa="255">
+            <color r="255" g="248" b="178">
+               主な目標
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="scenario:primary_goals_tab_stt">主な目標</LOC_STRING>
+      <LOC_STRING _locID="scenario:primary_goals_tab_ltt">
+         <color r="255" g="248" b="178">
+            主な目標
+         </color>
+         <br>このシナリオの主な目標のリストが表示されます。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="scenario:primary_show_all_goals_button_stt">すべての目標</LOC_STRING>
+      <LOC_STRING _locID="scenario:primary_show_all_goals_button_ltt">
+         <color r="255" g="248" b="178">
+            すべての目標
+         </color>
+         <br>このシナリオの目標のリストを表示します。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="scenario:primary_show_all_completed_goals_button_stt">クリアした目標</LOC_STRING>
+      <LOC_STRING _locID="scenario:primary_show_all_completed_goals_button_ltt">
+         <color r="255" g="248" b="178">
+            クリアした目標
+         </color>
+         <br>このシナリオで今までにクリアしたすべての目標のリストを表示します。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="scenario:primary_show_all_uncompleted_goals_button_stt">クリアしていない目標</LOC_STRING>
+      <LOC_STRING _locID="scenario:primary_show_all_uncompleted_goals_button_ltt">
+         <color r="255" g="248" b="178">
+            クリアしていない目標
+         </color>
+         <br>このシナリオでまだクリアしていないすべての目標のリストを表示します。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="scenario:photo_tab_label">
+         <font name="HGS創英角ﾎﾟｯﾌﾟ体" size="14" shadowx="-1" shadowy="1" shadowa="255">
+            <color r="255" g="248" b="178">
+               フォトサファリチャレンジ
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="scenario:photo_goals_tab_stt">フォトサファリチャレンジ</LOC_STRING>
+      <LOC_STRING _locID="scenario:photo_goals_tab_ltt">
+         <color r="255" g="248" b="178">
+            フォトサファリチャレンジ
+         </color>
+         <br>すべてのフォトサファリチャレンジのリストを表示します。クリアするにはカメラが必要です。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="scenario:introduction_tab_label">
+         <font name="HGS創英角ﾎﾟｯﾌﾟ体" size="14" shadowx="-1" shadowy="1" shadowa="255">
+            <color r="255" g="248" b="178">
+               イントロダクション
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="scenario:introduction_tab_stt">イントロダクション</LOC_STRING>
+      <LOC_STRING _locID="scenario:introduction_tab_ltt">
+         <color r="255" g="248" b="178">
+            イントロダクション
+         </color>
+         <br>現在の目標とチャレンジについてのイントロダクションを表示します。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="scenario:goals_state_label">
+         <font name="ＭＳ Ｐゴシック" size="11" shadowx="-1" shadowy="1" shadowa="128">
+            <color r="255" g="248" b="178">
+               状態:
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="scenario:goals_name_label">
+         <font name="ＭＳ Ｐゴシック" size="11" shadowx="-1" shadowy="1" shadowa="128">
+            <color r="255" g="248" b="178">
+               目標:
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="scenario:neutral_label">
+         <font name="ＭＳ Ｐゴシック" size="11" shadowx="-1" shadowy="1" shadowa="128">
+            <color r="255" g="248" b="178">
+               <LOC_DUMMY>%text%</LOC_DUMMY>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="scenario:success_label">
+         <font name="ＭＳ Ｐゴシック" size="11" shadowx="-1" shadowy="1" shadowa="0">
+            <color r="173" g="248" b="173">
+               <LOC_DUMMY>%text%</LOC_DUMMY>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="scenario:failure_label">
+         <font name="ＭＳ Ｐゴシック" size="11" shadowx="-1" shadowy="1" shadowa="0">
+            <color r="177" g="40" b="40">
+               <LOC_DUMMY>%text%</LOC_DUMMY>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="scenario:intro_text_format">
+         <font name="ＭＳ Ｐゴシック" size="12" shadowx="-1" shadowy="1" shadowa="128">
+            <color r="255" g="255" b="255">
+               <LOC_DUMMY>%text%</LOC_DUMMY>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tutorial:sttformat">
+         <font name="ＭＳ Ｐゴシック" size="10">%text%</font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tutorial:lttformat">
+         <font name="ＭＳ Ｐゴシック" size="10">%text%</font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tutorial:continue_tutorial_button_stt">続ける</LOC_STRING>
+      <LOC_STRING _locID="tutorial:continue_tutorial_button_ltt">
+         <color r="255" g="248" b="178">
+            続ける
+         </color>
+         <br>チュートリアルの次のステップに進みます。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="uigraph:posformat">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="-1" shadowy="1" shadowa="255">
+            <color r="0" g="255" b="0">
+               <LOC_DUMMY>%text%</LOC_DUMMY>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="uigraph:negformat">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="-1" shadowy="1" shadowa="255">
+            <color r="255" g="0" b="0">
+               <LOC_DUMMY>%text%</LOC_DUMMY>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia:sttformat">
+         <font name="ＭＳ Ｐゴシック" size="10">%text%</font>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia:lttformat">
+         <font name="ＭＳ Ｐゴシック" size="10">%text%</font>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia:exit_button_stt">ゲームに戻る</LOC_STRING>
+      <LOC_STRING _locID="zoopedia:exit_button_ltt">
+         <color r="255" g="248" b="178">
+            ゲームに戻る
+         </color>
+         <br>動物園百科を閉じてゲームに戻ります。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia:next_topic_button_stt">次のトピック</LOC_STRING>
+      <LOC_STRING _locID="zoopedia:next_topic_button_ltt">
+         <color r="255" g="248" b="178">
+            次のトピック
+         </color>
+         <br>動物園百科の次のトピックを表示します。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia:prev_topic_button_stt">前のトピック</LOC_STRING>
+      <LOC_STRING _locID="zoopedia:prev_topic_button_ltt">
+         <color r="255" g="248" b="178">
+            前のトピック
+         </color>
+         <br>動物園百科の前のトピックを表示します。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia:toc_button_stt">目次</LOC_STRING>
+      <LOC_STRING _locID="zoopedia:toc_button_ltt">
+         <color r="255" g="248" b="178">
+            目次
+         </color>
+         <br>動物園百科の目次を表示します。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoomap:animalslabel">動物</LOC_STRING>
+      <LOC_STRING _locID="zoomap:buildingslabel">建物</LOC_STRING>
+      <LOC_STRING _locID="zoomap:fenceslabel">フェンス</LOC_STRING>
+      <LOC_STRING _locID="zoomap:pathslabel">道</LOC_STRING>
+      <LOC_STRING _locID="zoomap:foliagelabel">樹木</LOC_STRING>
+      <LOC_STRING _locID="zoomap:youareherelabel">現在地</LOC_STRING>
+      <LOC_STRING _locID="zoomap:waterlabel">水域</LOC_STRING>
+      <LOC_STRING _locID="zoomap:export_map_button_stt">マップのエクスポート</LOC_STRING>
+      <LOC_STRING _locID="zoomap:export_map_button_ltt">
+         <color r="255" g="248" b="178">
+            マップのエクスポート
+         </color>
+         <br>このマップのコピーを HTML にエクスポートし、ほかのプレイヤーと共有することができます。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoomap:exit_button_stt">ゲームに戻る</LOC_STRING>
+      <LOC_STRING _locID="zoomap:exit_button_ltt">
+         <color r="255" g="248" b="178">
+            ゲームに戻る
+         </color>
+         <br>概観マップを閉じてゲームに戻ります。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoomap:legend_item_stt">アイテムを表示/非表示</LOC_STRING>
+      <LOC_STRING _locID="zoomap:legend_item_ltt">
+         <color r="255" g="248" b="178">
+            アイテムを表示/非表示
+         </color>
+         <br>概観マップ上のアイテムを表示したり隠したりできます。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoomap:map_legend_label">
+         <font name="HGS創英角ﾎﾟｯﾌﾟ体" size="18" shadowx="-1" shadowy="1" shadowa="255">
+            <color r="255" g="248" b="178">
+               マップの凡例
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoomap:zoo_name_label">
+         <font name="HGS創英角ﾎﾟｯﾌﾟ体" size="16" image="ui\font\color_mainmenu.tga">
+            <color r="255" g="197" b="78">
+               <LOC_DUMMY>%text%</LOC_DUMMY>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoomap:over_view_map_label">
+         <font name="HGS創英角ﾎﾟｯﾌﾟ体" size="16" image="ui\font\color_mainmenu.tga">
+            <color r="255" g="248" b="178">
+               概観マップ
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoostatus:sttformat">
+         <font name="ＭＳ Ｐゴシック" size="10">%text%</font>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoostatus:lttformat">
+         <font name="ＭＳ Ｐゴシック" size="10">%text%</font>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoostatus:zoo_status_label">
+         <font name="HGS創英角ﾎﾟｯﾌﾟ体" size="16" image="ui\font\color_mainmenu.tga">
+            <color r="255" g="248" b="178">
+               動物園の状態
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoostatus:money_format">$%d</LOC_STRING>
+      <LOC_STRING _locID="zoostatus:number_format">%d</LOC_STRING>
+      <LOC_STRING _locID="zoostatus:info_tab_label">
+         <font name="HGS創英角ﾎﾟｯﾌﾟ体" size="14" shadowx="-1" shadowy="1" shadowa="255">
+            <color r="255" g="248" b="178">
+               動物園の情報
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoostatus:info_tab_stt">動物園の情報</LOC_STRING>
+      <LOC_STRING _locID="zoostatus:info_tab_ltt">
+         <color r="255" g="248" b="178">
+            動物園の情報
+         </color>
+         <br>入園料を表示して価格を調整します。動物園の稼動状況も確認できます。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoostatus:info_price_up_button_stt">入園料の値上げ</LOC_STRING>
+      <LOC_STRING _locID="zoostatus:info_price_up_button_ltt">
+         <color r="255" g="248" b="178">
+            入園料の値下げ
+         </color>
+         <br>入園料を値上げします。入園料が上がると来園者数は減りますが、来園者の期待は高まります。 </br>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoostatus:info_price_down_button_stt">入園料の値下げ</LOC_STRING>
+      <LOC_STRING _locID="zoostatus:info_price_down_button_ltt">
+         <color r="255" g="248" b="178">
+            入園料の値上げ
+         </color>
+         <br>入園料を値下げします。入園料が下がると来園者数が増えるかもしれません。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoostatus:close_stt">閉じる</LOC_STRING>
+      <LOC_STRING _locID="zoostatus:close_ltt">
+         <color r="255" g="248" b="178">
+            閉じる
+         </color>
+         <br>パネルを閉じます。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoostatus:balance_sheet_tab_label">
+         <font name="HGS創英角ﾎﾟｯﾌﾟ体" size="14" shadowx="-1" shadowy="1" shadowa="255">
+            <color r="255" g="248" b="178">
+               収入 &amp; 支出
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoostatus:balance_sheet_tab_stt">収入 &amp; 支出</LOC_STRING>
+      <LOC_STRING _locID="zoostatus:balance_sheet_tab_ltt">
+         <marketing_tab_ltt>
+            <color r="255" g="248" b="178">
+               収入 &amp; 支出
+            </color>
+            <br>動物園の収入 &amp; 支出を表示します。</br>
+         </marketing_tab_ltt>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoostatus:graphs_tab_label">
+         <font name="HGS創英角ﾎﾟｯﾌﾟ体" size="14" shadowx="-1" shadowy="1" shadowa="255">
+            <color r="255" g="248" b="178">
+               グラフ
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoostatus:graphs_tab_stt">グラフ</LOC_STRING>
+      <LOC_STRING _locID="zoostatus:graphs_tab_ltt">
+         <color r="255" g="248" b="178">
+            グラフ
+         </color>
+         <br>さまざまな分野における発展や推移を示すグラフを表示します。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoostatus:awards_tab_label">
+         <font name="HGS創英角ﾎﾟｯﾌﾟ体" size="14" shadowx="-1" shadowy="1" shadowa="255">
+            <color r="255" g="248" b="178">
+               授与された賞
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoostatus:awards_tab_stt">授与された賞</LOC_STRING>
+      <LOC_STRING _locID="zoostatus:awards_tab_ltt">
+         <color r="255" g="248" b="178">
+            授与された賞
+         </color>
+         <br>動物園が今までに授与された賞を表示します。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoostatus:award_text_format">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="-1" shadowy="1" shadowa="255">
+            <color r="255" g="248" b="178">
+               <LOC_DUMMY>%text%</LOC_DUMMY>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoostatus:building_list_tab_label">
+         <font name="HGS創英角ﾎﾟｯﾌﾟ体" size="14" shadowx="-1" shadowy="1" shadowa="255">
+            <color r="255" g="248" b="178">
+               建物
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoostatus:building_list_buildings_name">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="-1" shadowy="1" shadowa="255">
+            <color r="255" g="248" b="178">
+               <LOC_DUMMY>%text%</LOC_DUMMY>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoostatus:building_list_num_color">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="-1" shadowy="1" shadowa="255">
+            <color r="255" g="255" b="255">
+               <LOC_DUMMY>%text%</LOC_DUMMY>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoostatus:building_list_tab_stt">建物</LOC_STRING>
+      <LOC_STRING _locID="zoostatus:building_list_tab_ltt">
+         <color r="255" g="248" b="178">
+            建物
+         </color>
+         <br>園内の建物とその収支のリストを表示します。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoostatus:donations_box_names">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="-1" shadowy="1" shadowa="255">
+            <color r="255" g="248" b="178">
+               <LOC_DUMMY>%text%</LOC_DUMMY>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoostatus:donations_list_num_color">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="-1" shadowy="1" shadowa="255">
+            <color r="255" g="255" b="255">
+               <LOC_DUMMY>%text%</LOC_DUMMY>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoostatus:donations_summary_tab_label">
+         <font name="HGS創英角ﾎﾟｯﾌﾟ体" size="14" shadowx="-1" shadowy="1" shadowa="255">
+            <color r="255" g="248" b="178">
+               寄付の概要
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoostatus:donations_tab_stt">寄付の概要</LOC_STRING>
+      <LOC_STRING _locID="zoostatus:donations_tab_ltt">
+         <color r="255" g="248" b="178">
+            寄付の概要
+         </color>
+         <br>動物園が受け取った寄付の概要を表示します。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoostatus:donations_summary_filter_button_stt">寄付の概要</LOC_STRING>
+      <LOC_STRING _locID="zoostatus:donations_summary_filter_button_ltt">
+         <color r="255" g="248" b="178">
+            寄付の概要
+         </color>
+         <br>動物園が受け取った寄付の概要を表示します。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoostatus:donations_species_filter_button_stt">寄付の種類</LOC_STRING>
+      <LOC_STRING _locID="zoostatus:donations_species_filter_button_ltt">
+         <color r="255" g="248" b="178">
+            寄付の種類
+         </color>
+         <br>動物園が受け取った寄付の概要を種類別に表示します。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoostatus:zoo_fame_tab_label">
+         <font name="HGS創英角ﾎﾟｯﾌﾟ体" size="14" shadowx="-1" shadowy="1" shadowa="255">
+            <color r="255" g="248" b="178">
+               動物園の評判
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoostatus:zoo_fame_tab_stt">動物園の評判</LOC_STRING>
+      <LOC_STRING _locID="zoostatus:zoo_fame_tab_ltt">
+         <color r="255" g="248" b="178">
+            動物園の評判
+         </color>
+         <br>動物園の評判の概要を表示します。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoostatus:zoo_fame_bar_format">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="-1" shadowy="1" shadowa="255">
+            <color r="255" g="255" b="255">
+               <LOC_DUMMY>%text%</LOC_DUMMY>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoostatus:zoo_fame_animal_label">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="-1" shadowy="1" shadowa="255">
+            <color r="255" g="248" b="178">
+               動物
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoostatus:zoo_fame_num_animals_label">数</LOC_STRING>
+      <LOC_STRING _locID="zoostatus:zoo_fame_num_animals_ltt">
+         <color r="255" g="248" b="178">
+            数
+         </color>
+         <br>動物の数が多いと動物園は有名になります。評判を高めるには動物を増やしてください。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoostatus:zoo_fame_animal_variety_label">種類</LOC_STRING>
+      <LOC_STRING _locID="zoostatus:zoo_fame_animal_variety_ltt">
+         <color r="255" g="248" b="178">
+            種類
+         </color>
+         <br>動物の種類が多いと動物園は有名になります。さまざまな種類の動物を買い付けて、出来る限り有名な動物園を作ってください。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoostatus:zoo_fame_animal_happiness_label">幸福度</LOC_STRING>
+      <LOC_STRING _locID="zoostatus:zoo_fame_animal_happiness_ltt">
+         <color r="255" g="248" b="178">
+            幸福度
+         </color>
+         <br>さまざまな種類の動物が数多くいても、動物たちの幸福度が低ければ動物園は有名になりません。動物たちの要望を満たし、幸せにするようにしてください。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoostatus:zoo_fame_guest_label">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="-1" shadowy="1" shadowa="255">
+            <color r="255" g="248" b="178">
+               来園者
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoostatus:zoo_fame_guest_educated_by_animals">動物の生育環境</LOC_STRING>
+      <LOC_STRING _locID="zoostatus:zoo_fame_guest_educated_by_animals_ltt">
+         <color r="255" g="248" b="178">
+            動物の生育環境
+         </color>
+         <br>動物が正しい生育環境にいると、来園者はその動物について学ぶことができます。すべての動物の生育環境が適切であれば、動物園はより教育的と言え、教育的な動物園はより有名になります。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoostatus:zoo_fame_guest_entertained_by_animals">動物の状態</LOC_STRING>
+      <LOC_STRING _locID="zoostatus:zoo_fame_guest_entertained_by_animals_ltt">
+         <color r="255" g="248" b="178">
+            動物の状態
+         </color>
+         <br>来園者は、健康で幸福な生き生きとした動物を近くで見たがります。珍しい動物や外来種の動物も人気があります。来園者が動物を見て喜んでいるかどうかは、動物の幸福度にかかっています。珍しい動物や外来種の動物を買い付けたら、よく世話をして、来園者が近くで見られるようにしてください。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoostatus:zoo_fame_guest_average_happiness_label">満足度</LOC_STRING>
+      <LOC_STRING _locID="zoostatus:zoo_fame_guest_average_happiness_ltt">
+         <color r="255" g="248" b="178">
+            満足度
+         </color>
+         <br>おもしろい動物がいる教育的な動物園でも、来園者の満足度が低ければ有名になれません。来園者の要望を満たし、満足させるようにしてください。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoostatus:zoo_fame_zoo_label">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="-1" shadowy="1" shadowa="255">
+            <color r="255" g="248" b="178">
+               動物園
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoostatus:zoo_fame_awards_label">目標</LOC_STRING>
+      <LOC_STRING _locID="zoostatus:zoo_fame_awards_ltt">
+         <color r="255" g="248" b="178">
+            目標
+         </color>
+         <br>チャレンジを達成して賞を授与されれば、動物園はさらに有名になります。この評判は失われることはありません。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoostatus:zoo_fame_animal_release_wild_label">動物を野生に戻す</LOC_STRING>
+      <LOC_STRING _locID="zoostatus:zoo_fame_animal_release_wild_ltt">
+         <color r="255" g="248" b="178">
+            動物を野生に戻す
+         </color>
+         <br>動物を野生に戻すと動物園の評判が上がります。この評判は失われることはありません。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoostatus:graph_value_tab_stt">資産</LOC_STRING>
+      <LOC_STRING _locID="zoostatus:graph_value_tab_ltt">動物園の資産を表示します。 </LOC_STRING>
+      <LOC_STRING _locID="zoostatus:graph_profit_tab_stt">毎月の利益 </LOC_STRING>
+      <LOC_STRING _locID="zoostatus:graph_profit_tab_ltt">
+         <color r="255" g="248" b="178">
+            毎月の利益
+         </color>
+         <br>動物園の毎月の利益を示すグラフを表示します。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoostatus:graph_donations_tab_stt">毎月の寄付 </LOC_STRING>
+      <LOC_STRING _locID="zoostatus:graph_donations_tab_ltt">
+         <color r="255" g="248" b="178">
+            毎月の寄付
+         </color>
+         <br>動物園の毎月の寄付を示すグラフを表示します。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoostatus:graph_attendance_tab_stt">毎月の来園者数 </LOC_STRING>
+      <LOC_STRING _locID="zoostatus:graph_attendance_tab_ltt">
+         <color r="255" g="248" b="178">
+            毎月の来園者数
+         </color>
+         <br>動物園の毎月の来園者数を示すグラフを表示します。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoostatus:graph_fame_tab_stt">動物園の評判 </LOC_STRING>
+      <LOC_STRING _locID="zoostatus:graph_fame_tab_ltt">
+         <color r="255" g="248" b="178">
+            動物園の評判
+         </color>
+         <br>動物園の評判と認知度を示すグラフを表示します。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoostatus:graph_members_tab_stt">動物園の会員数 </LOC_STRING>
+      <LOC_STRING _locID="zoostatus:graph_members_tab_ltt">
+         <color r="255" g="248" b="178">
+            動物園の会員数
+         </color>
+         <br>動物園の会員数を示すグラフを表示します。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoostatus:graph_toggle_button_stt">棒グラフ表示</LOC_STRING>
+      <LOC_STRING _locID="zoostatus:graph_toggle_button_ltt">
+         <color r="255" g="248" b="178">
+            棒グラフ表示
+         </color>
+         <br>棒グラフ形式に変更して表示します。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoostatus:line_toggle_button_stt">折れ線グラフ表示</LOC_STRING>
+      <LOC_STRING _locID="zoostatus:line_toggle_button_ltt">
+         <color r="255" g="248" b="178">
+            折れ線グラフ表示
+         </color>
+         <br>折れ線グラフ形式に変更して表示します。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoostatus:econ_category_admissions">総来園者数:</LOC_STRING>
+      <LOC_STRING _locID="zoostatus:econ_category_admissions_income">入園料:</LOC_STRING>
+      <LOC_STRING _locID="zoostatus:econ_category_construction">建設費:</LOC_STRING>
+      <LOC_STRING _locID="zoostatus:econ_category_animal">動物の買い付け:</LOC_STRING>
+      <LOC_STRING _locID="zoostatus:econ_category_animal_upkeep">動物の飼育費:</LOC_STRING>
+      <LOC_STRING _locID="zoostatus:econ_category_concessions_gifts">ショップの売り上げ:</LOC_STRING>
+      <LOC_STRING _locID="zoostatus:econ_category_concessions_food_drink">飲食物の売り上げ:</LOC_STRING>
+      <LOC_STRING _locID="zoostatus:econ_category_staff_salaries">スタッフの給料:</LOC_STRING>
+      <LOC_STRING _locID="zoostatus:econ_category_research">研究活動費:</LOC_STRING>
+      <LOC_STRING _locID="zoostatus:econ_category_donations_income">寄付金:</LOC_STRING>
+      <LOC_STRING _locID="zoostatus:econ_category_cash_grants">補助金:</LOC_STRING>
+      <LOC_STRING _locID="zoostatus:econ_category_upkeep">維持費:</LOC_STRING>
+      <LOC_STRING _locID="zoostatus:econ_category_recycling">リサイクル:</LOC_STRING>
+      <LOC_STRING _locID="zoostatus:econ_category_Zoo">合計:</LOC_STRING>
+      <LOC_STRING _locID="zoostatus:zoo_is_label">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="-1" shadowy="1" shadowa="255">
+            <color r="255" g="248" b="178">
+               動物園が
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoostatus:zoo_is_open">
+         <font name="ＭＳ Ｐゴシック" size="12" shadowx="-1" shadowy="1" shadowa="255">
+            <color r="0" g="248" b="0">
+               開園しました!
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoostatus:zoo_is_closed">
+         <font name="ＭＳ Ｐゴシック" size="12" shadowx="-1" shadowy="1" shadowa="255">
+            <color r="255" g="0" b="0">
+               閉園しました
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoostatus:open_zoo_stt">開園</LOC_STRING>
+      <LOC_STRING _locID="zoostatus:open_zoo_ltt">
+         <color r="255" g="248" b="178">
+            開園
+         </color>
+         <br>動物園を開けて来園者を迎えます。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoostatus:close_zoo_stt">閉園</LOC_STRING>
+      <LOC_STRING _locID="zoostatus:close_zoo_ltt">
+         <color r="255" g="248" b="178">
+            閉園
+         </color>
+         <br>動物園を閉めます。閉まっている間に来園者が来ることはありません。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoostatus:admission_prices_label">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="-1" shadowy="1" shadowa="255">
+            <color r="255" g="248" b="178">
+               入園料:
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoostatus:adult_price_label">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="-1" shadowy="1" shadowa="255">
+            <color r="255" g="248" b="178">
+               大人料金:
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoostatus:child_price_label">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="-1" shadowy="1" shadowa="255">
+            <color r="255" g="248" b="178">
+               子供料金:
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoostatus:tour_group_price_label">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="-1" shadowy="1" shadowa="255">
+            <color r="255" g="248" b="178">
+               団体料金:
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoostatus:building_list_name">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="-1" shadowy="1" shadowa="255">
+            <color r="255" g="248" b="178">
+               建物の名前:
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoostatus:building_list_months">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="-1" shadowy="1" shadowa="255">
+            <color r="255" g="248" b="178">
+               月数:
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoostatus:building_list_users">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="-1" shadowy="1" shadowa="255">
+            <color r="255" g="248" b="178">
+               利用者数:
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoostatus:building_list_profit">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="-1" shadowy="1" shadowa="255">
+            <color r="255" g="248" b="178">
+               利益:
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoostatus:building_list_average_profit">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="-1" shadowy="1" shadowa="255">
+            <color r="255" g="248" b="178">
+               利益の平均:
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoostatus:donation_box_list_name">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="-1" shadowy="1" shadowa="255">
+            <color r="255" g="248" b="178">
+               募金箱の名前:
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoostatus:donation_box_list_months">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="-1" shadowy="1" shadowa="255">
+            <color r="255" g="248" b="178">
+               月数:
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoostatus:donation_box_list_users">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="-1" shadowy="1" shadowa="255">
+            <color r="255" g="248" b="178">
+               来園者による寄付:
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoostatus:donation_box_list_profit">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="-1" shadowy="1" shadowa="255">
+            <color r="255" g="248" b="178">
+               募金箱の合計:
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoostatus:donation_box_list_average_profit">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="-1" shadowy="1" shadowa="255">
+            <color r="255" g="248" b="178">
+               寄付額の平均:
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoostatus:donation_species_label">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="-1" shadowy="1" shadowa="255">
+            <color r="255" g="248" b="178">
+               種類
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoostatus:donation_species_amount_donate_label">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="-1" shadowy="1" shadowa="255">
+            <color r="255" g="248" b="178">
+               寄付総額:
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoostatus:donation_education_label">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="-1" shadowy="1" shadowa="255">
+            <color r="255" g="248" b="178">
+               学習体験への寄付:
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoostatus:donation_education_amount_label">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="-1" shadowy="1" shadowa="255">
+            <color r="255" g="248" b="178">
+               寄付総額:
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoostatus:donation_education_number_format">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="-1" shadowy="1" shadowa="255">
+            <color r="255" g="255" b="255">
+               <LOC_DUMMY>%text%</LOC_DUMMY>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoostatus:donation_allspecies_label">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="-1" shadowy="1" shadowa="255">
+            <color r="255" g="248" b="178">
+               動物への寄付:
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoostatus:donation_allspecies_amount_label">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="-1" shadowy="1" shadowa="255">
+            <color r="255" g="248" b="178">
+               寄付総額:
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoostatus:donation_allspecies_number_format">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="-1" shadowy="1" shadowa="255">
+            <color r="255" g="255" b="255">
+               <LOC_DUMMY>%text%</LOC_DUMMY>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoostatus:donation_combined_label">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="-1" shadowy="1" shadowa="255">
+            <color r="255" g="248" b="178">
+               2 種類の寄付の合計:
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoostatus:donation_combined_amount_label">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="-1" shadowy="1" shadowa="255">
+            <color r="255" g="248" b="178">
+               寄付総額:
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoostatus:donation_combined_number_format">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="-1" shadowy="1" shadowa="255">
+            <color r="255" g="255" b="255">
+               <LOC_DUMMY>%text%</LOC_DUMMY>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoostatus:zoo_name_label">
+         <font name="ＭＳ Ｐゴシック" size="12" shadowx="-1" shadowy="1" shadowa="255">
+            <color r="254" g="219" b="89">
+               動物園の名前:
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoostatus:zoo_name">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="-1" shadowy="1" shadowa="255">
+            <LOC_DUMMY>%text%</LOC_DUMMY>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoostatus:months_label_format">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="-1" shadowy="1" shadowa="255">
+            <color r="255" g="255" b="255">
+               <LOC_DUMMY>%text%</LOC_DUMMY>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoostatus:misc_label_format">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="-1" shadowy="1" shadowa="255">
+            <color r="255" g="248" b="178">
+               <LOC_DUMMY>%text%</LOC_DUMMY>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoostatus:misc_label_green_format">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="-1" shadowy="1" shadowa="255">
+            <LOC_DUMMY>%text%</LOC_DUMMY>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoostatus:misc_label_red_format">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="-1" shadowy="1" shadowa="255">
+            <LOC_DUMMY>%text%</LOC_DUMMY>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoostatus:bar_item_format">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="-1" shadowy="1" shadowa="255">
+            <b/>
+            <color r="0" g="255" b="0">
+               <LOC_DUMMY>%text%</LOC_DUMMY>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoostatus:posformat">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="-1" shadowy="1" shadowa="255">
+            <color r="0" g="255" b="0">
+               <LOC_DUMMY>%text%</LOC_DUMMY>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoostatus:negformat">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="-1" shadowy="1" shadowa="255">
+            <color r="255" g="0" b="0">
+               <LOC_DUMMY>%text%</LOC_DUMMY>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoostatus:num_guest_label">
+         <font name="ＭＳ Ｐゴシック" size="10" shadowx="-1" shadowy="1" shadowa="255">
+            <color r="255" g="248" b="178">
+               現在の来園者数:
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoostatus:monthlyprofit_label">
+         <font name="ＭＳ Ｐゴシック" size="11" shadowx="-1" shadowy="1" shadowa="255">
+            <color r="255" g="248" b="178">
+               毎月の利益
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoostatus:monthlydonations_label">
+         <font name="ＭＳ Ｐゴシック" size="11" shadowx="-1" shadowy="1" shadowa="255">
+            <color r="255" g="248" b="178">
+               毎月の寄付
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoostatus:monthlyattendance_label">
+         <font name="ＭＳ Ｐゴシック" size="11" shadowx="-1" shadowy="1" shadowa="255">
+            <color r="255" g="248" b="178">
+               毎月の来園者数
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoostatus:monthlyfame_label">
+         <font name="ＭＳ Ｐゴシック" size="11" shadowx="-1" shadowy="1" shadowa="255">
+            <color r="255" g="248" b="178">
+               毎月の評価
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoostatus:price_low_zs_stt">低価格</LOC_STRING>
+      <LOC_STRING _locID="zoostatus:price_low_zs_ltt">
+         <color r="255" g="248" b="178">
+            低価格
+         </color>
+         <br>入園料を低く設定します。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoostatus:price_med_zs_stt">標準価格</LOC_STRING>
+      <LOC_STRING _locID="zoostatus:price_med_zs_ltt">
+         <color r="255" g="248" b="178">
+            標準価格
+         </color>
+         <br>入園料を標準に設定します。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoostatus:price_high_zs_stt">高価格</LOC_STRING>
+      <LOC_STRING _locID="zoostatus:price_high_zs_ltt">
+         <color r="255" g="248" b="178">
+            高価格
+         </color>
+         <br>入園料を高く設定します。</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="devpanel:smallformat">
+         <font name="ＭＳ Ｐゴシック" size="10">%text%</font>
+      </LOC_STRING>
+      <LOC_STRING _locID="window:windowtitle">Zoo Tycoon 2 体験版</LOC_STRING>
+</ZT2Strings>

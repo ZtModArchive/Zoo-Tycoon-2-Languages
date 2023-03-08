@@ -1,0 +1,59 @@
+<ZT2Strings>
+      <LOC_STRING _locID="ZTPhotoMode" version="0"/>
+      <LOC_STRING _locID="ZTPhotoMode:NumPicsFormat">%02d / %02d</LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:photo_challenge_mode_label">
+         <font name="HGS創英角ﾎﾟｯﾌﾟ体" size="14" image="ui\font\color_mainmenu.tga" shadowx="-1" shadowy="1" shadowa="64">
+            <color r="255" g="248" b="178">
+               フォトチャレンジ
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:CameraNotFullFormat">
+         <font name="ＭＳ Ｐゴシック" size="12" shadowx="1" shadowy="1" shadowa="64">
+            <color r="0" g="255" b="0">
+               <LOC_DUMMY>%text%</LOC_DUMMY>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:CameraFullFormat">
+         <font name="ＭＳ Ｐゴシック" size="12" shadowx="1" shadowy="1" shadowa="64">
+            <color r="255" g="8" b="8">
+               <LOC_DUMMY>%text%</LOC_DUMMY>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:go_to_cursor_mode">
+         <font name="ＭＳ Ｐゴシック" size="12" shadowx="0" shadowy="0" shadowa="60">
+            <color r="255" g="255" b="255" a="100">
+               右クリックでマウスポインタのオンとオフを切り替えます。
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:go_to_photo_mode">
+         <font name="ＭＳ Ｐゴシック" size="12" shadowx="0" shadowy="0" shadowa="60">
+            <color r="255" g="255" b="255" a="100">
+               右クリックでフォトサファリ視点になります。
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:ScoreLabel">スコア:</LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:Challenge2stt">エサを食べているゾウの写真を撮ってください。</LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:Challenge3stt">歩いているゾウの写真を撮ってください。</LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:Challenge2Completestt">チャレンジをクリアしました (エサを食べているゾウの写真を撮る)。</LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:Challenge3Completestt">チャレンジをクリアしました (歩いているゾウの写真を撮る)。</LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:challengeset_tiger_difficulty1">トラのチャレンジ (難易度 1)</LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:challenge_tiger_eating_stt">エサを食べているトラの写真を撮ってください。</LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:challenge_tiger_eating_cstt">チャレンジをクリアしました (エサを食べているトラの写真を撮る)。</LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:challenge_tiger_walking_stt">歩いているトラの写真を撮ってください。</LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:challenge_tiger_walking_cstt">チャレンジをクリアしました (歩いているトラの写真を撮る)。</LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:challenge_hungry_tiger_stt">お腹を空かせているトラの写真を撮ってください。</LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:challenge_hungry_tiger_cstt">チャレンジをクリアしました (お腹を空かせているトラの写真を撮る)。</LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:challenge_mother_and_young_tiger_stt">お母さんトラとその子供の写真を撮ってください。</LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:challenge_mother_and_young_tiger_cstt">チャレンジをクリアしました (子供と一緒にいるお母さんトラの写真を撮る)。</LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:challenge_tiger_and_gorilla_stt">トラとゴリラが並んでいる写真を撮ってください。</LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:challenge_tiger_and_gorilla_cstt">チャレンジをクリアしました (トラとゴリラが並んでいる写真を撮る)。</LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:UndoneChallengeltt">フォトチャレンジをクリアするには、リストに示した写真をすべて撮影する必要があります。</LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:SubmitPhotosstt">撮影した写真をフォトチャレンジに提出します。</LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:default_album_name">マイフォトアルバム</LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:default_photo_caption">タイトル不明</LOC_STRING>
+</ZT2Strings>
