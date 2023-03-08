@@ -1,0 +1,136 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_antelopesablegiant" version="2"/>
+      <LOC_STRING _locID="zoopedia_antelopesablegiant:entry" version="2">Stor sabelantilop</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_antelopesablegiant:text" version="2">
+  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">   
+
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/AntelopeSableGiant/AntelopeSableGiant_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/AntelopeSableGiant/AntelopeSableGiant_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>						 
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/critical.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Hotstatus:
+                     <br/>
+                        <color r="255" g="0" b="0">
+                     Akut hotad
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>   
+   
+    <cell width="128">
+     <color r="255" g="255" b="255">Savann<br/></color>
+     <img src="ui/icon_biomes/icon_savannah.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+    </cell>
+    <cell width="128">
+     <color r="255" g="255" b="255">Södra Afrika<br/></color>
+     <img src="ui/icon_maplocations/Savannah_Africa_South_GiantSable.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+    </cell>
+    <br/>
+    <cell width="284" pady="10">
+     <color r="255" g="255" b="255">
+      Klass: Däggdjur<i>(Mammalia)</i><br/>
+      Ordning: Partåiga hovdjur<i>(Artiodactyla)</i><br/>
+      Familj: Slidhornsdjur <i>(Bovidae)</i><br/>
+      Släkte: <i>Hippotragus</i><br/>
+      Art: <i>niger</i><br/>
+      Underart:  <i>variani</i>
+     </color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="UI/zoopedia/biome/savannah_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Roligt att veta om den stora sabelantilopen</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Den stora sabelantilopens imponerande böjda horn kan bli upp till 1,5 m långa.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>        
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Om den stora sabelantilopen förlorar sina horn växer de inte ut igen.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Den stora sabelantilopen kan springa upp till 56 km/tim under en längre sträcka.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Den stora sabelantilopens överlevnad är hotad på grund av det 27 år långa inbördeskriget i Angola (där den stora sabelantilopen har sitt ursprung).</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Det finns nu endast 1 000 stora sabelantiloper i världen. Samtliga lever i centrala Angola i nationalparkerna  Luando Reserve och Kangandala.</color>
+    </cell>    
+    <br/> 
+   </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178">
+    Du måste tjäna ihop 2 stjärnor i djurparkens berömmelsenivå för att låsa upp den stora sabelantilopen i utmanings- eller kampanjspel.
+   </color>
+   <p/>
+Antilop är artnamnet på en grupp hornprydda däggdjur som tillhör samma familj som nötkreatur, getter och får. I Afrika och Asien finns cirka 100 antiloparter. Där finns såväl några av världens snabbaste och elegantaste hornprydda däggdjur som några av de mest utrotningshotade arterna.
+   <p/>
+Det finns sju hästantiloparter (underfamilj: Hippotraginae). Exempel på dessa djur med hästliknande kroppar är sabelantiloper, roanantiloper, oryxantiloper och addaxantiloper. Hästantiloperna lever i Afrika och på Arabiska halvön i olika livsmiljöer från skogsmarker till ökenområden. Trots att de kallas hästantiloper är det omöjligt att förväxla dem med vanliga hästar på grund av deras långa horn. Antilopernas horn är eftertraktade bland troféjägare, vilket har gjort att vissa av dessa arter är utrotningshotade.
+   <p/>
+Till skillnad från hjortar som har grenliknande horn som de tappar varje år har antiloperna spetsiga horn som de behåller hela livet. Antilopernas horn kan bli upp till 1,5 m långa. De ser imponerande ut, men deras funktion som vapen är begränsad. Det har förekommit att antiloper har spetsat, och till och med dödat, så stora djur som lejon, men oftast flyr de när de känner sig hotade.
+   <p/>
+Antiloper är idisslare som spyr upp halvsmält föda och sedan tuggar i sig den igen. Liksom andra idisslare, inklusive nötkreatur och får, har antiloper välutvecklade kindtänder som maler sönder födan. De har inga framtänder i överkäken. De river av gräs och löv genom att trycka framtänderna i underkäken mot den hårda övre gommen.
+   <p/>
+Antiloperna förlitar sig på sina känsliga sinnen för att undvika fara. Deras ögon är riktade utåt från sidorna på huvudet och deras pupiller är förlängda i vågrät riktning, vilket gör att de kan upptäcka fara både bakifrån och framifrån. Deras hörsel och luktsinne är också välutvecklade. Detta är viktiga egenskaper för antiloperna som lever i ett öppet landskap där många rovdjur börjar jaga så snart det har blivit mörkt.
+   <p/>
+För att överleva förlitar sig antiloperna på sin förmåga att upptäcka fara och snabbt fly till säkerhet. Deras försvarssystem gör att de kan undvika de flesta rovdjuren, men det ger endast delvis skydd mot mänskliga jägare på jakt efter deras skinn, horn eller kött, och inget skydd alls mot förändringar i deras livsmiljö.
+  </cell>
+  <p/>
+  <cell width="260"/>
+  <cell width="620">
+   Informationen har hämtats med benäget tillstånd från <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2005.</color></u></a>(C) 1993-2004 Microsoft Corporation. Med ensamrätt.
+  </cell>
+ </LOC_STRING>
+
+</ZT2Strings>

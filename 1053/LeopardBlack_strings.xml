@@ -1,0 +1,128 @@
+<ZT2Strings>
+   <entityname>
+      <!--animal names-->
+      <LeopardBlack>Svart panter</LeopardBlack>
+      <LeopardBlack_stt>Svart panter</LeopardBlack_stt>
+      <LeopardBlack_lower>den svarta pantern</LeopardBlack_lower>
+      <LeopardBlack_ltt>
+         <color r="255" g="248" b="178">
+            <b>Svart panter</b>
+         </color>
+         <br/>
+         Klicka för att välja och placera sedan en svart panter, en melanistisk version av leoparden.
+      </LeopardBlack_ltt>
+      <!--gift names-->
+      <LeopardBlack_Gift>Svart panter-ryggsäck</LeopardBlack_Gift>
+      <LeopardBlack_Gift_stt>Svart panter-ryggsäck</LeopardBlack_Gift_stt>
+      <LeopardBlack_Gift_lower>svart panter-ryggsäcken</LeopardBlack_Gift_lower>
+      <LeopardBlack_Gift_ltt>
+         <color r="255" g="248" b="178">
+            <b>Svart panter-ryggsäck</b>
+         </color>
+         <br/>Besökare som tycker om att betrakta den svarta pantern köper den här souveniren.
+      </LeopardBlack_Gift_ltt>
+      <LeopardBlack_Gift_Adult>Svart panter-ryggsäck</LeopardBlack_Gift_Adult>
+      <LeopardBlack_Gift_Adult_stt>Svart panter-ryggsäck</LeopardBlack_Gift_Adult_stt>
+      <LeopardBlack_Gift_Adult_lower>svart panter-ryggsäcken</LeopardBlack_Gift_Adult_lower>
+      <LeopardBlack_Gift_Adult_ltt>
+         <color r="255" g="248" b="178">
+            <b>Svart panter-ryggsäck</b>
+         </color>
+         <br/>Besökare som tycker om att betrakta den svarta pantern köper den här souveniren.
+      </LeopardBlack_Gift_Adult_ltt>
+   </entityname>
+   <zoopedia_leopardblack version="2">
+      <entry>Panter, Svart</entry>
+      <text>
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/LeopardBlack/LeopardBlack_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						</cell>
+						<cell width="16">
+							<img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						</cell>
+						<cell width="16">
+							<img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						</cell>
+						<cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Hotstatus:
+                     <br/>
+                        <color r="170" g="255" b="0">
+                     Livskraftig
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>             
+            
+               <cell width="128">
+                  <color r="255" g="255" b="255">Tropisk regnskog<br/></color>
+                  <img src="ui/icon_biomes/icon_tropicalrainforest.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+               </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Afrika<br/></color>
+                  <img src="ui/icon_maplocations/Rainforest_Africa.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">Klass: Däggdjur <i>(Däggdjur)</i><br/>Ordning: Köttätare <i>(Carnivora)</i><br/>Familj: Katter <i>(Felidae)</i><br/>Släkte: <i>Panthera</i><br/>Art:<i>pardus</i></color>
+               </cell>
+               <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/tropicalrainforest_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+               </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Roligt att veta om den svarta leoparden</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Den svarta pantern är en melanistisk version av leoparden.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">I rätt ljus och på mycket nära håll kan du se att den svarta pantern har fläckar.</color>
+               </cell>
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">Du måste tjäna ihop 3 stjärnor i djurparkens berömmelsenivå för att låsa upp den svarta pantern i utmanings- eller kampanjspel.</color>
+<p/>Likt leoparden har den svarta pantern också fläckar, men de är svåra att se.
+<p/>Leopard är artnamnet på en stor katt som tillhör kattsläktet. Den lever i många olika miljöer och är det av alla vilda kattdjur som är mest geografiskt utbrett och finns i nästan hela Afrika och Asien. En vuxen leopardkropp är cirka 0,91 till 1,91 meter lång, exklusive den 1 meter långa svansen. Pälsen är vanligtvis brunblek med öppna cirklar av svarta fläckar. Till skillnad från rosetterna på den amerikanska jaguaren har dessa cirklar ingen centrerad fläck. Arter med mörkare grundfärg finns och vissa leoparder (födda i vanliga kullar) är helt svarta och kallas svarta pantrar.
+<p/>Den svarta pantern är en smidig klättrare och lurpassar ofta på apor i träd. Den jagar mest på natten. När det är ont om byten äter leoparden möss, frukt, piggsvin, babianer och leddjur. Honan föder en till sex ungar per kull.
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Informationen har hämtats med benäget tillstånd från <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2004.</color></u></a>(C) 1993-2003 Microsoft Corporation. Med ensamrätt.
+         </cell>
+      </text>
+   </zoopedia_leopardblack>
+</ZT2Strings>

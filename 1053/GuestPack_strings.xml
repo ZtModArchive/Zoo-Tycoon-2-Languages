@@ -1,0 +1,44 @@
+<ZT2Strings>
+   <!--entity names-->
+   <entityname>
+      <!--scenery object names-->
+      <drinkingfountain_df>Dricksvattenfontän</drinkingfountain_df>
+      <drinkingfountain_df_stt>Dricksvattenfontän</drinkingfountain_df_stt>
+      <drinkingfountain_df_lower>dricksvattenfontän</drinkingfountain_df_lower>
+      <drinkingfountain_df_ltt>
+         <color r="255" g="248" b="178">
+            <b>Dricksvattenfontän</b>
+         </color>
+         <br/>
+         Markera en dricksvattenfontän genom att klicka på den och placera sedan ut den så att gästerna kan dricka från den.
+      </drinkingfountain_df_ltt>
+   </entityname>
+   
+   <!--Zoopedia entries-->
+   <zoopedia_drinkingfountain>
+      <entry>Dricksvattenfontän</entry>
+      <text>
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities\objects\scenery\drinkingfountain_df\drinkingfountain_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>Även om inte dricksvattenfontänen genererar intäkter till zoot så uppskattar gästerna att den finns där så att de kan dricka lite vatten.
+               </color>
+            </cell>
+         </cell>
+      </text>
+   </zoopedia_drinkingfountain>
+   <guestpackactions>
+      <GoToDrinkingFountain>Tänker släcka törsten vid %sen</GoToDrinkingFountain>
+      <UseDrinkingFountain>Dricker från %sen</UseDrinkingFountain>      
+   </guestpackactions>
+   <guestpackthoughts>
+      <GoToDrinkingFountain>Jag är glad att det finns en %s eftersom jag är så törstig.</GoToDrinkingFountain>
+      <UseDrinkingFountain>%sen är uppfriskande.</UseDrinkingFountain>            
+   </guestpackthoughts>
+</ZT2Strings>
+
+  

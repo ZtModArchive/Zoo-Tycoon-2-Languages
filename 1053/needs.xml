@@ -1,0 +1,474 @@
+<ZT2Strings>
+      <LOC_STRING _locID="entityneeds:satisfied">Nöjd</LOC_STRING>
+      <LOC_STRING _locID="entityneeds:pressing">Tryckande</LOC_STRING>
+      <LOC_STRING _locID="entityneeds:critical">Kritisk</LOC_STRING>
+      <LOC_STRING _locID="entityneeds:healthy">Frisk</LOC_STRING>
+      <LOC_STRING _locID="entityneeds:unhealthy">Sjuk</LOC_STRING>
+      <LOC_STRING _locID="entityneeds:sick">Sjuk</LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_environment">Miljö: </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_environment_ltt">
+         <color r="255" g="248" b="178">
+            <b>Miljöbehov</b>
+         </color>
+         <br/>
+         Detta visar hur djuret trivs i sin inhägnad. Djur och besökare uppskattar inhägnader som liknar djurets biotop.
+         
+         
+         
+         
+         
+         
+         
+           
+      
+      
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_space">Utrymme: </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_biome">Biotop: </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_hunger">Hunger: </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_hunger_ltt">
+         <color r="255" g="248" b="178">
+            <b>Hungerbehov</b>
+         </color>
+         <br/>
+         
+         Detta visar hur hungrigt djuret är. Alla djur behöver mat och vatten för att överleva.
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_thirst">Törst: </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_thirst_ltt">
+         <color r="255" g="248" b="178">
+            <b>Törstbehov</b>
+         </color>
+         <br/>
+         
+         
+         
+         
+   Detta visar hur törstigt djuret är. Alla djur måste ha tillgång till friskt vatten dygnet runt.
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_rest">Vila: </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_rest_ltt">
+         <color r="255" g="248" b="178">
+            <b>Vilobehov</b>
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         
+         
+         
+         Detta visar djurets aktuella vilonivå. Trötta djur sover där de kan för att återhämta sig. 
+      
+      
+      
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_hygiene">Hygien: </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_hygiene_ltt">
+         <color r="255" g="248" b="178">
+            <b>Hygienbehov</b>
+         </color>
+         <br/>
+         Detta visar djurets aktuella hygiennivå. Smutsiga djur blir sjuka oftare. Djuren kommer ofta att putsa sig.
+
+      </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_exercise">Motion: </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_exercise_ltt">
+         <color r="255" g="248" b="178">
+            <b>Motionsbehov</b>
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         
+         
+         
+         Djurets aktuella motionsnivå. Djuren kan motionera genom att röra på sig, leka med andra djur eller använda föremål för livskvalitet.
+      
+      
+      
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_shelter">Byggnad: </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_shelter_ltt">
+         <color r="255" g="248" b="178">
+            <b>Byggnad</b>
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         
+         
+         
+          Spelaren bör aldrig se detta.
+      
+      
+      
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_privacy">Avskildhet: </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_privacy_ltt">
+         <color r="255" g="248" b="178">
+            <b>Behov av avskildhet</b>
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         Detta visar djurets aktuella nivå av avskildhet. Djuren söker avskildhet i högre grad när många besökare tittar på dem.     
+      
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_reproduction">Fortplantning: </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_reproduction_ltt">
+         <color r="255" g="248" b="178">
+            <b>Fortplantning</b>
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         
+         
+         
+          Spelaren bör aldrig se detta.
+      
+      
+      
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_social">Social: </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_social_ltt">
+         <color r="255" g="248" b="178">
+            <b>Sociala behov</b>
+         </color>
+         <br/>
+         
+Detta visar djurets aktuella nivå av social samvaro. Vissa djur är mer sociala tillsammans med andra djur än andra.         
+         
+         
+         
+         
+         
+ 
+      
+      
+      
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_stimulation">Stimulering: </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_stimulation_ltt">
+         <color r="255" g="248" b="178">
+            <b>Stimulansbehov</b>
+         </color>
+         <br/>
+         
+  Detta visar djurets stimulansnivå. Djuren kan tillfredsställa sitt stimulansbehov genom att interagera och leka med olika livskvalitetsobjekt.       
+         
+         
+         
+         
+         
+       
+      </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_happy">Lycka: </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_happy_ltt">
+         <color r="255" g="248" b="178">
+            <b>Lycka:</b>
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         
+         
+         Djuret är lyckligt och nöjt.
+      
+      
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_not_happy">Lycka: </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_not_happy_ltt">
+         <color r="255" g="248" b="178">
+            <b>Lycka:</b>
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         
+         
+         Djuret är inte lyckligt. Besökarna tycker inte om att se olyckliga djur.
+      
+      
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_well">Hälsa: </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_well_ltt">
+         <color r="255" g="248" b="178">
+            <b>Hälsa:</b>
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         
+         
+         Djuret är friskt.
+      
+      
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_sick">Hälsa: </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_sick_ltt">
+         <color r="255" g="248" b="178">
+            <b>Hälsa:</b>
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         
+         
+         Djuret är sjukt. Om det inte behandlas snart kan det dö. Djurskötarna kan bota sjuka djur. 
+      
+      
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_not_pregnant">Dräktig: Nej</LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_not_pregnant_ltt">
+         <color r="255" g="248" b="178">
+            <b>Dräktig:</b>
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         
+         
+         Djuret är inte dräktigt.
+      
+      
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_pregnant">Dräktig: Ja</LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_pregnant_ltt">
+         <color r="255" g="248" b="178">
+            <b>Dräktig:</b>
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         
+         
+         Djuret är dräktigt. När ikonen blir röd är det dags för djuret att föda. 
+      
+      
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:guest_happy">Lycka: </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:guest_happy_ltt">
+         <color r="255" g="248" b="178">
+            <b>Lycka:</b>
+         </color>
+         <br/>
+         
+         
+       Detta visar besökarens aktuella lyckonivå. Besökare blir glada när de får mat, vatten och underhållning.
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:guest_hunger">Hunger: </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:guest_hunger_ltt">
+         <color r="255" g="248" b="178">
+            <b>Hungerbehov</b>
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         
+         
+         
+         Detta visar besökarens aktuella hungernivå. Besökarna uppskattar att äta olika maträtter från matstånd, restauranger och vagnar med snacks.
+      
+      
+      
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:guest_thirst">Törst: </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:guest_thirst_ltt">
+         <color r="255" g="248" b="178">
+            <b>Törstbehov</b>
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         
+         
+         
+         Detta visar besökarens aktuella törstnivå. Besökarna uppskattar att köpa drycker från matstånd. 
+      
+      
+      
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:guest_rest">Vila: </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:guest_rest_ltt">
+         <color r="255" g="248" b="178">
+            <b>Vilobehov</b>
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         
+         
+         
+         Detta visar besökarnas aktuella trötthetsnivå. Besökarna blir trötta när de går omkring i djurparken, och de uppskattar att vila på bänkar och andra sittplatser. 
+      
+      
+      
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:guest_bathroom">Toalett: </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:guest_bathroom_ltt">
+         <color r="255" g="248" b="178">
+            <b>Toalettbehov</b>
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         
+         
+         
+         Detta visar besökarens aktuella behov av att gå på toaletten. Besökarna behöver ofta gå på toaletten när de har ätit. 
+      
+      
+      
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:guest_amusement">Underhållning: </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:guest_amusement_ltt">
+         <color r="255" g="248" b="178">
+            <b>Underhållningsbehov</b>
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         
+         
+         
+         Detta visar besökarnas aktuella underhållningsnivå. Besökarna uppskattar att titta på intressanta saker som fontäner, valv och statyer.
+      
+      </LOC_STRING>
+</ZT2Strings>

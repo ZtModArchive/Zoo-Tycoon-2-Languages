@@ -1,0 +1,187 @@
+﻿<ZT2Strings>
+   <entityname>
+      <!--animal names-->
+      <MuskOx>Myskoxe</MuskOx>
+      <MuskOx_stt>Myskoxe</MuskOx_stt>
+      <MuskOx_lower>myskoxen</MuskOx_lower>
+      <MuskOx_ltt>
+         <color r="255" g="248" b="178">
+            <b>Myskoxe</b>
+         </color>
+         <br/>
+         Klicka för att välja och placera ut en myskoxe, ett arktiskt hovdjur med långt hår.
+      </MuskOx_ltt>
+      <!--gift names-->
+      <MuskOx_Gift>Myskoxehatt</MuskOx_Gift>
+      <MuskOx_Gift_stt>Myskoxehatt</MuskOx_Gift_stt>
+      <MuskOx_Gift_lower>myskoxehatten</MuskOx_Gift_lower>
+      <MuskOx_Gift_ltt>
+         <color r="255" g="248" b="178">
+            <b>Myskoxehatt</b>
+         </color>
+         <br/>Besökare som tycker om myskoxen kommer att köpa den här souveniren.
+      </MuskOx_Gift_ltt>
+      <MuskOx_Gift_Adult>Myskoxehatt</MuskOx_Gift_Adult>
+      <MuskOx_Gift_Adult_stt>Myskoxehatt</MuskOx_Gift_Adult_stt>
+      <MuskOx_Gift_Adult_lower>myskoxehatten</MuskOx_Gift_Adult_lower>
+      <MuskOx_Gift_Adult_ltt>
+         <color r="255" g="248" b="178">
+            <b>Myskoxehatt</b>
+         </color>
+         <br/>Besökare som tycker om myskoxen kommer att köpa den här souveniren.
+      </MuskOx_Gift_Adult_ltt>
+      <!--foliage names-->
+      <DiamondLeafWillow_Tundra>Grönvide</DiamondLeafWillow_Tundra>
+      <DiamondLeafWillow_Tundra_stt>grönvide</DiamondLeafWillow_Tundra_stt>
+      <DiamondLeafWillow_Tundra_lower>grönvide</DiamondLeafWillow_Tundra_lower>
+      <DiamondLeafWillow_Tundra_ltt>
+         <color r="255" g="248" b="178">
+            <b>Grönvide</b>
+         </color>
+         <br/>Klicka för att välja och placera ut grånvide, myskoxens favoritföda.
+      </DiamondLeafWillow_Tundra_ltt>
+      <!--guest thoughts-->
+      <AnimalDefend>%2s försvarar sig mot %1s.</AnimalDefend>
+      <!--animal actions-->
+      <DefendingAt>Försvarar sig mot %s</DefendingAt>
+   </entityname>
+   <zoopedia_muskox version="2">
+      <entry>Myskoxe</entry>
+      <text>
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/MuskOx/MuskOx_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						</cell>
+						<cell width="16">
+							<img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						</cell>
+						<cell width="16">
+							<img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						</cell>
+						<cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Hotstatus:
+                     <br/>
+                        <color r="170" g="255" b="0">
+                     Livskraftig
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>   
+            
+               <cell width="128">
+                  <color r="255" g="255" b="255">Tundra<br/></color>
+                  <img src="ui/icon_biomes/icon_tundra.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+               </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Arktis<br/></color>
+                  <img src="ui/icon_maplocations/Tundra_Arctic.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">Klass: Däggdjur <i>(Mammalia)</i><br/>Ordning: Partåiga hovdjur <i>(Artiodactyla)</i><br/>Familj: Slidhornsdjur <i>(Bovidae)</i><br/>Släkte: <i>Ovibos</i><br/>Art: <i>Moschatus</i></color>
+               </cell>
+               <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/tundra_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+               </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Roliga fakta om myskoxar</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Myskoxhannar har körtlar under ögonen som avger en stark doft när de gnids mot grenar eller träd.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Myskoxen har funnits på Jorden sedan den senaste istiden och levde samtidigt med ulliga mammutar för flera tusen år sedan.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Myskoxens underpäls, "qiviut" på eskimåspråk, är mjuk som kashmir och anses vara världens varmaste fiber.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Eskimåerna kallar myskoxen "oomingmak" vilket betyder "han som har skägg".</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Myskoxar samlar sig i grupper om 10 till 20 individer, och ställer sig i en ring med ungarna i mitten när fara hotar.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Myskoxens hovar är väl avpassade för att bryta igenom isen för att hitta färskvatten.</color>
+               </cell>
+            </cell>
+         </cell>
+         <cell width="340">
+         <color r="255" g="248" b="178">För att låsa upp myskoxen i utmanings- eller kampanjläge måste din djurpark få ett anseende på minst 1/2 stjärna.</color>
+         <p/>Myskoxen har långt hår, och är närmare släkt med getter och får än med kor eller bufflar. Myskoxen finns i norra Kanada och Grönland, och har under 1900-talet inplanterats i Norge och Härjedalen. En vuxen tjur är mellan 1,9 och 2,3 m lång, har en mankhöjd på mellan 1,2 och 1,5 m, och har långa, nedåtböjda horn med vassa uppåtriktade spetsar. Honorna är mycket mindre. Båda könen har en tät underpäls och en lång ytterpäls som skyddar dem mot kylan. Hannen har körtlar under eller framför ögonen som utsöndrar en stark doft under brunsttiden.
+         <p/>Myskoxen förflyttar sig i hjordar om 10 till 100 individer. Antalet har minskat drastiskt under senare år, bland annat på grund av att människan jagar myskoxen för föda och pälsar. Vissa åtgärder har vidtagits för att skydda myskoxen, och den är nu fridlyst i Kanada. Vid fara ställer sig de vuxna individerna i en cirkel med hornen utåt för att skydda ungarna i mitten av cirkeln.
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Innehållet har hämtats från <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2004.</color></u></a>(C) 1993-2003 Microsoft Corporation. Med ensamrätt.
+         </cell>
+      </text>
+   </zoopedia_muskox>
+   <zoopedia_diamondleafwillow>
+      <entry>Växt, grönvide</entry>
+      <text>
+         <color r="255" g="255" b="255">
+            <cell pady="0" width="1000"/>
+            <p/>
+            <cell width="260"/>
+            <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+               <cell width="150">
+                  <img src="entities/objects/foliage/DiamondLeafWillow/DiamondLeafWillow_Tundra_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128"/>
+               </cell>
+               <cell pady="15" width="400">
+               <p/>Videväxter är en mindre familj vedartade växter som innehåller både buskar, buskträd och träd. I familjen finns hundratals arter av vide, sälg och poppel, till exempel asp och jättepoppel. Viden växer oftast i fuktiga miljöer och på flodbankar. De växer fort och är ofta den första växt som etablerar sig på en plats. Veden används på många sätt, och bladen är föda för många djurarter. Vissa arter används som prydnadsväxter. Viden (Salix) ingår i familjen Salicaceae (videväxter) som består av två släkten: popplar och viden. Båda är vitt spridda på norra halvklotet, och det finns ett par arter även på södra halvklotet. I poppelsläktet finns cirka 35 arter som alla är träd, och huvuddelen av de cirka 400 videarterna är buskar. Videväxter är vanligt förekommande i Arktis, där de växer i låga mattor. De finns även ovanför trädgränsen och i berg.
+               <p/>Viden och popplar är båda tvåbyggare (de har han- och honblommor på skilda individer). Blommorna är enkla, och saknar både foderblad och kronblad. De växer i täta klasar, eller hängen, före eller under tillväxten av nya löv under våren. Popplarnas hängen är nedåthängande och innehåller ingen nektar. Pollineringen sker med hjälp av vinden. Videarternas hängen är däremot uppresta och producerar doftande nektar i stora mängder som drar till sig insekter, särskilt bin och mal, som sköter pollineringen. Videarternas insektspollinering är ett undantag från regeln som säger att endast växter med komplexa, färgglada blommor kan använda insekter för pollinering. Blommorna framträder så tidigt på våren att de flesta insekter måste förlita sig på videhängen för att överleva.
+               <p/>Vide- och poppelarternas frukter är små kapslar som innehåller flera frön. Varje frö har bomullsliknande trådar som fungerar som fallskärmar och gör det lättare för fröet att spridas via luften. Om fröet landar i fuktig jord gror fröet inom ett eller två dygn. De flesta viden växer fort och blommar inom ett par år. Däremot är livslängden begränsad, vissa arter blir inte äldre än 20 år.
+               <p/>Familjens ekonomiska betydelse varierar. Korgvidets grenar används som namnet antyder ofta för korgtillverkning, och den lätta men sega veden från andra arter används ibland för proteser, träskor och cricketträn. Barken innehåller den kemiska substansen salicin som används i traditionell medicin. Den aktiva ingrediensen i många huvudvärkstabletter, acetylsalicylsyra, är en syntetiserad variant av ett ämne från pilträdets bark. Många arter, till exempel tårpil, odlas som prydnadsväxter.
+            </cell>
+            </cell>
+            <p/>
+         </color>
+      </text>
+   </zoopedia_diamondleafwillow>
+</ZT2Strings>
