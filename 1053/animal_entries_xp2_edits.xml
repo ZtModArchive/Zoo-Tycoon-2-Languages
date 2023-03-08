@@ -1,0 +1,265 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_moose" version="6"/>
+      <LOC_STRING _locID="zoopedia_moose:entry" version="6">Älg</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_moose:text" version="6">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+               <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+                  <img src="entities/units/animals/Moose/Moose_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+               </cell>
+               <cell width="16">
+                  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+               </cell>
+               <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+                  <img src="entities/units/animals/Moose/Moose_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+               </cell>
+               <cell width="16">
+                  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+               </cell>
+               <cell width="60"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Hotstatus:
+                     <br/>
+                        <color r="170" g="255" b="0">
+                     Livskraftig
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>             
+            
+               <cell width="128">
+                  <color r="255" g="255" b="255">Nordlig skog</color>
+                  <br/>
+                  <img src="ui/icon_biomes/icon_borealforest.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+               </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Nordamerika</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/Boreal_America_North.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+Klass: Däggdjur                                                                            
+                     <i>(Mammalia)</i>
+                     <br/>
+Ordning: Partåiga hovdjur                                                        
+                     <i>(Artiodactyla)</i>
+                     <br/>
+Familj: Hjortdjur                                                        
+                     <i>(Cervidae)</i>
+                     <br/>
+Släkte:		                                                       
+                     <i>Alces  </i>
+                     <br/>
+Art:	                                                       
+                     <i>alces</i>
+                     <br/>
+Underart:	                                                       
+                     <i>americana</i>
+                  </color>
+               </cell>
+               <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/borealforest_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+               </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Roligt att veta om älgen</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">En älgko kan skydda sin kalv från vargar genom att leda ut den i grunt vatten och sedan ställa sig mellan kalven och vargen, som då oftast ger upp.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Älgar söker sig ofta ut i sjöar eller våtmarker för att undkomma vargar, där de är säkra så länge isen inte har lagt sig så att vargarna kan följa efter.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Älgar kan dyka ned till 6 m djup och stanna under vattnet i 40 sekunder i sitt sökande efter växter och rötter under vattnet.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">En älg blir upp till 2 m i mankhöjd.</color>
+               </cell>
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">Om du vill låsa upp älgen i utmanings- eller kampanjspel måste din djurpark ha minst 1/2 stjärna i berömmelsebetyg.
+            </color>
+            <p/>Älg är samlingsnamnet på den största medlemmen i hjortfamiljen. Det engelska namnet för älg är moose och är ett indianskt namn med betydelsen kvistätare. Älgen lever i skogarna i norra Asien och Europa, från Sibirien i öster till Norge i väster, i Östersjöområdet och i norra Kina. I Nordamerika förekommer älgen i de skogsklädda delarna av Kanada och norra USA. Den tätaste och mest välmående älgstammen finns i Skandinavien och Finland, där den inte hålls nere av starka rovdjursstammar. Älgar är stora djur. Hanen, som kallas tjur, kan bli upp till 2 m i mankhöjd. Vissa tjurar väger mer än 725 kg. De karakteristiska långa benen gör att älgen kan beta från både låga buskar och mindre träd, samt vada i sjöar och tjärnar för att äta vattenväxter. Älgen rör sig ledigt i vattnet och är en duktig simmare.                                    
+            <p/>Älgens huvud är stort och har en utskjutande överläpp. En hårklädd hudflik,     så kallad drögflik, hänger från halsen. Älgen har utmärkt hörsel och dess stora öron rör sig ständigt,     		som en radar. På manken bildas en stor puckel på grund av uppåtriktade utskott från halskotorna.     		I dessa utskott sitter de kraftiga ligament som krävs för att hålla upp det stora huvudet.     		Älgens kroppsfärg är normalt brunsvart, med ett ansikte som ljusnar till brunt under sommaren. När brunsttiden närmar sig mörknar tjurens ansikte till mörkbrunt eller svart.                        
+            <p/>Ett tydligt kännetecken på tjurarna är de enorma, taggade hornen, som kan bli mer än 1,5 m breda     		och väga mer än 23 kg. Hornen är täckta med en mjuk och näringsrik hud som kallas     		basthud och som tjurarna fejar av tidigt i september och ofta äter upp. Själva hornen fälls varje år efter parningssäsongen,     		som normalt infaller sent i september. Äldre tjurar fäller sina horn i december,     		och fram emot slutet av januari har också de yngre tjurarna fällt sina horn. Emellanåt behåller vissa yngre tjurar hornen     		ända in i februari. Nya horn börjar växa ut tidigt i april.                        
+            <p/>Älgar är normalt ensamlevande djur, även om de kan slå sig samman i små grupper på upp till ett dussin eller fler under fortplantningstiden, i synnerhet i Yukon-regionen i Kanada och i Alaska. Både honor och hanar kan fortplanta sig under sitt andra levnadsår. Under parningstiden slåss tjurarna om korna, och strider mot varandra med hornen. Efter parningen följer en dräktighet på ungefär 230 dagar, så att de flesta kalvar föds mot slutet av maj. Korna får normalt en kalv, men tvillingfödslar är vanliga och även både tre och fyra kalvar har observerats. Kalvarna har rödbrun päls och väger 11 till 16 kg vid födseln.                        
+            <p/>Älgens medellivslängd är 5 till 6 år, även om vissa älgar kan leva så länge som 20 år. Åldern     		på en älg kan fastslås med hjälp av ringmönstret på roten till de mittre     		framtänderna. Varje mörk ring i kombination med en ljusare ring motsvarar ett levnadsår,     		ungefär som årsringarna på trädstammar.                        
+            <p/>Älgarnas föda beror på årstiden. Under hösten, vintern och våren äter de den föregående     		sommarens växtlighet av asp, svartpoppel, pil, björk, hassel, skogskornell och balsamgran. Under senvåren och     		försommaren slickar älgen i sig salt som den finner i salta källor eller avrinningar från vägar, för att återställa     		mineralreserverna som har förbrukats under vintern. Under sommaren äter älgen helst vattenväxter och kan     		dyka under vattnet i upp till 40 sekunder för att nå växter under vattenytan.    		Trots sin storlek och sin förmåga att springa med en hastighet på upp till 58 km/h,     		händer det att älgar faller offer för vargar och 	                        
+        
+            <a href="zoopedia:zoopedia_grizzly:entry">
+               <u>
+                  <color r="255" g="231" b="135">grizzlybjörnar.</color>
+               </u>
+            </a> Studier har visat att björnar kan döda upp till 75 procent av älgkalvarna under deras åtta första levnadsveckor. Ett annat hot mot älgen är fästingar under vintern. Fästingangreppen irriterar älgens hud och får den att skava av sig delar av pälsen, som den är beroende av som skydd mot den svåra vinterkyla som drabbar stora delar av dess utbredningsområde. Stränga vintrar kan i kombination med svåra fästingangrepp reducera älgstammen med så mycket som 50 procent.                           
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Författare: Vince Crichton   			                        
+            <br/>Informationen har hämtats med benäget tillstånd från                         
+            <a href="zoopedia:zoopedia_encarta:entry">
+               <u>
+                  <color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2004.</color>
+               </u>
+            </a>(C) 1993-2003 Microsoft Corporation. Med ensamrätt.                           
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_peafowl" version="6"/>
+      <LOC_STRING _locID="zoopedia_peafowl:entry" version="6">Blå påfågel</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_peafowl:text" version="6">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/PeafowlCommon/PeafowlCommon_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>
+						<cell width="16">
+							<img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						</cell>
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/PeafowlCommon/PeafowlCommon_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>
+						<cell width="16">
+							<img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						</cell>
+						<cell width="60"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Hotstatus:
+                     <br/>
+                        <color r="170" g="255" b="0">
+                     Livskraftig
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>             
+
+               <cell width="128">
+                  <color r="255" g="255" b="255">Tempererad skog</color>
+                  <br/>
+                  <img src="ui/icon_biomes/icon_temperateforest.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+               </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Asien</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/temperateforest_Asia.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                     Klass: Fåglar                                                        
+                     <i>(Aves)</i>
+                     <br/>
+                     Ordning: Fasanfåglar                                                        
+                     <i>(Galliformes)</i>
+                     <br/>
+                     Familj: Vaktlar, rapphöns, frankoliner, fasaner, 	                                                       
+                     <br/>
+                     orrfåglar, kalkoner                                                        
+                     <i>(Phasianidae)</i>
+                     <br/>
+                     Släkte: <i>Pavo  </i>
+                     <br/>
+                     Art:	                                                       
+                     <i>cristatus</i>
+                  </color>   
+               </cell>
+               <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/temperateforest_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+               </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Roligt att veta om den blå påfågeln</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Påfåglarna är allätare och har en diet som består av maskar, insekter, mindre ormar och frön.</color>
+               </cell>
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">
+            Om du vill låsa upp den blå påfågeln i utmanings- eller kampanjspel måste din djurpark ha minst 1/2 stjärna i berömmelsebetyg.
+            </color>
+            <p/>Påfågel är artnamnet på tre medlemmar i fasanfamiljen. Hanen kallas påfågelstupp och honan påfågelshöna. Två arter kommer från Asien: den blå påfågeln (även kallad indisk påfågel) och den gröna påfågeln. Den tredje arten, Kongopåfågeln, lever endast i Kongos skogar. De asiatiska påfågelstupparna är kända för sina långa lysande övre täckfjädrar, som täcker deras relativt korta stjärt, och som de kan veckla ut som en solfjäder. De har normalt regnbågsskimrande gröna och guldfärgade fjädrar som är utsmyckade med ögonliknande mönster i en stark blå färg (som har gett upphov till namnet "påfågelsblå"). Samma blå färg återfinns på den blå påfågelns huvud, hals och bröst. Den gröna påfågelns huvud, hals och bröst är gröna. Påfågelshönorna har ingen lång släpande stjärt och är inte lika färgglada som påfågelstupparna. Påfåglar bygger sina bon på marken eller på trädgrenar på låg höjd. Fåglarna är allätare. De livnär sig på maskar, insekter, små ormar och frön.                                    
+            <p/>Den blå påfågeln förekommer som husdjur i många delar av världen, och det finns förvildade populationer på Hawaiiöarna. En vit variant har tagits fram genom selektiv uppfödning.                           
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">
+         Informationen har hämtats med benäget tillstånd från 
+            <a href="zoopedia:zoopedia_encarta:entry">
+               <u>
+                  <color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2004.</color>
+               </u>
+            </a>
+            C) 1993-2003 Microsoft Corporation. Med ensamrätt.                           
+         </cell>
+      </LOC_STRING>
+
+</ZT2Strings>

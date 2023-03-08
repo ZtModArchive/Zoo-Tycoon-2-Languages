@@ -1,0 +1,197 @@
+﻿<ZT2Strings>
+      <LOC_STRING _locID="mainmenu" version="9"/>
+      <LOC_STRING _locID="mainmenu:legalcopy1" version="9">
+         <font name="arial" size="10" shadowx="0" shadowy="0">
+            <b>© &amp; (p) 2008 Microsoft Corporation. Med ensamrätt.</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="mainmenu:legalcopy2" version="9">
+         <font name="arial" size="10" shadowx="0" shadowy="0">
+            <b>Utvecklat av Blue Fang Games för Microsoft Corporation.</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="mainmenu:legalcopy3" version="9">
+         <font name="arial" size="10" shadowx="0" shadowy="0">
+            <b>Det här programmet skyddas av amerikanska och internationella</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="mainmenu:legalcopy4" version="9">
+         <font name="arial" size="10" shadowx="0" shadowy="0">
+            <b>upphovsrättslagar som beskrivs i Hjälp/Om.</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="mainmenu:cp2_installed_stt" version="9">Extinct Animals är installerat</LOC_STRING>
+      <LOC_STRING _locID="mainmenu:cp2_installed_ltt" version="9">
+         <color r="255" g="248" b="178">
+            <b>Extinct Animals är installerat</b>
+         </color>
+         <br>Tillägget Extinct Animals är installerat. </br>
+      </LOC_STRING>
+      <LOC_STRING _locID="mainmenu:tutorial_intro_text_extinct" version="9">
+         <font name="arial" size="20" image="ui\font\color_mainmenu.tga">
+            <color r="255" g="197" b="78">
+               <b>Vill du lära dig hur du spelar Zoo Tycoon 2: Extinct Animals?</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="fptranqdisplay:tranqscreen_format1">
+         <font name="arial" size="9">
+            <color r="92" g="255" b="64">
+               <b>%text%</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="fptranqdisplay:tranqscreen_format2">
+         <font name="arial" size="9">
+            <color r="255" g="92" b="64">
+               <b>%text%</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="fptranqdisplay:tranqtarget_label_message">
+      Mål:
+      </LOC_STRING>
+      <LOC_STRING _locID="fptranqdisplay:tranqscreen_format3">
+         <font name="arial" size="12">
+            <color r="210" g="50" b="0">
+               <b>%text%</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="fptranqdisplay:tranqdistance_label_message">
+      Avstånd till målet (m): 
+      </LOC_STRING>
+      <LOC_STRING _locID="fptranqdisplay:tranqdistance_outofrange_message">
+      MÅLET ÄR FÖR LÅNGT BORT! 
+      </LOC_STRING>
+      <LOC_STRING _locID="cloningfeedback:animal_format">
+          <font name="arial" size="12">
+            <color r="92" g="255" b="64">
+               <b>%text%</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="cloningfeedback:initial_message">
+      Starta genom att trycka på datorskärmen eller BLANKSTEG.
+      </LOC_STRING>
+      <LOC_STRING _locID="cloningfeedback:which_animal_success">
+      Bra jobbat! Du skapade %s. Superdjuren är större, friskare och lever längre än andra djur.
+      </LOC_STRING>
+      <LOC_STRING _locID="cloningfeedback:which_animal_normal">
+      Bra gjort! Du skapade %s.
+      </LOC_STRING>
+      <LOC_STRING _locID="cloningfeedback:which_animal_failure">
+      Oj då, du misslyckades! Försök igen. Du kommer säkert att få ett bättre djur nästa gång!
+      </LOC_STRING>
+      <LOC_STRING _locID="cloningfeedback:missing_animal_failure">
+      Oj då! Du har inte låst upp några utdöda djur än! Försök hitta några fossiler först.
+      </LOC_STRING>
+      <LOC_STRING _locID="cloningfeedback:no_animal_failure">
+      Vad hände? Tryck på BLANKSTEG för att försöka igen, eller tryck på ESC för att gå ut ur labbet. Klicka på ? till vänster om du behöver mer hjälp.
+      </LOC_STRING>
+      <LOC_STRING _locID="cloningfeedback:no_clicks_failure">
+      Kom ihåg att klicka med musen eller trycka på piltangenterna när skanningslinjen träffar ikonerna på skärmen.
+      </LOC_STRING>
+      <LOC_STRING _locID="puzzlefeedback:animal_format">
+          <font name="arial" size="12">
+            <color r="200" g="192" b="168">
+               <b>%text%</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="fpfossildisplay:piece_found">Du hittade en fossiliserad del av %1s! (%2s)</LOC_STRING>
+      <LOC_STRING _locID="fpfossildisplay:puzzle_ready">Nu kan du bygga %s-fossil på laboratoriet för utdöda djur!</LOC_STRING>
+      <LOC_STRING _locID="fpfossildisplay:placeable_object_found">Du hittade %s.</LOC_STRING>
+      <LOC_STRING _locID="fpfossildisplay:nonplaceable_object_found">Du fick %2m för %1s som du hittade.</LOC_STRING>
+      <LOC_STRING _locID="fpfossildisplay:next_level_unlocked">Ditt ekolod har uppgraderats. Nu kan du hitta fler fossiler!</LOC_STRING>
+      <LOC_STRING _locID="fpfossildisplay:next_level_unavailable">Skaffa fler berömmelsepoäng för att uppgradera din fossilletare!</LOC_STRING>
+      <LOC_STRING _locID="minigameHelp:minigameHelp_format">
+         <font name="arial" size="9" shadowx="1" shadowy="1">
+            <color r="250" g="250" b="200">
+               <b>%text%</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="minigameHelp:minigameHelp_FossilFinding">
+      <u>Kontroller:</u>
+      <br/>
+      Förflytta dig: piltangenterna (håll ned SKIFT om du vill springa)
+      <br/>
+      Vänd dig om/titta: flytta på musen
+      <br/>
+      Gräva i fossilområden: BLANKSTEG
+      <p/>
+      Välkommen till läget Finn fossil!  I det här spelläget kan du gå runt i djurparken med din mobila fossilletare och leta efter dolda fossildelar. 
+      <p/>
+      Den vertikala mätaren i mitten av fossilletaren visar när du närmar dig ett föremål under markytan. När du är riktigt nära kommer du att se en grävområdesmarkör.  Tryck på BLANKSTEG för att gräva där eller fortsätt leta efter andra platser.   
+      <p/>
+      Alla fossil du har samlat på dig kommer till laboratoriet för utdöda djur.  När du har tillräckligt med delar för att bygga ihop ett helt fossil går du till labbet och väljer fliken Bygga fossil. Sen startar du spelet Bygga fossil!
+      </LOC_STRING>
+      <LOC_STRING _locID="minigameHelp:minigameHelp_FossilBuilding">
+      <u>Kontroller:</u>
+      <br/>
+      Flytta på delar: klicka och dra delarna.
+      <br/>
+      Rotera delar: &lt; och &gt; 
+      <br/>
+      Nollställ pusslet: Ctrl-R
+      <br/>
+      Obs! Bitarna måste vara inuti skelettkonturen för att låsas på plats.      
+      <p/>
+      Välkommen till Fossilbyggarcentrum på laboratoriet för utdöda djur.  
+      <p/>
+      Du måste ordna fossildelarna som du har hittat på rätt sätt för att sätta ihop ett komplett fossiliserat skelett. Klicka på och dra i bitarna för att flytta dem. Om en bit är på rätt plats ändrar den färg när du släpper vänster musknapp. Som hjälp är en del – ankardelen – på rätt plats när du börjar.   
+      <p/>
+      Om du vill nollställa pusslet trycker du på Ctrl-R. Då får du en ny del att börja med, men de andra delarna nollställs, så var försiktig!
+      </LOC_STRING>
+      <LOC_STRING _locID="minigameHelp:minigameHelp_Cloning">
+      <u>Kontroller:</u>
+      <br/>
+      Starta spelet: BLANKSTEG
+      <br/>
+      Så här spelar du: tryck på en piltangent eller på musknappen när skanningslinjen korsar ikonen. 
+      <p/>
+      För djur med fler stjärnor kan ?-ikoner visas och täcka över de symboler som du måste klicka på. Lär dig mönstret när det blinkar och tryck på rätt tangent när skanningslinjen korsar, så får du toppoäng!
+      <p/>
+      Välkommen till djurskapningsrummet på laboratoriet för utdöda djur! Om du har hittat och satt ihop fossildelarna till ett djur kan du skapa det djuret här på labbet! Om du väljer det djur som ska skapas startas ett spel där du får para ihop mönster för att skapa ett djur.  
+      <p/>
+      Tryck på BLANKSTEG eller klicka på datorskärmen för att sätta igång. Du ska para ihop de ikonmönster du ser på datorskärmen med skanningslinjen som går över dem. 
+      <p/>
+      Om du gör ett riktigt bra jobb skapar du en superversion av djuret. Superdjuren är lyckligast, starkast och mår bäst, och gästerna tycker allra mest om dem. Om du gör ett hyfsat jobb får du en vanlig version. Om du misslyckas kan du få ... något helt annat. 
+      </LOC_STRING>
+      <LOC_STRING _locID="minigameHelp:minigameHelp_DiseaseResearch">
+      <u>Kontroller:</u>
+      <br/>
+      Förflytta dig: piltangenterna (håll ned SKIFT om du vill springa)
+      <br/>
+      Ta ett prov: BLANKSTEG
+      <p/>
+      Välkommen till läget för att bota sjukdomar. Om dina djur blir sjuka kan du forska för att hitta ett botemedel.  
+      <p/>
+      I det här läget går du runt i din djurpark och använder BLANKSTEG för att ta prover på möjliga ingredienser till botemedlet. Först måste du ta ett litet prov från något av dina sjuka djur.  
+      <p/>
+      När ditt forskarteam har analyserat provet får du den första forskningsrapporten från labbet. Rapporterna hjälper dig att hitta det du behöver för att tillverka botemedlet. Du kan klicka på knappen Forskningsrapport för att få fler uppdateringar från forskarna på labbet. Men ju fler ledtrådar du behöver, desto mindre pengar får du för botemedlet. Tänk på att de ingredienser som du behöver till botemedlet kanske inte finns i djurparken än!
+      <p/>
+      När du hittar botemedlet växlar du till läget Zoobesökare och botar dina djur på samma sätt som du tvättar dem eller gör dem friska. Du kan också ge dina djurskötare botemedlet så att de kan bota dina djur åt dig!
+      </LOC_STRING>
+      <LOC_STRING _locID="minigameHelp:minigameHelp_Tranquilize">
+      <u>Kontroller:</u>
+      <br/>
+      Förflytta dig: piltangenterna (håll ned SKIFT om du vill springa)
+      <br/>
+      Vänd dig om/titta: flytta på musen
+      <br/>
+      Ladda bedövningsgeväret: 
+      <br/>
+      Sikta på ett rasande djur.
+      <br/>
+      Avfyra bedövningsgeväret: BLANKSTEG
+      <br/>
+      <u>Obs!</u> Geväret måste vara fulladdat för att ha någon effekt.
+      <p/>
+
+      Jaså, en av dinosaurierna är på krigsstigen? Du har rätt verktyg för jobbet! Om du vill söva en rasande dinosaurie tar du sikte på den, håller kvar den i fokus och trycker på BLANKSTEG när kraftmätaren är fulladdad för att skjuta iväg det lugnande medlet. Laddningstiden är längre för stora dinosaurier än för små, eftersom de stora behöver en större dos. Håll geväret stadigt! Om du siktar fel försvinner en del av laddningen i bedövningsgeväret.  
+      <p/>
+      När du söver en rasande dinosaurie lugnar den sig och sover en liten stund. Då kan du plocka upp den, bura in den och flytta tillbaka den till inhägnaden. Om ett djur inte syns i måldisplayen är det inte någon rasande dinosaurie.   
+      </LOC_STRING>
+</ZT2Strings>
