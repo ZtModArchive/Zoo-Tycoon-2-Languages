@@ -1,0 +1,59 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_animaleducator:entry">Assistente didattico</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_animaleducator:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/units/staff/Educator/Educator_F_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/units/staff/Educator/Educator_M_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>
+                  Il ruolo di un assistente didattico è di accompagnare gli ospiti, presentando loro gli            animali dello zoo. Gli assistenti didattici consentono agli ospiti di apprezzare meglio lo zoo fornendo loro            interessanti informazioni sugli animali osservati.        
+                  <p/>
+                  Gli assistenti didattici parlano da podi che hai acquistato e posizionato in     diverse parti dello zoo. Dopo aver posizionato un podio, gli assistenti didattici che hai assunto lo utilizzeranno periodicamente per spiegare     gli animali che si trovano nelle recinzioni nelle vicinanze.        
+                  <p/>
+                      Se non riescono a trovare un apposito podio, gli assistenti didattici cercheranno un centro personale. Se non riescono a trovare un centro personale, vagheranno nello zoo senza meta.
+                  <p/>
+                      Gli assistenti didattici ricevono uno stipendio, che viene addebitato sul conto dello zoo il primo giorno di     ogni mese. Ricorda però che consentono anche di aumentare le donazioni     che ricevi dai clienti soddisfatti della qualità del divertimento e delle informazioni ricevute durante la     visita allo zoo.			
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_maintworker:entry">Addetto alla manutenzione</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_maintworker:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/units/staff/Worker/Worker_F_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/units/staff/Worker/Worker_M_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>
+                             Questi dipendenti sono responsabili della gestione dello zoo. I loro compiti principali sono la pulizia delle stradine e lo svuotamento dei bidoni dell'immondizia. Svolgono le loro funzioni da soli e puoi assegnare loro compiti specifici.            
+                  <p/>
+                       Gli addetti alla manutenzione sono importanti nel soddisfare gli ospiti che visitano uno zoo pulito. Se lo zoo inizia a sporcarsi (immondizia sulle stradine, che sporge dai bidoni, ecc.), gli ospiti possono decidere di partire prima del previsto. Gli addetti alla manutenzione ricevono uno stipendio, che viene addebitato sul conto dello zoo il primo giorno di ogni mese.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_zookeeper:entry">Guardiano</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_zookeeper:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/units/staff/Keeper/Keeper_F_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/units/staff/Keeper/Keeper_M_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>
+                  
+I guardiani sono i più importanti dipendenti dello zoo. Vengono addestrati a soddisfare le esigenze di tutti gli animali dello zoo, ovvero ad alimentarli, curarli e rimuovere i loro mucchietti di escrementi.  I guardiani ricevono lo stipendio più alto di qualsiasi dipendente dello zoo, che viene addebitato sul conto dello zoo il primo giorno di ogni mese. Ricorda però che tu stesso/a puoi svolgere gratuitamente tutte le funzioni del guardiano nella modalità Visitatore.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+</ZT2Strings>

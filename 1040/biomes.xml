@@ -1,0 +1,305 @@
+<ZT2Strings>
+      <LOC_STRING _locID="biometype:format">
+         <font name="arial" size="10" shadowx="1" shadowy="1" shadowa="32">%text%</font>
+      </LOC_STRING>
+      <LOC_STRING _locID="biometype:alpine">Alpi</LOC_STRING>
+      <LOC_STRING _locID="biometype:alpine_ltt">
+         <color r="255" g="248" b="178">
+            <b>Alpi</b>
+         </color>
+         <br/>
+      </LOC_STRING>
+      <LOC_STRING _locID="biometype:borealforest">Foresta boreale</LOC_STRING>
+      <LOC_STRING _locID="biometype:borealforest_ltt">
+         <color r="255" g="248" b="178">
+            <b>Foresta boreale</b>
+         </color>
+         <br/>
+      </LOC_STRING>
+      <LOC_STRING _locID="biometype:temperateforest">Foresta temperata </LOC_STRING>
+      <LOC_STRING _locID="biometype:temperateforest_ltt">
+         <color r="255" g="248" b="178">
+            <b>Foresta temperata</b>
+         </color>
+         <br/>
+      </LOC_STRING>
+      <LOC_STRING _locID="biometype:desert">Deserto</LOC_STRING>
+      <LOC_STRING _locID="biometype:desert_ltt">
+         <color r="255" g="248" b="178">
+            <b>Deserto</b>
+         </color>
+         <br/>
+      </LOC_STRING>
+      <LOC_STRING _locID="biometype:grassland">Prateria </LOC_STRING>
+      <LOC_STRING _locID="biometype:grassland_ltt">
+         <color r="255" g="248" b="178">
+            <b>Prateria </b>
+         </color>
+         <br/>
+      </LOC_STRING>
+      <LOC_STRING _locID="biometype:gridland">Terra con griglia</LOC_STRING>
+      <LOC_STRING _locID="biometype:gridland_ltt">
+         <color r="255" g="248" b="178">
+            <b>Terra con griglia</b>
+         </color>
+         <br/>
+      </LOC_STRING>
+      <LOC_STRING _locID="biometype:tropicalrainforest">Foresta pluviale</LOC_STRING>
+      <LOC_STRING _locID="biometype:tropicalrainforest_ltt">
+         <color r="255" g="248" b="178">
+            <b>Foresta pluviale</b>
+         </color>
+         <br/>
+      </LOC_STRING>
+      <LOC_STRING _locID="biometype:savannah">Savana</LOC_STRING>
+      <LOC_STRING _locID="biometype:savannah_ltt">
+         <color r="255" g="248" b="178">
+            <b>Savana</b>
+         </color>
+         <br/>
+      </LOC_STRING>
+      <LOC_STRING _locID="biometype:scrub">Macchia</LOC_STRING>
+      <LOC_STRING _locID="biometype:scrub_ltt">
+         <color r="255" g="248" b="178">
+            <b>Macchia</b>
+         </color>
+         <br/>
+      </LOC_STRING>
+      <LOC_STRING _locID="biometype:tundra">Tundra</LOC_STRING>
+      <LOC_STRING _locID="biometype:tundra_ltt">
+         <color r="255" g="248" b="178">
+            <b>Tundra</b>
+         </color>
+         <br/>
+      </LOC_STRING>
+      <LOC_STRING _locID="biometype:wetlands">Zona umida</LOC_STRING>
+      <LOC_STRING _locID="biometype:wetlands_ltt">
+         <color r="255" g="248" b="178">
+            <b>Zona umida</b>
+         </color>
+         <br/>
+      </LOC_STRING>
+      <LOC_STRING _locID="alpine:icon_stt">Alpi</LOC_STRING>
+      <LOC_STRING _locID="alpine:deepwater">Acqua profonda</LOC_STRING>
+      <LOC_STRING _locID="alpine:deepwater_stt">Acqua profonda</LOC_STRING>
+      <LOC_STRING _locID="alpine:deepwater_ltt">Fai clic per selezionare l'acqua profonda. Sposta il cursore sullo schermo e fai clic per creare una zona di acqua profonda.</LOC_STRING>
+      <LOC_STRING _locID="alpine:shallowwater">Acqua bassa</LOC_STRING>
+      <LOC_STRING _locID="alpine:shallowwater_stt">Acqua bassa</LOC_STRING>
+      <LOC_STRING _locID="alpine:shallowwater_ltt">Fai clic per selezionare l'acqua bassa. Sposta il cursore sullo schermo e fai clic per creare una zona di acqua bassa.</LOC_STRING>
+      <LOC_STRING _locID="alpine:ground">Roccia</LOC_STRING>
+      <LOC_STRING _locID="alpine:ground_stt">Roccia</LOC_STRING>
+      <LOC_STRING _locID="alpine:ground_ltt">Fai clic per selezionare la roccia. Sposta il cursore sullo schermo e fai clic per creare una zona rocciosa.</LOC_STRING>
+      <LOC_STRING _locID="alpine:ground-cover">Erba</LOC_STRING>
+      <LOC_STRING _locID="alpine:ground-cover_stt">Erba</LOC_STRING>
+      <LOC_STRING _locID="alpine:ground-cover_ltt">Fai clic per selezionare l'erba. Sposta il cursore sullo schermo e fai clic per creare una zona erbosa.</LOC_STRING>
+      <LOC_STRING _locID="alpine:mix">Erba e rocce</LOC_STRING>
+      <LOC_STRING _locID="alpine:mix_stt">Erba e rocce</LOC_STRING>
+      <LOC_STRING _locID="alpine:mix_ltt">Fai clic per selezionare erba e rocce. Sposta il cursore sullo schermo e fai clic per creare una zona di erba e rocce.</LOC_STRING>
+      <LOC_STRING _locID="alpine:foliage-mix">Landa desolata</LOC_STRING>
+      <LOC_STRING _locID="alpine:foliage-mix_stt">Landa desolata</LOC_STRING>
+      <LOC_STRING _locID="alpine:foliage-mix_ltt">Fai clic per selezionare la landa desolata. Sposta il cursore sullo schermo e fai clic per creare una landa desolata.</LOC_STRING>
+      <LOC_STRING _locID="alpine:foliage-mix-terrain">Foresta nebbiosa</LOC_STRING>
+      <LOC_STRING _locID="alpine:foliage-mix-terrain_stt">Foresta nebbiosa</LOC_STRING>
+      <LOC_STRING _locID="alpine:foliage-mix-terrain_ltt">Fai clic per selezionare la foresta nebbiosa. Sposta il cursore sullo schermo e fai clic per creare una foresta nebbiosa.</LOC_STRING>
+      <LOC_STRING _locID="borealforest:icon_stt">Foresta boreale</LOC_STRING>
+      <LOC_STRING _locID="borealforest:deepwater">Acqua profonda</LOC_STRING>
+      <LOC_STRING _locID="borealforest:deepwater_stt">Acqua profonda</LOC_STRING>
+      <LOC_STRING _locID="borealforest:deepwater_ltt">Fai clic per selezionare l'acqua profonda. Sposta il cursore sullo schermo e fai clic per creare una zona di acqua profonda.</LOC_STRING>
+      <LOC_STRING _locID="borealforest:shallowwater">Acqua bassa</LOC_STRING>
+      <LOC_STRING _locID="borealforest:shallowwater_stt">Acqua bassa</LOC_STRING>
+      <LOC_STRING _locID="borealforest:shallowwater_ltt">Fai clic per selezionare l'acqua bassa. Sposta il cursore sullo schermo e fai clic per creare una zona di acqua bassa.</LOC_STRING>
+      <LOC_STRING _locID="borealforest:ground">Terra</LOC_STRING>
+      <LOC_STRING _locID="borealforest:ground_stt">Terra</LOC_STRING>
+      <LOC_STRING _locID="borealforest:ground_ltt">Fai clic per selezionare la terra. Sposta il cursore sullo schermo e fai clic per creare una zona terrosa.</LOC_STRING>
+      <LOC_STRING _locID="borealforest:ground-cover">Manto forestale</LOC_STRING>
+      <LOC_STRING _locID="borealforest:ground-cover_stt">Manto forestale</LOC_STRING>
+      <LOC_STRING _locID="borealforest:ground-cover_ltt">Fai clic per selezionare il manto forestale. Sposta il cursore sullo schermo e fai clic per creare un manto forestale ricoperto di aghi di pino.</LOC_STRING>
+      <LOC_STRING _locID="borealforest:mix">Manto forestale e terra</LOC_STRING>
+      <LOC_STRING _locID="borealforest:mix_stt">Manto forestale e terra</LOC_STRING>
+      <LOC_STRING _locID="borealforest:mix_ltt">Fai clic per selezionare manto forestale e terra. Sposta il cursore sullo schermo e fai clic per creare un manto forestale ricoperto di aghi di pino e terra.</LOC_STRING>
+      <LOC_STRING _locID="borealforest:foliage-mix">Foresta rada</LOC_STRING>
+      <LOC_STRING _locID="borealforest:foliage-mix_stt">Foresta rada</LOC_STRING>
+      <LOC_STRING _locID="borealforest:foliage-mix_ltt">Fai clic per selezionare la foresta rada. Sposta il cursore sullo schermo e fai clic per creare una foresta rada.</LOC_STRING>
+      <LOC_STRING _locID="borealforest:foliage-mix-terrain">Foresta fitta</LOC_STRING>
+      <LOC_STRING _locID="borealforest:foliage-mix-terrain_stt">Foresta fitta</LOC_STRING>
+      <LOC_STRING _locID="borealforest:foliage-mix-terrain_ltt">Fai clic per selezionare la foresta fitta. Sposta il cursore sullo schermo e fai clic per creare una foresta fitta.</LOC_STRING>
+      <LOC_STRING _locID="temperateforest:icon_stt">Foresta temperata</LOC_STRING>
+      <LOC_STRING _locID="temperateforest:deepwater">Acqua profonda</LOC_STRING>
+      <LOC_STRING _locID="temperateforest:deepwater_stt">Acqua profonda</LOC_STRING>
+      <LOC_STRING _locID="temperateforest:deepwater_ltt">Fai clic per selezionare l'acqua profonda. Sposta il cursore sullo schermo e fai clic per creare una zona di acqua profonda.</LOC_STRING>
+      <LOC_STRING _locID="temperateforest:shallowwater">Acqua bassa</LOC_STRING>
+      <LOC_STRING _locID="temperateforest:shallowwater_stt">Acqua bassa</LOC_STRING>
+      <LOC_STRING _locID="temperateforest:shallowwater_ltt">Fai clic per selezionare l'acqua bassa. Sposta il cursore sullo schermo e fai clic per creare una zona di acqua bassa.</LOC_STRING>
+      <LOC_STRING _locID="temperateforest:ground">Terra</LOC_STRING>
+      <LOC_STRING _locID="temperateforest:ground_stt">Terra</LOC_STRING>
+      <LOC_STRING _locID="temperateforest:ground_ltt">Fai clic per selezionare la terra. Sposta il cursore sullo schermo e fai clic per creare una zona terrosa.</LOC_STRING>
+      <LOC_STRING _locID="temperateforest:ground-cover">Manto forestale</LOC_STRING>
+      <LOC_STRING _locID="temperateforest:ground-cover_stt">Manto forestale</LOC_STRING>
+      <LOC_STRING _locID="temperateforest:ground-cover_ltt">Fai clic per selezionare il manto forestale. Sposta il cursore sullo schermo e fai clic per creare un manto forestale ricoperto di foglie cadute.</LOC_STRING>
+      <LOC_STRING _locID="temperateforest:mix">Manto forestale e terra</LOC_STRING>
+      <LOC_STRING _locID="temperateforest:mix_stt">Manto forestale e terra</LOC_STRING>
+      <LOC_STRING _locID="temperateforest:mix_ltt">Fai clic per selezionare il manto forestale. Sposta il cursore sullo schermo e fai clic per creare un manto forestale ricoperto di terra e foglie cadute.</LOC_STRING>
+      <LOC_STRING _locID="temperateforest:foliage-mix">Foresta rada</LOC_STRING>
+      <LOC_STRING _locID="temperateforest:foliage-mix_stt">Foresta rada</LOC_STRING>
+      <LOC_STRING _locID="temperateforest:foliage-mix_ltt">Fai clic per selezionare la foresta rada. Sposta il cursore sullo schermo e fai clic per creare una foresta rada.</LOC_STRING>
+      <LOC_STRING _locID="temperateforest:foliage-mix-terrain">Foresta fitta</LOC_STRING>
+      <LOC_STRING _locID="temperateforest:foliage-mix-terrain_stt">Foresta fitta</LOC_STRING>
+      <LOC_STRING _locID="temperateforest:foliage-mix-terrain_ltt">Fai clic per selezionare la foresta fitta. Sposta il cursore sullo schermo e fai clic per creare una foresta fitta.</LOC_STRING>
+      <LOC_STRING _locID="desert:icon_stt">Deserto</LOC_STRING>
+      <LOC_STRING _locID="desert:deepwater">Acqua profonda</LOC_STRING>
+      <LOC_STRING _locID="desert:deepwater_stt">Acqua profonda</LOC_STRING>
+      <LOC_STRING _locID="desert:deepwater_ltt">Fai clic per selezionare l'acqua profonda. Sposta il cursore sullo schermo e fai clic per creare una zona di acqua profonda.</LOC_STRING>
+      <LOC_STRING _locID="desert:shallowwater">Acqua bassa</LOC_STRING>
+      <LOC_STRING _locID="desert:shallowwater_stt">Acqua bassa</LOC_STRING>
+      <LOC_STRING _locID="desert:shallowwater_ltt">Fai clic per selezionare l'acqua bassa. Sposta il cursore sullo schermo e fai clic per creare una zona di acqua bassa.</LOC_STRING>
+      <LOC_STRING _locID="desert:ground">Roccia</LOC_STRING>
+      <LOC_STRING _locID="desert:ground_stt">Roccia</LOC_STRING>
+      <LOC_STRING _locID="desert:ground_ltt">Fai clic per selezionare la roccia. Sposta il cursore sullo schermo e fai clic per creare una zona rocciosa.</LOC_STRING>
+      <LOC_STRING _locID="desert:ground-cover"> Sabbia</LOC_STRING>
+      <LOC_STRING _locID="desert:ground-cover_stt"> Sabbia</LOC_STRING>
+      <LOC_STRING _locID="desert:ground-cover_ltt">Fai clic per selezionare la sabbia. Sposta il cursore sullo schermo e fai clic per creare una zona sabbiosa.</LOC_STRING>
+      <LOC_STRING _locID="desert:mix">Sabbia e rocce</LOC_STRING>
+      <LOC_STRING _locID="desert:mix_stt">Sabbia e rocce</LOC_STRING>
+      <LOC_STRING _locID="desert:mix_ltt">Fai clic per selezionare sabbia e rocce. Sposta il cursore sullo schermo e fai clic per creare una zona di sabbia e rocce.</LOC_STRING>
+      <LOC_STRING _locID="desert:foliage-mix">Boscaglia rada</LOC_STRING>
+      <LOC_STRING _locID="desert:foliage-mix_stt">Boscaglia rada</LOC_STRING>
+      <LOC_STRING _locID="desert:foliage-mix_ltt">Fai clic per selezionare la boscaglia rada. Sposta il cursore sullo schermo e fai clic per creare una zona desertica coperta da rocce e piccole piante.</LOC_STRING>
+      <LOC_STRING _locID="desert:foliage-mix-terrain">Dune battute dal vento</LOC_STRING>
+      <LOC_STRING _locID="desert:foliage-mix-terrain_stt">Dune battute dal vento</LOC_STRING>
+      <LOC_STRING _locID="desert:foliage-mix-terrain_ltt">Fai clic per selezionare le dune battute dal vento. Sposta il cursore sullo schermo e fai clic per creare una zona desertica con dune battute dal vento.</LOC_STRING>
+      <LOC_STRING _locID="grassland:icon_stt">Prateria </LOC_STRING>
+      <LOC_STRING _locID="grassland:deepwater">Acqua profonda</LOC_STRING>
+      <LOC_STRING _locID="grassland:deepwater_stt">Acqua profonda</LOC_STRING>
+      <LOC_STRING _locID="grassland:deepwater_ltt">Fai clic per selezionare l'acqua profonda. Sposta il cursore sullo schermo e fai clic per creare una zona di acqua profonda.</LOC_STRING>
+      <LOC_STRING _locID="grassland:shallowwater">Acqua bassa</LOC_STRING>
+      <LOC_STRING _locID="grassland:shallowwater_stt">Acqua bassa</LOC_STRING>
+      <LOC_STRING _locID="grassland:shallowwater_ltt">Fai clic per selezionare l'acqua bassa. Sposta il cursore sullo schermo e fai clic per creare una zona di acqua bassa.</LOC_STRING>
+      <LOC_STRING _locID="grassland:ground">Terra</LOC_STRING>
+      <LOC_STRING _locID="grassland:ground_stt">Terra</LOC_STRING>
+      <LOC_STRING _locID="grassland:ground_ltt">Fai clic per selezionare la terra. Sposta il cursore sullo schermo e fai clic per creare una zona terrosa.</LOC_STRING>
+      <LOC_STRING _locID="grassland:ground-cover">Erba</LOC_STRING>
+      <LOC_STRING _locID="grassland:ground-cover_stt">Erba</LOC_STRING>
+      <LOC_STRING _locID="grassland:ground-cover_ltt">Fai clic per selezionare l'erba. Sposta il cursore sullo schermo e fai clic per creare una zona erbosa.</LOC_STRING>
+      <LOC_STRING _locID="grassland:mix">Erba e terra</LOC_STRING>
+      <LOC_STRING _locID="grassland:mix_stt">Erba e terra</LOC_STRING>
+      <LOC_STRING _locID="grassland:mix_ltt">Fai clic per selezionare erba e terra. Sposta il cursore sullo schermo e fai clic per creare una zona di erba e terra.</LOC_STRING>
+      <LOC_STRING _locID="grassland:foliage-mix">Erba alta</LOC_STRING>
+      <LOC_STRING _locID="grassland:foliage-mix_stt">Erba alta</LOC_STRING>
+      <LOC_STRING _locID="grassland:foliage-mix_ltt">Fai clic per selezionare l'erba alta. Sposta il cursore sullo schermo e fai clic per creare una zona di erba alta.</LOC_STRING>
+      <LOC_STRING _locID="grassland:foliage-mix-terrain">Foresta rada</LOC_STRING>
+      <LOC_STRING _locID="grassland:foliage-mix-terrain_stt">Foresta rada</LOC_STRING>
+      <LOC_STRING _locID="grassland:foliage-mix-terrain_ltt">Fai clic per selezionare la foresta rada. Sposta il cursore sullo schermo e fai clic per creare una foresta rada.</LOC_STRING>
+      <LOC_STRING _locID="gridland:ground">Quadrati griglia (con diagonali)</LOC_STRING>
+      <LOC_STRING _locID="gridland:ground-cover">Quadrati griglia (senza diagonali)</LOC_STRING>
+      <LOC_STRING _locID="gridland:mix">Mix terra con griglia</LOC_STRING>
+      <LOC_STRING _locID="tropicalrainforest:icon_stt">Foresta pluviale</LOC_STRING>
+      <LOC_STRING _locID="tropicalrainforest:deepwater">Acqua profonda</LOC_STRING>
+      <LOC_STRING _locID="tropicalrainforest:deepwater_stt">Acqua profonda</LOC_STRING>
+      <LOC_STRING _locID="tropicalrainforest:deepwater_ltt">Fai clic per selezionare l'acqua profonda. Sposta il cursore sullo schermo e fai clic per creare una zona di acqua profonda.</LOC_STRING>
+      <LOC_STRING _locID="tropicalrainforest:shallowwater">Acqua bassa</LOC_STRING>
+      <LOC_STRING _locID="tropicalrainforest:shallowwater_stt">Acqua bassa</LOC_STRING>
+      <LOC_STRING _locID="tropicalrainforest:shallowwater_ltt">Fai clic per selezionare l'acqua bassa. Sposta il cursore sullo schermo e fai clic per creare una zona di acqua bassa.</LOC_STRING>
+      <LOC_STRING _locID="tropicalrainforest:ground">Terra</LOC_STRING>
+      <LOC_STRING _locID="tropicalrainforest:ground_stt">Terra</LOC_STRING>
+      <LOC_STRING _locID="tropicalrainforest:ground_ltt">Fai clic per selezionare la terra. Sposta il cursore sullo schermo e fai clic per creare una zona terrosa.</LOC_STRING>
+      <LOC_STRING _locID="tropicalrainforest:ground-cover">Erba</LOC_STRING>
+      <LOC_STRING _locID="tropicalrainforest:ground-cover_stt">Erba</LOC_STRING>
+      <LOC_STRING _locID="tropicalrainforest:ground-cover_ltt">Fai clic per selezionare l'erba. Sposta il cursore sullo schermo e fai clic per creare una zona erbosa.</LOC_STRING>
+      <LOC_STRING _locID="tropicalrainforest:mix">Erba e terra</LOC_STRING>
+      <LOC_STRING _locID="tropicalrainforest:mix_stt">Erba e terra</LOC_STRING>
+      <LOC_STRING _locID="tropicalrainforest:mix_ltt">Fai clic per selezionare erba e terra. Sposta il cursore sullo schermo e fai clic per creare una zona di erba e terra.</LOC_STRING>
+      <LOC_STRING _locID="tropicalrainforest:foliage-mix">Foresta pluviale rada</LOC_STRING>
+      <LOC_STRING _locID="tropicalrainforest:foliage-mix_stt">Foresta pluviale rada</LOC_STRING>
+      <LOC_STRING _locID="tropicalrainforest:foliage-mix_ltt">Fai clic per selezionare la foresta pluviale rada. Sposta il cursore sullo schermo e fai clic per creare una foresta pluviale rada.</LOC_STRING>
+      <LOC_STRING _locID="tropicalrainforest:foliage-mix-terrain">Foresta pluviale fitta</LOC_STRING>
+      <LOC_STRING _locID="tropicalrainforest:foliage-mix-terrain_stt">Foresta pluviale fitta</LOC_STRING>
+      <LOC_STRING _locID="tropicalrainforest:foliage-mix-terrain_ltt">Fai clic per selezionare la foresta pluviale fitta. Sposta il cursore sullo schermo e fai clic per creare una foresta pluviale fitta.</LOC_STRING>
+      <LOC_STRING _locID="savannah:icon_stt">Savana</LOC_STRING>
+      <LOC_STRING _locID="savannah:deepwater">Acqua profonda</LOC_STRING>
+      <LOC_STRING _locID="savannah:deepwater_stt">Acqua profonda</LOC_STRING>
+      <LOC_STRING _locID="savannah:deepwater_ltt">Fai clic per selezionare l'acqua profonda. Sposta il cursore sullo schermo e fai clic per creare una zona di acqua profonda.</LOC_STRING>
+      <LOC_STRING _locID="savannah:shallowwater">Acqua bassa</LOC_STRING>
+      <LOC_STRING _locID="savannah:shallowwater_stt">Acqua bassa</LOC_STRING>
+      <LOC_STRING _locID="savannah:shallowwater_ltt">Fai clic per selezionare l'acqua bassa. Sposta il cursore sullo schermo e fai clic per creare una zona di acqua bassa.</LOC_STRING>
+      <LOC_STRING _locID="savannah:ground">Terra</LOC_STRING>
+      <LOC_STRING _locID="savannah:ground_stt">Terra</LOC_STRING>
+      <LOC_STRING _locID="savannah:ground_ltt">Fai clic per selezionare la terra. Sposta il cursore sullo schermo e fai clic per creare una zona terrosa.</LOC_STRING>
+      <LOC_STRING _locID="savannah:ground-cover">Erba</LOC_STRING>
+      <LOC_STRING _locID="savannah:ground-cover_stt">Erba</LOC_STRING>
+      <LOC_STRING _locID="savannah:ground-cover_ltt">Fai clic per selezionare l'erba. Sposta il cursore sullo schermo e fai clic per creare una zona erbosa.</LOC_STRING>
+      <LOC_STRING _locID="savannah:mix">Erba e terra</LOC_STRING>
+      <LOC_STRING _locID="savannah:mix_stt">Erba e terra</LOC_STRING>
+      <LOC_STRING _locID="savannah:mix_ltt">Fai clic per selezionare erba e terra. Sposta il cursore sullo schermo e fai clic per creare una zona di erba e terra.</LOC_STRING>
+      <LOC_STRING _locID="savannah:foliage-mix">Erba alta</LOC_STRING>
+      <LOC_STRING _locID="savannah:foliage-mix_stt">Erba alta</LOC_STRING>
+      <LOC_STRING _locID="savannah:foliage-mix_ltt">Fai clic per selezionare l'erba alta. Sposta il cursore sullo schermo e fai clic per creare una zona di erba alta.</LOC_STRING>
+      <LOC_STRING _locID="savannah:foliage-mix-terrain">Foresta rada</LOC_STRING>
+      <LOC_STRING _locID="savannah:foliage-mix-terrain_stt">Foresta rada</LOC_STRING>
+      <LOC_STRING _locID="savannah:foliage-mix-terrain_ltt">Fai clic per selezionare la foresta rada. Sposta il cursore sullo schermo e fai clic per creare una foresta rada.</LOC_STRING>
+      <LOC_STRING _locID="scrub:icon_stt">Macchia</LOC_STRING>
+      <LOC_STRING _locID="scrub:deepwater">Acqua profonda</LOC_STRING>
+      <LOC_STRING _locID="scrub:deepwater_stt">Acqua profonda</LOC_STRING>
+      <LOC_STRING _locID="scrub:deepwater_ltt">Fai clic per selezionare l'acqua profonda. Sposta il cursore sullo schermo e fai clic per creare una zona di acqua profonda.</LOC_STRING>
+      <LOC_STRING _locID="scrub:shallowwater">Acqua bassa</LOC_STRING>
+      <LOC_STRING _locID="scrub:shallowwater_stt">Acqua bassa</LOC_STRING>
+      <LOC_STRING _locID="scrub:shallowwater_ltt">Fai clic per selezionare l'acqua bassa. Sposta il cursore sullo schermo e fai clic per creare una zona di acqua bassa.</LOC_STRING>
+      <LOC_STRING _locID="scrub:ground">Terra</LOC_STRING>
+      <LOC_STRING _locID="scrub:ground_stt">Terra</LOC_STRING>
+      <LOC_STRING _locID="scrub:ground_ltt">Fai clic per selezionare la terra. Sposta il cursore sullo schermo e fai clic per creare una zona terrosa.</LOC_STRING>
+      <LOC_STRING _locID="scrub:ground-cover">Erba</LOC_STRING>
+      <LOC_STRING _locID="scrub:ground-cover_stt">Erba</LOC_STRING>
+      <LOC_STRING _locID="scrub:ground-cover_ltt">Fai clic per selezionare l'erba. Sposta il cursore sullo schermo e fai clic per creare una zona erbosa.</LOC_STRING>
+      <LOC_STRING _locID="scrub:mix">Erba e terra</LOC_STRING>
+      <LOC_STRING _locID="scrub:mix_stt">Erba e terra</LOC_STRING>
+      <LOC_STRING _locID="scrub:mix_ltt">Fai clic per selezionare erba e terra. Sposta il cursore sullo schermo e fai clic per creare una zona di erba e terra.</LOC_STRING>
+      <LOC_STRING _locID="scrub:foliage-mix">Terreno spaccato</LOC_STRING>
+      <LOC_STRING _locID="scrub:foliage-mix_stt">Terreno spaccato</LOC_STRING>
+      <LOC_STRING _locID="scrub:foliage-mix_ltt">Fai clic per selezionare il terreno spaccato. Sposta il cursore sullo schermo e fai clic per inserire piccole piante e rocce.</LOC_STRING>
+      <LOC_STRING _locID="scrub:foliage-mix-terrain">Boscaglia rada</LOC_STRING>
+      <LOC_STRING _locID="scrub:foliage-mix-terrain_stt">Boscaglia rada</LOC_STRING>
+      <LOC_STRING _locID="scrub:foliage-mix-terrain_ltt">Fai clic per selezionare la boscaglia rada. Sposta il cursore sullo schermo e fai clic per inserire rocce, alberi e piccole piante.</LOC_STRING>
+      <LOC_STRING _locID="tundra:icon_stt">Tundra</LOC_STRING>
+      <LOC_STRING _locID="tundra:deepwater">Acqua profonda</LOC_STRING>
+      <LOC_STRING _locID="tundra:deepwater_stt">Acqua profonda</LOC_STRING>
+      <LOC_STRING _locID="tundra:deepwater_ltt">Fai clic per selezionare l'acqua profonda. Sposta il cursore sullo schermo e fai clic per creare una zona di acqua profonda.</LOC_STRING>
+      <LOC_STRING _locID="tundra:shallowwater">Acqua bassa</LOC_STRING>
+      <LOC_STRING _locID="tundra:shallowwater_stt">Acqua bassa</LOC_STRING>
+      <LOC_STRING _locID="tundra:shallowwater_ltt">Fai clic per selezionare l'acqua bassa. Sposta il cursore sullo schermo e fai clic per creare una zona di acqua bassa.</LOC_STRING>
+      <LOC_STRING _locID="tundra:ground">Roccia</LOC_STRING>
+      <LOC_STRING _locID="tundra:ground_stt">Roccia</LOC_STRING>
+      <LOC_STRING _locID="tundra:ground_ltt">Fai clic per selezionare la roccia. Sposta il cursore sullo schermo e fai clic per creare una zona rocciosa.</LOC_STRING>
+      <LOC_STRING _locID="tundra:ground-cover">Neve</LOC_STRING>
+      <LOC_STRING _locID="tundra:ground-cover_stt">Neve</LOC_STRING>
+      <LOC_STRING _locID="tundra:ground-cover_ltt">Fai clic per selezionare la neve. Sposta il cursore sullo schermo e fai clic per creare un'area innevata.</LOC_STRING>
+      <LOC_STRING _locID="tundra:mix">Neve e rocce</LOC_STRING>
+      <LOC_STRING _locID="tundra:mix_stt">Neve e rocce</LOC_STRING>
+      <LOC_STRING _locID="tundra:mix_ltt">Fai clic per selezionare neve e rocce. Sposta il cursore sullo schermo e fai clic per creare una zona ricoperta di neve e rocce.</LOC_STRING>
+      <LOC_STRING _locID="tundra:foliage-mix">Tundra rocciosa</LOC_STRING>
+      <LOC_STRING _locID="tundra:foliage-mix_stt">Tundra rocciosa</LOC_STRING>
+      <LOC_STRING _locID="tundra:foliage-mix_ltt">Fai clic per selezionare la tundra rocciosa. Sposta il cursore sullo schermo e fai clic per creare una zona ricoperta di neve e grosse rocce.</LOC_STRING>
+      <LOC_STRING _locID="tundra:foliage-mix-terrain">Tundra battuta dal vento</LOC_STRING>
+      <LOC_STRING _locID="tundra:foliage-mix-terrain_stt">Tundra battuta dal vento</LOC_STRING>
+      <LOC_STRING _locID="tundra:foliage-mix-terrain_ltt">Fai clic per selezionare la tundra battuta dal vento. Sposta il cursore sullo schermo e fai clic per creare una tundra con rocce e colline battute dal vento.</LOC_STRING>
+      <LOC_STRING _locID="wetlands:icon_stt">Zona umida</LOC_STRING>
+      <LOC_STRING _locID="wetlands:deepwater">Acqua profonda</LOC_STRING>
+      <LOC_STRING _locID="wetlands:deepwater_stt">Acqua profonda</LOC_STRING>
+      <LOC_STRING _locID="wetlands:deepwater_ltt">Fai clic per selezionare l'acqua profonda. Sposta il cursore sullo schermo e fai clic per creare una zona di acqua profonda.</LOC_STRING>
+      <LOC_STRING _locID="wetlands:shallowwater">Acqua bassa</LOC_STRING>
+      <LOC_STRING _locID="wetlands:shallowwater_stt">Acqua bassa</LOC_STRING>
+      <LOC_STRING _locID="wetlands:shallowwater_ltt">Fai clic per selezionare l'acqua bassa. Sposta il cursore sullo schermo e fai clic per creare una zona di acqua bassa.</LOC_STRING>
+      <LOC_STRING _locID="wetlands:ground">Terra</LOC_STRING>
+      <LOC_STRING _locID="wetlands:ground_stt">Terra</LOC_STRING>
+      <LOC_STRING _locID="wetlands:ground_ltt">Fai clic per selezionare la terra. Sposta il cursore sullo schermo e fai clic per creare una zona terrosa.</LOC_STRING>
+      <LOC_STRING _locID="wetlands:ground-cover">Erba</LOC_STRING>
+      <LOC_STRING _locID="wetlands:ground-cover_stt">Erba</LOC_STRING>
+      <LOC_STRING _locID="wetlands:ground-cover_ltt">Fai clic per selezionare l'erba. Sposta il cursore sullo schermo e fai clic per creare una zona erbosa.</LOC_STRING>
+      <LOC_STRING _locID="wetlands:mix">Erba e terra</LOC_STRING>
+      <LOC_STRING _locID="wetlands:mix_stt">Erba e terra</LOC_STRING>
+      <LOC_STRING _locID="wetlands:mix_ltt">Fai clic per selezionare erba e terra. Sposta il cursore sullo schermo e fai clic per creare una zona di erba e terra.</LOC_STRING>
+      <LOC_STRING _locID="wetlands:foliage-mix">Acquitrino</LOC_STRING>
+      <LOC_STRING _locID="wetlands:foliage-mix_stt">Acquitrino</LOC_STRING>
+      <LOC_STRING _locID="wetlands:foliage-mix_ltt">Fai clic per selezionare l'acquitrino. Sposta il cursore sullo schermo e fai clic per inserire rocce e piante associate al bioma della palude.</LOC_STRING>
+      <LOC_STRING _locID="wetlands:foliage-mix-terrain">Palude</LOC_STRING>
+      <LOC_STRING _locID="wetlands:foliage-mix-terrain_stt">Palude</LOC_STRING>
+      <LOC_STRING _locID="wetlands:foliage-mix-terrain_ltt">Fai clic per selezionare la palude. Sposta il cursore sullo schermo e fai clic per creare una zona paludosa con rocce, piante, alberi ed erba alta.</LOC_STRING>
+</ZT2Strings>

@@ -1,0 +1,59 @@
+<ZT2Strings>
+      <LOC_STRING _locID="ZTPhotoMode" version="0"/>
+      <LOC_STRING _locID="ZTPhotoMode:NumPicsFormat">%02d / %02d</LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:photo_challenge_mode_label">
+         <font name="arial" size="16" image="ui\font\color_mainmenu.tga" shadowx="-1" shadowy="1" shadowa="64">
+            <color r="255" g="248" b="178">
+               <b>Sfida fotografica</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:CameraNotFullFormat">
+         <font name="arial" size="12" shadowx="1" shadowy="1" shadowa="64">
+            <color r="0" g="255" b="0">
+               <b>%text%</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:CameraFullFormat">
+         <font name="arial" size="12" shadowx="1" shadowy="1" shadowa="64">
+            <color r="255" g="8" b="8">
+               <b>%text%</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:go_to_cursor_mode">
+         <font name="arial" size="12" shadowx="0" shadowy="0" shadowa="60">
+            <color r="255" g="255" b="255" a="100">
+               <b>Pulsante destro del mouse per attivare/disattivare il cursore.</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:go_to_photo_mode">
+         <font name="arial" size="12" shadowx="0" shadowy="0" shadowa="60">
+            <color r="255" g="255" b="255" a="100">
+               <b>Fai clic con il pulsante destro del mouse per attivare la modalità fotografica.</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:ScoreLabel">Punteggio:</LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:Challenge2stt">Fotografa un elefante che mangia.</LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:Challenge3stt">Fotografa un elefante che cammina.</LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:Challenge2Completestt">Sfida completata (fotografare un elefante che mangia).</LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:Challenge3Completestt">Sfida completata (fotografare un elefante che cammina).</LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:challengeset_tiger_difficulty1">Sfida - Tigre (livello di difficoltà 1)</LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:challenge_tiger_eating_stt">Fotografa una tigre che mangia.</LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:challenge_tiger_eating_cstt">Sfida completata (fotografare una tigre che mangia).</LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:challenge_tiger_walking_stt">Fotografa una tigre che cammina.</LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:challenge_tiger_walking_cstt">Sfida completata (fotografare una tigre che cammina).</LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:challenge_hungry_tiger_stt">Fotografa una tigre affamata.</LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:challenge_hungry_tiger_cstt">Sfida completata (fotografare una tigre affamata).</LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:challenge_mother_and_young_tiger_stt">Fotografa una tigre femmina con il suo cucciolo.</LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:challenge_mother_and_young_tiger_cstt">Sfida completata (fotografare una tigre femmina con il suo cucciolo).</LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:challenge_tiger_and_gorilla_stt">Fotografa una tigre accanto a un gorilla.</LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:challenge_tiger_and_gorilla_cstt">Sfida completata (fotografare una tigre accanto a un gorilla).</LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:UndoneChallengeltt">Devi scattare una foto che rispetti i requisiti elencati per vincere la sfida fotografica.</LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:SubmitPhotosstt">Invia le foto alla sfida fotografica.</LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:default_album_name">Album fotografico</LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:default_photo_caption">Soggetto misterioso</LOC_STRING>
+</ZT2Strings>

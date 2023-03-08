@@ -1,0 +1,472 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_label:label">
+         <font name="arial" size="18" image="ui\font\color_mainmenu.dds" shadowx="-1" shadowy="1" shadowa="255">
+            <color r="255" g="250" b="200">
+               <b>Enciclopedia</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="text_format:body_text">
+         <font name="arial" size="9" shadowx="0" shadowy="0" shadowa="0">
+            <color r="74" g="74" b="74">
+               <b>%text%</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="text_format:zoopedia_entity_label">
+         <font name="arial" size="14" image="ui\font\color_mainmenu.tga" shadowx="-2" shadowy="1" shadowa="50">
+            <color r="255" g="250" b="200">
+               <b>%text%</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="text_format:zoopedia_secondary_label">
+         <font name="arial" size="11" image="ui\font\color_mainmenu.tga" shadowx="-2" shadowy="1" shadowa="50">
+            <color r="225" g="225" b="165">
+               <b>%text%</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_toc:format">
+         <font name="arial" size="10" shadowx="1" shadowy="-1" shadowa="0">
+            <b>%text%</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_animals:entry">Animali</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_animals:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>
+                  
+                  
+                  
+             Per vedere le informazioni su uno specifico animale di Zoo Tycoon 2, fai clic sul nome dell'animale nell'elenco a sinistra.
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_biomes:entry">Biomi</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_biomes:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>
+                  
+                  
+                  
+             Zoo Tycoon 2 comprende 10 biomi, ovvero insiemi di piante
+			e animali che vivono in zone con particolari condizioni climatiche o meteorologiche.
+			
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+			Per vedere le informazioni su uno specifico bioma, fai clic sul suo nome nell'elenco a sinistra.
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_animalenrichment:entry">Benessere animali</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_animalenrichment:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>
+                  
+                  
+                  
+             Nel mondo reale i guardiani usano gli oggetti stimolanti per gli animali per stimolare gli animali in cattività e incoraggiarli a seguire gli stessi comportamenti naturali che adotterebbero allo stato selvatico.
+             
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+             Ad esempio, gli orsi polari allo stato selvatico sono abituati a scavare nel ghiaccio per trovare il cibo, quindi puoi incoraggiare lo stesso comportamento nel tuo zoo fornendo loro il cibo all'interno di blocchi di ghiaccio.
+			
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+			Gli scimpanzé apprezzeranno le sbarre per scimmia poiché possono arrampicarsi e dondolarsi su di esse allo stesso modo in cui si dondolando sugli alberi e sui rami allo stato selvatico.
+			
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+			Per vedere le informazioni su uno specifico oggetto stimolante per gli animali, fai clic sul suo nome nell'elenco a sinistra.
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_paths:entry">Stradine</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_paths:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>
+                  
+                  
+                  
+             Le stradine ben posizionate giocano un ruolo importante nella soddisfazione degli ospiti dello zoo guidandoli nella giusta direzione.
+			
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+			Per vedere le informazioni su un tipo di stradina, fai clic sul suo nome nell'elenco a sinistra.
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_buildings:entry">Edifici</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_buildings:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>
+                  
+                  
+                  
+             Zoo Tycoon 2 comprende un'ampia gamma di edifici che offrono beni e servizi attirando l'attenzione degli ospiti dello zoo.
+			
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+			Per vedere le informazioni su uno specifico edificio, fai clic sul suo nome nell'elenco a sinistra.
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_staff:entry">Personale</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_staff:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>
+                  
+                  
+                  
+             Puoi assumere tre tipi di dipendenti, che ti aiuteranno a gestire lo zoo.
+			
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+			Per vedere le informazioni su uno specifico tipo di dipendente, fai clic sul suo nome nell'elenco a sinistra.
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_foodcontainer:entry">Contenitori di cibo</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_foodcontainer:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>
+                  
+                  
+                  
+             Zoo Tycoon 2 comprende un'ampia gamma di tipi di contenitori di cibo per soddisfare i numerosi animali del gioco.
+			
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+			Per vedere le informazioni su uno specifico contenitore di cibo, fai clic sul suo nome nell'elenco a sinistra.
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_food:entry">Cibo per animali</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_food:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>
+                  
+                  
+                  
+             Puoi soddisfare l'appetito e le necessità alimentari degli animali mediante il cibo per animali disponibile in Zoo Tycoon 2.
+			
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+			Per vedere le informazioni su uno specifico cibo per animali, fai clic sul suo nome nell'elenco a sinistra.
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_shelters:entry">Ripari per animali</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_shelters:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>
+                  
+                  
+                  
+             Zoo Tycoon 2 comprende un'ampia gamma di ripari per ospitare i numerosi animali presenti nel gioco.
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_scenery:entry">Oggetti paesaggistici</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_scenery:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>
+                  
+                  
+                  
+             Zoo Tycoon 2 comprende un'ampia gamma di oggetti paesaggistici che puoi utilizzare per migliorare lo zoo.
+			
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+			Per vedere le informazioni su uno specifico oggetto paesaggistico, fai clic sul suo nome nell'elenco a sinistra.
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_fences:entry">Recinzioni</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_fences:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>
+                  
+                  
+                  
+             Zoo Tycoon 2 comprende un'ampia gamma di tipi di recinto, dal decorativo al protettivo.
+			
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+			Per vedere le informazioni su uno specifico tipo di recinto, fai clic sul suo nome nell'elenco a sinistra.
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_foliage:entry">Vegetazione</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_foliage:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>
+                  
+                  
+                  
+             Zoo Tycoon 2 comprende un'ampia gamma di piante e alberi adatti per numerosi tipi di bioma.
+			
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+		Per vedere le informazioni su uno specifico tipo di pianta o albero, fai clic sul suo nome nell'elenco a sinistra.
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_bushes:entry">Cespugli e coprisuolo</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_bushes:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>
+                  
+                  
+                  
+             Zoo Tycoon 2 comprende un'ampia gamma di piante e alberi adatti per numerosi tipi di bioma.
+			
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+		Per vedere le informazioni su uno specifico tipo di pianta o albero, fai clic sul suo nome nell'elenco a sinistra.
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_trees:entry">Alberi</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_trees:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>
+                  
+                  
+                  
+             Zoo Tycoon 2 comprende un'ampia gamma di piante e alberi adatti per numerosi tipi di bioma.
+			
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+		Per vedere le informazioni su uno specifico tipo di pianta o albero, fai clic sul suo nome nell'elenco a sinistra.
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_rocks:entry">Rocce</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_rocks:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>
+                  
+                  
+                  
+             Zoo Tycoon 2 comprende numerosi tipi di rocce adatti ad alcuni tipi di bioma.
+             
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+             Per vedere le informazioni su uno specifico tipo di roccia, fai clic sul suo nome nell'elenco a sinistra.
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_legal:entry">Guida/Informazioni su</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_legal:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>
+                  
+                  
+Per visualizzare le informazioni legali e sul copyright di Zoo Tycoon 2, fai clic sul nome dell'argomento nell'elenco riportato a sinistra.              
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+</ZT2Strings>

@@ -1,0 +1,43 @@
+<ZT2Strings>
+      <LOC_STRING _locID="alert:sttformat">
+         <font name="arial" size="10">%text%</font>
+      </LOC_STRING>
+      <LOC_STRING _locID="alert:lttformat">
+         <font name="arial" size="10">%text%</font>
+      </LOC_STRING>
+      <LOC_STRING _locID="alert:save_game_message">
+         <font name="arial" size="20">
+            <b>Gioco salvato</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="alert:alert">
+         <font name="arial" size="16">
+            <color r="255" g="197" b="78">
+               <b>%text%</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="alert:save_failed">Spazio su disco rigido insufficiente. Impossibile salvare il gioco.</LOC_STRING>
+      <LOC_STRING _locID="alert:photo_save_failed">Spazio su disco rigido insufficiente. Impossibile salvare la foto.</LOC_STRING>
+      <LOC_STRING _locID="alert:download_save_failed">Spazio su disco rigido insufficiente. Impossibile completare il download.</LOC_STRING>
+      <LOC_STRING _locID="alert:invalid_name_profile">I nomi dei profili devono contenere almeno una lettera o un numero e non possono essere parole riservate di Windows®.</LOC_STRING>
+      <LOC_STRING _locID="alert:invalid_name_save">I nomi dei file devono contenere almeno una lettera o un numero e non possono essere parole riservate di Windows®.</LOC_STRING>
+      <LOC_STRING _locID="alert:profile_exists">Profilo già esistente.  Scegliere un nome diverso.</LOC_STRING>
+      <LOC_STRING _locID="alert:save_failed_readonly">File di sola lettura. Impossibile salvare il gioco.</LOC_STRING>
+      <LOC_STRING _locID="alert:load_failed">Il file è danneggiato o comunque illeggibile.  Impossibile caricare il gioco.</LOC_STRING>
+      <LOC_STRING _locID="error:startup_error_title">Errore di avvio di Zoo Tycoon 2</LOC_STRING>
+      <LOC_STRING _locID="error:init_config_info_failed">Errore nella chiamata di InitConfigInformation</LOC_STRING>
+      <LOC_STRING _locID="error:d3d_create_failed">Impossibile creare l'oggetto Direct3D</LOC_STRING>
+      <LOC_STRING _locID="error:init_video_card_info_failed">Errore nella chiamata di Config_InitVideoCardInfo</LOC_STRING>
+      <LOC_STRING _locID="error:enumerate_adapter_modes_failed">Impossibile enumerare le modalità della scheda grafica</LOC_STRING>
+      <LOC_STRING _locID="error:slow_processor">Per il corretto funzionamento di Zoo Tycoon 2 occorre almeno un processore 733 MHz. (%s MHz rilevati)</LOC_STRING>
+      <LOC_STRING _locID="error:low_system_memory">È necessario disporre di almeno %1s MB di memoria di sistema per eseguire Zoo Tycoon 2.  (%2s MB rilevati)</LOC_STRING>
+      <LOC_STRING _locID="error:low_video_memory">Per eseguire Zoo Tycoon 2 occorrono almeno %1s MB di memoria video. (%2s MB rilevati)</LOC_STRING>
+      <LOC_STRING _locID="error:unsupported_graphics_adapter">Zoo Tycoon 2 non supporta la scheda grafica %s.</LOC_STRING>
+      <LOC_STRING _locID="error:prototype_graphics_adapter">La scheda grafica %s è un prototipo e può causare problemi di interazione con Zoo Tycoon 2.</LOC_STRING>
+      <LOC_STRING _locID="error:invalid_graphics_driver">Il driver grafico non è valido per il sistema operativo.  Rivolgersi al fornitore della scheda grafica per ottenere un driver aggiornato.</LOC_STRING>
+      <LOC_STRING _locID="error:old_graphics_driver">Il driver grafico potrebbe essere troppo datato per eseguire Zoo Tycoon 2.  Rivolgersi al fornitore della scheda grafica per ottenere un driver aggiornato.</LOC_STRING>
+      <LOC_STRING _locID="error:invalid_sound_driver">Il driver audio non è valido per il sistema operativo.  Rivolgersi al fornitore della scheda audio per ottenere un driver aggiornato.</LOC_STRING>
+      <LOC_STRING _locID="error:old_sound_driver">Il driver audio potrebbe essere troppo datato per eseguire Zoo Tycoon 2.  Rivolgersi al fornitore della scheda audio per ottenere un driver aggiornato.</LOC_STRING>
+      <LOC_STRING _locID="error:renderer_create_failed">Non è stato possibile eseguire il rendering grafico per Zoo Tycoon 2.  Contattare il fornitore della scheda grafica per assicurarsi di disporre del driver più aggiornato.</LOC_STRING>
+</ZT2Strings>
