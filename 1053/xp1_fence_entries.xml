@@ -1,0 +1,72 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_endangeredanimalsfence:entry">Stängsel för utrotningshotade arter</LOC_STRING> <LOC_STRING _locID="zoopedia_endangeredanimalsfence:text">
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255"><img src="entities\objects\fences\mosaic_end\mosaic_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+Stängsel med det här temat passar bäst för inhägnader med utrotningshotade djur, till exempel Przewalskis häst och sabeloryxen. Du kan också använda den här typen av stängsel om du vill skapa spännande temabaserade allmänna områden i närheten av inhägnaderna.</color>
+    </cell>
+   </cell>
+  </LOC_STRING> <LOC_STRING _locID="zoopedia_conservationfences:entry">Skyddsstängsel</LOC_STRING> <LOC_STRING _locID="zoopedia_conservationfences:text">
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255"><img src="entities\objects\fences\conservation_df\conservation_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+Skyddsstängsel används för att hägna in speciellt skyddade <a href="zoopedia:zoopedia_conservationarea:entry"><u><color r="255" g="231" b="135">fortplantningsområden.</color></u></a> Du kan inte sälja eller återanvända skyddsstängsel.</color>
+    </cell>
+   </cell>
+  </LOC_STRING> <LOC_STRING _locID="zoopedia_mosaicwindow:entry">Fönsterstängsel för utrotningshotade arter</LOC_STRING> <LOC_STRING _locID="zoopedia_mosaicwindow:text">
+      <cell pady="0" width="1000"/>
+      <p/>
+      <cell width="260"/>
+      <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+         <cell width="600" padx="20" pady="20">
+            <color r="255" g="255" b="255"><img src="entities\objects\fences\mosaicwindow_end\mosaicwindow_end_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+            <p/>
+Fönsterstängslet för utrotningshotade arter är lika säkert som ett högt stängsel men besökarna har dessutom helt fri sikt. Den här typen av stängsel passar bäst för inhägnader med utrotningshotade arter, till exempel Przewalskis häst och sabeloryxen.</color>
+         </cell>
+      </cell>
+   </LOC_STRING> <LOC_STRING _locID="zoopedia_vehiclegate:entry">Grind, fordon</LOC_STRING> <LOC_STRING _locID="zoopedia_vehiclegate:text">
+      <cell pady="0" width="1000"/>
+      <p/>
+      <cell width="260"/>
+      <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+         <cell width="600" padx="20" pady="20">
+            <color r="255" g="255" b="255"><img src="entities\objects\fences\vehiclegate_end\vehiclegate_end_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+            <p/>
+Via fordonsgrindarna kan markfordon köra in och ut från inhägnaderna. För att djuren inte ska kunna rymma stängs den här mekaniska grinden automatiskt när ett fordon har passerat.</color>
+         </cell>
+      </cell>
+   </LOC_STRING> <LOC_STRING _locID="zoopedia_vehiclegate_reward:entry">Grind, dekorerad fordon</LOC_STRING> <LOC_STRING _locID="zoopedia_vehiclegate_reward:text">
+      <cell pady="0" width="1000"/>
+      <p/>
+      <cell width="260"/>
+      <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+         <cell width="600" padx="20" pady="20">
+            <color r="255" g="255" b="255"><img src="entities\objects\fences\vehiclegate_reward_end\vehiclegate_end_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+            <p/>
+Via fordonsgrindarna kan markfordon köra in och ut från inhägnaderna. För att djuren inte ska kunna rymma, stängs den här mekaniska grinden automatiskt när ett fordon har passerat.
+            <p/>
+Du måste genomföra kampanjen Transport för att kunna låsa upp den dekorerade fordonsgrinden.</color>
+         </cell>
+      </cell>
+   </LOC_STRING> <LOC_STRING _locID="zoopedia_wroughtiron:entry">Smidesjärnstängsel</LOC_STRING> <LOC_STRING _locID="zoopedia_wroughtiron:text">
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255"><img src="entities\objects\fences\wroughtiron_df\wroughtiron_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+Smidesjärn är ett kraftigt material som kan formeras till eleganta, dekorativa former. Smidesjärnstängslet är både snyggt och effektivt för att stänga inne starka djur som kan ta sig igenom ett svagare stängsel. Tack vare ett smidesjärnstängsel får besökarna också fri sikt över djuren.</color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+ 
+</ZT2Strings>

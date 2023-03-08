@@ -1,0 +1,111 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_tanks:entry">Bassängbyggnad</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_tanks:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>
+I Zoo Tycoon 2: Marine Mania kan du bygga inhägnade bassänger som de marina djuren kan vistas i .
+                  <p/>
+Om du vill ha information om ett bassängföremål klickar du på föremålets namn i listan till vänster.  
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_tankwall:entry">Bassängvägg i plexiglas</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_tankwall:text">
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\objects\fences\BasicTank\basictank_transparent_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+Bassängväggen i plexiglas är gjord av genomskinligt konstfiber. Använd väggen för att bygga bassänger där besökarna kan titta på de marina djuren.
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_tankwallopaque:entry">Ogenomskinlig bassängvägg</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_tankwallopaque:text">
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\objects\fences\BasicTank\basictank_opaque_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+Den ogenomskinliga väggen är gjord av stadiga betongpaneler som besökarna inte kan se igenom. Kombinera den med bassängväggen i plexiglas för att skapa en bassäng som ger de marina djuren avskildhet.
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_marinetankwall:entry">Bassängvägg med marintema</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_marinetankwall:text">
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\objects\fences\ThemedTank_mm\themedtank_mm_opaque_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <img src="entities\objects\fences\ThemedTank_mm\themedtank_mm_transparent_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+Bassängväggar med marintema skapar en fin stämning i inhägnader för marina djur. Väggarna finns både i genomskinlig och i ogenomskinlig variant. Vinn Show Tycoon Nivå 3-priset för att låsa upp bassänger med marintema.    
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_showtankwall:entry">Bassängvägg för marinshow</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_showtankwall:text">
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\objects\fences\ThemedTank_show\themedtank_show_opaque_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <img src="entities\objects\fences\ThemedTank_show\themedtank_show_transparent_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+Använd showbassängväggen om du vill göra dina showbassänger ännu attraktivare. Om du bygger en inhägnad utanför showbassängväggen kommer spelet automatiskt att uppmana dig att placera en showplattform och showportaler.
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_tankentrance:entry">Bassängingång</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_tankentrance:text">
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\objects\fences\Tank_Gate\Tank_Gate_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+Djurskötare kan inte komma in och sköta om de marina djuren i en bassäng som saknar bassängingång. Tränare kan inte träna marina djur i en bassäng som saknar en bassängingångsplattform. Observera att bassängingångar bara kan placeras på bassängväggar.
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_waterfilter:entry">Vattenfilter</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_waterfilter:text">
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\objects\misc\Water_Filter\Water_Filter_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+Vattenfilter rengör inhägnade bassänger och showbassänger från smuts och avfall. Rent bassängvatten gör att djuren i en bassäng hålls friska och nöjda. Vattenfilter måste kontrolleras regelbundet av vaktmästare. Du kan även reparera vattenfilter själv i besökarläget. 
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+ 
+</ZT2Strings>

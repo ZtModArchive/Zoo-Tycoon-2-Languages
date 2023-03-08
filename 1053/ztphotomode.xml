@@ -1,0 +1,59 @@
+<ZT2Strings>
+      <LOC_STRING _locID="ZTPhotoMode" version="0"/>
+      <LOC_STRING _locID="ZTPhotoMode:NumPicsFormat" version="0"  >%02d / %02d</LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:photo_challenge_mode_label" version="0"  >
+         <font name="arial" size="16" image="ui\font\color_mainmenu.tga" shadowx="-1" shadowy="1" shadowa="64">
+            <color r="255" g="248" b="178">
+               <b>Fotoutmaning</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:CameraNotFullFormat" version="0"  >
+         <font name="arial" size="12" shadowx="1" shadowy="1" shadowa="64">
+            <color r="0" g="255" b="0">
+               <b>%text%</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:CameraFullFormat" version="0"  >
+         <font name="arial" size="12" shadowx="1" shadowy="1" shadowa="64">
+            <color r="255" g="8" b="8">
+               <b>%text%</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:go_to_cursor_mode" version="0"  >
+         <font name="arial" size="12" shadowx="0" shadowy="0" shadowa="60">
+            <color r="255" g="255" b="255" a="100">
+               <b>Högerklicka för att visa eller dölja musmarkören.</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:go_to_photo_mode" version="0"  >
+         <font name="arial" size="12" shadowx="0" shadowy="0" shadowa="60">
+            <color r="255" g="255" b="255" a="100">
+               <b>Högerklicka om du vill öppna fotoläget.</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:ScoreLabel" version="0"  >Poäng:</LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:Challenge2stt" version="0"  >Ta en bild av en elefant som betar.</LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:Challenge3stt" version="0"  >Ta en bild av en elefant som går.</LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:Challenge2Completestt" version="0"  >Utmaningen är slutförd (ta en bild av en elefant som betar).</LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:Challenge3Completestt" version="0"  >Utmaningen är slutförd (ta en bild av en elefant som går).</LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:challengeset_tiger_difficulty1" version="0"  >Tigerutmaning (svårighetsnivå 1)</LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:challenge_tiger_eating_stt" version="0"  >Ta en bild av en tiger som äter.</LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:challenge_tiger_eating_cstt" version="0"  >Utmaningen är slutförd (ta en bild av en tiger som äter).</LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:challenge_tiger_walking_stt" version="0"  >Ta en bild av en tiger som går.</LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:challenge_tiger_walking_cstt" version="0"  >Utmaningen är slutförd (ta en bild av en tiger som går).</LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:challenge_hungry_tiger_stt" version="0"  >Ta en bild av en hungrig tiger.</LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:challenge_hungry_tiger_cstt" version="0"  >Utmaningen är slutförd  (ta en bild av en hungrig tiger).</LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:challenge_mother_and_young_tiger_stt" version="0"  >Ta en bild av en tigermamma med ungar.</LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:challenge_mother_and_young_tiger_cstt" version="0"  >Utmaningen är slutförd (ta en bild av en tigermamma med ungar).</LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:challenge_tiger_and_gorilla_stt" version="0"  >Ta en bild av en tiger bredvid en gorilla.</LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:challenge_tiger_and_gorilla_cstt" version="0"  >Utmaningen är slutförd  (ta en bild av en tiger bredvid en gorilla).</LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:UndoneChallengeltt" version="0"  >Du måste ta en bild som uppfyller de angivna kraven för att kunna slutföra fotoutmaningen.</LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:SubmitPhotosstt" version="0"  >Skicka dina bilder till fotoutmaningen.</LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:default_album_name" version="0"  >Mitt fotoalbum</LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:default_photo_caption" version="0"  >Okänt ämne</LOC_STRING>
+</ZT2Strings>

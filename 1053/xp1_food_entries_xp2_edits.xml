@@ -1,0 +1,27 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_eucalyptus" version="6"/>
+      <LOC_STRING _locID="zoopedia_eucalyptus:entry" version="6">Eukalyptusblad</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_eucalyptus:text" version="6">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/food/Terrain_df/TerrainEucalyptus_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>
+Trots att eukalyptusträd är mycket vanliga i Australien, så är bladen sega, näringsfattiga och innehåller oljor som är giftiga för de flesta djur. Endast ett fåtal arter äter eukalyptus. Det finns emellertid ett djur som lever nästan uteslutande på de väldoftande bladen:    
+                  <a href="zoopedia:zoopedia_koala:entry">
+                     <u>
+                        <color r="255" g="231" b="135">koalan</color>
+                     </u>
+                  </a>
+. Koalans kropp är speciellt anpassad för att bearbeta gifterna i eukalyptusbladen samtidigt som koalans långsamma matsmältning kompenserar för eukalyptusbladens låga näringsvärde. 
+                  <p/>
+Eukalyptusblad kan placeras direkt på marken, i en foderskål eller i en upphöjd foderskål.    
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+ 
+</ZT2Strings>
