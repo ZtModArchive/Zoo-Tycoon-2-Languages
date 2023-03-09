@@ -1,0 +1,26 @@
+<ZT2Strings>
+      <LOC_STRING _locID="confirm:cancel_dl_button_label">
+         <font name="arial" size="18" image="ui\font\color_mainmenu.tga">
+            <color r="255" g="197" b="78">
+               <text>
+                  <br/>
+                  <b>Returning to the main menu will cancel all active downloads.</b>
+               </text>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="confirm:cancel_dl_button_stt">Return to main menu</LOC_STRING>
+      <LOC_STRING _locID="confirm:cancel_dl_button_ltt">
+         <color r="255" g="248" b="178">
+            <b>Click to return to the main menu</b>
+         </color>
+         <br>Return to the main menu, cancelling active downloads</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="confirm:decline_cancel_dl_button_stt">Continue downloading</LOC_STRING>
+      <LOC_STRING _locID="confirm:decline_cancel_dl_button_ltt">
+         <color r="255" g="248" b="178">
+            <b>Continue downloading</b>
+         </color>
+         <br>Click to continue the active downloads.</br>
+      </LOC_STRING>
+</ZT2Strings>

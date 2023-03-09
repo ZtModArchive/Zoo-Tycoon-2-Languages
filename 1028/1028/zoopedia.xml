@@ -1,0 +1,463 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_label:label">
+         <font name="新細明體" size="12" image="ui\font\color_mainmenu.dds" shadowx="-1" shadowy="1" shadowa="255">
+            <color r="255" g="250" b="200">
+               動物百科
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="text_format:body_text">
+         <font name="新細明體" size="9" shadowx="0" shadowy="0" shadowa="0">
+            <color r="74" g="74" b="74">%text%</color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="text_format:zoopedia_entity_label">
+         <font name="新細明體" size="12" image="ui\font\color_mainmenu.tga" shadowx="-2" shadowy="1" shadowa="50">
+            <color r="255" g="250" b="200">%text%</color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="text_format:zoopedia_secondary_label">
+         <font name="新細明體" size="12" image="ui\font\color_mainmenu.tga" shadowx="-2" shadowy="1" shadowa="50">
+            <color r="225" g="225" b="165">%text%</color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_toc:format">
+         <font name="新細明體" size="9" shadowx="1" shadowy="-1" shadowa="0">%text%</font>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_animals:entry">動物</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_animals:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>
+                  
+                  
+                  
+             如果要在動物園大亨 2 中檢視特定動物的資訊，請按一下左側清單中的動物名稱。
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_biomes:entry">生物群落</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_biomes:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>
+                  
+                  
+                  
+             動物園大亨 2 共提供 10 種不同的生物群落，這些生物群落都是由生活在特定氣候或天氣狀況下的動物及植物組成而成的複雜集合。
+			
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+			如果要檢視特定生物群落的資訊，請按一下左側清單中的生物群落名稱。
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_animalenrichment:entry">動物娛樂</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_animalenrichment:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>
+                  
+                  
+                  
+             在真實世界中，動物管理員利用動物娛樂物件來訓練圈養的動物，幫助動物學習野外求生的技巧。
+             
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+             例如，生長在野外的北極熊習慣挖穿冰塊來尋找食物，因此您可在動物園中提供冰凍在冰塊中的食物給北極熊吃，鼓勵北極熊學習這項技巧。
+			
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+			黑猩猩很喜歡攀爬橫槓，因為牠們可以爬到上面盪來盪去，就像野外的黑猩猩會在樹上盪來盪去一樣。
+			
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+			如果要檢視特定動物娛樂物件的資訊，請按一下左側清單中的物件名稱。
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_paths:entry">步道</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_paths:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>
+                  
+                  
+                  
+             將步道鋪設在合適的位置不僅能讓遊客輕鬆愉快地參觀動物園，還能讓人潮以正確的方向移動。
+			
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+			如果要檢視特定步道的資訊，請按一下左側清單中的步道名稱。
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_buildings:entry">建築物</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_buildings:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>
+                  
+                  
+                  
+             動物園大亨 2 有許多不同種類的建築物，提供各式讓遊客快樂的商品及服務。
+			
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+			如果要檢視特定建築物的資訊，請按一下左側清單中的建築物名稱。
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_staff:entry">員工</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_staff:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>
+                  
+                  
+                  
+             您可以雇用 3 種不同的工作人員，來幫助您經營動物園。
+			
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+			如果要檢視特定工作人員的資訊，請按一下左側清單中的工作人員名稱。
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_foodcontainer:entry">食物容器</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_foodcontainer:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>
+                  
+                  
+                  
+             為了配合動物不同的進食習慣，動物園大亨 2 有許多不同種類的食物容器。
+			
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+			如果要檢視特定食物容器的資訊，請按一下左側清單中的食物容器名稱。
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_food:entry">動物食物</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_food:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>
+                  
+                  
+                  
+             動物園大亨 2 提供各種不同種類的動物食物，幫您滿足動物的飲食需求。
+			
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+			如果要檢視特定動物食物的資訊，請按一下左側清單中的動物食物名稱。
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_shelters:entry">動物遮棚</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_shelters:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>
+                  
+                  
+                  
+             為了配合動物不同的生活習慣，動物園大亨 2 有許多不同類型的遮棚。
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_scenery:entry">風景物件</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_scenery:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>
+                  
+                  
+                  
+             動物園大亨 2 有許多不同種類的風景物件，可讓您的動物園變得更美麗。
+			
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+			如果要檢視特定風景物件的資訊，請按一下左側清單中的風景物件名稱。
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_fences:entry">柵欄</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_fences:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>
+                  
+                  
+                  
+             動物園大亨 2 有許多不同種類的柵欄，包含保護性柵欄及裝飾性柵欄。
+			
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+			如果要檢視特定柵欄的資訊，請按一下左側清單中的柵欄名稱。
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_foliage:entry">植物</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_foliage:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>
+                  
+                  
+                  
+             動物園大亨 2 有許多種適合不同生物群落的植物及樹木。
+			
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+		如果要檢視特定植物或樹木的資訊，請按一下左側清單中的植物或樹木名稱。
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_bushes:entry">灌木及地被植物</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_bushes:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>
+                  
+                  
+                  
+             動物園大亨 2 有許多種適合不同生物群落的植物及樹木。
+			
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+		如果要檢視特定植物或樹木的資訊，請按一下左側清單中的植物或樹木名稱。
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_trees:entry">樹木</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_trees:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>
+                  
+                  
+                  
+             動物園大亨 2 有許多種適合不同生物群落的植物及樹木。
+			
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+		如果要檢視特定植物或樹木的資訊，請按一下左側清單中的植物或樹木名稱。
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_rocks:entry">岩石</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_rocks:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>
+                  
+                  
+                  
+             動物園大亨 2 有許多種適合不同生物群落的岩石。
+             
+                  
+                  
+                  <p/>
+                  
+                  
+                  
+             如果要檢視特定岩石的資訊，請按一下左側清單中的岩石名稱。
+               
+               
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_legal:entry">說明/關於</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_legal:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>
+                  
+                  
+如果要檢視有關動物園大亨 2 的法律及著作權資訊，請按一下左側清單中的主題名稱。              
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+</ZT2Strings>

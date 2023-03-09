@@ -1,0 +1,59 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_animaleducator:entry">動物生態解說員</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_animaleducator:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/units/staff/Educator/Educator_F_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/units/staff/Educator/Educator_M_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>
+                  動物生態解說員會在動物園裡走來走去，對遊客講解動物的知識。動物生態解說員藉由提供有趣的動物知識給遊客聽，讓遊客更喜歡您的動物園。        
+                  <p/>
+                  動物生態解說員會在解說台前講解動物知識，所以您必須購買解說台，並將解說台放置在動物園的各個角落。當您將解說台放好後，動物生態解說員就會定期在解說台前講解鄰近展示區中所展示動物的相關知識。        
+                  <p/>
+                      如果動物生態解說員找不到解說台，他們會尋找員工中心。如果找不到員工中心，他們會在動物園裡四處遊蕩。
+                  <p/>
+                      在每個月的一號，動物生態解說員的薪水會從您的動物園帳戶中扣除。但請記住，他們能讓快樂遊客的捐款金額變多，因為只要遊客在參觀動物園時心情愉快，還學習到動物的知識，他們就會成為快樂的遊客，並且捐款給您的動物園。			
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_maintworker:entry">環境維護員</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_maintworker:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/units/staff/Worker/Worker_F_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/units/staff/Worker/Worker_M_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>
+                             環境維護員負責幫您維護動物園的清潔，他們的主要的工作是清掃步道及清空垃圾筒。環境維護員會自己找事情來做，但您也可以指派特定的工作給他們。            
+                  <p/>
+                       環境維護員對您的動物園非常重要，因為唯有乾淨的動物園才能讓遊客快樂。而當您的動物園開始變髒，讓遊客發現步道上有垃圾、垃圾筒已滿出來時，遊客很可能會因此提早離開動物園。您每個月都必須支付薪水給環境維護員。
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_zookeeper:entry">動物管理員</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_zookeeper:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/units/staff/Keeper/Keeper_F_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/units/staff/Keeper/Keeper_M_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>
+                  
+動物管理員是動物園中最重要的工作人員。他們被訓練來滿足動物園中動物的需求，包括餵食、治療動物，及清理牠們的排泄物。動物管理員是薪水最高的工作人員。在每個月的一號，動物管理員的薪水會從您的動物園帳戶中扣除。但請記住，如果您想省錢的話，您可以在遊客視野模式中，親自執行動物管理員的工作。
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+</ZT2Strings>
