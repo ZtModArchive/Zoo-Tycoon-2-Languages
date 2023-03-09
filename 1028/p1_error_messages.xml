@@ -1,0 +1,44 @@
+<ZT2Strings>
+      <LOC_STRING _locID="alert:sttformat">
+         <font name="arial" size="10">%text%</font>
+      </LOC_STRING>
+      <LOC_STRING _locID="alert:lttformat">
+         <font name="arial" size="10">%text%</font>
+      </LOC_STRING>
+      <LOC_STRING _locID="alert:save_game_message">
+         <font name="arial" size="20">
+            <b>Game Saved</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="alert:alert">
+         <font name="arial" size="16">
+            <color r="255" g="197" b="78">
+               <b>%text%</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="alert:save_failed">Out of hard drive space. Unable to save game.</LOC_STRING>
+      <LOC_STRING _locID="alert:photo_save_failed">Out of hard drive space. Unable to save photo.</LOC_STRING>
+      <LOC_STRING _locID="alert:download_save_failed">Out of hard drive space. Unable to complete download.</LOC_STRING>
+      <LOC_STRING _locID="alert:invalid_name_profile">Profile names must contain at least one letter or number, and cannot be Windows® reserved words.</LOC_STRING>
+      <LOC_STRING _locID="alert:invalid_name_save">File names must contain at least one letter or number, and cannot be Windows® reserved words.</LOC_STRING>
+      <LOC_STRING _locID="alert:profile_exists">That profile already exists.  Please choose a different name.</LOC_STRING>
+      <LOC_STRING _locID="alert:profile_problem">There was a problem creating that profile.  Please try a different name.</LOC_STRING>
+      <LOC_STRING _locID="alert:save_failed_readonly">File is read-only. Unable to save game.</LOC_STRING>
+      <LOC_STRING _locID="alert:load_failed">File is corrupted or otherwise unreadable.  Unable to load game.</LOC_STRING>
+      <LOC_STRING _locID="error:startup_error_title">Zoo Tycoon 2 Startup Error</LOC_STRING>
+      <LOC_STRING _locID="error:init_config_info_failed">Error in call to InitConfigInformation</LOC_STRING>
+      <LOC_STRING _locID="error:d3d_create_failed">Failed to create Direct3D Object</LOC_STRING>
+      <LOC_STRING _locID="error:init_video_card_info_failed">Error in call to Config_InitVideoCardInfo</LOC_STRING>
+      <LOC_STRING _locID="error:enumerate_adapter_modes_failed">Failed to enumerate graphics adapter modes</LOC_STRING>
+      <LOC_STRING _locID="error:slow_processor">You need at least a 733 MHz processor for Zoo Tycoon 2 to run properly.  (%s MHz detected)</LOC_STRING>
+      <LOC_STRING _locID="error:low_system_memory">You need at least %1s MB of system memory to run Zoo Tycoon 2.  (%2s MB detected)</LOC_STRING>
+      <LOC_STRING _locID="error:low_video_memory">You need at least %1s MB of video memory to run Zoo Tycoon 2.  (%2s MB detected)</LOC_STRING>
+      <LOC_STRING _locID="error:unsupported_graphics_adapter">Zoo Tycoon 2 does not support the %s graphics card.</LOC_STRING>
+      <LOC_STRING _locID="error:prototype_graphics_adapter">The %s graphics card is a prototype card and may cause problems with Zoo Tycoon 2.</LOC_STRING>
+      <LOC_STRING _locID="error:invalid_graphics_driver">Your graphics driver is not valid for your operating system.  Please contact your graphics card vendor for an updated driver.</LOC_STRING>
+      <LOC_STRING _locID="error:old_graphics_driver">Your graphics driver may be too old to run Zoo Tycoon 2.  Please contact your graphics card vendor for an updated driver.</LOC_STRING>
+      <LOC_STRING _locID="error:invalid_sound_driver">Your sound driver is not valid for your operating system.  Please contact your sound card vendor for an updated driver.</LOC_STRING>
+      <LOC_STRING _locID="error:old_sound_driver">Your sound driver may be too old to run Zoo Tycoon 2.  Please contact your sound card vendor for an updated driver.</LOC_STRING>
+      <LOC_STRING _locID="error:renderer_create_failed">Zoo Tycoon 2 was unable to create a graphics renderer.  Please contact your graphics card vendor to make sure you have the latest driver.</LOC_STRING>
+</ZT2Strings>
