@@ -16,7 +16,7 @@ Archives of all official localised versions of the series
 | Japanese              | 1041 | x   |N/A |N/A |N/A |N/A |N/A |N/A |
 | Korean                | 1042 | x   | x  | x  | x  | x  |N/A |N/A |
 | Dutch                 | 1043 | x   | x  | x  | x  | x  | x  | x  |
-| Polish                | 1045 |     |    |    |    |    |N/A |N/A |
+| Polish                | 1045 |     |    |    |    |    |    |N/A |
 | Portuguese (Brazil)   | 1046 | x   | ?  | ?  | ?  | ?  | ?  |N/A |
 | Swedish               | 1053 | x   | x  | x  | x  | x  | x  | x  |
 | Portuguese (Portugal) | 2070 | ?   | ?  | ?  | ?  | ?  | ?  | ?  |
