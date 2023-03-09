@@ -1,0 +1,265 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_moose" version="6"/>
+      <LOC_STRING _locID="zoopedia_moose:entry" version="6">Élan</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_moose:text" version="6">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+               <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+                  <img src="entities/units/animals/Moose/Moose_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+               </cell>
+               <cell width="16">
+                  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+               </cell>
+               <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+                  <img src="entities/units/animals/Moose/Moose_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+               </cell>
+               <cell width="16">
+                  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+               </cell>
+               <cell width="60"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     État de préservation :
+                     <br/>
+                        <color r="170" g="255" b="0">
+                     État de préservation 
+                     </color>
+                     </color>                  
+                  </cell>
+               </cell>             
+            
+               <cell width="128">
+                  <color r="255" g="255" b="255">Forêt boréale</color>
+                  <br/>
+                  <img src="ui/icon_biomes/icon_borealforest.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+               </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Amérique du Nord</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/Boreal_America_North.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+Classe : Mammifères                                                                            
+                     <i>(Mammalia)</i>
+                     <br/>
+Ordre : Ongulés artiodactyles                                                        
+                     <i>(Artiodactyla)</i>
+                     <br/>
+Famille : Cervidés                                                        
+                     <i>(Cervidae)</i>
+                     <br/>
+Genre :		                                                       
+                     <i>Alces  </i>
+                     <br/>
+Espèce :	                                                       
+                     <i>alces</i>
+                     <br/>
+Sous-espèce :	                                                       
+                     <i>americana</i>
+                  </color>
+               </cell>
+               <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/borealforest_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+               </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Bon à savoir sur l'élan</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">La femelle protège son petit des loups en le faisant entrer dans l'eau peu profonde et en s'interposant entre lui et le loup qui, généralement, finit par renoncer à sa proie.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Pour fuir les loups, l'élan se retire souvent vers les lacs et les marécages où il peut vivre en sécurité jusqu'en hiver. Une fois l'eau gelée, les loups peuvent le suivre.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">L'élan peut plonger à plus de 5 mètres et rester sous l'eau pendant 40 secondes pour rechercher des plantes et des racines aquatiques.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">L'élan peut mesurer jusqu'à 2 m de haut au garrot.</color>
+               </cell>
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">Pour débloquer l'élan au cours de parties en mode Défi ou Campagne, vous devez obtenir une note de renommée de 0,5 étoile pour votre zoo.
+            </color>
+            <p/>L'appellation « élan » désigne le plus grand animal de la famille des cervidés. Ce nom, attribué par la tribu nord-américaine des Algonquins, signifie « mangeur de brindilles ». En effet, cet animal ne mange que des feuilles et des écorces. En Europe et en Asie, l'élan habite les forêts du nord, depuis la Sibérie à l'est jusqu'en Norvège à l'ouest, la région baltique et le nord de la Chine. En Amérique du Nord, il vit dans les régions boisées du Canada et du nord des États-Unis, où il est également appelé original ou wapiti. À l'âge adulte, le mâle peut mesurer jusqu'à 2 m de haut au garrot et peser plus de 726 kg. Leurs longues pattes caractéristiques leur permettent de brouter dans des buissons et de patauger dans les lacs et les mares pour y rechercher des plantes aquatiques. Puissant nageur, l'élan se déplace aisément dans l'eau.                                    
+            <p/>L'élan a une tête large dont la lèvre supérieure saillante et mobile forme le museau. Sous son cou, pend un fanon de chair et de poils appelé cloche. Doté d'une ouïe excellente, ses grandes oreilles constamment mobiles 		sont sensibles comme des radars. Ses vertèbres cervicales proéminentes forment une bosse au niveau de l'encolure,     		à laquelle sont rattachés les puissants ligaments soutenant sa tête massive.     		L'élan est généralement de couleur brun foncé, et sa face s'éclaircit légèrement en été. La robe des mâles vire presque au noir à l'approche de la période du rut.                        
+            <p/>Le mâle arbore au-dessus du front d'immenses bois dentelés, ou ramure, pouvant atteindre 1,5 m     		 de large et peser 23 kg. Les bois sont recouverts d'une fine membrane nutritive, semblable à du velours     		, que l'élan mange lorsqu'elle tombe au début du mois de septembre. À la fin du même mois     		, soit après la période du rut, le mâle perd également ses bois. Les mâles âgés les perdent plutôt entre décembre     		et la fin janvier. Les bois des jeunes mâles commencent parfois     		à pousser en février, mais ceux des autres mâles commencent à repousser au début du mois d'avril.                        
+            <p/>Les élans sont des animaux solitaires, excepté pendant la période du rut où ils s'assemblent par groupes de douze ou plus, particulièrement au Canada, dans le territoire du Yukon et en Alaska. Les femelles et les mâles peuvent se reproduire dès l'âge de deux ans. Pendant la période du rut, les mâles s'affrontent avec leurs bois pour conquérir une femelle. Après une période de gestation d'environ 230 jours, la plupart des petits naissent vers la fin du mois de mai. La femelle donne naissance généralement à un seul rejeton, mais des portées de deux, trois, voire quatre petits, ont déjà été observées. Les bébés sont de couleur brun roux et pèsent entre 11 et 16 kg à la naissance.                        
+            <p/>Un élan vit en moyenne 5 à 6 ans, mais certains peuvent vivre jusqu'à 20 ans. Pour déterminer     		l'âge de l'animal, on examine la racine de l'incisive centrale qui présente     		des anneaux. Un anneau foncé et un anneau clair correspondent à un an d'âge,     		à l'instar des anneaux d'un tronc d'arbre.                        
+            <p/>Le régime alimentaire de l'élan varie avec les saisons. Pendant l'automne, l'hiver et le printemps, il se nourrit des pousses de l'été      		précédent, comme les feuilles de trembles, peupliers noirs, saules, bouleaux, noisetiers, cornouillers et sapins baumiers. À la fin du printemps et     		au début de l'été, il lèche les dépôts de sel naturels laissés par les sources d'eau ou les ruissellements le long des routes pour renouveler ses     		 réserves minérales qu'il a épuisées pendant l'hiver. En été, préférant la végétation aquatique, il peut rester sous l'eau 		pendant 40 secondes pour atteindre ses plantes favorites.    		Malgré sa grande taille et son aptitude à atteindre la vitesse de 58 km/h sur de courtes distances,     		les loups, les ours noirs et les 	                        
+        
+            <a href="zoopedia:zoopedia_grizzly:entry">
+               <u>
+                  <color r="255" g="231" b="135">grizzlis sont ses principaux prédateurs.</color>
+               </u>
+            </a> Des études indiquent que les ours peuvent tuer jusqu'à 75 % de la progéniture des élans âgée de moins de huit semaines. La tique d'hiver est un autre ennemi de l'élan. Les infestations de ce parasite irritant sa peau, il essaie de s'en débarrasser en s'arrachant des touffes de poils entières censées le protéger contre le froid extrême des hivers régnant sur son habitat. Les tiques et le froid glacial peuvent réduire de moitié les populations d'élans.                           
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Contribution de : Vince Crichton   			                        
+            <br/>Avec le concours de la                         
+            <a href="zoopedia:zoopedia_encarta:entry">
+               <u>
+                  <color r="255" g="231" b="135">Collection Microsoft (R) Encarta (R) 2004.</color>
+               </u>
+            </a>(C) 1993-2003 Microsoft Corporation. Tous droits réservés.                           
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_peafowl" version="6"/>
+      <LOC_STRING _locID="zoopedia_peafowl:entry" version="6">Paon bleu</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_peafowl:text" version="6">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/PeafowlCommon/PeafowlCommon_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>
+						<cell width="16">
+							<img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						</cell>
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/PeafowlCommon/PeafowlCommon_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>
+						<cell width="16">
+							<img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						</cell>
+						<cell width="60"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     État de préservation :
+                     <br/>
+                        <color r="170" g="255" b="0">
+                     Peu menacé
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>             
+
+               <cell width="128">
+                  <color r="255" g="255" b="255">Forêt tempérée</color>
+                  <br/>
+                  <img src="ui/icon_biomes/icon_temperateforest.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+               </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Asie</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/temperateforest_Asia.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                     Classe : Oiseaux                                                        
+                     <i>(Aves)</i>
+                     <br/>
+                     Ordre : Gamebirds                                                        
+                     <i>(Galliformes)</i>
+                     <br/>
+                     Famille : Cailles, perdrix, francolins, faisans, 	                                                       
+                     <br/>
+                     grouses, dindons                                                        
+                     <i>(Phasianidae)</i>
+                     <br/>
+                     Genre : <i>Pavo  </i>
+                     <br/>
+                     Espèce :	                                                       
+                     <i>cristatus</i>
+                  </color>   
+               </cell>
+               <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/temperateforest_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+               </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Bon à savoir sur le paon bleu</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Les mâles et les femelles se nourrissent essentiellement de vers, d'insectes, de petits serpents et de graines.</color>
+               </cell>
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">
+            Pour débloquer le paon bleu au cours de parties en mode Défi ou Campagne, vous devez obtenir une note de renommée de 0,5 étoile pour votre zoo.
+            </color>
+            <p/>L'appellation " paon " désigne trois espèces de la famille des faisans. Cette appellation s'applique plus spécifiquement aux mâles, les femelles étant appelées paonnes. Deux des trois espèces vivent en Asie : le paon bleu, ou paon d'Inde, et le paon vert. La troisième espèce, le paon du Congo, vit uniquement dans les forêts de la République démocratique du Congo (RDC, l'ex-Zaïre). Les paons d'Asie sont réputés pour leur traîne resplendissante formée par les longues plumes recouvrant leur queue relativement courte, qu'ils redressent en se pavanant et déploient en éventail. Le plumage chatoyant, généralement vert et or, est tacheté d'ocelles d'une couleur éclatante appelée bleu de paon. La même couleur se retrouve également sur la tête, autour du cou, sur le poitrail et la crête du paon bleu. Chez le paon vert, la tête, le cou et le ventre sont de couleur verte. La femelle des paons (paonne) n'a pas de traîne et ses couleurs sont moins vives que celles du mâle. Les paons construisent leur nid à même le sol ou dans les branches inférieures des arbres. Omnivores, ils se nourrissent essentiellement de vers, d'insectes, de petits serpents et de graines.                                    
+            <p/>Le paon bleu a été domestiqué dans de nombreuses régions du monde, et il existe des populations à l'état sauvage dans les îles Hawaï. Une variété de paons blancs a été créée par reproduction sélective.                           
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">
+         Avec le concours de la 
+            <a href="zoopedia:zoopedia_encarta:entry">
+               <u>
+                  <color r="255" g="231" b="135">Collection Microsoft (R) Encarta (R) 2004.</color>
+               </u>
+            </a>
+            (C) 1993-2003 Microsoft Corporation. Tous droits réservés.                           
+         </cell>
+      </LOC_STRING>
+
+</ZT2Strings>

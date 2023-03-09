@@ -1,0 +1,254 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_meerkat" version="9"/>
+      <LOC_STRING _locID="zoopedia_meerkat:entry" version="9">Surikat</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_meerkat:text" version="9">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/Meerkat/Meerkat_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>							 
+						 <cell width="156"/>						 
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Hotstatus:
+                     <br/>
+                        <color r="170" g="255" b="0">
+                     Livskraftig
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+				 <cell width="128">
+				  <color r="255" g="255" b="255">Buskskog<br/></color>
+				  <img src="ui/icon_biomes/icon_scrub.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+				 </cell>	
+               <cell width="128">
+                  <color r="255" g="255" b="255">Södra Afrika</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/Savannah_Africa_South.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Klass: Däggdjur <i>(Mammalia)</i>
+                  <br/>
+                  Ordning: Köttätare <i>(Carnivora)</i>
+                  <br/>
+                  Familj: Afrikansk sibetkatt <i>(Viverridae)</i>
+                  <br/>
+                  Släkte: <i>Suricata</i>
+                  <br/>
+                  Art: <i>suricatta</i>
+                  <br/>
+                  Underart: <i>suricata</i>                  
+                  </color>
+               </cell>
+				 <cell width="256" pady="10">
+				  <img src="UI/zoopedia/biome/scrub_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+				 </cell>	
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Roligt att veta om surikater</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Surikaten är ett socialt djur som lever i grupper och som delar både toalett och barnpassning.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Surikaterna lever i grupper som vanligtvis består av mellan 5 och 30 medlemmar.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Eftersom surikaterna är lockande föda för många rovdjur står alltid en surikat på vakt medan de andra sover eller äter.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Surikatens föda består av skalbaggar, spindlar, tusenfotingar, syrsor och skorpioner (surikaterna är immuna mot deras gift).</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>               
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Surikaten använder svansen för att hålla balansen och kommunicera med andra medlemmar i gruppen.</color>
+               </cell>                   
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">Du måste tjäna ihop 3 1/2 stjärnor i djurparkens berömmelsenivå för att låsa upp surikaten i utmanings- eller kampanjspel.</color>
+            <p/>Surikaten är en art i rovdjursfamiljen manguster som lever i södra Afrika. Surikaterna är kända för sin upprätta ställning och sitt mycket sociala beteende.
+
+<p/>Surikaterna bor i torra, öppna områden och på savanner från sydvästra Angola till Sydafrika. Dessa sociala djur lever i kolonier, vanligtvis på platser med sandig jord där de kan gräva jordhålor.
+
+<p/>Surikaten är ungefär 25 till 35 cm lång, exklusive svansen. Den är smalare än många andra mangustrar. Den har en spetsig nos, silverbrun päls och oregelbundna mörka ränder på bakdelen. Huvudet är ljust med svarta öron och svart runt ögonen. Till skillnad från de flesta mangustrar har surikaten fyra i stället för fem tår på varje tass.
+
+<p/>Surikaten söker endast efter föda på dagtid och äter i huvudsak insekter, särskilt skalbaggar, spindlar och tusenfotingar. Ibland äter de små ryggradsdjur, ägg och rötter. Surikaten får två till fyra ungar, som ofta föds på hösten eller i början av vintern efter en dräktighet på ungefär 11 veckor. Både honor och hanar tar hand om och vaktar ungarna.
+
+<p/>Surikaterna står ofta upprätt på bakbenen eller till och med på tå för att sniffa och spana efter fiender. De har utmärkt syn och kan göra minst tio olika ljud, inklusive ett varningsrop.
+
+<p/>Eftersom surikaten kan bära på rabies har de jagats eller gasats i sina jordhålor i områden där de utgör ett hot mot människor. Detta har inte lett till någon märkbar minskning av populationen. I Sydafrika har man dessa tillgivna och lättämjda djur som husdjur.
+
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Innehållet har hämtats från <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft® Encarta® 2006.</color></u></a> © 1993-2005 Microsoft Corporation. Med ensamrätt.
+         </cell>         
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_birdsecretary" version="9"/>
+      <LOC_STRING _locID="zoopedia_birdsecretary:entry" version="9">Sekreterarfågel</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_birdsecretary:text" version="9">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/BirdSecretary/BirdSecretary_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>						 
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Hotstatus:
+                     <br/>
+                        <color r="170" g="255" b="0">
+                     Livskraftig
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+               <cell width="128">
+                  <color r="255" g="255" b="255">Grässlätt<br/></color>
+                  <img src="ui/icon_biomes/icon_grassland.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+               </cell>
+					<cell width="128">
+						<color r="255" g="255" b="255">Afrika</color>
+						<br/>
+						<img src="ui/icon_maplocations/Grassland_Africa_Asia.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+					</cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Klass: Fåglar <i>(Aves)</i>
+                  <br/>
+                  Ordning: Dagrovfågel <i>(Falconiformes)</i>
+                  <br/>
+                  Familj: <i>Sagittariidae</i>
+                  <br/>
+                  Släkte: <i>Sagittarius</i>
+                  <br/>
+                  Art: <i>serpentarius</i>
+                  </color>
+               </cell>
+               <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/grassland_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+               </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Roligt att veta om sekreterarfågeln</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Sekreterarfågeln kan gå upp till 32 km om dagen på sina långa ben.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">I Sydafrika har man sekreterarfåglar som husdjur eftersom de dödar ormar och råttor.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Sekreterarfågelns favoritföda är orm. Den hugger tag i ormen med sina klor och slår den mot marken. Den använder vingarna för att skydda sig mot bett.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Sekreterarfågeln håller ihop med sin partner hela livet och har samma bo i flera år. Även om den lever en stor del av tiden ensam håller den sig i närheten av sin partner.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>               
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Sekreterarfågeln är nästan alltid tyst. Det enda ljudet den gör är ett kraxande läte när den visar upp sig för sin partner.</color>
+               </cell>                   
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">Du måste tjäna ihop 3 stjärnor i djurparkens berömmelsenivå för att låsa upp sekreterarfågeln i utmanings- eller kampanjspel.</color>
+            <p/>Sekreterarfågel är artnamnet på en stor rovfågel som lever i Afrika söder om Sahara. Den är över 1 m lång och har mycket långa ben, långa stjärtfjädrar och en kraftig böjd näbb. I många böcker står det att fågeln har fått sitt namn av sina långa nackfjädrar som liknar de fjäderpennor som sekreterare förr i tiden hade instuckna bakom öronen. Men namnet har i själva verket uppkommit från ett felaktigt uttal av det arabiska namnet för arten. Fjäderdräkten är ljust grå med svarta vingpennor och "byxor" och svartspetsade stjärtpennor. Fågeln livnär sig av små djur och reptiler, särskilt ormar, vanligtvis genom att de förföljer sitt byte. Sekreterarfågeln flyger sällan. Den monogama fågeln bygger stora starka bon av ris i träd eller buskar och lägger två ägg.
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Innehållet har hämtats från <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft® Encarta® 2006.</color></u></a> © 1993-2005 Microsoft Corporation. Med ensamrätt.
+         </cell>         
+      </LOC_STRING>
+
+</ZT2Strings>

@@ -1,0 +1,180 @@
+﻿<ZT2Strings>
+   <entityname>
+      <!--animal names-->
+      <ElephantAsian>Éléphant d'Asie</ElephantAsian>
+      <ElephantAsian_stt>Éléphant d'Asie</ElephantAsian_stt>
+      <ElephantAsian_lower>l'éléphant d'Asie</ElephantAsian_lower>
+      <ElephantAsian_ltt>
+         <color r="255" g="248" b="178">
+            <b>Éléphant d'Asie</b>
+         </color>
+         <br/>
+         Sélectionnez, puis placez un éléphant d'Asie, qui est un éléphant puissant doté de plus petites oreilles que son cousin d'Afrique.
+      </ElephantAsian_ltt>
+      <!--gift names-->
+      <ElephantAsian_Gift>Peluche éléphant d'Asie</ElephantAsian_Gift>
+      <ElephantAsian_Gift_stt>Peluche éléphant d'Asie</ElephantAsian_Gift_stt>
+      <ElephantAsian_Gift_lower>la peluche éléphant d'Asie</ElephantAsian_Gift_lower>
+      <ElephantAsian_Gift_ltt>
+         <color r="255" g="248" b="178">
+            <b>Peluche éléphant d'Asie</b>
+         </color>
+         <br/>Les visiteurs qui apprécient d'observer l'éléphant d'Asie achèteront ce souvenir.
+      </ElephantAsian_Gift_ltt>
+   </entityname>
+   <zoopedia_elephantasian version="2">
+      <entry>Éléphant, Asie</entry>
+      <text>
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/ElephantAsian/ElephantAsian_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/ElephantAsian/ElephantAsian_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>						 
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>	
+						<cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/endangered.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     État de préservation :
+                     <br/>
+                        <color r="255" g="155" b="0">
+                     En danger
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>            
+            
+               <cell width="128">
+                  <color r="255" g="255" b="255">Broussailles<br/></color>
+                  <img src="ui/icon_biomes/icon_scrub.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+               </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Asie du Sud-Est<br/></color>
+                  <img src="ui/icon_maplocations/Scrub_Asia_Southeast.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284">
+                  <color r="255" g="255" b="255">Classe : Mammifères <i>(Mammalia)</i><br/>Ordre : Éléphants <i>(Proboscidea)</i><br/>Famille : Éléphants <i>(Elephantidae)</i><br/>Genre : <i>Elephas</i><br/>Espèce :<i>maximus</i></color>
+               </cell>
+               <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/scrub_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+               </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Bon à savoir sur l'éléphant d'Asie</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Ce sont la mère et les autres femelles du troupeau (appelées « tantes ») qui prennent soin de l'éléphanteau d'Asie.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">L'éléphant d'Asie fait figure de pionnier pour les autres espèces : les pistes qu'il trace à travers la forêt sont fréquemment utilisées par les autres animaux.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">L'éléphant utilise des ondes sonores à basse fréquence pour communiquer à l'intérieur et hors du troupeau. Ces ondes sonores peuvent voyager sur des distances de près de 15 kilomètres.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">L'éléphant d'Asie est parfois appelé éléphant d'Inde.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">L'éléphant d'Asie utilise ses défenses d'ivoire pour creuser, déraciner des arbres et parader à la période du rut.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">L'éléphant dominant du troupeau est une femelle, la matriarche : il s'agit généralement de la femelle la plus grosse, la plus âgée et la plus expérimentée du troupeau.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">L'appendice en forme de doigt situé à l'extrémité de la trompe de l'éléphant est suffisamment sensible pour lui permettre de saisir de petits objets tels que des arachides.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Lorsqu'il se nourrit, l'éléphant d'Asie ronronne.</color>
+               </cell>
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">Pour débloquer l'éléphant d'Asie dans les parties Défi ou Campagne, le niveau de renommée de votre zoo doit atteindre 3,5 étoiles.</color>
+            <p/>L'éléphant est un gros mammifère qui se caractérise par sa trompe et deux longues défenses incurvées. Extrêmement intelligent et puissant, il est le plus grand des animaux terrestres et un de ceux dont l'espérance de vie est la plus longue, puisqu'il peut vivre plus de 60 ans. L'homme est le seul ennemi des éléphants adultes et sains.
+            <p/>L'éléphant a toujours été estimé par l'homme pour sa grande taille et sa puissance. Sur les champs de bataille, les soldats montés sur des éléphants terrassaient l'ennemi en le foulant aux pieds. Les éléphants sont également entraînés pour transporter de lourdes charges à travers la jungle et haler d'énormes billes de bois provenant des forêts dans lesquelles ils vivaient autrefois.
+            <p/>Les éléphants ont pendant longtemps été vénérés et honorés. En Thaïlande, en Inde et dans d'autres pays d'Asie du Sud-Est, les éléphants richement harnachés jouent un rôle important dans les cérémonies religieuses traditionnelles. Selon la tradition bouddhiste, Bouddha a choisi de s'incarner entre autres sous la forme d'un éléphant blanc, et l'apparition de cet animal exceptionnel est toujours considérée comme une manifestation des dieux.
+            <p/>Des fossiles des ancêtres de l'éléphant indiquent que celui-ci a autrefois vécu sur l'ensemble des continents, à l'exception de l'Australie et de l'Antarctique ; aujourd'hui, l'habitat de l'éléphant se limite à l'Afrique et à certaines régions d'Asie du Sud-Est. Les éléphants occupent tout un éventail d'environnements en Afrique et en Asie du Sud-Est : prairies, marécages, forêts, déserts et montagnes. Ce sont des herbivores qui ont besoin de grandes quantités de nourriture pour entretenir leur taille massive. Ils ont également besoin de boire beaucoup et doivent donc rester dans des zones offrant suffisamment de végétaux et de l'eau en quantité.
+            <p/>Même de petits troupeaux ne comptant que quelques individus peuvent rapidement épuiser les ressources en nourriture et en eau d'une zone, ce qui les force à toujours se déplacer. Un troupeau d'éléphants migre en fonction des saisons pour chercher de nouvelles ressources, selon un vaste circuit et son territoire habituel peut dépasser les 1 500 km carrés. Dans sa quête de nourriture, un éléphant peut parcourir 5 à 10 000 km par an, ce qui constitue la plus longue migration mammifère jamais enregistrée.
+            <p/>Éléphants d'Afrique et d'Asie se différencient par la taille, la couleur, ainsi que d'autres caractéristiques physiques. L'éléphant d'Afrique est reconnaissable à sa taille plus imposante et à ses plus larges oreilles qui couvrent ses épaules. Le mâle peut mesurer jusqu'à 4 m et peser jusqu'à 7 tonnes. La femelle est plus petite, 2,80 m en moyenne, et nettement moins lourde, environ 3,6 tonnes. L'éléphant d'Afrique est de teinte gris clair, bien qu'il puisse paraître gris foncé, rouge ou brun à cause de la boue dans laquelle il se roule. Il possède un front bas et plat et un dos légèrement ensellé. Ses oreilles évasées mesurent en moyenne 1,50 m de long sur 1,20 m de large. La femelle comme le mâle possèdent de longues défenses incurvées. 
+            <p/>L'éléphant d'Asie est plus petit et plus trapu que son cousin africain, et ses oreilles n'atteignent pas ses épaules. En moyenne, un mâle mesure 3 m et pèse 2,3 tonnes, soit environ la moitié du poids d'un éléphant mâle d'Afrique. La femelle atteint une taille moyenne de 2,40 m et pèse environ 3 tonnes. L'éléphant d'Asie possède une peau gris foncé, un front bombé et un dos arrondi. Ses oreilles mesurent en moyenne 75 cm de long sur 60 cm de large. Les défenses de la femelle peuvent être absentes ou sous-développées. 
+            <p/>En dépit de son poids important, l'éléphant se déplace presque silencieusement et avec une grâce exceptionnelle, ses pattes en colonne gardant sa masse en mouvement dans une foulée rythmée et régulière. L'épais coussin de tissu élastique qui couvre le talon permet d'amortir le choc de ses pas. Les doigts participent à l'équilibre du poids lors de la marche. L'éléphant se déplace habituellement à la vitesse de 6 km/h, mais il peut charger à quelque 40 km/h. Il ne peut pas galoper ou sauter des fossés, mais peut aisément traverser des fleuves et des lacs, l'eau supportant son poids et lui permettant de nager sur de longues distances sans se fatiguer.
+            <p/>Les défenses de l'éléphant, paire d'incisives supérieures (dents) très allongées, sont les plus grandes et les plus lourdes de tous les animaux existants. Elles lui servent à creuser pour trouver des racines ou de l'eau, à arracher l'écorce des arbres pour se nourrir, à combattre ses congénères durant la période du rut et, dans le cas des éléphantes d'Afrique, à protéger les éléphanteaux des prédateurs tels que les lions et les tigres. Chez le petit, les premières incisives sont remplacées après 6 à 12 mois et la seconde paire, qui deviendra les défenses, pousse d'environ 17 cm par an tout au long de sa vie. La croissance des défenses est déterminée par la génétique et la nourriture et, au cours des ans, l'usure normale en réduit la longueur. Une défense de mâle africain pèse habituellement 20 à 45 kg pour une longueur de 1,80 à 2,40 m. Chez l'éléphant d'Asie, les défenses d'un mâle adulte mesurent en moyenne 1,50 m pour un poids de 30 kg. Parce que ses défenses sont plus massives et que mâle et femelle en sont dotés, l'éléphant d'Afrique est davantage recherché que son cousin d'Asie par les chasseurs d'ivoire.
+            <p/>L'éléphant possède au total quatre molaires, dont les contours dentelés lui permettent de broyer feuilles, tiges et racines. Une seule dent peut peser plus de 5 kg et mesurer 30 cm de long. La première paire de molaires se trouve à l'avant de la bouche ; lorsque ces dents s'usent, elles s'effritent tandis que les deux molaires arrière progressent vers l'avant des mâchoires. Deux nouvelles molaires sortent alors à l'arrière de la bouche afin de remplacer les anciennes. Les molaires arrière d'un éléphant sont remplacées six fois au cours de sa vie. Lorsque la dernière paire de molaires vient à tomber, à savoir entre 40 et 60 ans, l'éléphant ne peut plus mâcher la nourriture et meurt de faim. Une fin assez courante chez les éléphants.
+            <p/>La peau de l'éléphant est dépourvue de glande sudoripare ; aussi ses oreilles font-elles office de régulateur de chaleur : en les agitant, un éléphant met les nombreux vaisseaux sanguins de chaque oreille en contact avec l'air, ce qui rafraîchit le sang avant que celui-ci ne circule à nouveau dans tout son corps. Ce mécanisme de refroidissement peut expliquer pourquoi l'éléphant d'Afrique, qui évolue sous un climat chaud, possède des oreilles plus grandes que son cousin d'Asie, qui vit dans une région plus froide. L'éléphant possède une queue dépourvue de poils mais dont l'extrémité est dotée d'un maigre plumeau, précieux outil qui lui permet de chasser les mouches qui l'empoisonnent. Cette queue peut peser 10 kilos.
+            <p/>La vue de l'éléphant est mauvaise et ses yeux sont de petite taille en comparaison de son énorme tête, laquelle peut seulement pivoter légèrement d'un côté et de l'autre. Ce manque de mobilité se traduit par une vision latérale limitée, l'éléphant étant obligé de déplacer tout son corps pour élargir son champ de vision. Ses autres sens (ouïe, odorat, goût et toucher) sont en revanche très développés. L'organe le plus sensible est la trompe, qu'il utilise fréquemment afin de détecter les odeurs (de nourriture notamment) portées par le vent et de flairer les éventuels dangers. L'éléphant est capable de sentir l'eau à de grandes distances et de distinguer des sons à plus d'un kilomètre. 
+            <p/>L'éléphant affiche un comportement social complexe, vivant en petits groupes familiaux unis à la structure matriarcale (dirigés par les femelles les plus vieilles). Les familles sont composées des sœurs, cousines, tantes et nièces et de leur progéniture. La taille d'un groupe est variable : de 2 à 29 individus. Ces animaux peuvent rester ensemble toute leur vie. Si une famille devient trop importante, quelques femelles la quittent pour fonder un nouveau troupeau. Les membres de la famille se baignent, cherchent leur nourriture et se déplacent en groupe. Les membres de la famille s'éloignent peu de la femelle dominante (une quarantaine de mètres), maintenant le contact par leurs appels. S'ils viennent à être séparés, même pour quelques heures, ils marquent leur réunion par une cérémonie de retrouvailles élaborée, en courant, grondant, tournant, barrissant, déféquant, urinant, entrechoquant leurs défenses et frottant leur tête sur le corps des autres éléphants. La famille défend également les jeunes, les malades, les anciens et les infirmes contre les prédateurs. Lorsque la femelle dominante vient à mourir, c'est généralement la femelle la plus âgée qui lui succède à la tête de la famille.
+            <p/>Les éléphants communiquent entre eux à l'aide de signaux tactiles, auditifs, olfactifs et visuels. Le toucher s'effectue principalement au moyen de la trompe et peut aller de la simple caresse d'une femelle pour son petit à une claque disciplinaire que la matriarche administre à un jeune mâle indiscipliné. Les éléphants communiquent également en se bousculant, en donnant des coups de pied et en se frottant les uns contre les autres.
+            <p/>Les éléphants élèvent également le ton pour communiquer, barrissant en guise d'avertissement ou de bienvenue à l'adresse d'autres éléphants se trouvant à proximité. Ces animaux produisent aussi des grondements à basse fréquence, capables de voyager sur de grandes distances et d'atteindre les oreilles d'éléphants se trouvant à plusieurs kilomètres de là. Des recherches récentes montrent que les éléphants communiquent également au moyen d'infrasons, inaudibles pour l'oreille humaine.
+            <p/>La communication de l'éléphant inclut la sécrétion de différentes phéromones dans l'urine ou les excréments. Ces signaux chimiques odorants peuvent être détectés par les éléphants se trouvant à proximité ou être transportés par la brise sur de grandes distances. Les sécrétions des glandes pendant la période du rut, ou « musth », véhiculent également des messages olfactifs. De plus, l'éléphant s'exprime au travers de différentes postures. Ainsi, un éléphant d'Afrique va déployer ses larges oreilles et les agiter tout en maintenant sa trompe contre son corps pour indiquer qu'il s'apprête à charger. 
+            <p/>De nombreux ouvrages ont été consacrés à la vie affective des éléphants. L'observation de ces animaux dans leur milieu naturel a montré qu'ils étaient loyaux et affectueux, prêts à risquer leur vie pour sauver d'autres membres du groupe familial. Dans leur milieu naturel, les éléphants sont connus pour célébrer la naissance de leurs petits et pour montrer de la peine, voire même verser des larmes à la mort d'un membre de la famille. En captivité, l'éléphant peut s'attacher à un soigneur particulier, refusant de coopérer avec toute autre personne.
+            <p/>Contribution de :<br/>David George Gordon
+            <p/>Révision de :<br/>Russ Roach
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Avec le concours de la <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Collection Microsoft (R) Encarta (R) 2004.</color></u></a>(C) 1993-2003 Microsoft Corporation. Tous droits réservés.
+         </cell>
+      </text>
+   </zoopedia_elephantasian>
+</ZT2Strings>

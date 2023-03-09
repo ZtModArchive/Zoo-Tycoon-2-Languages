@@ -1,0 +1,53 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_rewardobjects" version="2"/>
+      <LOC_STRING _locID="zoopedia_rewardobjects:entry" version="2">Belöningsföremål</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_rewardobjects:text" version="2">
+         <color r="255" g="255" b="255">
+            <cell pady="0" width="1000"/>
+            <p/>
+            <cell width="260"/>
+            <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+               <cell width="600" padx="20" pady="20">
+Du kan få belöningsföremål genom att vinna <a href="zoopedia:zoopedia_awards:entry"><u><color r="255" g="231" b="135">utmärkelser,</color></u></a> utmaningsspel <a href="zoopedia:zoopedia_challenge:entry"><u><color r="255" g="231" b="135">utmaningar,</color></u></a>eller slutföra kampanjer <a href="zoopedia:zoopedia_campaign:entry"><u><color r="255" g="231" b="135">kampanjer.</color></u></a>
+<p/>
+I fönstret Utmärkelser visas alla belöningsföremål som du kan vinna. Du öppnar fönstret Utmärkelser genom att klicka på Visa berömmelsenivå och välja fliken Utmärkelser.
+               </cell>
+            </cell>
+         </color>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_layingdownroads" version="2"/>
+      <LOC_STRING _locID="zoopedia_layingdownroads:entry" version="2">Placera ut vägar</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_layingdownroads:text" version="2">
+         <color r="255" g="255" b="255">
+            <cell pady="0" width="1000"/>
+            <p/>
+            <cell width="260"/>
+            <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+               <cell width="600" padx="20" pady="20">
+För att kunna använda jeeparna behöver du minst en jeepstation och en komplett rundtur. När vägen är klar öppnas jeepstationen och du kan börja köpa jeepar. Placera ut en gångväg till stationsingången så att besökarna kan gå in och ut.
+<p/>
+Observera att alla vägar är enkelriktade (du kan ändra färdriktning vid en jeepstation). För att rundturen ska fungera får det inte finnas återvändsgator eller saknas väg.
+               </cell>
+            </cell>
+         </color>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_tours" version="2"/>
+      <LOC_STRING _locID="zoopedia_tours:entry" version="2">Rundturer</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_tours:text" version="2">
+         <color r="255" g="255" b="255">
+            <cell pady="0" width="1000"/>
+            <p/>
+            <cell width="260"/>
+            <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+               <cell width="600" padx="20" pady="20">
+Besökarna älskar spännande rundturer. Ju mer rundturen uppskattas av besökarna, desto högre betyg får den och ju högre betyg du får, desto mer donationer får du!
+     <p/>
+Besökarna tycker särskilt om att titta på djur, byggnader, växter och stenar (i passande biotop) och temaobjekt såsom byggnader, fontäner, valvbågar, blomsterpelare och rundtursföremål (om sådana finns).
+     <p/>
+Besökarna vill att rundturerna ska vara varierande. De kan bli uttråkade om de får se för mycket av samma sak under en och samma rundtur.                           
+               </cell>
+            </cell>
+         </color>
+      </LOC_STRING>  
+   
+</ZT2Strings>

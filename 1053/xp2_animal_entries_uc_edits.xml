@@ -1,0 +1,208 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_sharkwhite" version="10"/>
+      <LOC_STRING _locID="zoopedia_sharkwhite:entry" version="10">Vithaj</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_sharkwhite:text" version="10">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+
+               <cell width="284">
+            <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+              <img src="entities/units/animals/SharkWhite/SharkWhite_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+            </cell>
+             <cell width="16">
+              <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+             </cell>
+             <cell width="16">
+              <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+             </cell>
+             <cell width="156"/>
+                  <br/>
+                  <cell width="32" pady="0">
+                     <img src="ui/zoopedia/vulnerable.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Hotstatus:
+                     <br/>
+                        <color r="255" g="255" b="0">
+                     Sårbar
+                        </color>
+                     </color>
+                  </cell>
+               </cell>
+         <cell width="128">
+          <color r="255" g="255" b="255">Bentisk<br/></color>
+          <img src="ui/icon_biomes/icon_benthic.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+         </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Kuster över hela världen</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/benthic_coasts_worldwide.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Klass: Broskfiskar <i>(Chondrichthyes)</i>
+                  <br/>
+                  Ordning: <i>Lamniformes</i>
+                  <br/>
+                  Familj: <i>Lamnidae</i>
+                  <br/>
+                  Släkte: <i>Carcharodon</i>
+                  <br/>
+                  Art: <i>carcharias</i>
+                  </color>
+               </cell>
+         <cell width="256" pady="10">
+          <img src="UI/zoopedia/biome/benthic_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+         </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Roliga fakta om Vithaj</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Vithajar är bara vita på undersidan. Ryggen är blågrå.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Vithajar är mycket bra på att simma lodrätt, vilket är anledningen till att de ofta attackerar sitt byte underifrån.</color>
+               </cell>
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">Om du vill låsa upp vithajen i utmanings- eller kampanjspel måste din djurpark ha 5 stjärnor i berömmelsebetyg.</color>
+            <p/>The great white shark has a conical instead of flattened snout, black eyes, and large, serrated, arrowhead-shaped teeth. The upper and lower lobes of the tail are almost equal in size, and the body is blue- or brown-gray, not white, except on the underside.
+        <p/>
+        Although the great white shark is notorious as a movie villain, little information exists about its behavior. One of the largest specimens caught was off Montauk, Long Island, New York, in 1964; it was 5.34 m (17.5 ft) long and weighed an estimated 2,043 kg (4,500 lb). White sharks swallow unchewed creatures and objects half their size, especially seals, dolphins, turtles, other sharks, chunks of whale, fish, and ship's garbage. Between 1916 and 1969, there were 32 attacks on swimmers, resulting in 13 deaths, attributed to white sharks. On three occasions white sharks were reported to have attacked boats, sinking one of them, a dory, off Cape Breton, Nova Scotia, Canada. Off Australian coasts, where most of the big-game specimens are taken, one female, recognized by its scars, returned for 13 years.
+        <p/>
+        Although the white shark exhibits great strength and terrifies humans with whom it happens to come in contact, most authorities agree that its villainous reputation is undeserved. Some specialists believe it is endangered due to its shrinking food sources and overfishing by trophy hunters.
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Innehållet har hämtats från <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft® Encarta® 2006.</color></u></a> © 19932005 Microsoft Corporation. Med ensamrätt.
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_sharkgoblin" version="2"/>
+      <LOC_STRING _locID="zoopedia_sharkgoblin:entry" version="2">Shark, Goblin</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_sharkgoblin:text" version="2">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+
+               <cell width="284">
+            <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+              <img src="entities/units/animals/SharkGoblin/SharkGoblin_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+            </cell>
+             <cell width="16">
+              <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+             </cell>
+             <cell width="16">
+              <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+             </cell>
+             <cell width="156"/>
+                  <br/>
+            <cell width="32" pady="0">
+              <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+            </cell>
+            <cell width="224" padx="10" pady="0">
+              <color r="255" g="255" b="255">
+              Conservation Status:
+              <br/>
+                <color r="255" g="255" b="0">
+              Low Risk
+                </color>
+              </color>
+          </cell>
+               </cell>
+         <cell width="128">
+          <color r="255" g="255" b="255">Benthic<br/></color>
+          <img src="ui/icon_biomes/icon_benthic.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+         </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Warm Oceans Worldwide</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/benthic_warm_oceans_worldwide.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Class: Cartilaginous Fishes <i>(Chondrichthyes)</i>
+                  <br/>
+                  Order: <i>Lamniformes</i>
+                  <br/>
+                  Family: <i>Mitsukurinidae</i>
+                  <br/>
+                  Genus: <i>Mitsukurina</i>
+                  <br/>
+                  Species: <i>owstoni</i>
+                  </color>
+               </cell>
+         <cell width="256" pady="10">
+          <img src="UI/zoopedia/biome/benthic_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+         </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Fun Goblin Shark Facts</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">The goblin shark is so named because, frankly, it’s really ugly.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">The species name "owstoni" comes from Alan Owston, a Victorian British naturalist.</color>
+               </cell>
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">To unlock the goblin shark in challenge or campaign games, you must earn a 4-star zoo fame rating for your zoo.</color>
+            <p/>The goblin shark is a deep-water shark that is rarely seen in shallow coastal waters or anywhere on the surface of the ocean. Its skin is pinkish-white with blue fins, and it has a long, flat nose that protrudes separately from its very large mouth.
+        <p/>
+        It is also a fairly large shark. Males have been measured at 3.8 m (or 12.5 ft) long. It feeds on other bottom-dwelling animals: shrimps, octopus, squid, and sometimes even crabs. Because it stays in deep water, it almost never comes into contact with humans in the wild.
+        <p/>
+        The goblin shark is thought to be globally dispersed. Actual sightings of this species have come off the coasts of Japan, Australia, and southern Africa.
+         </cell>
+      </LOC_STRING>
+
+</ZT2Strings>

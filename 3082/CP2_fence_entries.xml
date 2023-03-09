@@ -1,0 +1,49 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_extinctfence:entry">Valla del tema animales extinguidos</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_extinctfence:text">
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\objects\fences\extinct_xt\extinct_xt_icon.dds" sx="0" sy="0" sw="64" sh="64"/>   
+      <img src="entities\objects\fences\lowextinct_xt\lowextinct_xt_icon.dds" sx="0" sy="0" sw="64" sh="64"/>     
+      <p/>
+	La valla de animales extinguidos es más adecuada para las instalaciones de animales extinguidos y los espacios públicos cercanos. Las vallas, tanto altas como bajas, pueden contener a los animales extinguidos menos agresivos.
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_extinctwindowfence:entry">Valla con ventanas del tema animales extinguidos</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_extinctwindowfence:text">
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\objects\fences\extinctwindow_xt\extinctwindow_xt_icon.dds" sx="0" sy="0" sw="64" sh="64"/>     
+      <p/>
+	A los visitantes les encanta la valla de ventanas de animales extinguidos. Contiene a los animales extinguidos y ofrece una buena vista a los visitantes.
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_electricfence:entry">Valla eléctrica</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_electricfence:text">
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\objects\fences\electric_fence\electricfence_icon.dds" sx="0" sy="0" sw="64" sh="64"/>     
+      <p/>
+	Esta vaya electrificada, que constituye una alternativa más rápida y ligera a la valla de dinosaurio, debería ser suficiente para mantener controlados a sus dinosaurios más pequeños.
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+
+</ZT2Strings>

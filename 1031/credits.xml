@@ -1,0 +1,634 @@
+<ZT2Strings>
+      <LOC_STRING _locID="credits:headingxtralarge">
+         <font name="arial" image="ui/font/color_mainmenu.tga" size="40">
+            <color r="255" g="187" b="68" a="255">
+               <b>%text%</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="credits:headinglarge">
+         <font name="arial" image="ui/font/color_mainmenu.tga" size="36">
+            <color r="255" g="197" b="78" a="255">
+               <b>%text%</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="credits:headingmedium">
+         <font name="arial" image="ui/font/color_mainmenu.tga" size="28">
+            <color r="255" g="197" b="78" a="255">
+               <b>%text%</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="credits:headingsmall">
+         <font name="arial" image="ui/font/color_mainmenu.tga" size="20">
+            <color r="255" g="197" b="78" a="255">
+               <b>%text%</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="credits:headingname">
+         <font name="arial" size="28">
+            <color r="255" g="217" b="98" a="255">
+               <b>%text%</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="credits:headingnamemedium">
+         <font name="arial" size="24">
+            <color r="255" g="217" b="98" a="255">
+               <b>%text%</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="credits:headingnamesmall">
+         <font name="arial" size="15">
+            <color r="255" g="217" b="98" a="255">
+               <b>%text%</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="credits:xp2headingxtralarge">
+         <font name="arial" image="ui/font/color_mainmenu.tga" size="40">
+            <color r="210" g="215" b="210" a="255">
+               <b>%text%</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="credits:xp2headinglarge">
+         <font name="arial" image="ui/font/color_mainmenu.tga" size="36">
+            <color r="210" g="215" b="210" a="255">
+               <b>%text%</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="credits:xp2headingmedium">
+         <font name="arial" image="ui/font/color_mainmenu.tga" size="28">
+            <color r="210" g="215" b="210" a="255">
+               <b>%text%</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="credits:xp2headingsmall">  
+         <font name="arial" image="ui/font/color_mainmenu.tga" size="20">
+            <color r="210" g="215" b="210" a="255">
+               <b>%text%</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="credits:xp2headingname">
+         <font name="arial" size="28">
+ 				<color r="227" g="184" b="102" a="255">
+               <b>%text%</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="credits:xp2headingnamemedium">
+         <font name="arial" size="24">
+ 				<color r="227" g="184" b="102" a="255">
+               <b>%text%</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="credits:xp2headingnamesmall">
+         <font name="arial" size="15">
+ 				<color r="227" g="184" b="102" a="255">
+               <b>%text%</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="credits:zoo2">Zoo Tycoon 2</LOC_STRING>
+      <LOC_STRING _locID="credits:devteam">ENTWICKLUNGSTEAM</LOC_STRING>
+      <LOC_STRING _locID="credits:management">BLUE FANG MANAGEMENT</LOC_STRING>
+      <LOC_STRING _locID="credits:additional">ZUSÄTZLICHER SUPPORT</LOC_STRING>
+      <LOC_STRING _locID="credits:microsoftdevteam">MICROSOFT ENTWICKLUNGSTEAM</LOC_STRING>
+      <LOC_STRING _locID="credits:executiveproducer">Produktionsleitung</LOC_STRING>
+      <LOC_STRING _locID="credits:producer">Produktion</LOC_STRING>
+      <LOC_STRING _locID="credits:leaddesigner">Verantwortlicher Design</LOC_STRING>
+      <LOC_STRING _locID="credits:projectmanager">Projektmanagement</LOC_STRING>
+      <LOC_STRING _locID="credits:projectartmanager">Künstl. Projektmanagement</LOC_STRING>
+      <LOC_STRING _locID="credits:projectdesignmanager">Projektdesign Management</LOC_STRING>
+      <LOC_STRING _locID="credits:projectengineeringmanager">Projekttechnik Management</LOC_STRING>
+      <LOC_STRING _locID="credits:projectqamanager">Projekt-QA Management</LOC_STRING>
+      <LOC_STRING _locID="credits:testingmanager">Testmanagement</LOC_STRING>
+      <LOC_STRING _locID="credits:associateproducer">Partner Produktion</LOC_STRING>
+      <LOC_STRING _locID="credits:technicaldesigner">Technisches Projektmanagement</LOC_STRING>
+      <LOC_STRING _locID="credits:leadprogrammer">Leitender Programmierer</LOC_STRING>
+      <LOC_STRING _locID="credits:engineeringleads">Verantwortliche Technik</LOC_STRING>
+      <LOC_STRING _locID="credits:artmanager">Künstlerischer Manager</LOC_STRING>
+      <LOC_STRING _locID="credits:artdirector">Künstlerische Leitung</LOC_STRING>
+      <LOC_STRING _locID="credits:engineeringdirector">Technische Leitung</LOC_STRING>
+      <LOC_STRING _locID="credits:artlead">Verantwortlicher Grafik</LOC_STRING>
+      <LOC_STRING _locID="credits:additionalengineering">Zusätzliche Technik</LOC_STRING>
+      <LOC_STRING _locID="credits:usertesting">Anwendertests</LOC_STRING>
+      <LOC_STRING _locID="credits:audiolead">Verantwortliche Studio</LOC_STRING>
+      <LOC_STRING _locID="credits:audiodirector">Verantw. Audio</LOC_STRING>
+      <LOC_STRING _locID="credits:designlead">Verantwortlicher Design</LOC_STRING>
+      <LOC_STRING _locID="credits:leadtester">Verantw. Tests</LOC_STRING>
+      <LOC_STRING _locID="credits:setup">Setup</LOC_STRING>
+      <LOC_STRING _locID="credits:printdesignleads">Verantwortliche Druckdesign</LOC_STRING>
+      <LOC_STRING _locID="credits:additionaldesign">Design (Weitere)</LOC_STRING>
+      <LOC_STRING _locID="credits:devlead">Verantwortlicher Entwicklung</LOC_STRING>
+      <LOC_STRING _locID="credits:projectartdirector">Künstlerische Projektleitung</LOC_STRING>
+      <LOC_STRING _locID="credits:techartdirector">Technisch-künstler. Leitung</LOC_STRING>
+      <LOC_STRING _locID="credits:techartist">Technisch-künstlerische Leitung</LOC_STRING>
+      <LOC_STRING _locID="credits:animationlead">Verantwortlicher Animation</LOC_STRING>
+      <LOC_STRING _locID="credits:designtest">Entwickler/Tests Softwaredesign</LOC_STRING>
+      <LOC_STRING _locID="credits:designteam">Design-Team</LOC_STRING>
+      <LOC_STRING _locID="credits:pssteam">Team PSS</LOC_STRING>
+      <LOC_STRING _locID="credits:studiomanagement">Studiomanagement</LOC_STRING>
+      <LOC_STRING _locID="credits:engineeringteam">Technik-Team</LOC_STRING>
+      <LOC_STRING _locID="credits:artteam">Grafik-Team</LOC_STRING>
+      <LOC_STRING _locID="credits:testing">Qualitätssicherung</LOC_STRING>
+      <LOC_STRING _locID="credits:testingteam">Team Tests</LOC_STRING>
+      <LOC_STRING _locID="credits:sound">Sound- und Musikproduktion</LOC_STRING>
+      <LOC_STRING _locID="credits:production">Produktion</LOC_STRING>
+      <LOC_STRING _locID="credits:productionassistant">Produktionsassistent</LOC_STRING>
+      <LOC_STRING _locID="credits:marketing">Marketing</LOC_STRING>
+      <LOC_STRING _locID="credits:marketingandpr">Marketing und PR</LOC_STRING>
+      <LOC_STRING _locID="credits:business">Geschäftsabteilung</LOC_STRING>
+      <LOC_STRING _locID="credits:support">Support</LOC_STRING>
+      <LOC_STRING _locID="credits:ceo">Geschäftsführer &amp; Gestalter</LOC_STRING>
+      <LOC_STRING _locID="credits:coo">Operative Geschäftsleitung</LOC_STRING>
+      <LOC_STRING _locID="credits:president">Vorsitzender der Geschäftsführung</LOC_STRING>
+      <LOC_STRING _locID="credits:vpsoftware">VP Advanced Technology</LOC_STRING>
+      <LOC_STRING _locID="credits:additionalweb">Entwicklung von Webinhalten (Weitere)</LOC_STRING>
+      <LOC_STRING _locID="credits:additionalanimation">Grafik- und Animationsproduktion</LOC_STRING>
+      <LOC_STRING _locID="credits:movies">Zoo Tycoon 2-Intro und Blue Fang-Logo Filme</LOC_STRING>
+      <LOC_STRING _locID="credits:programmanager">Programm-Management</LOC_STRING>
+      <LOC_STRING _locID="credits:addprogrammng">Programm-Management (Weitere)</LOC_STRING>
+      <LOC_STRING _locID="credits:artdirection">Künstlerische Leitung</LOC_STRING>
+      <LOC_STRING _locID="credits:addart">Künstlerischer Support (Weitere)</LOC_STRING>
+      <LOC_STRING _locID="credits:devmanager">Entwicklung Management</LOC_STRING>
+      <LOC_STRING _locID="credits:addprogram">Programmierung (Weitere)</LOC_STRING>
+      <LOC_STRING _locID="credits:gamedesignmanager">Spieldesign Management</LOC_STRING>
+      <LOC_STRING _locID="credits:adddesignsupport">Spieldesign-Support (Weitere)</LOC_STRING>
+      <LOC_STRING _locID="credits:businessmanagement">Geschäftsleitung</LOC_STRING>
+      <LOC_STRING _locID="credits:userexpteam">Team Benutzerfahrung (UX-Team)</LOC_STRING>
+      <LOC_STRING _locID="credits:contentcoordination">Koordination Inhalt</LOC_STRING>
+      <LOC_STRING _locID="credits:webcommunityteam">Web- &amp; Community-Team</LOC_STRING>
+      <LOC_STRING _locID="credits:playtest">Anwendbarkeits- und Spieltests</LOC_STRING>
+      <LOC_STRING _locID="credits:marketingteam">Marketing-Team</LOC_STRING>
+      <LOC_STRING _locID="credits:prteam">PR-Team</LOC_STRING>
+      <LOC_STRING _locID="credits:testmanager">Management Tests</LOC_STRING>
+      <LOC_STRING _locID="credits:projecttestlead">Verantwortlicher Projekttests</LOC_STRING>
+      <LOC_STRING _locID="credits:testteam">Team Tests</LOC_STRING>
+      <LOC_STRING _locID="credits:test_temp">QA Tester (Temp)</LOC_STRING>
+      <LOC_STRING _locID="credits:windowscompteam">Team Windows-Kompatibilität</LOC_STRING>
+      <LOC_STRING _locID="credits:reconteam">Team Recon</LOC_STRING>
+      <LOC_STRING _locID="credits:setupteam">Team Setup</LOC_STRING>
+      <LOC_STRING _locID="credits:studioleads">Verantwortliche Studio</LOC_STRING>
+      <LOC_STRING _locID="credits:localization">Programm-Manag. Lokalisierung</LOC_STRING>
+      <LOC_STRING _locID="credits:irelandteam">Team Irland</LOC_STRING>
+      <LOC_STRING _locID="credits:japanteam">Team Japan</LOC_STRING>
+      <LOC_STRING _locID="credits:bgsj">BGSJ</LOC_STRING>
+      <LOC_STRING _locID="credits:koreateam">Team Korea</LOC_STRING>
+      <LOC_STRING _locID="credits:taiwanteam">Team Taiwan</LOC_STRING>
+      <LOC_STRING _locID="credits:sbsi">(Siemens Business Services Inc)</LOC_STRING>
+      <LOC_STRING _locID="credits:rad">MPEG Layer-3 Wiedergabe, mit Miles Sound System von RAD Game Tools, Inc., MPEG Layer-3 Audiokomprimierungstechnik, lizenziert vom Fraunhofer IIS u. THOMSON multimedia.</LOC_STRING>
+      <LOC_STRING _locID="credits:miles">Unter Verwendung von Miles Sound System Copyright 1991 - 2002 RAD Game Tools, Inc.</LOC_STRING>
+      <LOC_STRING _locID="credits:bink">Unter Verwendung von Bink Video Copyright © 1997 - 2004 RAD Game Tools, Inc.</LOC_STRING>
+      <LOC_STRING _locID="credits:gamebryo">Teile dieser Software sind unter Lizenz von (c)1997-2004 Numerical Design, Ltd. Alle Rechte vorbehalten. Gamebryo® ist eine eingetr. Marke von Numerical Design, Ltd.</LOC_STRING>
+      <LOC_STRING _locID="credits:rapan">Zusätzliche Grafik- und Animationsproduktion von Rapan - www.rapan.com</LOC_STRING>
+      <LOC_STRING _locID="credits:liquid_dev">Zusätzliche Grafik- und Animationsproduktion von Liquid Development - www.liquiddevelopment.com</LOC_STRING>
+      <LOC_STRING _locID="credits:new_pencil">Zoo Tycoon 2-Intro und Blue Fang-Logo-Filme von New Pencil - www.newpencil.com</LOC_STRING>
+      <LOC_STRING _locID="credits:dsonic">Musik und Soundeffekte von dSonic - www.dsonicaudio.com</LOC_STRING>
+      <LOC_STRING _locID="credits:additionalanimationandart">Grafik- und Animationsproduktion</LOC_STRING>
+      <LOC_STRING _locID="credits:soundeffects">Soundeffekte</LOC_STRING>
+      <LOC_STRING _locID="credits:jeeptrademark">Jeep® ist eine eingetragene Marke der DaimlerChrysler Corporation.</LOC_STRING>
+      <LOC_STRING _locID="credits:bluefangthanks">Blue Fang dankt</LOC_STRING>
+      <LOC_STRING _locID="credits:zrmanagement">Team ZR-Studiomanagement</LOC_STRING>
+      <LOC_STRING _locID="credits:msprojectteam">Microsoft Projekt-Team</LOC_STRING>
+      <LOC_STRING _locID="credits:businessdev">Geschäftsentwicklung</LOC_STRING>
+      <LOC_STRING _locID="credits:msdevteam">MICROSOFT ENTWICKLUNGSTEAM</LOC_STRING>
+      <LOC_STRING _locID="credits:msdesignteam">Microsoft Design-Team</LOC_STRING>
+      <LOC_STRING _locID="credits:userresearch">Benutzerforschung</LOC_STRING>
+      <LOC_STRING _locID="credits:userexperience">Benutzererfahrung</LOC_STRING>
+      <LOC_STRING _locID="credits:printproduction">Printproduktion</LOC_STRING>
+      <LOC_STRING _locID="credits:msqateam">Microsoft-Team Qualitätssicherung</LOC_STRING>
+      <LOC_STRING _locID="credits:tntsupport">TnT-Support</LOC_STRING>
+      <LOC_STRING _locID="credits:configurationtest">Konfiguration Tests</LOC_STRING>
+      <LOC_STRING _locID="credits:productsupport">Produktsupport</LOC_STRING>
+      <LOC_STRING _locID="credits:korealocalteam">Team Lokalisierung Korea</LOC_STRING>
+      <LOC_STRING _locID="credits:irelandlocalteam">Team Lokalisierung Irland</LOC_STRING>
+      <LOC_STRING _locID="credits:taiwanlocalteam">Team Lokalisierung Taiwan</LOC_STRING>
+      <LOC_STRING _locID="credits:msglobalizationteam">Microsoft-Teams Globalisierung</LOC_STRING>
+      <LOC_STRING _locID="credits:korea">Korea</LOC_STRING>
+      <LOC_STRING _locID="credits:taiwan">Taiwan</LOC_STRING>
+      <LOC_STRING _locID="credits:dublin">Dublin</LOC_STRING>
+      <LOC_STRING _locID="credits:back_message">Drücken Sie ESC oder klicken Sie mit der linken Maustaste, um zum Hauptmenü zurückzukehren.</LOC_STRING>
+      <LOC_STRING _locID="credits:testingintern">Interne Tests</LOC_STRING>
+      <LOC_STRING _locID="credits:artintern">Grafik Intern</LOC_STRING>
+      <LOC_STRING _locID="credits:appengineeringlead">Verantw. Anwendungstechnik</LOC_STRING>
+      <LOC_STRING _locID="credits:coreengineeringlead">Technische Leitung</LOC_STRING>
+      <LOC_STRING _locID="credits:xp2miles">Zoo Tycoon 2: Marine Mania verwendet Miles Sound System, Copyright 1991 -2006 RAD Game Tools, Inc.</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:jr_surprenant">JR Surprenant</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:adam_levesque">Adam Levesque</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:jason_barlow">Jason Barlow</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:brian_shea">Brian Shea</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:fred_galpern">Fred Galpern</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:lou_catanzaro">Lou Catanzaro</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:alex_chouls">Alex Chouls</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:linda_currie">Linda Currie</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:steven_serafino">Steven Serafino</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:bart_simon">Bart Simon</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:shawn_stone">Shawn Stone</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:ike_adams">Ike Adams</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:tj_bordelon">TJ Bordelon</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:steve_gargolinski">Steve Gargolinski</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:ralph_hebb">Ralph Hebb</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:matt_kimmel">Matt Kimmel</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:mark_kolenski">Mark Kolenski</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:nathan_sitkoff">Nathan Sitkoff</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:john_wheeler">John Wheeler</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:david_wingrove">David Wingrove</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:eric_camara">Eric Camara</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:scott_downey">Scott Downey</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:mitch_fletcher">Mitch Fletcher</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:tom_gale">Thomas Gale</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:andre_gressieux">André Gressieux</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:zachary_morong">Zachary Morong</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:karla_zimonja">Karla Zimonja</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:richard_baker">Richard Baker</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:dan_sopel">Dan Sopel</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:joe_freemer">Joe Freemer</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:charles_miles">Charles Miles</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:scott_triola">Scott Triola</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:hank_howie">Hank Howie</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:vince_kraft_it">Vince Kraft - IT</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:vince_kraft">Vince Kraft</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:dina_spylios">Dina Spylios - Büroleitung</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:ron_clabo">Ron Clabo</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:jennifer_lesser">Jennifer Hrabota Lesser</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:michael_clark">Michael Clarke</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:brian_labore">Brian Labore</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:robert_jerauld">Robert Jerauld - Verant. Produktmanagm.</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:deanna_hearns">Deanna Hearns - Verant. Programm-Manag.</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:deanna_hearns_producer">Deanna Hearns - Produktion</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:jennifer_christensen">Jennifer Christensen</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:kevin_brown">Kevin Brown - Künstlerische Leitung</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:korey_kuriel">Korey Kuriel - Senior Grafik</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:stephane_duguay">Stephane Duguay</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:frank_klier">Frank Klier - Verantwortlicher Entwicklung</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:frank_klier_soft_dev_lead">Frank Klier - Verantwortlicher Software-Entwicklung</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:aaron_nicholls">Aaron Nicholls - Verantwortlicher Entwicklung</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:marc_scattergood">Marc Scattergood</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:thomas_zuccotti">Thomas Zuccotti - Spieldesign Management</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:thomas_zuccotti_director">Thomas Zuccotti - Leitung Design</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:howard_philips">Howard Philips - Spieldesigner</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:james_spahn">James Spahn - Geschäftsleitung</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:dana_fos">Dana Fos - UX-Management</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:kiki_mcmillan">Kiki McMillan - Verantwortl. UX, Sen. Writer</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:kiki_mcmillan_senior_writer">Kiki McMillan - Senior Writer</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:marti_mckenna">Marti McKenna (Volt) - Editor</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:louan_williams">LouAn Williams - Experte Lizenzierung</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:dave_pierot">Dave Pierot - </LOC_STRING>
+      <LOC_STRING _locID="devteamnames:web_content">Webinhalte und Community-Management</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:bradley_shelton">Bradley Shelton - Site-Management</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:reagan_wright">Reagan Wright (BlueBear Studio) - </LOC_STRING>
+      <LOC_STRING _locID="devteamnames:zoopedia_ui_design">Zoolexikon UI-Designer</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:dan_ivanov">Dan Ivanov (Siemens Business Services Inc) </LOC_STRING>
+      <LOC_STRING _locID="devteamnames:zoopedia_ui_dev">Zoolexikon UI-Entwickler</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:mark_burdick">Mark Burdick - Projektlverant.  Anwendertests</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:bill_fulton">Bill Fulton - Management Anwendertests</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:ramon_romero">Ramon Romero - Teamverant. Anwendertests</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:ramon_romero_lead">Ramon Romero - Verantwortlicher</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:keith_steury">Keith Steury - Teamverant. Anwendertests</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:melissa_federoff">Melissa Federoff</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:paul_burkhead">Paul Burkhead</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:user_test_assist">Assistenz Anwendertests</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:adam_kovach">Adam Kovach - Produktmanagement</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:ben_arndt">Ben Arndt - Produktmanagement</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:leslie_mcbride">Leslie McBride - Produktmanagement</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:jen_martin">Jen Martin - Management Öffentlichkeitsarbeit</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:humberto_castaneda">Humberto Castaneda - Management Tests (i. R.)</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:korey_krauskopf">Korey Krauskopf - Management Tests</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:andrew_binder">M. Andrew Binder - Verantwortl. Software-Tests</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:andrew_binder_project">Andrew Binder - Verantwortlicher Projekttests</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:bill_metters">Bill Metters - Senior Entwickler Tests</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:brandon_baker">Brandon Baker (Volt) - Partner Testabteilung</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:brishan_merrillbrown">Brishan Merrill-Brown (Volt) - Partner Testabt.</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:bryce_jones">Bryce Jones - Entwickler/Tests Softwaresesign</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:bryce_jones_test">Bryce Jones - Senior Projekt-Entwickler/Tests Software-Entwicklung</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:chris_lee">Chris Lee - Entwickler/Tests Softwaredesign</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:chris_lee_test">Chris Lee - Entwickler/Tests Software-Entwicklung</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:christopher_singleton">Christopher Singleton (Volt) - Entwickler Tests</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:clint_kreider">Clint Kreider (Volt) - Partner Testabteilung</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:david_alenick">David Alenick (Volt) - Entwickler Tests</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:david_eim">David Eim (Volt) - Entwickler Tests</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:jennifer_tunnell">Jennifer Tunnell (Volt) - Entwickler Tests</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:jeremy_williams">Jeremy Williams (Volt) - Partner Testabteilung</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:jon_burns">Jon Burns - Entwickler/Tests Softwaredesign</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:jon_burns_test">Jon Burns - Verantwortlicher Entwickler/Tests Software-Entwicklung</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:jon_heeren">Jon Heeren (Volt) - Entwickler Tests</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:keith_harris">Keith Harris - Verantwortlicher Software-Tests</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:marwan_jubran">Marwan Jubran -</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:software_design_engineer_test">Entwickler/Tests Softwaredesign</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:marwan_jubran_software">Marwan Jubran - Entwickler Softwaredesign</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:paul_gradwohl">Paul H. Gradwohl - Entwickler Softwaretests</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:paul_gradwohl_senior">Paul Gradwohl - Senior Entwickler Tests</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:ty_roberts">Ty Roberts (Volt) - Entwickler Tests</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:val_miller">Val Miller (Volt) - Entwickler Tests</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:julie_carpenter">Julie Carpenter (Volt) - Entwickler Tests</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:valerie_miller">Valerie Miller (Volt)</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:valerie_miller_designer">Valerie Miller (FILTER) - Design</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:patrick_ascolese">Patrick Ascolese - Verantwortlicher Tests</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:patrick_ascolese_compatibility">Patrick Ascolese - Verantwortlicher Kompatibilitäts-Tests</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:tim_kerns">Tim Kerns (Volt) - Entwickler Tests</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:xi_wu">Xi Wu (Volt) - Entwickler Tests</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:chad_herrewig">Chad Herrewig (Volt) - Entwickler Tests</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:rufus_marshall">Rufus Marshall (Volt) - Entwickler Tests</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:craig_marshall">Craig Marshall - Verantwortlicher Recon Playtest</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:chris_green">Chris Green (Volt) - Koordinator Recon Alpha</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:greg_frankovic">Greg Frankovic - Programm-Management</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:greg_frankovic_senior">Greg Frankovic - Senior Programm-Management</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:siemens">(Siemens Business Services Inc)</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:christopher_guthrie">Christopher Guthrie - Entwickler Setup</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:jason_brown">Jason Brown - Entwickler Setup</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:jason_brown_dev">Jason Brown (Siemens Business Services) - Entw./Tech.  Ausführung</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:julie_mccormack">Julie McCormack - Programm-Manag. Setup</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:sean_stroud">Sean Stroud - Entwickler Setup</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:bonnie_ross">Bonnie Ross - Studiomanagement</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:john_grande">John Grande - Verantw. Produktplanung</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:frank_pape">Frank Pape - Leiter, Geschäftsentwicklung</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:todd_stevens">Todd Stevens - Verantwortl. Geschäftsleitung</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:kyle_shannon">Kyle Shannon - Management Tests</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:ryan_haveson">Ryan Haveson - Programm-Manag. Teams</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:stacie_scattergood">Stacie Scattergood - Verwaltungsassistent</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:tim_znamenacek">Tim Znamenacek - Programm-Manag. Teams</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:tim_znamenacek_exec">Tim Znamenacek - Produktionsleitung</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:tony_cox">Tony Cox - Entwicklung Management</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:victoria_olson">Victoria Olson - Programm-Manag. Lokalisierung</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:david_foster">David Foster - Programm-Management</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:greg_ward">Greg Ward - Senior Programm-Management</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:john_twomey">John Twomey - Entwick./Tests Softwaredesign</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:paul_mckevitt">Paul McKevitt - Entwickler Softwaretests</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:takayuki_tsuchiya">Takayuki Tsuchiya - Programm-Management</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:kazuyuki_kumai">Kazuyuki Kumai - Management</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:kaoru_ito">Kaoru Ito - Programm-Manag. Lokalisierung</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:yutaka_hasegawa">Yutaka Hasegawa -</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:lead_software_design_engineer">Verantwortlicher Entwickler Softwaredesign</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:yuji_yoneshige">Y. Yoneshige - Verant. Entw. Softwaredesign</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:munetaka_fuse">Munetaka Fuse - Entwickler Softwaredesign</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:sachiko_nagasawa">Sachiko Nagasawa - Entwickler Software-Tests</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:kenichi_akiyama">Kenichi Akiyama - Entwickler Software-Tests</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:miyuki_nouguchi">Miyuki Nouguchi - Benutzerhilfe</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:mariko_kikuchi">Mariko Kikuchi - Entwickler Software-Tests</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:masaki_kokubun">Masaki Kokubun - Entwickler Software-Tests</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:fujiko_okabe">Fujiko Okabe - Entwickler Software-Tests</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:kazuya_kakizaki">Kazuya Kakizaki - Entwickler Software-Tests</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:masayo_ohara">Masayo Ohara - Assistent Programm-Manag.</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:yumiko_furukawa">Yumiko Furukawa - Verwaltungsassistent</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:atsushi_hori">Atsushi Hori - IP-Management</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:aya_kazama">Aya Kazama - Marketing</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:yoko_muto">Yoko Muto</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:junichi_taya">Junichi Taya</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:patrick_riley">Patrick Riley</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:ikuyo_tsukuda">Ikuyo Tsukuda</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:masayuki_kurasawa">Masayuki Kurasawa</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:yukihiko_kinoshita">Yukihiko Kinoshita</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:miyuki_iwai">Miyuki Iwai</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:hiroko_hirotani">Hiroko Hirotani</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:yoko_ohsine">Yoko Ohsine</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:yasuhiro_miyahara">Yasuhiro Miyahara</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:il_jin_park">Il Jin Park (Wise SerTech) -</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:software_test_engineer">Entwickler Software-Tests</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:jae_youn_kim">Jae Youn Kim - Programm-Management</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:whi_young_yoon">Whi Young Yoon (Wise SerTech) -</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:localization_program_manager">Programm-Management Lokalisierung</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:byung_soo_kim">Byung Soo Kim - Produktmanag. Marketing</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:carole_lin">Carole Lin (104) -</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:lana_peng">Lana Peng - Verantw. Programm-Management</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:lana_peng_program_manager">Lana Peng - Programm-Management</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:lilia_lee">Lilia Lee (104) - Tester</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:lilia_lee_test_associate">Lilia Lee (104) - Partner Testabteilung</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:wenchin_deng">Wen-Chin Deng - Entwickler Software-Tests</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:name">Name</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:deanna_hearns_program">Deanna Hearns</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:wesley_yanagi">Wesley Yanagi</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:frank_klier_name">Frank Klier</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:kevin_brown_lead">Kevin Brown</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:jim_hawk_name">Jim Hawk</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:mike_cody">Mike Cody</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:bob_settles_lead">Bob Settles</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:valerie_miller_add">Valerie Miller (FILTER)</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:dana_foss_ux">Dana Fos</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:kelly_bell_ux">Kelly Bell</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:john_sutherland">John Sutherland</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:jeannie_voirin-gerde">Jeannie Voirin-Gerde</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:kevin_goebel_test">Kevin Goebel</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:dan_amdur">Dan Amdur</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:andrew_binder_name">Andrew Binder</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:tim_duzmal_project">Tim Duzmal</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:prodipto_roy_test">Prodipto Roy</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:jeff_kafer_test">Jeff Kafer</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:justin_jones_test">Justin Jones</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:paul_gradwohl_test">Paul Gradwohl</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:bryce_jones_name">Bryce Jones</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:dennis_ham">Dennis Ham (VOLT)</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:greg_frankovic_pss">Greg Frankovic</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:phil_spencer">Phil Spencer</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:bonnie_ross_name">Bonnie Ross</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:tim_znamenacek_name">Tim Znamenacek</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:shannon_loftis">Shannon Loftis</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:laura_fryer">Laura Fryer</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:caesar_filori">Caesar Filori</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:muffy_bryan">Muffy Bryan</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:thomas_zuccotti_studio">Thomas Zuccotti</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:tony_cox_studio">Tony Cox</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:kevin_brown_studio">Kevin Brown</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:frank_pape_studio">Frank Pape</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:todd_stevens_studio">Todd Stevens</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:kyle_shannon_studio">Kyle Shannon</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:yasmine_nelson_local">Yasmine Nelson</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:steven_garrad">Steven Garrad</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:redmond_ohanlon_local">Redmond O'Hanlon</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:ian_walsh">Ian Walsh</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:tina_lin">Tina Lin</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:rita_thiede">Rita Thiede</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:jae_youn_kim_local">Jae Youn Kim</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:min_woo_lee">Min Woo Lee</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:lana_peng_local">Lana Peng</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:wen-chin_deng">Wen-chin Deng</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:scott_macmillan">Scott Macmillan</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:kelly_scott">Kelly Scott</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:kevin_bray">Kevin Bray</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:douglas_dasilva">Doug DaSilva</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:kevin_dill">Kevin Dill</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:mark_finch">Mark Finch</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:michael_johnson">Michael Johnson</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:ryan_mcmahon">Ryan McMahon</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:michael_ramsey">Michael Ramsey</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:bernie_rissmiller">Bernie Rissmiller</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:bj_johnson">B.J. Johnson</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:leonardo_montenegro">Leonardo Montenegro</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:keith_carpentier">Keith Carpentier</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:rich_vanderscoff">Rich Vanderscoff</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:stephan_wenninger">Stephan Wenninger</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:jeanpaul_lebreton">Jean-Paul LeBreton</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:george_valavanis">George Valavanis</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:rob_harrington">Rob Harrington - IT</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:jay_dee_alley">Jay Dee Alley</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:rapan">Rapan - www.rapan.com</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:liquid_dev">Liquid Development <br/> www.liquiddevelopment.com</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:new_pencil">New Pencil - www.newpencil.com</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:dsonic">dSonic - www.dsonicaudio.com</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:zoo_new_england">Zoo New England</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:franklin_park_zoo">Franklin Park Zoo</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:corporate_catering">Catering</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:brandon_stander">Brandon Stander - Produktmanagement</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:jim_hawk">James Spahn - Geschäftsleitung</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:jason_major">Jason Major - Verantwortlicher Software-Entwicklung</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:bob_settles">Bob Settles - Verantwortlicher Spieldesign</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:kevin_goebel">Kevin Goebel - Entwickler</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:dana_foss">Dana Fos - UX-Management</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:kelly_bell">Kelly Bell - Verantwortliche UX, Editor</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:jason_groce">Jason Groce - Writer</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:chris_lassen">Chris Lassen</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:greg_jones">Greg B. Jones - Management Teamtests</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:tim_duzmal">Tim Duzmal - Verantwortlicher Tests</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:justin_jones">Justin Jones - Entwickler Software-Tests</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:jeff_kafer">Kazuya Kakizaki - Entwickler Software-Tests</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:prodipto_roy">Chris Lee - Entwickler/Tests Software-Entwicklung</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:joe_djorgee">Joe Djorgee - Verantwortlicher Tests/Reserve</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:cody_roesch">Cody Roesch (Excell Data Corporation) - Partner Testabteilung</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:erik_anderson">Erik Anderson (Volt) - Partner Testabteilung</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:joe_vincenzi">Joe Vincenzi (Volt) - Partner Testabteilung</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:mike_ruete">Mike Ruete - Entwickler Software-Design</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:scott_miller">Scott Miller (Volt) - Entwickler/Tests Software-Entwicklung</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:titus_lowell">Titus Lowell (Volt) - Entwickler/Tests Software-Entwicklung</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:blake_dodson">Blake Dodson (Volt) - Entwickler Software-Tests</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:michael_osgood_graver">Michael Osgood-Graver (Volt) - Entwickler Software-Tests</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:craig_henry">Craig Henry - Verantwortlicher Software-Entwicklung</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:diana_leon">Diana Leon</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:yasmine_nelson">Yasmine Nelson - Verantwortliche Programm-Management</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:in_goo_kown">In Goo Kwon - Entwickler Software-Tests</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:soo_gyeong_jo">Soo Gyeong Jo (Wise SerTech) - Programm-Management Lokalisierung</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:dupre_deng">Dupre Deng - Entwickler Software-Tests</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:jeff_wang">Jeff Wang (104) - Programm-Management Lokalisierung</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:daniel_huang">Daniel Huang (104) - Partner Testabteilung</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:enda_kelly">Enda Kelly - Verantwortliche Team Tests</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:redmond_ohanlon">Redmond O'Hanlon - Entwickler Software-Tests</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:levente_vero">Levente Vero - Entwickler Lokalisierung</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:david_stokes">David Stokes</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:brian_ratta">Brian Ratta</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:ryan_mcclure">Ryan McClure</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:andrew_bouchard">Andrew Bouchard</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:thiago_oliveira">Thiago Oliveira</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:kirk_longendyke">Kirk Longendyke</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:oleg_bayborodin">Oleg Bayborodin</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:dan_higgins">Dan Higgins</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:chris_tohline">Chris Tohline</LOC_STRING>
+      <LOC_STRING _locID="devteamnames:calvin_barreto">Calvin Barreto</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Microsoft_Project_Team">Microsoft Projekt-Team</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Production">Produktion</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Deanna_Hearns">Deanna Hearns - Produktion</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Marketing">Marketing</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Dan_Amdur">Dan Amdur - Produktmanagement</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Business_Development">Geschäftsentwicklung</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Jim_Hawk">James Spahn - Geschäftsleitung</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Microsoft_Development_Team">MICROSOFT ENTWICKLUNGSTEAM</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Frank_Klier">Frank Klier - Verantwortlicher Software-Entwicklung</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Microsoft_Design_Team">Microsoft Design-Team</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Thomas_Zuccotti">Thomas Zuccotti - Leitung Design</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Bob_Settles">Bob Settles - Verantw. Design</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Valerie_Miller">Valerie Miller (FILTER) - Designassistenz</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Microsoft_Audio_Team">Microsoft Audio-Team</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Caesar_Filori">Caesar Filori - Verantw. Audio</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Mike_Cody">Mike Cody - Audioproduktionsassistenz</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Microsoft_Art_Team">Microsoft Grafik-Team</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Kevin_Brown">Kevin Brown - Künstlerische Leitung</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Doug_McBride">Doug McBride - Verantw. Grafik</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:User_Research">Benutzerforschung</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Kevin_Goebel">Kevin Goebel - Verantw. Technik</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Tim_Nichols">Tim Nichols - Technik</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:User_Experience">Benutzererfahrung</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Dana_Fos">Dana Fos - UX-Management</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Kelly_Bell">Kelly Bell - Verantwortliche UX, Editor</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Heidi_Wartelle">Heidi Wartelle - Editor</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:John_Sutherland">John Sutherland - Writer</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Steve_Barnes">Steve Barnes - Writer</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Print_Production">Printproduktion</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Chris_Lassen">Chris Lassen - Verantwortlicher Dokumentations-Design</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Raquel_Robertson">Raquel Robertson - Grafikdesigner (S&amp;T Onsite)</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Microsoft_Quality_Assurance_Team">Microsoft-Team Qualitätssicherung</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Greg_B_Jones">Greg B. Jones - Management Teamtests</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Kyle_Shannon">Kyle Shannon - Management Tests</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Daland_Davis">Jon Burns - Verantw. Entwickler/Tests Software-Entwicklung</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Andrew_Binder">Andrew Binder - Verantw. Tests</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Tim_Duzmal">Tim Duzmal - Entwickler/Tests Software-Entwicklung</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Paul_Gradwohl">Paul Gradwohl - Entwickler/Tests Software-Entwicklung</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Bryce_Jones">Bryce Jones - Entwickler/Tests Software-Entwicklung</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Mark_Amos">Mark Amos - Entwickler/Tests Software-Entwicklung</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Justin_Jones">Justin Jones - Entwickler/Tests Software-Entwicklung</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Carolyn_Gold">Carolyn Gold - Entwicklerin/Tests Software-Entwicklung</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Steve_Robinson">Steve Robinson - Entwickler/Tests Software-Entwicklung</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Michael_McCormack">Michael McCormack - Entwickler/Tests Software-Entwicklung</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Greg_Hjertager">Greg Hjertager - Entwickler/Tests Software-Entwicklung</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Ted_Keith">Ted Keith (Volt) - Entwickler Software-Tests</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:John_Thomas">John Thomas (Volt) - Entwickler Software-Tests</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Joe_Djorgee">Joe Djorgee - Stellver. verantw. Entwickler/Tests Software-Entwicklung</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Craig_Marshall">Craig Marshall - Stellver. verantw. Entwickler/Tests Software-Entwicklung</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Colin_Forbes">Colin Forbes (Volt) - Partner Testabteilung</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Grayson_Nootenboom">Grayson Nootenboom (Volt) - Partner Testabteilung</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Nicholas_Roth">Nicholas Roth (Volt) - Partner Testabteilung</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Benjamin_Folden">Benjamin Folden (Volt) - Partner Testabteilung</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Donnie_Taylor">Donnie Taylor (Volt) - Partner Testabteilung</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Sarah_Bowman">Sarah Bowman (Volt) - Partner Testabteilung</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:TnT_Support">TnT-Support</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Chris_Lee">Chris Lee - Verantw. Entwickler/Tests Software-Entwicklung</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Jon_Burns_test">Jon Burns - Verantwortlicher Entwickler/Tests Software-Entwicklung</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Marwan_Jubran">Marwan Jubran - Software-Entwicklung</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Mike_Ruete">Mike Ruete - Software-Entwicklung</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Kazuyuki_Shibuya">Kazuyuki Shibuya - Software-Entwicklung</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Configuration_Testing">Konfiguration Tests</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Patrick_Ascolese">Patrick Ascolese - Verantwortlicher Kompatibilitäts-Tests</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Jon_Burns">Jon Burns - Verantw. Kompatibilitäts-Tests</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Mike_Grodin">Mike Grodin - Entwickler/Tests Software-Entwicklung</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Ernest_Wu">Ernest Wu (Excell Data Corporation) - Entwickler/Tests Software-Entwicklung</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Kyle_OBrien">Kyle O'Brien (Volt) - Entwickler Software-Tests</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Setup_Team">Team Setup</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Dennis_Ham">Dennis Ham (Volt) - Software-Entwicklung</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Gabriel_Sipos">Gabriel Sipos (Siemens Business Services Inc) - Software-Entwicklung</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Product_Support">Produktsupport</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Greg_Frankovic">Greg Frankovic - Senior Programm-Management</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Diana_Leon">Diana Leon - Verantwortliche Technik</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Microsoft_Globalization_Teams">Microsoft-Teams Globalisierung</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Yasmine_Nelson">Verantw. internationales Programm-Management - Yasmine Nelson</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Tina_Lin">Internationales Programm-Management - Tina Lin</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Korea">Korea</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Jae_Youn_Kim">Jae Youn Kim - Programm-Management</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Jun_Hyeong_Kim">Jun Hyeong Kim - Entwickler Software-Tests</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Kyoung_Han_Yoon">Kyoung Han Yoon - Programm-Management Lokalisierung</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Taiwan">Taiwan</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Lana_Peng">Lana Peng - Verantw. Programm-Management</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:WenChin_Deng">Wen-Chin Deng - Entwickler Software-Tests</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Aha_Chiu">Aha Chiu (104) - Entwickler Software-Tests</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Sean_Wu">Sean Wu (104) - Programm-Management Lokalisierung</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Dublin">Dublin</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Tom_McManamon">Tom McManamon - Programm-Management</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Enda_Kelly">Enda Kelly - Verantw. Tests</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Steven_Garrad">Steven Garrad - Software-Entwicklung</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Barry_OSullivan">Barry O'Sullivan - Benutzererfahrung</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Website_Production">Website-Produktion </LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Dave_Pierot">Dave Pierot - Verantw. Website-Management</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:John_Peoples">John Peoples - Website-Management</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Jason_Carl">Jason Carl - Website-Management</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Andrea_Drougas">Andrea Drougas (FILTER) - Internationales Website-Management</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Anne_Morency">Anne Morency (Sakson &amp; Taylor) - Autorin</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Jeannie_VoirinGerde">Jeannie Voirin-Gerde - Verantw. Webdesign</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Jason_Graf">Jason Graf - Verantw. Software-Entwicklung</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Chris_Barney">Gabriel Sipos (Siemens Business Services Inc) - Software-Entwicklung</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Susan_Clark">Susan Clark (Volt) - Projektmanagement</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Publishing_Management_Team">Team Veröffentlichungsmanagement</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Bonnie_Ross">Bonnie Ross - Verantw. Produktionsleitung</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Ken_Lobb">Ken Lobb - Leitung Gestaltung</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Tim_Znamenacek">Tim Znamenacek - Produktionsleitung</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Laura_Fryer">Laura Fryer - Produktionsleitung</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Tony_Cox">Tony Cox - Leitung Entwicklung</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Kiki_Wolfkill">Kiki Wolfkill - Leitung Grafik</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Josh_Atkins">Josh Atkins - Leitung Design</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Guy_Whitmore">Guy Whitmore - Leitung Audio</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Todd_Stevens">Todd Stevens - Geschäftsleitung Gruppe</LOC_STRING>
+      <LOC_STRING _locID="xp2MSteamnames:Frank_Pape">Frank Pape - Senior Leiter, Geschäftsentwicklung</LOC_STRING>
+</ZT2Strings>

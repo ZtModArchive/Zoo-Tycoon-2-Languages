@@ -1,0 +1,59 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_themedtrashcan" version="6"/>
+      <LOC_STRING _locID="zoopedia_themedtrashcan:entry" version="6">Themenabfalleimer</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_themedtrashcan:text" version="6">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities\objects\scenery\trashcan_jt\trashcan_jt_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities\objects\scenery\trashcan_st\trashcan_st_icon.dds" sx="0" sy="0" sw="64" sh="64"/>                  
+                  <br/>Ein Abfalleimer ermöglicht es den Besuchern, ihren Müll wegzuwerfen. Er wird von Servicekräften geleert. Besucher werden ungehalten, wenn die Abfalleimer voll sind, und sie verschmutzen die Umgebung, wenn keine Abfalleimer zur Verfügung stehen. Die Besucher halten sich bei Touren gerne in Bereichen auf, die nach Themen gestaltet sind.          
+                  <p/>Klicken Sie auf die Schaltfläche "Bekanntheitsgrad des Zoos", auf die Registerkarte "Zooauszeichnungen" und dann auf "Dauerauszeichnungen", um die vielen Themen anzuzeigen, die Sie freigeben können.     
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_themedviewingareas" version="6"/>
+      <LOC_STRING _locID="zoopedia_themedviewingareas:entry" version="6">Themenaussichtsschutzdächer</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_themedviewingareas:text" version="6">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities\objects\scenery\ViewingArea_Jt\ViewingArea_Jt_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities\objects\scenery\ViewingArea_St\ViewingArea_St_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>
+               Ein Themen-Aussichtsschutzdach bietet einen geschützten Ort, von dem Besucher die Tiere beobachten können. Die Besucher halten sich bei Touren gerne in Bereichen auf, die nach Themen gestaltet sind.
+                  <p/>Klicken Sie auf die Schaltfläche "Bekanntheitsgrad des Zoos", auf die Registerkarte "Zooauszeichnungen" und dann auf "Dauerauszeichnungen", um die vielen Themen anzuzeigen, die Sie freigeben können. 
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_themedumbrellatable" version="6"/>
+      <LOC_STRING _locID="zoopedia_themedumbrellatable:entry" version="6">Thementisch mit Sonnenschirm</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_themedumbrellatable:text" version="6">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities\objects\scenery\umbrellatable_jt\umbrellatable_jt_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities\objects\scenery\umbrellatable_St\umbrellatable_St_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>
+               Ein Esstisch ermöglicht es Besuchern, sich hinzusetzen und die im Zoo gekauften Lebensmittel zu essen. Besucher sind zufriedener, wenn sie beim Essen nicht stehen müssen.  Die Besucher halten sich bei Touren gerne in Bereichen auf, die nach Themen gestaltet sind.
+                  <p/>Klicken Sie auf die Schaltfläche "Bekanntheitsgrad des Zoos", auf die Registerkarte "Zooauszeichnungen" und dann auf "Dauerauszeichnungen", um die vielen Themen anzuzeigen, die Sie freigeben können.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+
+</ZT2Strings>

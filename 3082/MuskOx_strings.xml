@@ -1,0 +1,187 @@
+﻿<ZT2Strings>
+   <entityname>
+      <!--animal names-->
+      <MuskOx>Buey almizclero</MuskOx>
+      <MuskOx_stt>Buey almizclero</MuskOx_stt>
+      <MuskOx_lower>el buey almizclero</MuskOx_lower>
+      <MuskOx_ltt>
+         <color r="255" g="248" b="178">
+            <b>Buey almizclero</b>
+         </color>
+         <br/>
+         Haga clic para seleccionar y colocar un buey almizclero, un bóvido ártico de largo pelaje.
+      </MuskOx_ltt>
+      <!--gift names-->
+      <MuskOx_Gift>Sombrero de buey almizclero</MuskOx_Gift>
+      <MuskOx_Gift_stt>Sombrero de buey almizclero</MuskOx_Gift_stt>
+      <MuskOx_Gift_lower>el sombrero de buey almizclero</MuskOx_Gift_lower>
+      <MuskOx_Gift_ltt>
+         <color r="255" g="248" b="178">
+            <b>Sombrero de buey almizclero</b>
+         </color>
+         <br/>Los visitantes que disfrutan viendo al buey almizclero comprarán este regalo.
+      </MuskOx_Gift_ltt>
+      <MuskOx_Gift_Adult>Sombrero de buey almizclero</MuskOx_Gift_Adult>
+      <MuskOx_Gift_Adult_stt>Sombrero de buey almizclero</MuskOx_Gift_Adult_stt>
+      <MuskOx_Gift_Adult_lower>el sombrero de buey almizclero</MuskOx_Gift_Adult_lower>
+      <MuskOx_Gift_Adult_ltt>
+         <color r="255" g="248" b="178">
+            <b>Sombrero de buey almizclero</b>
+         </color>
+         <br/>Los visitantes que disfrutan viendo al buey almizclero comprarán este regalo.
+      </MuskOx_Gift_Adult_ltt>
+      <!--foliage names-->
+      <DiamondLeafWillow_Tundra>Sauce de hoja de diamante</DiamondLeafWillow_Tundra>
+      <DiamondLeafWillow_Tundra_stt>Sauce de hoja de diamante</DiamondLeafWillow_Tundra_stt>
+      <DiamondLeafWillow_Tundra_lower>el sauce de hoja de diamante</DiamondLeafWillow_Tundra_lower>
+      <DiamondLeafWillow_Tundra_ltt>
+         <color r="255" g="248" b="178">
+            <b>Sauce de hoja de diamante</b>
+         </color>
+         <br/>Haga clic para seleccionar y colocar un sauce de hoja de diamante, la fuente de alimentación preferida del buey almizclero.
+      </DiamondLeafWillow_Tundra_ltt>
+      <!--guest thoughts-->
+      <AnimalDefend>%2s se está defendiendo de %1s!</AnimalDefend>
+      <!--animal actions-->
+      <DefendingAt>Defendiéndose de %s</DefendingAt>
+   </entityname>
+   <zoopedia_muskox version="2">
+      <entry>Buey almizclero</entry>
+      <text>
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/MuskOx/MuskOx_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						</cell>
+						<cell width="16">
+							<img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						</cell>
+						<cell width="16">
+							<img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						</cell>
+						<cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Estado de conservación:
+                     <br/>
+                        <color r="170" g="255" b="0">
+                     Bajo riesgo
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>   
+            
+               <cell width="128">
+                  <color r="255" g="255" b="255">Tundra<br/></color>
+                  <img src="ui/icon_biomes/icon_tundra.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+               </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Ártico<br/></color>
+                  <img src="ui/icon_maplocations/Tundra_Arctic.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">Clase: mamíferos <i>(Mammalia)</i><br/>Orden: artiodáctilos <i>(Artiodactyla)</i><br/>Familia: bóvidos <i>(Bovidae)</i><br/>Género: <i>Ovibos</i><br/>Especie: <i>moschatus</i></color>
+               </cell>
+               <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/tundra_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+               </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Datos curiosos sobre el buey almizclero</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">El buey almizclero macho tiene bajo los ojos una glándula que deja un olor a almizcle cuando se frota contra las ramas de los arbustos o árboles.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">El buey almizclero ha vivido en la tierra desde la última glaciación y estuvo muy relacionado con los mamut lanudos hace miles de años.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">El pelaje interior del buey almizclero, llamado qiviat, es tan suave como el cachemir y se le considera la fibra que más calor da de todo el mundo.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Los esquimales le dieron el nombre de "oomingmak", que significa "Barbudo".</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Se reúne en grupos de 10 a 20, formando círculos alrededor de los jóvenes cuando sienten el peligro.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Las pezuñas están bien adaptadas para romper el hielo y alcanzar el agua de beber.</color>
+               </cell>
+            </cell>
+         </cell>
+         <cell width="340">
+         <color r="255" g="248" b="178">Para desbloquear el buey almizclero en los juegos de desafío o de campaña, debe ganar un nivel de fama del zoo de media estrella.</color>
+         <p/>El buey almizclero es un rumiante de pelo largo, color marrón oscuro, relacionado con las cabras y las ovejas. Su área de distribución era el norte de Canadá y Groenlandia, pero se ha introducido en Alaska y otras áreas septentrionales. Un macho adulto mide entre 1,9 y 2,3 m de largo, de 1,2 a 1,5 m de alto a la altura de la cruz, y tiene unos cuernos largos curvados hacia abajo, con las puntas afiladas y vueltas hacia arriba; las hembras son mucho más pequeñas. Ambos sexos tienen un pelaje interior denso y una capa exterior que les llega a los tobillos, para protegerse del frío. Debe su nombre al fuerte olor a almizcle que emite el macho cuando está en celo.
+         <p/>El buey almizclero se mueve en rebaños de entre 10 y 100 individuos. Su número se ha reducido drásticamente y su alcance se ha visto limitado por causa del ser humano, que le da caza por la piel y por la carne. No obstante, actualmente se están haciendo esfuerzos para conservar la especie, estando protegido en Canadá. Cuando son amenazados, los adultos del rebaño forman un círculo de cara al exterior, dejando a los jóvenes en el centro.
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Contenido facilitado por cortesía de <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Biblioteca de Consulta Microsoft (R) Encarta (R) 2004.</color></u></a>(C) 1993-2003 Microsoft Corporation. Reservados todos los derechos.
+         </cell>
+      </text>
+   </zoopedia_muskox>
+   <zoopedia_diamondleafwillow>
+      <entry>Planta, Sauce de hoja de diamante</entry>
+      <text>
+         <color r="255" g="255" b="255">
+            <cell pady="0" width="1000"/>
+            <p/>
+            <cell width="260"/>
+            <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+               <cell width="150">
+                  <img src="entities/objects/foliage/DiamondLeafWillow/DiamondLeafWillow_Tundra_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128"/>
+               </cell>
+               <cell pady="15" width="400">
+               <p/>Sauce es el nombre común que recibe una pequeña familia de plantas de flor leñosas y determinados árboles de ese género. La familia está compuesta por unas 435 especies de sauces y álamos (consulte Álamos), que incluyen los álamos temblones y los chopos americanos. Los miembros de la familia suelen vivir en los hábitat húmedos, las llanuras inundadas y las orillas fluviales; son una especie de crecimiento rápido, a menudo pionera. La madera se usa de muchas maneras y las hojas suministran alimento a muchos animales. Algunas especies son ornamentales. La familia tiene dos géneros: sauces y álamos. Ambos están muy extendidos en el hemisferio norte, aunque algunas especies se dan en el hemisferio sur. De las casi 35 especies de álamos, casi todas son árboles, mientras que la mayoría de las casi 400 especies de sauces son matorrales. Los sauces abundan de manera especial en la tundra ártica, donde son bajos y semejantes a matas; también se los encuentra en la montaña, más arriba de la línea de bosque.
+               <p/>Sauces y álamos producen flores masculinas y femeninas en plantas diferentes. Las flores, muy simples, carecen de pétalos y sépalos. Se agrupan en inflorescencias densas, llamadas amentos, que aparecen simultáneamente con las hojas nuevas de primavera, o antes. Los amentos de los álamos son colgantes y no producen néctar; el agente polinizador es el viento. Los amentos de los sauces, en cambio, son erectos y producen abundante néctar aromatizado que atrae a los insectos, especialmente abejas y mariposas, que se encargan de la polinización. La polinización entomófila de las flores muy simplificadas del sauce constituye una excepción a la norma del reino vegetal, según la cual sólo los grupos botánicos con flores complejas y vistosas recurren a la polinización por insectos. Sin embargo, en los primeros días de la primavera, antes de que aparezcan la mayoría de las otras flores, el néctar de los amentos del sauce es casi la única fuente de alimentación para muchos insectos.
+               <p/>El fruto de sauces y álamos es una pequeña cápsula que encierra numerosas semillas, envuelta cada una en filamentos algodonosos que actúan como paracaídas y favorecen la dispersión por el viento. Si caen en suelo húmedo, germinan en uno o dos días. El crecimiento de casi todos los sauces y álamos es muy rápido, por lo que alcanzan la edad de la floración en pocos años; pero su vida es corta, pues algunos sólo viven 20 años.
+               <p/>La importancia económica de la familia es variable. Las ramillas de la salguera blanca se usan en cestería, mientras que con la madera ligera, pero resistente, de otros sauces se tallan miembros artificiales, zuecos y bates de críquet. La corteza del sauce contiene un principio activo, la salicilina, usado en muchas medicinas populares. La aspirina es un derivado del ácido salicílico, que empezó a sintetizarse a partir de derivados de la corteza del sauce. Algunos sauces, como el sauce llorón y el sauce gatito, tienen importancia para la horticultura.
+            </cell>
+            </cell>
+            <p/>
+         </color>
+      </text>
+   </zoopedia_diamondleafwillow>
+</ZT2Strings>

@@ -1,0 +1,66 @@
+﻿<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_safarifence" version="2" />
+      <LOC_STRING _locID="zoopedia_safarifence:entry" version="2"  >Safari Themed Fence</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_safarifence:text" version="2"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/fences/bamboo_st/bamboo_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>Fencing that reflects a safari theme is best used when building exhibits for savannah animals, including zebras, giraffes, and lions. You can also use safari fencing to create themed public areas adjacent to savannah exhibits. Guests on tours appreciate visiting themed areas.
+						<p/>To unlock the safari theme, you must complete five game challenges in challenge mode.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_junglefence" version="2" />
+      <LOC_STRING _locID="zoopedia_junglefence:entry" version="2"  >Jungle Themed Fence</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_junglefence:text" version="2"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/fences/junglefence_jt/junglefence_jt_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>Fencing that reflects a jungle theme is best used when building exhibits for jungle and rainforest animals, including the tiger, gorilla, and chimpanzee. You can also use jungle fencing to create themed public areas adjacent to rainforest exhibits. Guests on tours appreciate visiting themed areas.
+						<p/>To unlock the jungle theme, you must complete five photo challenges in challenge mode.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_fencegate" version="2" />
+      <LOC_STRING _locID="zoopedia_fencegate:entry" version="2"  >Gate, Staff</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_fencegate:text" version="2"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/fences/staffgate_df/staffgate_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>Every exhibit you build needs a staff gate, which gives members of your zoo staff direct access to your animals. Staff gates are also useful when they are placed on paths to block guests from certain areas of your zoo. Only members of your zoo staff, including zookeepers, animal educators, and maintenance workers, can pass through staff gates.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_brick" version="2" />
+      <LOC_STRING _locID="zoopedia_brick:entry" version="2"  >Brick Wall</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_brick:text" version="2"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/fences/brickwall_df/brickwall_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/fences/lowbrickwall_df/lowbrickwall_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>Both the standard and low-height versions of the brick wall do a pretty good job of keeping animals contained, and they can also serve as a very attractive border path.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+
+</ZT2Strings>

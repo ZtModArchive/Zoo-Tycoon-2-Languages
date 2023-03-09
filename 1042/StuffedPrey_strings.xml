@@ -1,0 +1,33 @@
+<ZT2Strings>
+   <entityname>
+      <!--animal names-->
+      <StuffedPrey>가젤 장난감</StuffedPrey>
+      <StuffedPrey_stt>가젤 장난감</StuffedPrey_stt>
+      <StuffedPrey_lower>가젤 장난감</StuffedPrey_lower>
+      <StuffedPrey_ltt>
+         <color r="255" g="248" b="178">
+            가젤 장난감
+         </color>
+         <br/>
+         가젤 장난감을 적당한 위치에 놓으세요. 육식 동물들은 가젤 장난감을 가지고 먹이 사냥을 연습합니다.
+      </StuffedPrey_ltt>
+   </entityname>
+   <zoopedia_stuffedprey>
+      <entry>가젤 장난감</entry>
+      <text>
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>
+                  <img src="entities\objects\enrichment\StuffedPrey\StuffedPrey_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>가젤 장난감은 두꺼운 용수철 위에 삼베와 밀집으로 만들어진 가젤 모양의 인형을 올려놓은 장난감 입니다.
+                  <p/>가젤 장난감을 물어뜯거나 공격할 때마다 가젤 장난감이 흔들리므로 육식 동물들이 재미있게 사냥 연습을 할 수 있습니다.
+               </color>
+            </cell>
+         </cell>
+      </text>
+   </zoopedia_stuffedprey>
+</ZT2Strings>

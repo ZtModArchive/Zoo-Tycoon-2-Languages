@@ -1,0 +1,70 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_trash" version="2"/> <LOC_STRING _locID="zoopedia_trash:entry" version="2">Skräp</LOC_STRING> <LOC_STRING _locID="zoopedia_trash:text" version="2">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255"><br/> <img src="entities/objects/Items/Trash/Trash_icon.dds" sx="0" sy="0" sw="64" sh="64"/> <img src="entities/objects/Items/Recyclable/Recycling_icon.dds" sx="0" sy="0" sw="64" sh="64"/> <br/> Besökarna tycker inte om när det ligger skräp överallt. Vaktmästare tar upp skräp som ligger på marken och besökarna kan själva lägga skräpet i soptunnor som står bra placerade.</color>
+            </cell>
+         </cell>
+      </LOC_STRING> <LOC_STRING _locID="zoopedia_sundialstatue" version="2"/> <LOC_STRING _locID="zoopedia_sundialstatue:entry" version="2">Solur</LOC_STRING> <LOC_STRING _locID="zoopedia_sundialstatue:text" version="2">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255"><br/> <img src="entities/objects/scenery/Statue_Sundial_df/Statue_Sundial_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/> <br/>Soluret är ett vackert tillskott till djurparken som både är visuellt tilltalande och pedagogisk.
+                  <p/>Särskilt barn vill försöka ta reda på vad klockan är genom att titta på var skuggorna faller i soluret.
+               <p/>Om du vill låsa upp soluret måste du genomföra kampanjen Förhindra djurplågeri.</color>
+            </cell>
+         </cell>
+      </LOC_STRING> <LOC_STRING _locID="zoopedia_flowerpost" version="2"/> <LOC_STRING _locID="zoopedia_flowerpost:entry" version="2">Blomsterpelare</LOC_STRING> <LOC_STRING _locID="zoopedia_flowerpost:text" version="2">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255"><br/> <img src="entities/objects/scenery/flowerpost_df/flowerpost_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/> <br/>
+ 
+En blomsterpelare är en hög stång med en stor korg med blommor högst upp. Blomsterpelare kan pryda nästan alla delar av djurparken, och sätter mer färg på omgivningarna än en vanlig rabatt.
+						<p/>
+Om du vill låsa upp blomsterpelaren måste du genomföra kampanjen Djurskötare under utbildning.</color>
+            </cell>
+         </cell>
+      </LOC_STRING> <LOC_STRING _locID="zoopedia_globe" version="2"/> <LOC_STRING _locID="zoopedia_globe:entry" version="2">Jordglob</LOC_STRING> <LOC_STRING _locID="zoopedia_globe:text" version="2">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255"><br/> <img src="entities/objects/scenery/Statue_Globe_df/Statue_Globe_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/> <br/> En jordglob är en klotrund avbildning av jorden och passar bra i trädgårdar och på allmänna platser i din djurpark.
+						<p/>
+Om du vill låsa upp jordgloben måste du genomföra kampanjen Jordglob.</color>
+            </cell>
+         </cell>
+      </LOC_STRING> <LOC_STRING _locID="zoopedia_gildedstatue" version="2"/> <LOC_STRING _locID="zoopedia_gildedstatue:entry" version="2">Förgylld staty</LOC_STRING> <LOC_STRING _locID="zoopedia_gildedstatue:text" version="2">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255"><br/> <img src="entities/objects/scenery/GildedStatue_df/GildedStatue_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/> <br/> Den förgyllda pandastatyn gör sig väldigt bra i djurparkens trädgårds- och parkområden. Den guldglänsande statyn syns på långt håll.
+						<p/>
+Om du vill låsa upp den förgyllda pandastatyn måste du genomföra kampanjen Den mystiska pandan.</color>
+            </cell>
+         </cell>
+      </LOC_STRING> <LOC_STRING _locID="zoopedia_flowerarch" version="2"/> <LOC_STRING _locID="zoopedia_flowerarch:entry" version="2">Valv, blomster</LOC_STRING> <LOC_STRING _locID="zoopedia_flowerarch:text" version="2">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255"><br/> <img src="entities\objects\scenery\PathArch_Flower_df\PathArch_Flower_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/> <br/> Blomstervalvet är en vacker utsmyckning av gångar i djurparken. Den utgör en attraktiv ingång till sittplatsområden utomhus.
+						<p/>
+Om du vill låsa upp blomstervalvet måste du genomföra kampanjen Djurpark med problem.</color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+
+</ZT2Strings>

@@ -1,0 +1,59 @@
+<ZT2Strings>
+      <LOC_STRING _locID="ZTPhotoMode" version="0"/>
+      <LOC_STRING _locID="ZTPhotoMode:NumPicsFormat" version="0"  >%02d / %02d</LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:photo_challenge_mode_label" version="0"  >
+         <font name="arial" size="16" image="ui\font\color_mainmenu.tga" shadowx="-1" shadowy="1" shadowa="64">
+            <color r="255" g="248" b="178">
+               <b>Foto-uitdaging</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:CameraNotFullFormat" version="0"  >
+         <font name="arial" size="12" shadowx="1" shadowy="1" shadowa="64">
+            <color r="0" g="255" b="0">
+               <b>%text%</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:CameraFullFormat" version="0"  >
+         <font name="arial" size="12" shadowx="1" shadowy="1" shadowa="64">
+            <color r="255" g="8" b="8">
+               <b>%text%</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:go_to_cursor_mode" version="0"  >
+         <font name="arial" size="12" shadowx="0" shadowy="0" shadowa="60">
+            <color r="255" g="255" b="255" a="100">
+               <b>Klik rechts om de muiscursor in of uit te schakelen.</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:go_to_photo_mode" version="0"  >
+         <font name="arial" size="12" shadowx="0" shadowy="0" shadowa="60">
+            <color r="255" g="255" b="255" a="100">
+               <b>Klik met de rechtermuisknop om de fotomodus in te schakelen.</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:ScoreLabel" version="0"  >Score:</LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:Challenge2stt" version="0"  >Neem een foto van een etende olifant.</LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:Challenge3stt" version="0"  >Neem een foto van een wandelende olifant.</LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:Challenge2Completestt" version="0"  >Uitdaging voltooid (een foto van een etende olifant nemen).</LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:Challenge3Completestt" version="0"  >Uitdaging voltooid (een foto van een wandelende olifant nemen).</LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:challengeset_tiger_difficulty1" version="0"  >Tijgeruitdaging (niveau 1)</LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:challenge_tiger_eating_stt" version="0"  >Neem een foto van een etende tijger.</LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:challenge_tiger_eating_cstt" version="0"  >Uitdaging voltooid (een foto van een etende tijger nemen).</LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:challenge_tiger_walking_stt" version="0"  >Neem een foto van een wandelende tijger.</LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:challenge_tiger_walking_cstt" version="0"  >Uitdaging voltooid (een foto van een wandelende tijger nemen).</LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:challenge_hungry_tiger_stt" version="0"  >Neem een foto van een hongerige tijger.</LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:challenge_hungry_tiger_cstt" version="0"  >Uitdaging voltooid (een foto van een hongerige tijger nemen).</LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:challenge_mother_and_young_tiger_stt" version="0"  >Neem een foto van een moedertijger met jong.</LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:challenge_mother_and_young_tiger_cstt" version="0"  >Uitdaging voltooid (een foto van een moedertijger met jong nemen).</LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:challenge_tiger_and_gorilla_stt" version="0"  >Neem een foto van een tijger met een gorilla.</LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:challenge_tiger_and_gorilla_cstt" version="0"  >Uitdaging voltooid (een foto van een tijger met een gorilla nemen).</LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:UndoneChallengeltt" version="0"  >Je moet een foto nemen waarmee aan de eisen wordt voldaan om de foto-uitdaging te voltooien.</LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:SubmitPhotosstt" version="0"  >Gebruik je foto's voor de foto-uitdaging.</LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:default_album_name" version="0"  >Fotoalbum</LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:default_photo_caption" version="0"  >Mysterieus voorwerp</LOC_STRING>
+</ZT2Strings>

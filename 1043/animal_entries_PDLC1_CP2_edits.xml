@@ -1,0 +1,992 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_styracosaurus" version="9"/>
+      <LOC_STRING _locID="zoopedia_styracosaurus:entry" version="9">Styracosaurus</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_styracosaurus:text" version="9">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/Styracosaurus/Styracosaurus_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/Styracosaurus/Styracosaurus_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/extinct.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Status in het wild:
+                     <br/>
+                        <color r="255" g="255" b="255">
+                     Uitgestorven
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+               <cell width="128">
+                  <color r="255" g="255" b="255">Tropisch regenwoud<br/></color>
+                  <img src="ui/icon_biomes/icon_tropicalrainforest.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+               </cell>
+					<cell width="128">
+						<color r="255" g="255" b="255">Noord-Amerika</color>
+						<br/>
+						<img src="ui/icon_maplocations/tropicalrainforest_northamerica_southeastern.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+					</cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Klasse: <i>archosauria</i>
+                  <br/>
+                  Orde: <i>ornithischia</i>
+                  <br/>
+                  Familie: <i>Ceratopsidae</i>
+                  <br/>
+                  Geslacht: <i>Styracosaurus</i>
+                  <br/>
+                  Soort: <i>albertensis</i>
+                  </color>
+               </cell>
+					 <cell width="256" pady="10">
+					  <img src="UI/zoopedia/biome/tropicalrainforest_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+					 </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Leuke weetjes over de styracosaurus</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">De styracosaurus is een voorouder van de beter bekende triceratops.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">De styracosaurus heeft een hoorn en zogenaamde kraagstekels, waarmee hij zich beschermt tegen vleesetende roofdieren zoals de tyrannosaurus rex en de carnotaurus.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">De styracosaurus is een planteneter, die leeft van de bladeren van cycaden, zoals de cycaspalm.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Uit opgegraven fossielen kan worden afgeleid dat de styracosaurus waarschijnlijk in kuddes rondtrok en naar voedsel zocht.</color>
+               </cell>                             
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">Om de styracosaurus in een campagne- of uitdagingsspel te ontgrendelen, moet je 1 ster voor je dierentuin verdienen.</color>
+            <p/>De styracosaurus is een planteneter uit de Krijttijd, meer dan 65 miljoen jaar geleden. De styracosaurus is een kleiner uitgevallen voorouder van de triceratops, die zo'n 10 miljoen jaar eerder leefde. Een volwassen styracosaurus was ongeveer 5 meter lang en 1,8 meter hoog, en kon een gewicht van wel 3 kubieke ton bereiken. Het dier had een lange hoorn op zijn snuit, een kleinere boven elk van beide ogen, plus een kraag met een aantal lange stekels rond de nek. Deze stekelkraag bood bescherming tegen vleesetende roofdieren zoals de tyrannosaurus en gaf de styracosaurus bovendien een imposanter en dreigender voorkomen (dat hem wellicht ook extra aantrekkingskracht gaf tijdens paringsrituelen). Net als de triceratops had ook de styracosaurus een scherpe snavel waarmee het dier bladeren van laag groeiende bomen, zoals cycaden los kon trekken, evenals een stel krachtige kaken, die bij het kauwen op de taaie bladeren bepaald geen overbodige luxe waren. De styracosaurus is 1915 ontdekt, in Red Deer Valley, Alberta, Canada. In Arizona is een opgraving te vinden waar ongeveer 100 styracosaurusfossielen zijn gevonden. Dit wijst erop dat de styracosaurus in kuddes rondtrok.
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_triceratops" version="9"/>
+      <LOC_STRING _locID="zoopedia_triceratops:entry" version="9">Triceratops</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_triceratops:text" version="9">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/triceratops/triceratops_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/triceratops/triceratops_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>						 
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/extinct.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Status in het wild:
+                     <br/>
+                        <color r="255" g="255" b="255">
+                     Uitgestorven
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>             
+               
+					<cell width="128">
+						<color r="255" g="255" b="255">Noordelijk bos</color>
+						<br/>
+						<img src="ui/icon_biomes/icon_borealforest.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+					</cell>
+					<cell width="128">
+						<color r="255" g="255" b="255">Noord-Amerika</color>
+						<br/>
+						<img src="ui/icon_maplocations/Cretaceous_America_Boreal.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+					</cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Klasse: <i>archosauria</i>
+                  <br/>
+                  Orde: <i>ornithischia</i>
+                  <br/>
+                  Familie: <i>Ceratopsidae</i>
+                  <br/>
+                  Geslacht: <i>Triceratops</i>
+                  <br/>
+                  Soort: <i>horridus</i>
+                  </color>
+               </cell>
+				 <cell width="256" pady="10">
+				  <img src="UI/zoopedia/biome/borealforest_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+				 </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Leuke weetjes over de triceratops </font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">De triceratops is een afstammeling van de styracosaurus.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">De triceratops heeft drie hoorns en een uit beenderen bestaand pantserschild rond de nek.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">De triceratops gebruikt zijn hoorns en schild om zich te verdedigen tegen roofdieren zoals de tyrannosaurus rex en de carnotaurus.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">De triceratops is een planteneter, die leeft van de bladeren van cycaden, zoals de cycaspalm.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>               
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">De triceratops heeft een scherpe snavel waarmee hij planten kan losbijten, en beschikt over kaken die hij zijwaarts kan openen om er gebladerte mee te vergaren.</color>
+               </cell>                              
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">Om de triceratops in een campagne- of uitdagingsspel te ontgrendelen, moet je 4 sterren voor je dierentuin verdienen.</color>
+            <p/>De triceratops behoort tot een geslacht van op vier poten lopende, plantenetende dinosauriërs uit de Krijttijd, meer dan 65 miljoen jaar geleden. De triceratops droeg drie hoorns op zijn schedel: een hoorn op zijn snuit en een boven elk van beide ogen. De naam van deze dinosaurussoort is afgeleid van de Griekse woorden treis ("drie"), kerat ("hoorn") en ops ("gelaat"). De triceratops was een van de grootste gehoornde dinosaurussoorten. Andere opvallende kenmerken van dit dier zijn de snavel en het pantserschild rond de nek. De triceratops behoorde tot de suborde ceratopia ("hoorngelaatdinosauriërs"), die onder de orde van ornithischiërs ("vogelbekkendinosauriërs") valt. De triceratops leefde tegen het eind van het dinosaurustijdperk en was in Noord-Amerika en Azië te vinden. Heel wat opgravingen van beenderen van deze dinosaurussoort zijn te danken aan overstromingen die er 67 tot 65 miljoen jaar geleden voor hebben gezorgd dat er op lage kustvlakten nabij een binnenzee van het Noord-Amerikaanse continent fossielen zijn ontstaan.
+            
+				<p/>Een volwassen triceratops was ongeveer 8 meter lang en kon een gewicht van wel 12 kubieke ton bereiken. De schedel van een volwassen exemplaar was 2,5 meter lang, uitlopend in een smalle, vogelachtige bek. De bek bevatte dicht tegen elkaar gedrukte rijen tanden, die wel enige gelijkenis met een heggenschaar vertoonden. Het dier kon zijn kaken zijwaarts openen, zodat het gebladerte kon verzamelen door een draaibeweging met het gewricht tussen kop en nek. Zodra het dier het voedsel te pakken had, draaide het zijn kop weer terug, om de bladeren vervolgens tussen zijn krachtige kaken te vermalen. Aan de onderkant van het nekpantser bevond zich een dicht netwerk van bloedvaten. Gevonden fossielen doen vermoeden dat via deze bloedvaten warmte vanuit het nekpantser werd afgegeven, min of meer zoals er bij olifanten bloed naar de oren wordt gestuwd om warmte af te geven. Sommige wetenschappers gaan ervan uit dat de triceratops,net als de neushoorn, kon galopperen terwijl anderen van mening zijn dat het dier daar te zwaar en te lomp voor was.
+				
+				<p/>Beenderen van de Triceratops zijn gevonden in een uitgestrekte alluviale vlakte, lijkend op het moderne laagland dat grenst aan het onderste deel van de Mississippi, in de buurt van de Golf van Mexico. De kaken van de Triceratops waren zeer geschikt voor het verzamelen van vezelrijke planten, zoals lisdodden en dwergpalmen, waarvan bekend is dat ze op die vlakte voorkwamen. De enorme omvang van het dier doet vermoeden dat de Triceratops leefde in een omgeving met een overvloedige voedselvoorraad. Deels geheelde steekwonden in de schedels gaven aan dat ze elkaar bevochten net als andere gehoornde zoogdieren, zoals de bok en het hert. Sommige paleontologen geloven echter dat de hoorns van de Triceratops mogelijk een rol hebben gespeeld in de onderlinge onderscheiding tussen mannetjes en vrouwtjes van de soort en in andere aspecten van sociaal gedrag, met name dominantie binnen de groep en paargedrag. 
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Inhoud gebaseerd op <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft® Encarta® 2006.</color></u></a> © 1993-2005 Microsoft Corporation. Alle rechten voorbehouden.
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_tyrannosaurusrex" version="9"/>
+      <LOC_STRING _locID="zoopedia_tyrannosaurusrex:entry" version="9">Tyrannosaurus rex</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_tyrannosaurusrex:text" version="9">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/tyrannosaurusrex/tyrannosaurusrex_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/tyrannosaurusrex/tyrannosaurusrex_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/extinct.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Status in het wild:
+                     <br/>
+                        <color r="255" g="255" b="255">
+                     Uitgestorven
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>             
+               
+               <cell width="128">
+                  <color r="255" g="255" b="255">Tropisch regenwoud<br/></color>
+                  <img src="ui/icon_biomes/icon_tropicalrainforest.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+               </cell>
+					<cell width="128">
+						<color r="255" g="255" b="255">Noord-Amerika</color>
+						<br/>
+						<img src="ui/icon_maplocations/Cretaceous_America_TropicalRainForest.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+					</cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Klasse: <i>archosauria</i>
+                  <br/>
+                  Orde: <i>saurischia</i>
+                  <br/>
+                  Familie: <i>Tyrannosauridae</i>
+                  <br/>
+                  Geslacht: <i>Tyrannosaurus</i>
+                  <br/>
+                  Soort: <i>rex</i>
+                  </color>
+               </cell>
+				 <cell width="256" pady="10">
+				  <img src="UI/zoopedia/biome/tropicalrainforest_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+				 </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Leuke weetjes over de tyrannosaurus rex</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Wetenschappers beschikken over meer kennis over de tyrannosaurus dan over welke andere roofdinosaurus dan ook.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">De tyrannosaurus is een vleeseter, die vaak op vleeseters zoals de triceratops of de styracosaurus aast.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">In een tyrannosaurusfossiel is zelfs eens een pantserkraag van een triceratops aangetroffen.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">De tyrannosaurus had met beenderen verharde buik, die hem bescherming bood tegen de scherpe hoorns van planteneters die uit waren op wraak.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>               
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">In de maag van de tyrannosaurus paste meer dan een halve kubieke ton vlees.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>               
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Wetenschappers zijn onlangs op bewijs gestuit dat erop wijst dat de tyrannosaurusjongen door een donzig verenpak tegen de kou waren beschermd.</color>
+               </cell>                 
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">Om de tyrannosaurus in een campagne- of uitdagingsspel te ontgrendelen, moet je 5 sterren voor je dierentuin verdienen.</color>
+            <p/>De tyrannosaurus behoort tot een geslacht van grote, op twee poten lopende, vleesetende dinosauriërs uit de late Krijttijd, zo'n 65 miljoen jaar geleden. De naam van deze dinosaurussoort is afgeleid van de Griekse woorden tyrannos ("tiran") en sauros ("hagedis"). Men herkent de tyrannosaurus onmiddellijk aan zijn omvang, het feit dat hij rechtop loopt, zijn grote, vlijmscherpe tanden en de kleine voorpoten met elk twee klauwen. De tyrannosaurus is een van de grootste vleesetende landdieren die ooit hebben bestaan.
+
+<p/>Wetenschappers beschikken over meer kennis over de tyrannosaurus dan over welke andere roofdinosaurus dan ook. In Mongolië en in het westen van de Verenigde Staten en Canada zijn tientallen skeletten van deze imposante saurischia ("hagedisbekkendinosauriërs") teruggevonden. Een opvallend groot en compleet skelet genaamd Sue is te bewonderen in het Field Museum van Chicago. Een andere fossiele tyrannosaurus, die in de Amerikaanse staat Montana is teruggevonden, was zo goed behouden dat er nog bloedvaten en ander zacht weefsel in het dijbeen is teruggevonden.
+
+<p/>De tyrannosaurus behoort tot de familie van tyrannosauridae, die op hun beurt weer onder de suborde van theropoda vallen. Hoewel wetenschappers het onderling niet eens zijn over het aantal soorten binnen het geslacht der tyrannosauriërs, worden door sommigen vier verschillende soorten onderkend, waarvan de tyrannosaurus rex de bekendste is. 
+
+<p/>De tyrannosaurus was een van de grootste vleesetende landdieren op Aarde, in omvang slechts overtroffen door de giganotosaurus en de carcharodontosaurus. Een volwassen tyrannosaurus was ongeveer 12,5 meter lang en 5 meter hoog, met een gewicht van meer dan 5 kubieke ton. De tyrannosaurus had een grote, buigzame schedel, waarin hersenen huisden die in omvang vergelijkbaar zijn met die van hedendaagse reptielen. De kaken van de tyrannosaurus waren waarschijnlijk krachtiger dan die van alle andere vleesetende dinosauriërs. Op de neusbrug van het dier bevonden zich wratachtige hobbels en knobbels. Het dier had een ruim zichtsveld, maar kon zijn ogen uitsluitend recht vooruit richten. De tyrannosaurus had korte voorpoten waar slechts enkele zenuwen doorheen liepen. Dit beperkte zenuwstelsel doet vermoeden dat het dier vaak ongecontroleerd en onhandig met zijn voorpoten zwaaide. De tonvormige borstkas van deze dinosaurus wijst erop dat het dier bijzonder grote longen bezat. De maag en andere inwendige organen van het dier werden beschermd door een uit beenderen bestaande verharding. Hij had lange, ranke onderpoten.
+
+<p/>De tyrannosaurus gaf waarschijnlijk de voorkeur aan open terrein, zoals ruime wildvlakten en niet al te dicht beboste wouden, waar hij goed met zijn forse lichaam kon manoeuvreren en zijn zicht niet door begroeiing werd belemmerd. Wetenschappers schatten dat de tyrannosaurus aardig hard kon lopen en bij het opjagen van prooien wellicht snelheden tot wel 40 km/h wist te bereiken. Het dier kon ook in afwachting van prooien op de loer gaan liggen, waarbij het op zijn harde heupgewrichten rustte en met zijn hoog geplaatste ogen om zich heen loerde. 
+
+<p/>Wetenschappers zijn er nog niet uit of de tyrannosaurus net als hedendaagse zoogdieren warmbloedig waren. Er is bewijs dat aangeeft dat het dier werd gekenmerkt door een stabiele lichaamstemperatuur, wat een metabolisme zou vereisen dat hoger ligt dan dat van andere reptielen. Sommige wetenschappers vermoeden dat de tyrannosaurus een verenpak had, niet om te vliegen, maar ter bescherming tegen de kou.
+
+<p/>Een hogere lichaamstemperatuur zou betekenen dat de tyrannosaurus vaker moest eten dan andere reptielen. In de maag van de tyrannosaurus paste meer dan een halve kubieke ton vlees, wat binnen enkele weken werd verteerd. Wetenschappers hebben 2 liter mest gevonden, waaruit rechtstreeks kan worden afgeleid waaruit de prooi van de tyrannosaurus bestond: gedeeltelijk verteerde botfragmenten van jonge, plantenetende dinosauriërs. Een ander bewijs van dit voedingspatroon is teruggevonden in het heupbeen van een triceratops, dat diepe wonden en groeven vertoont, die door de tanden van een tyrannosaurus moeten zijn aangebracht. Zoals de meeste actieve vleeseters at de tyrannosaurus waarschijnlijk ook van de rottende lichamen van dinosauriërs die door honger of overstromingen aan hun eind waren gekomen. Tandmarkeringen inde schedels van sommige tyrannosauriërs wijzen erop dat de dieren onderlinge strijd leverden door elkaar in het gezicht te bijten. 
+</cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Inhoud gebaseerd op <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft® Encarta® 2006.</color></u></a> © 1993-2005 Microsoft Corporation. Alle rechten voorbehouden.
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_carnotaurus" version="9"/>
+      <LOC_STRING _locID="zoopedia_carnotaurus:entry" version="9">Carnotaurus</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_carnotaurus:text" version="9">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+             <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/carnotaurus/carnotaurus_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/carnotaurus/carnotaurus_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>						 
+						 <cell width="16">						 
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/extinct.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Status in het wild:
+                     <br/>
+                        <color r="255" g="255" b="255">
+                     Uitgestorven
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>             
+               
+					<cell width="128">
+						<color r="255" g="255" b="255">Noordelijk bos</color>
+						<br/>
+						<img src="ui/icon_biomes/icon_borealforest.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+					</cell>
+					<cell width="128">
+						<color r="255" g="255" b="255">Zuid-Amerika</color>
+						<br/>
+						<img src="ui/icon_maplocations/Rainforest_America_South.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+					</cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Klasse: <i>archosauria</i>
+                  <br/>
+                  Orde: <i>saurischia</i>
+                  <br/>
+                  Familie: <i>Abelisauridae</i>
+                  <br/>
+                  Geslacht: <i>Carnotaurus</i>
+                  <br/>
+                  Soort: <i>sastrei</i>
+                  </color>
+               </cell>
+				 <cell width="256" pady="10">
+				  <img src="UI/zoopedia/biome/borealforest_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+				 </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Leuke weetjes over de carnotaurus</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">De naam 'carnotaurus' betekent 'gehoornde vleeseter'.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">De knobbelige hoorns boven de ogen van de carnotaurus werden mogelijk gebruikt bij kopstoten tijdens gevechten of bij paringsrituelen.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">De Carnotaurus had een platte kop en stompe kaak (net als een bulldog), in tegenstelling tot de meeste andere carnivoren.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>               
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Hoewel het dier rechtop liep, over kleine voorpoten beschikte en nog meer fysieke overeenkomsten met de T-rex vertoonde, zijn de twee dieren geen verwanten.</color>
+               </cell>              
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">Om de carnotaurus in een campagne- of uitdagingsspel te ontgrendelen, moet je 3 sterren voor je dierentuin verdienen.</color>
+            <p/>De Carnotaurus was een ongewone dinosaurus. De naam van het dier betekent 'vleeseter met hoorns', vanwege de knobbelige hoorns boven de wenkbrauwen. De meeste fossielen van dinosaurussen werden gevonden in Noord-Amerika, maar de Carnotaurus werd gevonden in Zuid-Amerika. Het dier werd zeer recent (1984) nog in Argentinië gevonden door José F. Bonaparte. Het betrof slechts één fossiel, maar dit was zo goed geconserveerd dat de ruwe bobbels op de huid zichtbaar waren.
+
+<p/>De carnotaurus leefde halverwege de Krijttijd, ongeveer 113 tot 91 miljoen jaar geleden. Het dier was ongeveer 7,5 meter lang en woog ongeveer 1000 kg (1 ton). Het had twee lange hoorns boven zijn ogen, korte voorpoten (zelfs nog korter dan die van de T-rex), en aan elke voorpoot vier klauwen, die allemaal naar achteren gericht waren. Hoewel het dier, net als de meeste vleeseters, rechtop liep, is de carnotaurus geen verwant van vleeseters zoals de giganotosaurus, de allosaurus en de T-rex. Het behoort daarentegen tot een groep vleeseters genaamd abelisauriërs, die alleen op het zuidelijk halfrond te vinden waren.
+
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_super_styracosaurus:entry">(Super) Styracosaurus</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_super_styracosaurus:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+			<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+			  <img src="entities/units/animals/Styracosaurus/Styracosaurus_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+			 </cell>
+			 <cell width="32">
+				  <img src="ui/infopan/icon_supermale.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+			 </cell>
+			<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+				<img src="entities/units/animals/Styracosaurus/Styracosaurus_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+			</cell>	
+			 <cell width="32">
+				  <img src="ui/infopan/icon_superfemale.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+			 </cell>
+			 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/extinct.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Status:
+                     <br/>
+                        <color r="255" g="255" b="255">
+                     Uitgestorven
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+               <cell width="128">
+                  <color r="255" g="255" b="255">Tropisch regenwoud<br/></color>
+                  <img src="ui/icon_biomes/icon_tropicalrainforest.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+               </cell>
+					<cell width="128">
+						<color r="255" g="255" b="255">Noord-Amerika</color>
+						<br/>
+						<img src="ui/icon_maplocations/tropicalrainforest_northamerica_southeastern.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+					</cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Klasse: <i>archosauria</i>
+                  <br/>
+                  Orde: <i>ornithischia</i>
+                  <br/>
+                  Familie: <i>Ceratopsidae</i>
+                  <br/>
+                  Geslacht: <i>Styracosaurus</i>
+                  <br/>
+                  Soort: <i>albertensis</i>
+                  </color>
+               </cell>
+					 <cell width="256" pady="10">
+					  <img src="UI/zoopedia/biome/tropicalrainforest_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+					 </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Leuke weetjes over de styracosaurus</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">De styracosaurus is een voorouder van de beter bekende triceratops.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">De styracosaurus heeft een hoorn en een kraag met stekels als bescherming tegen vleesetende roofdieren, zoals de tyrannosaurus rex en de carnotaurus.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">De styracosaurus is een planteneter, die leeft van de bladeren van cycaden, zoals de cycaspalm.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Uit opgegraven fossielen kan worden afgeleid dat de styracosaurus waarschijnlijk in kuddes rondtrok en naar voedsel zocht.</color>
+               </cell>                             
+            </cell>
+         </cell>
+         <cell width="340">
+               <color r="255" g="248" b="178">Je kunt de superstyracosaurus maken in het onderzoekslaboratorium voor uitgestorven dieren nadat je alle fossiele stukken hebt verzameld.  Klik op deze koppeling voor het onderwerp <a href="zoopedia:zoopedia_cloningcenter:entry">  <u> <color r="32" g="126" b="32">Onderzoekslab uitgestorven dieren. </color>  </u> </a> </color>
+            <p/>De styracosaurus is een planteneter uit de Krijttijd, meer dan 65 miljoen jaar geleden. De styracosaurus is een kleiner uitgevallen voorouder van de triceratops, die zo'n 10 miljoen jaar eerder leefde. Een volwassen styracosaurus was ongeveer 5 meter lang en 1,8 meter hoog, en kon een gewicht van wel 3 kubieke ton bereiken. Het dier had een lange hoorn op zijn snuit, een kleinere boven elk van beide ogen, plus een kraag met een aantal lange stekels rond de nek. Deze stekelkraag bood bescherming tegen vleesetende roofdieren zoals de tyrannosaurus en gaf de styracosaurus bovendien een imposanter en dreigender voorkomen (dat hem wellicht ook extra aantrekkingskracht gaf tijdens paringsrituelen). Net als de triceratops had ook de styracosaurus een scherpe snavel waarmee het dier bladeren van laag groeiende bomen, zoals cycaden los kon trekken, evenals een stel krachtige kaken, die bij het kauwen op de taaie bladeren bepaald geen overbodige luxe waren. De styracosaurus is 1915 ontdekt, in Red Deer Valley, Alberta, Canada. In Arizona is een opgraving te vinden waar ongeveer 100 styracosaurusfossielen zijn gevonden. Dit wijst erop dat de styracosaurus in kuddes rondtrok.
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_super_triceratops:entry">(Super) Triceratops</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_super_triceratops:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+			<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+			  <img src="entities/units/animals/triceratops/triceratops_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+			 </cell>
+			 <cell width="32">
+				  <img src="ui/infopan/icon_supermale.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+			 </cell>
+			<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+			  <img src="entities/units/animals/triceratops/triceratops_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+			 </cell>						 
+			 <cell width="32">
+				  <img src="ui/infopan/icon_superfemale.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+			 </cell>
+			 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/extinct.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Status:
+                     <br/>
+                        <color r="255" g="255" b="255">
+                     Uitgestorven
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>             
+               
+					<cell width="128">
+						<color r="255" g="255" b="255">Noordelijk bos</color>
+						<br/>
+						<img src="ui/icon_biomes/icon_borealforest.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+					</cell>
+					<cell width="128">
+						<color r="255" g="255" b="255">Noord-Amerika</color>
+						<br/>
+						<img src="ui/icon_maplocations/Cretaceous_America_Boreal.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+					</cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Klasse: <i>archosauria</i>
+                  <br/>
+                  Orde: <i>ornithischia</i>
+                  <br/>
+                  Familie: <i>Ceratopsidae</i>
+                  <br/>
+                  Geslacht: <i>Triceratops</i>
+                  <br/>
+                  Soort: <i>horridus</i>
+                  </color>
+               </cell>
+				 <cell width="256" pady="10">
+				  <img src="UI/zoopedia/biome/borealforest_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+				 </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Leuke weetjes over de triceratops </font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">De triceratops is een afstammeling van de styracosaurus.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">De triceratops heeft drie hoorns en een uit beenderen bestaand pantserschild rond de nek.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">De triceratops gebruikte zijn hoorns en kraag als bescherming tegen roofdieren, zoals de tyrannosaurus rex en de carnotaurus.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">De triceratops is een planteneter, die leeft van de bladeren van cycaden, zoals de cycaspalm.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>               
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">De triceratops heeft een scherpe snavel waarmee hij planten kan losbijten, en beschikt over kaken die hij zijwaarts kan openen om er gebladerte mee te vergaren.</color>
+               </cell>                              
+            </cell>
+         </cell>
+         <cell width="340">
+               <color r="255" g="248" b="178">Je kunt de supertriceratops maken in het onderzoekslaboratorium voor uitgestorven dieren nadat je alle fossiele stukken hebt verzameld.  Klik op deze koppeling voor het onderwerp <a href="zoopedia:zoopedia_cloningcenter:entry">  <u> <color r="32" g="126" b="32">Onderzoekslab uitgestorven dieren. </color>  </u> </a> </color>
+            <p/>Triceratops is een geslacht van plantenetende, op vier poten lopende dinosaurussen uit de Krijtperiode, meer dan 65 miljoen jaar geleden. De triceratops had drie hoorns op zijn schedel: een op zijn snuit en een boven elk oog. De naam is afgeleid van de Griekse woorden treis (drie), kerat (hoorn) en ops (gezicht). De triceratops was een van de grootste gehoornde dinosaurussen. Andere kenmerken van het dier zijn een snavel en een nekschild of kraag. De triceratops behoorde tot een gevarieerde groep ornithischia (dinosaurussen met vogelheupen), ceratopsia (hoorngezicht) genaamd, die tegen het einde van het dinosaurustijdperk Noord-Amerika en Azië bevolkten. Er zijn veel schedels gevonden in sedimenten die 67 miljoen tot 65 miljoen jaar geleden door overstromingen zijn afgezet op lage kustvlakten nabij een zeestraat die dwars door de Verenigde Staten en Canada liep.
+            
+				<p/>Een volwassen triceratops was ongeveer 8 meter lang en kon een gewicht van wel 12 kubieke ton bereiken. De schedel van een volwassen exemplaar was 2,5 meter lang, uitlopend in een smalle, vogelachtige bek. De bek bevatte dicht tegen elkaar gedrukte rijen tanden, die wel enige gelijkenis met een heggenschaar vertoonden. Het dier kon zijn kaken zijwaarts openen, zodat het gebladerte kon verzamelen door een draaibeweging met het gewricht tussen kop en nek. Zodra het dier het voedsel te pakken had, draaide het zijn kop weer terug, om de bladeren vervolgens tussen zijn krachtige kaken te vermalen. Aan de onderkant van het nekpantser bevond zich een dicht netwerk van bloedvaten. Gevonden fossielen doen vermoeden dat via deze bloedvaten warmte vanuit het nekpantser werd afgegeven, min of meer zoals er bij olifanten bloed naar de oren wordt gestuwd om warmte af te geven. Sommige wetenschappers gaan ervan uit dat de triceratops,net als de neushoorn, kon galopperen terwijl anderen van mening zijn dat het dier daar te zwaar en te lomp voor was.
+				
+				<p/>Beenderen van de triceratops zijn gevonden in een uitgestrekte alluviale vlakte, lijkend op het moderne laagland dat grenst aan het onderste deel van de Mississippi, in de buurt van de Golf van Mexico. De kaken van de triceratops waren zeer geschikt voor het verzamelen van vezelrijke planten, zoals lisdodden en dwergpalmen, waarvan bekend is dat ze op die vlakte voorkwamen. De enorme omvang van het dier doet vermoeden dat de triceratops leefde in een omgeving met een overvloedige voedselvoorraad. Deels geheelde steekwonden in de schedels gaven aan dat ze elkaar bevochten net als andere gehoornde zoogdieren, zoals de bok en het hert. Sommige paleontologen geloven echter dat de hoorns van de triceratops mogelijk een rol hebben gespeeld in de onderlinge onderscheiding tussen mannetjes en vrouwtjes van de soort en in andere aspecten van sociaal gedrag, met name dominantie binnen de groep en paargedrag. 
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Inhoud gebaseerd op <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft® Encarta® 2006.</color></u></a> © 1993-2005 Microsoft Corporation. Alle rechten voorbehouden.
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_super_tyrannosaurusrex:entry">(Super) Tyrannosaurus rex</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_super_tyrannosaurusrex:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+			<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+			  <img src="entities/units/animals/tyrannosaurusrex/tyrannosaurusrex_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+			 </cell>
+			 <cell width="32">
+				  <img src="ui/infopan/icon_supermale.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+			 </cell>
+			<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+				<img src="entities/units/animals/tyrannosaurusrex/tyrannosaurusrex_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+			</cell>	
+			 <cell width="32">
+				  <img src="ui/infopan/icon_superfemale.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+			 </cell>	  
+			 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/extinct.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Status:
+                     <br/>
+                        <color r="255" g="255" b="255">
+                     Uitgestorven
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>             
+               
+               <cell width="128">
+                  <color r="255" g="255" b="255">Tropisch regenwoud<br/></color>
+                  <img src="ui/icon_biomes/icon_tropicalrainforest.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+               </cell>
+					<cell width="128">
+						<color r="255" g="255" b="255">Noord-Amerika</color>
+						<br/>
+						<img src="ui/icon_maplocations/Cretaceous_America_TropicalRainForest.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+					</cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Klasse: <i>archosauria</i>
+                  <br/>
+                  Orde: <i>saurischia</i>
+                  <br/>
+                  Familie: <i>Tyrannosauridae</i>
+                  <br/>
+                  Geslacht: <i>Tyrannosaurus</i>
+                  <br/>
+                  Soort: <i>rex</i>
+                  </color>
+               </cell>
+				 <cell width="256" pady="10">
+				  <img src="UI/zoopedia/biome/tropicalrainforest_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+				 </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Leuke weetjes over de tyrannosaurus rex</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Wetenschappers beschikken over meer kennis over de tyrannosaurus dan over welke andere roofdinosaurus dan ook.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">De tyrannosaurus is een vleeseter, die vaak op vleeseters zoals de triceratops of de styracosaurus aast.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">In een tyrannosaurusfossiel is zelfs eens een pantserkraag van een triceratops aangetroffen.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">De tyrannosaurus had met beenderen verharde buik, die hem bescherming bood tegen de scherpe hoorns van planteneters die uit waren op wraak.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>               
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">In de maag van de tyrannosaurus paste meer dan een halve kubieke ton vlees.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>               
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Wetenschappers zijn onlangs op bewijs gestuit dat erop wijst dat de tyrannosaurusjongen door een donzig verenpak tegen de kou waren beschermd.</color>
+               </cell>                 
+            </cell>
+         </cell>
+         <cell width="340">
+               <color r="255" g="248" b="178">Je kunt de supertyrannosaurus rex maken in het onderzoekslaboratorium voor uitgestorven dieren nadat je alle fossiele stukken hebt verzameld.  Klik op deze koppeling voor het onderwerp <a href="zoopedia:zoopedia_cloningcenter:entry">  <u> <color r="32" g="126" b="32">Onderzoekslab uitgestorven dieren. </color>  </u> </a> </color>
+            <p/>De tyrannosaurus behoort tot een geslacht van grote, op twee poten lopende, vleesetende dinosauriërs uit de late Krijttijd, zo'n 65 miljoen jaar geleden. De naam van deze dinosaurussoort is afgeleid van de Griekse woorden tyrannos ("tiran") en sauros ("hagedis"). Men herkent de tyrannosaurus onmiddellijk aan zijn omvang, het feit dat hij rechtop loopt, zijn grote, vlijmscherpe tanden en de kleine voorpoten met elk twee klauwen. De tyrannosaurus is een van de grootste vleesetende landdieren die ooit hebben bestaan.
+
+<p/>Wetenschappers beschikken over meer kennis over de tyrannosaurus dan over welke andere roofdinosaurus dan ook. In Mongolië en in het westen van de Verenigde Staten en Canada zijn tientallen skeletten van deze imposante saurischia ("hagedisbekkendinosauriërs") teruggevonden. Een opvallend groot en compleet skelet genaamd Sue is te bewonderen in het Field Museum van Chicago. Een andere fossiele tyrannosaurus, die in de Amerikaanse staat Montana is teruggevonden, was zo goed behouden dat er nog bloedvaten en ander zacht weefsel in het dijbeen is teruggevonden.
+
+<p/>De tyrannosaurus behoort tot de familie van tyrannosauridae, die op hun beurt weer onder de suborde van theropoda vallen. Hoewel wetenschappers het onderling niet eens zijn over het aantal soorten binnen het geslacht der tyrannosauriërs, worden door sommigen vier verschillende soorten onderkend, waarvan de tyrannosaurus rex de bekendste is. 
+
+<p/>De tyrannosaurus was een van de grootste vleesetende landdieren op Aarde, in omvang slechts overtroffen door de giganotosaurus en de carcharodontosaurus. Een volwassen tyrannosaurus was ongeveer 12,5 meter lang en 5 meter hoog, met een gewicht van meer dan 5 kubieke ton. De tyrannosaurus had een grote, buigzame schedel, waarin hersenen huisden die in omvang vergelijkbaar zijn met die van hedendaagse reptielen. De kaken van de tyrannosaurus waren waarschijnlijk krachtiger dan die van alle andere vleesetende dinosauriërs. Op de neusbrug van het dier bevonden zich wratachtige hobbels en knobbels. Het dier had een ruim zichtsveld, maar kon zijn ogen uitsluitend recht vooruit richten. De tyrannosaurus had korte voorpoten waar slechts enkele zenuwen doorheen liepen. Dit beperkte zenuwstelsel doet vermoeden dat het dier vaak ongecontroleerd en onhandig met zijn voorpoten zwaaide. De tonvormige borstkas van deze dinosaurus wijst erop dat het dier bijzonder grote longen bezat. De maag en andere inwendige organen van het dier werden beschermd door een uit beenderen bestaande verharding. Hij had lange, ranke onderpoten.
+
+<p/>De tyrannosaurus gaf waarschijnlijk de voorkeur aan open terrein, zoals ruime wildvlakten en niet al te dicht beboste wouden, waar hij goed met zijn forse lichaam kon manoeuvreren en zijn zicht niet door begroeiing werd belemmerd. Wetenschappers schatten dat de tyrannosaurus aardig hard kon lopen en bij het opjagen van prooien wellicht snelheden tot wel 40 km/h wist te bereiken. Het dier kon ook in afwachting van prooien op de loer gaan liggen, waarbij het op zijn harde heupgewrichten rustte en met zijn hoog geplaatste ogen om zich heen loerde. 
+
+<p/>De wetenschappers zijn het er nog niet over eens of de tyrannosaurus warmbloedig was, zoals moderne zoogdieren. Er is bewijs dat de dieren een vaste lichaamstemperatuur hadden, en daarvoor is een sneller metabolisme nodig dan dat van andere reptielen. Sommige wetenschappers beweren zelfs dat de tyrannosaurus veren had, niet om mee te vliegen maar als isolatie.
+
+<p/>Door zijn hogere lichaamstemperatuur moest de tyrannosaurus vaker eten dan andere reptielen. De maag van de dinosaurus was groot genoeg voor een halve ton vlees, die hij om de paar weken moest eten. Wetenschappers hebben een klomp van 2 liter versteende mest gevonden met daarin direct bewijs van de prooi van de tyrannosaurus: gedeeltelijk verteerde botfragmenten van jonge plantenetende dinosaurussen. Ander bewijs van hun dagelijkse kost is het bekken van een triceratops met daarin diepe gaten en groeven van de tanden van een tyrannosaurus. Net als de meeste huidige vleeseters at de tyrannosaurus waarschijnlijk ook het aas van dinosaurussen die waren doodgegaan van de honger of door een overstroming. Tandafdrukken op de schedels van sommige tyrannosaurussen wijzen erop dat de dieren met elkaar vochten door in het gezicht te bijten. 
+
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Inhoud gebaseerd op <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft® Encarta® 2006.</color></u></a> © 1993-2005 Microsoft Corporation. Alle rechten voorbehouden.
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_super_carnotaurus:entry">(Super) Carnotaurus</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_super_carnotaurus:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+             <cell width="284">
+		<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+		  <img src="entities/units/animals/carnotaurus/carnotaurus_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+		 </cell>
+			 <cell width="32">
+				  <img src="ui/infopan/icon_supermale.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+			 </cell>
+		<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+		  <img src="entities/units/animals/carnotaurus/carnotaurus_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+		 </cell>						 
+			 <cell width="32">
+				  <img src="ui/infopan/icon_superfemale.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+		 	 </cell>
+		 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/extinct.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Status:
+                     <br/>
+                        <color r="255" g="255" b="255">
+                     Uitgestorven
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>             
+               
+					<cell width="128">
+						<color r="255" g="255" b="255">Noordelijk bos</color>
+						<br/>
+						<img src="ui/icon_biomes/icon_borealforest.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+					</cell>
+					<cell width="128">
+						<color r="255" g="255" b="255">Zuid-Amerika</color>
+						<br/>
+						<img src="ui/icon_maplocations/Rainforest_America_South.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+					</cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Klasse: <i>archosauria</i>
+                  <br/>
+                  Orde: <i>saurischia</i>
+                  <br/>
+                  Familie: <i>Abelisauridae</i>
+                  <br/>
+                  Geslacht: <i>Carnotaurus</i>
+                  <br/>
+                  Soort: <i>sastrei</i>
+                  </color>
+               </cell>
+				 <cell width="256" pady="10">
+				  <img src="UI/zoopedia/biome/borealforest_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+				 </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Leuke weetjes over de carnotaurus</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">De naam 'carnotaurus' betekent 'gehoornde vleeseter'.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">De knobbelige hoorns boven de ogen van de carnotaurus werden mogelijk gebruikt bij kopstoten tijdens gevechten of bij paringsrituelen.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">De carnotaurus had een platte kop en stompe kaak (net als een buldog), in tegenstelling tot de meeste andere carnivoren.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>               
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Hoewel het dier rechtop liep, over kleine voorpoten beschikte en nog meer fysieke overeenkomsten met de T-rex vertoonde, zijn de twee dieren geen verwanten.</color>
+               </cell>              
+            </cell>
+         </cell>
+         <cell width="340">
+               <color r="255" g="248" b="178">Je kunt de supercarnotaurus maken in het onderzoekslaboratorium voor uitgestorven dieren nadat je alle fossiele stukken hebt verzameld.  Klik op deze koppeling voor het onderwerp <a href="zoopedia:zoopedia_cloningcenter:entry">  <u> <color r="32" g="126" b="32">Onderzoekslab uitgestorven dieren. </color>  </u> </a> </color>
+            <p/>De carnotaurus was een ongewone dinosaurus. De naam van het dier betekent 'vleeseter met hoorns', vanwege de knobbelige hoorns boven de wenkbrauwen. De meeste fossielen van dinosaurussen werden gevonden in Noord-Amerika, maar de carnotaurus werd gevonden in Zuid-Amerika. Het dier werd zeer recent (1984) nog in Argentinië gevonden door José F. Bonaparte. Het betrof slechts één fossiel, maar dit was zo goed geconserveerd dat de ruwe bobbels op de huid zichtbaar waren.
+
+<p/>De carnotaurus leefde halverwege de Krijtperiode, zo'n 113 tot 91 miljoen jaar geleden. Hij was ongeveer 7,5 meter lang en woog zo'n 1000 kg (1 ton), en hij had twee grote hoorns boven zijn ogen, kleine armpjes (kleiner nog dan die van de T-rex), en "handen" met vier vingers en een naar achteren wijzende stekel. Net als de meeste vleeseters liep hij op zijn achterpoten, maar de carnotaurus is niet verwant aan bekende vleeseters zoals de giganotosaurus, de allosaurus en de T-rex. Hij behoorde namelijk tot de abelisaurussen, een groep vleeseters die uitsluitend op het zuidelijke halfrond voorkwam.
+
+         </cell>
+      </LOC_STRING>
+
+</ZT2Strings>

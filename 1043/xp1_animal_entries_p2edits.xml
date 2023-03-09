@@ -1,0 +1,136 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_antelopesablegiant" version="2"/>
+      <LOC_STRING _locID="zoopedia_antelopesablegiant:entry" version="2">Sabelantilope</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_antelopesablegiant:text" version="2">
+  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">   
+
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/AntelopeSableGiant/AntelopeSableGiant_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/AntelopeSableGiant/AntelopeSableGiant_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>						 
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/critical.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Status in het wild:
+                     <br/>
+                        <color r="255" g="0" b="0">
+                     ernstig bedreigd
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>   
+   
+    <cell width="128">
+     <color r="255" g="255" b="255">Savanne<br/></color>
+     <img src="ui/icon_biomes/icon_savannah.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+    </cell>
+    <cell width="128">
+     <color r="255" g="255" b="255">Zuidelijk Afrika<br/></color>
+     <img src="ui/icon_maplocations/Savannah_Africa_South_GiantSable.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+    </cell>
+    <br/>
+    <cell width="284" pady="10">
+     <color r="255" g="255" b="255">
+                  Klasse: zoogdieren <i>(mammalia)</i><br/>
+                  Orde: evenhoevige zoogdieren <i>(artiodactyla)</i><br/>
+                  Familie: runderen <i>(bovidae)</i><br/>
+                  Onderfamilie: <i>hippotragus</i><br/>
+                  Soort: <i>niger</i><br/>
+                  Ondersoort:  <i>variani</i>
+     </color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="UI/zoopedia/biome/savannah_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Leuke weetjes over de sabelantilope</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">De spectaculaire gebogen hoorns van de sabelantilope kunnen wel anderhalve meter lang worden.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>        
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Als een sabelantilope zijn hoorns verliest, groeien deze niet meer aan.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">De sabelantilope kan een snelheid van ruim 55 km/h bereiken, en deze bovendien een aardig tijdje volhouden.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Het voortbestaan van de sabelantilope staat onder druk door 27 jaar burgeroorlog in Angola, de natuurlijke habitat van het dier.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Er zijn nog maar 1000 sabelantilopen in de wereld te vinden, die allemaal zijn ondergebracht in  het Luando-reservaat en het nationaal park Kangandala in centraal Angola.</color>
+    </cell>    
+    <br/> 
+   </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178">
+    Om de sabelantilope in een campagne- of uitdagingsspel te ontgrendelen, moet je 2 sterren voor je dierentuin verdienen.
+   </color>
+   <p/>
+Antilopen zijn holhoornige dieren die deel uitmaken van dezelfde familie als runderen, geiten en schapen. Er komen ongeveer 100 antilopensoorten in Afrika en Azië voor, waaronder een aantal van de snelste en meest elegante hoefdieren ter wereld, die helaas ook ernstig worden bedreigd.
+   <p/>
+Zeven soorten vormen samen de onderfamilie der paardantilopen (hippotraginae), waaronder de sabelantilope, roanantilope, oryx en addax. Dit zijn allemaal forse dieren met een paardachtige bouw. Deze antilopen komen in Afrika en het Arabisch schiereiland voor,  in diverse habitats, variërend van bossen tot woestijnen. Ondanks de gemeenschappelijke benaming kunnen deze antilopen vanwege hun opvallend lage hoorns onmogelijk met echte paarden worden verward. Antilopenhoorns zijn bijzonder geliefd bij trofeejagers. Dit heeft een aantal van de soorten dan ook op de rand van uitsterving gebracht.
+   <p/>
+In tegenstelling tot herten, die een vertakt gewei hebben dat zij elk jaar afwerpen waarna er een nieuw gewei aangroeit, hebben antilopen puntige hoorns die zij levenslang dragen. Antilopenhoorns kunnen zo'n anderhalve meter lang worden. De hoorns zien er imposant uit, maar zijn niet erg effectief als wapen. Er bestaan verhalen over antilopen die grote roofdieren, waaronder zelfs leeuwen, op hun hoorns spietsen, maar antilopen gaan het liefst op de vlucht als ze gevaar ruiken.
+   <p/>
+Antilopen zijn herkauwers die deels verteerd voedsel dus opbraken om er vervolgens verder op te kauwen. Net als andere herkauwers, zoals runderen en schapen, hebben antilopen goed ontwikkelde kiezen waarmee ze hun eten tot pulp vermalen. Ze hebben geen bovensnijtanden en rukken gras of bladeren los door bij het bijten hun ondersnijtanden hard tegen hun bovengehemelte te drukken.
+   <p/>
+Antilopen zijn altijd gespitst op gevaar, ook terwijl ze eten of rusten. Hun ogen zijn zijwaarts gericht en ze hebben brede pupillen, zodat ze goed zich hebben op gevaar van voren en van achteren. Zij hebben ook een goed ontwikkeld gehoor en reukvermogen, geen overbodige luxe voor een leven op open vlakten waar na het invallen van de duisternis allerlei roofdieren op de loer kunnen liggen.
+   <p/>
+In de strijd om te overleven vertrouwen ze op hun instinct voor gevaar en hun loopvermogen. Dankzij dit verdedigingssysteem weten zij aan de meeste roofdieren uit de natuur te ontkomen, maar ze zijn minder goed gewapend tegen jagers op antilopenhuiden, -hoorns of -vlees. Ook veranderingen in de habitat vormen een bedreiging voor deze dieren.
+  </cell>
+  <p/>
+  <cell width="260"/>
+  <cell width="620">
+   Inhoud beschikbaar gesteld door <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2005.</color></u></a>(C) 1993-2004 Microsoft Corporation. Alle rechten voorbehouden.
+         </cell>
+ </LOC_STRING>
+
+</ZT2Strings>

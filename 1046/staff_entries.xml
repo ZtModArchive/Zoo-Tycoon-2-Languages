@@ -1,0 +1,59 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_animaleducator:entry">Monitor</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_animaleducator:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/units/staff/Educator/Educator_F_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/units/staff/Educator/Educator_M_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>
+                  A função de um monitor é percorrer o zoológico e conversar com os visitantes, prestando informações interessantes sobre os animais que estão observando. Graças a esse trabalho dos monitores, os visitantes passam a apreciar ainda mais o zoológico.        
+                  <p/>
+                  Os monitores falam em pódios que você compra e coloca em diversos lugares do zoológico. Depois que um pódio for posicionado, os monitores contratados o usarão periodicamente para falar sobre as exposições próximas.        
+                  <p/>
+                      Se não conseguirem encontrar um pódio, os monitores procurarão o Centro de Pessoal. Se também não conseguirem encontrá-lo, ficarão vagando pelo zôo sem destino.
+                  <p/>
+                      Os monitores recebem um salário, que é descontado da conta do zoológico no primeiro dia de cada mês. Lembre-se, porém, de que eles também podem ajudar a aumentar a quantidade de doações feitas por visitantes satisfeitos que apreciaram a diversão e o aprendizado durante a visita ao zoológico.			
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_maintworker:entry">Func. manutenção</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_maintworker:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/units/staff/Worker/Worker_F_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/units/staff/Worker/Worker_M_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>
+                             Os funcionários da manutenção são responsáveis pela conservação do zoológico. Suas principais tarefas são varrer as trilhas e esvaziar as lixeiras. Eles realizarão suas funções por conta própria, e você também poderá atribuir-lhes tarefas específicas.            
+                  <p/>
+                       Os funcionários da manutenção são importantes, pois um zoológico limpo ajuda a deixar os visitantes satisfeitos. Se o zôo começar a ficar sujo (lixo no chão, lixeiras transbordando etc.), os visitantes poderão ir embora mais cedo. Esses funcionários recebem um salário, que é descontado da conta do zoológico no primeiro dia de cada mês.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_zookeeper:entry">Tratador</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_zookeeper:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/units/staff/Keeper/Keeper_F_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/units/staff/Keeper/Keeper_M_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>
+                  
+Os tratadores são os funcionários mais importantes do zoológico. São treinados para atender às necessidades de qualquer animal, devendo alimentá-los, tratar deles quando estão doentes e limpar suas fezes. Recebem o salário mais alto do zôo, descontado da conta do estabelecimento no primeiro dia de cada mês. Lembre-se, porém, de que você mesmo pode executar todas as tarefas dos tratadores, de graça, no modo de visitante do zôo.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+</ZT2Strings>

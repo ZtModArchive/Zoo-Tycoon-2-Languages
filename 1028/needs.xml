@@ -1,0 +1,474 @@
+<ZT2Strings>
+      <LOC_STRING _locID="entityneeds:satisfied">很滿足</LOC_STRING>
+      <LOC_STRING _locID="entityneeds:pressing">迫切需要</LOC_STRING>
+      <LOC_STRING _locID="entityneeds:critical">情況危急</LOC_STRING>
+      <LOC_STRING _locID="entityneeds:healthy">健康</LOC_STRING>
+      <LOC_STRING _locID="entityneeds:unhealthy">不健康</LOC_STRING>
+      <LOC_STRING _locID="entityneeds:sick">生病</LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_environment">環境: </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_environment_ltt">
+         <color r="255" g="248" b="178">
+            環境需求
+         </color>
+         <br/>
+         這代表動物在展示區的舒適程度。當展示區的環境是動物原來的生物群落時，不只動物會住得很舒服，遊客也會學到不少新的動物知識。
+         
+         
+         
+         
+         
+         
+         
+           
+      
+      
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_space">空間狀況: </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_biome">生物群落狀況: </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_hunger">飢餓程度: </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_hunger_ltt">
+         <color r="255" g="248" b="178">
+            食物需求
+         </color>
+         <br/>
+         
+         這代表動物目前的飢餓程度。所有的動物都需要食物及清水才能生存。
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_thirst">口渴程度: </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_thirst_ltt">
+         <color r="255" g="248" b="178">
+            飲水需求
+         </color>
+         <br/>
+         
+         
+         
+         
+   這代表動物目前的口渴程度。所有的動物都必須隨時有水可喝。
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_rest">休息狀況: </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_rest_ltt">
+         <color r="255" g="248" b="178">
+            休息需求
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         
+         
+         
+         這代表動物目前的休息狀況。疲累的動物會睡在任何牠們可以恢復精力的地方。 
+      
+      
+      
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_hygiene">衛生狀況: </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_hygiene_ltt">
+         <color r="255" g="248" b="178">
+            衛生需求
+         </color>
+         <br/>
+         這代表動物目前的衛生狀況。骯髒的動物比較容易生病，但只要梳理動物就能改善衛生狀況，不過動物通常會梳理自己。
+
+      </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_exercise">運動狀況: </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_exercise_ltt">
+         <color r="255" g="248" b="178">
+            運動需求
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         
+         
+         
+         這代表動物目前的運動狀況。動物可以藉由四處走動、與別的動物交流，以及使用娛樂物件的方式來運動。
+      
+      
+      
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_shelter">遮棚: </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_shelter_ltt">
+         <color r="255" g="248" b="178">
+            遮棚
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         
+         
+         
+          Player should never see this.
+      
+      
+      
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_privacy">隱私狀況: </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_privacy_ltt">
+         <color r="255" g="248" b="178">
+            隱私需求
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         這代表動物目前的隱私狀況。當越來越多的遊客來觀賞動物時，牠們可藉由使用遮棚，以及趴在草叢或蔭涼處來獲得隱私。     
+      
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_reproduction">繁殖: </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_reproduction_ltt">
+         <color r="255" g="248" b="178">
+            繁殖
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         
+         
+         
+          Player should never see this.
+      
+      
+      
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_social">社交狀況: </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_social_ltt">
+         <color r="255" g="248" b="178">
+            社交需求
+         </color>
+         <br/>
+         
+這代表動物目前的社交程度。某些動物的社交需求比其他的動物更高。         
+         
+         
+         
+         
+         
+ 
+      
+      
+      
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_stimulation">激勵狀況: </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_stimulation_ltt">
+         <color r="255" g="248" b="178">
+            激勵需求
+         </color>
+         <br/>
+         
+  這代表動物目前的激勵程度。只要與不同的娛樂物件互動，就滿足動物的激勵需求。       
+         
+         
+         
+         
+         
+       
+      </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_happy">快樂程度: </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_happy_ltt">
+         <color r="255" g="248" b="178">
+            快樂程度:
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         
+         
+         動物很快樂、滿足。
+      
+      
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_not_happy">快樂程度: </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_not_happy_ltt">
+         <color r="255" g="248" b="178">
+            快樂程度:
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         
+         
+         動物不快樂。遊客不喜歡看到不快樂的動物。
+      
+      
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_well">健康狀況: </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_well_ltt">
+         <color r="255" g="248" b="178">
+            健康狀況:
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         
+         
+         動物很健康。
+      
+      
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_sick">健康狀況: </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_sick_ltt">
+         <color r="255" g="248" b="178">
+            健康狀況:
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         
+         
+         動物生病了。如果動物沒有馬上接受治療，牠可能會死亡。動物管理員可以治療生病的動物。 
+      
+      
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_not_pregnant">懷孕狀況: 沒有懷孕</LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_not_pregnant_ltt">
+         <color r="255" g="248" b="178">
+            懷孕狀況:
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         
+         
+         動物沒有懷孕。
+      
+      
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_pregnant">懷孕狀況: 懷孕中</LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_pregnant_ltt">
+         <color r="255" g="248" b="178">
+            懷孕狀況:
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         
+         
+         動物懷孕了。當這個圖示變成紅色時，代表動物即將生產。 
+      
+      
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:guest_happy">快樂程度: </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:guest_happy_ltt">
+         <color r="255" g="248" b="178">
+            快樂程度:
+         </color>
+         <br/>
+         
+         
+       這代表遊客目前的快樂等級。當遊客吃過東西、喝過飲料及感覺娛悅時，他們就會很快樂。
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:guest_hunger">飢餓程度: </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:guest_hunger_ltt">
+         <color r="255" g="248" b="178">
+            食物需求
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         
+         
+         
+         這代表遊客目前的飢餓程度。遊客喜歡從不同的食物攤、餐廳及點心小販買東西吃。
+      
+      
+      
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:guest_thirst">口渴程度: </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:guest_thirst_ltt">
+         <color r="255" g="248" b="178">
+            飲水需求
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         
+         
+         
+         這代表遊客目前的口渴程度。遊客喜歡從飲料攤買飲料。 
+      
+      
+      
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:guest_rest">休息狀況: </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:guest_rest_ltt">
+         <color r="255" g="248" b="178">
+            休息需求
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         
+         
+         
+         這代表遊客目前的疲倦程度。遊客在動物園四處走動後會感到疲倦，所以會坐在長椅或其他休息處休息。 
+      
+      
+      
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:guest_bathroom">廁所狀況: </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:guest_bathroom_ltt">
+         <color r="255" g="248" b="178">
+            廁所需求
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         
+         
+         
+         這代表遊客需要上廁所的程度。通常遊客在吃完東西後需要上廁所。 
+      
+      
+      
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:guest_amusement">娛樂狀況: </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:guest_amusement_ltt">
+         <color r="255" g="248" b="178">
+            娛樂需求
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         
+         
+         
+         這代表遊客目前所感受的娛樂等級。當遊客看到如噴泉、拱門及雕像等有趣的物件時，所感受的娛樂等級就會提高。
+      
+      </LOC_STRING>
+</ZT2Strings>

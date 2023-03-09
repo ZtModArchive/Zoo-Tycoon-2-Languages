@@ -1,0 +1,265 @@
+﻿<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_moose" version="6" />
+      <LOC_STRING _locID="zoopedia_moose:entry" version="6"  >Moose</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_moose:text" version="6"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+               <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+                  <img src="entities/units/animals/Moose/Moose_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+               </cell>
+               <cell width="16">
+                  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+               </cell>
+               <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+                  <img src="entities/units/animals/Moose/Moose_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+               </cell>
+               <cell width="16">
+                  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+               </cell>
+               <cell width="60"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Conservation Status:
+                     <br/>
+                        <color r="170" g="255" b="0">
+                     Lower Risk
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>             
+            
+               <cell width="128">
+                  <color r="255" g="255" b="255">Boreal Forest</color>
+                  <br/>
+                  <img src="ui/icon_biomes/icon_borealforest.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+               </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">North America</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/Boreal_America_North.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+Class: Mammals                                                                            
+                     <i>(Mammalia)</i>
+                     <br/>
+Order: Even-Toed Ungulates                                                        
+                     <i>(Artiodactyla)</i>
+                     <br/>
+Family: Deer                                                        
+                     <i>(Cervidae)</i>
+                     <br/>
+Genus:		                                                       
+                     <i>Alces  </i>
+                     <br/>
+Species:	                                                       
+                     <i>alces</i>
+                     <br/>
+Subspecies:	                                                       
+                     <i>americana</i>
+                  </color>
+               </cell>
+               <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/borealforest_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+               </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Fun Moose Facts</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">A mother moose may protect her calf from wolves by shepherding it to shallow water, and then standing between it and the wolves, who usually give up.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">To escape wolves, moose often retreat to lakes and marshes, where they are safe until the water freezes over and the wolves can follow them.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Moose can dive up to 18 ft and stay underwater up to 40 seconds as they forage for water plants and roots.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">A moose stands up to 7 ft (2 m) tall at the shoulder.</color>
+               </cell>
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">To unlock the moose in challenge or campaign games, you must earn a 1/2-star zoo fame rating for your zoo.
+            </color>
+            <p/>Moose is a common name for the largest member of the deer family. The name moose, given by the Algonquin, a native North American tribe, means "eater of twigs", reflecting the animal's primary diet of leaves and twigs. Moose are referred to as elk in Europe and Asia, where they inhabit the forests of northern Asia and Europe from Siberia in the east to Norway in the west, the Baltic region, and northern China. In North America moose are found in wooded areas of Canada and the northern United States. The deer known in North America as elk is also called wapiti. Moose are huge animals, with males, known as bulls, standing up to 2 m (6.5 ft) at the shoulder. Some bulls weigh more than 726 kg (1600 lb). Their characteristically long legs enable them to both browse on low bushes and small trees and wade in lakes and ponds to feed on aquatic plants. Once in the water, moose move easily and are powerful swimmers.                                    
+            <p/>The head of the moose is large with an overhanging upper lip, or muzzle. A drooping growth of hair and     skin, called a bell, hangs from the throat. The large, constantly moving ears of the moose act like radar,     		providing excellent hearing. A large shoulder hump is formed by the upward projections from neck vertebrae.     		Strong ligaments, which are necessary to hold the large head erect, are attached to these upward projections.     		The body color of the moose is generally brownish-black, with the face lightening to a brown color in the summer. The face of bulls darkens to a dark brown or black color as the breeding season approaches.                        
+            <p/>Prominent features of bulls are the enormous antlers with marginal prongs, or tines, which can exceed 1.5 m     		(60 in) in width and 22.7 kg (50 lb) in weight. Antlers are covered with a soft, nutrient-rich skin called     		velvet, which is shed in early September and often eaten by bulls. Antlers themselves are shed each year     		after the mating season, which generally is in late September. Older bulls shed their antlers in December,     		and by the end of January most bulls have shed their antlers. Occasionally, some young ones will carry     		antlers into February. New antlers begin to grow in early April.                        
+            <p/>Moose generally are solitary animals, although they may band in small groups of up to a dozen or more during the breeding season, especially in Canada's Yukon territory and Alaska. Both females and males are capable of mating in their second year of life. During mating, bulls battle for the female moose, or cows, engaging in antler fights with other males. After mating, gestation is around 230 days, with most calves born near the end of May. Cows usually bear one offspring, although twins are common and births of three or four calves have also been observed. Calves have reddish-brown coats and weigh 11 to 16 kg (24 to 35 lb) at birth.                        
+            <p/>The average life span of moose is about 5 to 6 years, although some moose can live as long as 20 years. The     		age of a moose is determined by examining the root portion of the middle incisor teeth, which show a pattern     		of rings. Just as a tree's growth rings reveal its age, the dark ring in a moose's middle incisor combined     		with a light ring accounts for each year of age.                        
+            <p/>Moose feeding habits vary with the seasons. During the fall, winter, and spring, they feed on the previous     		summer's growth of aspen, black poplar, willow, birch, hazel, dogwood, and balsam fir. In late spring and     		early summer, moose lick natural salt deposits, found in salt springs or roadside runoff to replenish their     		mineral reserves used up over winter. In summer, moose prefer vegetation that grows in water, and they can     		submerge for up to 40 seconds to reach plants beneath the water's surface.    		Despite their size and ability to attain running speeds of up to 58 km/h (36 mph) for short distances,     		moose fall prey to wolves and black and 	                        
+        
+            <a href="zoopedia:zoopedia_grizzly:entry">
+               <u>
+                  <color r="255" g="231" b="135">grizzly bears.</color>
+               </u>
+            </a> Some studies have shown that bears can kill up to 75 percent of newborns in their first eight weeks of life. Another threat to moose is the winter tick. Tick infestations irritate the moose's skin, causing the moose to rub off portions of the hair they depend on for protection from the extreme winter cold, which typifies much of their habitat. Severe winters combined with heavy tick infestations can reduce moose populations as much as 50 percent.                           
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Contributed By: Vince Crichton   			                        
+            <br/>Content provided courtesy of                         
+            <a href="zoopedia:zoopedia_encarta:entry">
+               <u>
+                  <color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2004.</color>
+               </u>
+            </a>(C) 1993-2003 Microsoft Corporation. All rights reserved.                           
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_peafowl" version="6" />
+      <LOC_STRING _locID="zoopedia_peafowl:entry" version="6"  >Peafowl, Common</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_peafowl:text" version="6"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/PeafowlCommon/PeafowlCommon_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>
+						<cell width="16">
+							<img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						</cell>
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/PeafowlCommon/PeafowlCommon_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>
+						<cell width="16">
+							<img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						</cell>
+						<cell width="60"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Conservation Status:
+                     <br/>
+                        <color r="170" g="255" b="0">
+                     Lower Risk
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>             
+
+               <cell width="128">
+                  <color r="255" g="255" b="255">Temperate Forest</color>
+                  <br/>
+                  <img src="ui/icon_biomes/icon_temperateforest.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+               </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Asia</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/temperateforest_Asia.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                     Class: Birds                                                        
+                     <i>(Aves)</i>
+                     <br/>
+                     Order: Gamebirds                                                        
+                     <i>(Galliformes)</i>
+                     <br/>
+                     Family: Quails, partridge, francolins, pheasants, 	                                                       
+                     <br/>
+                     grouse, turkey                                                        
+                     <i>(Phasianidae)</i>
+                     <br/>
+                     Genus: <i>Pavo  </i>
+                     <br/>
+                     Species:	                                                       
+                     <i>cristatus</i>
+                  </color>   
+               </cell>
+               <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/temperateforest_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+               </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Fun Common Peafowl Facts</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Peacocks (males) and peahen (females) subsist on an omnivorous diet of worms, insects, small snakes, and seeds.</color>
+               </cell>
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">
+            To unlock the common peafowl in challenge or campaign games, you must earn a 1/2-star zoo fame rating for your zoo.
+            </color>
+            <p/>Peafowl, or peacock, is a common name for three members of the pheasant family. Although these birds are more commonly called peacocks, that name is properly applied only to males; females are called peahens. Two species are Asian: the common or Indian peafowl, and the green peafowl. The third species, the Congo peafowl, is known only from the forests of the Democratic Republic of the Congo (DRC, formerly Zaire). The Asian peacocks are noted for their resplendent trains of long upper tail coverts, which conceal their relatively short tails, and are raised and spread in strutting displays. The feathers are generally iridescent green and gold and are ornamented with eyelike markings of a rich color, known as peacock blue. The same blue also appears on the head, neck, breast, and crest of the common peacock; in the green peacock the head, neck, and underparts are green. The peahens have no trains and are less colorful than the males. Peafowl build their nests on the ground or in the low branches of trees. The birds subsist on an omnivorous diet of worms, insects, small snakes, and seeds.                                    
+            <p/>The common peafowl has been domesticated in many parts of the world, and there are feral populations in the Hawaiian Islands. A white variety has been produced by selective breeding.                           
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">
+         Content provided courtesy of 
+            <a href="zoopedia:zoopedia_encarta:entry">
+               <u>
+                  <color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2004.</color>
+               </u>
+            </a>
+            C) 1993-2003 Microsoft Corporation. All rights reserved.                           
+         </cell>
+      </LOC_STRING>
+
+</ZT2Strings>

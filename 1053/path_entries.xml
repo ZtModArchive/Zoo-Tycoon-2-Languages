@@ -1,0 +1,38 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_asphalt:entry">Gångvägsmaterial</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_asphalt:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/paths/asphalt/path_asphalt_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/paths/brick/path_brick_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/paths/concrete/path_concrete_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/paths/dirt/path_dirt_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/paths/sand/path_sand_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/paths/stone/path_stone_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities\objects\paths\jungle\path_jungle_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities\objects\paths\safari\path_safari_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>
+                  
+                  Du kan bygga gångvägar av asfalt, tegel, cement, jord, sand och sten.       
+            
+            
+         
+                  
+                  <p/>
+                  
+                  Att du har en gångväg är viktigare än vilket material gångvägen är gjord av. Du kan använda gångvägsmaterial för att göra djurparken finare.
+               
+                  
+                  <p/>
+                  
+                  Du kan låsa upp ytterligare gångvägar och andra föremål genom att slutföra utmaningar i utmaningsläget.
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+</ZT2Strings>

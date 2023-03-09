@@ -1,0 +1,23 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_trainer:entry">Tränare</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_trainer:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/units/staff/Trainer/Trainer_F_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/units/staff/Trainer/Trainer_M_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>
+Tränare lär marina djur i djurparken att uppträda i shower. Du kan ge tränare i uppgift att träna vissa bestämda djur. Tränare utan bestämd speciell uppgift väljer djur som de tränar på egen hand. Tränarna väljer vilka konster de ska lära ut. De börjar med att lära djuren de enklaste konsterna innan de går vidare med de mer avancerade.
+						<p/>
+Tränare behöver en bassängingång för att kunna träna djuren i en bassäng. Tränare kan inte träna djuren i en bassäng som saknar ingång.       
+                  <p/>
+Tränare får lön som dras från ditt konto den första i varje månad.			
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+
+</ZT2Strings>

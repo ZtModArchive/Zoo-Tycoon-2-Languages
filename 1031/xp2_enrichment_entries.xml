@@ -1,0 +1,75 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_bubbleemitter:entry">Blubbermuschel</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_bubbleemitter:text">
+		<cell pady="0" width="1000"/>
+		<p/>
+		<cell width="260"/>
+		<cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+		 <cell width="600" padx="20" pady="20">
+		  <color r="255" g="255" b="255">
+			<img src="entities/objects/enrichment/BubbleEmitter/BubbleEmitter_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+			<p/>Meerestiere wie der Mantarochen schwimmen gerne durch die aufsteigenden Luftblasen, die von dieser künstlichen Riesenmuschel erzeugt werden.
+		  </color>
+		 </cell>
+		</cell>
+	  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_jarwithfish:entry">Fass mit Fischen</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_jarwithfish:text">
+		<cell pady="0" width="1000"/>
+		<p/>
+		<cell width="260"/>
+		<cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+		 <cell width="600" padx="20" pady="20">
+		  <color r="255" g="255" b="255">
+			<img src="entities/objects/enrichment/JarWithFish/JarWithFish_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+			<p/>Seeotter lieben es, die in diesem Fass eingeschlossenen Fischleckereien herauszuholen, und die Besuchern beobachten sie dabei nur allzu gerne!r
+		  </color>
+		 </cell>
+		</cell>
+	  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_livetunayellowfin:entry">Lebendfutter, Gelbflossenthunfisch</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_livetunayellowfin:text">
+		<cell pady="0" width="1000"/>
+		<p/>
+		<cell width="260"/>
+		<cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+		 <cell width="600" padx="20" pady="20">
+		  <color r="255" g="255" b="255">
+			<img src="entities/units/animals/TunaYellowfin/TunaYellowfin_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+			<p/>Meeresraubtieren schmeckt ihr Futter besser, wenn sie es selbst fangen müssen! Viele Zoos haben deshalb Lebendfutter in ihre Reaktionsanreizprogramme integriert.
+			<p/>Um das Gelbflossenthunfisch-Lebendfutter freizugeben, bewältigen Sie zwei Meerestiere-Herausforderungen im Herausforderungsmodus.
+		  </color>
+		 </cell>
+		</cell>
+	  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_livecodarctic:entry">Lebendfutter, Grönlanddorsch</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_livecodarctic:text">
+		<cell pady="0" width="1000"/>
+		<p/>
+		<cell width="260"/>
+		<cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+		 <cell width="600" padx="20" pady="20">
+		  <color r="255" g="255" b="255">
+			<img src="entities/units/animals/CodArctic/CodArctic_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+			<p/>Meeresraubtieren schmeckt ihr Futter besser, wenn sie es selbst fangen müssen! Viele Zoos haben daher Lebendfutter in ihre Reaktionsanreizprogramme integriert.
+		  </color>
+		 </cell>
+		</cell>
+	  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_sealpreydummy:entry">Robbenbeutetierpuppe</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_sealpreydummy:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>
+                  <img src="entities\objects\enrichment\Seal_Prey_Dummy\SealPreyDummy_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>Dieses schwimmende Reaktionsanreizobjekt wurde für große Meeresraubtiere wie den Weißen Hai und den Orca entworfen. Die Tiere mögen es, die robbenförmige Puppe zu rammen und zu beißen.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+
+</ZT2Strings>

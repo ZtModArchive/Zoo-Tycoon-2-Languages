@@ -1,0 +1,62 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_benthic:entry">Biome Benthos</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_benthic:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" bgimg="ui/zoopedia/topCellBg.dds" pady="15" padx="15">
+            <color r="255" g="255" b="255">
+               <cell width="600">
+                  <img src="UI/zoopedia/biome/benthic_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+                  <p/>Le biome Benthos constitue la partie de l'océan située en dessous de la zone pélagique. Il ne comprend cependant pas la partie la plus profonde et la plus sombre de l'océan, connue sous le nom de zone abyssale.
+                  <p/>Le fond du biome Benthos se compose de sable, de limon et d'organismes morts. Certains animaux et organismes évoluent dans cet environnement riche en nutriments parmi lesquels les bactéries, les champignons, les éponges, les anémones de mer, les vers, les étoiles de mer et les poissons benthiques. On y trouve également des algues.
+               </cell>
+            </color>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_coastal:entry">Biome Côtes</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_coastal:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" bgimg="ui/zoopedia/topCellBg.dds" pady="15" padx="15">
+            <color r="255" g="255" b="255">
+               <cell width="600">
+                  <img src="UI/zoopedia/biome/coastal_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+                  <p/>Le biome Côtes, également connu sous le nom de zone intertidale, correspond au point de rencontre entre l'océan et le rivage. Il peut être recouvert d'eau ou exposé à l'air libre. La faune et la flore de ce biome doivent pouvoir s'adapter à ces deux types de situations.
+                  <p/>Dans les zones que seules les grandes marées peuvent atteindre, seuls quelques algues et mollusques sont présents. Dans ces mêmes zones, cependant, on trouve divers algues et petits animaux parmi lesquels des gastéropodes herbivores, des crabes, des étoiles de mer et de minuscules poissons. Au fond du biome Côtes, qui ne se découvre qu'à marée basse, on trouve de très nombreux invertébrés, poissons et algues. Toutes ces espèces doivent s'adapter à la volatilité des sables en perpétuel mouvement. Parmi les falaises rocheuses qui longent le littoral, également appelées biomes Côtes, les êtres vivants se font plus rares et ces espèces disposent d'un habitat plus constant.
+   
+               </cell>
+            </color>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_pelagic:entry">Biome Pelagos</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_pelagic:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" bgimg="ui/zoopedia/topCellBg.dds" pady="15" padx="15">
+            <color r="255" g="255" b="255">
+               <cell width="600">
+                  <img src="UI/zoopedia/biome/pelagic_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+                  <p/>Loin des côtes, le biome Pelagos se trouve en plein océan. Le biome Pelagos est généralement froid et ce, malgré des variations de températures dues à la stratification thermique et au brassage constant des courants océaniques chauds et froids. Les algues de surface se développent dans le biome Pelagos, de même que de nombreuses espèces de poissons et quelques mammifères, comme les baleines et les dauphins.  
+               </cell>
+            </color>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_reef:entry">Biome Récifs</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_reef:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" bgimg="ui/zoopedia/topCellBg.dds" pady="15" padx="15">
+            <color r="255" g="255" b="255">
+               <cell width="600">
+                  <img src="UI/zoopedia/biome/reef_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+                  <p/>Le biome Récifs se caractérise par un écosystème littoral et océanique connu pour abriter les habitats les plus divers de la terre ainsi que de magnifiques êtres vivants. Un récif est un affleurement rocheux situé sous la mer. Les récifs coralliens sont largement, voire entièrement composés de coraux, de minuscules créatures vivant en colonies. Sur une période de centaines, voire de milliers d'années, les squelettes calcaires des coraux morts continuent de se développer, formant une structure toujours plus grande pour les nouveaux coraux. Cette structure physique, avec ses colonies de coraux et de nombreux autres organismes, constitue un récif corallien.   
+               </cell>
+            </color>
+         </cell>
+      </LOC_STRING>   
+
+</ZT2Strings>

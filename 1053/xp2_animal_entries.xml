@@ -1,0 +1,2164 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_beluga:entry">Vitval</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_beluga:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/Beluga/Beluga_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>						 
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/vulnerable.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Hotstatus:
+                     <br/>
+                        <color r="255" g="255" b="0">
+                     Livskraftig
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+				 <cell width="128">
+				  <color r="255" g="255" b="255">Tundra<br/></color>
+				  <img src="ui/icon_biomes/icon_tundra.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+				 </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Norra ishavet</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/tundra_arctic_ocean.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Klass: Däggdjur <i>(Mammalia)</i>
+                  <br/>
+                  Ordning: <i>Cetacea</i>
+                  <br/>
+                  Familj: <i>Monodontidae</i>
+                  <br/>
+                  Släkte: <i>Delphinapterus</i>
+                  <br/>
+                  Art: <i>leucas</i>
+                  </color>
+               </cell>
+				 <cell width="256" pady="10">
+				  <img src="UI/zoopedia/biome/tundra_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+				 </cell>				 
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Roligt att veta om vitvalar</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Vitvalar föds mörkgrå, bruna eller svarta men blir gradvis helt vita under perioden fram tills de blir fem år.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Vitvalar kan simma både framlänges och baklänges!</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Vitvalar tuggar inte maten, de sväljer den hel.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Vitvalar söker efter föda vid bottnen i grunda vatten och äter främst bottenfiskar.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Vitvalens flexibla hals gör att den lätt kan röra sig medan den äter. Den kan även suga med munnen och fånga in djur som inte vill bli uppätna.</color>
+               </cell>                
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">Om du vill låsa upp vitvalen i utmanings- eller kampanjspel måste din djurpark ha minst 1/2 stjärna i berömmelsebetyg.</color>
+            <p/>Vitvalen är en tandval som är nära släkt med delfinen och har ett tydligt markerat huvud och korta fenor. Vitvalar föds utan ryggfenor. De är svarta eller mörkbruna och blir mjölkvita på ungefär fem år. Hanar kan bli upp till 7 meter långa och väga 1 ton, honorna är något mindre. Vitvalar förflyttar sig i flockar på flera tusen och livnär sig på fisk, bläckfisk, krabbor och sniglar. De är vanliga i Norra ishavet men förflyttar sig så långt söderut som till staten New Jersey i USA och floden Rhen i Europa.     
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Innehållet har hämtats från <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft® Encarta® 2006.</color></u></a> © 19932005 Microsoft Corporation. Med ensamrätt.
+         </cell>         
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_dolphinbottlenose:entry">Flasknosdelfin</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_dolphinbottlenose:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/DolphinBottlenose/DolphinBottlenose_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>						 
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/vulnerable.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Hotstatus:
+                     <br/>
+                        <color r="255" g="255" b="0">
+                     Sårbar
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+				 <cell width="128">
+				  <color r="255" g="255" b="255">Kust<br/></color>
+				  <img src="ui/icon_biomes/icon_coastal.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+				 </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Globala varma hav</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/pelagic_warm_oceans_worldwide.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Klass: Däggdjur <i>(Mammalia)</i>
+                  <br/>
+                  Ordning: <i>Cetacea</i>
+                  <br/>
+                  Familj: <i>Delphinidae</i>
+                  <br/>
+                  Släkte: <i>Tursiops</i>
+                  <br/>
+                  Art: <i>truncatus</i>
+                  </color>
+               </cell>
+				 <cell width="256" pady="10">
+				  <img src="UI/zoopedia/biome/coastal_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+				 </cell>				 
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Roligt att veta om flasknosdelfinen</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Flasknosdelfiner har större hjärnor än människor!</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Flasknosdelfiner kan äta mellan 6 och 7 kilo fisk per dag.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Delfiner kan ibland bedöva sitt byte med gälla klickljud.</color>
+               </cell>                 
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">Om du vill låsa upp flasknosdelfinen i utmanings- eller kampanjspel måste din djurpark ha minst 3 1/2 stjärna i berömmelsebetyg.</color>
+            <p/>Flasknosdelfinen har studerats mycket och är den delfinart vi vet mest om. Den finns längs nästan alla tropiska och tempererade kuster. Flasknosdelfiner finns oftast vid kusten och brukar leva i grupper på mindre än 20 delfiner. Det finns även delfintyper utanför kusten och på djupt vatten där grupperna kan bestå av hela 200 delfiner. Vissa populationer migrerar årstidsmässigt.
+            <p/>Flasknosdelfiner är kända för sin nos, som tydligt sticker ut från huvudet likt en flaskhals. Djuren är oftast mörkt grå och svarta på ovansidan, medan magen är ljusare. De fullvuxna djurens längd varierar från 2 till ungefär 4 meter. Hanarna är en aning större än honorna och flasknosdelfiner i kalla vatten är större än de i varma vattnen. Flasknosdelfiner har en utskjutande böjd ryggfena med en tunn utdragen ände som lätt får skador. De olika skadorna har hjälpt forskare att identifiera och spåra individer och grupper.
+            <p/>Flasknosdelfiner äter många olika typer av byten, till exempel räkor, bläckfisk, andra ryggradslösa djur och fiskar. Delfinerna livnär sig genom att sticka in nosen i stensprickor nära land, genom att jaga fisk till gyttjiga sandbanker och äta upp dem när de strandar eller genom att samarbeta i flock och tillsammans jaga bytet till stranden eller till vattenytan. Delfiner utnyttjar även människors fiske, vanligtvis genom att följa räkfiskebåtar för att få tag på de byten som sätts i rörelse eller den fångst som kastas överbord.
+            <p/>Flasknosdelfiner lever i flock och de flesta verkar stanna kvar med samma partner livet ut. Honorna blir könsmogna när de är 5 till 12 år, och hanarna när de är mellan 9 och 13 år. Efter en dräktighet på ungefär 12 månader föds en unge. Ungarna diar i upp till 18 månader. Delfiner kommunicerar genom en mängd olika visslingar och skrapande ljud, och vissa delfiner verkar ha en egen unik signal. Flasknosdelfiner kan upptäcka även mycket små objekt genom ekolokalisering - det vill säga att de sänder ut högfrekventa ljud som studsar mot byten eller andra objekt och sedan använder de ekot för att urskilja objekten.
+            <p/>Flasknosdelfiner anses ofta vara det mest anpassningsbara valdjuret eftersom de i många delar av världen lever mitt bland industrier i hamnar och i kanaler. Det har nyligen blivit vanligt med delfinsafari och andra turistaktiviteter, och flasknosdelfinerna är de vanligaste delfinerna i djurparker och i marina akvarium. Flasknosdelfiner har jagats för kött, gödsel och olja, men deras antal har inte sjunkit nämnvärt, förutom i Svarta havet, där föroreningar och utfiskning av delfinernas föda har skadat dem lika mycket som direkt jakt.      
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Innehållet har hämtats från <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft® Encarta® 2006.</color></u></a> © 19932005 Microsoft Corporation. Med ensamrätt.
+         </cell>         
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_manateewestindian:entry">Västindisk sjöko</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_manateewestindian:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/ManateeWestIndian/ManateeWestIndian_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>						 
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/vulnerable.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Hotstatus:
+                     <br/>
+                        <color r="255" g="255" b="0">
+                     Sårbar
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+				 <cell width="128">
+				  <color r="255" g="255" b="255">Kust<br/></color>
+				  <img src="ui/icon_biomes/icon_coastal.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+				 </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Atlanten</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/coastal_carribean_atlantic_ocean.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Klass: Däggdjur <i>(Mammalia)</i>
+                  <br/>
+                  Ordning: <i>Sirenia</i>
+                  <br/>
+                  Familj: <i>Trichechidae</i>
+                  <br/>
+                  Släkte: <i>Trichechus</i>
+                  <br/>
+                  Art: <i>manatus</i>
+                  <br/>
+                  Underart: <i>manatus</i>                  
+                  </color>
+               </cell>
+				 <cell width="256" pady="10">
+				  <img src="UI/zoopedia/biome/coastal_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+				 </cell>				 
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Roligt att veta om den västindiska sjökon</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Sjökor har utmärkt hörsel och modern och ungen använder gälla skrik för att hålla reda på varandra.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Sjömän misstog förr i tiden sjökor för sjöjungfrur.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Eftersom sjökor rör sig långsamt och tycker om grunt vatten är en av de största farorna för dem båtpropellrar.</color>
+               </cell>                 
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">Om du vill låsa upp den västindiska sjökon i utmanings- eller kampanjspel måste din djurpark ha minst 1 1/2 stjärna i berömmelsebetyg.</color>
+            <p/>Sjökon har fått sitt namn på grund av att den betar havsgräs och andra vattenväxter. Den västindiska, eller karibiska sjökon finns i floder och kustvatten från sydöstra USA och Mexikanska golfen till Karibiska havet och nordöstra Brasilien.
+            <p/>En vuxen sjöko har en rund kropp som oftast är ljus- till mörkgrå eller svart och som smalnar av i en vågrät, platt och rund stjärt. Den kan bli 2,5 till 4,5 meter lång, beroende på vilken art det är, och den väger mellan 200 och 600 kilo. Det lilla huvudet har en rak nos och en kluven överläpp med borstiga hår. Näsborrarna, som finns på ovansidan av nosen, sluts som ventiler när djuret är under vatten. De paddelliknande framfenorna sitter nära huvudet. Sjökor har inga bakfenor. Med massiva, tunga ben och långa, smala lungor som sträcker sig genom hela kroppen, har sjökon en jämnt fördelad flytförmåga. En sjökohona är dräktig i ungefär ett år och föder vanligtvis en enda rosa unge.
+            <p/>Sjökor lever i små familjegrupper, även om de ibland förflyttar sig i flockar på 15 till 20. De livnär sig både i söt- och saltvatten, och de kan beta i sex till åtta timmar per dag. Vuxna sjökor äter dagligen motsvarande 5 till 10 procent av sin egen kroppsvikt. Sjökornas ämnesomsättning är långsammare än hos andra däggdjur av den storleken, vilket sänker deras energibehov avsevärt. Detta är framför allt viktigt för sjökor i Amazonas när vattnet drar sig tillbaka efter flod, och vissa av sjökorna blir fast på grunt vatten utan växtlighet under långa perioder.
+            <p/>På grund av sin storlek har sjökor få naturliga fiender. Deras population har dock minskat betydligt på grund av jakten på deras skinn, kött och späckolja, och de skadas eller dödas ofta i kollisioner med båtar. Satsningar som har gjorts för att skydda sjökorna i Afrika och Sydamerika leder till problem med den traditionella jakten på djuren. En praktisk aspekt som stöder skyddet av djuren är det faktum att sjökorna hjälper till att hindra flodkanaler som används för bevattning och transport från att växa igen.
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Innehållet har hämtats från <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft® Encarta® 2006.</color></u></a> © 19932005 Microsoft Corporation. Med ensamrätt.
+         </cell>         
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_marlinblue:entry">Blå marlin</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_marlinblue:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/MarlinBlue/MarlinBlue_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>						 
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Hotstatus:
+                     <br/>
+                        <color r="170" g="255" b="0">
+                     Livskraftig
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+				 <cell width="128">
+				  <color r="255" g="255" b="255">Pelagisk<br/></color>
+				  <img src="ui/icon_biomes/icon_pelagic.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+				 </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Atlanten</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/pelagic_atlantic_ocean.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Klass: Strålfeniga fiskar <i>(Actinopterygii)</i>
+                  <br/>
+                  Ordning: <i>Perciformes</i>
+                  <br/>
+                  Familj: <i>Istiophoridae</i>
+                  <br/>
+                  Släkte: <i>Makaira</i>
+                  <br/>
+                  Art: <i>nigricans</i>
+                  </color>
+               </cell>
+				 <cell width="256" pady="10">
+				  <img src="UI/zoopedia/biome/pelagic_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+				 </cell>				 
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Roligt att veta om blå marlin</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Dess långa "svärd" är en del av överkäken.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Den är världens största svärdfisk.</color>
+               </cell>            
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">Om du vill låsa upp blå marlin i utmanings- eller kampanjspel måste din djurpark ha minst 1 stjärna i berömmelsebetyg.</color>
+            <p/>Blå marlin är känd för sitt långa vassa svärd och sin glänsande halvmånformiga stjärt. Den äter bläckfisk, tonfisk och makrill och brukar jaga ensam under dagtid, med svärdet som vapen. 
+            <p/>Den är kringflyttande och rör sig mot ekvatorn på vintern och bort från den på sommaren, i ett område som täcker en stor del av Atlanten. På grund av sin hydrodynamiska form och fysiska styrka är blå marlin en av havets snabbaste simmare. Vissa forskare anser att den blå marlinen i Atlanten (Makaira nigricans) och i Stilla havet (Makaira mazara) är två olika arter. Andra forskare anser att det är en och samma art som finns i Atlanten, Stilla havet och Indiska oceanen.           
+         </cell>        
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_narwhal:entry">Narval</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_narwhal:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/Narwhal/Narwhal_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/Narwhal/Narwhal_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>							 
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>						 
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/vulnerable.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Hotstatus:
+                     <br/>
+                        <color r="255" g="255" b="0">
+                     Sårbar
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+				 <cell width="128">
+				  <color r="255" g="255" b="255">Tundra<br/></color>
+				  <img src="ui/icon_biomes/icon_tundra.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+				 </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Norra ishavet</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/tundra_arctic_ocean.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Klass: Däggdjur <i>(Mammalia)</i>
+                  <br/>
+                  Ordning: <i>Cetacea</i>
+                  <br/>
+                  Familj: <i>Monodontidae</i>
+                  <br/>
+                  Släkte: <i>Monodon</i>
+                  <br/>
+                  Art: <i>monoceros</i>
+                  </color>
+               </cell>
+				 <cell width="256" pady="10">
+				  <img src="UI/zoopedia/biome/tundra_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+				 </cell>				 
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Roligt att veta om narvalen</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Narvalar brukar stanna norr om norra polcirkeln året runt, men vissa har förflyttat sig så långt söderut som till Medelhavet.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Vikingarna visade upp horn från narvalar och låtsades att de kom från enhörningar.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Deras namn kommer från fornnordiskans ord för "likval".</color>
+               </cell>               
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">Om du vill låsa upp narvalen i utmanings- eller kampanjspel måste din djurpark ha minst 3 stjärnor i berömmelsebetyg.</color>
+            <p/>Narvalen är en tandval med robust kropp, och den lever bara i djupa vatten norr om polcirkeln, vanligtvis nära flytande is. Den är nära släkt med vitvalen. Narvalar är fläckigt svartvita. Honor kan bli upp till 4,2 meter, och hanar 4,7 meter långa. Narvalar har bara två tänder och båda sitter i överkäken. Den vänstra tanden växer i en spiral på hanen tills den är upp till 3 meter lång. Om man räknar in huggtanden kan en äldre hane vara nästan 8 meter lång.
+            <p/>Narvalar lever ofta i små flockar på 12 djur som ingår i en större flock. De migrerar årstidsmässigt när isen rör sig, och har ibland hittats bland ovanligt tjock is. De äter främst fisk, bläckfisk och räkor. Medlemmarna i en flock kan dela upp sig efter ålder och kön, framför allt när de migrerar. I sådana fall kan grupper som består av unga hanar eller vuxna hanar lätt urskiljas på grund av sina huggtänder.
+            <p/>Man känner inte till narvalarnas sociala system, men forskare tror att hanar kan visa upp sig för eller slåss med varandra för att komma åt honorna. Hanarna har setts använda sina huggtänder när de slåss med andra hanar ovanför vattenytan, och man har även sett hanar som har avbrutna huggtänder och huggtänder inbäddade i kroppen. Det är förmodligen ovanligt att en hane faktiskt genomborrar en annan med sin huggtand. En vuxen hona kan föda en unge en gång vart tredje år. Dräktigheten varar i ungefär 15 månader, och den enda ungen föds på sommaren.
+            <p/>Narvalar jagas av inuiter och vissa nordeuropéer för sitt skinn, kött, späck - och framför allt för sina huggtänder. Huggtanden används som prydnad, vare sig den är hel eller avskuren, och mals ibland ned till ett pulver för att användas som medicin. Även om artens existens inte verkar vara hotad kan regional överjakt på narvalar och deras föda begränsa deras populationer.
+         </cell>            
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Innehållet har hämtats från <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft® Encarta® 2006.</color></u></a> © 19932005 Microsoft Corporation. Med ensamrätt.            
+         </cell>        
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_ottersea:entry">Havsutter</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_ottersea:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/OtterSea/OtterSea_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>							 
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>						 
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/endangered.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Hotstatus:
+                     <br/>
+                        <color r="255" g="155" b="0">
+                     Starkt hotad
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+				 <cell width="128">
+				  <color r="255" g="255" b="255">Kust<br/></color>
+				  <img src="ui/icon_biomes/icon_coastal.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+				 </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">No. stillahavskusten</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/coastal_north_pacific_coasts.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Klass: Däggdjur <i>(Mammalia)</i>
+                  <br/>
+                  Ordning: <i>Carnivora</i>
+                  <br/>
+                  Familj: <i>Mustelidae</i>
+                  <br/>
+                  Släkte: <i>Enhydra</i>
+                  <br/>
+                  Art: <i>lutris</i>                
+                  </color>
+               </cell>
+				 <cell width="256" pady="10">
+				  <img src="UI/zoopedia/biome/coastal_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+				 </cell>				 
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Roligt att veta om havsuttern</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Uttern är det minsta marina däggdjuret.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Havsuttrar kan vara under vatten i upp till 6 minuter.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Ibland kan havsuttrar flyta på rygg och använda stenar för att öppna skaldjur på sina bröst.</color>
+               </cell>                 
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">Om du vill låsa upp havsuttern i utmanings- eller kampanjspel måste din djurpark ha minst 2 1/2 stjärna i berömmelsebetyg.</color>
+            <p/>Havsuttern lever längs med de amerikanska och asiatiska Stillahavskusterna. Den liknar de eurasiska och nordamerikanska uttrarna vad gäller utseende och vanor, är robust byggda och kan bli 1 till 1,2 meter långa. Havsuttrar äter främst mollusker och sjöborrar som de krossar med sina stora trubbiga tänder. Havsuttrar använder ofta stenar som verktyg för att öppna skaldjur medan de simmar på rygg. Honan föder en unge åt gången och ger di till ungen medan hon flyter på rygg i vattnet. Havsuttern är det enda havsdäggdjuret som inte har ett isolerande lager späck som skyddar djur från de iskalla havsvattnen. För att kompensera att de inte har något späcklager måste havsuttern hela tiden putsa sin päls så att den är helt ren och för att skapa ett isolerande lager luft närmast huden. När de utsätts för oljespill förlorar havsuttrarna sin förmåga att skydda sig mot kallt vatten, eftersom oljan gör pälsen matt och det inte går att skapa ett isolerande lager med luft. Dessutom får havsuttern i sig oljan när den putsar sin päls, vilket oftast leder till att den blir sjuk eller dör.
+            <p/>Havsutterns päls är en av de mest värdefulla av alla. Den bruna innerpälsen är mjuk, tät och ullig, och är täckt av de strävare och längre håren med grå ändar i ytterpälsen. Under den första halvan av 1900-talet, när det fanns många havsuttrar, jagades de på gränsen till utrotning. Därefter har skyddsåtgärder gjort att de har ökat i antal längs med Kaliforniens och Alaskas kuster.
+         </cell>
+			<p/>
+         <cell width="260"/>
+         <cell width="620">Innehållet har hämtats från <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft® Encarta® 2006.</color></u></a> © 19932005 Microsoft Corporation. Med ensamrätt.
+         </cell>                  
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_penguinrockhopper:entry">Klipphopparpingvin</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_penguinrockhopper:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/PenguinRockhopper/PenguinRockhopper_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/PenguinRockhopper/PenguinRockhopper_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>							 
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>						 
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/vulnerable.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Hotstatus:
+                     <br/>
+                        <color r="255" g="255" b="0">
+                     Sårbar
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+				 <cell width="128">
+				  <color r="255" g="255" b="255">Kust<br/></color>
+				  <img src="ui/icon_biomes/icon_coastal.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+				 </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Söderhavsöarna</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/coastal_southern_ocean_islands.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Klass: Fåglar <i>Aves</i>
+                  <br/>
+                  Ordning: <i>Sphenisciformes</i>
+                  <br/>
+                  Familj: <i>Spheniscidae</i>
+                  <br/>
+                  Släkte: <i>Eudyptes</i>
+                  <br/>
+                  Art: <i>chrysocome</i>
+                  </color>
+               </cell>
+				 <cell width="256" pady="10">
+				  <img src="UI/zoopedia/biome/coastal_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+				 </cell>				 
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Roligt att veta om flasknosdelfinen</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Honorna lägger vanligtvis två ägg under häckningssäsongen, men bara ett av dem ruvas.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Klipphopparpingviner lever i genomsnitt i tio år.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">För att locka till sig en partner skakar klipphopparpingvinerna på huvudet för att visa upp sina gula tofsfjädrar.</color>
+               </cell>                 
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">Om du vill låsa upp klipphopparpingvinen i utmanings- eller kampanjspel måste din djurpark ha minst 2 stjärnor i berömmelsebetyg.</color>
+            <p/>Klipphopparpingvinen har fått sitt namn på grund av att de hoppar runt bland stenblocken på öarna de bebor. De är en subantarktisk pingvinart som lever främst på de södra öarna, till exempel Falklandsöarna, Macquarieön och på Antipoderna.
+            <p/>De har en vacker, utmärkande tofs på huvudet och blodröda ögon, och är precis så aggressiva som den intensiva blicken ger sken av. Det är vanligt att de slåss om de bästa platserna att bygga bo på bland klipporna. De är små pingviner, men på grund av sina fötter med simhud och simfenor är de utmärkta simmare och jägare.
+				<p/>Klipphopparpingviner äter lyktfisk, krill och ibland små bläckfiskar. De är själva rov för blåhajar, leopardsälar och pälssälar, och deras ägg och ungar kan ibland bli byten för måsar och andra fåglar.
+				<p/>Eftersom de bygger sina bon på klippor längs kusten är det viktigt för deras överlevnad att de kan hoppa upp på klipporna direkt ur vattnet.  
+         </cell>        
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_raymanta:entry">Djävulsrocka</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_raymanta:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/RayManta/RayManta_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>						 
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Hotstatus:
+                     <br/>
+                        <color r="170" g="255" b="0">
+                     Livskraftig
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+				 <cell width="128">
+				  <color r="255" g="255" b="255">Rev<br/></color>
+				  <img src="ui/icon_biomes/icon_reef.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+				 </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Globala varma hav</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/reef_warm_oceans_worldwide.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Klass: Broskfiskar <i>(Chondrichthyes)</i>
+                  <br/>
+                  Ordning: <i>Myliobatiformes</i>
+                  <br/>
+                  Familj: <i>Mobulidae</i>
+                  <br/>
+                  Släkte: <i>Manta</i>
+                  <br/>
+                  Art: <i>birostris</i>
+                  </color>
+               </cell>
+				 <cell width="256" pady="10">
+				  <img src="UI/zoopedia/biome/reef_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+				 </cell>				 
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Roligt att veta om djävulsrockan</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Djävulsrockor, liksom vissa valar, filtrerar sin föda och samlar in små organismer och småfisk i munnen medan de simmar.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Eftersom de är så stora är deras enda naturliga fiender stora hajar.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Djävulsrockan är den största rockan i världen.</color>
+               </cell>                 
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">Om du vill låsa upp djävulsrockan i utmanings- eller kampanjspel måste din djurpark ha minst 1/2 stjärna i berömmelsebetyg.</color>
+            <p/>Djävulsrockor lever i tempererade och tropiska vatten nära kontinenter och ögrupper i alla hav. De här broskfiskarna har stora, vingliknande bröstfenor. Den största, atlantdjävulsrockan, kan bli 7 meter från ena fenspetsen till den andra. De två flikarna på var sida av huvudet som pekar framåt och sägs likna djävulshorn används för att leda in plankton och små kräftdjur in i rockans mun när den simmar nära ytan. De har täta gälar som skiljer ut plankton. Rockan är inte farlig för människor förutom när den blir fångad, då den piskar och slår med fenorna.
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Innehållet har hämtats från <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft® Encarta® 2006.</color></u></a> © 19932005 Microsoft Corporation. Med ensamrätt.
+         </cell>         
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_sealioncalifornia:entry">Kaliforniskt sjölejon</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_sealioncalifornia:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/SeaLionCalifornia/SeaLionCalifornia_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/SeaLionCalifornia/SeaLionCalifornia_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>							 
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>						 
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Hotstatus:
+                     <br/>
+                        <color r="170" g="255" b="0">
+                     Livskraftig
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+				 <cell width="128">
+				  <color r="255" g="255" b="255">Kust<br/></color>
+				  <img src="ui/icon_biomes/icon_coastal.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+				 </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Öst. stillahavskusten</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/coastal_east_pacific_coast.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Klass: Däggdjur <i>(Mammalia)</i>
+                  <br/>
+                  Ordning: <i>Carnivora</i>
+                  <br/>
+                  Familj: <i>Otariidae</i>
+                  <br/>
+                  Släkte: <i>Zalophus</i>
+                  <br/>
+                  Art: <i>californianus</i>
+
+                  </color>
+               </cell>
+				 <cell width="256" pady="10">
+				  <img src="UI/zoopedia/biome/coastal_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+				 </cell>				 
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Roligt att veta om kaliforniska sjölejon</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Kaliforniska sjölejon lever inte bara i Kalifornien. Deras territorium sträcker sig längs med en stor del av Nordamerikas stillahavskust. Man har till och med sett kaliforniska sjölejon i södra Japanska havet.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Man kan avgöra sjölejonens ålder genom att räkna ringarna i tvärsnitt av deras tänder. Det äldsta kaliforniska sjölejonet som levde i fångenskap blev 31 år gammalt.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Kaliforniska sjölejon är väldigt anpassningsbara när det gäller föda. Deras föda varierar beroende på vad som finns i den närmsta omgivningen.</color>
+               </cell>                 
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">Om du vill låsa upp det kaliforniska sjölejonet i utmanings- eller kampanjspel måste din djurpark ha minst 1 1/2 stjärna i berömmelsebetyg.</color>
+            <p/>Det kaliforniska sjölejonet är en intelligent säl med en smidig kropp. Det är berömt för sina balansuppvisningar på cirkus och finns på nästan alla djurparker. Eftersom sjölejonet är sällskapligt, rör sig snabbt och smidigt på land och ger ifrån sig livfulla ljud som liknar skall är denna säl lätt att lära upp samtidigt som den tilltalar den mänskliga publiken. Ute i naturen lever sälarna på kusten och återfinns på flera platser längs med Nordamerikas västra kust. Det finns även populationer på Galapagosöarna.
+            <p/>
+            Vuxna hanar väger i genomsnitt 360 kilo och är i genomsnitt 2 meter långa. Honorna är mindre och väger i genomsnitt 110 kilo och är i genomsnitt 1,8 meter långa. Både hanar och honor har chokladbrun päls och hundliknande nosar. Hanarna har framskjutande pannor på grund av att de har ett inre ben som fungerar som fäste för starka tuggmuskler. Kaliforniska sjölejon äter bläckfisk och olika typer av fiskar, till exempel sill, drakhuvudfisk, makrill, ansjovis och nejonöga. De jagar på grunt vatten och tävlar ofta med sina nära släktingar, Stellers sjölejon.
+            <p/>
+            Tidigt i juni skapar hanarna fortplantningsterritorier, eller kolonier, på sandiga eller steniga kuster. Varje hane parar sig med ett harem - en grupp som består av fem till tjugo honor. Hanarna försvarar sitt harem och sitt territorium energiskt och strategiskt - de patrullerar området, på land och i vattnet, samtidigt som de skäller högt och poserar för inkräktare. Ibland slåss de mot inkräktande hanar.
+            <p/>
+            Alla honor föder en unge inom sin koloni ungefär ett år efter befruktningen. Modern och den nyfödda ungen lär sig snabbt varandras läten. Modern lär sig även ungens lukt. Modern tar med sig ungen till vattnet tidigt och ger di till den under en lång period (ofta i ett år eller mer), vilket skapar ett starkt band. När ungarna växer bildar de grupper som leker, äter och sover tillsammans, mitt i den högljudda kolonin. När ungarna är två eller tre veckor gamla parar sig honorna igen. Honor håller sig i närheten av kolonin, ofta på stränder på avsides öar, medan hanarna migrerar norrut på sommaren och hösten efter parningsperioden.
+            <p/>
+            Eftersom de lever utmed kusten är kaliforniska sjölejon utsatta för giftiga föroreningar och störningar av människor. De är rov för hajar och späckhuggare, och har tidigare även jagats av människor. Djuren får sedan lagen Marine Mammal Protection Act trädde i kraft 1972 inte jagas eller besväras av människor. Ändå drunknade ungefär 1 500 sjölejon per år under det tidiga 1980-talet efter att ha fastnat i fisknät. Nyligen har man vidtagit åtgärder för att reglera och begränsa nätfiske i kaliforniska vatten, vilket har minskat antalet döda sjölejon.
+         </cell>
+			<p/>
+         <cell width="260"/>
+         <cell width="620">Innehållet har hämtats från <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft® Encarta® 2006.</color></u></a> © 19932005 Microsoft Corporation. Med ensamrätt.
+         </cell>                  
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_sharkreefblacktip:entry">Svartfenad revhaj</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_sharkreefblacktip:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/SharkReefBlackTip/SharkReefBlackTip_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>						 
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Hotstatus:
+                     <br/>
+                        <color r="170" g="255" b="0">
+                     Livskraftig
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+				 <cell width="128">
+				  <color r="255" g="255" b="255">Rev<br/></color>
+				  <img src="ui/icon_biomes/icon_reef.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+				 </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Indo-Pacif.hav</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/reef_indian_pacific_oceans.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Klass: Broskfiskar <i>(Chondrichthyes)</i>
+                  <br/>
+                  Ordning: <i>Carcharhiniformes</i>
+                  <br/>
+                  Familj: <i>Carcharhinidae</i>
+                  <br/>
+                  Släkte: <i>Carcharhinus</i>
+                  <br/>
+                  Art: <i>melanopterus</i>
+                  </color>
+               </cell>
+				 <cell width="256" pady="10">
+				  <img src="UI/zoopedia/biome/reef_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+				 </cell>				 
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Roligt att veta om den svartfenade revhajen</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Svartfenade revhajar kan ibland finnas i sötvatten, till exempel där floder flyter ut i havet.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Det har hänt att svartfenade revhajar har bitit människor som vadat i grunt vatten, med det beror oftast på att de misstar människans fot för en fisk. Hävdar hajen i alla fall.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Om de lever i fångenskap behöver de svartfenade revhajarna mycket utrymme att simma runt i. Ibland har de hoppat ut ur stora akvarier hos människor som har försökt att ha dem hemma!</color>
+               </cell>                 
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">Om du vill låsa upp den svartfenade revhajen i utmanings- eller kampanjspel måste din djurpark ha minst 3 stjärnor i berömmelsebetyg.</color>
+            <p/>Den svartfenade revhajen är en liten hajart som kan bli upp till 2 meter lång, men vanligtvis är mindre än 1,6 meter. Namnet kommer från den tydliga svarta spetsen med en vit kant under på den första ryggfenan. Den lever dessutom främst vid kuster och korallrev. 
+            <p/>Svartfenade revhajar lever främst på fisk, men på grund av de sågtandade tänderna kan de även äta kräftdjur (till exempel krabbor och humrar) och bläckfiskar. I vattnen utanför Australiens kuster äter de även ormar.
+            <p/>Även om de svartfenade revhajarna inte är utrotningshotade är de ständigt i fara på grund av sin långa dräktighetstid (16 månader) och att de bara föder 2 till 4 ungar. De är även populära i maträtter på restauranger.            
+         </cell>        
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_sharkgoblin:entry">Trollhaj</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_sharkgoblin:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/SharkGoblin/SharkGoblin_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>						 
+						 <cell width="156"/>
+                  <br/>   
+					  <cell width="32" pady="0">               
+						  <img src="ui/zoopedia/vulnerable.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+					  </cell>                 
+					  <cell width="224" padx="10" pady="0">
+						  <color r="255" g="255" b="255">
+						  Hotstatus:
+						  <br/>
+							  <color r="255" g="255" b="0">
+						  Sårbar
+							  </color>
+						  </color>                  
+					</cell>
+               </cell>                        
+				 <cell width="128">
+				  <color r="255" g="255" b="255">Bentisk<br/></color>
+				  <img src="ui/icon_biomes/icon_benthic.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+				 </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Varma hav över hela världen</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/benthic_warm_oceans_worldwide.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Klass: Broskfiskar <i>(Chondrichthyes)</i>
+                  <br/>
+                  Ordning: <i>Lamniformes</i>
+                  <br/>
+                  Familj: <i>Mitsukurinidae</i>
+                  <br/>
+                  Släkte: <i>Mitsukurina</i>
+                  <br/>
+                  Art: <i>owstoni</i>
+                  </color>
+               </cell>
+				 <cell width="256" pady="10">
+				  <img src="UI/zoopedia/biome/benthic_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+				 </cell>				 
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Roligt att veta om trollhajen</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Trollhajen har fått sitt namn helt enkelt på grund av att den är så ful.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Artnamnet "owstoni" kommer från Alan Owston, som var en brittisk viktoriansk biolog.</color>
+               </cell>               
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">Om du vill låsa upp trollhajen i utmanings- eller kampanjspel måste din djurpark ha minst 4 stjärnor i berömmelsebetyg.</color>
+            <p/>Trollhajen är en djupvattenshaj som sällan kan ses i ytliga kustvatten eller vid vattenytan i hav. Den har ett rosavitt skinn med blå fenor och en lång, platt nos som skjuter fram separat från den enorma munnen. 
+				<p/>
+				Det är en ganska stor hajart. Hanar kan bli upp till 3,8 meter långa. Hajen äter bottendjur: räkor, bläckfisk och ibland till och med krabbor. Eftersom den lever på djupt vatten kommer den i det fria aldrig i kontakt med människor.
+				<p/>
+				Trollhajen tros vara spridd över hela världen. Man har sett arten vid Japans, Australiens och Sydafrikas kuster.
+         </cell>                
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_sharkhammerheadscalloped:entry">Flerhornig hammarhaj</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_sharkhammerheadscalloped:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/SharkHammerheadScalloped/SharkHammerheadScalloped_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>						 
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Hotstatus:
+                     <br/>
+                        <color r="170" g="255" b="0">
+                     Livskraftig
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+				 <cell width="128">
+				  <color r="255" g="255" b="255">Pelagisk<br/></color>
+				  <img src="ui/icon_biomes/icon_pelagic.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+				 </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Varma hav över hela världen</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/pelagic_warm_oceans_worldwide.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Klass: Broskfiskar <i>(Chondrichthyes)</i>
+                  <br/>
+                  Ordning: <i>Carcharhiniformes</i>
+                  <br/>
+                  Familj: <i>Sphyrnidae</i>
+                  <br/>
+                  Släkte: <i>Sphyrna</i>
+                  <br/>
+                  Art: <i>lewini</i>
+                  </color>
+               </cell>
+				 <cell width="256" pady="10">
+				  <img src="UI/zoopedia/biome/pelagic_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+				 </cell>				 
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Roligt att veta om den flerhorniga hammarhajen</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Stora hammarhajar, som är den största arten av hammarhaj, kan ibland vara kannibaler!</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Hammarhajens luktsinne är så bra att den kan känna en mycket liten mängd blod (en miljondel) i havsvatten.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">De stora hammarhajarna, där den flerhorniga hammarhajen ingår, anses vara farliga för människor. Mindre hammarhajar anses inte vara det.</color>
+               </cell>                 
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">Om du vill låsa upp den flerhorniga hammarhajen i utmanings- eller kampanjspel måste din djurpark ha minst 3 1/2 stjärnor i berömmelsebetyg.</color>
+            <p/>Den flerhorniga hammarhajen är en av tio besläktade arter av hammarhajar som finns i tropiska och tempererade hav. Stora, platta utväxter på huvudet gör att de här fiskarna kan simma likt ett hydroplan och gör det möjligt för dem att svänga snabbare än andra hajar. Ögonen och näsborrarna, som sitter brett isär på var sida av hammaren, gör att de har en bättre förmåga att hitta byten. Den stora hammarhajen har stora tänder, simmar snabbt och är drygt 4 meter lång - och har ibland attackerat dykare. Två andra stora arter anses vara farliga, den flerhorniga hammarhajen och den släta hammarhajen. Vissa arter, till exempel den skovelhuvade hammarhajen, som bara blir 1 meter lång och är vanlig längs Floridas kuster, har spadformade huvuden.            
+         </cell>
+			<p/>
+         <cell width="260"/>
+         <cell width="620">Innehållet har hämtats från <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft® Encarta® 2006.</color></u></a> © 19932005 Microsoft Corporation. Med ensamrätt.
+         </cell>                  
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_sharkwhale:entry">Valhaj</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_sharkwhale:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/SharkWhale/SharkWhale_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>						 
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/vulnerable.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Hotstatus:
+                     <br/>
+                        <color r="255" g="255" b="0">
+                     Sårbar
+                        </color>
+                     </color>                  
+                  </cell>                  
+               </cell>                        
+				 <cell width="128">
+				  <color r="255" g="255" b="255">Bentisk<br/></color>
+				  <img src="ui/icon_biomes/icon_benthic.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+				 </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Globala varma hav</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/benthic_warm_oceans_worldwide.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Klass: Broskfiskar <i>(Chondrichthyes)</i>
+                  <br/>
+                  Ordning: <i>Orectolobiformes</i>
+                  <br/>
+                  Familj: <i>Rhiniodontidae</i>
+                  <br/>
+                  Släkte: <i>Rhincodon</i>
+                  <br/>
+                  Art: <i>typus</i>
+                  </color>
+               </cell>
+				 <cell width="256" pady="10">
+				  <img src="UI/zoopedia/biome/benthic_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+				 </cell>				 
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Roligt att veta om valhajen</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Valhajar utgör ingen fara för människor, förutom om den simmar in i en båt av misstag.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Valhajen äter genom att suga in havsvatten i munnen, stänga munnen och sedan sila ut vattnet genom gälarna, och på så vis fånga upp små fiskar och organismer.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Valhajar hostar ibland för att rensa bort mat som fastnat i gälarna.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">De valhajar du tar in på din djurpark är unga, vilket innebär att de blir ännu större när de blir vuxna. Antingen släpper du ut den unga valhajen i det fria innan den växer upp eller så får du vara beredd på att bygga ut tanken!</color>
+               </cell>                 
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">Om du vill låsa upp valhajen i utmanings- eller kampanjspel måste din djurpark ha minst 4 1/2 stjärnor i berömmelsebetyg.</color>
+            <p/>Valhajen är den största fisken i tropiska vatten som man känner till i världen. Valhajen kan bli drygt 15 meter och väga mer än 18 ton. Den är mörkblå på ovansidan och vit på undersidan, och är mörkare än de flesta hajarna, även om den har vita fläckar och linjer på kroppen. På huvudet och ryggen finns flera breda, längsgående upphöjningar. Den har en bred, platt nos där munnen sitter längst ut istället för under nosen och i käkarna sitter massvis med små tänder. Gälarna är ovanligt stora. Valhajen äter småfisk och plankton i havsvattnet som den silar ut med hjälp av gälarna. Den är ofarlig för människor. Unga valhajar kläcks ur befruktade ägg inuti honans kropp och föds sedan levande.          
+         </cell>        
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_sharkwhite:entry">Vithaj</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_sharkwhite:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/SharkWhite/SharkWhite_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>						 
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/vulnerable.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Hotstatus:
+                     <br/>
+                        <color r="255" g="255" b="0">
+                     Sårbar
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+				 <cell width="128">
+				  <color r="255" g="255" b="255">Bentisk<br/></color>
+				  <img src="ui/icon_biomes/icon_benthic.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+				 </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Kuster över hela världen</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/benthic_coasts_worldwide.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Klass: Broskfiskar <i>(Chondrichthyes)</i>
+                  <br/>
+                  Ordning: <i>Lamniformes</i>
+                  <br/>
+                  Familj: <i>Lamnidae</i>
+                  <br/>
+                  Släkte: <i>Carcharodon</i>
+                  <br/>
+                  Art: <i>carcharias</i>
+                  </color>
+               </cell>
+				 <cell width="256" pady="10">
+				  <img src="UI/zoopedia/biome/benthic_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+				 </cell>				 
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Roligt att veta om vithajen</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Vithajar är bara vita på undersidan. Ryggen är blågrå.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Vithajar är mycket bra på att simma lodrätt, vilket är anledningen till att de ofta attackerar sitt byte underifrån.</color>
+               </cell>                 
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">Om du vill låsa upp vithajen i utmanings- eller kampanjspel måste din djurpark ha 5 stjärnor i berömmelsebetyg.</color>
+            <p/>Vithajen har en konformad nos i stället för en platt, den har svarta ögon och stora, sågtandade, pilspetsformade tänder. Stjärtfenans övre och undre del är nästan lika stora, och kroppen är blå- eller brungrå, inte vit, förutom på undersidan.
+				<p/>
+				Trots att vithajen är en ökänd filmskurk är det ont om information om hajens beteende. En av de största vithajarna som fångats fångades 1964 utanför Montauk i Long Island i New York. Hajen var 5,34 meter lång och vägde uppskattningsvis 2 043 kilo. Vithajar sväljer hela byten och föremål som är hälften så stora som dem själva utan att tugga. Deras föda består främst av sälar, delfiner, sköldpaddor, bitar av valar, fiskar och avfall från fartyg. Mellan 1916 och 1969 inträffade 32 vithajattacker på badande människor, varav 13 dog. Vid tre tillfällen har det rapporterats att vithajar har attackerat båtar, där en av dem, utanför Cape Breton i Nova Scotia i Kanada, sjönk som följd. Till en av Australiens kuster, där de största vithajarna har fångats, återvände en vithajhona som man kände igen på grund av hennes ärr i 13 års tid.
+				<p/>
+				Trots att vithajar är kraftfulla och skrämmer livet ur människor som de kommer i kontakt med håller de flesta med om att de har fått ett oförtjänt dåligt rykte. Vissa specialister tror att den är utrotningshotad på grund av att det finns mindre föda för hajen och på grund av troféjägarnas överjakt på dem. 
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Innehållet har hämtats från <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft® Encarta® 2006.</color></u></a> © 19932005 Microsoft Corporation. Med ensamrätt.
+         </cell>          
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_turtleleatherback:entry">Havslädersköldpadda</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_turtleleatherback:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/TurtleLeatherback/TurtleLeatherback_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/TurtleLeatherback/TurtleLeatherback_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>					 
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>						 
+						 <cell width="156"/>
+                  <br/>
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/critical.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Hotstatus:
+                     <br/>
+                        <color r="255" g="0" b="0">
+                     Akut hotad
+                        </color>
+                     </color>                  
+                  </cell>                  
+               </cell>                        
+               <cell width="128">
+                  <color r="255" g="255" b="255">Pelagisk<br/></color>
+                  <img src="ui/icon_biomes/icon_pelagic.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+               </cell>
+					<cell width="128">
+						<color r="255" g="255" b="255">Globala varma hav</color>
+						<br/>
+						<img src="ui/icon_maplocations/coastal_warm_oceans_worldwide.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+					</cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Klass: Reptiler <i>(Reptilia)</i>
+                  <br/>
+                  Ordning: <i>Testudines</i>
+                  <br/>
+                  Familj: <i>Dermochelyidae</i>
+                  <br/>
+                  Släkte: <i>Dermochelys</i>
+                  <br/>
+                  Art: <i>coriacea</i>
+                  </color>
+               </cell>
+               <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/pelagic_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+               </cell>
+            </cell>
+         </cell>         
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Roligt att veta om havslädersköldpaddan</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Du kan avgöra om en havslädersköldpadda är en hona med hjälp av den rosa fläcken på ovansidan av deras huvuden.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Havslädersköldpaddor jagas inte som föda, eftersom deras kött tros vara giftigt. Deras ägg samlas dock in, vilket har lett till att arten är utrotningshotad.</color>
+               </cell>                 
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">Om du vill låsa upp havslädersköldpaddan i utmanings- eller kampanjspel måste din djurpark ha minst 2 1/2 stjärnor i berömmelsebetyg.</color>
+            <p/>Havslädersköldpaddan är den största levande sköldpaddan. Havslädersköldpaddans ryggsköld kan bli 2,4 meter lång och väga mer än 900 kilo. Havslädersköldpaddan lever längre norrut och söderut än andra havssköldpaddor i Atlanten, Stilla havet och Indiska oceanen, och lever ibland i Medelhavet. Även om den kan tillbringa lång tid i väldigt kalla vatten kan havslädersköldpaddan behålla en kroppstemperatur som är mycket högre än vattnets på grund av sin storlek och sin muskelaktivitet. Till skillnad från andra havssköldpaddor har havslädersköldpaddan inga stora, hornartade fjäll på ryggskölden och bröstskölden. I stället har den läderartat skinn med en mosaik av små inbäddade ben. De har sju tydliga längsgående kanter på ryggskölden och fem kanter på bröstskölden. Sköldpaddan är svartaktig eller blåsvart och har vanligtvis små, oregelbundna rosa fläckar. Benen är starka och paddelformade för att de ska kunna simma långt. Frambenen är ganska stora, speciellt hos unga sköldpaddor. Hanen tillbringar sitt vuxna liv i havet och honan visar sig bara för att lägga ägg på stränderna. Havslädersköldpaddor är inte ätliga, och deras kött innehåller ovanligt mycket olja. De äter främst maneter, men även sjögräs, sjöborrar, bläckfisk och mollusker.
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Innehållet har hämtats från <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft® Encarta® 2006.</color></u></a> © 19932005 Microsoft Corporation. Med ensamrätt.
+         </cell>         
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_turtleseagreen:entry">Soppsköldpadda</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_turtleseagreen:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/TurtleSeaGreen/TurtleSeaGreen_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/TurtleSeaGreen/TurtleSeaGreen_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>						 
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>						 
+                  <br/>                   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/endangered.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Hotstatus:
+                     <br/>
+                        <color r="255" g="155" b="0">
+                     Starkt hotad
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+               <cell width="128">
+                  <color r="255" g="255" b="255">Kust<br/></color>
+                  <img src="ui/icon_biomes/icon_coastal.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+               </cell>
+					<cell width="128">
+						<color r="255" g="255" b="255">Globala varma hav</color>
+						<br/>
+						<img src="ui/icon_maplocations/coastal_warm_oceans_worldwide.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+					</cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Klass: Reptiler <i>(Reptilia)</i>
+                  <br/>
+                  Ordning: <i>Testudines</i>
+                  <br/>
+                  Familj: <i>Cheloniidae</i>
+                  <br/>
+                  Släkte: <i>Chelonia</i>
+                  <br/>
+                  Art: <i>mydas</i>
+                  </color>
+               </cell>
+               <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/coastal_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+               </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Roligt att veta om soppsköldpaddan</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Soppsköldpaddan är den största havssköldpaddan i världen med hårt skal. Havslädersköldpaddan är större, men den har inget hårt skal.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Soppsköldpaddsungar använder en "äggtand" för att ta sig ut ur skalet när de kläcks.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Så snart som ungen kläckts börjar den använda sina simfötter. På så sätt kan ungarna ta sig upp ur sanden där äggen är begravda och sedan krypa till vattnet och simma iväg.</color>
+               </cell>                
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">Om du vill låsa upp soppsköldpaddan i utmanings- eller kampanjspel måste din djurpark ha minst 1 stjärna i berömmelsebetyg.</color>
+            <p/>Soppsköldpaddan, som kallas grön havssköldpadda på engelska, är en stor sköldpadda som fått sitt engelska namn på grund av färgen på sitt fett, trots att den är brunaktig på utsidan. Det är den snabbaste sköldpaddan, den kan simma i upp till 32 kilometer i timmen. Soppsköldpaddan är vanlig i varma hav och på sommaren lever den ibland vid USA:s och Europas norra atlantkuster. Skalet hos vuxna soppsköldpaddor kan bli mer än en meter långt och väga mer än 180 kilo. Den skiljer sig från andra havssköldpaddor i att den har ett par stora plattor längst upp på huvudet mellan ögonen, ett relativt slätt skal utan kanter och endast fyra plattor som inte överlappar på var sida om skalet. Hanen lämnar aldrig havet och honan går bara upp på land för att lägga ägg. De lägger upp till 200 ägg i sanden ovanför vattenbrynet nattetid. Ungarna kläcks av solens värme och kryper tidigt ned i havet. Soppsköldpaddor är allätare men äter främst havsväxter. De är eftertraktade av jägare eftersom deras kött liknar kalvkött och är en delikatess som används till sköldpaddssoppa och sköldpaddsbiffar. Även deras ägg är en delikatess. Antalet soppsköldpaddor minskar drastiskt på grund av överjakt.
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Innehållet har hämtats från <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft® Encarta® 2006.</color></u></a> © 19932005 Microsoft Corporation. Med ensamrätt.
+         </cell>         
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_walruspacific:entry">Valross</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_walruspacific:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/WalrusPacific/WalrusPacific_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/WalrusPacific/WalrusPacific_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>						 
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>						 
+						 <cell width="156"/>
+                  <br/>                   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/vulnerable.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Hotstatus:
+                     <br/>
+                        <color r="255" g="255" b="0">
+                     Sårbar
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+				 <cell width="128">
+				  <color r="255" g="255" b="255">Tundra<br/></color>
+				  <img src="ui/icon_biomes/icon_tundra.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+				 </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Norra ishavet</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/tundra_arctic_ocean.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Klass: Däggdjur <i>(Mammalia)</i>
+                  <br/>
+                  Ordning: <i>Carnivora</i>
+                  <br/>
+                  Familj: <i>Odobenidae</i>
+                  <br/>
+                  Släkte: <i>Odobenus</i>
+                  <br/>
+                  Art: <i>rosmarus</i>
+                  <br/>
+                  Underart: <i>divergens</i>                  
+                  </color>
+               </cell>
+				 <cell width="256" pady="10">
+				  <img src="UI/zoopedia/biome/tundra_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+				 </cell>				 
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Roligt att veta om valrossen</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Namnet kommer från fornnordiskans "hvall-hross" (val-häst).</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Valrossar kan ibland använda sina huggtänder som hakar för att klättra på isen!</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Valrossens favoritmat är musslor.</color>
+               </cell> 
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Valrossar kan ibland blåsa upp musslor från havsbottnen för att få tag på dem med en vattenstråle.</color>
+               </cell>       
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">Om du vill låsa upp valrossen i utmanings- eller kampanjspel måste din djurpark ha minst 4 1/2 stjärnor i berömmelsebetyg.</color>
+            <p/>Valrossen är ett stort marint däggdjur som lever i de arktiska områdena vid polarisens kanter längs med de nordöstra kusterna av Kanada och Sibirien, Kamtjatka, Alaskas nordöstra kust, Grönland, norra Norge och Ellesmereön. Det finns två valrosspopulationer: atlantvalrossen och stillahavsvalrossen.
+            <p/>Liksom sälar med öron kan valrossar vrida på bakbenen och på så vis använda alla fyra benen när de förflyttar sig på land. Valrossar kan bli mellan 2,7 och 3,56 meter långa och väga mellan 800 och 1 700 kilo. Hanarna är större än honorna. Både hanen och honan har stora, tunga kroppar med tjock, fårad hud som blir nästintill hårlös med åldern. Båda har relativt små huvuden utan yttre öron - ett skinnveck visar var örat sitter. De har breda nosar med borsthår och extremt förlängda övre hörntänder, som stora huggtänder eller betar. Betarna, som kan bli 1 m långa hos vissa hanar, används som vapen och för att haka fast i isen när de klättrar. Tidigare trodde man att huggtänderna användes för att krafsa i havsbottnen efter mollusker och skaldjur, som är valrossens främsta föda, men nu tror man att de känsliga borsthåren och den köttiga nosen är de främsta verktygen när valrossen ska hitta och leta fram sina byten från bottnen.
+            <p/>Valrossen är ett mycket socialt djur som lever i flockar, som ibland består av tusentals djur, på eller nära stranden eller bland isflak. Flockens vrål kan ibland höras på väldigt långt håll. Valrossar är lugna, förutom om de blir attackerade. Hela flocken försvarar en medlem som utsätts för fara. Isbjörnen är valrossens främsta naturliga fiende, men även människor jagar valrossar på grund av deras värdefulla elfenbenständer och deras kött och späck. Överdriven jakt av valrossar har kraftigt minskat populationen.
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Innehållet har hämtats från <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft® Encarta® 2006.</color></u></a> © 19932005 Microsoft Corporation. Med ensamrätt.
+         </cell>         
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_whalefalsekiller:entry">Halvspäckh.</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_whalefalsekiller:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/WhaleFalseKiller/WhaleFalseKiller_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>						 
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Hotstatus:
+                     <br/>
+                        <color r="170" g="255" b="0">
+                     Livskraftig
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+				 <cell width="128">
+				  <color r="255" g="255" b="255">Kust<br/></color>
+				  <img src="ui/icon_biomes/icon_coastal.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+				 </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Kuster över hela världen</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/coastal_coasts_worldwide.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Klass: Däggdjur <i>(Mammalia)</i>
+                  <br/>
+                  Ordning: <i>Cetacea</i>
+                  <br/>
+                  Familj: <i>Delphinidae</i>
+                  <br/>
+                  Släkte: <i>Pseudorca</i>
+                  <br/>
+                  Art: <i>crassidens</i>
+                  </color>
+               </cell>
+				 <cell width="256" pady="10">
+				  <img src="UI/zoopedia/biome/coastal_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+				 </cell>				 
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Roligt att veta om halvspäckhuggare</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Halvspäckhuggaren är en typ av delfin. Det är alltså ingen val.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Halvspäckhuggaren är mycket lekfull och har ibland närmat sig båtar på havet.</color>
+               </cell>                 
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">Om du vill låsa upp halvspäckhuggaren i utmanings- eller kampanjspel måste din djurpark ha minst 4 stjärnor i berömmelsebetyg.</color>
+            <p/>Halvspäckhuggaren har fått sitt namn eftersom den är så lik späckhuggaren. De två djuren har skallar som är lika, men de är inte nära släkt rent biologiskt. De har även lika färger, men i olika mönster: halvspäckhuggaren är till större delen svart eller mörkgrå, och bara vit på undersidan. Späckhuggaren har vit teckning på flera andra delar av kroppen.
+            <p/>Halvspäckhuggaren finns över hela världen, både i tempererade och tropiska vatten, men de är inte talrika på någon plats. De äter olika sorters fisk, till exempel lax, bläckfisk, tonfisk, makrill och mahi-mahi.
+            <p/>Halvspäckhuggaren är ett flockdjur som förflyttar sig i stora grupper. Grupper med färre än 100 djur anses vara små, och medför en risk att de blir "genetiskt utdöda" på grund av att de är så genetiskt lika och riskerar problem med inavel. 
+         </cell>      
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_whaleorca:entry">Späckh.</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_whaleorca:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/WhaleOrca/WhaleOrca_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/WhaleOrca/WhaleOrca_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>						 
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>						 
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Hotstatus:
+                     <br/>
+                        <color r="170" g="255" b="0">
+                     Livskraftig
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+				 <cell width="128">
+				  <color r="255" g="255" b="255">Tundra<br/></color>
+				  <img src="ui/icon_biomes/icon_tundra.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+				 </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Kalla hav världen över</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/tundra_arctic_antarctic_oceans.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Klass: Däggdjur <i>(Mammalia)</i>
+                  <br/>
+                  Ordning: <i>Cetacea</i>
+                  <br/>
+                  Familj: <i>Delphinidae</i>
+                  <br/>
+                  Släkte: <i>Orcinus</i>
+                  <br/>
+                  Art: <i>Späckh.</i>
+                  </color>
+               </cell>
+				 <cell width="256" pady="10">
+				  <img src="UI/zoopedia/biome/tundra_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+				 </cell>				 
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Roligt att veta om späckhuggare</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Späckhuggare bryr sig mycket om sina unga. Både modern och flera av de andra vuxna honorna i flocken ser efter ungarna.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Varje späckhuggarflock har sin egen dialekt.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Späckhuggarna har fått sitt namn eftersom de jagar flera olika typer av havsdjur, bland annat vissa stora valar. De attackerar inte människor.</color>
+               </cell>                 
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">Om du vill låsa upp späckhuggaren i utmanings- eller kampanjspel måste din djurpark ha minst 5 stjärnor i berömmelsebetyg.</color>
+            <p/>Späckhuggaren är ett havsdäggdjur, och den största av medlemmarna i delfinfamiljen. Den har fått sitt engelska namn (killer whale eller mördarval) på grund av att den slukar allt från fisk till sjöfåglar, havssköldpaddor och havsdäggdjur. Namnet kan dock vara förvirrande. Späckhuggaren är en medlem av delfinfamiljen Delphinidae.
+            <p/>Späckhuggare har en väldefinierad social struktur som kretsar kring ledarhonan. De använder sig främst av ljud som kommunikationsmedel och för att hitta byten. Bland späckhuggarnas ljud finns klickljud, visslingar och vibrerande rop.
+            <p/>Späckhuggare finns i fler delar av världen än något annat havsdäggdjur. De lever i alla hav, både på öppet vatten och nära kusten. De återfinns främst i kalla vatten men lever även i de varma vattnen vid Bahamas, Karibien och Hawaii. Man har till och med sett späckhuggare i vissa floder.
+            <p/>Späckhuggarens våldsamma sätt att äta på har länge väckt både fruktan och respekt för djuret bland infödda folkslag, framför allt bland infödda amerikaner i områden vid nordvästra Stilla havet. Stammarna Tlingit, Kwakiutl och Haida använder bilder av djuren i sin totemkonst och det finns illustrationer av späckhuggare på masker, fat, hjälmar och filtar. Men trots ryktet om späckhuggarens våldsamhet tror man i vissa kulturer, till exempel i Tlingit-stammen, att späckhuggaren är en välvillig väktare av maten från havet. De tror att människor fångar rikligt med fisk om det finns späckhuggare i närheten.
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Innehållet har hämtats från <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft® Encarta® 2006.</color></u></a> © 19932005 Microsoft Corporation. Med ensamrätt.
+         </cell>         
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_whalepilotshortfinned:entry">Indiska oceanens pilotval</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_whalepilotshortfinned:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/WhalePilotShortFinned/WhalePilotShortFinned_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/WhalePilotShortFinned/WhalePilotShortFinned_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>
+						 <cell width="16">						
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>						 
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Hotstatus:
+                     <br/>
+                        <color r="170" g="255" b="0">
+                     Livskraftig
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+				 <cell width="128">
+				  <color r="255" g="255" b="255">Pelagisk<br/></color>
+				  <img src="ui/icon_biomes/icon_pelagic.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+				 </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Globala varma hav</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/pelagic_warm_oceans_worldwide.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Klass: Däggdjur <i>(Mammalia)</i>
+                  <br/>
+                  Ordning: <i>Cetacea</i>
+                  <br/>
+                  Familj: <i>Delphinidae</i>
+                  <br/>
+                  Släkte: <i>Globicephala</i>
+                  <br/>
+                  Art: <i>macrorhynchus</i>
+                  </color>
+               </cell>
+				 <cell width="256" pady="10">
+				  <img src="UI/zoopedia/biome/pelagic_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+				 </cell>				 
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Roligt att veta om Indiska oceanens pilotval</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Indiska oceanens pilotval är i själva verket en delfin!</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Pilotvalarnas ungar tas hand om av sina mödrar och av andra medlemmar i flocken.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Pilotvalarna jagar ibland i grupp och radar upp sig sida vid sida i rader som kan vara över tre kilometer långa!</color>
+               </cell>                 
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">Om du vill låsa upp indiska oceanens pilotval i utmanings- eller kampanjspel måste din djurpark ha minst 2 stjärnor i berömmelsebetyg.</color>
+            <p/>Indiska oceanens pilotval är en medlem av delfinfamiljen. Den finns i tropiska och varma, tempererade vatten i alla hav i världen. Pilotvalar med långa fenor lever i norra Atlanten, så långt norrut som vid Grönland, Island och norra Norge. Det finns en separat grupp i kalla tempererade till antarktiska vatten. Trots att de tidigare fanns i norra Stilla havet har man inte sett långfenade pilotvalar där på den senaste tiden. De två arterna lever båda i tempererade områden, framför allt kring Sydamerika och i norra Atlanten.
+            <p/>Båda arterna kan bli ungefär 6 meter långa. Hanarna är något större än honorna, och pilotvalarna med långa fenor är något större än de med korta. Medlemmarna av båda arterna har stora, runda huvuden och en mycket stor ryggfena. De är oftast svarta, mörkbruna eller grå med ett ljusare område precis bakom ryggfenan. De har ofta ett andra ljust område som sträcker sig från ovandelen av magen till under hakan. Pilotvalar kommunicerar med ett invecklat system av raspande ljud och skrik, och det är troligt att de identifierar varandra med hjälp av de ropen. De använder ekolokalisering för att urskilja sin omgivning. Det vill säga att de sänder ut högfrekventa klickljud som studsar mot byten och andra objekt, och därefter använder ekot för att urskilja objekten.
+            <p/>Pilotvalar dyker djupt och äter främst bläckfisk. De är väldigt sällskapliga och deras flockar består ofta av några hundra medlemmar. Varje hane parar sig förmodligen med flera honor. Honorna föder en unge, och även om de inte kan bli dräktiga efter 35 års ålder fortsätter de ofta att ge di till ungar i minst 14 år till. Det tyder på att honor tar hand om sina ungar länge och att de kanske även tar hand om systrars och döttrars ungar.
+            <p/>Flockar med pilotvalar strandar oftare än andra valarter. Det är vanligt att långfenade pilotvalar i New England och på Nya Zeelands kuster. Man vet inte om grupper av valar strandar på grund av att de har navigerat fel, på grund av sjukdom eller en kombination av de två, men det är tydligt att den starka gemenskapen påverkar det faktum att om flera valar strandar gör andra det också.
+            <p/>Eftersom pilotvalflockar är så sammansvetsade har det varit förhållandevis lätt att jaga dem, framför allt med hjälp av metoder där en flock drivs in på grunt vatten och därefter slås eller klubbas ihjäl. Förr i tiden var det mycket vanligare att man jagade pilotvalar. Man jagar fortfarande långfenade pilotvalar vid Grönlands kuster och runt Färöarna och kortfenade pilotvalar vid Japans kuster. Man tror att pilotvalarnas populationer i norra Atlanten har minskat på grund av jakt.
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Innehållet har hämtats från <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft® Encarta® 2006.</color></u></a> © 19932005 Microsoft Corporation. Med ensamrätt.
+         </cell>         
+      </LOC_STRING>
+  
+</ZT2Strings>

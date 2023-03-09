@@ -1,0 +1,190 @@
+<ZT2Strings>
+   <!--entity names-->
+   <entityname>
+      <!--scenery object names-->
+      <Statue_Gorilla_df>Gorillastaty</Statue_Gorilla_df>
+      <Statue_Gorilla_df_stt>gorillastaty</Statue_Gorilla_df_stt>
+      <Statue_Gorilla_df_lower>gorillastatyn</Statue_Gorilla_df_lower>
+      <Statue_Gorilla_df_ltt>
+         <color r="255" g="248" b="178">
+            <b>Gorillastaty</b>
+         </color>
+         <br/>
+         Klicka för att välja och placera ut gorillastatyn, en vacker staty som föreställer en gorillahona och hennes unge.
+      </Statue_Gorilla_df_ltt>
+      <Statue_Tiger_df>Tigerstaty</Statue_Tiger_df>
+      <Statue_Tiger_df_stt>tigerstaty</Statue_Tiger_df_stt>
+      <Statue_Tiger_df_lower>tigerstatyn</Statue_Tiger_df_lower>
+      <Statue_Tiger_df_ltt>
+         <color r="255" g="248" b="178">
+            <b>Tigerstaty</b>
+         </color>
+         <br/>
+         Klicka för att välja och placera ut tigerstatyn, en vacker staty som föreställer en tigerhona och hennes unge.
+      </Statue_Tiger_df_ltt>
+      <Playground_TortoiseTrampoline_df>Sköldpaddsstudsmatta</Playground_TortoiseTrampoline_df>
+      <Playground_TortoiseTrampoline_df_stt>sköldpaddsstudsmatta</Playground_TortoiseTrampoline_df_stt>
+      <Playground_TortoiseTrampoline_df_lower>sköldpaddsstudsmattan</Playground_TortoiseTrampoline_df_lower>
+      <Playground_TortoiseTrampoline_df_ltt>
+         <color r="255" g="248" b="178">
+            <b>Sköldpaddsstudsmatta</b>
+         </color>
+         <br/>
+         Klicka för att välja och placera ut en studsmatta som ser ut som en sköldpadda. Barn älskar att hoppa på studsmattor.
+      </Playground_TortoiseTrampoline_df_ltt>
+      <Fountain_Small_df>Liten fontän</Fountain_Small_df>
+      <Fountain_Small_df_stt>Liten fontän</Fountain_Small_df_stt>
+      <Fountain_Small_df_lower>den lilla fontänen</Fountain_Small_df_lower>
+      <Fountain_Small_df_ltt>
+         <color r="255" g="248" b="178">
+            <b>Liten fontän</b>
+         </color>
+         <br/>
+         Klicka för att välja och placera ut en liten fontän, som besökarna tycker om att titta på.
+      </Fountain_Small_df_ltt>
+      <Fountain_Splash_df>Springbrunn</Fountain_Splash_df>
+      <Fountain_Splash_df_stt>springbrunn</Fountain_Splash_df_stt>
+      <Fountain_Splash_df_lower>springbrunnen</Fountain_Splash_df_lower>
+      <Fountain_Splash_df_ltt>
+         <color r="255" g="248" b="178">
+            <b>Springbrunn</b>
+         </color>
+         <br/>
+         Klicka för att välja och placera ut en springbrunn, en uppskattad källa till underhållning.
+      </Fountain_Splash_df_ltt>
+      
+      <!--fence names-->      
+      <brickwindow_df>Tegelmur med fönsterglugg</brickwindow_df>
+      <brickwindow_df_stt>tegelmur med fönsterglugg</brickwindow_df_stt>
+      <brickwindow_df_lower>tegelmuren med fönsterglugg</brickwindow_df_lower>
+      <brickwindow_df_ltt>
+         <color r="255" g="248" b="178">
+            <b>Tegelmur med fönsterglugg</b>
+         </color>
+         <br/>
+         Klicka för att välja och placera ut sektioner av tegelmur med fönstergluggar, som ger både bra skydd och bra utsikt.
+      </brickwindow_df_ltt>
+      <stonewindow_df>Stenmur med fönsterglugg</stonewindow_df>
+      <stonewindow_df_stt>stenmur med fönsterglugg</stonewindow_df_stt>
+      <stonewindow_df_lower>stenmuren med fönsterglugg</stonewindow_df_lower>
+      <stonewindow_df_ltt>
+         <color r="255" g="248" b="178">
+            <b>Stenmur med fönsterglugg</b>
+         </color>
+         <br/>
+         Klicka för att välja och placera ut sektioner av stenmur med fönstergluggar, som ger både bra skydd och bra utsikt.
+      </stonewindow_df_ltt>
+      <junglewindow>Djungelstängsel med fönsterglugg</junglewindow>
+      <junglewindow_stt>djungelstängsel med fönsterglugg</junglewindow_stt>
+      <junglewindow_lower>djungelstängsel med fönsterglugg</junglewindow_lower>
+      <junglewindow_ltt>
+         <color r="255" g="248" b="178">
+            <b>Djungelstängsel med fönsterglugg</b>
+         </color>
+         <br/>
+         Klicka för att välja och placera ut sektioner av djungelstängsel med fönstergluggar, som ger både bra skydd och bra utsikt.
+      </junglewindow_ltt>            
+   </entityname>
+   
+   <!--Zoopedia entries-->
+   <zoopedia_brickwindow>
+	      <entry>Tegelmur med fönsterglugg</entry>
+	      <text>
+	         <cell pady="0" width="1000"/>
+	         <p/>
+	         <cell width="260"/>
+	         <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+	            <cell width="600" padx="20" pady="20">
+	               <color r="255" g="255" b="255">
+	                  <img src="entities\objects\fences\brickwindow_df\brickwindow_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+	                  <p/>En tegelmur med fönstergluggar ger dina besökare fri sikt över djuren, samtidigt som den håller djuren instängda.
+	                  <p/>Blanda tegelmurar med fönstergluggar och vanliga tegelmurar för en vacker och funktionell inhägnad.
+	               </color>
+	            </cell>
+	         </cell>
+	      </text>
+   </zoopedia_brickwindow>
+   <zoopedia_stonewindow>
+		      <entry>Stenmur med fönsterglugg</entry>
+		      <text>
+		         <cell pady="0" width="1000"/>
+		         <p/>
+		         <cell width="260"/>
+		         <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+		            <cell width="600" padx="20" pady="20">
+		               <color r="255" g="255" b="255">
+		                  <img src="entities\objects\fences\stonewindow_df\stonewindow_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+		                  <p/>En stenmur med fönstergluggar ger dina besökare fri sikt över djuren, samtidigt som den håller djuren instängda.
+		                  <p/>Blanda stenmurar med fönstergluggar och vanliga stenmurar för en vacker och funktionell inhägnad.
+		               </color>
+		            </cell>
+		         </cell>
+		      </text>
+   </zoopedia_stonewindow>
+   <zoopedia_junglewindow>
+		      <entry>Djungelstängsel med fönsterglugg</entry>
+		      <text>
+		         <cell pady="0" width="1000"/>
+		         <p/>
+		         <cell width="260"/>
+		         <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+		            <cell width="600" padx="20" pady="20">
+		               <color r="255" g="255" b="255">
+		                  <img src="entities\objects\fences\junglewindow_jt\junglewindow_jt_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+		                  <p/>Ett djungelstängsel med fönstergluggar ger dina besökare fri sikt över djuren, samtidigt som det håller djuren instängda.
+		                  <p/>Djungelstängsel passar bäst i inhägnader med djur som lever i regnskog och djungel, till exempel tigrar, gorillor och schimpanser. Besökarna uppskattar en genomtänkt design.
+		               </color>
+		            </cell>
+		         </cell>
+		      </text>
+   </zoopedia_junglewindow> 
+   <zoopedia_tortoisetrampoline>
+      <entry>Studsmatta, sköldpadds-</entry>
+      <text>
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+               <img src="entities/objects/scenery/Playground_TortoiseTrampoline_df/Playground_TortoiseTrampoline_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>               
+                  <p/>
+                  <p/>Barn älskar att klättra upp på den uppblåsbara sköldpaddan och hoppa högt upp i luften på studsmattan.
+               </color>
+            </cell>
+         </cell>
+      </text>
+   </zoopedia_tortoisetrampoline>
+   <zoopedia_fountainsmall>
+      <entry>Fontän, liten</entry>
+      <text>
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+               <img src="entities\objects\scenery\Fountain_Small_df\Fountain_Small_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>Små fontäner är ett idealiskt sätt att göra djurparken mer attraktiv utan att ta upp för mycket plats. Besökarna tycker om fontäner i djurparken.
+               </color>
+            </cell>
+         </cell>
+      </text>
+   </zoopedia_fountainsmall>
+   <zoopedia_fountainsplash>
+      <entry>Springbrunn</entry>
+      <text>
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities\objects\scenery\Fountain_Splash_df\Fountain_Splash_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>Springbrunnen är gjord så att barn kan springa omkring och leka bland fontänens vattenstrålar.
+               </color>
+            </cell>
+         </cell>
+      </text>
+   </zoopedia_fountainsplash>   
+</ZT2Strings>

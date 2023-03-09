@@ -1,0 +1,33 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_burrow_grassland:entry">Madriguera, praderas</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_burrow_grassland:text">
+			<cell pady="0" width="1000"/>
+			<p/>
+			<cell width="260"/>
+			<cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+				<cell width="600" padx="20" pady="20">
+					<color r="255" g="255" b="255">
+						<img src="entities/objects/shelters/AnimalBurrows_Shelter/AnimalBurrows_Grasslands_Large_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+						<p/>
+						La madriguera de las praderas es perfecta para pequeños animales de las praderas, como el zorro-lobo de las Malvinas. Les encanta dormir en la oscuridad que les proporciona.
+					</color>
+				</cell>
+			</cell>
+		</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_largeextinctshelter_shelter:entry">Refugio de rocas</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_largeextinctshelter_shelter:text">
+ 			<cell pady="0" width="1000"/>
+ 			<p/>
+ 			<cell width="260"/>
+ 			<cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+ 				<cell width="600" padx="20" pady="20">
+ 					<color r="255" g="255" b="255">
+ 						<img src="entities/objects/shelters/LargeExtinctShelter_Shelter/LargeExtinctShelter_Shelter_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+ 						<p/>
+ 						Esta gran estructura de rocas es un refugio sólido, adecuado para casi cualquiera de sus animales extinguidos. Cualquier animal al que le guste un lugar tranquilo y refrescante disfrutará del refugio de rocas. La refrescante cascada que tiene en el exterior es agradable desde el punto de vista estético y además calma a los animales.
+ 					</color>
+ 				</cell>
+ 			</cell>
+ 		</LOC_STRING> 
+ 
+</ZT2Strings>

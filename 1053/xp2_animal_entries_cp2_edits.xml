@@ -1,0 +1,231 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_beluga" version="9"/>
+      <LOC_STRING _locID="zoopedia_beluga:entry" version="9">Vitval</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_beluga:text" version="9">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/Beluga/Beluga_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>						 
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/vulnerable.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Hotstatus:
+                     <br/>
+                        <color r="255" g="255" b="0">
+                     Sårbar
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+				 <cell width="128">
+				  <color r="255" g="255" b="255">Tundra<br/></color>
+				  <img src="ui/icon_biomes/icon_tundra.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+				 </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Norra ishavet</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/tundra_arctic_ocean.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Klass: Däggdjur <i>(Mammalia)</i>
+                  <br/>
+                  Ordning: <i>Cetacea</i>
+                  <br/>
+                  Familj: <i>Monodontidae</i>
+                  <br/>
+                  Släkte: <i>Delphinapterus</i>
+                  <br/>
+                  Art: <i>leucas</i>
+                  </color>
+               </cell>
+				 <cell width="256" pady="10">
+				  <img src="UI/zoopedia/biome/tundra_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+				 </cell>				 
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Roligt att veta om vitvalar</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Vitvalar föds mörkgrå, bruna eller svarta men blir gradvis helt vita under perioden fram tills de blir fem år.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Vitvalar kan simma både framlänges och baklänges!</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Vitvalar tuggar inte maten, utan sväljer den hel.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Vitvalar söker efter föda vid bottnen i grunda vatten och äter främst bottenfiskar.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Vitvalens flexibla hals gör att den lätt kan röra sig medan den äter. Den skapar ett kraftigt sug med hjälp av munnen och fångar på så sätt in djur som inte vill bli uppätna.</color>
+               </cell>                
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">Om du vill låsa upp vitvalen i utmanings- eller kampanjspel måste din djurpark ha minst 1/2 stjärna i berömmelsebetyg.</color>
+            <p/>Vitvalen är en tandval som är nära släkt med delfinen och har ett tydligt markerat huvud och korta fenor. Vitvalar föds utan ryggfenor. De är svarta eller mörkbruna och blir mjölkvita efter ungefär fem år. Hanar kan bli upp till 7 meter långa, honorna är något mindre. Vitvalar förflyttar sig i flockar på flera tusen och livnär sig på fisk, bläckfisk, krabbor och sniglar. De är vanliga i Norra ishavet men förflyttar sig så långt söderut som till staten New Jersey i USA och floden Rhen i Europa.     
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Innehållet har hämtats från <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft® Encarta® 2006.</color></u></a> © 1993-2005 Microsoft Corporation. Med ensamrätt.
+         </cell>         
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_penguinrockhopper" version="9"/>
+      <LOC_STRING _locID="zoopedia_penguinrockhopper:entry" version="9">Klipphopparpingvin</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_penguinrockhopper:text" version="9">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/PenguinRockhopper/PenguinRockhopper_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/PenguinRockhopper/PenguinRockhopper_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>							 
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>						 
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/vulnerable.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Hotstatus:
+                     <br/>
+                        <color r="255" g="255" b="0">
+                     Sårbar
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+				 <cell width="128">
+				  <color r="255" g="255" b="255">Kust<br/></color>
+				  <img src="ui/icon_biomes/icon_coastal.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+				 </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Söderhavsöarna</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/coastal_southern_ocean_islands.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Klass: Fåglar <i>Aves</i>
+                  <br/>
+                  Ordning: <i>Sphenisciformes</i>
+                  <br/>
+                  Familj: <i>Spheniscidae</i>
+                  <br/>
+                  Släkte: <i>Eudyptes</i>
+                  <br/>
+                  Art: <i>chrysocome</i>
+                  </color>
+               </cell>
+				 <cell width="256" pady="10">
+				  <img src="UI/zoopedia/biome/coastal_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+				 </cell>				 
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Roligt att veta om klipphopparpingvinen</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Honorna lägger vanligtvis två ägg under häckningssäsongen, men bara ett av dem ruvas.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Klipphopparpingviner lever i genomsnitt i tio år.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">För att locka till sig en partner skakar klipphopparpingvinerna på huvudet för att visa upp sina gula tofsfjädrar.</color>
+               </cell>                 
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">Om du vill låsa upp klipphopparpingvinen i utmanings- eller kampanjspel måste din djurpark ha minst 2 stjärnor i berömmelsebetyg.</color>
+            <p/>Klipphopparpingvinen har fått sitt namn på grund av att de hoppar runt bland stenblocken på öarna de bebor. De är en subantarktisk pingvinart som lever främst på de södra öarna, till exempel Falklandsöarna, Macquarieön och på Antipoderna.
+            <p/>De har en vacker, utmärkande tofs på huvudet och blodröda ögon, och är precis så aggressiva som den intensiva blicken antyder. Det är vanligt att de slåss om de bästa platserna att bygga bo på klipporna. De är små och kraftiga och deras fötter med simhud och simfenorna gör dem till utmärkta simmare och jägare.
+				<p/>Klipphopparpingviner äter lyktfisk, krill och ibland små bläckfiskar. De är själva rov för blåhajar, leopardsälar och pälssälar, och deras ägg och ungar kan ibland bli byten för måsar och andra fåglar.
+				<p/>Eftersom de bygger sina bon på klippor längs kusten är det viktigt för deras överlevnad att de kan hoppa upp på klipporna direkt ur vattnet.  
+         </cell>        
+      </LOC_STRING>  
+
+</ZT2Strings>

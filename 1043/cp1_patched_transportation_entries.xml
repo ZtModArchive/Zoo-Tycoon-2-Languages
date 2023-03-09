@@ -1,0 +1,142 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_transportation" version="2"/>
+      <LOC_STRING _locID="zoopedia_transportation:entry" version="2">Transport</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_transportation:text" version="2">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>
+Zoo Tycoon 2 biedt allerlei vormen van transport voor het vervoer van je bezoekers door je dierentuin.
+                  <p/>
+Klik in de linkerlijst op de naam van een transportitem als je hierover informatie wilt weergeven.  
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_groundstation" version="2"/>
+      <LOC_STRING _locID="zoopedia_groundstation:entry" version="2">Garage voor Jeeps®</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_groundstation:text" version="2">
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\transportation\stations\GroundStation\GroundStation_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+Via garages voor Jeeps® stappen bezoekers in en uit <a href="zoopedia:zoopedia_groundvehicle:entry"><u><color r="255" g="231" b="135">Jeeps.</color></u></a> Een garage blijft gesloten totdat deze wordt aangesloten op een geldig, gesloten <a href="zoopedia:zoopedia_groundtrack:entry"><u><color r="255" g="231" b="135">wegcircuit</color></u></a>. Nadat een circuit is voltooid, wordt de garage geopend en kun je hiervoor voertuigen kopen.
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_groundtrack" version="2"/>
+      <LOC_STRING _locID="zoopedia_groundtrack:entry" version="2">Weg</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_groundtrack:text" version="2">
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\transportation\track\ground\ground_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+Wegen worden gebruikt om <a href="zoopedia:zoopedia_groundstation:entry"><u><color r="255" g="231" b="135">garages</color></u></a> met elkaar te verbinden, zodat <a href="zoopedia:zoopedia_groundvehicle:entry"><u><color r="255" g="231" b="135">Jeeps</color></u></a> kunnen rondrijden. De weg moet correct en als aaneengesloten circuit zijn aangelegd voordat je garages voor Jeeps kunt openen. Wegen zijn altijd in één richting.
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_crossinggate" version="2"/>
+      <LOC_STRING _locID="zoopedia_crossinggate:entry" version="2">Slagboom</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_crossinggate:text" version="2">
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\transportation\crossinggate\crossinggate_end\crossinggate_end_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+Plaats een slagboom op punten waar een pad een weg kruist om te voorkomen dat voetgangers door een Jeep® worden aangereden. De slagboom gaat dicht en weer open wanneer het voertuig passeert.
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_groundvehicle" version="2"/>
+      <LOC_STRING _locID="zoopedia_groundvehicle:entry" version="2">Jeeps®</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_groundvehicle:text" version="2">
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+       <img src="entities\transportation\vehicles\Jeep_Wrangler\Jeep_Wrangler_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+       <img src="entities\transportation\vehicles\Jeep_Liberty\Jeep_Liberty_icon.dds" sx="0" sy="0" sw="64" sh="64"/>        
+       <img src="entities\transportation\vehicles\Jeep_Commander\Jeep_Commander_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      
+      <p/>
+Jeeps® vervoeren bezoekers tussen <a href="zoopedia:zoopedia_groundstation:entry"><u><color r="255" g="231" b="135">garages voor Jeeps.</color></u></a>  De Jeep Wrangler biedt ruimte aan drie bezoekers, de Jeep Liberty aan vier bezoekers en de Jeep Commander aan zes bezoekers.
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_groundvehicleupgrade" version="2"/>
+      <LOC_STRING _locID="zoopedia_groundvehicleupgrade:entry" version="2">Jeeps®, versierd</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_groundvehicleupgrade:text" version="2">
+    <cell pady="0" width="1000"/>
+    <p/>
+    <cell width="260"/>
+    <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+     <cell width="600" padx="20" pady="20">
+      <color r="255" g="255" b="255">
+       <img src="entities\transportation\vehicles\Jeep_Wrangler\Jeep_Wrangler_Upgraded_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+       <img src="entities\transportation\vehicles\Jeep_Liberty\Jeep_Liberty_Upgraded_icon.dds" sx="0" sy="0" sw="64" sh="64"/>         
+       <img src="entities\transportation\vehicles\Jeep_Commander\Jeep_Commander_Upgraded_icon.dds" sx="0" sy="0" sw="64" sh="64"/>       
+       <p/>
+Jeeps® vervoeren bezoekers tussen <a href="zoopedia:zoopedia_groundstation:entry"><u><color r="255" g="231" b="135">garages voor Jeeps.</color></u></a>  De Jeep Wrangler biedt ruimte aan drie bezoekers, de Jeep Liberty aan vier bezoekers en de Jeep Commander aan zes bezoekers. 
+         <p/>
+Versierde Jeeps bevatten decoratieve elementen en komen beschikbaar door de prijs voor beste rondleidingen, niveau 2 te winnen.
+      </color>
+     </cell>
+    </cell>
+   </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_groundvehicleafrica:entry">Jeeps®, Afrikaanse</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_groundvehicleafrica:text">
+     <cell pady="0" width="1000"/>
+     <p/>
+     <cell width="260"/>
+     <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+      <cell width="600" padx="20" pady="20">
+       <color r="255" g="255" b="255">
+        <img src="entities\transportation\vehicles\Jeep_Wrangler\Jeep_Wrangler_Africa_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+       <img src="entities\transportation\vehicles\Jeep_Liberty\Jeep_Liberty_Africa_icon.dds" sx="0" sy="0" sw="64" sh="64"/>         
+        <img src="entities\transportation\vehicles\Jeep_Commander\Jeep_Commander_Africa_icon.dds" sx="0" sy="0" sw="64" sh="64"/>        
+        <p/>
+ Jeeps® vervoeren bezoekers tussen <a href="zoopedia:zoopedia_groundstation:entry"><u><color r="255" g="231" b="135">garages voor Jeeps.</color></u></a>  De Jeep Wrangler biedt ruimte aan drie bezoekers, de Jeep Liberty aan vier bezoekers en de Jeep Commander aan zes bezoekers.
+     <p/>
+ Afrikaanse Jeeps bevatten decoratieve Afrikaanse thema-elementen. Ze komen beschikbaar zodra je de Afrikaprijs wint.
+       </color>
+      </cell>
+     </cell>
+    </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_vehiclegate" version="2"/>
+      <LOC_STRING _locID="zoopedia_vehiclegate:entry" version="2">Ingang, voertuigen</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_vehiclegate:text" version="2">
+      <cell pady="0" width="1000"/>
+      <p/>
+      <cell width="260"/>
+      <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+         <cell width="600" padx="20" pady="20">
+            <color r="255" g="255" b="255">
+               <img src="entities\objects\fences\vehiclegate_end\vehiclegate_end_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+            <p/>
+Via voertuigingangen kunnen grondvoertuigen dierenverblijven in en uit rijden. Om te voorkomen dat dieren kunnen ontsnappen, sluit deze mechanische ingang automatisch zodra het voertuig is gepasseerd.
+            </color>
+         </cell>
+      </cell>
+   </LOC_STRING>
+ 
+</ZT2Strings>

@@ -1,0 +1,142 @@
+﻿<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_transportation" version="2" />
+      <LOC_STRING _locID="zoopedia_transportation:entry" version="2"  >Transportation</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_transportation:text" version="2"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>
+Zoo Tycoon 2 features a variety of ways to transport your guests through the zoo.
+                  <p/>
+To view information about a specific transportation item, click the name of the item in the list on the left.  
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_groundstation" version="2" />
+      <LOC_STRING _locID="zoopedia_groundstation:entry" version="2"  >Jeep&#xAE; Vehicle Station</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_groundstation:text" version="2"  >
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\transportation\stations\GroundStation\GroundStation_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+The Jeep&#xAE; vehicle station is where guests enter and exit <a href="zoopedia:zoopedia_groundvehicle:entry"><u><color r="255" g="231" b="135">Jeep vehicles.</color></u></a> A Jeep vehicle station remains closed until it is connected to a valid, closed <a href="zoopedia:zoopedia_groundtrack:entry"><u><color r="255" g="231" b="135">road</color></u></a> circuit. Once a circuit is complete, the Jeep vehicle station will open and you can buy vehicles for it.
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_groundtrack" version="2" />
+      <LOC_STRING _locID="zoopedia_groundtrack:entry" version="2"  >Road</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_groundtrack:text" version="2"  >
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\transportation\track\ground\ground_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+Roads are used to connect <a href="zoopedia:zoopedia_groundstation:entry"><u><color r="255" g="231" b="135">Jeep&#xAE; vehicle stations</color></u></a> so that <a href="zoopedia:zoopedia_groundvehicle:entry"><u><color r="255" g="231" b="135">Jeep vehicles</color></u></a> can travel between them. Your road must form a valid, closed circuit before you can open your Jeep vehicle stations. Note that roads are one-way only!
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_crossinggate" version="2" />
+      <LOC_STRING _locID="zoopedia_crossinggate:entry" version="2"  >Crossing Gate</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_crossinggate:text" version="2"  >
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\transportation\crossinggate\crossinggate_end\crossinggate_end_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+Place a crossing gate where a path crosses a road to prevent pedestrians from wandering into the road when a Jeep&#xAE; vehicle is approaching. The crossing gate lowers before the vehicle arrives and raises after the vehicle has gone by.
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_groundvehicle" version="2" />
+      <LOC_STRING _locID="zoopedia_groundvehicle:entry" version="2"  >Jeep&#xAE; Vehicles</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_groundvehicle:text" version="2"  >
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+       <img src="entities\transportation\vehicles\Jeep_Wrangler\Jeep_Wrangler_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+       <img src="entities\transportation\vehicles\Jeep_Liberty\Jeep_Liberty_icon.dds" sx="0" sy="0" sw="64" sh="64"/>        
+       <img src="entities\transportation\vehicles\Jeep_Commander\Jeep_Commander_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      
+      <p/>
+Jeep&#xAE; vehicles transport guests between <a href="zoopedia:zoopedia_groundstation:entry"><u><color r="255" g="231" b="135">Jeep vehicle stations.</color></u></a> The Jeep Wrangler can carry three guests, the Jeep Liberty can carry four guests, and the Jeep Commander can carry six guests.
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_groundvehicleupgrade" version="2" />
+      <LOC_STRING _locID="zoopedia_groundvehicleupgrade:entry" version="2"  >Jeep&#xAE; Vehicles, Decorated</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_groundvehicleupgrade:text" version="2"  >
+    <cell pady="0" width="1000"/>
+    <p/>
+    <cell width="260"/>
+    <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+     <cell width="600" padx="20" pady="20">
+      <color r="255" g="255" b="255">
+       <img src="entities\transportation\vehicles\Jeep_Wrangler\Jeep_Wrangler_Upgraded_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+       <img src="entities\transportation\vehicles\Jeep_Liberty\Jeep_Liberty_Upgraded_icon.dds" sx="0" sy="0" sw="64" sh="64"/>         
+       <img src="entities\transportation\vehicles\Jeep_Commander\Jeep_Commander_Upgraded_icon.dds" sx="0" sy="0" sw="64" sh="64"/>       
+       <p/>
+Jeep&#xAE; vehicles transport guests between <a href="zoopedia:zoopedia_groundstation:entry"><u><color r="255" g="231" b="135">Jeep vehicle stations.</color></u></a> The Jeep Wrangler can carry three guests, the Jeep Liberty can carry four guests, and the Jeep Commander can carry six guests. 
+<p/>
+Decorated Jeep vehicles feature decorative designs and can be unlocked by winning the Tour Tycoon Level Two Award.
+      </color>
+     </cell>
+    </cell>
+   </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_groundvehicleafrica:entry"  >Jeep&#xAE; Vehicles, African</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_groundvehicleafrica:text"  >
+     <cell pady="0" width="1000"/>
+     <p/>
+     <cell width="260"/>
+     <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+      <cell width="600" padx="20" pady="20">
+       <color r="255" g="255" b="255">
+        <img src="entities\transportation\vehicles\Jeep_Wrangler\Jeep_Wrangler_Africa_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+       <img src="entities\transportation\vehicles\Jeep_Liberty\Jeep_Liberty_Africa_icon.dds" sx="0" sy="0" sw="64" sh="64"/>         
+        <img src="entities\transportation\vehicles\Jeep_Commander\Jeep_Commander_Africa_icon.dds" sx="0" sy="0" sw="64" sh="64"/>        
+        <p/>
+ Jeep&#xAE; vehicles transport guests between <a href="zoopedia:zoopedia_groundstation:entry"><u><color r="255" g="231" b="135">Jeep vehicle stations.</color></u></a> The Jeep Wrangler can carry three guests, the Jeep Liberty can carry four guests, and the Jeep Commander can carry six guests.
+ <p/>
+ African Jeep vehicles feature special decorative designs with an African theme. They can be unlocked by winning the African Tycoon Award.
+       </color>
+      </cell>
+     </cell>
+    </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_vehiclegate" version="2" />
+      <LOC_STRING _locID="zoopedia_vehiclegate:entry" version="2"  >Gate, Vehicle</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_vehiclegate:text" version="2"  >
+      <cell pady="0" width="1000"/>
+      <p/>
+      <cell width="260"/>
+      <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+         <cell width="600" padx="20" pady="20">
+            <color r="255" g="255" b="255">
+               <img src="entities\objects\fences\vehiclegate_end\vehiclegate_end_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+            <p/>
+Vehicle gates allow ground vehicles to enter and exit animal exhibits. To prevent animal escapes, this mechanized gate closes automatically after the vehicle has passed by.
+            </color>
+         </cell>
+      </cell>
+   </LOC_STRING>
+ 
+</ZT2Strings>

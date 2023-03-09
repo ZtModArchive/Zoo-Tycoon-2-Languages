@@ -1,0 +1,59 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_themedtrashcan" version="6"/>
+      <LOC_STRING _locID="zoopedia_themedtrashcan:entry" version="6">Soptunna, tema</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_themedtrashcan:text" version="6">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities\objects\scenery\trashcan_jt\trashcan_jt_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities\objects\scenery\trashcan_st\trashcan_st_icon.dds" sx="0" sy="0" sw="64" sh="64"/>                  
+                  <br/>Med en soptunna kan dina besökare ta hand om sitt eget skräp. Soptunnor töms av vaktmästare. Besökarna tycker inte om när soptunnorna är fulla och de kastar skräpet på marken om de inte kan hitta en soptunna. Besökarna tycker om att se temaobjekt under rundturerna.          
+                  <p/>Klicka på knappen Berömmelsenivå, p? fliken Utmärkelser och sedan på Fasta utmärkelser för att se olika teman som du kan låsa upp     
+</color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_themedviewingareas" version="6"/>
+      <LOC_STRING _locID="zoopedia_themedviewingareas:entry" version="6">Designade utsiktsplattformar</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_themedviewingareas:text" version="6">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities\objects\scenery\ViewingArea_Jt\ViewingArea_Jt_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities\objects\scenery\ViewingArea_St\ViewingArea_St_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>
+               En utsiktsplattform är en skyddad plats där besökarna kan titta på djuren. Besökarna tycker om att se temaobjekt under rundturerna.
+                  <p/>Klicka på knappen Berömmelsenivå, på fliken Utmärkelser och sedan på Fasta utmärkelser för att se olika teman som du kan låsa upp. 
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_themedumbrellatable" version="6"/>
+      <LOC_STRING _locID="zoopedia_themedumbrellatable:entry" version="6">Bord med temaparasoll</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_themedumbrellatable:text" version="6">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities\objects\scenery\umbrellatable_jt\umbrellatable_jt_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities\objects\scenery\umbrellatable_St\umbrellatable_St_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>
+               Vid matborden kan besökarna slå sig ned med mat och dryck som de köpt i djurparken. Besökarna är nöjdare om de inte behöver stå upp när de äter. Besökarna tycker om att se temaobjekt under rundturerna.
+ <p/>Klicka på knappen Berömmelsenivå, på fliken Utmärkelser och sedan på Fasta utmärkelser för att se olika teman som du kan låsa upp. 
+</color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+
+</ZT2Strings>

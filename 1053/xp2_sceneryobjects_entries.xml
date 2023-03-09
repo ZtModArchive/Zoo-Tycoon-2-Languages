@@ -1,0 +1,172 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_aquarium:entry">Akvarier</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_aquarium:text">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities\objects\buildings\Aquarium_Jellyfish\Aquarium_Jellyfish_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities\objects\buildings\Aquarium_Octopus\Aquarium_Octopus_icon.dds" sx="0" sy="0" sw="64" sh="64"/>                  
+                  <img src="entities\objects\buildings\Aquarium_Seahorse\Aquarium_Seahorse_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities\objects\buildings\Aquarium_TropicalFish\Aquarium_TropicalFish_icon.dds" sx="0" sy="0" sw="64" sh="64"/>                  
+                  <br/>Akvarier är perfekta för uppvisning av marina djur. Ett litet bärbart akvarium tar inte upp lika mycket utrymme som en hel inhägnad, och du kan placera det i din djurpark. Besökarna tycker om att se djuren på nära håll.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_cannon:entry">Piratkanon</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_cannon:text">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities/objects/scenery/Cannon/Cannon_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>Denna antika kanon skänker en äkta piratkänsla åt inhägnaderna. I en bassäng skjuter den iväg bubbelströmmar. På land utgör den en utsmyckning i djurparken.	
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_koi:entry">Koi</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_koi:text">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities\units\animals\Koi\Koi_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>Koi, även kallat nishikigoi, är en färg- och mönstervariation på den vanliga karpen och de odlas fram speciellt för sina vackra färger och attraktiva mönster. Koi fängslar besökarna och är ett intressant tillskott i alla bassänger - undvik dock att placera dem i en bassäng med hajar eller andra vattenrovdjur!
+              </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_drinkingfountain_mm:entry">Vattenfontän, Nautilus</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_drinkingfountain_mm:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities\objects\scenery\drinkingfountain_mm\drinkingfountain_mm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>Även om det inte ger djurparken någon intäkt är besökarna tacksamma för en slurk kallt vatten från nautilus-vattenfontänten.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_fountain_splash_mm:entry">Vitvalsfontän</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_fountain_splash_mm:text">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities/objects/scenery/FountainSplash_mm/FountainSplash_mm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>I denna fontän finns vackra vitvalar som skickar iväg vattenstrålar som stänker ned de förbipasserande. Ungarna älskar att leka och plaska i fontänen. Om du placerar den på en gång bildar den ett valv.	
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_pirate_mast:entry">Piratmast</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_pirate_mast:text">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities/objects/scenery/PirateMast/PirateMast_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>Den här slitna, gamla masten fungerar som en undervattensdekoration i en tank eller som ett intressant landmärke på marken.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_pirate_ship:entry">Piratskepp</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_pirate_ship:text">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities/objects/scenery/PirateShip/PirateShip_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>Detta slitna gamla skeppsvrak fungerar utmärkt under vattnet eller på land.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_seahorseride:entry">Sjöhäståkattraktion</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_seahorseride:text">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities/objects/scenery/Playground_BouncyRide_Seahorse_mm/BouncyRide_Seahorse_mm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>Barn älskar att låtsas att de utforskar havets djup på denna enorma sjöhäst. 	För att kunna köpa sjöhäståkattraktionen måste du vinna Tycoon Nivå 2-priset för marina djur.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_treasure_chest:entry">Skattkistfontän</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_treasure_chest:text">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities/objects/scenery/TreasureChest/TreasureChest_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>Denna gamla skattkista som är sprängfylld med piratguld utgör en fin utsmyckning på marken eller i en bassäng.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_gazebo_mm:entry">Lusthus, fyr</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_gazebo_mm:text">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities/objects/scenery/gazebo_mm/gazebo_mm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>             
+               Gästerna tycker om att ta det lugnt i fyrlusthuset. Den sceniska strukturen erbjuder besökarna en plats för avkoppling och ger djurparken ett marint utseende.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_marinetrainingstatue:entry">Staty, marinträning</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_marinetrainingstatue:text">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities\objects\scenery\Statue_Training_mm\Statue_Training_mm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>
+Gästerna tycker om att se statyer på olika platser i djurparken. För att kunna låsa upp marinträningsstayn måste du få 100 st. fullpoängare när du tränar marina djur. 
+     </color>
+            </cell>
+         </cell>
+      </LOC_STRING>   
+
+</ZT2Strings>

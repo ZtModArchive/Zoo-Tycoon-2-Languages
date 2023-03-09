@@ -1,0 +1,141 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_transportation" version="2"/>
+      <LOC_STRING _locID="zoopedia_transportation:entry" version="2">Transport</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_transportation:text" version="2">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>
+In Zoo Tycoon 2 steht Besuchern eine Vielzahl von Beförderungsmöglichkeiten durch den Zoo zur Verfügung.
+<p/>
+Um weitere Informationen zu den einzelnen Transportmitteln anzuzeigen, klicken Sie in der Liste links auf den Namen eines Transportmittels. 
+</color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_groundstation" version="2"/>
+      <LOC_STRING _locID="zoopedia_groundstation:entry" version="2">Jeep®-Station</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_groundstation:text" version="2">
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\transportation\stations\GroundStation\GroundStation_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+In der Jeep®-Station betreten und verlassen die Besucher <a href="zoopedia:zoopedia_groundvehicle:entry"><u><color r="255" g="231" b="135">die Jeeps®.</color></u></a> Eine Jeep®-Station bleibt so lange geschlossen, bis sie einem zulässigen, geschlossenen <a href="zoopedia:zoopedia_groundtrack:entry"><u><color r="255" g="231" b="135">Straßerundkurs</color></u></a> angeschlossen ist. Wenn ein Rundkurs vollständig ist, werden die Jeep®-Stationen geöffnet, und Sie können Fahrzeuge dafür kaufen.
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_groundtrack" version="2"/>
+      <LOC_STRING _locID="zoopedia_groundtrack:entry" version="2">Straße</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_groundtrack:text" version="2">
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\transportation\track\ground\ground_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+Über Straßen werden <a href="zoopedia:zoopedia_groundstation:entry"><u><color r="255" g="231" b="135">Jeep®-Station verbunden,</color></u></a> damit <a href="zoopedia:zoopedia_groundvehicle:entry"><u><color r="255" g="231" b="135">Jeeps® </color></u></a> zwischen den Stationen fahren können. Ihre Straße muss einen zulässigen, geschlossenen Rundkurs bilden, damit die Jeep®-Stationen geöffnet werden können. Beachten Sie, dass es ausschließlich Einbahnstraßen gibt!
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_crossinggate" version="2"/>
+      <LOC_STRING _locID="zoopedia_crossinggate:entry" version="2">Wegschranke</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_crossinggate:text" version="2">
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\transportation\crossinggate\crossinggate_end\crossinggate_end_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+Platzieren Sie Wegschranken an Kreuzungen von Straßen und Fußwegen, damit keine Fußgänger auf die Straße laufen, wenn sich ein Jeep® nähert. Die Wegschranke wird vor der Ankunft eines Fahrzeugs heruntergelassen und anschließend wieder angehoben.
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_groundvehicle" version="2"/>
+      <LOC_STRING _locID="zoopedia_groundvehicle:entry" version="2">Jeeps®</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_groundvehicle:text" version="2">
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+       <img src="entities\transportation\vehicles\Jeep_Wrangler\Jeep_Wrangler_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+       <img src="entities\transportation\vehicles\Jeep_Liberty\Jeep_Liberty_icon.dds" sx="0" sy="0" sw="64" sh="64"/>        
+       <img src="entities\transportation\vehicles\Jeep_Commander\Jeep_Commander_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      
+      <p/>
+Jeeps® befördern Besucher <a href="zoopedia:zoopedia_groundstation:entry"><u><color r="255" g="231" b="135">zwischen den Jeep®-Stationen.</color></u></a> Im Jeep® Wrangler ist Platz für drei, im Jeep® Liberty für vier und im Jeep® Commander für sechs Besucher.
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_groundvehicleupgrade" version="2"/>
+      <LOC_STRING _locID="zoopedia_groundvehicleupgrade:entry" version="2">Jeeps®, verziert</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_groundvehicleupgrade:text" version="2">
+    <cell pady="0" width="1000"/>
+    <p/>
+    <cell width="260"/>
+    <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+     <cell width="600" padx="20" pady="20">
+      <color r="255" g="255" b="255">
+       <img src="entities\transportation\vehicles\Jeep_Wrangler\Jeep_Wrangler_Upgraded_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+       <img src="entities\transportation\vehicles\Jeep_Liberty\Jeep_Liberty_Upgraded_icon.dds" sx="0" sy="0" sw="64" sh="64"/>         
+       <img src="entities\transportation\vehicles\Jeep_Commander\Jeep_Commander_Upgraded_icon.dds" sx="0" sy="0" sw="64" sh="64"/>       
+       <p/>
+Jeeps® befördern Besucher <a href="zoopedia:zoopedia_groundstation:entry"><u><color r="255" g="231" b="135">zwischen den Jeep®-Stationen.</color></u></a> Im Jeep® Wrangler ist Platz für drei, im Jeep® Liberty für vier und im Jeep® Commander für sechs Besucher. 
+<p/>Verzierte Jeeps sind dekorativ gestaltet und werden freigegeben, wenn Sie die "Tour-Tycoon Auszeichnung zweiten Grades" gewinnen.
+</color>
+     </cell>
+    </cell>
+   </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_groundvehicleafrica:entry">Jeeps®, Afrika-</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_groundvehicleafrica:text">
+     <cell pady="0" width="1000"/>
+     <p/>
+     <cell width="260"/>
+     <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+      <cell width="600" padx="20" pady="20">
+       <color r="255" g="255" b="255">
+        <img src="entities\transportation\vehicles\Jeep_Wrangler\Jeep_Wrangler_Africa_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+       <img src="entities\transportation\vehicles\Jeep_Liberty\Jeep_Liberty_Africa_icon.dds" sx="0" sy="0" sw="64" sh="64"/>         
+        <img src="entities\transportation\vehicles\Jeep_Commander\Jeep_Commander_Africa_icon.dds" sx="0" sy="0" sw="64" sh="64"/>        
+        <p/>
+Jeep®s befördern Besucher <a href="zoopedia:zoopedia_groundstation:entry"><u><color r="255" g="231" b="135">zwischen den Jeep®-Stationen.</color></u></a> Im Jeep® Wrangler ist Platz für drei, im Jeep® Liberty für vier und im Jeep® Commander für sechs Besucher.
+ <p/>
+Afrika-Jeeps® sind mit besonderen Verziehrungen des Afrika-Themas ausgestattet. Sie werden freigegeben, wenn Sie die "Afrika-Tycoon Auszeichnung" gewinnen.
+       </color>
+      </cell>
+     </cell>
+    </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_vehiclegate" version="2"/>
+      <LOC_STRING _locID="zoopedia_vehiclegate:entry" version="2">Tor für Fahrzeuge</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_vehiclegate:text" version="2">
+      <cell pady="0" width="1000"/>
+      <p/>
+      <cell width="260"/>
+      <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+         <cell width="600" padx="20" pady="20">
+            <color r="255" g="255" b="255">
+               <img src="entities\objects\fences\vehiclegate_end\vehiclegate_end_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+            <p/>
+Durch Tore für Fahrzeuge gelangen Bodenfahrzeuge in Tiergehege und wieder heraus. Damit keine Tiere entkommen können, schließt das mechanische Tor automatisch, wenn das Fahrzeug das Tor passiert hat.
+            </color>
+         </cell>
+      </cell>
+   </LOC_STRING>
+ 
+</ZT2Strings>

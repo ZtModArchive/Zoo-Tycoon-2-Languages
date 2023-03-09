@@ -1,0 +1,2299 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_foxfennec:entry">Fennek</LOC_STRING> <LOC_STRING _locID="zoopedia_foxfennec:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/FoxFennec/FoxFennec_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						</cell>
+						<cell width="16">
+							<img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						</cell>
+						<cell width="16">
+							<img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						</cell>
+						<cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">Status in het wild: <br/> <color r="170" g="255" b="0">enigszins bedreigd</color></color>                  
+                  </cell>
+               </cell>             
+               
+               <cell width="128">
+                  <color r="255" g="255" b="255">
+Woestijn<br/></color> <img src="ui/icon_biomes/icon_desert.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>               </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">
+Noord-Afrika<br/></color> <img src="ui/icon_maplocations/Desert_Africa_North.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">Klasse: zoogdieren <i>(Mammalia)</i> <br/>Orde: carnivoren <i>(Carnivora)</i> <br/>Familie: hondachtigen <i>(Canidae)</i> <br/>Geslacht: <i>vulpes</i> <br/>Soort: <i>zerda</i></color>
+               </cell>
+               <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/desert_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+               </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Interessante feiten over de fennek</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">De fennek is de kleinste van alle hondachtigen, nog kleiner dan een kat, maar heeft naar verhouding wel de grootste oren.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">De oren van de fennek zijn zo gevoelig dat zij grote insecten, zoals torren en sprinkhanen, op het zand kunnen horen lopen.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">De dikke vacht lijkt wellicht vreemd voor een woestijndier, maar die bescherming is nodig in de koude woestijnnacht.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Fenneks brengen de dag door in ondergrondse holen die onderling met elkaar zijn verbonden, zodat ze een knusse ondergrondse gemeenschap kunnen vormen.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>               
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Er wordt veel op fenneks gejaagd vanwege hun pels, of om ze als huisdier te verkopen.</color>
+               </cell>                              
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">De fennek komt in de modus Uitdaging of Campagne beschikbaar zodra je dierentuin een bekendheidsscore van 2 sterren behaalt.</color>
+            <p/>Fennek is de naam voor een kleine hondachtige uit de woestijnen van noordelijk Afrika. Het lijf van de fennek is ongeveer 36 tot 41 cm lang en de ruige staart ongeveer 18 tot 31 cm.
+ De fennek is lichtbruin tot bijna wit en lijkt sterk op zijn achterneef de vos, afgezien van de rechtopstaande oren, die langer zijn dan de hele kop.            <p/>
+            De fennek kan heel snel graven, en als hij achterna wordt gezeten, lijkt het wel of hij in het zand duikt. Zijn hol is bedekt met zachte materialen, zoals stukjes vacht en veren. De fennek slaapt overdag meestal, en komt 's nachts naar buiten om op zoek te gaan naar prooien.
+            <p/>
+            Hij eet hoofdzakelijk muizen, kleine vogels, hagedissen en insecten, soms aangevuld met fruit. De fennek drinkt soms uit waterpoelen, hoewel onderzoek aantoont dat dit niet nodig is. De fennek heeft zich zo goed aan de woestijnomgeving aangepast, dat hij het onbepaalde tijd zonder water kan stellen.
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Inhoud met dank aan <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft (R) Encarta (R) Naslagbibliotheek 2005</color></u></a>.(C) 1993-2005 Microsoft Corporation. Alle rechten voorbehouden.
+         </cell>
+      </LOC_STRING> <LOC_STRING _locID="zoopedia_bearspectacled:entry">
+Brilbeer</LOC_STRING> <LOC_STRING _locID="zoopedia_bearspectacled:text">         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/BearSpectacled/BearSpectacled_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						</cell>
+						<cell width="16">
+							<img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						</cell>
+						<cell width="16">
+							<img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						</cell>
+						<cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/vulnerable.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">Status in het wild: <br/> <color r="255" g="255" b="0">kwetsbaar</color></color>                  
+                  </cell>
+               </cell>            
+
+               <cell width="128">
+                  <color r="255" g="255" b="255">
+Gematigde bossen<br/></color> <img src="ui/icon_biomes/icon_temperateforest.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>               </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">
+Zuid-Amerika<br/></color> <img src="ui/icon_maplocations/Temperateforest_America_South.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">Klasse: zoogdieren <i>(Mammalia)</i><br/>Orde: carnivoren <i>(Carnivora)</i><br/>Familie: beren <i>(Ursidae)</i><br/>Geslacht: <i>tremarctos</i><br/>Soort: <i>ornatus</i></color>
+               </cell>
+               <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/temperateforest_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+               </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Interessante feiten over de brilbeer</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">De brilbeer wordt ook wel Andesbeer genoemd, omdat hij hoofdzakelijk voorkomt in het Zuid-Amerikaanse Andesgebergte.</color>
+               </cell>
+               <br/>
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">De tekening rond de ogen, waaraan de brilbeer zijn naam te danken heeft, is bij elke beer weer anders en kan dus worden gebruikt voor identificatiedoeleinden.</color>
+               </cell>
+               <br/>
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">De brilbeer speelt een belangrijke rol bij de verspreiding van zaden, aangezien zijn ontlasting zaden van laurierbomen en andere planten bevat.</color>
+               </cell>
+               <br/>
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Verdwijning van de leefomgeving en stropers vormen de grootste bedreigingen voor de overleving van de brilbeer.</color>
+               </cell>
+               <br/>
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Tijdens een internationaal symposium over brilberen in 1988 hebben veldbiologen en dierentuinbestuurders maatregelen besproken die zij nodig achtten om de berenpopulaties in Zuid-Amerika in de gaten te houden.</color>
+               </cell>
+               <br/>               
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">De brilbeer komt in de modus Uitdaging of Campagne beschikbaar zodra je dierentuin een bekendheidsscore van 4 sterren behaalt.</color>
+            <p/>
+Brilbeer is de populaire naam voor een Zuid-Amerikaanse beersoort met een opvallend getekende kop. Brilberen zijn meestal zwart of bruin, met witte of beige vlekken, soms met oranje accenten, op de borst, nek en rond de ogen, waarbij vaak ringen rondom beide ogen te zien zijn. Ooit bevolkten aan de brilbeer verwante beersoorten grote delen van Noord-Amerika, maar inmiddels is deze soort de enige overgebleven van het geslacht. Momenteel leeft de brilbeer verspreid over een gebied van Bolivia tot Colombia, in hoge, steile en woeste gebieden die niet geschikt zijn voor de landbouw.
+            <p/>
+Brilberen zijn relatief klein: mannetjes wegen maximaal zo'n 154 kg en vrouwtjes ongeveer 62 kg. Aan elke poot zit een relatief korte, scherpe en sterke klauw waarmee de brilbeer uitstekend in bomen kan klimmen en takken kan breken. De beren eten vooral wilde vruchten, vooral vijgen, evenals bladeren, kleine dieren, insecten en sappige kruiden en grassen. Ze brengen vaak lange tijd achter elkaar boven in bomen door en bouwen elke nacht een nest om in te slapen. Ze zijn behoorlijk expressief en maken trillende geluiden als ze zich verplaatsen. Jonge dieren maken een zoemend geluid als ze ontspannen zijn.
+            <p/>
+Brilberen zijn niet echt bedreigend voor mensen, maar kunnen wel veel schade aan landbouwakkers veroorzaken. Brilberen worden vaak gedood om hun vlees of om schade aan akkers te beperken, waardoor de brilbeerpopulatie ernstig terugloopt. Hun verspreidingsgebied is door menselijke invloeden snel kleiner aan het worden in alle landen waarin de beren leven; alleen in Bolivia genieten ze een enigszins beschermde status.
+            <p/>
+Een bijdrage van: <br/>
+ Charles Joseph Jonkel</cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Inhoud met dank aan <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2005</color></u></a>.(C) 1993-2005 Microsoft Corporation. Alle rechten voorbehouden.
+         </cell>
+      </LOC_STRING> <LOC_STRING _locID="zoopedia_oryxscimitarhorned:entry">
+Sabeloryx</LOC_STRING> <LOC_STRING _locID="zoopedia_oryxscimitarhorned:text">         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/OryxScimitarHorned/OryxScimitarHorned_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						</cell>
+						<cell width="16">
+							<img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						</cell>
+						<cell width="16">
+							<img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						</cell>
+						<cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/critical.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">Status in het wild: <br/> <color r="255" g="0" b="0">ernstig bedreigd</color></color>                  
+                  </cell>
+               </cell>            
+            
+               <cell width="128">
+                  <color r="255" g="255" b="255">
+Woestijn<br/></color> <img src="ui/icon_biomes/icon_desert.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>               </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">
+Noord-Afrika<br/></color> <img src="ui/icon_maplocations/Desert_Africa_North.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">Klasse: zoogdieren <i>(Mammalia)</i><br/>Orde: evenhoevigen <i>(Artiodactyla)</i><br/>Familie: holhoornigen <i>(Bovidae)</i><br/>Geslacht: <i>oryx</i><br/>Soort: <i>dammah</i></color>
+               </cell>
+               <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/desert_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+               </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Interessante feiten over de sabeloryx</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">De sabeloryx is goed aangepast aan de woestijnomgeving. Zijn nieren zijn erop ingesteld om zo min mogelijk vocht via urine kwijt te raken, en ze kunnen wekenlang zonder water.</color>
+               </cell>
+               <br/>
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">De sabeloryx begint pas te zweten bij een lichaamstemperatuur boven 46 °C.</color>
+               </cell>
+               <br/>
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">De meest opvallende kenmerken van de sabeloryx zijn de sikkelvormige hoorns, die bijzonder kwetsbaar zijn en vrij gemakkelijk afbreken. Het kunnen echter krachtige wapens zijn en het komt zelfs wel voor dat een oryx er een leeuw mee weet te doden.</color>
+               </cell>
+               <br/>
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Er is om zijn schitterende hoorns zoveel op de sabeloryx gejaagd, dat het dier nagenoeg is uitgestorven. Het dier wordt in het wild zelfs als uitgestorven beschouwd.
+</color>               </cell>
+               <br/>
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">De voornaamste natuurlijke vijanden van de sabeloryx zijn de leeuw, het luipaard, de hyena en de Afrikaanse wilde hond.</color>
+               </cell>
+               <br/>
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">De aanleg van diepe putten om vee langs de rand van de Sahara water te kunnen laten drinken, heeft bijgedragen aan de terugval van de sabeloryxpopulatie, aangezien het vee al het beschikbare voedsel opeet.</color>
+               </cell>
+               <br/>             
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">De sabeloryx komt in de modus Uitdaging of Campagne beschikbaar zodra je dierentuin een bekendheidsscore van 1 ster behaalt.</color>
+            <p/>
+Oryx is de algemene naam voor drie soorten gehoornde antilopen die in Afrika en het Midden-Oosten voorkomen, waarvan de meest bekende de gemsbok is. De witte of Arabische oryx en de sabeloryx zijn beide erkend als bedreigde diersoorten. Hier dier kan meer dan 200 kg wegen en heeft een schouderhoogte van zo'n 1,4 m en hoorns met een soortgelijke lengte.
+            <p/>
+De enige antilope die in de geschreven geschiedenis uitgestorven is geraakt, is de Zuid-Afrikaanse blauwbok, die rond 1800 is verdwenen. Sindsdien zijn de aantallen van de meeste soorten antilopen echter teruggelopen, en sommige soorten worden zelfs met uitsterven bedreigd. De belangrijkste voorbeelden hiervan zijn de addax, de sabeloryx en de Arabische oryx. Er wordt namelijk op deze soorten gejaagd vanwege hun hoorns. Deze drie soorten leven in droge gebieden en woestijnen, waar niet veel begroeiing voorkomt en jagers in motorvoertuigen hen makkelijk op kunnen jagen. Nu er tientallen jaren vanuit motorvoertuigen op de addax en de Arabische oryx is gejaagd, komen er nog maar een paar honderd exemplaren van deze dieren in het wild voor. Op de Rode lijst van bedreigde diersoorten van de World Conservation Union (IUCN), een niet-overheidsorganisatie die wereldwijd informatie over bedreigde diersoorten verzamelt, wordt de sabeloryx inmiddels aangemerkt als uitgestorven in het wild. Er zijn nu alleen nog kleine populaties te vinden in beschermde parken en enkele dierentuinen.
+            <p/>
+De laatste decennia hebben programma's gericht op natuurbehoud een aantal positieve resultaten opgeleverd met diersoorten waarop overmatig werd gejaagd. Uit fokprogramma's voor de Arabische oryx in gevangenschap, die in de jaren 1960 in dierentuinen in de Verenigde Staten en Europa van start zijn gegaan, zijn inmiddels al meer dan 2000 dieren voortgekomen. De soort is weer in de vrije natuur uitgezet in beschermde gebieden van Oman, en het dier lijkt een redelijk zekere toekomst tegemoet te gaan. Er zijn ook soortgelijke natuurbehoudprogramma's voor de addax en de sabeloryx, waarbij dierentuinen uit de hele wereld betrokken zijn.
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Inhoud met dank aan <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2005</color></u></a>.(C) 1993-2005 Microsoft Corporation. Alle rechten voorbehouden.
+         </cell>
+      </LOC_STRING> <LOC_STRING _locID="zoopedia_bisonamerican:entry">
+Amerikaanse bizon</LOC_STRING> <LOC_STRING _locID="zoopedia_bisonamerican:text">         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/BisonAmerican/BisonAmerican_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						</cell>
+						<cell width="16">
+							<img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						</cell>
+						<cell width="16">
+							<img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						</cell>
+						<cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">Status in het wild: <br/> <color r="170" g="255" b="0">enigszins bedreigd</color></color>                  
+                  </cell>
+               </cell>            
+            
+               <cell width="128">
+                  <color r="255" g="255" b="255">
+Grasland<br/></color> <img src="ui/icon_biomes/icon_grassland.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>               </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">
+Noord-Amerika<br/></color> <img src="ui/icon_maplocations/Grassland_America_North.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">Klasse: zoogdieren <i>(Mammalia)</i><br/>Orde: evenhoevigen <i>(Artiodactyla)</i><br/>Familie: holhoornigen <i>(Bovidae)</i><br/>Geslacht: <i>bizon</i><br/>Soort: <i>bizon</i></color>
+               </cell>
+               <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/grassland_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+               </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Interessante feiten over de Amerikaanse bizon</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">De Amerikaanse bizon eet hoofdzakelijk grassen en zeggen, met af en toe wat bessen of mossen.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">In de winter gebruikt de Amerikaanse bizon zijn kop en hoeven om sneeuw van planten af te vegen.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">De Amerikaanse bizon is vooral 's ochtends vroeg, laat in de middag en tijdens maanverlichte nachten actief.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">De Amerikaanse bizon heeft een zodanig drijfvermogen, dat zijn kop, rug en staart tijdens het zwemmen boven het water uitsteken.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">De bizon slaat op de vlucht als hij bang is en kan daarbij snelheden tot 50 km per uur bereiken,</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>               
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">De meeste hedendaagse Amerikaanse bizons zijn afstammelingen van een kleine kudde in Yellowstone Park die in de beginjaren van de twintigste eeuw overheidsbescherming heeft gekregen.</color>
+               </cell>               
+               <br/>               
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">De Amerikaanse bizon komt in de modus Uitdaging of Campagne beschikbaar zodra je dierentuin een bekendheidsscore van 0,5 ster behaalt.</color>
+            <p/>
+De bizon is het grootste landdier van Noord-Amerika, waar men het echter over buffels heeft. Biologen geven de voorkeur aan de term bizon, die is gebaseerd op de Latijnse naam van het dier, en waarmee de bizon kan worden onderscheiden van de Afrikaanse buffel en de Aziatische waterbuffel.
+            <p/>
+De bizon valt op door de bult voor op de schouders, de korte, scherpe hoorns (zowel bij mannetjes als vrouwtjes) die naar buiten toe omhoog lopen aan de zijkant van de enorme kop, en het smallere achterlijf. Een volwassen mannetje van de Noord-Amerikaanse bizon is ongeveer 2 m hoog ter hoogte van de bult en 2,7 tot 3,7 m lang, met een gewicht van 850 tot 1100 kg. Het vrouwtje is wat kleiner. De kop, nek, voorpoten en voorste delen van het lijf zijn bedekt met een dikke vacht met lang, donker haar. Het achterste deel van het lijf is bedekt met veel korter haar. Een volwassen bizon heeft meestal een zwarte baard met een lengte van ongeveer 30 cm.
+            <p/>
+Bizons leven meestal in groepen, met uitzondering van oude, solitaire mannetjes. Het grootste deel van het jaar vormen vrouwtjes met jongen kleine groepen, waar jonge stieren nog bij kunnen blijven. Volwassen mannetjes vormen aparte groepen. De groepen kunnen in de lente of herfst in grote kuddes samenkomen om naar voedsel of water te zoeken. Het geknor en gesnuif van bizons is op korte afstand hoorbaar. Het gebrul van bronstige stieren, dat tot op bijna 5 km afstand te horen is, klinkt vooral tijdens de paartijd van juli tot september, wanneer stieren op zoek gaan naar koeien en rivalen proberen te verjagen. Bronstige stieren hebben weinig tijd om te eten en vallen tijdens de paartijd meer dan 90 kg af. De draagtijd is acht tot negen maanden, waarna er één geel-rood kalf wordt geboren. Na enkele dagen is het kalf in staat de kudde te volgen en dan blijft het tot aan de eerstvolgende lente bij zijn moeder.
+            <p/>
+De bizon komt oorspronkelijk van het Europees-Aziatische continent en is een van de weinige leden van zijn familie die tijdens de prehistorie de Beringstraat naar Noord-Amerika zijn overgestoken, waar nu nog twee ondersoorten te vinden zijn: bizon van de vlakte en de woudbizon. De Europese bizon, ofwel wisent, die hoger en tegelijkertijd lichter dan de Amerikaanse bizon is, is nagenoeg uitgestorven. Er leven er nog enkele in parken en dierentuinen.
+				<p/>
+Tot aan de 19e eeuw leefden er wel 60 miljoen bizons op de grote vlakten van Mexico tot Canada, en was er ook een aantal ten oosten van de Mississippi te vinden. Zij speelden een belangrijke rol in het leven van de volkeren op de vlakten, die het vlees en de huiden van de bizons gebruikten, en bovendien gereedschappen maakten van hun botten. Zelfs de gedroogde mest werd gebruikt, als brandstof. Van 1830 tot 1889 werden de bizons systematisch door blanke pioniers afgeslacht als vermaak en om de huiden, waardoor het totaal aantal bizons tot onder de 1000 terugliep. Tegenwoordig leven er weer meer dan 200.000 bizons in beschermde gebieden en op privé-ranches.				
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Inhoud met dank aan <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2005</color></u></a>.(C) 1993-2005 Microsoft Corporation. Alle rechten voorbehouden.
+         </cell>
+      </LOC_STRING> <LOC_STRING _locID="zoopedia_pantherflorida:entry">
+Florida-panter</LOC_STRING> <LOC_STRING _locID="zoopedia_pantherflorida:text">         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+               <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+                  <img src="entities/units/animals/PantherFlorida/PantherFlorida_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+               </cell>
+               <cell width="16">
+                  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+               </cell>
+               <cell width="16">
+                  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+               </cell>
+               <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/critical.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">Status in het wild: <br/> <color r="255" g="0" b="0">ernstig bedreigd</color></color>                  
+                  </cell>
+               </cell>            
+            
+               <cell width="128">
+                  <color r="255" g="255" b="255">
+Moerassen<br/></color> <img src="ui/icon_biomes/icon_wetlands.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>               </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">
+Florida<br/></color> <img src="ui/icon_maplocations/Wetlands_Florida.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">Klasse: zoogdieren <i>(Mammalia)</i><br/>Orde: carnivoren <i>(Carnivora)</i><br/>Familie: katachtigen <i>(Felidae)</i><br/>Geslacht: <i>puma</i><br/>Soort: <i>concolor</i> <br/>Ondersoort:  <i>coryi</i></color>
+               </cell>
+               <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/wetlands_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+               </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Interessante feiten over de Florida-panter</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Florida-panters markeren hun territorium met afvalmateriaal (bergjes aarde, bladeren of dennennaalden, soms bedekt met urine of uitwerpselen).</color>
+               </cell>
+               <br/>
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">De Florida-panter eet voornamelijk witstaartherten, wilde zwijnen, konijnen, wasberen, armadillo's en vogels.</color>
+               </cell>
+               <br/>
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Moeder en jongen van de Forida-panter weten elkaar te vinden door middel van gefluit.</color>
+               </cell>
+               <br/>
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">De jongen kunnen meerdere dagen achter elkaar zonder eten en weten daarbij hun lichaamstemperatuur op peil te houden, zodat de moeder hen alleen kan laten om op zoek te gaan naar voedsel.</color>
+               </cell>
+               <br/>
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Het voortbestaan van de Florida-panter wordt bedreigd door bevolkingsgroei en ontbossing, die ertoe leiden dat de uitgestrekte territoria met bebost land, die zij nodig hebben, steeds verder worden ingeperkt.</color>
+               </cell>
+               <br/>               
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">De Florida-panter komt in de modus Uitdaging of Campagne beschikbaar zodra je dierentuin een bekendheidsscore van 5 sterren behaalt.</color>
+            <p/>
+De Florida-panter, ook wel poema of bergleeuw genoemd, is een Noord-Amerikaanse carnivoor met een dikke, rood-bruine vacht. De vacht is aan de zijkanten lichter van kleur, en de snuit, kin, keel, borst en de binnenkant van de poten zijn wittig gekleurd. Het lijf kan wel 1,95 lang worden, waarbij de lange staart nog niet is meegerekend. Het dier heeft een relatief kleine kop, met een vlek boven beide ogen. De vrouwtjes werpen twee tot vier jongen, die donkerbruine vlekken op hun rug en ringen op hun staart hebben.
+            <p/>
+De Everglades en Cypress Swamps in zuidelijk Florida vormen voor een aantal wilde dieren in de oostelijke Verenigde Staten nagenoeg de laatste toevluchtsoorden. Een van de meest zeldzame dieren daar is de zogenaamde Florida-panter, de enige poema die tegenwoordig nog ten oosten van de Mississippi voorkomt. Dit dier is erkend als bedreigde diersoort en valt onder de bescherming van speciale wetten op staatsrechtelijk en federaal niveau.
+            <p/>
+De Florida-panter krijgt ook veel steun binnen Florida zelf, waar het dier ternauwernood weet te overleven in de dennenbossen en eikenwouden in en rondom de Big Cypress Swamp. Sinds 1958 bestaan er wetten in Florida die de Florida-panter beschermen, en in 1982 stond het dier centraal in een campagne van schoolkinderen, waarbij het is uitgeroepen tot het officiële symbool van de staat.            
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Inhoud met dank aan <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2005</color></u></a>.(C) 1993-2005 Microsoft Corporation. Alle rechten voorbehouden.
+         </cell>
+      </LOC_STRING> <LOC_STRING _locID="zoopedia_rhinocerosjavan:entry">
+Javaanse neushoorn</LOC_STRING> <LOC_STRING _locID="zoopedia_rhinocerosjavan:text">         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/RhinocerosJavan/RhinocerosJavan_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						</cell>
+						<cell width="16">
+							<img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						</cell>
+						<cell width="16">
+							<img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						</cell>
+						<cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/critical.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">Status in het wild: <br/> <color r="255" g="0" b="0">ernstig bedreigd</color></color>                  
+                  </cell>
+               </cell>            
+            
+               <cell width="128">
+                  <color r="255" g="255" b="255">
+Tropisch regenwoud<br/></color> <img src="ui/icon_biomes/icon_tropicalrainforest.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>               </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">
+Zuidoost-Azië<br/></color> <img src="ui/icon_maplocations/Rainforest_Asia_SouthEast.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>               </cell>
+               <br/>
+               <cell width="284">
+                  <color r="255" g="255" b="255">Klasse: zoogdieren <i>(Mammalia)</i><br/>Orde: onevenhoevigen <i>(Perissodactyla)</i><br/>Familie: neushoorns <i>(Rhinocerotidae)</i><br/>Geslacht: <i>rhinoceros</i><br/>Soort: <i>sondaicus</i></color>
+               </cell>
+               <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/tropicalrainforest_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+               </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Interessante feiten over de Javaanse neushoorn</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">De wetenschappelijke naam van de neushoorn komt uit het Grieks: 'rhino' betekent 'neus" en 'cero' betekent 'hoorn'.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>               
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Vrouwtjes van de Javaanse neushoorn hebben vaak geen hoorns en zijn in tegenstelling tot wat bij de meeste diersoorten het geval is, groter dan de mannetjes.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>               
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Er zijn tegenwoordig nog geen 60 Javaanse neushoorns in het wild te vinden.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>               
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Hoewel er geen Javaanse neushoorns in gevangenschap leven, zijn er nog wel vijf tot acht te vinden in het Vietnamese natuurreservaat Cat Loc.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>               
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Het dier is nagenoeg uitgestorven doordat er veel door stropers op is gejaagd om zijn hoorn en doordat er veel ontbossing heeft plaatsgevonden in de dichtbegroeide wouden waarin zij leven.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>               
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Gezien de beperkte omvang van de populatie en hun lange draagtijd, vrezen wetenschappers dat de Javaanse neushoorn zal uitsterven.</color>
+               </cell>               
+               <br/>
+               
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">De Javaanse neushoorn komt in de modus Uitdaging of Campagne beschikbaar zodra je dierentuin een bekendheidsscore van 3,5 sterren behaalt.</color>
+            <p/>
+De Javaanse neushoorn leeft in dichtbegroeide tropische regenwouden van Java in zuidelijke Indonesië, en in sommige delen van Vietnam. Er wordt veel op gejaagd om zijn hoorn, die in traditionele geneesmiddelen wordt verwerkt. Er zijn dan ook nog geen 60 dieren meer in het wild te vinden. Op de Rode lijst van bedreigde diersoorten van de World Conservation Union (IUCN), een niet-overheidsorganisatie die wereldwijd informatie over bedreigde diersoorten verzamelt, wordt de Javaanse neushoorn aangemerkt als ernstig bedreigd.
+            <p/>
+De Indiase en Javaanse neushoorns hebben veel met elkaar gemeen en de meest opvallende overeenkomst is uiteraard het feit dat zij beide één hoorn hebben. De hoorn van de Indiase neushoorn wordt maximaal 50 cm lang, maar de hoorn van de Javaanse neushoorn is maar half zo lang. Vrouwtjes hebben vaak helemaal geen hoorn. Beide soorten hebben een grijs-bruine huid vol plooien, iets wat vooral opvalt bij mannetjes van de Indiase neushoorn, die in de loop der jaren extra huidplooien rond de nek ontwikkelen. In tegenstelling tot de Sumatraanse neushoorn zijn beide soorten nagenoeg haarloos, afgezien van een pluk rond de oren en een kwastje aan de staart. 
+            <p/>
+Indiase neushoorns zijn de grootste Aziatische neushoornsoort, met een schouderhoogte van wel 1,8 meter. Volwassen mannetjes kunnen wel 2200 kg zwaar worden, waarmee het dier het op een na zwaarste landdier van Azië is (na de Aziatische olifant). De Javaanse neushoorn weegt maximaal 2000 kg, en de vrouwtjes zijn tegen de gewoonte in groter dan de mannetjes. Beide diersoorten hebben omgevingen met veel water nodig, maar alleen de Indiase neushoorn brengt veel tijd door in open grasland, in plaats van zich schuil te houden in dichte wouden.            
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Inhoud met dank aan <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2005</color></u></a>.(C) 1993-2005 Microsoft Corporation. Alle rechten voorbehouden.
+         </cell>
+      </LOC_STRING> <LOC_STRING _locID="zoopedia_tapirbairds:entry">
+Baird's tapir</LOC_STRING> <LOC_STRING _locID="zoopedia_tapirbairds:text">  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">
+   
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/TapirBairds/TapirBairds_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/endangered.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">Status in het wild: <br/> <color r="255" g="155" b="0">bedreigd</color></color>                  
+                  </cell>
+               </cell>   
+   
+    <cell width="128">
+     <color r="255" g="255" b="255">
+Tropisch regenwoud<br/></color> <img src="ui/icon_biomes/icon_tropicalrainforest.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>    </cell>
+    <cell width="128">
+     <color r="255" g="255" b="255">
+Midden-Amerika<br/></color> <img src="ui/icon_maplocations/Rainforest_America_Central.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>    </cell>
+    <br/>
+    <cell width="284">
+     <color r="255" g="255" b="255">Klasse: zoogdieren <i>(Mammalia)</i><br/>Orde: onevenhoevigen <i>(Perissodactyla)</i><br/>Familie: tapirs <i>(Tapiridae)</i><br/>Geslacht: <i>tapirus</i><br/>Soort: <i>bairdii</i></color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="UI/zoopedia/biome/tropicalrainforest_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Interessante feiten over de Baird's tapir</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">De Baird's tapir is het grootste zoogdier dat van nature voorkomt in Midden-Amerika.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Het is het nationale symbool van Belize en het is in de meeste landen van Midden-Amerika een beschermde diersoort.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Het dier heeft plaatselijk ook wel de bijnaam 'bergkoe', maar de Baird's tapir is in feite familie van het paard en de neushoorn.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>        
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">De Baird's tapir is een 'levend fossiel': zijn lichaamsvorm is in 35 miljoen jaar nooit veranderd.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Het dier staat bekend om zijn lange, flexibele bovenlip, die wel wat weg heeft van een olifantenslurf.</color>     
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>        
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Het voortbestaan van de Baird's tapir wordt bedreigd door inkrimping van het leefgebied door ontbossing.</color>
+    </cell>
+  </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178">De Baird's tapir komt in de modus Uitdaging of Campagne beschikbaar zodra je dierentuin een bekendheidsscore van 1,5 ster behaalt.</color>
+   <p/>
+Tapir is de algemene naam voor een hoefdier met een groot lijf, korte poten, een korte staart en een kop met een korte, flexibele slurf, kleine ogen en rechtop staande oren. Het dier leeft in dichte wouden en grasgebieden van Midden- en Zuid-Amerika, en Azië. Wanneer tapirs zich bedreigd voelen, vluchten zij naar het water of in dicht kreupelwoud. Zij lijken met hun gepiep met andere leden van hun familiegroep in het dikke gebladerte van het regenwoud te communiceren. Ze eten bladeren, vruchten en andere planten. De tapir lijkt zo sterk op de prehistorische overblijfselen van een dier uit het Piloceen, dat beide dieren in hetzelfde geslacht zijn ondergebracht. Afgezien van de mens zijn leden van de familie der katachtigen de enige vijanden van tapirs. Een combinatie van inkrimping van leefomgeving door ontbossing en jacht heeft de twee soorten uit de noordelijke Andes en Panama tot aan de rand van uitsterven gebracht.
+  </cell>
+  <p/>
+  <cell width="260"/>
+  <cell width="620">
+   Inhoud met dank aan <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2005</color></u></a>.(C) 1993-2005 Microsoft Corporation. Alle rechten voorbehouden.
+  </cell>
+ </LOC_STRING> <LOC_STRING _locID="zoopedia_caribou:entry">
+Rendier</LOC_STRING> <LOC_STRING _locID="zoopedia_caribou:text">  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">
+   
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/Caribou/Caribou_M_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/Caribou/Caribou_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>						 
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>						 
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/vulnerable.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">Status in het wild: <br/> <color r="255" g="255" b="0">kwetsbaar</color></color>                  
+                  </cell>
+               </cell>   
+   
+    <cell width="128">
+     <color r="255" g="255" b="255">
+Toendra<br/></color> <img src="ui/icon_biomes/icon_Tundra.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>    </cell>
+    <cell width="128">
+     <color r="255" g="255" b="255">
+Noord-Amerika<br/></color> <img src="ui/icon_maplocations/Tundra_Arctic.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>    </cell>
+    <br/>
+    <cell width="284" pady="10">
+     <color r="255" g="255" b="255">Klasse: zoogdieren <i>(Mammalia)</i><br/>Orde: evenhoevigen <i>(Artiodactyla)</i><br/>Familie: herten <i>(Cervidae)</i><br/>Geslacht: <i>rangifer</i><br/>Soort: <i>tarandus</i></color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="UI/zoopedia/biome/tundra_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Interessante feiten over het rendier</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Het rendier wordt ook wel kariboe genoemd.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Een rendierkalf is binnen 90 minuten na zijn geboorte al in staat zijn rondtrekkende kudde te volgen.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>        
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Het haar van het rendier houdt lucht vast, wat een uitstekende isolatie biedt en het drijfvermogen van het dier in het water verbetert.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>        
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Rendieren zijn goed aangepast aan de barre noordelijke toendra's, aangezien zij in de winter van mossen (zogenaamd rendiermos) kunnen leven.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Rendieren hebben een soort ingebouwd kompas, vergelijkbaar met dat van trekvogels, dat hen in staat stelt om door hen onbekende gebieden te trekken om voedsel te vinden.</color>
+    </cell>
+   <br/> 
+   </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178">Het rendier komt in de modus Uitdaging of Campagne beschikbaar zodra je dierentuin een bekendheidsscore van 0,5 ster behaalt.</color>
+   <p/>
+   Het Noord-Amerikaanse rendier behoort tot dezelfde soort als het rendier uit het Europees-Aziatische continent. Rendieren bereiken een schouderhoogte van 87 tot 140 cm en kunnen 60 tot 318 kg wegen. Zowel de mannetjes als vrouwtjes hebben geweien, maar het gewei van het vrouwtje is kleiner en eenvoudiger. Er zijn twee hoofdgroepen Noord-Amerikaanse rendieren: het noordelijke rendier en het woudrendier.
+   <p/>
+   Het noordelijke rendier komt uit de toendra's van noordelijk Canada, Groenland en Alaska. De eskimo's in de noordelijke gebieden zijn voor hun overleving lange tijd afhankelijk geweest van deze dieren en gebruikten alle delen van het rendier, voor voedsel, gereedschap of kleding. Het rendier leeft meestal in kleine kuddes bestaande uit koeien en kalveren, aangevuld met enkele stieren. De meeste oudere stieren leven in aparte kleine groepen, behalve tijdens de bronsttijd, en trekken op een afstandje met migrerende kuddes mee. De paartijd loopt van september tot oktober. In mei en juni worden de jongen geboren. Deze rendieren hebben een grijze of lichtbruine zomervacht en een witte wintervacht. 's Winters verzamelen zij zich in grote kuddes en trekken zij naar warmere Canadese wouden, waarbij ze soms wel 5000 km afleggen, om vervolgens in de lente weer naar het noorden terug te keren. Het basisvoedsel van rendieren wordt gevormd door mossen, maar ze eten ook grassen, struiken, boomscheuten en paddestoelen. Plannen voor de aanleg van olie- en gasleidingen in Alaska en Canada zijn dankzij de inspanningen van milieuactivisten aan de migratiegewoonten van de rendieren aangepast.
+   <p/>
+   Het woudrendier is van minder economisch belang en is donkerder en meer gedrongen dan het noordelijk rendier. Ook heeft het woudrendier een zwaarder gewei. Ooit kwam het rendier van Maine tot aan Montana volop voor, maar inmiddels is het dier in de meeste delen van de Verenigde Staten uitgestorven.
+  </cell>
+  <p/>
+  <cell width="260"/>
+  <cell width="620">
+   Inhoud met dank aan <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2005</color></u></a>.(C) 1993-2005 Microsoft Corporation. Alle rechten voorbehouden.
+  </cell>
+ </LOC_STRING> <LOC_STRING _locID="zoopedia_antelopesablegiant:entry">
+Sabelantilope</LOC_STRING> <LOC_STRING _locID="zoopedia_antelopesablegiant:text">  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">   
+
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/AntelopeSableGiant/AntelopeSableGiant_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/AntelopeSableGiant/AntelopeSableGiant_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>						 
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/critical.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">Status in het wild: <br/> <color r="255" g="0" b="0">ernstig bedreigd</color></color>                  
+                  </cell>
+               </cell>   
+   
+    <cell width="128">
+     <color r="255" g="255" b="255">
+Savanne<br/></color> <img src="ui/icon_biomes/icon_savannah.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>    </cell>
+    <cell width="128">
+     <color r="255" g="255" b="255">
+Zuid-Afrika<br/></color> <img src="ui/icon_maplocations/Savannah_Africa_South_GiantSable.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>    </cell>
+    <br/>
+    <cell width="284" pady="10">
+     <color r="255" g="255" b="255">Klasse: zoogdieren <i>(Mammalia)</i><br/>Orde: evenhoevigen <i>(Artiodactyla)</i><br/>Familie: holhoornigen <i>(Bovidae)</i><br/>Geslacht: <i>hippotragus</i><br/>Soort: <i>niger</i><br/>Ondersoort:  <i>variani</i></color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="UI/zoopedia/biome/savannah_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Interessante feiten over de sabelantilope</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">De adembenemende gebogen hoorns van de sabelantilope kunnen bijna twee meter lang worden.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>        
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Als een sabelantilope zijn hoorns verliest, groeien deze niet meer aan.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">De sabelantilope kan snelheden van ruim 55 km per uur bereiken en deze snelheid over een redelijke afstand volhouden.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Het voortbestaan van de sabelantilope heeft te lijden gehad onder 27 jaar burgeroorlog in het land van oorsprong, Angola.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Er zijn nog maar 1000 sabelantilopen, die allemaal in het Luando-reservaat en het nationaal park Kangandala in centraal Angola leven.</color>
+    </cell>    
+    <br/> 
+   </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178">De sabelantilope komt in de modus Uitdaging of Campagne beschikbaar zodra je dierentuin een bekendheidsscore van 2 sterren behaalt.</color>
+   <p/>
+Antilope is de algemene naam voor een uiteenlopende groep holhoornige zoogdieren die deel uitmaken van dezelfde familie als rundvee, geiten en schapen. Er leven ongeveer 100 soorten antilopen in Afrika en Azië, waaronder een aantal van de snelste en meest elegante hoefdieren ter wereld, evenals enkele van de meest bedreigde hoefdieren ter wereld.
+   <p/>
+Er zijn zeven soorten paardantilopen (subfamilie Hippotraginae), waaronder de sabelantilope of reuzenpaardantilope, de roanantilope, de oryx en de addax: dieren met grote lijven en een paardachtige bouw. Ze leven in uiteenlopende omgevingen, van wouden tot woestijnen, in Afrika en op het Arabisch schiereiland. Ondanks de gemeenschappelijke naam, zal men deze antilopen met hun uitzonderlijk lange hoorns niet snel verwarren met echte paarden. Trofeejagers zijn gek op paardantilopenhoorns, en deze voorliefde heeft een aantal van deze diersoorten tot op de rand van uitsterven gebracht.
+   <p/>
+In tegenstelling tot herten, die een vertakt gewei hebben dat zij in de ruitijd afwerpen, hebben antilopen puntige hoorns die hun hele leven verder blijven groeien. Antilopenhoorns kunnen wel anderhalve meter lang worden. Ze zien er indrukwekkend uit, maar hebben slechts een beperkt nut als wapen. Het komt voor dat antilopen roofdieren zoals zelfs leeuwen aan hun hoorns rijgen, maar bij gevaar slaan antilopen bijna altijd op de vlucht.
+   <p/>
+Antilopen zijn herkauwers en braken deels verteerd voedsel dus uit om er vervolgens verder op te kauwen. Net als andere herkauwers, zoals rundvee en schapen, hebben antilopen goed ontwikkelde kiezen, waarmee zij voedsel tot pulp vermalen. Zij hebben geen bovensnijtanden en wanneer zij graspollen of bladeren los proberen te bijten, drukken hun ondersnijtanden tegen hun harde tandvlees aan de bovenkant.
+   <p/>
+Wanneer antilopen eten of uitrusten, vertrouwen zij altijd op hun scherpe zintuigen om gevaar uit de weg te gaan. Hun ogen zijn zijwaarts gericht en zij hebben horizontaal verlengde pupillen, die hen goed zicht bieden op gevaar van voren en van achteren. Ook hun gehoor en reukvermogen zijn bijzonder scherp, wat zeer goed van pas komt in de open vlakten waar veel roofdieren na het invallen van de duisternis op de loer liggen.
+   <p/>
+Om te overleven vertrouwen antilopen op hun vermogen om gevaar te bespeuren en snel de benen te nemen. Dit verdedigingssysteem stelt hen in staat aan de meeste roofdieren te ontkomen, maar het biedt slechts gedeeltelijke bescherming tegen mensen die jagen op huid, hoorns en vlees van antilopen, en helemaal geen bescherming tegen veranderingen in hun leefomgeving.
+  </cell>
+  <p/>
+  <cell width="260"/>
+  <cell width="620">
+   Inhoud met dank aan <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2005</color></u></a>.(C) 1993-2005 Microsoft Corporation. Alle rechten voorbehouden.
+  </cell>
+ </LOC_STRING> <LOC_STRING _locID="zoopedia_wolverine:entry">
+Veelvraat</LOC_STRING> <LOC_STRING _locID="zoopedia_wolverine:text">  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">
+   
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/Wolverine/Wolverine_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/vulnerable.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">Status in het wild: <br/> <color r="255" g="255" b="0">kwetsbaar</color></color>                  
+                  </cell>
+               </cell>   
+   
+				<cell width="128">
+					<color r="255" g="255" b="255">Noordelijke bossen</color> <br/> <img src="ui/icon_biomes/icon_borealforest.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+				</cell>
+				<cell width="128">
+					<color r="255" g="255" b="255">Noord-Amerika</color> <br/> <img src="ui/icon_maplocations/Boreal_America_North.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+				</cell>
+    <br/>
+    <cell width="284" pady="10">
+     <color r="255" g="255" b="255">Klasse: zoogdieren <i>(Mammalia)</i><br/>Orde: carnivoren <i>(Carnivora)</i><br/>Familie: marterachtigen <i>(Mustelidae)</i><br/>Geslacht: <i>gulo</i><br/>Soort: <i>gulo</i></color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="UI/zoopedia/biome/borealforest_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Interessante feiten over de veelvraat</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">De veelvraat, het grootste en gevaarlijkste lid van de familie der wezelachtigen, wordt ook wel wolverine of glutton genoemd.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>        
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">De veelvraat heeft bijzonder sterke tanden en een krachtige kaak, die het dier in staat stelt zijn prooi volledig te verslinden, inclusief huid, hoeven en botten.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Als de veelvraat de omvang van een beer had, zou het het sterkste dier ter wereld zijn.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">De veelvraat is een agressieve aasrover, die zelfs prooien van poema's en wolven probeert af te snoepen.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">De veelvraat heeft een uitstekend reukvermogen en kan zelfs voedsel dat onder sneeuw verborgen ligt, opsporen.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Het voortbestaan van de veelvraat wordt bedreigd door inkrimping van het leefgebied en door de jacht, met name in de 48 aaneengesloten staten van de VS.</color>
+    </cell>    
+    <br/> 
+   </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178">De veelvraat komt in de modus Uitdaging of Campagne beschikbaar zodra je dierentuin een bekendheidsscore van 3 ster behaalt.</color>
+   <p/>
+De veelvraat is een vleesetend zoogdier uit de noordelijke delen van Noord-Amerika, Europa en Azië. Zijn leefomgeving is vergelijkbaar met die van de das. In Franstalig Canada wordt dit dier de carcajou genoemd, terwijl in Engelstalig Canada de naam quickhatch wordt gehanteerd. In Europa wordt de naam glutton veel gebruikt. De veelvraat heeft een fors lijf, korte, dikke poten en lange, gebogen klauwen. De kop en staart bevinden zich laag bij de grond en de rug vormt een hoge boog. De snuit is kort en spits en de kop is behoorlijk bol, met ver uiteengelegen ogen en oren die slechts een klein stukje boven de vacht uitkomen. De staart is kort en zeer ruig, met haren die wel 20 cm lang kunnen worden. De dikke vacht van het lichaam bestaat uit lange, glanzende haren en is donkerbruin van kleur, afgezien van een lichtere streep die aan weerszijden over de volle lengte van het lijf loopt. Het lijf is 65 tot 105 cm lang, de staart niet meegerekend.
+   <p/>
+De veelvraat leeft in bossen en op open vlakten, in een gebied dat loopt van boven de poolcirkel tot onder de noordgrens van de Verenigde Staten. Ook komt hij voor in de bergketens van de Sierra Nevada in Californië. De veelvraat is een nachtdier en houdt geen winterslaap. Ondanks zijn schijnbaar onhandige motoriek kan de veelvraat zich snel verplaatsen. Het dier trekt meestal alleen rond, behalve in de paartijd. De jongen worden van januari tot april geboren, met meestal twee tot vier jongen per nest. De veelvraat eet vogeleieren, bessen en levende dieren die zij weten te vangen. Bij gebrek aan levende prooien eten zij ook wel kadavers. Ook zijn ze zeer bekwaam in het leegroven van vallen die jagers voor andere dieren uitzetten. Hoewel het ooit wemelde van de veelvraten, is het dier nu zeldzaam. Er wordt veel op gejaagd omdat de veelvraat als een lastpost wordt gezien en omdat zijn vacht erg gewild is.
+  </cell>
+  <p/>
+  <cell width="260"/>
+  <cell width="620">
+   Inhoud met dank aan <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2005</color></u></a>.(C) 1993-2005 Microsoft Corporation. Alle rechten voorbehouden.
+  </cell>
+ </LOC_STRING> <LOC_STRING _locID="zoopedia_koala:entry">
+Koala</LOC_STRING> <LOC_STRING _locID="zoopedia_koala:text">  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">
+   
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/Koala/Koala_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">Status in het wild: <br/> <color r="170" g="255" b="0">enigszins bedreigd</color></color>                  
+                  </cell>
+               </cell>    
+   
+    <cell width="128">
+     <color r="255" g="255" b="255">
+Gematigde bossen<br/></color> <img src="ui/icon_biomes/icon_temperateforest.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>    </cell>
+    <cell width="128">
+     <color r="255" g="255" b="255">
+Australië<br/></color> <img src="ui/icon_maplocations/Temperateforest_Australia.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>    </cell>
+    <br/>
+    <cell width="284" pady="10">
+     <color r="255" g="255" b="255">Klasse: zoogdieren <i>(Mammalia)</i><br/>Orde: buideldieren <i>(Diprotodonta)</i><br/>Familie: koala's <i>(Phascolarctidae)</i><br/>Geslacht: <i>phascolarctos</i><br/>Soort: <i>cinereus</i></color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="UI/zoopedia/biome/temperateforest_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Interessante feiten over de koala</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">De naam 'koala' schijnt in diverse Aboriginaltalen 'geen drinken' te betekenen.</color>
+    </cell>
+    <br/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">De koala ziet eruit als een beer, maar is in feite een buideldier dat zijn jong dus in een buidel met zich mee draagt.</color>
+    </cell>
+    <br/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">De koalababy blijft zes maanden in de buidel van zijn moeder, waarna zij het nog eens zes maanden op haar rug meedraagt. Daarna is het jong in staat zelfstandig te overleven.</color>
+    </cell>
+    <br/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Koala's zijn nachtdieren en slapen vaak meer dan 18 uur per dag.</color>
+    </cell>
+    <br/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">De koala is een van de slechts drie dieren ter wereld die kunnen leven van eucalyptusbladeren, die voor de meeste dieren juist giftig zijn.</color>
+    </cell>
+    <br/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Koala's zijn bijzonder territoriumgericht. Zelfs als er een koala sterft, wachten andere koala's tot de geurmarkeringen van de overleden koala zijn vervaagd (wat tot wel een jaar kan duren) voordat zij zich in diens voormalige territorium wagen.</color>
+    </cell>
+    <br/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Ten gevolge van de vernietiging van hun natuurlijke bosleefomgeving, hebben sommige koala's zich verplaatst naar bomen in bebouwde gebieden, waar zij te maken krijgen met gevaren als auto's, honden en katten.</color>
+    </cell>
+    <br/>    
+   </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178">De koala komt in de modus Uitdaging of Campagne beschikbaar zodra je dierentuin een bekendheidsscore van 2,5 sterren behaalt.</color>
+   <p/>
+De koala is een buideldier dat in bomen leeft en nagenoeg uitsluitend eucalyptusbladeren eet. Koala's komen uit Australië en worden ook wel koalaberen genoemd, al zijn ze niet verwant aan de beer. Beren zijn placentale zoogdieren: hun jongen ontwikkelen zich volledig in het lichaam van de moeder, waar zij worden gevoed door een sponsachtig orgaan, de placenta genaamd. Buideldieren, zoals ook de koala, worden in nog onderontwikkelde staat geboren. De ontwikkeling van pasgeboren koala's verloopt verder in een buidel op de buik van de moeder.
+   <p/>
+Er is nauwelijks een dier te noemen dat populairder en bekender is dan de koala. Dankzij hun hoge knuffelgehalte zijn veel mensen gek op koala's en maakt men zich zorgen om hun voortbestaan, aangezien eucalyptusbossen steeds vaker plaats moeten maken voor akkerbouw, woongebieden en industrie.
+   <p/>
+Koala's hebben iets van een miniatuurbeertje, met een grote kop en een stevig lijfje, een minuscule staart en lange, gespierde ledematen. De koala heeft een ronde kop met naar voren gerichte ogen, een stompe, opvallende neus en twee ronde oren boven op zijn kop. Koala's worden 69 tot 79 cm lang en kunnen 5 tot 12 kg wegen. De mannetjes zijn meestal groter dan de vrouwtjes en koala's uit het zuiden zijn meestal groter dan de koala's die in het noorden leven.
+   <p/>
+Het lichaam van de koala is bedekt met een dikke, wollige vacht. Bij de meeste koala's zijn de nek en borst bedekt met witte vacht, met witte plukjes rond de oren, terwijl de kleur en lengte van de vacht op de rest van het lichaam varieert al naar gelang hun locatie. Kola's die in de koelere klimaten van het zuiden leven, hebben een vacht met lange, grijs-bruine of kaneelkleurige haren. De koala's in de tropische noordelijke gebieden hebben een kortere vacht, die lichtzilvergrijs van kleur is.
+   <p/>
+Met hun pootjes kunnen koala's zich heel goed aan bomen vastklampen en erin klimmen. De twee voorpoten van de koala eindigen in vijf vingers, elk met een dikke, gebogen klauw die ze bij het klimmen gebruiken. De eerste twee vingers staan tegenover de andere drie en de koala heeft dus als het ware twee duimen en drie vingers. Dankzij deze pootstructuur kunnen koala's boomtakken goed vastgrijpen. Ook de twee achterpoten van de koala zijn uitgerust met vijf vingers. Hierbij staat de eerste, dikke, klauwloze vinger tegenover de overige vier vingers. De tweede en derde vinger zijn samen vergroeid tot één dubbelklauwige teen, die de koala als een soort kam gebruikt om zich te verzorgen.
+   <p/>
+Bij volwassen mannetjeskoala's bevindt zich midden op de borst een bruine geurklier. Deze klier geeft een sterke lucht af en maakt de omliggende vacht vochtig en donker van kleur. Mannetjes wrijven met deze klier tegen boomstammen en takken. Mogelijk speelt de achtergelaten geur ook een rol bij de communicatie tussen koala's. Zoals bij alle buideldieren het geval is, heeft de vrouwtjeskoala een buidel op haar buik, waar een zich ontwikkelend jong het eerste half jaar van zijn leven doorbrengt. De buidel heeft een opening aan de bovenkant, hoewel deze door het gewicht van een groeiend jong ook aan de onderkant openscheurt.
+   <p/>
+De ogen van de koala zijn naar voren gericht, zodat het dier beide ogen op een en hetzelfde voorwerp kan richten. Dankzij dit vermogen, ook wel binoculair zicht genoemd, kunnen koala's heel goed afstanden inschatten, een vaardigheid die zeer belangrijk is voor een dier dat van de ene naar de andere boomtak wil springen. Koala's lijken ook een goed ontwikkeld reukvermogen te hebben: zij snuffelen aan bladeren voordat ze er een kiezen om op te eten, wat erop lijkt te wijzen dat zij verschillen tussen afzonderlijke bladeren kunnen ruiken. Ook snuffelen zij aan de klierafscheiding die door mannetjes onder aan bomen en op takken wordt achtergelaten. 
+   <p/>
+Zowel in het wild als in gevangenschap kunnen vrouwtjeskoala's 13 tot 20 jaar oud worden, terwijl mannetjes meestal niet ouder worden dan ongeveer 12 jaar. In het wild sterven de meeste koala's echter vrij jong, omdat ze ten prooi vallen aan roofdieren, ziek worden of door auto's worden aangereden.
+  </cell>
+  <p/>
+  <cell width="260"/>
+  <cell width="620">
+   Inhoud met dank aan <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2005</color></u></a>.(C) 1993-2005 Microsoft Corporation. Alle rechten voorbehouden.
+  </cell>
+ </LOC_STRING> <LOC_STRING _locID="zoopedia_wolfgray:entry">
+Grijze wolf</LOC_STRING> <LOC_STRING _locID="zoopedia_wolfgray:text">  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">
+   
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/WolfGray/WolfGray_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">Status in het wild: <br/> <color r="170" g="255" b="0">enigszins bedreigd</color></color>                  
+                  </cell>
+               </cell>   
+   
+    <cell width="128">
+     <color r="255" g="255" b="255">
+Noordelijke bossen<br/></color> <img src="ui/icon_biomes/icon_borealforest.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>    </cell>
+    <cell width="128">
+     <color r="255" g="255" b="255">
+Noord-Amerika<br/></color> <img src="ui/icon_maplocations/Boreal_America_North.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>    </cell>
+    <br/>
+    <cell width="284" pady="10">
+     <color r="255" g="255" b="255">Klasse: zoogdieren <i>(Mammalia)</i><br/>Orde: carnivoren <i>(Carnivora)</i><br/>Familie: hondachtigen <i>(Canidae)</i><br/>Geslacht: <i>canis</i><br/>Soort: <i>lupus</i></color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="UI/zoopedia/biome/borealforest_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Interessante feiten over de grijze wolf</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">De grijze wolf, ook wel toendrawolf of steppewolf genoemd, is de grootste van alle wilde honden.</color>
+    </cell>
+    <br/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Grijze wolven communiceren met elkaar via geurmarkeringen, geluiden (zoals gehuil), gezichtsuitdrukkingen en lichaamstaal.</color>
+    </cell>
+    <br/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">De grijze wolf is een territoriumdier en de grenzen van het territorium worden door alle volwassen leden van de troep bewaakt en verdedigd. Territoria kunnen wel 13.000 vierkante kilometer groot zijn.</color>
+    </cell>
+    <br/> 
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Troepen wolven leggen per dag tot wel 30 km binnen een gebied van 1500 vierkante kilometer af om voedsel te vinden.</color>
+    </cell>
+    <br/> 
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">In het begin van de twintigste eeuw stond de grijze wolf op het punt van uitsterven, door uitroeiingsprogramma's van pioniers en de federale overheid, waarbij de dieren werden afgemaakt ter bescherming van vee.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>        
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">De wolvenpopulatie is dankzij initiatieven op het gebied van natuurbehoud en voorlichting langzaam weer toegenomen.</color>
+    </cell>    
+    <br/> 
+   </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178">De grijze wolf komt in de modus Uitdaging of Campagne beschikbaar zodra je dierentuin een bekendheidsscore van 2,5 sterren behaalt.</color>
+   <p/>
+De grijze wolf is de grootste wilde hond ter wereld, en een van de slechts twee bekende wolvensoorten ter wereld. De enige andere wolvensoort is de rode wolf uit het zuidoosten van de Verenigde Staten. Grijze wolven die op de boomloze vlakten van het poolgebied leven, worden poolwolven genoemd, en de wolven in meer zuidelijke, beboste gebieden worden ook wel timberwolven genoemd. Wetenschappers erkennen slechts één subsoort van de grijze wolf: de Mexicaanse grijze wolf.
+   <p/>
+De grijze wolf is uitgegroeid tot een symbool van bedreigde diersoorten. Grijze wolven waren ooit het meest wijdverspreide zoogdier ter wereld na de mens, en kwamen destijds in grote delen van het noordelijk halfrond voor. Tegenwoordig zijn er nog veel grijze wolven in noordelijk Europa, Azië, Alaska en Canada. In centraal en oostelijk Europa, het Midden-Oosten en de Verenigde Staten komen ze echter nog maar mondjesmaat in het wild voor.
+   <p/>
+Grijze wolven zijn sterke dieren met hondachtige koppen, grote, woeste staarten en lange poten. De vacht van de meeste grijze wolven is asgrijs, maar kan ook een bruine of roodachtige tint hebben. Grijze wolven hebben meestal een witte borst en buik, met zwarte vlekken op de rug en flanken. Sommige troepen grijze wolven zijn helemaal zwart of wit.
+   <p/>
+Een volwassen grijze wolf wordt tot 2 meter lang, de staart meegerekend (waarbij de staart minder dan half zo lang is als het lijf). De wolf kan tot 80 kg wegen. Ze hebben een schouderhoogte van 0,5 tot 1 meter. Vrouwtjes zijn kleiner dan mannetjes, en wolven uit het zuiden zijn kleiner dan wolven uit het noorden.
+   <p/>
+Grijze wolven vormen troepen van maximaal 24 leden, die samen op grote planteneters zoals herten, rendieren en elanden jagen. De leden van een troep werken met elkaar samen om de prooi tijdens de jacht op te drijven en in het nauw te brengen. Een dergelijke jacht kan wel van vroeg in de avond tot de ochtend erop duren. Als ze individueel op jacht gaan, eten wolven muizen, konijnen, bevers en huisdieren.
+   <p/>
+Troepen grijze wolven zijn sociale eenheden met een strikte hiërarchie, waarbij sommige leden dominant en andere ondergeschikt zijn. Wanneer twee leden van een troep elkaar begroeten, gaat de dominante wolf rechtop staan, terwijl de ondergeschikte wolf in elkaar duikt. Troepen wolven heffen soms een collectief gehuil aan om de eenheid binnen de troep te bevorderen en andere wolven te laten weten dat de troep in de buurt is.
+   <p/>
+Grijze wolven kiezen meestal een partner voor het leven. Binnen elke troep planten alleen het dominante mannetje en het dominante vrouwtje, het zogenaamde alfapaar, zich voort. Grijze wolven paren laat in de winter en na een draagtijd van 61 tot 63 dagen baart het vrouwtje vier tot zeven jongen. Beide ouders, evenals andere volwassenen uit de troep, herkauwen voedsel voor de jongen. De jongen worden grootgebracht in holen onder de grond, tussen rotsen of in holle boomstammen.
+   <p/>
+Hoewel wolven zelden op mensen afgaan, heeft de mens eeuwenlang geprobeerd de grijze wolf uit te roeien. Sommige natuurgebieden bieden toevluchtsoorden voor wolven, maar dergelijke woonomgevingen nemen steeds verder in omvang af. In 1973 is de grijze wolf in de Verenigde Staten erkend als bedreigde diersoort. Dit heeft ertoe geleid dat deze wolven nu in de 48 aaneengesloten staten van de VS bescherming genieten. Ook is de publieke waardering voor deze dieren inmiddels toegenomen.
+   <p/>
+In 1987 heeft de United States Fish and Wildlife Service (USFWS) een plan gemaakt om wolven te herintroduceren in Yellowstone Park en delen van centraal Idaho. Om tegenstanders van het plan over te halen, hebben milieuactivisten en federale instanties ingestemd met vergoedingen voor boeren die hun vee ten prooi zien vallen aan wolven. Deze herintroductie is bijzonder succesvol geweest en wolfexperts verwachten dat de status van de grijze wolf binnenkort in de 48 aaneengesloten staten van bedreigd in enigszins bedreigd zal worden veranderd.
+   <p/>
+Beschermers van de grijze wolf hebben hun aandacht inmiddels op de Mexicaanse grijze wolf gericht, een soort die al bijna 50 jaar niet meer in zijn historische territorium in het zuidwesten van de Verenigde Staten te vinden is. Begin 1998 heeft de USFWS een plan ter herintroductie van de Mexicaanse grijze wolf in het Apache National Forest in Arizona uitgestippeld.
+  </cell>
+  <p/>
+  <cell width="260"/>
+  <cell width="620">
+   Inhoud met dank aan <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2005</color></u></a>.(C) 1993-2005 Microsoft Corporation. Alle rechten voorbehouden.
+  </cell>
+ </LOC_STRING> <LOC_STRING _locID="zoopedia_orangutan:entry">
+Orang-oetan</LOC_STRING> <LOC_STRING _locID="zoopedia_orangutan:text">  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">
+   
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/Orangutan/Orangutan_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/Orangutan/Orangutan_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>						 
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/endangered.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">Status in het wild: <br/> <color r="255" g="155" b="0">bedreigd</color></color>                  
+                  </cell>
+               </cell>   
+   
+    <cell width="128">
+     <color r="255" g="255" b="255">
+Tropisch regenwoud<br/></color> <img src="ui/icon_biomes/icon_tropicalrainforest.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>    </cell>
+    <cell width="128">
+     <color r="255" g="255" b="255">
+Zuidoost-Azië<br/></color> <img src="ui/icon_maplocations/Rainforest_Asia_SouthEast.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>    </cell>
+    <br/>
+    <cell width="284" pady="10">
+     <color r="255" g="255" b="255">Klasse: zoogdieren <i>(Mammalia)</i><br/>Orde: primaten <i>(Primata)</i><br/>Familie: mensapen <i>(Pongidae)</i><br/>Geslacht: <i>pongo</i><br/>Soort: <i>pygmaeus</i></color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="UI/zoopedia/biome/tropicalrainforest_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Interessante feiten over de orang-oetan</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">De armen van een orang-oetan reiken verder dan zijn lichaam en hebben een spanwijdte van meer dan 2 meter.</color>
+    </cell>
+	 <cell width="32" pady="10">
+	 	 <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	 </cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Orang-oetans bewegen door de bomen door aan hun armen van tak naar tak te slingeren.</color>
+    </cell>
+	 <cell width="32" pady="10">
+	 	 <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	 </cell> 
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Orang-oetans zijn de minst sociale grote apen. Met name volwassen mannetjes zijn onderling bijzonder onverdraagzaam.</color>
+    </cell>
+	 <cell width="32" pady="10">
+	 	 <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	 </cell> 
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Net als mensen geven ook orang-oetans sociaal ontwikkelde tradities aan elkaar door. Zo gebruiken de orang-oetans op Borneo bijvoorbeeld bladeren als servet om hun mond mee af te vegen, en gebruiken orang-oetans in sommige delen van Sumatra bladeren als een soort handschoenen om stekelige takken mee vast te pakken.</color>
+    </cell>
+	 <cell width="32" pady="10">
+	 	 <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	 </cell> 
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Orang-oetans zijn bijzonder oplettend. Het is zelfs voorgekomen dat zij mensen observeerden die een boot losmaakten en over een rivier roeiden, om dit vervolgens na te doen.</color>
+    </cell>    
+	 <cell width="32" pady="10">
+	 	 <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	 </cell> 
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">De belangrijkste bedreiging voor orang-oetans wordt gevormd door de vernietiging van het tropisch regenwoud.</color>
+    </cell>    
+	 <cell width="32" pady="10">
+	 	 <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	 </cell> 
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Stropers doden moederorang-oetans vaak om een levend jong te kunnen vangen. Zo sterven er zes tot tien orang-oetans voor elke overlevende.</color>
+    </cell>
+    <br/> 
+   </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178">De orang-oetan komt in de modus Uitdaging of Campagne beschikbaar zodra je dierentuin een bekendheidsscore van 4,5 sterren behaalt.</color>
+   <p/>
+   De orang-oetan is de grootste aap van Zuidoost-Azië. De naam betekent 'man van de jungle' in het Maleis. Orang-oetans leven alleen op Borneo en in de noordelijke uithoek van Sumatra.
+	<p/>
+	De orang-oetan brengt het merendeel van zijn tijd in bomen door en gebruikt daarbij zijn lange armen en haakvormige handen en voeten om takken en scheuten vast te pakken. De orang-oetan waagt zich zelden op de grond en als dit wel gebeurt, loopt hij op vier poten. Verplaatsing via boomtoppen is niet makkelijk en de orang-oetan legt daarom maar een paar honderd meter per dag af. Elke avond bouwt hij een nieuw nest in de boomtoppen, vaak door takken van een betelboom omlaag te buigen. Oudere mannetjes verplaatsen zich soms echter over de grond, waar zij dan ook de nacht doorbrengen.
+   <p/>	
+	Orang-oetans worden gekenmerkt door een grove, langharige, roodbruine vacht. Mannetjes zijn gemiddeld 95 cm lang en wegen ongeveer 77 kg. Vrouwtjes zijn kleiner en worden ongeveer 78 cm lang, met een gewicht van slechts ongeveer 37 kg. Het mannetje heeft bolle wangen en een hangende keelzak. Deze zak bevat lucht die de aap in staat stelt een kreunend, borrelend geluid voort te brengen, dat op minstens een kilometer afstand te horen is.
+   <p/>	
+	Het dieet van een orang-oetan bestaat voor de helft uit fruit, maar deze dieren eten ook jonge bladeren, zachte binnenschors, termieten, eieren en soms apen. Orang-oetans bouwen in de winter een vetreserve op die hen door het regenseizoen van april tot oktober, wanneer voedsel schaars is, moet brengen.
+   <p/>	
+	Orang-oetans zijn solitaire wezens. Afgezien van de paartijd verplaatsen volwassen dieren zich meestal in hun eentje, en gaan zij ook in hun eentje op zoek naar voedsel. Wanneer een vrouwtje wil paren, kiest zij een volwassen mannetje uit. Het paar blijft dan enkele dagen samen tot het vrouwtje zwanger is, waarna hun paden weer scheiden. De draagtijd voor orang-oetans is iets minder dan negen maanden, ongeveer gelijk aan die van mensen. Het vrouwtje baart elke vier tot acht jaar één jong. De jongen blijven de eerste drie jaar bij hun moeder, tot ze hun eigen voedsel kunnen verzamelen. De volgende drie tot vijf jaar worden ze geleidelijk steeds onafhankelijker van hun moeder en op ongeveer achtjarige leeftijd worden zij volledig zelfstandig. Soms sluit een volwassen vrouwtje met jong zich een paar dagen aan bij een ander volwassen vrouwtje met jong, zodat de jongen met elkaar kunnen spelen.
+   <p/>	
+	Ondanks het verbod op het doden, bezitten en exporteren van orang-oetans zijn er nog altijd stropers actief. Ook krimpt de leefomgeving van de orang-oetan snel verder in ten gevolge van grootschalige ontbossing door kap en bosbrand. In 1997 en 1998 kwamen duizenden orang-oetans tijdens bosbranden op Sumatra en Borneo om het leven. Hierbij werd de leefomgeving van nog eens duizenden exemplaren vernietigd, waardoor het voortbestaan van de soort nog meer in gevaar kwam.
+  </cell>
+  <p/>
+  <cell width="260"/>
+  <cell width="620">
+   Inhoud met dank aan <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2005</color></u></a>.(C) 1993-2005 Microsoft Corporation. Alle rechten voorbehouden.
+  </cell>
+ </LOC_STRING> <LOC_STRING _locID="zoopedia_wilddogafrican:entry">
+Afrikaanse wilde hond</LOC_STRING> <LOC_STRING _locID="zoopedia_wilddogafrican:text">  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">
+   
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/WildDogAfrican/WildDogAfrican_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/endangered.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">Status in het wild: <br/> <color r="255" g="155" b="0">bedreigd</color></color>                  
+                  </cell>
+               </cell>   
+   
+    <cell width="128">
+     <color r="255" g="255" b="255">
+Savanne<br/></color> <img src="ui/icon_biomes/icon_savannah.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>    </cell>
+    <cell width="128">
+     <color r="255" g="255" b="255">
+Afrika<br/></color> <img src="ui/icon_maplocations/Savannah_Africa_South.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>    </cell>
+    <br/>
+    <cell width="284" pady="10">
+     <color r="255" g="255" b="255">Klasse: zoogdieren <i>(Mammalia)</i><br/>Orde: carnivoren <i>(Carnivora)</i><br/>Familie: hondachtigen <i>(Canidae)</i><br/>Geslacht: <i>lycaon</i><br/>Soort: <i>pictus</i></color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="UI/zoopedia/biome/savannah_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Interessante feiten over de Afrikaanse wilde hond</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">De Afrikaanse wilde hond is een onvermoeibare jager (en sprinter) die prooien wel een uur lang achter elkaar kan opjagen, over afstanden tot twee kilometer.</color>
+    </cell>
+    <br/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">De Afrikaanse wilde hond is een van de meest bedreigde roofdieren van Afrika.</color>
+    </cell>
+    <br/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Het voortbestaan van de Afrikaanse wilde hond wordt bedreigd door contact met tamme honden, waardoor hondsdolheid en andere ziekten kunnen worden veroorzaakt.</color>
+    </cell>
+    <br/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Ook het verlies van leefomgeving is funest voor de Afrikaanse wilde hond, aangezien dit dier uitgestrekte territoria nodig heeft om zijn populatie in stand te kunnen houden.</color>
+    </cell>
+    <br/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">De inkrimping van leefomgeving is met name kritiek voor rondtrekkende dieren zoals de Afrikaanse wilde hond.</color>
+    </cell>
+    <br/>     
+   </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178">De Afrikaanse wilde hond komt in de modus Uitdaging of Campagne beschikbaar zodra je dierentuin een bekendheidsscore van 3,5 sterren behaalt.</color>
+   <p/>
+De Afrikaanse wilde hond is een kleine, wilde, vleesetende hond die in zuidelijk Afrika en ten oosten van de Sahara voorkomt. Het dier wordt ook wel Afrikaanse jachthond of hyenahond genoemd. De hond heeft een zwarte huid en lange poten, weegt tot 23 kg en is bedekt met een korte, onregelmatige vacht met uiteenlopende patronen in zwart, geel en wit. Hij heeft lange, afgeronde oren en aan elke poot slechts vier tenen.
+  <p/>
+Het dier leeft en verplaatst zich in troepen bestaande uit enkele tot wel meer dan 50 dieren. Zij kunnen bij het zoeken van voedsel wel 3900 vierkante kilometer terrein afzoeken. De honden kennen complexe sociale patronen en in tegenstelling tot hetgeen bij de meeste sociale soorten het geval is, vormen mannetjes de meerderheid van een groep. Binnen de groep planten zich meestal slechts een mannetje en een vrouwtje voort. Beide ouders zorgen voor het jong, dat ook van de andere oudere honden in de troep veel over de jacht en het opsporen van prooien leren. Een grote troep kan zelfs grote dieren zoals leeuwen de baas. Na een draagtijd van 79 of 80 dagen, worden er 6 tot 16 jongen geboren.  
+  </cell>
+  <p/>
+  <cell width="260"/>
+  <cell width="620">
+   Inhoud met dank aan <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2005</color></u></a>.(C) 1993-2005 Microsoft Corporation. Alle rechten voorbehouden.
+  </cell>
+ </LOC_STRING> <LOC_STRING _locID="zoopedia_horseprzewalskiswild:entry">
+Przewalskipaard</LOC_STRING> <LOC_STRING _locID="zoopedia_horseprzewalskiswild:text">  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">
+   
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/HorsePrzewalskisWild/HorsePrzewalskisWild_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/critical.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">Status in het wild: <br/> <color r="255" g="0" b="0">ernstig bedreigd</color></color>                  
+                  </cell>
+               </cell>   
+   
+    <cell width="128">
+     <color r="255" g="255" b="255">
+Grasland<br/></color> <img src="ui/icon_biomes/icon_grassland.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>    </cell>
+    <cell width="128">
+     <color r="255" g="255" b="255">
+Centraal Azië<br/></color> <img src="ui/icon_maplocations/Grassland_Asia_Central.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>    </cell>
+    <br/>
+    <cell width="284" pady="10">
+     <color r="255" g="255" b="255">Klasse: zoogdieren <i>(Mammalia)</i><br/>Orde: onevenhoevigen <i>(Perissodactyla)</i><br/>Familie: paarden/ezels/zebra's <i>(Equidae)</i><br/>Geslacht: <i>equus</i><br/>Soort: <i>ferus</i>Ondersoort: <i>przewalski</i></color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="UI/zoopedia/biome/grassland_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Interessante feiten over het Przewalskipaard</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Het Przewalskipaard, het enige echt wilde paard ter wereld, is genoemd naar een beroemde Russische ontdekkingsreiziger en natuurwetenschapper die het paard in 1879 in Mongolië heeft ontdekt.</color>
+    </cell>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Het Przewalskipaard wordt ook wel het Aziatische wilde paard, het Mongoolse wilde paard of Takhi genoemd.</color>
+    </cell>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">het Altaigebergte, waar het Przewalskipaard ooit rondgaloppeerde, wordt ook wel de 'Bergen van de gele paarden' genoemd.</color>
+    </cell>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">De voet van het Przewalskipaard bestaat in feite uit één teen waarvan het laatste bot verbreed en tot een hoef vervormd is, wat het paard tot een echte hardloper maakt.</color>
+    </cell>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">In tegenstelling tot andere paarden heeft het Przewalskipaard geen pony en heeft hij rechtop staande manen.</color>
+    </cell>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Eind jaren 1960 is dit dier voor het laatst in het wild gesignaleerd. De soort wordt nog altijd beschouwd als uitgestorven in het wild, ondanks pogingen om het paard weer in zijn natuurlijke habitat uit te zetten.</color>
+    </cell>    
+    <br/> 
+   </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178">Het Przewalskipaard komt in de modus Uitdaging of Campagne beschikbaar zodra je dierentuin een bekendheidsscore van 3 sterren behaalt.</color>
+   <p/>
+   Het Przewalskipaard, een ondersoort van het gewone paard, is een relatief klein en stevig paard met een groot hoofd en een lange staart. Eind 19e eeuw leefden er Przewalskipaarden verspreid over de steppen en woestijnen van Mongolië, Kazachstan en delen van China. Door het verloren gaan van de leefomgeving en de jacht op het Przewalskipaard is de populatie zo drastisch teruggelopen dat het Przewalskipaard in het wild niet meer te vinden is. Nu leeft het dier alleen nog in gevangenschap.
+   <p/>
+Het Przewalskipaard, dat wordt beschouwd als het enige echt wilde paard dat tot de moderne tijd heeft weten te overleven, is waarschijnlijk in de jaren 1960 in het wild in Mongolië uitgestorven. Er leven momenteel ongeveer 1100 Przewalskipaarden in gevangenschap in dierentuinen en natuurparken.   
+  </cell>
+  <p/>
+  <cell width="260"/>
+  <cell width="620">
+   Inhoud met dank aan <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2005</color></u></a>.(C) 1993-2005 Microsoft Corporation. Alle rechten voorbehouden.
+  </cell>
+ </LOC_STRING> <LOC_STRING _locID="zoopedia_lynxspanish:entry">
+Spaanse lynx</LOC_STRING> <LOC_STRING _locID="zoopedia_lynxspanish:text">  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">
+   
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/LynxSpanish/LynxSpanish_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/critical.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">Status in het wild: <br/> <color r="255" g="0" b="0">ernstig bedreigd</color></color>                  
+                  </cell>
+               </cell>   
+   
+    <cell width="128">
+			<color r="255" g="255" b="255">
+Gematigde bossen<br/></color> <img src="ui/icon_biomes/icon_temperateforest.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>    </cell>
+    <cell width="128">
+     <color r="255" g="255" b="255">
+Spanje<br/></color> <img src="ui/icon_maplocations/Scrub_Europe_Spain.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>    </cell>
+    <br/>
+    <cell width="284" pady="10">
+     <color r="255" g="255" b="255">Klasse: zoogdieren <i>(Mammalia)</i><br/>Orde: carnivoren <i>(Carnivora)</i><br/>Familie: katachtigen <i>(Felidae)</i><br/>Geslacht: <i>lynx</i><br/>Soort: <i>pardinus</i></color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="UI/zoopedia/biome/scrub_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Interessante feiten over de Spaanse lynx</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">De naam 'lynx' komt van het Griekse woord voor 'glanzen', wat wellicht een verwijzing is naar de reflecterende ogen van de lynx.</color>
+    </cell>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">De Spaanse lynx is hoofdzakelijk een nachtdier, maar in de wintermaanden nemen zijn activiteiten overdag toe.</color>
+    </cell>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">De Spaanse lynx begraaft prooien die hij nog niet helemaal op heeft kunnen eten, om de volgende dag terug te keren en verder te eten.</color>
+    </cell>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">De Spaanse lynx is de meest bedreigde katachtige ter wereld en er leven nog ongeveer duizend exemplaren in het wild.</color>
+    </cell>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Er wordt veel op de Spaanse lynx gejaagd, en vaak komen ze ook per ongeluk klem te zitten in vallen die voor andere dieren zijn uitgezet.</color>
+    </cell>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Europese instanties voor natuurbehoud hebben de Spaanse lynx meegenomen in een initiatief voor het behoud van een aantal grote carnivoren.</color>
+    </cell>     
+    <br/> 
+   </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178">De Spaanse lynx komt in de modus Uitdaging of Campagne beschikbaar zodra je dierentuin een bekendheidsscore van 3,5 sterren behaalt.</color>
+   <p/>
+Lynx is de algemene naam voor drie leden van een geslacht van wilde carnivoren die worden gekenmerkt door relatief lange poten, en grote, zware klauwen. Lynxen komen zowel in gematigde als noordelijke streken op het noordelijk halfrond voor. Het zijn gedrongen dieren met een lengte van 65 tot 130 cm, een dikke, zachte vacht en een korte, stompe staart. Bij de meeste soorten groeit er een pluk haar van meer dan 2 cm lang aan het uiteinde van beide oren. Lynxen zijn goede klimmers en gaan bij goed weer regelmatig op boomtakken liggen, in afwachting van voorbij trekkende prooien, zoals zwakkere zoogdieren en grondvogels. Ook houdt de lynx ervan zijn prooi te besluipen. Bij guur weer en tijdens de paartijd schuilen lynxen in grotten of holle boomstammen. Een nest bestaat gemiddeld uit twee tot vier jongen. De lynx is bijzonder geliefd om zijn vacht.
+   <p/>
+Er worden in het algemeen vier soorten lynxen onderscheiden: de Spaanse lynx, die is aangemerkt als bedreigde diersoort; de rode lynx, die bijna overal in de Verenigde Staten voorkomt, met uitzondering van de zogenaamde Corn Belt in het midwesten; de gewone of noordelijke lynx, ook wel los genoemd; en de Canadese lynx. De Canadese lynx komt voor in het noorden van de Verenigde Staten en in Canada en Alaska. Het is de grootste lynxsoort van Noord-Amerika met een gemiddelde lichaamslengte van 90 cm en een staart van 5 tot 14 cm. Hij heeft een donkergrijze rug met hazelnootbruine strepen, en een grijswitte buik, vaak met zwarte vlekken. Deze soort eet hoofdzakelijk Amerikaanse sneeuwhazen, herten en andere hoefdieren. In 1998 heeft de United States Fish and Wildlife Service (USFWS) de Canadese lynx aangemerkt als beschermde diersoort voor alle bossen in de 48 aaneengesloten staten van de VS.
+  </cell>
+  <p/>
+  <cell width="260"/>
+  <cell width="620">
+   Inhoud met dank aan <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2005</color></u></a>.(C) 1993-2005 Microsoft Corporation. Alle rechten voorbehouden.
+  </cell>
+ </LOC_STRING> <LOC_STRING _locID="zoopedia_komododragon:entry">
+Komodovaraan</LOC_STRING> <LOC_STRING _locID="zoopedia_komododragon:text">  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">
+   
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/KomodoDragon/KomodoDragon_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/vulnerable.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">Status in het wild: <br/> <color r="255" g="255" b="0">kwetsbaar</color></color>                  
+                  </cell>
+               </cell>   
+   
+    <cell width="128">
+     <color r="255" g="255" b="255">
+Kreupelhout<br/></color> <img src="ui/icon_biomes/icon_scrub.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>    </cell>
+    <cell width="128">
+     <color r="255" g="255" b="255">
+Zuidoost-Azië<br/></color> <img src="ui/icon_maplocations/Scrub_Asia_SouthEast_KomodoIsland.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>    </cell>
+    <br/>
+    <cell width="284" pady="10">
+     <color r="255" g="255" b="255">Klasse: reptielen <i>(Reptilia)</i><br/>Orde:  schubreptielen<i>(Squamata)</i><br/>Familie: varanen<i>(Varanidae)</i><br/>Geslacht: <i>varanus</i><br/>Soort: <i>komodoensis</i></color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="UI/zoopedia/biome/scrub_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Interessante feiten over de Komodovaraan</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">De Komodovaraan is 's werelds grootste hagedis.</color>
+    </cell>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">De Komodovaraan kan tot wel 80 procent van zijn eigen lichaamsgewicht in één maaltijd verorberen.</color>
+    </cell>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Het speeksel van de Komodovaraan bevat bacteriën die ernstige (meestal dodelijke) bloedvergiftiging kunnen veroorzaken.</color>
+    </cell>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">De tanden van de Komodovaraan lijken meer op die van een haai dan op die van andere hagedissen.</color>
+    </cell>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Zodra een jonge Komodovaraan uit het ei is gekropen, zal het voor zichzelf moeten zorgen. Zij leven dan vooral in bomen, aangezien volwassen varanen vaak hun eigen jongen opeten.</color>
+    </cell>    
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">De Komodovaraan lijkt niet bang te zijn voor mensen en er zijn dan ook al heel wat mensen aangevallen en gedood.</color>
+    </cell>    
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Komodovaranen worden bedreigd door jagers en andere menselijke activiteiten. Gevangen exemplaren overleven zelden in gevangenschap, hoewel er inmiddels toch een aantal Komodovaranen in dierentuinen geboren en getogen is.</color>
+    </cell>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">De habitat van de Komodovaraan was een van de eerste beschermde gebieden van Azië.</color>
+    </cell>    
+    <br/> 
+   </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178">De Komodovaraan komt in de modus Uitdaging of Campagne beschikbaar zodra je dierentuin een bekendheidsscore van 2 sterren behaalt.</color>
+   <p/>
+Varaan is de algemene naam voor een soort hagedis waar ook de grootste nog levende hagedissoort, de Komodovaraan, onder valt. Varanen leven in tropische gebieden en woestijnen in Afrika, Azië en Arabië, in zuidelijk China en Maleisië en in Oost-Indië en Australië. Het geslacht omvat ongeveer 30 soorten, die een lengte van 20 cm tot wel meer dan 3 meter kunnen bereiken. Ze worden gekenmerkt door een lange, gevorkte, slangachtige tong en kunnen grote prooien in één keer opslokken en doorslikken. Het zijn gestroomlijnde hardlopers met een spits toelopende kop, een lange nek, sterke poten en een lange, krachtige staart. Varanen eten insecten, vogels, reptielen, reptieleneieren, kleine zoogdieren en kadavers.
+  <p/>
+Varanen behoren tot de oudste nog levende reptielen. Ze zijn verwant aan de mosasaurus, een zeehagedis die 136 tot 65 miljoen jaar geleden leefde en tot wel 10 meter lang kon worden. De grootste varaansoort is de Komodovaraan, die een gewicht van wel 165 kg kan bereiken. Deze varaan komt voor op diverse Indonesische eilanden, waaronder het eiland Komodo. Deze hagedis is een fel roofdier en aasrover, met een bek vol giftige bacteriën. Eén beet van deze varaan kan dan ook dodelijk zijn.
+  <p/>
+Hoewel varanen hoofdzakelijk landdieren zijn, kunnen sommige soorten ook goed bomen beklimmen en zwemmen. De grote watervaraan uit Oost-Indië kan tot ver uit de kust zwemmen. Twee soorten, de Komodovaraan en de stekelstaartvaraan, zijn opgenomen op de Rode lijst van bedreigde diersoorten van de World Conservation Union (IUCN).
+  </cell>
+  <p/>
+  <cell width="260"/>
+  <cell width="620">
+   Inhoud met dank aan <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2005</color></u></a>.(C) 1993-2005 Microsoft Corporation. Alle rechten voorbehouden.
+  </cell>
+ </LOC_STRING> <LOC_STRING _locID="zoopedia_markhor:entry">
+Schroefhoorngeit</LOC_STRING> <LOC_STRING _locID="zoopedia_markhor:text">  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">
+   
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/Markhor/Markhor_M_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/Markhor/Markhor_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/endangered.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">Status in het wild: <br/> <color r="255" g="155" b="0">bedreigd</color></color>                  
+                  </cell>
+               </cell>   
+   
+    <cell width="128">
+     <color r="255" g="255" b="255">
+Berggebied<br/></color> <img src="ui/icon_biomes/icon_alpine.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>    </cell>
+    <cell width="128">
+     <color r="255" g="255" b="255">
+Himalayagebergte<br/></color> <img src="ui/icon_maplocations/Alpine_Asia.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>    </cell>
+    <br/>
+    <cell width="284" pady="10">
+     <color r="255" g="255" b="255">Klasse: zoogdieren <i>(Mammalia)</i><br/>Orde: evenhoevigen <i>(Artiodactyla)</i><br/>Familie: holhoornigen <i>(Bovidae)</i><br/>Geslacht: <i>capra</i><br/>Soort: <i>falconeri</i></color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="UI/zoopedia/biome/alpine_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Interessante feiten over de schroefhoorngeit</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">De schroefhoorngeit is een van de grootste leden van de geitenfamilie.</color>
+    </cell>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">De schroefhoorngeit heeft zijn naam te danken aan zijn opvallende, schroefvormige hoorns.</color>
+    </cell>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Schroefhoorngeiten zijn bijzonder behendig en staan bekend om hun vermogen om in bomen te klimmen. In de San Diego Zoo heeft men zelfs schroefhoorngeiten boven op gaashekken zien lopen.</color>
+    </cell>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">De lange, gedraaide hoorns van de mannetjesschroefhoorngeit kunnen wel 2,5 meter lang worden.</color>
+    </cell>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">De belangrijkste vijanden van de schroefhoorngeit zijn het sneeuwluipaard, de wolf, de lynx en de mens. Er worden soms wel duizenden dollars neergeteld om op het dier te mogen jagen.</color>
+    </cell>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Er is intensief op schroefhoorngeiten gejaagd om hun vlees en als trofee. Ook heeft het dier te lijden onder inkrimpende leefomgevingen en concurrentie van boerderijdieren.</color>
+    </cell>    
+    <br/> 
+   </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178">De schroefhoorngeit komt in de modus Uitdaging of Campagne beschikbaar zodra je dierentuin een bekendheidsscore van 2 sterren behaalt.</color> 
+   <p/>
+   De schroefhoorngeit, de grootste wilde geit ter wereld, is lid van de subfamilie der gemzen De schroefhoorngeit komt oorspronkelijk uit de bergachtige gebieden van Pakistan, Afghanistan en noordelijk India. 
+   <p/>
+   Schroefhoorngeiten zijn bekend om de enorme, spiraalvormige hoorns waarmee volwassen mannetjes getooid zijn. Hun hoorns kunnen wel 1,60 meter lang worden. Ook vrouwtjes hebben spiraalvormige hoorns, maar deze zijn met een maximale lengte van 25 cm veel korter. Mannetjes hebben een schouderhoogte van 91 tot 104 cm en wegen gemiddeld ongeveer 90 kg. Vrouwtjes zijn aanzienlijk kleiner: zij hebben een schouderhoogte tussen 65 en 70 cm en een gemiddeld gewicht van ongeveer 40 kg. 
+   <p/>
+   De schroefhoorngeit heeft een lange, zijdeachtige vacht, die in de zomer bleekrood van kleur is en 's winters een ijzerroestkleur aanneemt. Mannetjes worden in de loop der jaren valer en grijzer van kleur. Mannetjes in de noordelijke delen van het verspreidingsgebied van de schroefhoorngeit ontwikkelen lange, golvende manen en lange baarden, die bijna tot aan hun knieën komen. 
+   <p/>
+   Net als andere geiten is ook de schroefhoorngeit een kuddedier. Vroeg in het jaar verblijven zij in valleien en beschutte kloven, maar 's zomers trekken zij naar hoger terrein, met name naar steile rotsen aan de boomgrens. Mannetjes leven het grootste deel van het jaar in groepen van vier of vijf, maar sluiten zich laat in de herfst bij de vrouwtjes aan. Net als de meeste gehoornde dieren bevechten ook deze mannetjes elkaar om de vrouwtjes. Het paarseizoen loopt van november tot december. Zes maanden later baart elk zwanger vrouwtjes één jong, hoewel er soms ook tweelingen worden geboren.
+   <p/>
+   Er bestaan diverse varianten van de schroefhoorngeit en wetenschappers hebben deze soms zelfs als aparte soorten aangemerkt. Tegenwoordig brengen wetenschappers de varianten onder in twee subsoorten:  een noordelijke subsoort met dikke, gedraaide hoorns en een zuidelijke subsoort met dunne, gedraaide hoorns.
+   <p/>
+   Sportlieden beschouwden de schroefhoorngeit ooit als een uitstekend jachtdier. Door toenemende concurrentie van boerderijdieren, het verlies van leefomgeving ten gevolge van menselijke expansie en overmatig jagen zijn de populaties van de schroefhoorngeit sterk teruggelopen. De soort is door de International Union for the Conservation of Nature aangemerkt als kwetsbaar, en de zuidelijke subsoort staat zelfs op de lijst van bedreigde diersoorten.
+  </cell>
+  <p/>
+  <cell width="260"/>
+  <cell width="620">
+   Inhoud met dank aan <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2005</color></u></a>.(C) 1993-2005 Microsoft Corporation. Alle rechten voorbehouden.
+  </cell>
+ </LOC_STRING> <LOC_STRING _locID="zoopedia_gibboncrested:entry">
+Kuifgibbon</LOC_STRING> <LOC_STRING _locID="zoopedia_gibboncrested:text">  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">
+   
+
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/GibbonCrested/GibbonCrested_M_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/GibbonCrested/GibbonCrested_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>
+						 <cell width="16">						 
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/endangered.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">Status in het wild: <br/> <color r="255" g="155" b="0">bedreigd</color></color>                  
+                  </cell>
+               </cell>   
+   
+    <cell width="128">
+     <color r="255" g="255" b="255">
+Tropisch regenwoud<br/></color> <img src="ui/icon_biomes/icon_tropicalrainforest.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>    </cell>
+    <cell width="128">
+     <color r="255" g="255" b="255">
+Zuidoost-Azië<br/></color> <img src="ui/icon_maplocations/Rainforest_Asia_SouthEast.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>    </cell>
+    <br/>
+    <cell width="284" pady="10">
+     <color r="255" g="255" b="255">Klasse: zoogdieren <i>(Mammalia)</i><br/>Orde: primaten <i>(Primata)</i><br/>Familie: kleine mensapen <i>(Hylobatidae)</i><br/>Geslacht: <i>hylobates</i><br/>Soort: <i>concolor</i></color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="UI/zoopedia/biome/tropicalrainforest_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Interessante feiten over de kuifgibbon</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">De kuifgibbon heeft zijn naam te danken aan de lange pluk vacht op de kruin van zijn kop.</color>
+    </cell>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Mannetjeskuifgibbons zijn zwart en vrouwtjes zijn goudkleurig met zwarte gelaten.</color>
+    </cell>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">De kuifgibbon is een van de meest bedreigde primaten ter wereld.</color>
+    </cell>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Het voortbestaan van de kuifgibbon wordt bedreigd door inkrimping van het leefgebied door ontbossing, jacht en de verkoop van nakomelingen als huisdier.</color>
+    </cell>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Er zijn initiatieven op het gebied van natuurbehoud ontwikkeld in een poging de laatst overgebleven populaties van de kuifgibbon en hun habitats in stand te houden, zodat de soort niet uitgestorven raakt.</color>
+    </cell>    
+    <br/> 
+   </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178">De kuifgibbon komt in de modus Uitdaging of Campagne beschikbaar zodra je dierentuin een bekendheidsscore van 4 sterren behaalt.</color>
+   <p/>
+Gibbon is de algemene naam voor kleine mensapen die voorkomen in de subequatoriale bossen van India, Indochina en het Maleis schiereiland. De gibbon is een slank dier met een kleine, ronde kop en een zachte, wollige vacht. Zijn meest opvallende kenmerk zijn de lange armen, waarmee hij heel behendig van boom naar boom slingert, waarbij hij zijn handen als het ware als haken gebruikt in plaats van de takken vast te grijpen. Een grote gibbon is 75 tot 90 cm hoog, met een bijna twee maal zo grote armspanbreedte. De gibbon is de enige mensaap die alleen op zijn achterpoten loopt, waarbij hij zijn armen meestal omhoog houdt om in balans te blijven. Gibbons zijn monogaam en de jongen, waarvan er steeds één tegelijk wordt geboren, blijven bij de familiegroep tot zij vijf of zes jaar oud zijn. De dieren eten bladeren, vruchten, delen van bloemen, insecten, spinnen, vogels en vogeleieren. De gibbon houdt zich overdag meestal rustig, maar heft bij zonsopkomst en laat in de middag vaak een gehuil aan. Er bestaan ongeveer negen soorten gibbons. De zilvergibbon, ofwel wou-wou, uit Java is asgrijs van kleur; de withandgibbon uit het Maleis schiereiland valt op door zijn witte handen en voeten, en zijn melodieuze gehuil.
+   <p/>
+De grootste gibbon is de siamang uit Maleisië en Sumatra. In 1979 maakte de Grant Park Zoo in Atlanta, Georgia, melding van een vier jaar oude vrouwtjes-'siabon', het hybride nageslacht van een mannetjeszilvergibbon en een vrouwtjessiamang. Dit is het eerste bekende geval van voortplanting door twee verschillende primaatsoorten. De populaties van wilde gibbons zijn sterk teruggelopen ten gevolge van jacht en ontbossing.
+
+  </cell>
+  <p/>
+  <cell width="260"/>
+  <cell width="620">
+   Inhoud met dank aan <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2005</color></u></a>.(C) 1993-2005 Microsoft Corporation. Alle rechten voorbehouden.
+  </cell>
+ </LOC_STRING> <LOC_STRING _locID="zoopedia_tortoisegalapagos:entry">
+Galapagos-reuzenschildpad</LOC_STRING> <LOC_STRING _locID="zoopedia_tortoisegalapagos:text">         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities\units\animals\TortoiseGalapagos\TortoiseGalapagos_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						</cell>
+						<cell width="16">
+							<img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						</cell>
+						<cell width="16">
+							<img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						</cell>
+						<cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/endangered.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">Status in het wild: <br/> <color r="255" g="155" b="0">bedreigd</color></color>                  
+                  </cell>
+               </cell>            
+            
+               <cell width="128">
+                  <color r="255" g="255" b="255">
+Kreupelhout<br/></color> <img src="ui/icon_biomes/icon_scrub.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>               </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">
+Westelijk Zuid-Amerika<br/></color> <img src="ui/icon_maplocations/Scrub_America_South_West.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">Klasse: reptielen <i>(Reptilia)</i><br/>Orde: schildpadden <i>(Testudines)</i><br/>Familie: landschildpadden <i>(Testudines)</i><br/>Geslacht: <i>geochelone</i><br/>Soort: <i>nigra</i><br/>Ondersoort:  <i>porteri</i></color>
+               </cell>
+               <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/scrub_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+               </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Interessante feiten over de Galapagos-reuzenschildpad</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">De Galapagos-reuzenschildpad is de grootste schildpad ter wereld en kan wel 250 kilo wegen en van kop tot staart bijna 1,80 meter lang worden.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Galapagos-reuzenschildpadden kunnen voedsel en water opslaan, zodat ze een jaar lang kunnen leven zonder te eten en drinken.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Nadat een jonge Galapagos-reuzenschildpad uit het ei is gekomen, heeft het dier nog een maand nodig om zich een weg naar boven te banen uit het ondergrondse nest.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">De Galapagos-reuzenschildpadden leven in een onderlinge hiërarchie, waarbij de schildpad die de langste nek kan maken bovenaan staat.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">De Galapagoseilanden danken hun naam aan Spaanse ontdekkingsreizigers. Zij waren getroffen door de aanwezigheid van 250.000 landschildpadden en konden zo maar één naam bedenken (galápago is Spaans voor schildpad). Momenteel zijn er nog maar 15.000 schildpadden over.
+</color>               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">De reuzenschildpad van de Galapagoseilanden is een van de meest bedreigde soorten ter wereld. In het begin van de 19e eeuw werden deze schildpadden op grote schaal afgeslacht door de bemanning van walvisvaarders.
+</color>               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Tegenwoordig vormen de dieren die door mens op de Galapagoseilanden zijn geïntroduceerd de grootste bedreiging. Hierdoor kan het gebeuren dat de eieren van de schildpadden worden opgegeten door varkens, de jongen ten prooi vallen aan ratten en dat geiten zich te goed doen aan de vegetatie die bestemd is voor de schildpadden.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">De Galapagos-reuzenschildpad geniet inmiddels wettelijke bescherming in Ecuador.</color>
+               </cell>
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">De Galapagos-reuzenschildpad komt in de modus Uitdaging of Campagne beschikbaar zodra je dierentuin een bekendheidsscore van 1,5 ster behaalt.</color>
+            <p/>
+            Landschildpad is de algemene naam voor de leden van een schildpaddenfamilie die uitsluitend op het land leven. Landschildpadden bewegen zich langzaam voort en kunnen een hoge leeftijd bereiken Ze worden soms wel meer dan 150 jaar oud. Er bestaan 41 soorten landschildpadden.
+            <p/>
+            Op Australië en Antarctica na komen ze komen op alle werelddelen voor. De meeste landschildpadden leven in de tropische gebieden van Afrika, Zuid-Amerika en Azië. Ze komen vooral voor in droge streken, zoals woestijnen en savannes, maar sommige soorten voelen zich beter thuis in vochtige gebieden, zoals regenwouden en bossen.
+            <p/>
+            Ze kunnen allerlei afmetingen hebben. De kleinste is de 10 cm grote spinschildpad van Madagaskar en de allergrootste de Aldabra-reuzenschildpad. Deze schildpad heeft een lengte van ongeveer 1,5 meter en een gewicht van wel 250 kg. Landschildpadden worden beschermd door een zwaar pantser, opgebouwd uit beenplaten aan de binnenkant en hoorschilden aan de buitenkant. De meeste landschildpadden hebben en koepelvormig schild. Hierdoor wordt het voor roofdieren bijna onmogelijk om hun tanden in het schild te zetten en het te kraken. Sommige soorten hebben een scharnierend schild dat ze volledig kunnen afsluiten nadat ze hun kop, poten en staart hebben ingetrokken. 
+            <p/>
+            Landschildpadden hebben sterke, dikke poten zodat ze het gewicht van hun zware schild kunnen dragen. De landschildpad blijft vaak urenlang bewegingloos zitten en beweegt zich verder zeer traag voort met een snelheid van maar 0,2 km per uur. Sommige landschildpadden, zoals de woestijnschildpad uit het zuiden van de Verenigde Staten en het noorden van Mexico, hebben platte voorpoten waarmee ze schuilplaatsen in de grond kunnen graven. Om uitdroging van het weefsel in het lichaam van de landschildpad te voorkomen, is de huid op zijn kop, poten en staart bedekt met hoornige schubben.
+            <p/>
+            De meeste landschildpadden zijn herbivoren of planteneters. Landschildpadden hebben net als andere schildpadden geen tanden maar hoornige, opstaande randen in hun bek. Hiermee kunnen ze delen van planten afbijten. Sommige soorten voeden zich met een mix van planten, kleine dieren, zoals insecten en wormen, en de kadavers van grotere dieren. Omdat ze zo traag zijn, kunnen ze niet op prooidieren jagen.
+            <p/>
+            In de paartijd maakt het mannetje het vrouwtje het hof door om haar heen te draaien en daarbij zijn hoofd op en neer te bewegen. Soms bijt het mannetje het vrouwtje in haar schild en poten. Vervolgens bestijgt het mannetje het vrouwtje om met haar te paren. Sommige reuzenschildpadden laten tijdens het paren een luide roep horen. Het vrouwtje legt de eieren in een ondergronds nest. Afhankelijk van de soort kan het twee maanden tot meer dan een jaar duren voordat de eieren uitkomen. Bij sommige soorten, zoals de Burmese bruine landschildpad, bewaakt het vrouwtje het nest enige dagen tegen roofdieren. Als de jonge schildpadjes eenmaal uit hun ei zijn gekropen, moeten ze zich verder alleen zien te redden.
+            <p/>
+            Door toedoen van de mens worden veel soorten landschildpadden in hun voortbestaan bedreigd. Mensen eten het vlees en de eieren van de schildpadden en veranderen of vernietigen hun biotoop. De reuzenschildpad van de Galapagoseilanden is een van de meest bedreigde soorten ter wereld. In het begin van de 19e eeuw werden deze schildpadden op grote schaal afgeslacht door de bemanning van walvisvaarders. Tegenwoordig vormen de dieren die door mens op de Galapagoseilanden zijn geïntroduceerd de grootste bedreiging. Hierdoor kan het gebeuren dat de eieren van de schildpadden worden opgegeten door varkens, de jongen ten prooi vallen aan ratten en dat geiten zich te goed doen aan de vegetatie die bestemd is voor de schildpadden. De Galapagos-reuzenschildpad geniet inmiddels wettelijke bescherming in Ecuador.
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Inhoud met dank aan <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2004</color></u></a>.(C) 1993-2005 Microsoft Corporation. Alle rechten voorbehouden.
+         </cell>
+      </LOC_STRING>
+
+</ZT2Strings>

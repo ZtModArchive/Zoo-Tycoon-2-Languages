@@ -1,0 +1,72 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_endangeredanimalsfence:entry">Valla de animales en peligro</LOC_STRING> <LOC_STRING _locID="zoopedia_endangeredanimalsfence:text">
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255"><img src="entities\objects\fences\mosaic_end\mosaic_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+Las vallas que reflejan el tema de las especies amenazadas deben incluirse en las instalaciones con animales en peligro de extinción, como por ejemplo el caballo salvaje de Przewalski o el órix de cuernos de cimitarra. También puede usar las vallas de las especies amenazadas para crear atractivas zonas públicas temáticas junto a las instalaciones de los animales.</color>
+    </cell>
+   </cell>
+  </LOC_STRING> <LOC_STRING _locID="zoopedia_conservationfences:entry">Vallas de conservación</LOC_STRING> <LOC_STRING _locID="zoopedia_conservationfences:text">
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255"><img src="entities\objects\fences\conservation_df\conservation_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+Las vallas de conservación se utilizan para cercar las <a href="zoopedia:zoopedia_conservationarea:entry"><u><color r="255" g="231" b="135">zonas de conservación</color></u></a> especiales protegidas. Las vallas de conservación no se venden ni se reciclan.</color>
+    </cell>
+   </cell>
+  </LOC_STRING> <LOC_STRING _locID="zoopedia_mosaicwindow:entry">Valla con ventanas de animales en peligro</LOC_STRING> <LOC_STRING _locID="zoopedia_mosaicwindow:text">
+      <cell pady="0" width="1000"/>
+      <p/>
+      <cell width="260"/>
+      <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+         <cell width="600" padx="20" pady="20">
+            <color r="255" g="255" b="255"><img src="entities\objects\fences\mosaicwindow_end\mosaicwindow_end_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+            <p/>
+La valla valla con ventanas de animales en peligro proporciona la misma seguridad de una valla alta y además ofrece a los visitantes una vista despejada. Las vallas que reflejan el tema de las especies amenazadas deben incluirse en las instalaciones de especies amenazadas, como por ejemplo el caballo de Przewalski o el órix de cuernos de cimitarra.</color>
+         </cell>
+      </cell>
+   </LOC_STRING> <LOC_STRING _locID="zoopedia_vehiclegate:entry">Puerta, vehículos</LOC_STRING> <LOC_STRING _locID="zoopedia_vehiclegate:text">
+      <cell pady="0" width="1000"/>
+      <p/>
+      <cell width="260"/>
+      <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+         <cell width="600" padx="20" pady="20">
+            <color r="255" g="255" b="255"><img src="entities\objects\fences\vehiclegate_end\vehiclegate_end_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+            <p/>
+Las puertas para vehículos permiten que éstos entren y salgan de las instalaciones de los animales. Para evitar que los animales se escapen, estas puertas mecanizadas se cierran automáticamente después de que los vehículos hayan pasado.</color>
+         </cell>
+      </cell>
+   </LOC_STRING> <LOC_STRING _locID="zoopedia_vehiclegate_reward:entry">Puerta decorada, vehículos</LOC_STRING> <LOC_STRING _locID="zoopedia_vehiclegate_reward:text">
+      <cell pady="0" width="1000"/>
+      <p/>
+      <cell width="260"/>
+      <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+         <cell width="600" padx="20" pady="20">
+            <color r="255" g="255" b="255"><img src="entities\objects\fences\vehiclegate_reward_end\vehiclegate_end_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+            <p/>
+Las puertas para vehículos permiten que éstos entren y salgan de las instalaciones de los animales. Para evitar que los animales se escapen, estas puertas mecanizadas se cierran automáticamente después de que los vehículos hayan pasado.
+            <p/>
+Debe completar la campaña Transporte para desbloquear la puerta decorada de vehículos.</color>
+         </cell>
+      </cell>
+   </LOC_STRING> <LOC_STRING _locID="zoopedia_wroughtiron:entry">Vallas de hierro forjado</LOC_STRING> <LOC_STRING _locID="zoopedia_wroughtiron:text">
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255"><img src="entities\objects\fences\wroughtiron_df\wroughtiron_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+El hierro forjado es un material resistente que puede modelarse para conseguir formas elegantes y decorativas. Las vallas de hierro forjado, además de atractivas, resultan eficaces para contener a los animales con mucha fuerza que podrían tirar las vallas poco resistentes. Asimismo, las vallas de hierro forjado ofrecen a los visitantes una visión clara de los animales.</color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+ 
+</ZT2Strings>

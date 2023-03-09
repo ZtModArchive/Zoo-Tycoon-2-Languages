@@ -1,0 +1,136 @@
+﻿<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_antelopesablegiant" version="2" />
+      <LOC_STRING _locID="zoopedia_antelopesablegiant:entry" version="2"  >Antelope, Giant Sable</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_antelopesablegiant:text" version="2"  >
+  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">   
+
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/AntelopeSableGiant/AntelopeSableGiant_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/AntelopeSableGiant/AntelopeSableGiant_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>						 
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/critical.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Conservation Status:
+                     <br/>
+                        <color r="255" g="0" b="0">
+                     Critically Endangered
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>   
+   
+    <cell width="128">
+     <color r="255" g="255" b="255">Savannah<br/></color>
+     <img src="ui/icon_biomes/icon_savannah.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+    </cell>
+    <cell width="128">
+     <color r="255" g="255" b="255">Southern Africa<br/></color>
+     <img src="ui/icon_maplocations/Savannah_Africa_South_GiantSable.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+    </cell>
+    <br/>
+    <cell width="284" pady="10">
+     <color r="255" g="255" b="255">
+      Class: Mammals <i>(Mammalia)</i><br/>
+      Order: Even-Toed Ungulates <i>(Artiodactyla)</i><br/>
+      Family: Bovids <i>(Bovidae)</i><br/>
+      Genus: <i>Hippotragus</i><br/>
+      Species: <i>niger</i><br/>
+      Subspecies:  <i>variani</i>
+     </color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="UI/zoopedia/biome/savannah_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Fun Giant Sable Antelope Facts</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">The breathtaking curved horns of the giant sable antelope can reach up to five feet in length.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>        
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">If a giant sable antelope were to lose its horns, they would not grow back.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">The giant sable antelope can reach speeds of up to 35 mph and sustain them for some distance.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">The survival of the giant sable antelope has been threatened by 27 years of civil war in Angola, its native territory.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Only 1,000 giant sable antelope survive in the world, all of them living in central Angola at the Luando Reserve and Kangandala National Park.</color>
+    </cell>    
+    <br/> 
+   </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178">
+    To unlock the giant sable antelope in challenge or campaign games, you must earn a 2-star zoo fame rating for your zoo.
+   </color>
+   <p/>
+Antelope is the common name applied to a diverse group of hollow-horned mammals that belong to the same family as cattle, goats, and sheep. About 100 species of antelopes live in Africa and Asia, including some of the world's fastest and most elegant hoofed mammals, as well as some of the most endangered.
+   <p/>
+Seven species known as horse antelopes (subfamily Hippotraginae) include the sable antelope, roan antelope, oryx, and addax--large-bodied animals that have a horselike build. They live in Africa and the Arabian Peninsula in a variety of habitats from woodlands to deserts. Despite their collective name, these antelopes are impossible to confuse with real horses because they have exceptionally long horns. Trophy hunters prize horse antelope horns, a fact that has brought some of these animals to the verge of extinction.
+   <p/>
+Unlike deer, which have branched antlers that they shed annually, antelopes have pointed horns that they keep throughout life. Antelope horns can grow up to 1.5 m (about 5 ft) long; they look formidable but their value as weapons is limited. There are records of antelopes impaling (spearing) and even killing predators as large as lions, but when faced with danger antelopes are far more likely to run away.
+   <p/>
+Antelopes are ruminants, animals that regurgitate partially digested food, called cud, and chew it again. Like other ruminants, including cattle and sheep, antelopes have well-developed cheek teeth or molars, which grind cud into a pulp. They have no upper incisors, and in order to tear off grass stems or leaves, their lower incisors press against an upper hard gum pad when they bite.
+   <p/>
+Whether they are eating or resting, antelopes rely on their keen senses to avoid danger. Their eyes face sideways, and their pupils are elongated horizontally, giving them a good view of danger from behind as well as in front. Their hearing and sense of smell are also acute--valuable features for life in the open where many predators are on the prowl after dark.
+   <p/>
+To survive, antelopes rely on their ability to spot danger and to make a rapid escape. This defense system enables them to evade most wildlife predators, but it offers only partial protection from human hunters interested in antelope hide, horn, or meat, and no protection at all from changes to their habitat.
+  </cell>
+  <p/>
+  <cell width="260"/>
+  <cell width="620">
+   Content provided courtesy of <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2005.</color></u></a>(C) 1993-2004 Microsoft Corporation. All rights reserved.
+  </cell>
+ </LOC_STRING>
+
+</ZT2Strings>

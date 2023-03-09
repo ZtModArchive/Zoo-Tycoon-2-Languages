@@ -1,0 +1,69 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_bluewhalehall_mm:entry">Salón Ballena Azul</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_bluewhalehall_mm:text">
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\objects\buildings\bluewhalehall_mm\bluewhalehall_mm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+La sala Ballena azul es un museo con forma de ballena donde se exponen las ballenas azules, los animales más grandes del planeta. El recorrido por el museo divierte y educa a los visitantes, cuyos donativos para fines educativos se incrementan temporalmente después de visitar la sala Ballena azul.
+		<p/>
+Para desbloquear la sala Ballena azul, complete la campaña Animales marinos.
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_giftcart_mm:entry">Carrito de regalos marino</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_giftcart_mm:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities/objects/buildings/giftcart_mm/giftcart_mm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>
+En el carrito de regalos marino se venden regalos alusivos a los animales marinos. Coloque un carrito de regalos marino en las proximidades de los acuarios y espectáculos marinos, donde los visitantes pueden adquirir recuerdos de sus especies marinas favoritas.         
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_sharkphotobooth:entry">Fotomatón de tiburón</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_sharkphotobooth:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities/objects/buildings/sharkphotobooth_mm/sharkphotobooth_mm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>                 
+La cabina de fotos Tiburón permite a los visitantes adquirir una divertida foto de recuerdo de sí mismos junto a un tiburón de aspecto muy real. Hay quienes encuentran divertido tomarse una foto con un tiburón de pega, aunque a algunos les da miedo.             
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_touchpool_mm:entry">Estanque de contacto</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_touchpool_mm:text">
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\objects\buildings\touchpool_mm\touchpool_mm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+El estanque de contacto permite a los visitantes observar y tocar pequeños animales marinos, como caracolas, cangrejos herradura, estrellas y pepinos de mar. A los visitantes les encanta el estanque de contacto.
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING> 
+
+
+  
+</ZT2Strings>

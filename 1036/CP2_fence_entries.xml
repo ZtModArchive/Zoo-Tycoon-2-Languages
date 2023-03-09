@@ -1,0 +1,49 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_extinctfence:entry">Clôture Animaux disparus</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_extinctfence:text">
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\objects\fences\extinct_xt\extinct_xt_icon.dds" sx="0" sy="0" sw="64" sh="64"/>   
+      <img src="entities\objects\fences\lowextinct_xt\lowextinct_xt_icon.dds" sx="0" sy="0" sw="64" sh="64"/>     
+      <p/>
+	La clôture sur le thème de l'extinction est plus efficace dans les enclos abritant des animaux disparus et près des espaces publics. Les deux versions (haute et basse) peuvent contenir vos animaux disparus les moins agressifs.
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_extinctwindowfence:entry">Clôture avec fenêtres Animaux disparus</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_extinctwindowfence:text">
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\objects\fences\extinctwindow_xt\extinctwindow_xt_icon.dds" sx="0" sy="0" sw="64" sh="64"/>     
+      <p/>
+	Les visiteurs apprécient la clôture avec fenêtres sur le thème de l'extinction. Elle permet de contenir vos animaux disparus tout en offrant une vue exceptionnelle aux visiteurs.
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_electricfence:entry">Clôture électrique</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_electricfence:text">
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\objects\fences\electric_fence\electricfence_icon.dds" sx="0" sy="0" sw="64" sh="64"/>     
+      <p/>
+	Moins cher et moins résistant que la clôture pour dinosaure, ce grillage électrifié devrait suffire à empêcher vos petits dinosaures de s'enfuir.
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+
+</ZT2Strings>

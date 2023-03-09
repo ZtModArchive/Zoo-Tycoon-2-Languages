@@ -1,0 +1,23 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_trainer:entry">Entrenador</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_trainer:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/units/staff/Trainer/Trainer_F_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/units/staff/Trainer/Trainer_M_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>
+Los entrenadores enseñan a los animales marinos del zoo los trucos que deben realizar en los espectáculos. Puede asignar un entrenador concreto para cada animal. Los entrenadores sin animales asignados eligen a los animales ellos solos. Los entrenadores deciden los trucos que enseñarán a los animales. Empiezan a entrenar a los animales en los trucos más sencillos, para luego avanzar a los más difíciles.
+						<p/>
+Los entrenadores necesitan una entrada al tanque para entrenar a los animales de un tanque. Los entrenadores no pueden entrenar a los animales de un tanque que no tiene entrada.       
+                  <p/>
+Los entrenadores reciben un sueldo que se deduce de la cuenta de zoo el primer día de cada mes.			
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+
+</ZT2Strings>

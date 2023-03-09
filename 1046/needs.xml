@@ -1,0 +1,474 @@
+<ZT2Strings>
+      <LOC_STRING _locID="entityneeds:satisfied">Satisfeita</LOC_STRING>
+      <LOC_STRING _locID="entityneeds:pressing">Urgente</LOC_STRING>
+      <LOC_STRING _locID="entityneeds:critical">Crítica</LOC_STRING>
+      <LOC_STRING _locID="entityneeds:healthy">Saudável</LOC_STRING>
+      <LOC_STRING _locID="entityneeds:unhealthy">Adoentado</LOC_STRING>
+      <LOC_STRING _locID="entityneeds:sick">Doente</LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_environment">Ambiente: </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_environment_ltt">
+         <color r="255" g="248" b="178">
+            <b>Necessidade ambiental</b>
+         </color>
+         <br/>
+         Representa o conforto do animal na jaula atual. Os animais e os visitantes se beneficiam quando uma jaula reproduz o bioma do animal.
+         
+         
+         
+         
+         
+         
+         
+           
+      
+      
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_space">Espaço: </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_biome">Bioma: </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_hunger">Alimento: </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_hunger_ltt">
+         <color r="255" g="248" b="178">
+            <b>Necessidade de alimento</b>
+         </color>
+         <br/>
+         
+         Representa o quanto o animal está com fome. Todos os animais precisam de comida e água para sobreviver.
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_thirst">Água: </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_thirst_ltt">
+         <color r="255" g="248" b="178">
+            <b>Necessidade de água</b>
+         </color>
+         <br/>
+         
+         
+         
+         
+   Representa o quanto o animal está com sede. Todos os animais devem ter acesso a água para beber, 24 horas por dia.
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_rest">Descanso: </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_rest_ltt">
+         <color r="255" g="248" b="178">
+            <b>Necessidade de descanso</b>
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         
+         
+         
+         Representa o nível de descanso atual do animal. Animais cansados dormem em qualquer lugar para recuperar as forças. 
+      
+      
+      
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_hygiene">Higiene: </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_hygiene_ltt">
+         <color r="255" g="248" b="178">
+            <b>Necessidade de higiene</b>
+         </color>
+         <br/>
+         Representa o nível de higiene atual do animal. Animais sujos estão mais vulneráveis a doenças. É comum os animais se limparem.
+
+      </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_exercise">Exercício: </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_exercise_ltt">
+         <color r="255" g="248" b="178">
+            <b>Necessidade de exercício</b>
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         
+         
+         
+         O nível de exercício atual do animal. Os animais podem se exercitar movimentando-se, interagindo com outros animais e usando benefícios.
+      
+      
+      
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_shelter">Abrigo: </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_shelter_ltt">
+         <color r="255" g="248" b="178">
+            <b>Abrigo</b>
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         
+         
+         
+          O jogador nunca deve ver isso.
+      
+      
+      
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_privacy">Privacidade: </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_privacy_ltt">
+         <color r="255" g="248" b="178">
+            <b>Necessidade de privacidade</b>
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         Representa o nível de privacidade dos animais. Eles podem usar abrigos, deitar na grama ou na sombra para se refugiar dos visitantes.     
+      
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_reproduction">Reprodução: </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_reproduction_ltt">
+         <color r="255" g="248" b="178">
+            <b>Reprodução</b>
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         
+         
+         
+          O jogador nunca deve ver isso.
+      
+      
+      
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_social">Social: </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_social_ltt">
+         <color r="255" g="248" b="178">
+            <b>Necessidade de convívio social</b>
+         </color>
+         <br/>
+         
+Representa o nível de convívio social atual do animal. Alguns animais são mais sociáveis do que outros.         
+         
+         
+         
+         
+         
+ 
+      
+      
+      
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_stimulation">Estímulo: </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_stimulation_ltt">
+         <color r="255" g="248" b="178">
+            <b>Necessidade de estímulo</b>
+         </color>
+         <br/>
+         
+  Representa o nível de estímulo atual do animal. Os animais podem satisfazer essa necessidade interagindo com diferentes tipos de benefícios.       
+         
+         
+         
+         
+         
+       
+      </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_happy">Satisfação: </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_happy_ltt">
+         <color r="255" g="248" b="178">
+            <b>Satisfação:</b>
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         
+         
+         O animal está satisfeito e feliz.
+      
+      
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_not_happy">Satisfação: </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_not_happy_ltt">
+         <color r="255" g="248" b="178">
+            <b>Satisfação:</b>
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         
+         
+         O animal não está satisfeito. Os visitantes não gostam de ver animais insatisfeitos.
+      
+      
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_well">Saúde: </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_well_ltt">
+         <color r="255" g="248" b="178">
+            <b>Saúde:</b>
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         
+         
+         O animal está saudável.
+      
+      
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_sick">Saúde: </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_sick_ltt">
+         <color r="255" g="248" b="178">
+            <b>Saúde:</b>
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         
+         
+         O animal está doente. Ele poderá morrer se não for tratado com urgência. Os tratadores podem cuidar de animais doentes. 
+      
+      
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_not_pregnant">Grávida: Não</LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_not_pregnant_ltt">
+         <color r="255" g="248" b="178">
+            <b>Grávida:</b>
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         
+         
+         A fêmea não está grávida.
+      
+      
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_pregnant">Grávida: Sim</LOC_STRING>
+      <LOC_STRING _locID="entityneeds:animal_pregnant_ltt">
+         <color r="255" g="248" b="178">
+            <b>Grávida:</b>
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         
+         
+         A fêmea está grávida. Quando o ícone ficar vermelho, o animal dará à luz. 
+      
+      
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:guest_happy">Satisfação: </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:guest_happy_ltt">
+         <color r="255" g="248" b="178">
+            <b>Satisfação:</b>
+         </color>
+         <br/>
+         
+         
+       Representa o nível de satisfação atual do visitante. Os visitantes ficam satisfeitos quando podem comer, beber e se divertir.
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:guest_hunger">Fome: </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:guest_hunger_ltt">
+         <color r="255" g="248" b="178">
+            <b>Necessidade alimentar</b>
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         
+         
+         
+         É o nível de fome atual do visitante. Os visitantes gostam de comidas variadas de quiosques de alimentação, restaurantes e carrinhos.
+      
+      
+      
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:guest_thirst">Sede: </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:guest_thirst_ltt">
+         <color r="255" g="248" b="178">
+            <b>Necessidade de sede</b>
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         
+         
+         
+         Representa o nível de sede atual do visitante. Os visitantes gostam de comprar bebidas em quiosques de alimentação. 
+      
+      
+      
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:guest_rest">Descanso: </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:guest_rest_ltt">
+         <color r="255" g="248" b="178">
+            <b>Necessidade de descanso</b>
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         
+         
+         
+         É o nível de fadiga atual do visitante. Os visitantes se cansam ao andarem pelo zôo e gostam de descansar em bancos ou em lugares em que possam se sentar. 
+      
+      
+      
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:guest_bathroom">Banheiro: </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:guest_bathroom_ltt">
+         <color r="255" g="248" b="178">
+            <b>Necessidade de banheiro</b>
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         
+         
+         
+         Representa a urgência que o visitante tem em encontrar um banheiro. Os visitantes costumam ir ao banheiro depois de comer ou beber. 
+      
+      
+      
+      
+      
+      
+      
+      
+      </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:guest_amusement">Diversão: </LOC_STRING>
+      <LOC_STRING _locID="entityneeds:guest_amusement_ltt">
+         <color r="255" g="248" b="178">
+            <b>Necessidade de diversão</b>
+         </color>
+         <br/>
+         
+         
+         
+         
+         
+         
+         
+         
+         Representa o nível de diversão atual do visitante. Os visitantes se divertem com objetos interessantes, como chafarizes, arcos e estátuas.
+      
+      </LOC_STRING>
+</ZT2Strings>

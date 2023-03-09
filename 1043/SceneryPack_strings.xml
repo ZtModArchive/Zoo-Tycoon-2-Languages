@@ -1,0 +1,190 @@
+<ZT2Strings>
+   <!--entity names-->
+   <entityname>
+      <!--scenery object names-->
+      <Statue_Gorilla_df>Standbeeld van gorilla</Statue_Gorilla_df>
+      <Statue_Gorilla_df_stt>Standbeeld van gorilla</Statue_Gorilla_df_stt>
+      <Statue_Gorilla_df_lower>standbeeld van gorilla</Statue_Gorilla_df_lower>
+      <Statue_Gorilla_df_ltt>
+         <color r="255" g="248" b="178">
+            <b>Standbeeld van gorilla</b>
+         </color>
+         <br/>
+         Klik op het standbeeld van een moedergorilla met jong om dit te selecteren en vervolgens te plaatsen.
+      </Statue_Gorilla_df_ltt>
+      <Statue_Tiger_df>Standbeeld van tijger</Statue_Tiger_df>
+      <Statue_Tiger_df_stt>Standbeeld van tijger</Statue_Tiger_df_stt>
+      <Statue_Tiger_df_lower>standbeeld van tijger</Statue_Tiger_df_lower>
+      <Statue_Tiger_df_ltt>
+         <color r="255" g="248" b="178">
+            <b>Standbeeld van tijger</b>
+         </color>
+         <br/>
+         Klik op het standbeeld van een moedertijger met jongen om dit te selecteren en vervolgens te plaatsen.
+      </Statue_Tiger_df_ltt>
+      <Playground_TortoiseTrampoline_df>Schildpadtrampoline</Playground_TortoiseTrampoline_df>
+      <Playground_TortoiseTrampoline_df_stt>Schildpadtrampoline</Playground_TortoiseTrampoline_df_stt>
+      <Playground_TortoiseTrampoline_df_lower>schildpadtrampoline</Playground_TortoiseTrampoline_df_lower>
+      <Playground_TortoiseTrampoline_df_ltt>
+         <color r="255" g="248" b="178">
+            <b>Schildpadtrampoline</b>
+         </color>
+         <br/>
+         Klik op de schildpadtrampoline om deze te selecteren en vervolgens te plaatsen. Kinderen vinden het leuk om hierop op en neer te springen.
+      </Playground_TortoiseTrampoline_df_ltt>
+      <Fountain_Small_df>Kleine fontein</Fountain_Small_df>
+      <Fountain_Small_df_stt>Kleine fontein</Fountain_Small_df_stt>
+      <Fountain_Small_df_lower>kleine fontein</Fountain_Small_df_lower>
+      <Fountain_Small_df_ltt>
+         <color r="255" g="248" b="178">
+            <b>Kleine fontein</b>
+         </color>
+         <br/>
+         Klik op een kleine fontein, waar bezoekers graag naar kijken, om deze te selecteren en vervolgens te plaatsen.
+      </Fountain_Small_df_ltt>
+      <Fountain_Splash_df>Sprinkelfontein</Fountain_Splash_df>
+      <Fountain_Splash_df_stt>Sprinkelfontein</Fountain_Splash_df_stt>
+      <Fountain_Splash_df_lower>sprinkelfontein</Fountain_Splash_df_lower>
+      <Fountain_Splash_df_ltt>
+         <color r="255" g="248" b="178">
+            <b>Sprinkelfontein</b>
+         </color>
+         <br/>
+         Klik op een sprinkelfontein, een frisse, natte bron van plezier voor kinderen, om deze te selecteren en vervolgens te plaatsen.
+      </Fountain_Splash_df_ltt>
+      
+      <!--fence names-->      
+      <brickwindow_df>Bakstenen omheining met vensters</brickwindow_df>
+      <brickwindow_df_stt>Bakstenen omheining met vensters</brickwindow_df_stt>
+      <brickwindow_df_lower>bakstenen omheining met vensters</brickwindow_df_lower>
+      <brickwindow_df_ltt>
+         <color r="255" g="248" b="178">
+            <b>Bakstenen omheining met vensters</b>
+         </color>
+         <br/>
+         Klik op de bakstenen omheining met vensters om deze te selecteren en vervolgens te plaatsen. Dit is robuuste omheining die toch een goed uitzicht biedt.
+      </brickwindow_df_ltt>
+      <stonewindow_df>Stenen omheining met vensters</stonewindow_df>
+      <stonewindow_df_stt>Stenen omheining met vensters</stonewindow_df_stt>
+      <stonewindow_df_lower>bakstenen omheining met vensters</stonewindow_df_lower>
+      <stonewindow_df_ltt>
+         <color r="255" g="248" b="178">
+            <b>Stenen omheining met vensters</b>
+         </color>
+         <br/>
+         Klik op de stenen omheining met vensters om deze te selecteren en vervolgens te plaatsen. Dit is een robuuste omheining die toch een goed uitzicht biedt.
+      </stonewindow_df_ltt>
+      <junglewindow>Omheining met vensters  in junglestijl</junglewindow>
+      <junglewindow_stt>Omheining met vensters in junglestijl</junglewindow_stt>
+      <junglewindow_lower>omheining met vensters in junglestijl</junglewindow_lower>
+      <junglewindow_ltt>
+         <color r="255" g="248" b="178">
+            <b>Omheining met vensters  in junglestijl</b>
+         </color>
+         <br/>
+         Klik op de omheining met vensters in junglestijl om deze te selecteren en vervolgens te plaatsen. Dit is een robuuste omheining die toch een goed uitzicht biedt.
+      </junglewindow_ltt>            
+   </entityname>
+   
+   <!--Zoopedia entries-->
+   <zoopedia_brickwindow>
+	      <entry>Bakstenen omheining met vensters</entry>
+	      <text>
+	         <cell pady="0" width="1000"/>
+	         <p/>
+	         <cell width="260"/>
+	         <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+	            <cell width="600" padx="20" pady="20">
+	               <color r="255" g="255" b="255">
+	                  <img src="entities\objects\fences\brickwindow_df\brickwindow_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+	                  <p/>De bakstenen omheining met vensters biedt je bezoekers perfect zicht op de dieren, terwijl er tegelijkertijd voor wordt gezorgd dat de dieren onmogelijk kunnen ontsnappen.
+	                  <p/>Gebruik de bakstenen omheining met vensters in combinatie met de gewone bakstenen omheining om een dierenverblijf aantrekkelijk en veilig te maken.
+	               </color>
+	            </cell>
+	         </cell>
+	      </text>
+   </zoopedia_brickwindow>
+   <zoopedia_stonewindow>
+		      <entry>Stenen omheining met vensters</entry>
+		      <text>
+		         <cell pady="0" width="1000"/>
+		         <p/>
+		         <cell width="260"/>
+		         <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+		            <cell width="600" padx="20" pady="20">
+		               <color r="255" g="255" b="255">
+		                  <img src="entities\objects\fences\stonewindow_df\stonewindow_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+		                  <p/>De stenen omheining met vensters biedt je bezoekers perfect zicht op de dieren, terwijl er tegelijkertijd voor wordt gezorgd dat de dieren onmogelijk kunnen ontsnappen.
+		                  <p/>Gebruik de stenen omheining met vensters in combinatie met de gewone stenen omheining om een dierenverblijf aantrekkelijk en veilig te maken.
+		               </color>
+		            </cell>
+		         </cell>
+		      </text>
+   </zoopedia_stonewindow>
+   <zoopedia_junglewindow>
+		      <entry>Omheining met vensters in junglestijl</entry>
+		      <text>
+		         <cell pady="0" width="1000"/>
+		         <p/>
+		         <cell width="260"/>
+		         <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+		            <cell width="600" padx="20" pady="20">
+		               <color r="255" g="255" b="255">
+		                  <img src="entities\objects\fences\junglewindow_jt\junglewindow_jt_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+		                  <p/>De omheining met vensters in junglestijl biedt je bezoekers perfect zicht op de dieren, terwijl er tegelijkertijd voor wordt gezorgd dat de dieren onmogelijk kunnen ontsnappen.
+		                  <p/>Omheiningen in junglestijl kunnen het beste worden gebruikt voor verblijven van dieren uit jungles en tropische regenwouden, zoals de tijger, de gorilla en de chimpansee. Bezoekers vinden objecten in bijzondere stijlen erg leuk.
+		               </color>
+		            </cell>
+		         </cell>
+		      </text>
+   </zoopedia_junglewindow> 
+   <zoopedia_tortoisetrampoline>
+      <entry>Trampoline, schildpad</entry>
+      <text>
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+               <img src="entities/objects/scenery/Playground_TortoiseTrampoline_df/Playground_TortoiseTrampoline_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>               
+                  <p/>
+                  <p/>Kinderen klimmen graag op de rug van de kleurrijke opblaasbare schildpad om vanaf deze trampoline hoog in de lucht te springen.
+               </color>
+            </cell>
+         </cell>
+      </text>
+   </zoopedia_tortoisetrampoline>
+   <zoopedia_fountainsmall>
+      <entry>Fontein, klein</entry>
+      <text>
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+               <img src="entities\objects\scenery\Fountain_Small_df\Fountain_Small_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>De kleine fontein is ideaal als je je dierentuin aantrekkelijker wilt maken zonder al te veel ruimte kwijt te zijn. Bezoekers zien graag fonteinen in je dierentuin.
+               </color>
+            </cell>
+         </cell>
+      </text>
+   </zoopedia_fountainsmall>
+   <zoopedia_fountainsplash>
+      <entry>Fontein, sprinkel</entry>
+      <text>
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities\objects\scenery\Fountain_Splash_df\Fountain_Splash_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>Kinderen kunnen door de sprinkelfontein heen rennen en in het koele, verfrissende water spelen.
+               </color>
+            </cell>
+         </cell>
+      </text>
+   </zoopedia_fountainsplash>   
+</ZT2Strings>

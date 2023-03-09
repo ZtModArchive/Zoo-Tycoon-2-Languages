@@ -1,0 +1,49 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_extinctfence:entry">"Ausgestorbene Tierarten"-Zaun</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_extinctfence:text">
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\objects\fences\extinct_xt\extinct_xt_icon.dds" sx="0" sy="0" sw="64" sh="64"/>   
+      <img src="entities\objects\fences\lowextinct_xt\lowextinct_xt_icon.dds" sx="0" sy="0" sw="64" sh="64"/>     
+      <p/>
+	Der "Ausgestorbene Tierarten"-Zaun eignet sich besonders für Gehege mit ausgestorbenen Tieren und in Besucherbereichen. Sowohl die hohe als auch die niedrige Variante eignen sich für weniger aggressive ausgestorbene Tierarten.
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_extinctwindowfence:entry">"Ausgestorbene Tierarten"-Zaun mit Fenstern</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_extinctwindowfence:text">
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\objects\fences\extinctwindow_xt\extinctwindow_xt_icon.dds" sx="0" sy="0" sw="64" sh="64"/>     
+      <p/>
+	Besucher mögen den "Ausgestorbene Tierarten"-Zaun mit Fenstern. Er bietet Ihren Besuchern einen fantastischen Ausblick auf die Gehege der ausgestorbenen Tiere.
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_electricfence:entry">Elektrischer Zaun</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_electricfence:text">
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\objects\fences\electric_fence\electricfence_icon.dds" sx="0" sy="0" sw="64" sh="64"/>     
+      <p/>
+	Als preiswerte, aber weniger stabile Alternative zum Dinosaurierzaun ist der elektrische Maschendrahtzaum relativ gut für Gehege mit kleineren Sauriern geeignet.
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+
+</ZT2Strings>

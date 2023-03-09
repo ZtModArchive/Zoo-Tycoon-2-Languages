@@ -1,0 +1,54 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_fooddish" version="9"/>
+      <LOC_STRING _locID="zoopedia_fooddish:entry" version="9">Foderskål</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_fooddish:text" version="9">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/food/FoodDish/FoodDish_Bamboo_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/food/FoodDish/FoodDish_Bananas_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/food/FoodDish/FoodDish_Branches_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/food/FoodDish/FoodDish_Fish_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/food/FoodDish/FoodDish_Grass_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/food/FoodDish/FoodDish_Hay_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/food/FoodDish/FoodDish_Lettuce_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/food/FoodDish/FoodDish_Meat_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/food/FoodDish/FoodDish_Shrimp_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/food/FoodDish/FoodDish_Water_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/food/FoodDish/FoodDish_Roots_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>
+               I en foderskål kan det finnas mat eller vatten till djuren. Det får inte plats lika mycket mat som i ett 
+               fodertråg, så du måste fylla på oftare.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_trough" version="9"/>
+      <LOC_STRING _locID="zoopedia_trough:entry" version="9">Fodertråg</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_trough:text" version="9">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/food/Trough/Trough_Bamboo_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/food/Trough/Trough_Bananas_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/food/Trough/Trough_Grass_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/food/Trough/Trough_Hay_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/food/Trough/Trough_Lettuce_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/food/Trough/Trough_Water_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/food/Trough/Trough_branches_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/food/Trough/Trough_Roots_icon.dds" sx="0" sy="0" sw="64" sh="64"/>                  
+                  <p/>
+               Ett fodertråg är en stor behållare som räcker till många djur. Det 
+                får plats mycket mer mat i det än i en foderskål, så du behöver inte fylla på så ofta.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>   
+
+</ZT2Strings>

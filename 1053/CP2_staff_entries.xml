@@ -1,0 +1,130 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_entertainer:entry">Underhållare</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_entertainer:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/units/staff/EntertainerExtinct/Entertainer_F_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/units/staff/EntertainerExtinct/Entertainer_M_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/units/staff/EntertainerDinosaur/EntertainerDinosaur_F_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/units/staff/EntertainerDinosaur/EntertainerDinosaur_M_icon.dds" sx="0" sy="0" sw="64" sh="64"/>                  
+                  <p/>
+Personalen i de färggranna kläderna underhåller dina gäster genom att dansa, berätta roliga historier, spela dockteater och mycket mer. Kom ihåg att bygga ett ställe där de kan uppträda! 	    
+		<a href="zoopedia:zoopedia_entertainerstage:entry">
+               <u>
+                  <color r="255" g="231" b="135">Underhållningsscenen</color>
+               </u> är 
+           	</a>
+  det perfekta stället för dem att visa upp sina unika talanger.            	
+						<p/>
+Kom ihåg att underhållarna är anställda och att deras lön dras från djurparkens konto den första varje månad.			
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_paleontologist:entry">Paleontolog</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_paleontologist:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/units/staff/paleontologist/Paleontologist_M_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/units/staff/paleontologist/Paleontologist_F_icon.dds" sx="0" sy="0" sw="64" sh="64"/>                
+                  <p/>
+De här luttrade medarbetarna är smarta och kan allt om utdöda djur. De lär besökarna allt om djuren från forntiden och tycker om att undervisa från 
+		<a href="zoopedia:zoopedia_fossileducationcenter:entry">
+               <u>
+                  <color r="255" g="231" b="135">utbildningscentret om utdöda djur</color>
+               </u>. 
+           	</a>
+		
+<p/>		
+De kan också hjälpa dig att hitta och gräva fram fossiler som du kan sätta ihop i  	    
+		<a href="zoopedia:zoopedia_cloningcenter:entry">
+               <u>
+                  <color r="255" g="231" b="135">laboratoriet för utdöda djur</color>
+               </u>. 
+           	</a>
+<p/>
+Kom ihåg att paleontologerna är anställda och att deras lön dras från djurparkens konto den första varje månad.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_drt_gun:entry">Dinosauriefångarteam:  Specialister på lugnande medel</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_drt_gun:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/units/staff/DinoRecoveryTeam/DinoRecoveryTranqTeam_M_icon.dds" sx="0" sy="0" sw="64" sh="64"/>          
+                  <p/>
+		Den här luttrade, pigga medarbetaren är skarpskytt i Dinosauriefångarteamet.  Den här kunniga medarbetaren söver rasande dinosaurier och inburningsspecialisten burar in dem.  
+		<p/>
+		När raserialarmet ljuder från 
+		<a href="zoopedia:zoopedia_dinorecoverybuilding:entry">
+               <u>
+                  <color r="255" g="231" b="135">Dinosauriefångarteambunker</color>, 
+               </u>
+           	</a>
+		rycker teamet in.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_drt_crate:entry">Dinosauriefångarteam: Inburningsspecialist</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_drt_crate:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/units/staff/DinoRecoveryTeam/DinoRecoveryCrateTeam_M_icon.dds" sx="0" sy="0" sw="64" sh="64"/>          
+                  <p/>
+		Den här medlemmen i Dinosauriefångarteamet har ett farligt jobb och är din gruppledare. När specialisten på lugnande medel har lugnat en rasande dinosaurie använder inburningsspecialisten ett CRATE-gevär (Collapsible Ranged Animal Temporary Enclosure) för att bura in den.  
+		<p/>
+		När raserialarmet ljuder från 
+		<a href="zoopedia:zoopedia_dinorecoverybuilding:entry">
+               <u>
+                  <color r="255" g="231" b="135">Dinosauriefångarteambunker</color>, 
+               </u>
+           	</a>
+		rycker teamet in.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_drt_robot:entry">Dinosauriefångarteam:  Lockrobot</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_drt_robot:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/units/staff/DinoRecoveryTeam/DinoRecovery_Robot_icon.dds" sx="0" sy="0" sw="64" sh="64"/>          
+                  <p/>
+		De flesta dinosaurier har dålig syn och Dinosauriefångarteamet använder det till sin fördel. Hur? De skickar ut en robot – med blinkande ljus och sirener – som avleder den rasande dinosauriens uppmärksamhet. När dinosaurien koncentrerar sig på roboten söver teamet den. Roboten är gjord av organiskt material och är inte skadlig för dinosaurierna.
+		<p/>
+		När raserialarmet ljuder från 
+		<a href="zoopedia:zoopedia_dinorecoverybuilding:entry">
+               <u>
+                  <color r="255" g="231" b="135">Dinosauriefångarteambunker</color>, 
+               </u>
+           	</a>
+		rycker teamet in.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>     
+
+
+</ZT2Strings>

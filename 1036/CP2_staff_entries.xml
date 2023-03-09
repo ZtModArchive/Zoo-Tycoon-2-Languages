@@ -1,0 +1,130 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_entertainer:entry">Animateur</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_entertainer:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/units/staff/EntertainerExtinct/Entertainer_F_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/units/staff/EntertainerExtinct/Entertainer_M_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/units/staff/EntertainerDinosaur/EntertainerDinosaur_F_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/units/staff/EntertainerDinosaur/EntertainerDinosaur_M_icon.dds" sx="0" sy="0" sw="64" sh="64"/>                  
+                  <p/>
+Ces employés aux vêtements colorés dansent, racontent des histoires drôles, présentent des spectacles de marionnettes et bien plus encore pour divertir les visiteurs. Pensez à créer un espace pour leurs représentations ! L'	    
+		<a href="zoopedia:zoopedia_entertainerstage:entry">
+               <u>
+                  <color r="255" g="231" b="135">estrade d'animateur</color>
+               </u> leur 
+           	</a>
+  offre l'opportunité de démontrer leurs talents exceptionnels.            	
+						<p/>
+N'oubliez pas que les animateurs sont des employés et que leur salaire est donc prélevé sur le compte de votre zoo le premier de chaque mois.			
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_paleontologist:entry">Paléontologue</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_paleontologist:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/units/staff/paleontologist/Paleontologist_M_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/units/staff/paleontologist/Paleontologist_F_icon.dds" sx="0" sy="0" sw="64" sh="64"/>                
+                  <p/>
+Ces employés rudes et intelligents sont des spécialistes des animaux disparus. Ils apprendront à vos visiteurs tout ce qu'il y a à savoir sur ces animaux d'autrefois et adoreront transmettre leurs connaissances depuis le 
+		<a href="zoopedia:zoopedia_fossileducationcenter:entry">
+               <u>
+                  <color r="255" g="231" b="135">Centre de formation</color>
+               </u>. 
+           	</a>
+		
+<p/>		
+Ils sont également là pour vous aider à rechercher et à déterrer des morceaux de fossile que vous pourrez ensuite assembler dans votre  	    
+		<a href="zoopedia:zoopedia_cloningcenter:entry">
+               <u>
+                  <color r="255" g="231" b="135">Laboratoire de recherche Animaux disparus</color>
+               </u>. 
+           	</a>
+<p/>
+N'oubliez pas que les paléontologues sont également des employés et leur salaire est donc prélevé sur le compte de votre zoo le premier de chaque mois.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_drt_gun:entry">Équipe de capture de dinosaure : Spécialiste des tranquillisants</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_drt_gun:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/units/staff/DinoRecoveryTeam/DinoRecoveryTranqTeam_M_icon.dds" sx="0" sy="0" sw="64" sh="64"/>          
+                  <p/>
+		Cet employé rude et agile est le tireur d'élite de votre équipe de capture de dinosaure. Cet habitué des gadgets anesthésie les dinosaures violents, puis le spécialiste du conditionnement les met en caisse.  
+		<p/>
+		Lorsque l'alarme de violence se déclenche dans le 
+		<a href="zoopedia:zoopedia_dinorecoverybuilding:entry">
+               <u>
+                  <color r="255" g="231" b="135">bunker de l'équipe de capture de dinosaure</color>, 
+               </u>
+           	</a>
+		l'équipe entre en action.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_drt_crate:entry">Équipe de capture de dinosaure : Spécialiste du conditionnement</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_drt_crate:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/units/staff/DinoRecoveryTeam/DinoRecoveryCrateTeam_M_icon.dds" sx="0" sy="0" sw="64" sh="64"/>          
+                  <p/>
+		Ce capitaine de l'équipe de capture de dinosaure a un métier dangereux. Une fois que le tireur de tranquillisants a réussi à calmer un dinosaure violent, le spécialiste du conditionnement utilise son fusil CAISSE (Cage Amovible d'Isolement Sous Sédatifs) pour l'enfermer.  
+		<p/>
+		Lorsque l'alarme de violence se déclenche dans le 
+		<a href="zoopedia:zoopedia_dinorecoverybuilding:entry">
+               <u>
+                  <color r="255" g="231" b="135">bunker de l'équipe de capture de dinosaure</color>, 
+               </u>
+           	</a>
+		l'équipe entre en action.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_drt_robot:entry">Équipe de capture de dinosaure : Robot d'appât</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_drt_robot:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/units/staff/DinoRecoveryTeam/DinoRecovery_Robot_icon.dds" sx="0" sy="0" sw="64" sh="64"/>          
+                  <p/>
+		La plupart des dinosaures ont une mauvaise vue et cette faiblesse est exploitée par l'équipe de capture de dinosaure. Comment ? Elle envoie un robot d'appât (équipé de sirènes et de lumières clignotantes) pour attirer l'attention du dinosaure violent. Tandis que le dinosaure se focalise sur le robot, l'équipe en profite pour l'anesthésier avec des tranquillisants. Le robot étant fabriqué à partir de matières organiques, il n'est d'aucun danger pour vos dinosaures.
+		<p/>
+		Lorsque l'alarme de violence se déclenche dans le 
+		<a href="zoopedia:zoopedia_dinorecoverybuilding:entry">
+               <u>
+                  <color r="255" g="231" b="135">bunker de l'équipe de capture de dinosaure</color>, 
+               </u>
+           	</a>
+		l'équipe entre en action.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>     
+
+
+</ZT2Strings>

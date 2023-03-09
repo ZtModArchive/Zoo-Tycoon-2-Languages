@@ -1,0 +1,255 @@
+
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_meerkat" version="9" />
+      <LOC_STRING _locID="zoopedia_meerkat:entry" version="9"  >Meerkat</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_meerkat:text" version="9"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/Meerkat/Meerkat_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>							 
+						 <cell width="156"/>						 
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Conservation Status:
+                     <br/>
+                        <color r="170" g="255" b="0">
+                     Low Risk
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+				 <cell width="128">
+				  <color r="255" g="255" b="255">Scrub<br/></color>
+				  <img src="ui/icon_biomes/icon_scrub.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+				 </cell>	
+               <cell width="128">
+                  <color r="255" g="255" b="255">Southern Africa</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/Savannah_Africa_South.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Class: Mammals <i>(Mammalia)</i>
+                  <br/>
+                  Order: Carnivores <i>(Carnivora)</i>
+                  <br/>
+                  Family: Civets <i>(Viverridae)</i>
+                  <br/>
+                  Genus: <i>Suricata</i>
+                  <br/>
+                  Species: <i>suricatta</i>
+                  <br/>
+                  Subspecies: <i>suricata</i>                  
+                  </color>
+               </cell>
+				 <cell width="256" pady="10">
+				  <img src="UI/zoopedia/biome/scrub_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+				 </cell>	
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Fun Meerkat Facts</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Meerkats are social animals that live in groups and share both a common toilet and babysitting responsibilities.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">A group of meerkats, which usually numbers between five and 30 members, is called a "mob."</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Because meerkats are considered a snack-sized treat by many predators, one meerkat always stands guard while the others sleep or feed.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">The meerkat's diet includes beetles, spiders, centipedes, crickets, and scorpions (meerkats are immune to their venom).</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>               
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">The meerkat uses its tail for balance and to communicate with other members of its mob.</color>
+               </cell>                   
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">To unlock the meerkat in challenge or campaign games, you must earn a 3 1/2-star zoo fame rating for your zoo.</color>
+            <p/>The meerkat, also called the suricate, is a small member of the mongoose family that inhabits the southern part of Africa. Meerkats are known for their upright posture and highly sociable behavior.
+
+<p/>Meerkats typically live in dry, open areas and savannas. Their range extends from southwestern Angola to South Africa. These social animals live in colonies, usually in places with sandy soil where they can dig elaborate underground burrows.
+
+<p/>Meerkats measure about 25 to 35 cm (10 to 14 in) in length, not including the tail. They are more slender than many mongooses. They have pointed snouts, silvery-brown fur, and irregular dark stripes on the rump. Their faces are white with dark markings on the ears and around the eyes. Unlike most mongooses, suricates have four rather than five toes on each paw.
+
+<p/>Meerkats forage for food only during the day and eat mainly insects, particularly beetles, spiders, and millipedes. They sometimes feed on small vertebrates, eggs, and roots. Meerkats typically have two to four young, which are often born in the fall or early winter after a gestational period of about 11 weeks. Both females and males care for, groom, and guard their offspring.
+
+<p/>Meerkats typically stand up straight on their hind legs or even their toes to sniff the wind and search for attacking vultures. They have excellent vision and are capable of making at least ten types of sounds, including an alarm bark.
+
+<p/>Because meerkats can carry rabies, they have been hunted or gassed in their burrows in areas where they pose a threat to humans. This has not reduced their numbers significantly. In South Africa, these affectionate and easily tamed creatures are often kept as pets.
+
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Content adapted from <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft&#xAE; Encarta&#xAE; 2006.</color></u></a> &#xA9; 1993&#x96;2005 Microsoft Corporation. All rights reserved.
+         </cell>         
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_birdsecretary" version="9" />
+      <LOC_STRING _locID="zoopedia_birdsecretary:entry" version="9"  >Secretary Bird</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_birdsecretary:text" version="9"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/BirdSecretary/BirdSecretary_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>						 
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Conservation Status:
+                     <br/>
+                        <color r="170" g="255" b="0">
+                     Low Risk
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+               <cell width="128">
+                  <color r="255" g="255" b="255">Grassland<br/></color>
+                  <img src="ui/icon_biomes/icon_grassland.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+               </cell>
+					<cell width="128">
+						<color r="255" g="255" b="255">Africa</color>
+						<br/>
+						<img src="ui/icon_maplocations/Grassland_Africa_Asia.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+					</cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Class: Birds <i>(Aves)</i>
+                  <br/>
+                  Order: Diurnal Raptors <i>(Falconiformes)</i>
+                  <br/>
+                  Family: <i>Sagittariidae</i>
+                  <br/>
+                  Genus: <i>Sagittarius</i>
+                  <br/>
+                  Species: <i>serpentarius</i>
+                  </color>
+               </cell>
+               <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/grassland_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+               </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Fun Secretary Bird Facts</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Secretary birds sometimes walk up to 20 miles a day on their long legs.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">In South Africa, secretary birds are sometimes kept as pets because they kill snakes and rats.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Snakes are a favorite food of secretary birds. They grab the snakes with their toes and beat them on the ground, using their wings to protect themselves from bites.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Secretary birds mate for life and keep the same nest for years. Though they lead solitary lives much of the time, the other half of the pair is usually not far away.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>               
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Secretary birds are silent nearly all the time. The only sound they make is a croaking when displaying for a mate.</color>
+               </cell>                   
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">To unlock the secretary bird in challenge or campaign games, you must earn a 3-star zoo fame rating for your zoo.</color>
+            <p/>Secretary bird is the common name for a large bird of prey, found in Africa south of the Sahara. It is more than 1 m (3 ft) in length and has very long legs, a long tail, and a powerful, hooked beak. Many books derive the origin of the bird's name from a fanciful resemblance of its crest of long feathers to a group of quill pens placed behind the ear. But the name is actually a mispronunciation of the Arabic name for the species. The general color of the bird is bluish gray; the primaries, thighs, and tail markings are black. The bird feeds on small animals and on reptiles, particularly snakes, generally by stalking them. Secretary birds rarely fly. These solitary birds build large, strong nests of twigs in trees or bushes and lay two eggs in a clutch.
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Content adapted from <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft&#xAE; Encarta&#xAE; 2006.</color></u></a> &#xA9; 1993&#x96;2005 Microsoft Corporation. All rights reserved.
+         </cell>         
+      </LOC_STRING>
+
+</ZT2Strings>

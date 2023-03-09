@@ -1,0 +1,75 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_bubbleemitter:entry">Musselbubbelbad</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_bubbleemitter:text">
+		<cell pady="0" width="1000"/>
+		<p/>
+		<cell width="260"/>
+		<cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+		 <cell width="600" padx="20" pady="20">
+		  <color r="255" g="255" b="255">
+			<img src="entities/objects/enrichment/BubbleEmitter/BubbleEmitter_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+			<p/>Marina djur, som djävulsrockan, tycker om att simma i bubbelströmmen som skapas av den här konstgjorda jättemusslan.
+		  </color>
+		 </cell>
+		</cell>
+	  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_jarwithfish:entry">Burk med fisk</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_jarwithfish:text">
+		<cell pady="0" width="1000"/>
+		<p/>
+		<cell width="260"/>
+		<cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+		 <cell width="600" padx="20" pady="20">
+		  <color r="255" g="255" b="255">
+			<img src="entities/objects/enrichment/JarWithFish/JarWithFish_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+			<p/>Havsuttrar tycker om att försöka frigöra fiskmaten inuti burken och besökarna tycker om att se dem göra det!
+		  </color>
+		 </cell>
+		</cell>
+	  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_livetunayellowfin:entry">Levande föda (gulfenad tonfisk)</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_livetunayellowfin:text">
+		<cell pady="0" width="1000"/>
+		<p/>
+		<cell width="260"/>
+		<cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+		 <cell width="600" padx="20" pady="20">
+		  <color r="255" g="255" b="255">
+			<img src="entities/units/animals/TunaYellowfin/TunaYellowfin_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+			<p/>Marina rovdjur njuter ännu mer av sin föda om de måste fånga den! Många djurparker har infört levande föda som en del av sina livskvalitetsprogram.
+			<p/>För att låsa upp den levande födan (gulfenad tonfisk) måste du slutföra två marina djurutmaningar i Utmaningsläge.
+		  </color>
+		 </cell>
+		</cell>
+	  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_livecodarctic:entry">Levande föda (ishavstorsk)</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_livecodarctic:text">
+		<cell pady="0" width="1000"/>
+		<p/>
+		<cell width="260"/>
+		<cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+		 <cell width="600" padx="20" pady="20">
+		  <color r="255" g="255" b="255">
+			<img src="entities/units/animals/CodArctic/CodArctic_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+			<p/>Marina rovdjur njuter ännu mer av sin föda om de måste fånga den! Många djurparker har infört levande föda som en del av sina livskvalitetsprogram.
+		  </color>
+		 </cell>
+		</cell>
+	  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_sealpreydummy:entry">Sälattrapp</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_sealpreydummy:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>
+                  <img src="entities\objects\enrichment\Seal_Prey_Dummy\SealPreyDummy_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>Den här flytande leksaken är gjord för stora marina rovdjur som vithajen och späckhuggaren. Djuren tycker om att ramma och bita sälattrappen.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+
+</ZT2Strings>

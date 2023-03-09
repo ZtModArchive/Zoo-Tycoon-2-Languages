@@ -1,0 +1,111 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_tanks:entry">Bauen von Becken</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_tanks:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>
+In Zoo Tycoon 2: Marine Mania können Sie Haltungsbecken bauen, in denen Sie Ihre Meerestiere unterbringen können.
+                  <p/>
+Informationen zu einem Beckenobjekt erhalten Sie, indem Sie in der Liste links auf den Namen eines Objekts klicken.  
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_tankwall:entry">Acrylbeckenwand</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_tankwall:text">
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\objects\fences\BasicTank\basictank_transparent_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+Die Acrylbeckenwand besteht aus durchsichtiger Glasfaser. Wenn Sie Ihre Becken aus diesem Material bauen, können Besucher die Meerestiere in den Becken beobachten.
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_tankwallopaque:entry">Undurchsichtige Beckenwand</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_tankwallopaque:text">
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\objects\fences\BasicTank\basictank_opaque_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+Die undurchsichtige Beckenwand besteht aus stabilen Betonplatten, die Besuchern keinen freien Blick bieten. In einem Becken aus einer Kombination von undurchsichtiger Wand und Acrylwand können sich die Meerestiere vor den Blicken der Besucher zurückziehen.
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_marinetankwall:entry">Beckenwand des Meeresthemas</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_marinetankwall:text">
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\objects\fences\ThemedTank_mm\themedtank_mm_opaque_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <img src="entities\objects\fences\ThemedTank_mm\themedtank_mm_transparent_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+Beckenwände des Meeresthemas sind eine optische Bereicherung für Ihren Meeresbereich. Sie können durchsichtige und undurchsichtige Wände erwerben. Wenn Sie die Showtycoon-Auszeichnung dritten Grades erhalten, werden die Beckenwände des Meeresthemas freigegeben.    
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_showtankwall:entry">Showbeckenwand</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_showtankwall:text">
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\objects\fences\ThemedTank_show\themedtank_show_opaque_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <img src="entities\objects\fences\ThemedTank_show\themedtank_show_transparent_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+Mit der Showbeckenwand können Sie die Attraktivität Ihrer Showbecken steigern. Wenn Sie ein Becken mit dieser Wand einfassen, werden Sie automatisch zum Platzieren einer Showplattform und von Beckentoren aufgefordert.
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_tankentrance:entry">Beckeneingang</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_tankentrance:text">
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\objects\fences\Tank_Gate\Tank_Gate_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+Tierpfleger können nur über einen Beckeneingang in ein Becken gelangen und sich um die Tiere kümmern. Und ohne Beckeneingang können Trainer den Tieren in einem Becken keine Tricks beibringen. Beachten Sie, dass Beckeneingänge nur auf Beckenwänden platziert werden können.
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_waterfilter:entry">Wasserfilter</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_waterfilter:text">
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\objects\misc\Water_Filter\Water_Filter_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+Wasserfilter reinigen das Wasser in Haltungs- und Showbecken von Schmutz und Abfall. Ihre Tiere sind nur dann zufrieden und gesund, wenn sie in sauberem Wasser schwimmen. Filter müssen regelmäßig durch Servicekräfte gewartet werden. Im Zoobesuchermodus können Sie Filter auch selbst reparieren. 
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+ 
+</ZT2Strings>

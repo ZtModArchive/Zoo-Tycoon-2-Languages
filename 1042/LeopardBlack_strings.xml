@@ -1,0 +1,128 @@
+<ZT2Strings>
+   <entityname>
+      <!--animal names-->
+      <LeopardBlack>흑표범</LeopardBlack>
+      <LeopardBlack_stt>흑표범</LeopardBlack_stt>
+      <LeopardBlack_lower>흑표범</LeopardBlack_lower>
+      <LeopardBlack_ltt>
+         <color r="255" g="248" b="178">
+            흑표범
+         </color>
+         <br/>
+         흑표범을 적당한 우리에 넣어 주세요. 흑표범은 표범의 검은색 변종입니다.
+      </LeopardBlack_ltt>
+      <!--gift names-->
+      <LeopardBlack_Gift>흑표범 가방</LeopardBlack_Gift>
+      <LeopardBlack_Gift_stt>흑표범 가방</LeopardBlack_Gift_stt>
+      <LeopardBlack_Gift_lower>흑표범 가방</LeopardBlack_Gift_lower>
+      <LeopardBlack_Gift_ltt>
+         <color r="255" g="248" b="178">
+            흑표범 가방
+         </color>
+         <br/>흑표범을 좋아하는 관람객들이 많이 찾는 상품입니다.
+      </LeopardBlack_Gift_ltt>
+      <LeopardBlack_Gift_Adult>흑표범 가방</LeopardBlack_Gift_Adult>
+      <LeopardBlack_Gift_Adult_stt>흑표범 가방</LeopardBlack_Gift_Adult_stt>
+      <LeopardBlack_Gift_Adult_lower>흑표범 가방</LeopardBlack_Gift_Adult_lower>
+      <LeopardBlack_Gift_Adult_ltt>
+         <color r="255" g="248" b="178">
+            흑표범 가방
+         </color>
+         <br/>흑표범을 좋아하는 관람객들이 많이 찾는 상품입니다.
+      </LeopardBlack_Gift_Adult_ltt>
+   </entityname>
+   <zoopedia_leopardblack version="2">
+      <entry>흑표범</entry>
+      <text>
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/LeopardBlack/LeopardBlack_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						</cell>
+						<cell width="16">
+							<img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						</cell>
+						<cell width="16">
+							<img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						</cell>
+						<cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     보존 상태:
+                     <br/>
+                        <color r="170" g="255" b="0">
+                     비교적 양호
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>             
+            
+               <cell width="128">
+                  <color r="255" g="255" b="255">열대우림<br/></color>
+                  <img src="ui/icon_biomes/icon_tropicalrainforest.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+               </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">아프리카<br/></color>
+                  <img src="ui/icon_maplocations/Rainforest_Africa.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">강: 포유류 (Mammalia)<br/>목: 식육목 (Carnivora)<br/>과: 고양이과 (Felidae)<br/>속: Panthera<br/>종: pardus</color>
+               </cell>
+               <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/tropicalrainforest_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+               </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="굴림" size="12" shadowx="2" shadowy="1" shadowa="50">흑표범에 대한 재미있는 상식</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">흑표범은 표범의 검은색 변종입니다.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">흑표범은 실제로 몸에 반점이 있으며 가까이에서 불빛을 비춰보면 이 반점을 쉽게 확인할 수 있습니다.</color>
+               </cell>
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">챌린지 또는 캠페인 게임에서 흑표범을 입양하려면 동물원 명성을 별 세 개까지 올려야 합니다.</color>
+<p/>표범과 마찬가지로 흑표범도 몸에 반점이 있지만 눈에는 잘 보이지 않습니다.
+<p/>표범은 아프리카에서 아시아에 이르기까지 고양이과 동물 중 가장 넓은 범위에 걸쳐 분포하며 서식범위가 매우 넓습니다. 다 자란 표범의 몸길이는 0.91에서 1.91m에 이르며 꼬리의 길이는 1m나 됩니다. 털 색깔은 연한 갈색이며 매화꽃 모양의 검은 색 얼룩점을 가지고 있습니다.
+<p/>흑표범은 날렵하게 나무를 오를 수 있으며 종종 나무 위의 원숭이를 사냥하기도 합니다. 주로 밤에 사냥을 하며 먹이가 부족하면 과일이나 들쥐, 새, 거미나 곤충을 잡아먹기도 합니다. 암컷은 보통 한번에 두 마리에서 네 마리의 새끼를 낳으며 여섯 마리의 새끼를 낳는 경우도 있습니다.
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">내용 출처 <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2004.</color></u></a>(C) 1993-2003 Microsoft Corporation. All rights reserved.
+         </cell>
+      </text>
+   </zoopedia_leopardblack>
+</ZT2Strings>

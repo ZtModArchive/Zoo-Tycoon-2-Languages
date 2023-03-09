@@ -1,0 +1,770 @@
+<ZT2Strings>
+      <LOC_STRING _locID="tools:tooltypeformat">
+         <font name="arial" size="8" shadowx="0" shadowy="0">%text%</font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:toolcomponentformat">
+         <font name="arial" size="9" shadowx="0" shadowy="0">%text%</font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:inheritanceformat">
+         <font name="arial" size="9" shadowx="0" shadowy="0">
+            <b>%text%</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:selectedtypeformat">
+         <font name="arial" size="14" shadowx="0" shadowy="0" shadowa="64">
+            <b>%text%</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:selectedcomponentformat">
+         <font name="arial" size="16" shadowx="-1" shadowy="1" shadowa="64">%text%</font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:toolheadingformat">
+         <font name="arial" size="14">
+            <b>%text%</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:toolsubheadingformat">
+         <font name="arial" size="12" shadowx="-1" shadowy="1" shadowa="64">%text%</font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:xmlnodeformat">
+         <font name="arial" size="14">
+            <color r="255" g="255" b="50" a="255">%text%</color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:xmlnodeformatdisabled">
+         <font name="arial" size="14">
+            <color r="255" g="255" b="50" a="150">%text%</color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:xmlattributenameformat">
+         <font name="arial" size="10" shadowx="0" shadowy="0">
+            <b>
+               <color r="255" g="255" b="50" a="255">%text%</color>
+            </b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:xmlattributenameformatdisabled">
+         <font name="arial" size="10" shadowx="0" shadowy="0">
+            <b>
+               <color r="255" g="255" b="50" a="150">%text%</color>
+            </b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:xmlattributevalueformat">
+         <font name="arial" size="12" shadowx="0" shadowy="0">
+            <color r="255" g="255" b="50" a="255">%text%</color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:xmlattributevalueformatdisabled">
+         <font name="arial" size="12" shadowx="0" shadowy="0">
+            <color r="255" g="255" b="50" a="150">%text%</color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:xmlattributeequalformat">
+         <font name="arial" size="12" shadowx="-1" shadowy="1">%text%</font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:savelogformat">
+         <font name="arial" size="12" shadowa="0">%text%</font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:noshadow">
+         <font shadowx="0" shadowy="0">%text%</font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:toolheading">Tools-Menü</LOC_STRING>
+      <LOC_STRING _locID="tools:guitool">UI-Tool</LOC_STRING>
+      <LOC_STRING _locID="tools:guitool_stt">UI-Tool ausführen</LOC_STRING>
+      <LOC_STRING _locID="tools:typetree">Typenstruktur</LOC_STRING>
+      <LOC_STRING _locID="tools:componentpanel">Komponentenliste</LOC_STRING>
+      <LOC_STRING _locID="tools:guitool_ltt">
+         <color r="255" g="248" b="178">
+            <b>UI-Tool ausführen</b>
+         </color>
+         <br>Führen Sie das UI-Tool aus, und zeigen Sie die Layoutdateien an.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:entityeditor">Grundelemente-Editor</LOC_STRING>
+      <LOC_STRING _locID="tools:entityeditor_stt">Grundelemente-Editor ausführen</LOC_STRING>
+      <LOC_STRING _locID="tools:entityeditor_ltt">
+         <color r="255" g="248" b="178">
+            <b>Grundelemente-Editor ausführen</b>
+         </color>
+         <br>Führt den Grundelemente-Editor aus, um Grundelemente im Spiel zu überprüfen und zu ändern.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:reloadbinderandreplace_stt">
+         <color r="255" g="248" b="178">
+            <b>Grundelementeordner neu laden und ersetzen</b>
+         </color>
+         <br>Lädt den Grundelementeordner neu, wenn Sie außerhalb dieses Editors Änderungen vorgenommen haben.</br>
+         <br>Alle aktuellen Instanzen des Grundelements werden aktualisiert und ersetzt.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:placeobject_stt">
+         <color r="255" g="248" b="178">
+            <b>Objekt platzieren</b>
+         </color>
+         <br>Platzieren Sie den aktuell ausgewählten Grundelementetyp.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:entityeditoropen_stt">Grundelemente-Editor öffnen</LOC_STRING>
+      <LOC_STRING _locID="tools:entityeditoropen_ltt">
+         <color r="255" g="248" b="178">
+            <b>Grundelemente-Editor öffnen</b>
+         </color>
+         <br>Öffnet das Grundelemente-Editor-Toolfenster.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:expand_stt">
+         <color r="255" g="248" b="178">
+            <b>Vergrößern</b>
+         </color>
+         <br>Vergrößert die Strukturansicht.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:collapse_stt">
+         <color r="255" g="248" b="178">
+            <b>Verkleinern</b>
+         </color>
+         <br>Blendet die Strukturansicht aus.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:showalltypes_stt">
+         <color r="255" g="248" b="178">
+            <b>Alle Typen anzeigen</b>
+         </color>
+         <br>Zeigt alle Grundelementetypen als Baumstruktur an.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:showfavoritetypes_stt">
+         <color r="255" g="248" b="178">
+            <b>Favoriten-Typen anzeigen</b>
+         </color>
+         <br>Zeigt Favoriten-Grundelementetypen an.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:addtomyfavorites_stt">
+         <color r="255" g="248" b="178">
+            <b>Zu Favoriten hinzufügen</b>
+         </color>
+         <br>Fügt den ausgewählten Typ zu den Favoriten hinzu.</br>
+         <br>Klicken Sie auf die Schaltfläche "Favoriten", um die Favoriten anzuzeigen.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:removefrommyfavorites_stt">
+         <color r="255" g="248" b="178">
+            <b>Aus Favoriten entfernen</b>
+         </color>
+         <br>Entfernt den ausgewählten Typ aus den Favoriten.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:ditherbackground_stt">
+         <color r="255" g="248" b="178">
+            <b>Hintergrund rastern</b>
+         </color>
+         <br>Aktiviert/Deaktiviert gerasterten Hintergrund</br>
+         <br>Den Hintergrund rastern, um Objekte dahinter sichtbar zu machen.</br>
+         <br>Gerasterten Hintergrund deaktivieren, um Lesen des Textes einfacher zu machen.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:applychanges_stt">
+         <color r="255" g="248" b="178">
+            <b>Änderungen übernehmen</b>
+         </color>
+         <br>Übernimmt alle Änderungen am Grundelement.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:revertchanges_stt">
+         <color r="255" g="248" b="178">
+            <b>Alle Änderungen rückgängig machen.</b>
+         </color>
+         <br>Macht alle Änderungen am Grundelement rückgängig.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:savebinder_stt">
+         <color r="255" g="248" b="178">
+            <b>Speichern</b>
+         </color>
+         <br>Speichert die Ordnerdatei im</br>
+         <br>ausgewählten Datenstamm.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:selectdataroot_stt">
+         <color r="255" g="248" b="178">
+            <b>Datenstamm auswählen</b>
+         </color>
+         <br>Wählen Sie einen anderen Datenstamm aus.</br>
+         <br>Wenn Sie den Ordner speichern, wird er</br>
+         <br>im ausgewählten Datenstamm gespeichert.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:selectselected_stt">
+         <color r="255" g="248" b="178">
+            <b>Ausgewählten Grundelementetyp auswählen</b>
+         </color>
+         <br>Wählt den Grundelementetyp auf Grundlage</br>
+         <br>des ausgewählten Objekts im Zoo aus.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:updatetypelists_stt">
+         <color r="255" g="248" b="178">
+            <b>Typenlisten aktualisieren</b>
+         </color>
+         <br>Aktualisiert die Typenlisten im Spiel, um Datenänderungen anzuzeigen,</br>
+         <br>z. B. Tierpflegerempfehlungen und Fenster für den Kauf von Objekten.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:saveall_stt">
+         <color r="255" g="248" b="178">
+            <b>Alle speichern</b>
+         </color>
+         <br>Speichert alle Ordnerdateien,</br>
+         <br>die geändert wurden.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:nextbinder_stt">
+         <color r="255" g="248" b="178">
+            <b>Nächste Auswahl</b>
+         </color>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:previousbinder_stt">
+         <color r="255" g="248" b="178">
+            <b>Vorherige Auswahl</b>
+         </color>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:addnode_stt">
+         <color r="255" g="248" b="178">
+            <b>Knoten hinzufügen</b>
+         </color>
+         <br>Fügt einen neuen untergeordneten Knoten hinzu.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:overridenode_stt">
+         <color r="255" g="248" b="178">
+            <b>Knoten außer Kraft setzen</b>
+         </color>
+         <br>Setzt den Knoten für diesen</br>
+         <br>Ordner außer Kraft, damit er bearbeitet werden kann.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:removenode_stt">
+         <color r="255" g="248" b="178">
+            <b>Knoten entfernen</b>
+         </color>
+         <br>Entfernt diesen Knoten aus dem übergeordneten Knoten.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:inheritnode_stt">
+         <color r="255" g="248" b="178">
+            <b>Knoten entfernen (Erben)</b>
+         </color>
+         <br>Entfernt den Knoten und übernimmt</br>
+         <br>die Daten vom übergeordneten Ordner.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:addattribute_stt">
+         <color r="255" g="248" b="178">
+            <b>Attribut hinzufügen</b>
+         </color>
+         <br>Fügt ein neues Attribut zum Knoten hinzu.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:overrideattribute_stt">
+         <color r="255" g="248" b="178">
+            <b>Attribut außer Kraft setzen</b>
+         </color>
+         <br>Setzt das Attribut außer Kraft,</br>
+         <br>um Änderungen daran vorzunehmen.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:removeattribute_stt">
+         <color r="255" g="248" b="178">
+            <b>Attribut entfernen</b>
+         </color>
+         <br>Entfernt dieses Attribut aus dem Knoten.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:inheritattribute_stt">
+         <color r="255" g="248" b="178">
+            <b>Attribut entfernen (Erben)</b>
+         </color>
+         <br>Entfernt dieses Attribut aus dem Knoten</br>
+         <br>und übernimmt den Wert aus dem übergeordneten Ordner.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:nosavewarning">
+         <font name="arial" size="18" image="ui\font\color_mainmenu.tga" shadowx="-1" shadowy="1" shadowa="64">
+            <b>Es gibt Änderungen an Ordnern, die noch nicht gespeichert wurden!</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:addsharedcomponent_stt">
+         <color r="255" g="248" b="178">
+            <b>Gemeinsam verwendete Komponente hinzufügen</b>
+         </color>
+         <br>Fügt eine neue gemeinsam verwendete</br>
+         <br>Komponente zum Grundelement hinzu.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:addsubbinder_stt">
+         <color r="255" g="248" b="178">
+            <b>Unterordner hinzufügen</b>
+         </color>
+         <br>Fügt einen neuen Unterordner zum Grundelement hinzu.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:addentitytype_stt">
+         <color r="255" g="248" b="178">
+            <b>Grundelementetyp hinzufügen</b>
+         </color>
+         <br>Fügt einen neuen Grundelementetyp hinzu.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:canceladdnew_stt">
+         <color r="255" g="248" b="178">
+            <b>Abbrechen</b>
+         </color>
+         <br>Klicken Sie hier, um den Vorgang abzubrechen.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:addnewcomponenttypelabel">Geben Sie den TYP der Komponente ein, die dem Grundelement hinzugefügt werden soll (erforderlich):</LOC_STRING>
+      <LOC_STRING _locID="tools:addnewcomponentnamelabel">Geben Sie den NAMEN der Komponente ein, die dem Grundelement hinzugefügt werden soll (optional):</LOC_STRING>
+      <LOC_STRING _locID="tools:addnewentitytypeparent">Geben Sie den Grundelementetyp ein, aus dem der neue Grundelementetyp abgeleitet werden soll:</LOC_STRING>
+      <LOC_STRING _locID="tools:addnewentitytypechild">Geben Sie den Namen des neuen Grundelementetyps ein:</LOC_STRING>
+      <LOC_STRING _locID="tools:tapobjectselect">
+         <font name="arial" size="8" shadowx="-1" shadowy="1" shadowa="32">%text%</font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:taptool">Editor &amp; TAP-Tool</LOC_STRING>
+      <LOC_STRING _locID="tools:taptool_stt">Editor und TAP-Tool ausführen</LOC_STRING>
+      <LOC_STRING _locID="tools:taptoolopen_stt">TAP-Tool starten</LOC_STRING>
+      <LOC_STRING _locID="tools:taptoolopen_ltt">
+         <color r="255" g="248" b="178">
+            <b>TAP-Tool starten</b>
+         </color>
+         <br>Startet das TAP-Tool, um schnell verschiedene Taps anzuzeigen.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:taptooltest_stt">Ausgewähltes TAP ausführen.</LOC_STRING>
+      <LOC_STRING _locID="tools:taptoolreload_stt">Laden Sie die Einstellungen, die mit dem ausgewählten TAP verknüpft sind, erneut.</LOC_STRING>
+      <LOC_STRING _locID="tools:colorlabelformat">
+         <font name="arial" size="14" shadowa="32">
+            <b>%text%</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:terrainlights_stt">
+         <color r="255" g="248" b="178">
+            <b>Geländebeleuchtung</b>
+         </color>
+         <br>Zeigen Sie die Geländebeleuchtung an und bearbeiten Sie diese.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:objectlights_stt">
+         <color r="255" g="248" b="178">
+            <b>Objektbeleuchtung</b>
+         </color>
+         <br>Zeigen Sie die Objektbeleuchtung an und bearbeiten Sie diese.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:waterlights_stt">
+         <color r="255" g="248" b="178">
+            <b>Wasserbeleuchtung</b>
+         </color>
+         <br>Zeigen Sie die Wasserbeleuchtung an und bearbeiten Sie diese.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:cloudlights_stt">
+         <color r="255" g="248" b="178">
+            <b>Wolkenbeleuchtung</b>
+         </color>
+         <br>Zeigen Sie die Wolkenbeleuchtung an und bearbeiten Sie diese.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:savelights_stt">
+         <color r="255" g="248" b="178">
+            <b>Beleuchtung speichern</b>
+         </color>
+         <br>Speichern Sie die Beleuchtung in einer Datei.</br>
+         <br>Geben Sie den Namen der zu speichernden Datei im Bearbeitungsfeld an.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:loadlights_stt">
+         <color r="255" g="248" b="178">
+            <b>Beleuchtung laden</b>
+         </color>
+         <br>Beleuchtung aus Datei laden</br>
+         <br>Geben Sie den Namen der zu ladenden Beleuchtungsdatei im Bearbeitungsfeld an.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:gt_label">
+         <font name="arial" size="10" shadowx="-1" shadowy="1">
+            <b>Bewegungserstellungs-Tool</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:new_gesture_stt">Neue Bewegung</LOC_STRING>
+      <LOC_STRING _locID="tools:load_gesture_stt">Bewegung laden</LOC_STRING>
+      <LOC_STRING _locID="tools:save_gesture_stt">Bewegung speichern</LOC_STRING>
+      <LOC_STRING _locID="tools:next_stt">Nächste</LOC_STRING>
+      <LOC_STRING _locID="tools:previous_stt">Vorhergehende</LOC_STRING>
+      <LOC_STRING _locID="tools:undo_stt">Rückgängig</LOC_STRING>
+      <LOC_STRING _locID="tools:delete_stt">Löschen</LOC_STRING>
+      <LOC_STRING _locID="tools:load_gesture_label">
+         <font name="arial" size="11" shadowx="0" shadowy="0">
+            <b>Bewegung laden</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:save_gesture_label">
+         <font name="arial" size="11" shadowx="0" shadowy="0">
+            <b>Bewegung speichern</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:overwrite_gesture_label">
+         <font name="arial" size="20" shadowx="0" shadowy="0">
+            <b>Bewegung überschreiben?</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:insert_label">
+         <font name="arial" size="10" shadowx="0" shadowy="0">
+            <b>Knoten einfügen</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:insert_text_begin_stt">Knoten einfügen (Anfang)</LOC_STRING>
+      <LOC_STRING _locID="tools:insert_text_middle_stt">Knoten einfügen (Mitte)</LOC_STRING>
+      <LOC_STRING _locID="tools:insert_text_end_stt">Knoten einfügen (Ende)</LOC_STRING>
+      <LOC_STRING _locID="tools:insert_event_label">
+         <font name="arial" size="10" shadowx="0" shadowy="0">
+            <b>Ereignis einfügen </b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:insert_event_stt">Ereignis entlang der Spline einfügen.</LOC_STRING>
+      <LOC_STRING _locID="tools:view_gesture_stt">Bewegung anzeigen.</LOC_STRING>
+      <LOC_STRING _locID="tools:play_gesture_stt">Bewegung im Bildoptimierungsmodus testen.</LOC_STRING>
+      <LOC_STRING _locID="tools:increase_stt">Erhöhen.</LOC_STRING>
+      <LOC_STRING _locID="tools:decrease_stt">Verringern.</LOC_STRING>
+      <LOC_STRING _locID="tools:event_window_stt">opp-Größe von Ereignisfenster ändern
+.</LOC_STRING>
+      <LOC_STRING _locID="tools:view_label">
+         <font name="arial" size="9" shadowx="-1" shadowy="2">
+            <b>Spline anzeigen</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:test_label">
+         <font name="arial" size="9" shadowx="-1" shadowy="2">
+            <b>Spline testen</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:score_size_stt">Ergebnisdichte ändern.</LOC_STRING>
+      <LOC_STRING _locID="tools:spline_size_stt">Keildicke ändern.</LOC_STRING>
+      <LOC_STRING _locID="tools:event_window_label">
+         <font name="arial" size="9" shadowx="-1" shadowy="2">
+            <b>Ereignisgröße</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:spline_thickness_label">
+         <font name="arial" size="10" shadowx="0" shadowy="0">
+            <b>Spline-Größe</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:scoring_prox_label">
+         <font name="arial" size="10" shadowx="0" shadowy="0">
+            <b>Scoring-Prox</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:node_start_label">
+         <font name="arial" size="9" shadowx="-1" shadowy="2">
+            <b>Knoten am Anfang einfügen</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:node_label">
+         <font name="arial" size="9" shadowx="-1" shadowy="2">
+            <b>Knoten zwischen zwei Punkten einfügen</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:node_end_label">
+         <font name="arial" size="9" shadowx="-1" shadowy="2">
+            <b>Knoten am Ende einfügen</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:event_label">
+         <font name="arial" size="9" shadowx="-1" shadowy="2">
+            <b>Ereignis einfügen </b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:event_size_label">
+         <font name="arial" size="9" shadowx="-1" shadowy="2">
+            <b>Größe des Ereignisfensters ändern</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:score_size_label">
+         <font name="arial" size="9" shadowx="-1" shadowy="2">
+            <b>Score-Prox ändern</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:spline_size_label">
+         <font name="arial" size="9" shadowx="-1" shadowy="2">
+            <b>Keildicke ändern</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:new_spline_label">
+         <font name="arial" size="9" shadowx="-1" shadowy="2">
+            <b>Neue Spline erstellen</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:load_spline_label">
+         <font name="arial" size="9" shadowx="-1" shadowy="2">
+            <b>Spline laden</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:delete_spline_label">
+         <font name="arial" size="9" shadowx="-1" shadowy="2">
+            <b>Spline laden</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="watertool:reflection_stt">
+         <color r="255" g="248" b="178">
+            <b>Spiegelung</b>
+         </color>
+         <br>Alle Parameter zum Steuern der Spiegelungen an der Wasseroberfläche.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="watertool:refraction_stt">
+         <color r="255" g="248" b="178">
+            <b>Lichtbrechung</b>
+         </color>
+         <br>Alle Parameter zum Steuern der Lichtbrechung an der Wasseroberfläche.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="watertool:geometric_stt">
+         <color r="255" g="248" b="178">
+            <b>Geometrie</b>
+         </color>
+         <br>Alle Parameter zum Steuern der Geometrie der Wasseroberfläche.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="watertool:shore_stt">
+         <color r="255" g="248" b="178">
+            <b>Küste</b>
+         </color>
+         <br>Alle Parameter zum Steuern des Küsteneffekts.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="watertool:ripple_stt">
+         <color r="255" g="248" b="178">
+            <b>Wellen</b>
+         </color>
+         <br>Alle Parameter zum Steuern des Welleneffekts des Wassers.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="watertool:scum_stt">
+         <color r="255" g="248" b="178">
+            <b>Schaum</b>
+         </color>
+         <br>Wenn hier eine Schaumstruktur angegeben wird, ändert diese das Verhalten des Wassers auf zwei verschiedene Arten.</br>
+         <br>Zunächst, als offensichtlicherer Effekt, verläuft die Schaumstruktur in einer sich kreuzenden Bewegung</br>
+         <br>(2 Wellenkämme, die sich in einem bestimmten Verhältnis zueinander bewegen) als eine Schicht auf dem Wasser.</br>
+         <br>Zweitens, weniger sichtbar, wird die Lichtbrechung vermindert </br>
+         <br>und es wird nur noch der Himmel gespiegelt.</br>
+         <br>Wenn keine Schaumstrukturdatei angegeben wurde, werden die restlichen Parameter ignoriert.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="watertool:reflectionstrength_stt">
+         <color r="255" g="248" b="178">
+            <b>Stärke</b>
+         </color>
+         <br>Gibt an, wie stark die Spiegelungen sein sollen.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="watertool:reflectionambient_stt">
+         <color r="255" g="248" b="178">
+            <b>Ambient</b>
+         </color>
+         <br>Die emissive Farbe des Wassers, wenn keine Spiegelung vorhanden ist.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="watertool:reflectiontint_stt">
+         <color r="255" g="248" b="178">
+            <b>Farbton</b>
+         </color>
+         <br>Farbton, mit dem die Spiegelungen eingefärbt werden.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="watertool:reflectionmapsize_stt">
+         <color r="255" g="248" b="178">
+            <b>Kartengröße</b>
+         </color>
+         <br>Die Oberflächengröße der Bumpmap in Metern.</br>
+         <br>Mit einem niedrigeren Wert lassen sich feinere Details in der Struktur der Wasseroberfläche erzeugen.</br>
+         <br>Durch einen höheren Wert lassen sich größere und fließendere Strömungsbewegungen des Wassers gestalten.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="watertool:reflectionbumpiness_stt">
+         <color r="255" g="248" b="178">
+            <b>Unebenheiten</b>
+         </color>
+         <br>Ein höherer Wert macht die Wellen steiler.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="watertool:reflectionfalloff_stt">
+         <color r="255" g="248" b="178">
+            <b>Falloff</b>
+         </color>
+         <br>Der Abstand, bei dem die Unebenheiten ihren Minimalwert erreichen.</br>
+         <br>Ein höherer Falloff-Wert sorgt außerdem dafür, dass das Wasser aus der Entfernung wilder erscheint.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="watertool:reflectionfresnel_stt">
+         <color r="255" g="248" b="178">
+            <b>Fresnel</b>
+         </color>
+         <br>Steuert die Winkelabhängigkeit der Spiegelungsstärke.</br>
+         <br>Aus einem sehr flachen Winkel betrachtet spiegelt Wasser im Normalfall sehr stark.</br>
+         <br>Bei einem niedrigen Fresnel-Wert bleibt die Spiegelung des Wassers bestehen, </br>
+         <br>bis der Blickwinkel fast rechtwinklig ist.</br>
+         <br>Bei einem hohen Fresnel-Wert werden die Spiegelungen ausgeblendet und </br>
+         <br>die Lichtbrechungen erst bei einem viel steileren Winkel sichtbar.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="watertool:refractionambient_stt">
+         <color r="255" g="248" b="178">
+            <b>Ambient</b>
+         </color>
+         <br>Die emissive Farbe des Wassers.</br>
+         <br>Die gebrochenen Bilder werden zu dieser Farbe hinzugefügt.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="watertool:refractiontint_stt">
+         <color r="255" g="248" b="178">
+            <b>Farbton</b>
+         </color>
+         <br>Ein Farbton, mit dem die Lichtbrechungen eingefärbt werden können.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="watertool:refractionmapsize_stt">
+         <color r="255" g="248" b="178">
+            <b>Kartengröße</b>
+         </color>
+         <br>Die Oberflächengröße der Bumpmap in Metern.</br>
+         <br>Mit einem niedrigeren Wert lassen sich feinere Details in der Struktur der Wasseroberfläche erzeugen.</br>
+         <br>Durch einen höheren Wert lassen sich größere und fließendere Strömungsbewegungen des Wassers gestalten.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="watertool:refractionbumpiness_stt">
+         <color r="255" g="248" b="178">
+            <b>Unebenheiten</b>
+         </color>
+         <br>Der Unebenheitsgrad der Oberfläche. Ein höherer Wert macht die Wellen steiler.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="watertool:refractionfalloff_stt">
+         <color r="255" g="248" b="178">
+            <b>Falloff</b>
+         </color>
+         <br>Der Abstand, bei dem die Unebenheiten ihren Minimalwert erreichen, in Metern.</br>
+         <br>Ein höherer Falloff-Wert sorgt außerdem dafür, dass das Wasser aus der Entfernung wilder erscheint.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="watertool:geometricamp_stt">
+         <color r="255" g="248" b="178">
+            <b>Amplitude</b>
+         </color>
+         <br>Jeder Welle wird ein zufällig gewählter Wert</br>
+         <br>aus dem Bereich zwischen minimaler und maximaler Amplitude zugeordnet.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="watertool:geometricchop_stt">
+         <color r="255" g="248" b="178">
+            <b>Chop</b>
+         </color>
+         <br>Ein niedriger Chop-Wert stellt die Wellen runder dar.</br>
+         <br>Ein hoher Chop-Wert sorgt für Wellen mit mehr Wirbeln und spitzeren Kämmen.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="watertool:shoretint_stt">
+         <color r="255" g="248" b="178">
+            <b>Farbton</b>
+         </color>
+         <br>Die Farbe, mit der die einzelnen Schichten eingefärbt werden.</br>
+         <br>In der Regel sollte die Farbe weiß verwendet werden, durch die Änderung des Alphawerts lassen sich jedoch interessante Effekte erzielen.</br>
+         <br>Dieser steuert die maximale Lichtundurchlässigkeit der Wellen.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="watertool:shorerate_stt">
+         <color r="255" g="248" b="178">
+            <b>Frequenz</b>
+         </color>
+         <br>Die Geschwindigkeit, mit der sich die Schicht bewegt.</br>
+         <br>Bei einem negativen Wert verläuft die Bewegung in Richtung Wasser (von der Küste weg),</br>
+         <br>bei einem positiven Wert in Richtung Küste.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="watertool:shoresize_stt">
+         <color r="255" g="248" b="178">
+            <b>Kartengröße</b>
+         </color>
+         <br>Die Größe (in Metern) der vertikalen Ausdehnung der Struktur.</br>
+         <br>Bei einem niedrigeren Wert wird die Struktur vertikal gestaucht, bei einem höheren Wert gedehnt.</br>
+         <br>Der Standardwert liegt bei einem Seitenverhältnis von ungefähr 1:1.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="watertool:shorerippletop_stt">
+         <color r="255" g="248" b="178">
+            <b>Struktur der Wasseroberfläche an der Küste</b>
+         </color>
+         <br>Name der Dateiname mit der oberen Wellenstruktur.</br>
+         <br>Diese Struktur muss zweidimensional aufgefächert werden.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="watertool:shoreripplebot_stt">
+         <color r="255" g="248" b="178">
+            <b>Struktur der unteren Wasserschichten an der Küste</b>
+         </color>
+         <br>Name der Dateiname mit der unteren Wellenstruktur.</br>
+         <br>Diese Struktur muss zweidimensional aufgefächert werden.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="watertool:shoreripplemask_stt">
+         <color r="255" g="248" b="178">
+            <b>Ausblendstruktur für den Küstenbereich</b>
+         </color>
+         <br>Die Struktur zum Ausblenden der Effekte.</br>
+         <br>Diese Struktur sollte mindestens im oberen und im unteren Bereich vollkommen transparent sein,</br>
+         <br>und von links nach rechts aufgefächert werden.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="watertool:ripplelifespan_stt">
+         <color r="255" g="248" b="178">
+            <b>Lebensdauer</b>
+         </color>
+         <br>Dauer einer Abfolge konzentrischer Wellen in Sekunden.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="watertool:ripplestartup_stt">
+         <color r="255" g="248" b="178">
+            <b>Vorlauf</b>
+         </color>
+         <br>Der zum Einleiten einer Abfolge konzentrischer Wellen benötigte Zeitraum (in Sekunden).</br>
+         <br>Ein zu kurz eingestellter Zeitraum verursacht eine Unterbrechung in der Wellenabfolge.</br>
+         <br>Bei einem zu lang eingestellten Zeitraum sind die Übergänge zwar reibungslos, Ursprung und Wirkung der Abfolge werden jedoch nicht deutlich dargestellt.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="watertool:ripplemaxamp_stt">
+         <color r="255" g="248" b="178">
+            <b>Max. Amplitude</b>
+         </color>
+         <br>Maximale Größe der Wellen, wenn ein sehr schweres Objekt Wellen verursacht.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="watertool:rippleminamp_stt">
+         <color r="255" g="248" b="178">
+            <b>Min. Amplitude</b>
+         </color>
+         <br>Minimale Größe der Wellen, wenn ein sehr leichtes Objekt Wellen verursacht.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="watertool:ripplechop_stt">
+         <color r="255" g="248" b="178">
+            <b>Chop</b>
+         </color>
+         <br>Gibt an, wie unruhig oder wirbelnd die Wellen sind.</br>
+         <br>Ein niedriger Chop-Wert stellt die Wellen runder dar.</br>
+         <br>Ein hoher Chop-Wert sorgt für Wellen mit mehr Wirbeln und spitzeren Kämmen.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="watertool:scumimage_stt">
+         <color r="255" g="248" b="178">
+            <b>Bild</b>
+         </color>
+         <br>Die Struktur, die für den Schaum verwendet werden soll. Sowohl Alphawert als auch Farbe müssen beachtet werden.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="watertool:scumsize_stt">
+         <color r="255" g="248" b="178">
+            <b>Größe</b>
+         </color>
+         <br>Ausmaß in Metern dieser Schicht der Schaumstruktur in Ihrem Zoo.</br>
+         <br>Hierbei wird jeweils für x (Ost/West) und y (Nord/Süd) ein Wert benötigt.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="watertool:scumrate_stt">
+         <color r="255" g="248" b="178">
+            <b>Frequenz</b>
+         </color>
+         <br>Die Geschwindigkeit, mit der sich diese Schicht bewegt.</br>
+         <br>Hierbei wird jeweils ein Wert für x (Ost/West) und y (Nord/Süd) benötigt.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="watertool:alpine_stt">
+         <color r="255" g="248" b="178">
+            <b>Gebirge</b>
+         </color>
+      </LOC_STRING>
+      <LOC_STRING _locID="watertool:boreal_stt">
+         <color r="255" g="248" b="178">
+            <b>Borealer Wald</b>
+         </color>
+      </LOC_STRING>
+      <LOC_STRING _locID="watertool:desert_stt">
+         <color r="255" g="248" b="178">
+            <b>Wüste</b>
+         </color>
+      </LOC_STRING>
+      <LOC_STRING _locID="watertool:grassland_stt">
+         <color r="255" g="248" b="178">
+            <b>Grasland</b>
+         </color>
+      </LOC_STRING>
+      <LOC_STRING _locID="watertool:savannah_stt">
+         <color r="255" g="248" b="178">
+            <b>Savanne</b>
+         </color>
+      </LOC_STRING>
+      <LOC_STRING _locID="watertool:scrub_stt">
+         <color r="255" g="248" b="178">
+            <b>Buschland</b>
+         </color>
+      </LOC_STRING>
+      <LOC_STRING _locID="watertool:temperate_stt">
+         <color r="255" g="248" b="178">
+            <b>Wald (Gemäß. Zone)</b>
+         </color>
+      </LOC_STRING>
+      <LOC_STRING _locID="watertool:tropical_stt">
+         <color r="255" g="248" b="178">
+            <b>Tropischer Regenwald</b>
+         </color>
+      </LOC_STRING>
+      <LOC_STRING _locID="watertool:tundra_stt">
+         <color r="255" g="248" b="178">
+            <b>Tundra</b>
+         </color>
+      </LOC_STRING>
+      <LOC_STRING _locID="watertool:wetlands_stt">
+         <color r="255" g="248" b="178">
+            <b>Feuchtgebiet</b>
+         </color>
+      </LOC_STRING>
+</ZT2Strings>

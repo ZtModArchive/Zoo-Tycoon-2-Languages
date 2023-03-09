@@ -1,0 +1,41 @@
+<ZT2Strings>
+      <LOC_STRING _locID="alert:sttformat">
+         <font name="新細明體" size="9">%text%</font>
+      </LOC_STRING>
+      <LOC_STRING _locID="alert:lttformat">
+         <font name="新細明體" size="9">%text%</font>
+      </LOC_STRING>
+      <LOC_STRING _locID="alert:save_game_message">
+         <font name="新細明體" size="12">
+            遊戲已儲存
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="alert:alert">
+         <font name="新細明體" size="12">
+            <color r="255" g="197" b="78">%text%</color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="alert:save_failed">沒有多餘的硬碟空間，無法儲存遊戲。</LOC_STRING>
+      <LOC_STRING _locID="alert:photo_save_failed">沒有多餘的硬碟空間，無法儲存相片。</LOC_STRING>
+      <LOC_STRING _locID="alert:download_save_failed">沒有多餘的硬碟空間，無法完成下載。</LOC_STRING>
+      <LOC_STRING _locID="alert:invalid_name_profile">設定名稱必須至少有一個英文字母或一個數字，而且不能是 Windows (R) 保留字。</LOC_STRING>
+      <LOC_STRING _locID="alert:invalid_name_save">檔案名稱必須至少有一個英文字母或一個數字，而且不能是 Windows (R) 保留字。</LOC_STRING>
+      <LOC_STRING _locID="alert:profile_exists">這個設定已經存在，請選取不同的名稱。</LOC_STRING>
+      <LOC_STRING _locID="alert:save_failed_readonly">這是唯讀的檔案，無法儲存遊戲。</LOC_STRING>
+      <LOC_STRING _locID="alert:load_failed">檔案已損毀，或無法讀取。無法載入遊戲。</LOC_STRING>
+      <LOC_STRING _locID="error:startup_error_title">動物園大亨 2 啟動錯誤</LOC_STRING>
+      <LOC_STRING _locID="error:init_config_info_failed">呼叫 InitConfigInformation 錯誤</LOC_STRING>
+      <LOC_STRING _locID="error:d3d_create_failed">無法建立 Direct3D 物件</LOC_STRING>
+      <LOC_STRING _locID="error:init_video_card_info_failed">呼叫 Config_InitVideoCardInfo 錯誤</LOC_STRING>
+      <LOC_STRING _locID="error:enumerate_adapter_modes_failed">無法列舉顯示配接卡模式</LOC_STRING>
+      <LOC_STRING _locID="error:slow_processor">您需要至少 733MHz 的處裡器，才能順暢地執行動物園大亨 2 (目前偵測到 %sMHz)。</LOC_STRING>
+      <LOC_STRING _locID="error:low_system_memory">您需要至少 %1sMB 的系統記憶體，才能執行動物園大亨 2 (目前偵測到 %2sMHz)。</LOC_STRING>
+      <LOC_STRING _locID="error:low_video_memory">您需要至少 %1sMB 的視訊記憶體，才能執行動物園大亨 2 (目前偵測到 %2sMHz)。</LOC_STRING>
+      <LOC_STRING _locID="error:unsupported_graphics_adapter">動物園大亨 2 不支援 %s 顯示卡。</LOC_STRING>
+      <LOC_STRING _locID="error:prototype_graphics_adapter">%s 顯示卡為原型卡，在執行動物園大亨 2 時可能會產生問題。</LOC_STRING>
+      <LOC_STRING _locID="error:invalid_graphics_driver">您的顯示卡驅動程式不適用您的作業系統。請聯絡您的顯示卡廠商以取得最新版的驅動程式。</LOC_STRING>
+      <LOC_STRING _locID="error:old_graphics_driver">您的顯示卡驅動程式版本可能太舊，無法執行動物園大亨 2。請聯絡您的顯示卡廠商以取得最新版的驅動程式。</LOC_STRING>
+      <LOC_STRING _locID="error:invalid_sound_driver">您的音效卡驅動程式不適用您的作業系統。請聯絡您的音效卡廠商以取得最新版的驅動程式。</LOC_STRING>
+      <LOC_STRING _locID="error:old_sound_driver">您的音效卡驅動程式版本可能太舊，無法執行動物園大亨 2。請聯絡您的音效卡廠商以取得最新版的驅動程式。</LOC_STRING>
+      <LOC_STRING _locID="error:renderer_create_failed">動物園大亨 2 無法建立圖形轉譯器。請聯絡您的顯示卡廠商以取得最新版的驅動程式。</LOC_STRING>
+</ZT2Strings>

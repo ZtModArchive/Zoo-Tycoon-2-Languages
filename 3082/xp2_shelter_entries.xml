@@ -1,0 +1,45 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_kelpbed:entry">Lecho de algas</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_kelpbed:text">
+			<cell pady="0" width="1000"/>
+			<p/>
+			<cell width="260"/>
+			<cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+				<cell width="600" padx="20" pady="20">
+					<color r="255" g="255" b="255">
+						<img src="entities/objects/shelters/KelpBed_Shelter/KelpBed_Shelter_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+						<p/>Las nutrias marinas prefieren descansar en lechos de algas. ¡Se envuelven en algas antes de dormir para evitar que se las lleve la corriente!
+					</color>
+				</cell>
+			</cell>
+		</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_desertisland:entry">Isla desierta</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_desertisland:text">
+			<cell pady="0" width="1000"/>
+			<p/>
+			<cell width="260"/>
+			<cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+				<cell width="600" padx="20" pady="20">
+					<color r="255" g="255" b="255">
+						<img src="entities/objects/shelters/DesertIsland/DesertIsland_Shelter_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+						<p/>La isla desierta no sólo decora el tanque, sino que también ofrece a la tortuga verde un lugar para poner sus huevos y descansar.
+					</color>
+				</cell>
+			</cell>
+		</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_rockisland:entry">Isla rocosa</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_rockisland:text">
+			<cell pady="0" width="1000"/>
+			<p/>
+			<cell width="260"/>
+			<cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+				<cell width="600" padx="20" pady="20">
+					<color r="255" g="255" b="255">
+						<img src="entities/objects/shelters/RockIsland/RockIsland_Shelter_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+						<p/>La isla rocosa, en realidad hecha de plataformas de plástico de alto impacto, actúa como refugio para los lobos marinos de California, las morsas, las nutrias marinas y los pingüinos de penacho amarillo.
+					</color>
+				</cell>
+			</cell>
+		</LOC_STRING>
+
+</ZT2Strings>

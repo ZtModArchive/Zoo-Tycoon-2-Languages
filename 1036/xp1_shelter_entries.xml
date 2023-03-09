@@ -1,0 +1,37 @@
+﻿<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_burrow_boreal:entry">Tanière de la forêt boréale</LOC_STRING> <LOC_STRING _locID="zoopedia_burrow_boreal:text">
+			<cell pady="0" width="1000"/>
+			<p/>
+			<cell width="260"/>
+			<cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+				<cell width="600" padx="20" pady="20">
+					<color r="255" g="255" b="255"><img src="entities/objects/shelters/AnimalBurrows_Shelter/AnimalBurrows_Boreal_Small_icon.dds" sx="0" sy="0" sw="64" sh="64"/> <img src="entities/objects/shelters/AnimalBurrows_Shelter/AnimalBurrows_Boreal_Large_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+						<p/>
+Cette tanière sera très appréciée des petits animaux de la forêt boréale friands d'espaces souterrains obscurs parmi lesquels on peut citer le glouton. La petite tanière accueille un seul animal tandis que la grande tanière est assez grande pour deux animaux.</color>
+				</cell>
+			</cell>
+		</LOC_STRING> <LOC_STRING _locID="zoopedia_burrow_desert:entry">Tanière du désert</LOC_STRING> <LOC_STRING _locID="zoopedia_burrow_desert:text">
+			<cell pady="0" width="1000"/>
+			<p/>
+			<cell width="260"/>
+			<cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+				<cell width="600" padx="20" pady="20">
+					<color r="255" g="255" b="255"><img src="entities/objects/shelters/AnimalBurrows_Shelter/AnimalBurrows_Desert_Small_icon.dds" sx="0" sy="0" sw="64" sh="64"/> <img src="entities/objects/shelters/AnimalBurrows_Shelter/AnimalBurrows_Desert_Large_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+						<p/>
+La tanière du désert est parfaite pour une créature telle que le fennec, ce petit animal du désert friand d'espaces souterrains obscurs. La petite tanière accueille un seul animal tandis que la grande tanière est assez grande pour deux animaux.</color>
+				</cell>
+			</cell>
+		</LOC_STRING> <LOC_STRING _locID="zoopedia_burrow_scrub:entry">Tanière des broussailles</LOC_STRING> <LOC_STRING _locID="zoopedia_burrow_scrub:text">
+			<cell pady="0" width="1000"/>
+			<p/>
+			<cell width="260"/>
+			<cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+				<cell width="600" padx="20" pady="20">
+					<color r="255" g="255" b="255"><img src="entities/objects/shelters/AnimalBurrows_Shelter/AnimalBurrows_Scrub_Small_icon.dds" sx="0" sy="0" sw="64" sh="64"/> <img src="entities/objects/shelters/AnimalBurrows_Shelter/AnimalBurrows_Scrub_Large_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+						<p/>
+La tanière des broussailles est parfaite pour une créature telle que le dragon de Komodo, un animal des broussailles friand d'espaces souterrains obscurs. La petite tanière accueille un seul animal tandis que la grande tanière est assez grande pour deux animaux.</color>
+				</cell>
+			</cell>
+		</LOC_STRING> 
+ 
+</ZT2Strings>

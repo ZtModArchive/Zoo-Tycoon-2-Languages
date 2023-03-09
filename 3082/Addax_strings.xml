@@ -1,0 +1,148 @@
+<ZT2Strings>
+   <entityname>
+      <!--animal names-->
+      <Addax>Addax</Addax>
+      <Addax_stt>Addax</Addax_stt>
+      <Addax_lower>el addax</Addax_lower>
+      <Addax_ltt>
+         <color r="255" g="248" b="178">
+            <b>Addax</b>
+         </color>
+         <br/>
+         Haga clic para seleccionar y para colocar al addax, un gran bóvido del desierto.
+      </Addax_ltt>
+      <!--gift names-->
+      <Addax_Gift>Marioneta de addax</Addax_Gift>
+      <Addax_Gift_stt>Marioneta de addax</Addax_Gift_stt>
+      <Addax_Gift_lower>la marioneta de addax</Addax_Gift_lower>
+      <Addax_Gift_ltt>
+         <color r="255" g="248" b="178">
+            <b>Marioneta de addax</b>
+         </color>
+         <br/>Los visitantes a los que les gusta el addax comprarán este regalo.
+      </Addax_Gift_ltt>
+   </entityname>
+   
+   <!--zoopedia entries-->
+   <zoopedia_addax version="2">
+      <entry>Addax</entry>
+      <text>
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/Addax/Addax_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>						
+						</cell>
+						<cell width="16">
+							<img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						</cell>
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/Addax/Addax_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>						
+						</cell>						
+						<cell width="16">
+							<img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						</cell>
+						<cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/critical.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Estado de Conservación:
+                     <br/>
+                        <color r="255" g="0" b="0">
+                     En Peligro Crítico
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>            
+            
+               <cell width="128">
+                  <color r="255" g="255" b="255">Desierto<br/></color>
+                  <img src="ui/icon_biomes/icon_desert.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+               </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Norte de África<br/></color>
+                  <img src="ui/icon_maplocations/Desert_Africa_North.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">Clase: Mamíferos <i>(Mammalia)</i><br/>Orden: Artiodáctilos <i>(Artiodactyla)</i><br/>Familia: Bóvidos <i>(Bovidae)</i><br/>Género: <i>Addax</i><br/>Especie: <i>nasomaculatus</i></color>
+               </cell>
+               <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/desert_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+               </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Datos divertidos del addax</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Una de las claves para la supervivencia del addax en el vasto Sahara es su habilidad de sentir parches de vegetación que aparecen de repente después de la lluvia a largas distancias.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">El addax es el animal más grande endémico del desierto del Sahara.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">El addax nunca bebe, en su lugar obtiene toda la humedad que necesita de su alimento.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">El addax a menudo forma un refugio al excavar impresiones en la arena parcialmente debajo de las rocas, lo cual le provee protección del sol y del viento del desierto.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">El pelaje del addax cambia de blanco en el verano a un color gris parduzco en el invierno.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Con su forma poco agraciada, el addax no es un corredor veloz y frecuentemente cae víctima de depredadores carnívoros.</color>
+               </cell>
+            </cell>
+         </cell>
+         <cell width="340">
+         <color r="255" g="248" b="178">Para descubrir al addax en los juegos de desafío o de campaña, debe ganar un nivel de fama del zoo de dos estrellas.</color>
+         <p/>El addax es un antílope del desierto que originalmente se distribuía desde el Sahara oriental y Mauritania hasta Egipto y Sudán. Hoy en día habita en la zona sur oriental del Sahara y en menor número desde el Mar Rojo hasta el Oriente Oróximo. La caza excesiva, sequías severas y el acoso de los turistas han causado una disminución tan dramática en su población del addax que hoy se encuentra en peligro crítico. Solo existe una población viable, con menos de 200 individuos, aún en la naturaleza.
+         <p/>Es un animal estrictamente herbívoro y rumiante. El addax mide entre 95 y 115 cm a la altura del hombro y de color blanco amarillento, con una crin marrón y una mancha negra en la frente. Ambos sexos tienen cuernos gráciles anillados, que forman un espiral abierto de hasta 89 cm de longitud. El addax se encuentra bien adaptado al desierto, con largas pezuñas para correr sobre la arena. Al alimentarse de hojas de plantas suculentas y sandías salvajes, puede vivir la mayor parte de su vida sin beber agua directamente. El addax busca refugio durante el abrasador sol del mediodía, a veces en cuevas.
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Contenido facilitado por cortesía de la <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Biblioteca de Consulta 2004 Microsoft (R) Encarta (R)</color></u></a>(C) 1993-2003 Microsoft Corporation. Reservados todos los derechos.
+         </cell>
+      </text>
+   </zoopedia_addax>
+</ZT2Strings>

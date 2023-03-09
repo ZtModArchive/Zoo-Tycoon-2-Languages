@@ -1,0 +1,231 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_beluga" version="9"/>
+      <LOC_STRING _locID="zoopedia_beluga:entry" version="9">Beluga</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_beluga:text" version="9">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/Beluga/Beluga_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>						 
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/vulnerable.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Estado de conservación:
+                     <br/>
+                        <color r="255" g="255" b="0">
+                     Vulnerable
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+				 <cell width="128">
+				  <color r="255" g="255" b="255">Tundra<br/></color>
+				  <img src="ui/icon_biomes/icon_tundra.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+				 </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Océano Ártico</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/tundra_arctic_ocean.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Clase: Mamíferos <i>(Mammalia)</i>
+                  <br/>
+                  Orden: <i>cetáceos</i>
+                  <br/>
+                  Familia: <i>monodóntidos (Monodontidae)</i>
+                  <br/>
+                  Género: <i>Delphinapterus</i>
+                  <br/>
+                  Especie: <i>leucas</i>
+                  </color>
+               </cell>
+				 <cell width="256" pady="10">
+				  <img src="UI/zoopedia/biome/tundra_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+				 </cell>				 
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Datos divertidos de la beluga</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Al nacer, las belugas son de color gris oscuro, marrón o negro. Pero a medida que crecen el color se va aclarando y, al llegar a los cinco años, son completamente blancas.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">¡Las belugas pueden nadar hacia adelante y hacia atrás!</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Las belugas no mastican los alimentos, los ingieren enteros.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Las belugas buscan comida en las proximidades de aguas poco profundas. Por tanto, su alimento habitual son los peces que habitan los fondos marinos.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">El flexible cuello de la beluga le permite moverse fácilmente mientras come. Además, con su boca generan una fuerte aspiración, que arrastra a los animales que se niegan a ser su menú.</color>
+               </cell>                
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">Para desbloquear a la beluga en los juegos de desafío o de campaña, su zoo debe ganar un nivel de fama de media estrella.</color>
+            <p/>La beluga es una ballena dentada, pariente cercana del delfín, con una cabeza redonda claramente definida y aletas pequeñas. Las belugas (término procedente de la palabra rusa "bieloi", que significa "blanco") nacen sin aletas dorsales y son de color negro o marrón oscuro. En el transcurso del tiempo se van aclarando y hacia los cinco años adquieren un color blanco lechoso permanente. Los machos pueden alcanzar una longitud máxima de 7 m, y las hembras son algo más pequeñas. Las belugas surcan los mares en bancos de varios miles de ejemplares, alimentándose de peces, pulpos, cangrejos, caracoles y calamares. Suelen abundar en el Océano Ártico, aunque suelen viajar hacia el sur, habiéndoselas avistado incluso a la altura de Nueva Jersey (EE.UU.) y la desembocadura del Rin en Europa.     
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Contenido adaptado de <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft® Encarta® 2006.</color></u></a> © 1993-2005 Microsoft Corporation. Reservados todos los derechos.
+         </cell>         
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_penguinrockhopper" version="9"/>
+      <LOC_STRING _locID="zoopedia_penguinrockhopper:entry" version="9">Pingüino de penacho amarillo</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_penguinrockhopper:text" version="9">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/PenguinRockhopper/PenguinRockhopper_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/PenguinRockhopper/PenguinRockhopper_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>							 
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>						 
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/vulnerable.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Estado de conservación:
+                     <br/>
+                        <color r="255" g="255" b="0">
+                     Vulnerable
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+				 <cell width="128">
+				  <color r="255" g="255" b="255">Costero<br/></color>
+				  <img src="ui/icon_biomes/icon_coastal.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+				 </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Islas del océano sur</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/coastal_southern_ocean_islands.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Clase: Aves <i>aves</i>
+                  <br/>
+                  Orden: <i>esfeniciformes (Sphenisciformes)</i>
+                  <br/>
+                  Familia: <i>esfeníscidas (Spheniscidae)</i>
+                  <br/>
+                  Género: <i>Eudyptes</i>
+                  <br/>
+                  Especie: <i>chrysocome</i>
+                  </color>
+               </cell>
+				 <cell width="256" pady="10">
+				  <img src="UI/zoopedia/biome/coastal_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+				 </cell>				 
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Datos divertidos del pingüino de penacho amarillo</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Las hembras del pingüino de penacho amarillo suelen poner dos huevos en la temporada de cría, aunque se incuba solamente uno.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Los pingüinos de penacho amarillo viven como media unos diez años.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Para atraer a sus parejas, los machos sacuden las cabezas para llamar la atención a los penachos amarillos que dan nombre a la especie.</color>
+               </cell>                 
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">Para desbloquear al pingüino de penacho amarillo en los juegos de desafío o de campaña, su zoo debe ganar un nivel de fama de dos estrellas.</color>
+            <p/>Los pingüinos de penacho amarillo también son denominados "pingüino saltarrocas", por su hábito de trasladarse dando saltos sobre las superficies rocosas de las islas que constituyen su hábitat. Se trata de una especie subártica del pingüino, por lo que suele encontrárselo fundamentalmente en las islas más meridionales, como las Malvinas, la isla Macquarie y las Antípodas.
+            <p/>Estos pingüinos, con una elegante y característica cresta y de ojos rojos, son los más agresivos de su especie. Es común verlos pelear por los mejores sitios para anidar sobre el terreno rocoso. Aunque son de tamaño pequeño, sus poderosas patas y aletas les convierten en formidables nadadores y cazadores.
+				<p/>Sus presas habituales son el pez linterna, el krill (un crustáceo similar al camarón) y, en ocasiones, pequeños calamares. A su vez, son presas de los tiburones azules, las focas leopardo y los osos marinos. Sus huevos y crías son vulnerables en tierra a las gaviotas y otras aves.
+				<p/>Dado que anidan en las costas rocosas, su capacidad de saltar del agua y sobre las rocas es una importante aptitud de supervivencia.  
+         </cell>        
+      </LOC_STRING>  
+
+</ZT2Strings>

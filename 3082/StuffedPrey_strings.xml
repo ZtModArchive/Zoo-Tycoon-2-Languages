@@ -1,0 +1,33 @@
+<ZT2Strings>
+   <entityname>
+      <!--animal names-->
+      <StuffedPrey>Peluche de presa</StuffedPrey>
+      <StuffedPrey_stt>Peluche de presa</StuffedPrey_stt>
+      <StuffedPrey_lower>El peluche de presa</StuffedPrey_lower>
+      <StuffedPrey_ltt>
+         <color r="255" g="248" b="178">
+            <b>Peluche de presa</b>
+         </color>
+         <br/>
+         Haga clic para seleccionar y para colocar el peluche de presa, un juguete para que los depredadores practiquen el ataque.
+      </StuffedPrey_ltt>
+   </entityname>
+   <zoopedia_stuffedprey>
+      <entry>Peluche de presa</entry>
+      <text>
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>
+                  <img src="entities\objects\enrichment\StuffedPrey\StuffedPrey_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>El peluche de presa es un muñeco en forma de gacela hecho de paja y arpillera que dentro tiene un alambre grueso enroscado.
+                  <p/>A los carnívoros les gusta practicar el ataque mordiendo o aplastando el muñeco, porque rebota como reacción al ataque.
+               </color>
+            </cell>
+         </cell>
+      </text>
+   </zoopedia_stuffedprey>
+</ZT2Strings>

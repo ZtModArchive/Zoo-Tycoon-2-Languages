@@ -1,0 +1,26 @@
+﻿<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_elevateddish" version="2"/> <LOC_STRING _locID="zoopedia_elevateddish:entry" version="2">Comedero con plataforma elevada</LOC_STRING> <LOC_STRING _locID="zoopedia_elevateddish:text" version="2">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255"><img src="entities/objects/food/ElevatedDish/ElevatedDish_Branches_icon.dds" sx="0" sy="0" sw="64" sh="64"/> <img src="entities/objects/food/ElevatedDish/ElevatedDish_Grass_icon.dds" sx="0" sy="0" sw="64" sh="64"/> <img src="entities/objects/food/ElevatedDish/ElevatedDish_Hay_icon.dds" sx="0" sy="0" sw="64" sh="64"/> <img src="entities/objects/food/ElevatedDish/ElevatedDish_Lettuce_icon.dds" sx="0" sy="0" sw="64" sh="64"/> <img src="entities/objects/food/ElevatedDish/ElevatedDish_Water_icon.dds" sx="0" sy="0" sw="64" sh="64"/> <img src="entities/objects/food/ElevatedDish_df/ElevatedDishBerries_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/> <img src="entities/objects/food/ElevatedDish_df/ElevatedDishEucalyptus_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>
+Un comedero con plataforma elevada permite a los animales de mayor altura, como las jirafas, alcanzar los alimentos con más facilidad. Puesto que los animales pueden comer de la plataforma mientras están de pie, los comederos con plataforma elevada también facilitan la digestión de muchos animales de cuatro patas.</color>
+            </cell>
+         </cell>
+      </LOC_STRING> <LOC_STRING _locID="zoopedia_fooddish" version="2"/> <LOC_STRING _locID="zoopedia_fooddish:entry" version="2">Comedero</LOC_STRING> <LOC_STRING _locID="zoopedia_fooddish:text" version="2">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255"><img src="entities/objects/food/FoodDish/FoodDish_Bamboo_icon.dds" sx="0" sy="0" sw="64" sh="64"/> <img src="entities/objects/food/FoodDish/FoodDish_Bananas_icon.dds" sx="0" sy="0" sw="64" sh="64"/> <img src="entities/objects/food/FoodDish/FoodDish_Branches_icon.dds" sx="0" sy="0" sw="64" sh="64"/> <img src="entities/objects/food/FoodDish/FoodDish_Fish_icon.dds" sx="0" sy="0" sw="64" sh="64"/> <img src="entities/objects/food/FoodDish/FoodDish_Grass_icon.dds" sx="0" sy="0" sw="64" sh="64"/> <img src="entities/objects/food/FoodDish/FoodDish_Hay_icon.dds" sx="0" sy="0" sw="64" sh="64"/> <img src="entities/objects/food/FoodDish/FoodDish_Lettuce_icon.dds" sx="0" sy="0" sw="64" sh="64"/> <img src="entities/objects/food/FoodDish/FoodDish_Meat_icon.dds" sx="0" sy="0" sw="64" sh="64"/> <img src="entities/objects/food/FoodDish/FoodDish_Shrimp_icon.dds" sx="0" sy="0" sw="64" sh="64"/> <img src="entities/objects/food/FoodDish/FoodDish_Water_icon.dds" sx="0" sy="0" sw="64" sh="64"/> <img src="entities/objects/food/FoodDish_df/FoodDishBerries_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/> <img src="entities/objects/food/FoodDish_df/FoodDishEucalyptus_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>
+               Un comedero es un contenedor para todo tipo de comida y para agua que puede cubrir las necesidades de todos los animales, con independencia de su dieta. Los comederos no permiten comer al mismo tiempo a tantos animales como los pesebres, por lo que deben rellenarse con más frecuencia.</color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+
+</ZT2Strings>

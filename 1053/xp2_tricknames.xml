@@ -1,0 +1,1635 @@
+<ZT2Strings>
+      <LOC_STRING _locID="tricknames:Add">Lägg till ny konst</LOC_STRING>
+      <LOC_STRING _locID="tricknames:Wait">Vänta</LOC_STRING>
+      <LOC_STRING _locID="tricknames:Delete">Ta bort</LOC_STRING>
+      <LOC_STRING _locID="tricknames:Jump">Hoppa i %1s</LOC_STRING>
+      <LOC_STRING _locID="tricknames:StraightUpJump">Hoppa lodrätt i %1s</LOC_STRING>
+      <LOC_STRING _locID="tricknames:JumpFallSide">Falla i sidled i %1s</LOC_STRING>
+      <LOC_STRING _locID="tricknames:DiveJump">Dyka i %1s</LOC_STRING>
+      <LOC_STRING _locID="tricknames:FlipForward">Framåtvolt i %1s</LOC_STRING>
+      <LOC_STRING _locID="tricknames:FlipBack">Bakåtvolt i %1s</LOC_STRING>
+      <LOC_STRING _locID="tricknames:FlipperSplash">Plaska med fenorna i %1s</LOC_STRING>
+      <LOC_STRING _locID="tricknames:Spyhop">Spyhop i %1s</LOC_STRING>
+      <LOC_STRING _locID="tricknames:TailSplash">Plaska med stjärtfenan i %1s</LOC_STRING>
+      <LOC_STRING _locID="tricknames:CorkscrewTwist">Snurra runt i %1s</LOC_STRING>
+      <LOC_STRING _locID="tricknames:WaterWalk">Gå på vattnet i %1s</LOC_STRING>
+      <LOC_STRING _locID="tricknames:Squirt">Spruta vatten i %1s</LOC_STRING>
+      <LOC_STRING _locID="tricknames:JumpOver">%1s-hopp</LOC_STRING>
+      <LOC_STRING _locID="tricknames:JumpOn">Hoppa på %1s</LOC_STRING>
+      <LOC_STRING _locID="tricknames:JumpSwipeAt">Slå till %1s</LOC_STRING>
+      <LOC_STRING _locID="tricknames:RamAt">Stöta %1s</LOC_STRING>
+      <LOC_STRING _locID="tricknames:SlideOn">Glida på %1s</LOC_STRING>
+      <LOC_STRING _locID="tricknames:SwingOn">Gunga på %1s</LOC_STRING>
+      <LOC_STRING _locID="tricknames:SeatOn">Sitta på %1s</LOC_STRING>
+      <LOC_STRING _locID="tricknames:Playing">Blåsa i %1s</LOC_STRING>
+      <LOC_STRING _locID="tricknames:BalanceOnNose">Balansera %1s</LOC_STRING>
+      <LOC_STRING _locID="tricknames:PlayingBasketball">Spela basketboll med %1s</LOC_STRING>
+      <LOC_STRING _locID="tricknames:BellowOn">Vråla på %1s</LOC_STRING>
+      <LOC_STRING _locID="tricknames:OpenUp">Öppna %1s</LOC_STRING>
+      <LOC_STRING _locID="tricknames:ForageIn">Äta i %1s</LOC_STRING>
+      <LOC_STRING _locID="tricknames:LookCuteOn">Se söt ut</LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:DolphinJump_ltt">
+         <color r="255" g="248" b="178">
+            <b>Hoppa i konstområdet</b>
+         </color>
+         <br/>
+         Klicka här om du vill träna delfinen att hoppa i trickområdet. Genom att träningen avslutas låses nästa trick upp.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:DolphinJump_complete_ltt">
+         <color r="255" g="248" b="178">
+            <b>Hoppa i konstområdet</b>
+         </color>
+         <br/>
+            <b>    Träningen är slutförd</b>
+         <br/>
+         Träningen är slutförd. Djuret har tränats klart på det här tricket.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:DolphinJumpFallSide_ltt">
+         <color r="255" g="248" b="178">
+            <b>Falla i sidled i trickområdet</b>
+         </color>
+         <br/>
+         Klicka här om du vill träna delfinen att falla i sidled i trickområdet.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:DolphinJumpFallSide_locked_ltt">
+         <color r="255" g="248" b="178">
+            <b>Falla i sidled i trickområdet</b>
+         </color>
+         <br/>
+            <b>    Tricket är låst</b>
+         <br/>
+         Tricket att falla i sidled är låst. Du måste slutföra träningen av föregående trick innan du kan låsa upp detta.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:DolphinJumpFallSide_complete_ltt">
+         <color r="255" g="248" b="178">
+            <b>Falla i sidled i trickområdet</b>
+         </color>
+         <br/>
+            <b>    Träningen är slutförd</b>
+         <br/>
+         Träningen är slutförd. Djuret har tränats klart på det här tricket.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:DolphinStraightUpJump_ltt">
+         <color r="255" g="248" b="178">
+            <b>Lodrätt hopp i trickområdet</b>
+         </color>
+         <br/>
+         Klicka här om du vill träna delfinen att hoppa lodrätt i trickområdet. Genom att träningen avslutas låses nästa trick upp.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:DolphinStraightUpJump_locked_ltt">
+         <color r="255" g="248" b="178">
+            <b>Lodrätt hopp i trickområdet</b>
+         </color>
+         <br/>
+            <b>    Tricket är låst</b>
+         <br/>
+         Tricket att hoppa lodrätt är låst. Du måste slutföra träningen av föregående trick innan du kan låsa upp detta.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:DolphinStraightUpJump_complete_ltt">
+         <color r="255" g="248" b="178">
+            <b>Lodrätt hopp i trickområdet</b>
+         </color>
+         <br/>
+            <b>    Träningen är slutförd</b>
+         <br/>
+         Träningen är slutförd. Djuret har tränats klart på det här tricket.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:DolphinDiveJump_ltt">
+         <color r="255" g="248" b="178">
+            <b>Dyka i trickområdet</b>
+         </color>
+         <br/>
+         Klicka här om du vill träna delfinen att dyka i trickområdet.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:DolphinDiveJump_locked_ltt">
+         <color r="255" g="248" b="178">
+            <b>Dyka i trickområdet</b>
+         </color>
+         <br/>
+            <b>    Tricket är låst</b>
+         <br/>
+         Tricket att dyka är låst. Du måste slutföra träningen av föregående trick innan du kan låsa upp detta.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:DolphinDiveJump_complete_ltt">
+         <color r="255" g="248" b="178">
+            <b>Dyka i trickområdet</b>
+         </color>
+         <br/>
+            <b>    Träningen är slutförd</b>
+         <br/>
+         Träningen är slutförd. Djuret har tränats klart på det här tricket.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:DolphinFlipForward_ltt">
+         <color r="255" g="248" b="178">
+            <b>Framåtvolt i trickområdet</b>
+         </color>
+         <br/>
+         Klicka här om du vill träna delfinen att göra en framåtvolt i trickområdet. Genom att träningen avslutas låses nästa trick upp.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:DolphinFlipForward_locked_ltt">
+         <color r="255" g="248" b="178">
+            <b>Framåtvolt i trickområdet</b>
+         </color>
+         <br/>
+            <b>    Tricket är låst</b>
+         <br/>
+         Tricket att göra en framåtvolt är låst. Du måste slutföra träningen av föregående trick innan du kan låsa upp detta.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:DolphinFlipForward_complete_ltt">
+         <color r="255" g="248" b="178">
+            <b>Framåtvolt i trickområdet</b>
+         </color>
+         <br/>
+            <b>    Träningen är slutförd</b>
+         <br/>
+         Träningen är slutförd. Djuret har tränats klart på det här tricket.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:DolphinFlipBack_ltt">
+         <color r="255" g="248" b="178">
+            <b>Bakåtvolt i trickområdet</b>
+         </color>
+         <br/>
+         Klicka här om du vill träna delfinen att göra en bakåtvolt i trickområdet.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:DolphinFlipBack_locked_ltt">
+         <color r="255" g="248" b="178">
+            <b>Bakåtvolt i trickområdet</b>
+         </color>
+         <br/>
+            <b>    Tricket är låst</b>
+         <br/>
+         Tricket att göra en bakåtvolt är låst. Du måste slutföra träningen av föregående trick innan du kan låsa upp detta.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:DolphinFlipBack_complete_ltt">
+         <color r="255" g="248" b="178">
+            <b>Bakåtvolt i trickområdet</b>
+         </color>
+         <br/>
+            <b>    Träningen är slutförd</b>
+         <br/>
+         Träningen är slutförd. Djuret har tränats klart på det här tricket.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:DolphinFlipperSplash_ltt">
+         <color r="255" g="248" b="178">
+            <b>Plaska med fenorna i trickområdet</b>
+         </color>
+         <br/>
+         Klicka här om du vill träna delfinen att plaska med fenorna i trickområdet. Genom att träningen avslutas låses nästa trick upp.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:DolphinFlipperSplash_locked_ltt">
+         <color r="255" g="248" b="178">
+            <b>Plaska med fenorna i trickområdet</b>
+         </color>
+         <br/>
+            <b>    Tricket är låst</b>
+         <br/>
+         Tricket att plaska med fenorna är låst. Du måste slutföra träningen av föregående trick innan du kan låsa upp detta.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:DolphinFlipperSplash_complete_ltt">
+         <color r="255" g="248" b="178">
+            <b>Plaska med fenorna i trickområdet</b>
+         </color>
+         <br/>
+            <b>    Träningen är slutförd</b>
+         <br/>
+         Träningen är slutförd. Djuret har tränats klart på det här tricket.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:DolphinSpyhop_ltt">
+         <color r="255" g="248" b="178">
+            <b>Spyhop i trickområdet</b>
+         </color>
+         <br/>
+         Klicka här om du vill träna delfinen att göra ett spyhop i trickområdet.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:DolphinSpyhop_locked_ltt">
+         <color r="255" g="248" b="178">
+            <b>Spyhop i trickområdet</b>
+         </color>
+         <br/>
+            <b>    Tricket är låst</b>
+         <br/>
+         Tricket att göra ett spyhop är låst. Du måste slutföra träningen av föregående trick innan du kan låsa upp detta.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:DolphinSpyhop_complete_ltt">
+         <color r="255" g="248" b="178">
+            <b>Spyhop i trickområdet</b>
+         </color>
+         <br/>
+            <b>    Träningen är slutförd</b>
+         <br/>
+         Träningen är slutförd. Djuret har tränats klart på det här tricket.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:DolphinTailSplash_ltt">
+         <color r="255" g="248" b="178">
+            <b>Plaska med stjärtfenan i trickområdet</b>
+         </color>
+         <br/>
+         Klicka här om du vill träna delfinen att plaska med stjärtfenan i trickområdet.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:DolphinTailSplash_locked_ltt">
+         <color r="255" g="248" b="178">
+            <b>Plaska med stjärtfenan i trickområdet</b>
+         </color>
+         <br/>
+            <b>    Tricket är låst</b>
+         <br/>
+         Tricket att plaska med stjärtfenan är låst. Du måste slutföra träningen av föregående trick innan du kan låsa upp detta.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:DolphinTailSplash_complete_ltt">
+         <color r="255" g="248" b="178">
+            <b>Plaska med stjärtfenan i trickområdet</b>
+         </color>
+         <br/>
+            <b>    Träningen är slutförd</b>
+         <br/>
+         Träningen är slutförd. Djuret har tränats klart på det här tricket.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:DolphinCorkscrewTwist_ltt">
+         <color r="255" g="248" b="178">
+            <b>Snurra runt i trickområdet</b>
+         </color>
+         <br/>
+         Klicka här om du vill träna delfinen att snurra runt i trickområdet. Genom att träningen avslutas låses nästa trick upp.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:DolphinCorkscrewTwist_locked_ltt">
+         <color r="255" g="248" b="178">
+            <b>Snurra runt i trickområdet</b>
+         </color>
+         <br/>
+            <b>    Tricket är låst</b>
+         <br/>
+         Tricket att snurra runt är låst. Du måste slutföra träningen av föregående trick innan du kan låsa upp detta.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:DolphinCorkscrewTwist_complete_ltt">
+         <color r="255" g="248" b="178">
+            <b>Snurra runt i trickområdet</b>
+         </color>
+         <br/>
+            <b>    Träningen är slutförd</b>
+         <br/>
+         Träningen är slutförd. Djuret har tränats klart på det här tricket.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:DolphinWaterWalk_ltt">
+         <color r="255" g="248" b="178">
+            <b>Gå på vattnet i trickområdet</b>
+         </color>
+         <br/>
+         Klicka här om du vill träna delfinen att gå på vattnet i trickområdet. Genom att träningen avslutas låses nästa trick upp.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:DolphinWaterWalk_complete_ltt">
+         <color r="255" g="248" b="178">
+            <b>Gå på vattnet i trickområdet</b>
+         </color>
+         <br/>
+            <b>    Träningen är slutförd</b>
+         <br/>
+         Träningen är slutförd. Djuret har tränats klart på det här tricket.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:DolphinJumpHoop_ltt">
+         <color r="255" g="248" b="178">
+            <b>Hoppa genom ring</b>
+         </color>
+         <br/>
+         Klicka här om du vill träna delfinen att hoppa genom en ring. Genom att träningen avslutas låses nästa trick upp.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:DolphinJumpHoop_complete_ltt">
+         <color r="255" g="248" b="178">
+            <b>Hoppa genom ring</b>
+         </color>
+         <br/>
+            <b>    Träningen är slutförd</b>
+         <br/>
+         Träningen är slutförd. Djuret har tränats klart på det här tricket.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:DolphinJumpBar_ltt">
+         <color r="255" g="248" b="178">
+            <b>Hoppa över ribba</b>
+         </color>
+         <br/>
+         Klicka här om du vill träna delfinen att hoppa över en ribba. Genom att träningen avslutas låses nästa trick upp.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:DolphinJumpBar_complete_ltt">
+         <color r="255" g="248" b="178">
+            <b>Hoppa över ribba</b>
+         </color>
+         <br/>
+            <b>    Träningen är slutförd</b>
+         <br/>
+         Träningen är slutförd. Djuret har tränats klart på det här tricket.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:DolphinFlukeSwipeBall_ltt">
+         <color r="255" g="248" b="178">
+            <b>Slå till boll</b>
+         </color>
+         <br/>
+         Klicka här om du vill träna delfinen att slå till en boll. Genom att träningen avslutas låses nästa trick upp.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:DolphinFlukeSwipeBall_locked_ltt">
+         <color r="255" g="248" b="178">
+            <b>Slå till boll</b>
+         </color>
+         <br/>
+            <b>    Tricket är låst</b>
+         <br/>
+         Tricket att slå till en boll är låst. Du måste slutföra träningen av föregående trick innan du kan låsa upp detta.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:DolphinFlukeSwipeBall_complete_ltt">
+         <color r="255" g="248" b="178">
+            <b>Slå till boll</b>
+         </color>
+         <br/>
+            <b>    Träningen är slutförd</b>
+         <br/>
+         Träningen är slutförd. Djuret har tränats klart på det här tricket.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:DolphinRamBallOutOfWater_ltt">
+         <color r="255" g="248" b="178">
+            <b>Stöta boll</b>
+         </color>
+         <br/>
+         Klicka här om du vill träna delfinen att stöta en boll.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:DolphinRamBallOutOfWater_locked_ltt">
+         <color r="255" g="248" b="178">
+            <b>Stöta boll</b>
+         </color>
+         <br/>
+            <b>    Tricket är låst</b>
+         <br/>
+         Tricket att stöta en boll är låst. Du måste slutföra träningen av föregående trick innan du kan låsa upp detta.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:DolphinRamBallOutOfWater_complete_ltt">
+         <color r="255" g="248" b="178">
+            <b>Stöta boll</b>
+         </color>
+         <br/>
+            <b>    Träningen är slutförd</b>
+         <br/>
+         Träningen är slutförd. Djuret har tränats klart på det här tricket.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:DolphinFlukeSwipeTetherBall_ltt">
+         <color r="255" g="248" b="178">
+            <b>Slå till boll i snöre</b>
+         </color>
+         <br/>
+         Klicka här om du vill träna delfinen att slå till en boll i snöre. Genom att träningen avslutas låses nästa trick upp.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:DolphinFlukeSwipeTetherBall_locked_ltt">
+         <color r="255" g="248" b="178">
+            <b>Slå till boll i snöre</b>
+         </color>
+         <br/>
+            <b>    Tricket är låst</b>
+         <br/>
+         Tricket att slå till en boll i snöre är låst. Du måste slutföra träningen av föregående trick innan du kan låsa upp detta.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:DolphinFlukeSwipeTetherBall_complete_ltt">
+         <color r="255" g="248" b="178">
+            <b>Slå till boll i snöre</b>
+         </color>
+         <br/>
+            <b>    Träningen är slutförd</b>
+         <br/>
+         Träningen är slutförd. Djuret har tränats klart på det här tricket.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:DolphinRamTetherBall_ltt">
+         <color r="255" g="248" b="178">
+            <b>Stöta boll i snöre</b>
+         </color>
+         <br/>
+         Klicka här om du vill träna delfinen att stöta en boll i snöre.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:DolphinRamTetherBall_locked_ltt">
+         <color r="255" g="248" b="178">
+            <b>Stöta boll i snöre</b>
+         </color>
+         <br/>
+            <b>    Tricket är låst</b>
+         <br/>
+         Tricket att stöta en boll i snöre är låst. Du måste slutföra träningen av föregående trick innan du kan låsa upp detta.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:DolphinRamTetherBall_complete_ltt">
+         <color r="255" g="248" b="178">
+            <b>Stöta boll i snöre</b>
+         </color>
+         <br/>
+            <b>    Träningen är slutförd</b>
+         <br/>
+         Träningen är slutförd. Djuret har tränats klart på det här tricket.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:DolphinBeachSlidingPlatform_ltt">
+         <color r="255" g="248" b="178">
+            <b>Glida på ramp</b>
+         </color>
+         <br/>
+         Klicka här om du vill träna delfinen att glida på en ramp.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:DolphinBeachSlidingPlatform_complete_ltt">
+         <color r="255" g="248" b="178">
+            <b>Glida på ramp</b>
+         </color>
+         <br/>
+            <b>    Träningen är slutförd</b>
+         <br/>
+         Träningen är slutförd. Djuret har tränats klart på det här tricket.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:BelugaJump_ltt">
+         <color r="255" g="248" b="178">
+            <b>Hoppa i konstområdet</b>
+         </color>
+         <br/>
+         Klicka här om du vill träna vitvalen att hoppa i trickområdet. Genom att träningen avslutas låses nästa trick upp.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:BelugaJump_complete_ltt">
+         <color r="255" g="248" b="178">
+            <b>Hoppa i konstområdet</b>
+         </color>
+         <br/>
+            <b>    Träningen är slutförd</b>
+         <br/>
+         Träningen är slutförd. Djuret har tränats klart på det här tricket.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:BelugaFlipperSplash_ltt">
+         <color r="255" g="248" b="178">
+            <b>Plaska med fenorna i trickområdet</b>
+         </color>
+         <br/>
+         Klicka här om du vill träna vitvalen att plaska med fenorna i trickområdet. Genom att träningen avslutas låses nästa trick upp.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:BelugaFlipperSplash_locked_ltt">
+         <color r="255" g="248" b="178">
+            <b>Plaska med fenorna i trickområdet</b>
+         </color>
+         <br/>
+            <b>    Tricket är låst</b>
+         <br/>
+         Tricket att plaska med fenorna är låst. Du måste slutföra träningen av föregående trick innan du kan låsa upp detta.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:BelugaFlipperSplash_complete_ltt">
+         <color r="255" g="248" b="178">
+            <b>Plaska med fenorna i trickområdet</b>
+         </color>
+         <br/>
+            <b>    Träningen är slutförd</b>
+         <br/>
+         Träningen är slutförd. Djuret har tränats klart på det här tricket.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:BelugaSpyhop_ltt">
+         <color r="255" g="248" b="178">
+            <b>Spyhop i trickområdet</b>
+         </color>
+         <br/>
+         Klicka här om du vill träna vitvalen att göra ett spyhop i trickområdet. Genom att träningen avslutas låses nästa trick upp.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:BelugaSpyhop_locked_ltt">
+         <color r="255" g="248" b="178">
+            <b>Spyhop i trickområdet</b>
+         </color>
+         <br/>
+            <b>    Tricket är låst</b>
+         <br/>
+         Tricket att göra ett spyhop är låst. Du måste slutföra träningen av föregående trick innan du kan låsa upp detta.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:BelugaSpyhop_complete_ltt">
+         <color r="255" g="248" b="178">
+            <b>Spyhop i trickområdet</b>
+         </color>
+         <br/>
+            <b>    Träningen är slutförd</b>
+         <br/>
+         Träningen är slutförd. Djuret har tränats klart på det här tricket.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:BelugaTailSplash_ltt">
+         <color r="255" g="248" b="178">
+            <b>Plaska med stjärtfenan i trickområdet</b>
+         </color>
+         <br/>
+         Klicka här om du vill träna vitvalen att plaska med stjärtfenan i trickområdet.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:BelugaTailSplash_locked_ltt">
+         <color r="255" g="248" b="178">
+            <b>Plaska med stjärtfenan i trickområdet</b>
+         </color>
+         <br/>
+            <b>    Tricket är låst</b>
+         <br/>
+         Tricket att plaska med stjärtfenan är låst. Du måste slutföra träningen av föregående trick innan du kan låsa upp detta.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:BelugaTailSplash_complete_ltt">
+         <color r="255" g="248" b="178">
+            <b>Plaska med stjärtfenan i trickområdet</b>
+         </color>
+         <br/>
+            <b>    Träningen är slutförd</b>
+         <br/>
+         Träningen är slutförd. Djuret har tränats klart på det här tricket.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:BelugaSquirt_ltt">
+         <color r="255" g="248" b="178">
+            <b>Spruta vatten i trickområdet</b>
+         </color>
+         <br/>
+         Klicka här om du vill träna vitvalen att spruta vatten i trickområdet.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:BelugaSquirt_locked_ltt">
+         <color r="255" g="248" b="178">
+            <b>Spruta vatten i trickområdet</b>
+         </color>
+         <br/>
+            <b>    Tricket är låst</b>
+         <br/>
+         Tricket att spruta vatten är låst. Du måste slutföra träningen av föregående trick innan du kan låsa upp detta.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:BelugaSquirt_complete_ltt">
+         <color r="255" g="248" b="178">
+            <b>Spruta vatten i trickområdet</b>
+         </color>
+         <br/>
+            <b>    Träningen är slutförd</b>
+         <br/>
+         Träningen är slutförd. Djuret har tränats klart på det här tricket.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:BelugaFlukeSwipeBall_ltt">
+         <color r="255" g="248" b="178">
+            <b>Slå till boll</b>
+         </color>
+         <br/>
+         Klicka här om du vill träna vitvalen att slå till en boll.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:BelugaFlukeSwipeBall_complete_ltt">
+         <color r="255" g="248" b="178">
+            <b>Slå till boll</b>
+         </color>
+         <br/>
+            <b>    Träningen är slutförd</b>
+         <br/>
+         Träningen är slutförd. Djuret har tränats klart på det här tricket.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:BelugaRamBallOutOfWater_ltt">
+         <color r="255" g="248" b="178">
+            <b>Stöta boll</b>
+         </color>
+         <br/>
+         Klicka här om du vill träna vitvalen att stöta en boll.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:BelugaRamBallOutOfWater_locked_ltt">
+         <color r="255" g="248" b="178">
+            <b>Stöta boll</b>
+         </color>
+         <br/>
+            <b>    Tricket är låst</b>
+         <br/>
+         Tricket att stöta en boll är låst. Du måste slutföra träningen av föregående trick innan du kan låsa upp detta.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:BelugaRamBallOutOfWater_complete_ltt">
+         <color r="255" g="248" b="178">
+            <b>Stöta boll</b>
+         </color>
+         <br/>
+            <b>    Träningen är slutförd</b>
+         <br/>
+         Träningen är slutförd. Djuret har tränats klart på det här tricket.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleOrcaJump_ltt">
+         <color r="255" g="248" b="178">
+            <b>Hoppa i konstområdet</b>
+         </color>
+         <br/>
+         Klicka här om du vill träna späckhuggaren att hoppa i trickområdet. Genom att träningen avslutas låses nästa trick upp.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleOrcaJump_complete_ltt">
+         <color r="255" g="248" b="178">
+            <b>Hoppa i konstområdet</b>
+         </color>
+         <br/>
+            <b>    Träningen är slutförd</b>
+         <br/>
+         Träningen är slutförd. Djuret har tränats klart på det här tricket.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleOrcaJumpFallSide_ltt">
+         <color r="255" g="248" b="178">
+            <b>Falla i sidled i trickområdet</b>
+         </color>
+         <br/>
+         Klicka här om du vill träna späckhuggaren att falla i sidled i trickområdet. Genom att träningen avslutas låses nästa trick upp.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleOrcaJumpFallSide_locked_ltt">
+         <color r="255" g="248" b="178">
+            <b>Falla i sidled i trickområdet</b>
+         </color>
+         <br/>
+            <b>    Tricket är låst</b>
+         <br/>
+         Tricket att falla i sidled är låst. Du måste slutföra träningen av föregående trick innan du kan låsa upp detta.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleOrcaJumpFallSide_complete_ltt">
+         <color r="255" g="248" b="178">
+            <b>Falla i sidled i trickområdet</b>
+         </color>
+         <br/>
+            <b>    Träningen är slutförd</b>
+         <br/>
+         Träningen är slutförd. Djuret har tränats klart på det här tricket.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleOrcaStraightUpJump_ltt">
+         <color r="255" g="248" b="178">
+            <b>Lodrätt hopp i trickområdet</b>
+         </color>
+         <br/>
+         Klicka här om du vill träna späckhuggaren att hoppa lodrätt i trickområdet.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleOrcaStraightUpJump_locked_ltt">
+         <color r="255" g="248" b="178">
+            <b>Lodrätt hopp i trickområdet</b>
+         </color>
+         <br/>
+            <b>    Tricket är låst</b>
+         <br/>
+         Tricket att hoppa lodrätt är låst. Du måste slutföra träningen av föregående trick innan du kan låsa upp detta.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleOrcaStraightUpJump_complete_ltt">
+         <color r="255" g="248" b="178">
+            <b>Lodrätt hopp i trickområdet</b>
+         </color>
+         <br/>
+            <b>    Träningen är slutförd</b>
+         <br/>
+         Träningen är slutförd. Djuret har tränats klart på det här tricket.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleOrcaFlipForward_ltt">
+         <color r="255" g="248" b="178">
+            <b>Framåtvolt i trickområdet</b>
+         </color>
+         <br/>
+         Klicka här om du vill träna späckhuggaren att göra en framåtvolt i trickområdet.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleOrcaFlipForward_locked_ltt">
+         <color r="255" g="248" b="178">
+            <b>Framåtvolt i trickområdet</b>
+         </color>
+         <br/>
+            <b>    Tricket är låst</b>
+         <br/>
+         Tricket att göra en framåtvolt är låst. Du måste slutföra träningen av föregående trick innan du kan låsa upp detta.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleOrcaFlipForward_complete_ltt">
+         <color r="255" g="248" b="178">
+            <b>Framåtvolt i trickområdet</b>
+         </color>
+         <br/>
+            <b>    Träningen är slutförd</b>
+         <br/>
+         Träningen är slutförd. Djuret har tränats klart på det här tricket.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleOrcaFlipperSplash_ltt">
+         <color r="255" g="248" b="178">
+            <b>Plaska med fenorna i trickområdet</b>
+         </color>
+         <br/>
+         Klicka här om du vill träna späckhuggaren att plaska med fenorna i trickområdet. Genom att träningen avslutas låses nästa trick upp.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleOrcaFlipperSplash_locked_ltt">
+         <color r="255" g="248" b="178">
+            <b>Plaska med fenorna i trickområdet</b>
+         </color>
+         <br/>
+            <b>    Tricket är låst</b>
+         <br/>
+         Tricket att plaska med fenorna är låst. Du måste slutföra träningen av föregående trick innan du kan låsa upp detta.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleOrcaFlipperSplash_complete_ltt">
+         <color r="255" g="248" b="178">
+            <b>Plaska med fenorna i trickområdet</b>
+         </color>
+         <br/>
+            <b>    Träningen är slutförd</b>
+         <br/>
+         Träningen är slutförd. Djuret har tränats klart på det här tricket.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleOrcaSpyhop_ltt">
+         <color r="255" g="248" b="178">
+            <b>Spyhop i trickområdet</b>
+         </color>
+         <br/>
+         Klicka här om du vill träna späckhuggaren att göra ett spyhop i trickområdet. Genom att träningen avslutas låses nästa trick upp.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleOrcaSpyhop_locked_ltt">
+         <color r="255" g="248" b="178">
+            <b>Spyhop i trickområdet</b>
+         </color>
+         <br/>
+            <b>    Tricket är låst</b>
+         <br/>
+         Tricket att göra ett spyhop är låst. Du måste slutföra träningen av föregående trick innan du kan låsa upp detta.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleOrcaSpyhop_complete_ltt">
+         <color r="255" g="248" b="178">
+            <b>Spyhop i trickområdet</b>
+         </color>
+         <br/>
+            <b>    Träningen är slutförd</b>
+         <br/>
+         Träningen är slutförd. Djuret har tränats klart på det här tricket.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleOrcaTailSplash_ltt">
+         <color r="255" g="248" b="178">
+            <b>Plaska med stjärtfenan i trickområdet</b>
+         </color>
+         <br/>
+         Klicka här om du vill träna späckhuggaren att plaska med stjärtfenan i trickområdet.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleOrcaTailSplash_locked_ltt">
+         <color r="255" g="248" b="178">
+            <b>Plaska med stjärtfenan i trickområdet</b>
+         </color>
+         <br/>
+            <b>    Tricket är låst</b>
+         <br/>
+         Tricket att plaska med stjärtfenan är låst. Du måste slutföra träningen av föregående trick innan du kan låsa upp detta.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleOrcaTailSplash_complete_ltt">
+         <color r="255" g="248" b="178">
+            <b>Plaska med stjärtfenan i trickområdet</b>
+         </color>
+         <br/>
+            <b>    Träningen är slutförd</b>
+         <br/>
+         Träningen är slutförd. Djuret har tränats klart på det här tricket.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleOrcaFlukeSwipeBall_ltt">
+         <color r="255" g="248" b="178">
+            <b>Slå till boll</b>
+         </color>
+         <br/>
+         Klicka här om du vill träna späckhuggaren att slå till en boll. Genom att träningen avslutas låses nästa trick upp.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleOrcaFlukeSwipeBall_complete_ltt">
+         <color r="255" g="248" b="178">
+            <b>Slå till boll</b>
+         </color>
+         <br/>
+            <b>    Träningen är slutförd</b>
+         <br/>
+         Träningen är slutförd. Djuret har tränats klart på det här tricket.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleOrcaRamBallOutOfWater_ltt">
+         <color r="255" g="248" b="178">
+            <b>Stöta boll</b>
+         </color>
+         <br/>
+         Klicka här om du vill träna späckhuggaren att stöta en boll.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleOrcaRamBallOutOfWater_locked_ltt">
+         <color r="255" g="248" b="178">
+            <b>Stöta boll</b>
+         </color>
+         <br/>
+            <b>    Tricket är låst</b>
+         <br/>
+         Tricket att stöta en boll är låst. Du måste slutföra träningen av föregående trick innan du kan låsa upp detta.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleOrcaRamBallOutOfWater_complete_ltt">
+         <color r="255" g="248" b="178">
+            <b>Stöta boll</b>
+         </color>
+         <br/>
+            <b>    Träningen är slutförd</b>
+         <br/>
+         Träningen är slutförd. Djuret har tränats klart på det här tricket.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleOrcaBeachSlidingPlatform_ltt">
+         <color r="255" g="248" b="178">
+            <b>Glida på ramp</b>
+         </color>
+         <br/>
+         Klicka här om du vill träna späckhuggaren att glida på en ramp.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleOrcaBeachSlidingPlatform_complete_ltt">
+         <color r="255" g="248" b="178">
+            <b>Glida på ramp</b>
+         </color>
+         <br/>
+            <b>    Träningen är slutförd</b>
+         <br/>
+         Träningen är slutförd. Djuret har tränats klart på det här tricket.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleFalseKillerJump_ltt">
+         <color r="255" g="248" b="178">
+            <b>Hoppa i konstområdet</b>
+         </color>
+         <br/>
+         Klicka här om du vill träna halvspäckhuggaren att hoppa i trickområdet. Genom att träningen avslutas låses nästa trick upp.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleFalseKillerJump_complete_ltt">
+         <color r="255" g="248" b="178">
+            <b>Hoppa i konstområdet</b>
+         </color>
+         <br/>
+            <b>    Träningen är slutförd</b>
+         <br/>
+         Träningen är slutförd. Djuret har tränats klart på det här tricket.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleFalseKillerJumpFallSide_ltt">
+         <color r="255" g="248" b="178">
+            <b>Falla i sidled i trickområdet</b>
+         </color>
+         <br/>
+         Klicka här om du vill träna halvspäckhuggaren att falla i sidled i trickområdet.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleFalseKillerJumpFallSide_locked_ltt">
+         <color r="255" g="248" b="178">
+            <b>Falla i sidled i trickområdet</b>
+         </color>
+         <br/>
+            <b>    Tricket är låst</b>
+         <br/>
+         Tricket att falla i sidled är låst. Du måste slutföra träningen av föregående trick innan du kan låsa upp detta.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleFalseKillerJumpFallSide_complete_ltt">
+         <color r="255" g="248" b="178">
+            <b>Falla i sidled i trickområdet</b>
+         </color>
+         <br/>
+            <b>    Träningen är slutförd</b>
+         <br/>
+         Träningen är slutförd. Djuret har tränats klart på det här tricket.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleFalseKillerStraightUpJump_ltt">
+         <color r="255" g="248" b="178">
+            <b>Lodrätt hopp i trickområdet</b>
+         </color>
+         <br/>
+         Klicka här om du vill träna halvspäckhuggaren att falla i sidled i trickområdet. Genom att träningen avslutas låses nästa trick upp.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleFalseKillerStraightUpJump_locked_ltt">
+         <color r="255" g="248" b="178">
+            <b>Lodrätt hopp i trickområdet</b>
+         </color>
+         <br/>
+            <b>    Tricket är låst</b>
+         <br/>
+         Tricket att hoppa lodrätt är låst. Du måste slutföra träningen av föregående trick innan du kan låsa upp detta.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleFalseKillerStraightUpJump_complete_ltt">
+         <color r="255" g="248" b="178">
+            <b>Lodrätt hopp i trickområdet</b>
+         </color>
+         <br/>
+            <b>    Träningen är slutförd</b>
+         <br/>
+         Träningen är slutförd. Djuret har tränats klart på det här tricket.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleFalseKillerDiveJump_ltt">
+         <color r="255" g="248" b="178">
+            <b>Dyka i trickområdet</b>
+         </color>
+         <br/>
+         Klicka här om du vill träna halvspäckhuggaren att dyka i trickområdet.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleFalseKillerDiveJump_locked_ltt">
+         <color r="255" g="248" b="178">
+            <b>Dyka i trickområdet</b>
+         </color>
+         <br/>
+            <b>    Tricket är låst</b>
+         <br/>
+         Tricket att dyka är låst. Du måste slutföra träningen av föregående trick innan du kan låsa upp detta.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleFalseKillerDiveJump_complete_ltt">
+         <color r="255" g="248" b="178">
+            <b>Dyka i trickområdet</b>
+         </color>
+         <br/>
+            <b>    Träningen är slutförd</b>
+         <br/>
+         Träningen är slutförd. Djuret har tränats klart på det här tricket.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleFalseKillerFlipperSplash_ltt">
+         <color r="255" g="248" b="178">
+            <b>Plaska med fenorna i trickområdet</b>
+         </color>
+         <br/>
+         Klicka här om du vill träna halvspäckhuggaren att plaska med fenorna i trickområdet. Genom att träningen avslutas låses nästa trick upp.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleFalseKillerFlipperSplash_locked_ltt">
+         <color r="255" g="248" b="178">
+            <b>Plaska med fenorna i trickområdet</b>
+         </color>
+         <br/>
+            <b>    Tricket är låst</b>
+         <br/>
+         Tricket att plaska med fenorna är låst. Du måste slutföra träningen av föregående trick innan du kan låsa upp detta.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleFalseKillerFlipperSplash_complete_ltt">
+         <color r="255" g="248" b="178">
+            <b>Plaska med fenorna i trickområdet</b>
+         </color>
+         <br/>
+            <b>    Träningen är slutförd</b>
+         <br/>
+         Träningen är slutförd. Djuret har tränats klart på det här tricket.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleFalseKillerSpyhop_ltt">
+         <color r="255" g="248" b="178">
+            <b>Spyhop i trickområdet</b>
+         </color>
+         <br/>
+         Klicka här om du vill träna halvspäckhuggaren att göra ett spyhop i trickområdet. Genom att träningen avslutas låses nästa trick upp.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleFalseKillerSpyhop_locked_ltt">
+         <color r="255" g="248" b="178">
+            <b>Spyhop i trickområdet</b>
+         </color>
+         <br/>
+            <b>    Tricket är låst</b>
+         <br/>
+         Tricket att göra ett spyhop är låst. Du måste slutföra träningen av föregående trick innan du kan låsa upp detta.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleFalseKillerSpyhop_complete_ltt">
+         <color r="255" g="248" b="178">
+            <b>Spyhop i trickområdet</b>
+         </color>
+         <br/>
+            <b>    Träningen är slutförd</b>
+         <br/>
+         Träningen är slutförd. Djuret har tränats klart på det här tricket.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleFalseKillerTailSplash_ltt">
+         <color r="255" g="248" b="178">
+            <b>Plaska med stjärtfenan i trickområdet</b>
+         </color>
+         <br/>
+         Klicka här om du vill träna halvspäckhuggaren att plaska med stjärtfenan i trickområdet.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleFalseKillerTailSplash_locked_ltt">
+         <color r="255" g="248" b="178">
+            <b>Plaska med stjärtfenan i trickområdet</b>
+         </color>
+         <br/>
+            <b>    Tricket är låst</b>
+         <br/>
+         Tricket att plaska med stjärtfenan är låst. Du måste slutföra träningen av föregående trick innan du kan låsa upp detta.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleFalseKillerTailSplash_complete_ltt">
+         <color r="255" g="248" b="178">
+            <b>Plaska med stjärtfenan i trickområdet</b>
+         </color>
+         <br/>
+            <b>    Träningen är slutförd</b>
+         <br/>
+         Träningen är slutförd. Djuret har tränats klart på det här tricket.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleFalseKillerJumpHoop_ltt">
+         <color r="255" g="248" b="178">
+            <b>Hoppa genom ring</b>
+         </color>
+         <br/>
+         Klicka här om du vill träna halvspäckhuggaren att hoppa genom ring. Genom att träningen avslutas låses nästa trick upp.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleFalseKillerJumpHoop_complete_ltt">
+         <color r="255" g="248" b="178">
+            <b>Hoppa genom ring</b>
+         </color>
+         <br/>
+            <b>    Träningen är slutförd</b>
+         <br/>
+         Träningen är slutförd. Djuret har tränats klart på det här tricket.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleFalseKillerJumpBar_ltt">
+         <color r="255" g="248" b="178">
+            <b>Hoppa över ribba</b>
+         </color>
+         <br/>
+         Klicka här om du vill träna halvspäckhuggaren att hoppa över en ribba.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleFalseKillerJumpBar_complete_ltt">
+         <color r="255" g="248" b="178">
+            <b>Hoppa över ribba</b>
+         </color>
+         <br/>
+            <b>    Träningen är slutförd</b>
+         <br/>
+         Träningen är slutförd. Djuret har tränats klart på det här tricket.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleFalseKillerFlukeSwipeBall_ltt">
+         <color r="255" g="248" b="178">
+            <b>Slå till boll</b>
+         </color>
+         <br/>
+         Klicka här om du vill träna halvspäckhuggaren att slå till en boll.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleFalseKillerFlukeSwipeBall_complete_ltt">
+         <color r="255" g="248" b="178">
+            <b>Slå till boll</b>
+         </color>
+         <br/>
+            <b>    Träningen är slutförd</b>
+         <br/>
+         Träningen är slutförd. Djuret har tränats klart på det här tricket.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleFalseKillerRamBallOutOfWater_ltt">
+         <color r="255" g="248" b="178">
+            <b>Stöta boll</b>
+         </color>
+         <br/>
+         Klicka här om du vill träna halvspäckhuggaren att stöta en boll.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleFalseKillerRamBallOutOfWater_locked_ltt">
+         <color r="255" g="248" b="178">
+            <b>Stöta boll</b>
+         </color>
+         <br/>
+            <b>    Tricket är låst</b>
+         <br/>
+         Tricket att stöta en boll är låst. Du måste slutföra träningen av föregående trick innan du kan låsa upp detta.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleFalseKillerRamBallOutOfWater_complete_ltt">
+         <color r="255" g="248" b="178">
+            <b>Stöta boll</b>
+         </color>
+         <br/>
+            <b>    Träningen är slutförd</b>
+         <br/>
+         Träningen är slutförd. Djuret har tränats klart på det här tricket.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleFalseKillerBeachSlidingPlatform_ltt">
+         <color r="255" g="248" b="178">
+            <b>Glida på ramp</b>
+         </color>
+         <br/>
+         Klicka här om du vill träna halvspäckhuggaren att glida på en ramp.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhaleFalseKillerBeachSlidingPlatform_complete_ltt">
+         <color r="255" g="248" b="178">
+            <b>Glida på ramp</b>
+         </color>
+         <br/>
+            <b>    Träningen är slutförd</b>
+         <br/>
+         Träningen är slutförd. Djuret har tränats klart på det här tricket.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhalePilotShortFinnedJump_ltt">
+         <color r="255" g="248" b="178">
+            <b>Hoppa i konstområdet</b>
+         </color>
+         <br/>
+         Klicka här om du vill träna pilotvalen att hoppa i trickområdet. Genom att träningen avslutas låses nästa trick upp.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhalePilotShortFinnedJump_complete_ltt">
+         <color r="255" g="248" b="178">
+            <b>Hoppa i konstområdet</b>
+         </color>
+         <br/>
+            <b>    Träningen är slutförd</b>
+         <br/>
+         Träningen är slutförd. Djuret har tränats klart på det här tricket.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhalePilotShortFinnedJumpFallSide_ltt">
+         <color r="255" g="248" b="178">
+            <b>Falla i sidled i trickområdet</b>
+         </color>
+         <br/>
+         Klicka här om du vill träna pilotvalen att falla i sidled i trickområdet.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhalePilotShortFinnedJumpFallSide_locked_ltt">
+         <color r="255" g="248" b="178">
+            <b>Falla i sidled i trickområdet</b>
+         </color>
+         <br/>
+            <b>    Tricket är låst</b>
+         <br/>
+         Tricket att falla i sidled är låst. Du måste slutföra träningen av föregående trick innan du kan låsa upp detta.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhalePilotShortFinnedJumpFallSide_complete_ltt">
+         <color r="255" g="248" b="178">
+            <b>Falla i sidled i trickområdet</b>
+         </color>
+         <br/>
+            <b>    Träningen är slutförd</b>
+         <br/>
+         Träningen är slutförd. Djuret har tränats klart på det här tricket.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhalePilotShortFinnedStraightUpJump_ltt">
+         <color r="255" g="248" b="178">
+            <b>Lodrätt hopp i trickområdet</b>
+         </color>
+         <br/>
+         Klicka här om du vill träna pilotvalen att hoppa lodrätt i trickområdet.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhalePilotShortFinnedStraightUpJump_locked_ltt">
+         <color r="255" g="248" b="178">
+            <b>Lodrätt hopp i trickområdet</b>
+         </color>
+         <br/>
+            <b>    Tricket är låst</b>
+         <br/>
+         Tricket att hoppa lodrätt är låst. Du måste slutföra träningen av föregående trick innan du kan låsa upp detta.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhalePilotShortFinnedStraightUpJump_complete_ltt">
+         <color r="255" g="248" b="178">
+            <b>Lodrätt hopp i trickområdet</b>
+         </color>
+         <br/>
+            <b>    Träningen är slutförd</b>
+         <br/>
+         Träningen är slutförd. Djuret har tränats klart på det här tricket.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhalePilotShortFinnedFlipperSplash_ltt">
+         <color r="255" g="248" b="178">
+            <b>Plaska med fenorna i trickområdet</b>
+         </color>
+         <br/>
+         Klicka här om du vill träna pilotvalen att plaska med fenorna i trickområdet. Genom att träningen avslutas låses nästa trick upp.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhalePilotShortFinnedFlipperSplash_locked_ltt">
+         <color r="255" g="248" b="178">
+            <b>Plaska med fenorna i trickområdet</b>
+         </color>
+         <br/>
+            <b>    Tricket är låst</b>
+         <br/>
+         Tricket att plaska med fenorna är låst. Du måste slutföra träningen av föregående trick innan du kan låsa upp detta.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhalePilotShortFinnedFlipperSplash_complete_ltt">
+         <color r="255" g="248" b="178">
+            <b>Plaska med fenorna i trickområdet</b>
+         </color>
+         <br/>
+            <b>    Träningen är slutförd</b>
+         <br/>
+         Träningen är slutförd. Djuret har tränats klart på det här tricket.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhalePilotShortFinnedSpyhop_ltt">
+         <color r="255" g="248" b="178">
+            <b>Spyhop i trickområdet</b>
+         </color>
+         <br/>
+         Klicka här om du vill träna pilotvalen att göra ett spyhop i trickområdet. Genom att träningen avslutas låses nästa trick upp.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhalePilotShortFinnedSpyhop_locked_ltt">
+         <color r="255" g="248" b="178">
+            <b>Spyhop i trickområdet</b>
+         </color>
+         <br/>
+            <b>    Tricket är låst</b>
+         <br/>
+         Tricket att göra ett spyhop är låst. Du måste slutföra träningen av föregående trick innan du kan låsa upp detta.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhalePilotShortFinnedSpyhop_complete_ltt">
+         <color r="255" g="248" b="178">
+            <b>Spyhop i trickområdet</b>
+         </color>
+         <br/>
+            <b>    Träningen är slutförd</b>
+         <br/>
+         Träningen är slutförd. Djuret har tränats klart på det här tricket.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhalePilotShortFinnedTailSplash_ltt">
+         <color r="255" g="248" b="178">
+            <b>Plaska med stjärtfenan i trickområdet</b>
+         </color>
+         <br/>
+         Klicka här om du vill träna pilotvalen att plaska med stjärtfenan i trickområdet.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhalePilotShortFinnedTailSplash_locked_ltt">
+         <color r="255" g="248" b="178">
+            <b>Plaska med stjärtfenan i trickområdet</b>
+         </color>
+         <br/>
+            <b>    Tricket är låst</b>
+         <br/>
+         Tricket att plaska med stjärtfenan är låst. Du måste slutföra träningen av föregående trick innan du kan låsa upp detta.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhalePilotShortFinnedTailSplash_complete_ltt">
+         <color r="255" g="248" b="178">
+            <b>Plaska med stjärtfenan i trickområdet</b>
+         </color>
+         <br/>
+            <b>    Träningen är slutförd</b>
+         <br/>
+         Träningen är slutförd. Djuret har tränats klart på det här tricket.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhalePilotShortFinnedJumpHoop_ltt">
+         <color r="255" g="248" b="178">
+            <b>Hoppa genom ring</b>
+         </color>
+         <br/>
+         Klicka här om du vill träna pilotvalen att hoppa genom en ring. Genom att träningen avslutas låses nästa trick upp.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhalePilotShortFinnedJumpHoop_complete_ltt">
+         <color r="255" g="248" b="178">
+            <b>Hoppa genom ring</b>
+         </color>
+         <br/>
+            <b>    Träningen är slutförd</b>
+         <br/>
+         Träningen är slutförd. Djuret har tränats klart på det här tricket.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhalePilotShortFinnedJumpBar_ltt">
+         <color r="255" g="248" b="178">
+            <b>Hoppa över ribba</b>
+         </color>
+         <br/>
+         Klicka här om du vill träna pilotvalen att hoppa över en ribba.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhalePilotShortFinnedJumpBar_complete_ltt">
+         <color r="255" g="248" b="178">
+            <b>Hoppa över ribba</b>
+         </color>
+         <br/>
+            <b>    Träningen är slutförd</b>
+         <br/>
+         Träningen är slutförd. Djuret har tränats klart på det här tricket.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhalePilotShortFinnedFlukeSwipeBall_ltt">
+         <color r="255" g="248" b="178">
+            <b>Slå till boll</b>
+         </color>
+         <br/>
+         Klicka här om du vill träna pilotvalen att slå till en boll. Genom att träningen avslutas låses nästa trick upp.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhalePilotShortFinnedFlukeSwipeBall_complete_ltt">
+         <color r="255" g="248" b="178">
+            <b>Slå till boll</b>
+         </color>
+         <br/>
+            <b>    Träningen är slutförd</b>
+         <br/>
+         Träningen är slutförd. Djuret har tränats klart på det här tricket.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhalePilotShortFinnedRamBallOutOfWater_ltt">
+         <color r="255" g="248" b="178">
+            <b>Stöta boll</b>
+         </color>
+         <br/>
+         Klicka här om du vill träna pilotvalen att stöta en boll.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhalePilotShortFinnedRamBallOutOfWater_locked_ltt">
+         <color r="255" g="248" b="178">
+            <b>Stöta boll</b>
+         </color>
+         <br/>
+            <b>    Tricket är låst</b>
+         <br/>
+         Tricket att stöta en boll är låst. Du måste slutföra träningen av föregående trick innan du kan låsa upp detta.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WhalePilotShortFinnedRamBallOutOfWater_complete_ltt">
+         <color r="255" g="248" b="178">
+            <b>Stöta boll</b>
+         </color>
+         <br/>
+            <b>    Träningen är slutförd</b>
+         <br/>
+         Träningen är slutförd. Djuret har tränats klart på det här tricket.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:SeaLionCaliforniaJump_ltt">
+         <color r="255" g="248" b="178">
+            <b>Hoppa i konstområdet</b>
+         </color>
+         <br/>
+         Klicka här om du vill träna sjölejonet att hoppa i trickområdet.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:SeaLionCaliforniaJump_complete_ltt">
+         <color r="255" g="248" b="178">
+            <b>Hoppa i konstområdet</b>
+         </color>
+         <br/>
+            <b>    Träningen är slutförd</b>
+         <br/>
+         Träningen är slutförd. Djuret har tränats klart på det här tricket.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:SeaLionCaliforniaSlide_ltt">
+         <color r="255" g="248" b="178">
+            <b>Åka rutschkana</b>
+         </color>
+         <br/>
+         Klicka här om du vill träna sjölejonet att glida på en ramp.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:SeaLionCaliforniaSlide_complete_ltt">
+         <color r="255" g="248" b="178">
+            <b>Åka rutschkana</b>
+         </color>
+         <br/>
+            <b>    Träningen är slutförd</b>
+         <br/>
+         Träningen är slutförd. Djuret har tränats klart på det här tricket.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:SeaLionCaliforniaSwing_ltt">
+         <color r="255" g="248" b="178">
+            <b>Gunga på gunga</b>
+         </color>
+         <br/>
+         Klicka här om du vill träna sjölejonet att gunga på en gunga.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:SeaLionCaliforniaSwing_locked_ltt">
+         <color r="255" g="248" b="178">
+            <b>Gunga på gunga</b>
+         </color>
+         <br/>
+            <b>    Tricket är låst</b>
+         <br/>
+         Tricket att gunga är låst. Du måste slutföra träningen av föregående trick innan du kan låsa upp detta.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:SeaLionCaliforniaSwing_complete_ltt">
+         <color r="255" g="248" b="178">
+            <b>Gunga på gunga</b>
+         </color>
+         <br/>
+            <b>    Träningen är slutförd</b>
+         <br/>
+         Träningen är slutförd. Djuret har tränats klart på det här tricket.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:SeaLionCaliforniaSeat_ltt">
+         <color r="255" g="248" b="178">
+            <b>Sitta på plats</b>
+         </color>
+         <br/>
+         Klicka här om du vill träna sjölejonet att sitta på en plats.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:SeaLionCaliforniaSeat_complete_ltt">
+         <color r="255" g="248" b="178">
+            <b>Sitta på plats</b>
+         </color>
+         <br/>
+            <b>    Träningen är slutförd</b>
+         <br/>
+         Träningen är slutförd. Djuret har tränats klart på det här tricket.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:SeaLionCaliforniaHorns_ltt">
+         <color r="255" g="248" b="178">
+            <b>Blåsa i horn</b>
+         </color>
+         <br/>
+         Klicka här om du vill träna sjölejonet att blåsa i horn.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:SeaLionCaliforniaHorns_locked_ltt">
+         <color r="255" g="248" b="178">
+            <b>Blåsa i horn</b>
+         </color>
+         <br/>
+            <b>    Tricket är låst</b>
+         <br/>
+         Tricket att blåsa i horn är låst. Du måste slutföra träningen av föregående trick innan du kan låsa upp detta.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:SeaLionCaliforniaHorns_complete_ltt">
+         <color r="255" g="248" b="178">
+            <b>Blåsa i horn</b>
+         </color>
+         <br/>
+            <b>    Träningen är slutförd</b>
+         <br/>
+         Träningen är slutförd. Djuret har tränats klart på det här tricket.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:SeaLionCaliforniaBall_ltt">
+         <color r="255" g="248" b="178">
+            <b>Balansera boll</b>
+         </color>
+         <br/>
+         Klicka här om du vill träna sjölejonet att balansera en boll.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:SeaLionCaliforniaBall_complete_ltt">
+         <color r="255" g="248" b="178">
+            <b>Balansera boll</b>
+         </color>
+         <br/>
+            <b>    Träningen är slutförd</b>
+         <br/>
+         Träningen är slutförd. Djuret har tränats klart på det här tricket.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:SeaLionCaliforniaTrampoline_ltt">
+         <color r="255" g="248" b="178">
+            <b>Hoppa trampolin</b>
+         </color>
+         <br/>
+         Klicka här om du vill träna sjölejonet att hoppa på en trampolin.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:SeaLionCaliforniaTrampoline_locked_ltt">
+         <color r="255" g="248" b="178">
+            <b>Hoppa trampolin</b>
+         </color>
+         <br/>
+            <b>    Tricket är låst</b>
+         <br/>
+         Tricket att hoppa trampolin är låst. Du måste slutföra träningen av föregående trick innan du kan låsa upp detta.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:SeaLionCaliforniaTrampoline_complete_ltt">
+         <color r="255" g="248" b="178">
+            <b>Hoppa trampolin</b>
+         </color>
+         <br/>
+            <b>    Träningen är slutförd</b>
+         <br/>
+         Träningen är slutförd. Djuret har tränats klart på det här tricket.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:SeaLionCaliforniaBasketball_ltt">
+         <color r="255" g="248" b="178">
+            <b>Spela basket med basketkorg</b>
+         </color>
+         <br/>
+         Klicka här om du vill träna sjölejonet att spela basket med en basketkorg.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:SeaLionCaliforniaBasketball_locked_ltt">
+         <color r="255" g="248" b="178">
+            <b>Spela basket</b>
+         </color>
+         <br/>
+            <b>    Tricket är låst</b>
+         <br/>
+         Tricket att spela basket är låst. Du måste slutföra träningen av föregående trick innan du kan låsa upp detta.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:SeaLionCaliforniaBasketball_complete_ltt">
+         <color r="255" g="248" b="178">
+            <b>Spela basket med basketkorg</b>
+         </color>
+         <br/>
+            <b>    Träningen är slutförd</b>
+         <br/>
+         Träningen är slutförd. Djuret har tränats klart på det här tricket.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WalrusPacificJump_ltt">
+         <color r="255" g="248" b="178">
+            <b>Hoppa i konstområdet</b>
+         </color>
+         <br/>
+         Klicka här om du vill träna valrossen att hoppa i trickområdet.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WalrusPacificJump_complete_ltt">
+         <color r="255" g="248" b="178">
+            <b>Hoppa i konstområdet</b>
+         </color>
+         <br/>
+            <b>    Träningen är slutförd</b>
+         <br/>
+         Träningen är slutförd. Djuret har tränats klart på det här tricket.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WalrusPacificSeat_ltt">
+         <color r="255" g="248" b="178">
+            <b>Sitta på plats</b>
+         </color>
+         <br/>
+         Klicka här om du vill träna valrossen att sitta på en plats.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WalrusPacificSeat_locked_ltt">
+         <color r="255" g="248" b="178">
+            <b>Sitta på plats</b>
+         </color>
+         <br/>
+            <b>    Tricket är låst</b>
+         <br/>
+         Tricket att sitta på en plats är låst. Du måste slutföra träningen av föregående trick innan du kan låsa upp detta.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WalrusPacificSeat_complete_ltt">
+         <color r="255" g="248" b="178">
+            <b>Sitta på plats</b>
+         </color>
+         <br/>
+            <b>    Träningen är slutförd</b>
+         <br/>
+         Träningen är slutförd. Djuret har tränats klart på det här tricket.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WalrusPacificBellow_ltt">
+         <color r="255" g="248" b="178">
+            <b>Vråla på trickscenen</b>
+         </color>
+         <br/>
+         Klicka här om du vill träna valrossen att vråla på trickscenen.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WalrusPacificBellow_locked_ltt">
+         <color r="255" g="248" b="178">
+            <b>Vråla på trickscenen</b>
+         </color>
+         <br/>
+            <b>    Tricket är låst</b>
+         <br/>
+         Tricket att vråla är låst. Du måste slutföra träningen av föregående trick innan du kan låsa upp detta.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:WalrusPacificBellow_complete_ltt">
+         <color r="255" g="248" b="178">
+            <b>Vråla på trickscenen</b>
+         </color>
+         <br/>
+            <b>    Träningen är slutförd</b>
+         <br/>
+         Träningen är slutförd. Djuret har tränats klart på det här tricket.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:OtterSeaJump_ltt">
+         <color r="255" g="248" b="178">
+            <b>Hoppa i konstområdet</b>
+         </color>
+         <br/>
+         Klicka här om du vill träna havsuttern att hoppa i trickområdet.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:OtterSeaJump_complete_ltt">
+         <color r="255" g="248" b="178">
+            <b>Hoppa i konstområdet</b>
+         </color>
+         <br/>
+            <b>    Träningen är slutförd</b>
+         <br/>
+         Träningen är slutförd. Djuret har tränats klart på det här tricket.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:OtterSeaShakerToy_ltt">
+         <color r="255" g="248" b="178">
+            <b>Öppna skakleksaken</b>
+         </color>
+         <br/>
+         Klicka här om du vill träna havsuttern att öppna skakleksaken.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:OtterSeaShakerToy_locked_ltt">
+         <color r="255" g="248" b="178">
+            <b>Öppna skakleksaken</b>
+         </color>
+         <br/>
+            <b>    Tricket är låst</b>
+         <br/>
+         Tricket att öppna skakleksaken är låst. Du måste slutföra träningen av föregående trick innan du kan låsa upp detta.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:OtterSeaShakerToy_complete_ltt">
+         <color r="255" g="248" b="178">
+            <b>Öppna skakleksaken</b>
+         </color>
+         <br/>
+            <b>    Träningen är slutförd</b>
+         <br/>
+         Träningen är slutförd. Djuret har tränats klart på det här tricket.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:OtterSeaForage_ltt">
+         <color r="255" g="248" b="178">
+            <b>Äta i hög med stenar</b>
+         </color>
+         <br/>
+         Klicka här om du vill träna havsuttern att äta i en hög med stenar.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:OtterSeaForage_locked_ltt">
+         <color r="255" g="248" b="178">
+            <b>Äta i hög med stenar</b>
+         </color>
+         <br/>
+            <b>    Tricket är låst</b>
+         <br/>
+         Tricket att äta är låst. Du måste slutföra träningen av föregående trick innan du kan låsa upp detta.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:OtterSeaForage_complete_ltt">
+         <color r="255" g="248" b="178">
+            <b>Äta i hög med stenar</b>
+         </color>
+         <br/>
+            <b>    Träningen är slutförd</b>
+         <br/>
+         Träningen är slutförd. Djuret har tränats klart på det här tricket.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:OtterSeaSeat_ltt">
+         <color r="255" g="248" b="178">
+            <b>Se söt ut</b>
+         </color>
+         <br/>
+         Klicka här om du vill träna havsuttern att se söt ut.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:OtterSeaSeat_complete_ltt">
+         <color r="255" g="248" b="178">
+            <b>Se söt ut</b>
+         </color>
+         <br/>
+            <b>    Träningen är slutförd</b>
+         <br/>
+         Träningen är slutförd. Djuret har tränats klart på det här tricket.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:OtterSeaBasketball_ltt">
+         <color r="255" g="248" b="178">
+            <b>Spela basket med basketkorg</b>
+         </color>
+         <br/>
+         Klicka här om du vill träna havsuttern att spela basket med en basketkorg.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:OtterSeaBasketball_locked_ltt">
+         <color r="255" g="248" b="178">
+            <b>Spela basket med basketkorg</b>
+         </color>
+         <br/>
+            <b>    Tricket är låst</b>
+         <br/>
+         Tricket att spela basket är låst. Du måste slutföra träningen av föregående trick innan du kan låsa upp detta.
+      </LOC_STRING>
+      <LOC_STRING _locID="tricktooltips:OtterSeaBasketball_complete_ltt">
+         <color r="255" g="248" b="178">
+            <b>Spela basket med basketkorg</b>
+         </color>
+         <br/>
+            <b>    Träningen är slutförd</b>
+         <br/>
+         Träningen är slutförd. Djuret har tränats klart på det här tricket.
+      </LOC_STRING>
+      <LOC_STRING _locID="trickmarkup:CreateNewProp">Skapa ny rekvisita för %1s</LOC_STRING>
+      <LOC_STRING _locID="trickmarkup:ReuseProp">Återanvänd rekvisita för %1s</LOC_STRING>
+      <LOC_STRING _locID="trickmarkup:AppendPopularityMarkup">%1s - %2s</LOC_STRING>
+      <LOC_STRING _locID="trickmarkup:trick_popularity_05">Popularitet: 1/2 stjärna</LOC_STRING>
+      <LOC_STRING _locID="trickmarkup:trick_popularity_10">Popularitet: 1 stjärna</LOC_STRING>
+      <LOC_STRING _locID="trickmarkup:trick_popularity_15">Popularitet: 1 1/2 stjärnor</LOC_STRING>
+      <LOC_STRING _locID="trickmarkup:trick_popularity_20">Popularitet: 2 stjärnor</LOC_STRING>
+      <LOC_STRING _locID="trickmarkup:trick_popularity_25">Popularitet: 2 1/2 stjärnor</LOC_STRING>
+      <LOC_STRING _locID="trickmarkup:trick_popularity_30">Popularitet: 3 stjärnor</LOC_STRING>
+      <LOC_STRING _locID="trickmarkup:trick_popularity_35">Popularitet: 3 1/2 stjärnor</LOC_STRING>
+      <LOC_STRING _locID="trickmarkup:trick_popularity_40">Popularitet: 4 stjärnor</LOC_STRING>
+      <LOC_STRING _locID="trickmarkup:trick_popularity_45">Popularitet: 4 1/2 stjärnor</LOC_STRING>
+      <LOC_STRING _locID="trickmarkup:trick_popularity_50">Popularitet: 5 stjärnor</LOC_STRING>
+</ZT2Strings>

@@ -1,0 +1,231 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_beluga" version="9"/>
+      <LOC_STRING _locID="zoopedia_beluga:entry" version="9">Beluga</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_beluga:text" version="9">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/Beluga/Beluga_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>						 
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/vulnerable.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Gefährdungsstatus:
+                     <br/>
+                        <color r="255" g="255" b="0">
+                     Gefährdet
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+				 <cell width="128">
+				  <color r="255" g="255" b="255">Tundra<br/></color>
+				  <img src="ui/icon_biomes/icon_tundra.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+				 </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Arktischer Ozean</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/tundra_arctic_ocean.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Klasse: Säugetiere <i>(Mammalia)</i>
+                  <br/>
+                  Ordnung: <i>Cetacea</i>
+                  <br/>
+                  Familie: <i>Monodontidae</i>
+                  <br/>
+                  Gattung: <i>Delphinapterus</i>
+                  <br/>
+                  Art: <i>Leucas</i>
+                  </color>
+               </cell>
+				 <cell width="256" pady="10">
+				  <img src="UI/zoopedia/biome/tundra_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+				 </cell>				 
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Spannende Fakten zum Beluga</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Belugas sind bei der Geburt dunkelgrau, braun oder schwarz. Die Färbung ändert sich jedoch langsam, und mit einem Alter von fünf Jahren sind sie bereit vollständig weiß.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Belugas können nicht nur vorwärts, sondern auch rückwärts schwimmen!</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Belugas kauen ihr Futter nicht, sie schlucken es in einem Stück.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Belugas suchen am Boden flacher Küstenbereiche nach Nahrung und ernähren sich in der Regel von am Meeresgrund lebenden Organismen.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Der Beluga besitzt einen sehr beweglichen Hals, der bei der Nahrungsaufnahme von großem Vorteil ist. Außerdem können sie mit ihrem Maul einen so starken Sog erzeugen, dass Beutetiere keine Chance zur Flucht haben!</color>
+               </cell>                
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">Um den Beluga im Herausforderungs- oder Kampagnenmodus freizugeben, muss der Zoo einen Bekanntheitsgrad von 1/2 Stern erreichen.</color>
+            <p/>Der Beluga ist ein eng mit dem Delfin verwandter Zahnwal mit einem sehr prägnanten Kopf und kurzen Flossen. Belugas (vom russischen Wort "Byelukha" für "weiß" abgeleitet) kommen ohne Rückenflosse und mit schwarzer oder dunkelbrauner Färbung auf die Welt. Das typische milchige Weiß entwickelt sich erst nach etwa fünf Jahren. Während männliche Tiere eine Länge von bis zu 7 m erreichen können, sind die Weibchen etwas kleiner. Belugas bilden Schulen von mehreren tausend Tieren und ernähren sich von Fischen, Kraken, Krabben, Schnecken und Tintenfischen. Sie sind im Nordpolarmeer heimisch und wandern jahreszeitlich Richtung Süden, manchmal sogar bis nach New Jersey in den USA und zum Rhein in Europa.     
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Mit freundlicher Genehmigung von <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft® Encarta® 2006.</color></u></a> © 1993-2005 Microsoft Corporation. Alle Rechte vorbehalten.
+         </cell>         
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_penguinrockhopper" version="9"/>
+      <LOC_STRING _locID="zoopedia_penguinrockhopper:entry" version="9">Felsenpinguin</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_penguinrockhopper:text" version="9">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/PenguinRockhopper/PenguinRockhopper_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/PenguinRockhopper/PenguinRockhopper_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>							 
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>						 
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/vulnerable.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Gefährdungsstatus:
+                     <br/>
+                        <color r="255" g="255" b="0">
+                     Gefährdet
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+				 <cell width="128">
+				  <color r="255" g="255" b="255">Küste<br/></color>
+				  <img src="ui/icon_biomes/icon_coastal.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+				 </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Inseln der Südmeere</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/coastal_southern_ocean_islands.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Klasse: Vögel <i>Aves</i>
+                  <br/>
+                  Ordnung: <i>Sphenisciformes</i>
+                  <br/>
+                  Familie: <i>Spheniscidae</i>
+                  <br/>
+                  Gattung: <i>Eudyptes</i>
+                  <br/>
+                  Art: <i>Chrysocome</i>
+                  </color>
+               </cell>
+				 <cell width="256" pady="10">
+				  <img src="UI/zoopedia/biome/coastal_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+				 </cell>				 
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Spannende Fakten zum Felsenpinguin</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Weibliche Felsenpinguine legen gewöhnlich während der Brutzeit zwei Eier, von denen aber nur eines ausgebrütet wird.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Felsenpinguine haben eine durchschnittliche Lebenserwartung von rund zehn Jahren.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Weibliche Tiere schütteln zum Anlocken eines Partners ihre Köpfe, um so auf ihre gelben Schopffedern aufmerksam zu machen.</color>
+               </cell>                 
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">Um den Felsenpinguin im Herausforderungs- oder Kampagnenmodus freizugeben, muss der Zoo einen Bekanntheitsgrad von 2 Sternen erreichen.</color>
+            <p/>Die Bezeichnung "Felsenpinguin" tragen die Tiere, weil sie oft auf den von ihnen bewohnten felsigen Inseln über die Felsbrocken hüpfen. Diese subantarktische Pinguinspezies ist überwiegend auf südlichen Inseln wie den Falklandinseln, den Antipoden-Inseln und der Macquarie-Insel heimisch.
+            <p/>Der Felsenpinguin mit seinem hübschen Schopf und den streitlustigen, blutroten Augen ist berüchtigt für sein aggressives Verhalten. Häufig und gerne kämpfen sie auf dem felsigen Gelände um die besten Nistplätze. Seine Flossen und Schwimmfüße machen diesen kleinen, aber kräftigen Pinguin zu einem ausgezeichneten Jäger.
+				<p/>Felsenpinguine jagen Laternenfische, Krill und gelegentlich auch kleine Tintenfische. Sie selbst werden wiederum von Blauhaien, Leoparden- und Pelzrobben gejagt, und ihre Eier und Küken sind an Land häufig durch Möwen und andere Vögel gefährdet.
+				<p/>Da sie ihre Nester an felsigen Küsten bauen, ist ihre Fähigkeit, aus dem Wasser auf Felsen zu springen, lebensnotwendig.  
+         </cell>        
+      </LOC_STRING>  
+
+</ZT2Strings>

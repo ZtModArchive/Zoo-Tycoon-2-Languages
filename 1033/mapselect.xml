@@ -1,0 +1,222 @@
+<ZT2Strings>
+      <LOC_STRING _locID="mapdata:map_info_label"  >
+         <font name="arial" size="12" image="ui\font\color_mainmenu.tga">
+            <color r="255" g="248" b="178">
+               <b>Map Information:</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="mapdata:map_select_label"  >
+         <font name="arial" size="12" image="ui\font\color_mainmenu.tga">
+            <color r="255" g="248" b="178">
+               <b>Select Map:</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="mapdata:map_scenario_label"  >
+         <font name="arial" size="12" image="ui\font\color_mainmenu.tga">
+            <color r="255" g="248" b="178">
+               <b>Select Scenario:</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="mapdata:map_list_label"  >
+         <font name="arial" size="12" image="ui\font\color_mainmenu.tga">
+            <color r="255" g="248" b="178">
+               <b>Select Map:</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="mapdata:map_location_label"  >
+         <font name="arial" size="12" image="ui\font\color_mainmenu.tga">
+            <color r="255" g="248" b="178">
+               <b>Select Map Type:</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="mapdata:select_campaign_label"  >
+         <font name="arial" size="12" image="ui\font\color_mainmenu.tga">
+            <color r="255" g="248" b="178">
+               <b>Select Campaign:</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="mapdata:biome"  >
+         <font name="arial" size="10" shadowx="1" shadowy="1">
+            <b>Biome:</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="mapdata:play"  >
+         <font name="arial" size="16">
+            <b>Play</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="mapdata:back"  >
+         <font name="arial" size="16">
+            <b>Back</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="mapdata:challengeheading"  >Challenge Mode</LOC_STRING>
+      <LOC_STRING _locID="mapdata:freeformheading"  >Freeform Mode</LOC_STRING>
+      <LOC_STRING _locID="mapdata:campaignheading"  >Campaign Mode</LOC_STRING>
+      <LOC_STRING _locID="mapdata:modeheading"  >
+         <font name="arial" size="16" image="ui\font\color_mainmenu.tga">
+            <color r="255" g="248" b="178">
+               <b>%text%</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="mapdata:unlimited"  >
+         <font name="arial" size="14">Unlimited Cash</font>
+      </LOC_STRING>
+      <LOC_STRING _locID="mapdata:play_button_stt"  >Play</LOC_STRING>
+      <LOC_STRING _locID="mapdata:play_button_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Play</b>
+         </color>
+         <br>Click this button to play the selected map.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="mapdata:cancel_button_stt"  >Cancel</LOC_STRING>
+      <LOC_STRING _locID="mapdata:cancel_button_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Cancel</b>
+         </color>
+         <br>Click to cancel and return to the Main Menu.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="mapdata:posformat"  >
+         <font name="arial" size="14" shadowx="-1" shadowy="1" shadowa="255">
+            <color r="0" g="255" b="0">
+               <b>%text%</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="mapdata:campaign_name"  >
+         <font name="arial" size="14" image="ui\font\color_mainmenu.tga">
+            <b>%text%</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="mapdata:campaign_names"  >
+         <font name="arial" size="12" image="ui\font\color_mainmenu.tga">
+            <b>%text%</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="mapname" version="7" />
+      <LOC_STRING _locID="mapname:format" version="7"  >
+         <font name="arial" size="12" shadowx="1" shadowy="1">
+            <b>%text%</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="mapname:largeformat" version="7"  >
+         <font name="arial" size="12" shadowx="1" shadowy="1">
+            <b>%text%</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="mapname:atestmap" version="7"  >A Tiny Test Map</LOC_STRING>
+      <LOC_STRING _locID="mapname:nomap" version="7"  >Test Size Map</LOC_STRING>
+      <LOC_STRING _locID="mapname:alpinebig" version="7"  >Alpine (L)</LOC_STRING>
+      <LOC_STRING _locID="mapname:alpinemed" version="7"  >Alpine (M)</LOC_STRING>
+      <LOC_STRING _locID="mapname:alpinesml" version="7"  >Alpine (S) </LOC_STRING>
+      <LOC_STRING _locID="mapname:borealbig" version="7"  >Boreal Forest (L)</LOC_STRING>
+      <LOC_STRING _locID="mapname:borealmed" version="7"  >Boreal Forest (M)</LOC_STRING>
+      <LOC_STRING _locID="mapname:borealsml" version="7"  >Boreal Forest (S)</LOC_STRING>
+      <LOC_STRING _locID="mapname:cityzoo" version="7"  >City Zoo (L)</LOC_STRING>
+      <LOC_STRING _locID="mapname:cityzoomed" version="7"  >City Zoo (M)</LOC_STRING>
+      <LOC_STRING _locID="mapname:cityzoosml" version="7"  >City Zoo (S)</LOC_STRING>
+      <LOC_STRING _locID="mapname:desert" version="7"  >Desert (L)</LOC_STRING>
+      <LOC_STRING _locID="mapname:desertmed" version="7"  >Desert (M)</LOC_STRING>
+      <LOC_STRING _locID="mapname:desertsml" version="7"  >Desert (S)</LOC_STRING>
+      <LOC_STRING _locID="mapname:grassland" version="7"  >Grassland (L)</LOC_STRING>
+      <LOC_STRING _locID="mapname:grasslandmed" version="7"  >Grassland (M)</LOC_STRING>
+      <LOC_STRING _locID="mapname:grasslandsml" version="7"  >Grassland (S) </LOC_STRING>
+      <LOC_STRING _locID="mapname:savannah" version="7"  >Savannah (L)</LOC_STRING>
+      <LOC_STRING _locID="mapname:savannahmed" version="7"  >Savannah (M)</LOC_STRING>
+      <LOC_STRING _locID="mapname:savannahsml" version="7"  >Savannah (S)</LOC_STRING>
+      <LOC_STRING _locID="mapname:scrub" version="7"  >Scrub (L)</LOC_STRING>
+      <LOC_STRING _locID="mapname:scrubmed" version="7"  >Scrub (M)</LOC_STRING>
+      <LOC_STRING _locID="mapname:scrubsml" version="7"  >Scrub (S)</LOC_STRING>
+      <LOC_STRING _locID="mapname:tempforest" version="7"  >Temperate Forest (L)</LOC_STRING>
+      <LOC_STRING _locID="mapname:temperatemed" version="7"  >Temperate Forest (M)</LOC_STRING>
+      <LOC_STRING _locID="mapname:temperatesml" version="7"  >Temperate Forest (S)</LOC_STRING>
+      <LOC_STRING _locID="mapname:rainforestbig" version="7"  >Tropical Rainforest (L)</LOC_STRING>
+      <LOC_STRING _locID="mapname:rainforestmed" version="7"  >Tropical Rainforest (M)</LOC_STRING>
+      <LOC_STRING _locID="mapname:rainforestsml" version="7"  >Tropical Rainforest (S)</LOC_STRING>
+      <LOC_STRING _locID="mapname:tundrabig" version="7"  >Tundra (L)</LOC_STRING>
+      <LOC_STRING _locID="mapname:tundramed" version="7"  >Tundra (M)</LOC_STRING>
+      <LOC_STRING _locID="mapname:tundrasml" version="7"  >Tundra (S)</LOC_STRING>
+      <LOC_STRING _locID="mapname:wetlandbig" version="7"  >Wetland (L)</LOC_STRING>
+      <LOC_STRING _locID="mapname:wetlandmed" version="7"  >Wetland (M)</LOC_STRING>
+      <LOC_STRING _locID="mapname:wetlandsml" version="7"  >Wetland (S)</LOC_STRING>
+      <LOC_STRING _locID="mapname:biome_squares" version="7"  >Biome Squares (L)</LOC_STRING>
+      <LOC_STRING _locID="mapname:river" version="7"  >River (L)</LOC_STRING>
+      <LOC_STRING _locID="mapname:savannahridge" version="7"  >Safari Ridge (L)</LOC_STRING>
+      <LOC_STRING _locID="mapname:polarcoast" version="7"  >Polar Coast (L)</LOC_STRING>
+      <LOC_STRING _locID="mapname:rockies" version="7"  >Rocky Mountain Valley (M)</LOC_STRING>
+      <LOC_STRING _locID="mapname:desertshore" version="7"  >Desert Shore (M)</LOC_STRING>
+      <LOC_STRING _locID="mapname:junglepool" version="7"  >Jungle Pool (S)</LOC_STRING>
+      <LOC_STRING _locID="mapname:mangrovecoast" version="7"  >Mangrove Coast (S) </LOC_STRING>
+      <LOC_STRING _locID="mapname:benthicbig" version="7"  >Benthic Zoo (L) </LOC_STRING>
+      <LOC_STRING _locID="mapname:coastalbig" version="7"  >Coastal Zoo (L) </LOC_STRING>
+      <LOC_STRING _locID="mapname:reefbig" version="7"  >Reef Zoo (L) </LOC_STRING>
+      <LOC_STRING _locID="mapname:pelagicbig" version="7"  >Pelagic Zoo (L) </LOC_STRING>
+      <LOC_STRING _locID="mapname:benthicmed" version="7"  >Benthic Zoo (M) </LOC_STRING>
+      <LOC_STRING _locID="mapname:coastalmed" version="7"  >Coastal Zoo (M) </LOC_STRING>
+      <LOC_STRING _locID="mapname:reefmed" version="7"  >Reef Zoo (M) </LOC_STRING>
+      <LOC_STRING _locID="mapname:pelagicmed" version="7"  >Pelagic Zoo (M) </LOC_STRING>
+      <LOC_STRING _locID="mapname:benthicsml" version="7"  >Benthic Zoo (S) </LOC_STRING>
+      <LOC_STRING _locID="mapname:reefsml" version="7"  >Reef Zoo (S) </LOC_STRING>
+      <LOC_STRING _locID="mapname:coastalsml" version="7"  >Coastal Zoo (S) </LOC_STRING>
+      <LOC_STRING _locID="mapname:coastalzoojr" version="7"  >Coastal Zoo Junior (S) </LOC_STRING>
+      <LOC_STRING _locID="mapname:pelagicsml" version="7"  >Pelagic Zoo (S) </LOC_STRING>
+      <LOC_STRING _locID="mapsize:small"  >Small</LOC_STRING>
+      <LOC_STRING _locID="mapsize:medium"  >Medium</LOC_STRING>
+      <LOC_STRING _locID="mapsize:large"  >Large</LOC_STRING>
+      <LOC_STRING _locID="mapsize:header"  >
+         <font name="arial" size="10" shadowx="1" shadowy="1">
+            <b>Map Size:</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="maplocation:format"  >
+         <font name="arial" size="10" shadowx="1" shadowy="1">
+            <b>%text%</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="maplocation:header"  >
+         <font name="arial" size="10" shadowx="1" shadowy="1">
+            <b>Location:</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="difficulty:format"  >
+         <font name="arial" size="10" shadowx="1" shadowy="1">
+            <b>%text%</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="difficulty:header"  >
+         <font name="arial" size="10" shadowx="1" shadowy="1">
+            <b>Difficulty:</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="difficulty:easy"  >Easy</LOC_STRING>
+      <LOC_STRING _locID="difficulty:medium"  >Normal</LOC_STRING>
+      <LOC_STRING _locID="difficulty:hard"  >Hard</LOC_STRING>
+      <LOC_STRING _locID="globe_label:format"  >
+         <font name="arial" size="15" image="ui\font\color_mainmenu.tga">
+            <color r="255" g="248" b="178">
+               <b>World Map Locations</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="map_name_field:format"  >
+         <font name="arial" size="20" image="ui\font\color_mainmenu.tga">
+            <color r="255" g="248" b="178">
+               <b>%text%</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="map_other_field:format"  >
+         <font name="arial" size="14" image="ui\font\color_mainmenu.tga">
+            <color r="255" g="248" b="178">
+               <b>%text%</b>
+            </color>
+         </font>
+      </LOC_STRING>
+</ZT2Strings>

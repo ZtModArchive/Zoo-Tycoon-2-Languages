@@ -1,0 +1,59 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_animaleducator:entry">Animateur</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_animaleducator:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/units/staff/Educator/Educator_F_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/units/staff/Educator/Educator_M_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>
+                  Le rôle d'un animateur consiste à circuler dans le zoo et à s'adresser aux visiteurs en leur faisant découvrir les animaux de votre zoo. Les visiteurs apprécient encore davantage le zoo, car les animateurs leur donnent toutes sortes d'informations passionnantes sur les animaux qu'ils peuvent observer.        
+                  <p/>
+                  Les animateurs s'adressent aux visiteurs depuis des tribunes achetées puis placées à différents endroits de votre zoo. Une fois la tribune en place, tout animateur que vous aurez engagé montra régulièrement à la tribune pour parler des enclos qui se trouvent à proximité.        
+                  <p/>
+                      Si les animateurs ne trouvent pas de tribune, ils se mettent en quête du centre du personnel. S'ils ne trouvent pas le centre, ils vont errer sans but dans le zoo.
+                  <p/>
+                      Les animateurs reçoivent un salaire, déduit du compte de votre zoo le premier de chaque mois. Cependant, n'oubliez pas qu'ils peuvent vous aider à augmenter le montant des dons faits par les visiteurs, ravis à la fois d'être distraits et d'avoir appris des tas de choses lors de leur visite du zoo.			
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_maintworker:entry">Agent d'entretien</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_maintworker:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/units/staff/Worker/Worker_F_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/units/staff/Worker/Worker_M_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>
+                             Les agents d'entretien sont chargés de veiller à la propreté de votre zoo. Leur principal travail consiste à balayer les chemins et à vider les poubelles. Ils effectuent ces tâches de leur propre chef, mais vous pouvez également leur affecter des tâches particulières.            
+                  <p/>
+                       Les agents d'entretien ont un rôle important, car un zoo propre vous aidera à conserver des visiteurs satisfaits. Si votre zoo commence à montrer des signes de saleté (détritus sur les chemins, poubelles qui débordent, etc.), vos visiteurs risquent de quitter le zoo précipitamment. Les agents d'entretien reçoivent un salaire, déduit du compte de votre zoo le premier de chaque mois.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_zookeeper:entry">Soigneur</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_zookeeper:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/units/staff/Keeper/Keeper_F_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/units/staff/Keeper/Keeper_M_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>
+                  
+Les soigneurs sont les employés les plus importants de votre zoo. Ils sont formés pour satisfaire les besoins de chaque animal de votre zoo, que ce soit pour les nourrir, les soigner ou nettoyer leurs excréments. Le salaire des soigneurs, déduit du compte de votre zoo le premier de chaque mois, est le plus élevé de tous les employés. Mais n'oubliez cependant pas que vous pouvez effectuer vous-même toutes les tâches des soigneurs, gratuitement, en mode Visiteur.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+</ZT2Strings>

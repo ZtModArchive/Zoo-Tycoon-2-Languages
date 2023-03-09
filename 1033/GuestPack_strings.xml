@@ -1,0 +1,44 @@
+<ZT2Strings>
+   <!--entity names-->
+   <entityname>
+      <!--scenery object names-->
+      <drinkingfountain_df>Drinking Fountain</drinkingfountain_df>
+      <drinkingfountain_df_stt>Drinking fountain</drinkingfountain_df_stt>
+      <drinkingfountain_df_lower>drinking fountain</drinkingfountain_df_lower>
+      <drinkingfountain_df_ltt>
+         <color r="255" g="248" b="178">
+            <b>Drinking Fountain</b>
+         </color>
+         <br/>
+         Click to select and then place a drinking fountain for guests to sip from.
+      </drinkingfountain_df_ltt>
+   </entityname>
+   
+   <!--Zoopedia entries-->
+   <zoopedia_drinkingfountain>
+      <entry>Drinking Fountain</entry>
+      <text>
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities\objects\scenery\drinkingfountain_df\drinkingfountain_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>Though it doesn't produce any revenue for the zoo, guests are always grateful for a long cool sip of water from the drinking fountain.
+               </color>
+            </cell>
+         </cell>
+      </text>
+   </zoopedia_drinkingfountain>
+   <guestpackactions>
+      <GoToDrinkingFountain>Going to get a drink from the %s</GoToDrinkingFountain>
+      <UseDrinkingFountain>Drinking from the %s</UseDrinkingFountain>      
+   </guestpackactions>
+   <guestpackthoughts>
+      <GoToDrinkingFountain>I'm glad there is a %s here because I'm thirsty.</GoToDrinkingFountain>
+      <UseDrinkingFountain>The %s is refreshing.</UseDrinkingFountain>            
+   </guestpackthoughts>
+</ZT2Strings>
+
+  

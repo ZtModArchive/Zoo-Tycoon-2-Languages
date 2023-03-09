@@ -1,0 +1,142 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_transportation" version="2"/>
+      <LOC_STRING _locID="zoopedia_transportation:entry" version="2">Transport</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_transportation:text" version="2">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>
+Zoo Tycoon 2 vous propose diverses manières de transporter vos visiteurs à travers le zoo.
+                  <p/>
+Pour consulter des informations sur un moyen de transport spécifique, cliquez sur son nom dans la liste à gauche.  
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_groundstation" version="2"/>
+      <LOC_STRING _locID="zoopedia_groundstation:entry" version="2">Gare pour Jeep®</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_groundstation:text" version="2">
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\transportation\stations\GroundStation\GroundStation_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+La gare pour Jeep® est le lieu par où les visiteurs entrent et sortent <a href="zoopedia:zoopedia_groundvehicle:entry"><u><color r="255" g="231" b="135">des Jeep.</color></u></a> La gare reste fermée tant qu'elle n'est pas reliée à un <a href="zoopedia:zoopedia_groundtrack:entry"><u><color r="255" g="231" b="135">circuit</color></u></a> routier valide et fermé. Une fois que le circuit est terminé, la gare pour Jeep ouvre et vous pouvez y acheter des véhicules.
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_groundtrack" version="2"/>
+      <LOC_STRING _locID="zoopedia_groundtrack:entry" version="2">Route</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_groundtrack:text" version="2">
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\transportation\track\ground\ground_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+Les routes permettent de relier les <a href="zoopedia:zoopedia_groundstation:entry"><u><color r="255" g="231" b="135">gares pour Jeep®</color></u></a> afin que les <a href="zoopedia:zoopedia_groundvehicle:entry"><u><color r="255" g="231" b="135">Jeep</color></u></a> puissent circuler d'une gare à une autre. Votre route doit constituer un circuit valide et fermé avant de pouvoir ouvrir vos gares. Notez que les routes sont à sens unique !
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_crossinggate" version="2"/>
+      <LOC_STRING _locID="zoopedia_crossinggate:entry" version="2">Passage à niveau</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_crossinggate:text" version="2">
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\transportation\crossinggate\crossinggate_end\crossinggate_end_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+Placez un passage à niveau à un croisement entre un chemin et une route pour éviter que des piétons marchent sur la route à l'approche d'une Jeep®. Le passage s'abaisse avant le passage du véhicule et se relève une fois le véhicule passé.
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_groundvehicle" version="2"/>
+      <LOC_STRING _locID="zoopedia_groundvehicle:entry" version="2">Jeep®</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_groundvehicle:text" version="2">
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+       <img src="entities\transportation\vehicles\Jeep_Wrangler\Jeep_Wrangler_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+       <img src="entities\transportation\vehicles\Jeep_Liberty\Jeep_Liberty_icon.dds" sx="0" sy="0" sw="64" sh="64"/>        
+       <img src="entities\transportation\vehicles\Jeep_Commander\Jeep_Commander_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      
+      <p/>
+Les Jeep® transportent les visiteurs entre les <a href="zoopedia:zoopedia_groundstation:entry"><u><color r="255" g="231" b="135">gares pour Jeep.</color></u></a> La Jeep Wrangler peut transporter trois visiteurs, la Jeep Liberty quatre et la Jeep Commander six.
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_groundvehicleupgrade" version="2"/>
+      <LOC_STRING _locID="zoopedia_groundvehicleupgrade:entry" version="2">Jeep® décorées</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_groundvehicleupgrade:text" version="2">
+    <cell pady="0" width="1000"/>
+    <p/>
+    <cell width="260"/>
+    <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+     <cell width="600" padx="20" pady="20">
+      <color r="255" g="255" b="255">
+       <img src="entities\transportation\vehicles\Jeep_Wrangler\Jeep_Wrangler_Upgraded_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+       <img src="entities\transportation\vehicles\Jeep_Liberty\Jeep_Liberty_Upgraded_icon.dds" sx="0" sy="0" sw="64" sh="64"/>         
+       <img src="entities\transportation\vehicles\Jeep_Commander\Jeep_Commander_Upgraded_icon.dds" sx="0" sy="0" sw="64" sh="64"/>       
+       <p/>
+Les Jeep® transportent les visiteurs entre les <a href="zoopedia:zoopedia_groundstation:entry"><u><color r="255" g="231" b="135">gares pour Jeep.</color></u></a> La Jeep Wrangler peut transporter trois visiteurs, la Jeep Liberty quatre et la Jeep Commander six. 
+<p/>
+Les Jeep décorées arborent des motifs décoratifs et sont débloquées lorsque vous remportez le Prix des visites Zoo Tycoon - niveau 2.
+      </color>
+     </cell>
+    </cell>
+   </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_groundvehicleafrica:entry">Jeep® africaines</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_groundvehicleafrica:text">
+     <cell pady="0" width="1000"/>
+     <p/>
+     <cell width="260"/>
+     <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+      <cell width="600" padx="20" pady="20">
+       <color r="255" g="255" b="255">
+        <img src="entities\transportation\vehicles\Jeep_Wrangler\Jeep_Wrangler_Africa_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+       <img src="entities\transportation\vehicles\Jeep_Liberty\Jeep_Liberty_Africa_icon.dds" sx="0" sy="0" sw="64" sh="64"/>         
+        <img src="entities\transportation\vehicles\Jeep_Commander\Jeep_Commander_Africa_icon.dds" sx="0" sy="0" sw="64" sh="64"/>        
+        <p/>
+ Les Jeep® transportent les visiteurs entre les <a href="zoopedia:zoopedia_groundstation:entry"><u><color r="255" g="231" b="135">gares pour Jeep.</color></u></a> La Jeep Wrangler peut transporter trois visiteurs, la Jeep Liberty quatre et la Jeep Commander six.
+ <p/>
+ Les Jeep style Afrique arborent des motifs africains. Elles peuvent être débloquées lorsque vous remportez le Prix Zoo Tycoon africain.
+       </color>
+      </cell>
+     </cell>
+    </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_vehiclegate" version="2"/>
+      <LOC_STRING _locID="zoopedia_vehiclegate:entry" version="2">Porte d'accès véhicules</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_vehiclegate:text" version="2">
+      <cell pady="0" width="1000"/>
+      <p/>
+      <cell width="260"/>
+      <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+         <cell width="600" padx="20" pady="20">
+            <color r="255" g="255" b="255">
+               <img src="entities\objects\fences\vehiclegate_end\vehiclegate_end_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+            <p/>
+Les portes d'accès véhicules permettent l'entrée et la sortie des véhicules terrestres des enclos des animaux. Pour empêcher que les animaux ne s'enfuient, ces portes mécanisées se ferment automatiquement après le passage des véhicules.
+            </color>
+         </cell>
+      </cell>
+   </LOC_STRING>
+ 
+</ZT2Strings>

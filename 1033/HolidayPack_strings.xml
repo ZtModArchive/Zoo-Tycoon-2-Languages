@@ -1,0 +1,202 @@
+<ZT2Strings>
+   <!--entity names-->
+   <entityname>
+      <!--building names-->
+      <snackcart_candycane_tt>Candy Cane Cart</snackcart_candycane_tt>
+      <snackcart_candycane_tt_stt>Candy cane cart</snackcart_candycane_tt_stt>
+      <snackcart_candycane_tt_lower>the candy cane cart</snackcart_candycane_tt_lower>
+      <snackcart_candycane_tt_ltt>
+         <color r="255" g="248" b="178">
+            <b>Candy Cane Cart</b>
+         </color>
+         <br/>
+         Click to select and then place the candy cane cart, a holiday favorite treat.
+      </snackcart_candycane_tt_ltt>
+      <!--scenery object names-->
+      <binoculars_tt>Snowman Binocular Stand</binoculars_tt>
+      <binoculars_tt_stt>Snowman binocular stand</binoculars_tt_stt>
+      <binoculars_tt_lower>the snowman binocular stand</binoculars_tt_lower>
+      <binoculars_tt_ltt>
+         <color r="255" g="248" b="178">
+            <b>Snowman Binocular Stand</b>
+         </color>
+         <br/>
+         Click to select and then place the snowman binocular stand. Guests will love viewing animals through his goggles.
+      </binoculars_tt_ltt>
+      <Reindeer_tt>Reindeer Bouncy Ride</Reindeer_tt>
+      <Reindeer_tt_stt>Reindeer bouncy ride</Reindeer_tt_stt>
+      <Reindeer_tt_lower>the reindeer bouncy ride</Reindeer_tt_lower>
+      <Reindeer_tt_ltt>
+         <color r="255" g="248" b="178">
+            <b>Reindeer Bouncy Ride</b>
+         </color>
+         <br/>
+         Click to select and then place a reindeer bouncy ride, on which small children can sit and bounce.
+      </Reindeer_tt_ltt>
+      <lowholidayfence_tt>Low Holiday fence</lowholidayfence_tt>
+      <lowholidayfence_tt_stt>Low holiday fence</lowholidayfence_tt_stt>
+      <lowholidayfence_tt_lower>the low holiday fence</lowholidayfence_tt_lower>
+      <lowholidayfence_tt_ltt>
+         <color r="255" g="248" b="178">
+            <b>Low Holiday Fence</b>
+         </color>
+         <br/>
+         Click to select and then place sections of low holiday fence, which can serve as a festive holiday path border.
+      </lowholidayfence_tt_ltt>
+      <lowholidayfence_broken_tt>Low Holiday fence</lowholidayfence_broken_tt>
+      <lowholidayfence_broken_tt_stt>Low holiday fence</lowholidayfence_broken_tt_stt>
+      <lowholidayfence_broken_tt_lower>the low holiday fence</lowholidayfence_broken_tt_lower>
+      <lowholidayfence_broken_tt_ltt>
+         <color r="255" g="248" b="178">
+            <b>Low Holiday Fence</b>
+         </color>
+         <br/>
+         Click to select and then place sections of low holiday fence, which can serve as a festive holiday path border.
+      </lowholidayfence_broken_tt_ltt>
+      <!--fence names-->
+      <!--enrichment object names-->
+      <PresentApple>Holiday Present (Apple)</PresentApple>
+      <PresentApple_stt>Holiday present (apple)</PresentApple_stt>
+      <PresentApple_lower>the holiday present (apple)</PresentApple_lower>
+      <PresentApple_ltt>
+         <color r="255" g="248" b="178">
+            <b>Holiday Present (Apple)</b>
+         </color>
+         <br/>
+         Click to select and then place the holiday present (apple). Animals that enjoy eating apples will love opening this holiday present.
+      </PresentApple_ltt>
+      <PresentBeef>Holiday Present (Beef)</PresentBeef>
+      <PresentBeef_stt>Holiday present (beef)</PresentBeef_stt>
+      <PresentBeef_lower>the holiday present (beef)</PresentBeef_lower>
+      <PresentBeef_ltt>
+         <color r="255" g="248" b="178">
+            <b>Holiday Present (Beef)</b>
+         </color>
+         <br/>
+         Click to select and then place the holiday present (beef). Animals that enjoy eating the beef shank will love opening this holiday present.
+      </PresentBeef_ltt>
+      <!--item names-->
+      <Candycane>Candy Cane</Candycane>
+      <Candycane_stt>Candy cane</Candycane_stt>
+      <Candycane_lower>the candy cane</Candycane_lower>
+      <Candycane_ltt>
+         <color r="255" g="248" b="178">
+            <b>Candy Cane</b>
+         </color>
+         <br/>Everyone loves a candy cane during the holidays.
+      </Candycane_ltt>
+      <!--guest thoughts-->
+      <EatCandycaneNotLike>I'd prefer something other than a candy cane.</EatCandycaneNotLike>
+      <EatCandycane>Mmm. Candy cane! Must be that time of year!.</EatCandycane>
+      <EatCandycaneLike>Oh boy! This candy cane is great.</EatCandycaneLike>
+   </entityname>
+   <!--Zoopedia entries-->
+   <zoopedia_candycane>
+      <entry>Candy Cane Cart</entry>
+      <text>
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>
+                  <img src="entities\objects\buildings\Snackcart\snackcart_candycane_tt_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>The candy cane cart is a dessert cart crafted from gingerbread, candy cane and assorted candies. The candy cane cart sells candy canes.
+                  <p/>Children especially love candy canes, but anyone who wants a tasty dessert will buy candy canes.
+               </color>
+            </cell>
+         </cell>
+      </text>
+   </zoopedia_candycane>
+   <zoopedia_binoculars_tt>
+      <entry>Binoculars, Snowman</entry>
+      <text>
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>
+                  <img src="entities\objects\scenery\binoculars_tt\binoculars_tt_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>The snowman binocular stand is a special version of the binocular stand for the holidays or in tundra-themed areas of the zoo.
+                  <p/>Guests will be able to get a really good view of animals through the snowman's goggles. The animals seem to think nothing of a snowman watching them.
+               </color>
+            </cell>
+         </cell>
+      </text>
+   </zoopedia_binoculars_tt>
+   <zoopedia_lowholidayfence_tt>
+      <entry>Holiday Fence</entry>
+      <text>
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities\objects\fences\lowholidayfence_tt\lowholidayfence_tt_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>The holiday fence is an average-strength fence type that is most effective when used in combination with a ditch or moat, or as decorative fencing in public areas.
+                  <p/>The holiday fence is decorated in festive holiday lights, which both the guests and animals find fascinating.
+               </color>
+            </cell>
+         </cell>
+      </text>
+   </zoopedia_lowholidayfence_tt>
+   <zoopedia_reindeer_tt>
+      <entry>Reindeer Bouncy Ride</entry>
+      <text>
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>
+                  <img src="entities\objects\scenery\Playground_BouncyRide_Reindeer_tt/BouncyRide_Reindeer_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>Kids can climb onto the reindeer's back and bounce up and down on the reindeer bouncy ride. Although the reindeer bounces, this particular specimen does not fly.
+               </color>
+            </cell>
+         </cell>
+      </text>
+   </zoopedia_reindeer_tt>
+   <zoopedia_presentapple>
+      <entry>Holiday Present (Apple)</entry>
+      <text>
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>
+                  <img src="entities\objects\enrichment\PresentApple\PresentApple_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>Even animals enjoy a holiday present!
+                  <p/>The holiday present (apple) is a box covered in colorful wrapping paper and a festive bow. Animals love to bat the box around for fun.
+                  <p/>After the animals have knocked the present around for a while, it will break open and reveal an apple that the animal can then eat.
+               </color>
+            </cell>
+         </cell>
+      </text>
+   </zoopedia_presentapple>
+   <zoopedia_presentbeef>
+      <entry>Holiday Present (Beef)</entry>
+      <text>
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>
+                  <img src="entities\objects\enrichment\PresentApple\PresentBeef_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>Even animals enjoy a holiday present!
+                  <p/>The holiday present (beef) is a box covered in colorful wrapping paper and a festive bow. Animals love to bat the box around for fun.
+                  <p/>After the animals have knocked the present around for a while, it will break open and reveal a beef shank that the animal can then eat.
+               </color>
+            </cell>
+         </cell>
+      </text>
+   </zoopedia_presentbeef>
+</ZT2Strings>

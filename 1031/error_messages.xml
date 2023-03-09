@@ -1,0 +1,44 @@
+<ZT2Strings>
+      <LOC_STRING _locID="alert:sttformat">
+         <font name="arial" size="10">%text%</font>
+      </LOC_STRING>
+      <LOC_STRING _locID="alert:lttformat">
+         <font name="arial" size="10">%text%</font>
+      </LOC_STRING>
+      <LOC_STRING _locID="alert:save_game_message">
+         <font name="arial" size="20">
+            <b>Spiel gespeichert</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="alert:alert">
+         <font name="arial" size="16">
+            <color r="255" g="197" b="78">
+               <b>%text%</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="alert:save_failed">Nicht genügend Festplattenspeicher. Spiel kann nicht gespeichert werden.</LOC_STRING>
+      <LOC_STRING _locID="alert:photo_save_failed">Nicht genügend Festplattenspeicher. Foto kann nicht gespeichert werden.</LOC_STRING>
+      <LOC_STRING _locID="alert:download_save_failed">Nicht genügend Festplattenspeicher. Download kann nicht abgeschlossen werden.</LOC_STRING>
+      <LOC_STRING _locID="alert:invalid_name_profile">Profilnamen müssen mindestens einen Buchstaben oder eine Zahl enthalten, und es sind keine von Windows® reservierten Begriffe zulässig.</LOC_STRING>
+      <LOC_STRING _locID="alert:invalid_name_save">Dateinamen müssen mindestens einen Buchstaben oder eine Zahl beinhalten, und es sind keine von Windows® reservierten Begriffe zulässig.</LOC_STRING>
+      <LOC_STRING _locID="alert:profile_exists">Dieses Profil ist bereits vorhanden. Wählen Sie einen anderen Namen aus.</LOC_STRING>
+      <LOC_STRING _locID="alert:profile_problem">Beim Erstellen des Profils ist ein Problem aufgetreten. Wählen Sie einen anderen Namen aus.</LOC_STRING>
+      <LOC_STRING _locID="alert:save_failed_readonly">Datei ist schreibgeschützt. Spiel kann nicht gespeichert werden.</LOC_STRING>
+      <LOC_STRING _locID="alert:load_failed">Datei ist beschädigt oder kann aus anderem Grund nicht gelesen werden. Spiel kann nicht geladen werden.</LOC_STRING>
+      <LOC_STRING _locID="error:startup_error_title">Zoo Tycoon 2-Startfehler</LOC_STRING>
+      <LOC_STRING _locID="error:init_config_info_failed">Fehler beim Aufrufen von InitConfigInformation</LOC_STRING>
+      <LOC_STRING _locID="error:d3d_create_failed">Direct3D-Objekt konnte nicht erstellt werden.</LOC_STRING>
+      <LOC_STRING _locID="error:init_video_card_info_failed">Fehler beim Aufrufen von Config_InitVideoCardInfo</LOC_STRING>
+      <LOC_STRING _locID="error:enumerate_adapter_modes_failed">Fehler beim Auflisten der Grafikadaptermodi.</LOC_STRING>
+      <LOC_STRING _locID="error:slow_processor">Damit Zoo Tycoon 2 ordnungsgemäß ausgeführt werden kann, ist mindestens ein 733 MHz-Prozessor erforderlich. (%s MHz ermittelt)</LOC_STRING>
+      <LOC_STRING _locID="error:low_system_memory">Es sind mindestens %1s MB Systemspeicher erforderlich, um Zoo Tycoon 2 auszuführen (%2s MB ermittelt).</LOC_STRING>
+      <LOC_STRING _locID="error:low_video_memory">Es sind mindestens %1s MB Videospeicher erforderlich, um Zoo Tycoon 2 auszuführen (%2s MB ermittelt).</LOC_STRING>
+      <LOC_STRING _locID="error:unsupported_graphics_adapter">Zoo Tycoon 2 unterstützt die Grafikkarte %s nicht.</LOC_STRING>
+      <LOC_STRING _locID="error:prototype_graphics_adapter">Die Grafikkarte %s ist ein Prototyp und verursacht möglicherweise Probleme mit Zoo Tycoon 2.</LOC_STRING>
+      <LOC_STRING _locID="error:invalid_graphics_driver">Der Grafiktreiber ist für das Betriebssystem nicht gültig. Wenden Sie sich an den Hersteller der Grafikkarte, um einen aktualisierten Treiber zu erhalten.</LOC_STRING>
+      <LOC_STRING _locID="error:old_graphics_driver">Ihr Grafiktreiber ist möglicherweise zu alt, um Zoo Tycoon 2 auszuführen. Wenden Sie sich an den Hersteller der Grafikkarte, um einen aktualisierten Treiber zu erhalten.</LOC_STRING>
+      <LOC_STRING _locID="error:invalid_sound_driver">Der Soundtreiber ist für das Betriebssystem nicht gültig. Wenden Sie sich an den Hersteller der Soundkarte, um einen aktualisierten Treiber zu erhalten.</LOC_STRING>
+      <LOC_STRING _locID="error:old_sound_driver">Ihr Soundtreiber ist möglicherweise zu alt, um Zoo Tycoon 2 auszuführen. Wenden Sie sich an den Hersteller der Soundkarte, um einen aktualisierten Treiber zu erhalten.</LOC_STRING>
+      <LOC_STRING _locID="error:renderer_create_failed">Zoo Tycoon 2 konnte keinen Grafikrenderer erstellen. Wenden Sie sich an den Hersteller der Grafikkarte, um sicherzustellen, dass Sie den neuesten Treiber verwenden.</LOC_STRING>
+</ZT2Strings>

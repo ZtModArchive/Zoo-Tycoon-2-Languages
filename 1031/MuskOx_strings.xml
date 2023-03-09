@@ -1,0 +1,187 @@
+﻿<ZT2Strings>
+   <entityname>
+      <!--animal names-->
+      <MuskOx>Moschusochse</MuskOx>
+      <MuskOx_stt>Moschusochse</MuskOx_stt>
+      <MuskOx_lower>der Moschusochse</MuskOx_lower>
+      <MuskOx_ltt>
+         <color r="255" g="248" b="178">
+            <b>Moschusochse</b>
+         </color>
+         <br/>
+         Klicken Sie hier, um den Moschusochsen auszuwählen und zu platzieren. Der Moschusochse ist ein arktischer Hornträger mit langem Fell
+      </MuskOx_ltt>
+      <!--gift names-->
+      <MuskOx_Gift>Moschusochsen-Hut</MuskOx_Gift>
+      <MuskOx_Gift_stt>Moschusochsen-Hut</MuskOx_Gift_stt>
+      <MuskOx_Gift_lower>der Moschusochsen-Hut</MuskOx_Gift_lower>
+      <MuskOx_Gift_ltt>
+         <color r="255" g="248" b="178">
+            <b>Moschusochsen-Hut</b>
+         </color>
+         <br/>Besucher, die sich gerne Moschusochsen anschauen, kaufen dieses Andenken.
+      </MuskOx_Gift_ltt>
+      <MuskOx_Gift_Adult>Moschusochsen-Hut</MuskOx_Gift_Adult>
+      <MuskOx_Gift_Adult_stt>Moschusochsen-Hut</MuskOx_Gift_Adult_stt>
+      <MuskOx_Gift_Adult_lower>der Moschusochsen-Hut</MuskOx_Gift_Adult_lower>
+      <MuskOx_Gift_Adult_ltt>
+         <color r="255" g="248" b="178">
+            <b>Moschusochsen-Hut</b>
+         </color>
+         <br/>Besucher, die sich gerne Moschusochsen anschauen, kaufen dieses Andenken.
+      </MuskOx_Gift_Adult_ltt>
+      <!--foliage names-->
+      <DiamondLeafWillow_Tundra>Diamantblättrige Weide</DiamondLeafWillow_Tundra>
+      <DiamondLeafWillow_Tundra_stt>Diamantblättrige Weide</DiamondLeafWillow_Tundra_stt>
+      <DiamondLeafWillow_Tundra_lower>die diamantblättrige Weide</DiamondLeafWillow_Tundra_lower>
+      <DiamondLeafWillow_Tundra_ltt>
+         <color r="255" g="248" b="178">
+            <b>Diamantblättrige Weide</b>
+         </color>
+         <br/>Klicken Sie hier, um die diamantblättrige Weide auszuwählen und zu platzieren. Sie ist das Lieblingsfutter des Moschusochsen.
+      </DiamondLeafWillow_Tundra_ltt>
+      <!--guest thoughts-->
+      <AnimalDefend>%2s verteidigt sich gegen %1s!</AnimalDefend>
+      <!--animal actions-->
+      <DefendingAt>Verteidigt sich gegen %s</DefendingAt>
+   </entityname>
+   <zoopedia_muskox version="2">
+      <entry>Moschusochse</entry>
+      <text>
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/MuskOx/MuskOx_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						</cell>
+						<cell width="16">
+							<img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						</cell>
+						<cell width="16">
+							<img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						</cell>
+						<cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Artenschutzstatus:
+                     <br/>
+                        <color r="170" g="255" b="0">
+                     Gering gefährdet
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>   
+            
+               <cell width="128">
+                  <color r="255" g="255" b="255">Tundra<br/></color>
+                  <img src="ui/icon_biomes/icon_tundra.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+               </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Arktisch<br/></color>
+                  <img src="ui/icon_maplocations/Tundra_Arctic.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">Klasse: Säugetiere <i>(Mammalia)</i><br/>Ordnung: Paarhufer <i>(Artiodactyla)</i><br/>Familie: Hornträger <i>(Bovidae)</i><br/>Gattung: <i>Ovibos</i><br/>Art: <i>moschatus</i></color>
+               </cell>
+               <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/tundra_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+               </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Spannende Fakten zum Moschusochsen</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Moschusochsenbullen haben unter den Augen eine Drüse, aus der ein moschusartiger Geruch abgesondert wird, wenn sich die Tiere an Zweigen von Büschen und Bäumen reiben.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Moschusochsen gibt es seit der letzten Eiszeit. Vor Tausenden von Jahren lebten sie Seite an Seite mit den behaarten Mammuts.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Das Unterfell des Moschusochsen, Qiviut genannt, ist so weich wie Kaschmirwolle und gilt als die weltweite wärmste Faser.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Die Eskimos nennen den Moschusochsen "Oomingmak" - "der Bärtige".</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Moschusochsen leben in Herden von 10 bis 20 Tieren und bilden einen Kreis um ihre Jungen, wenn sie sich bedroht fühlen.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Die Hufe des Moschusochsen sind ideal zum Durchbrechen von Eis geeignet, um an Trinkwasser zu gelangen.</color>
+               </cell>
+            </cell>
+         </cell>
+         <cell width="340">
+         <color r="255" g="248" b="178">Um den Moschusochsen im Herausforderungs- oder Kampagnenmodus freizugeben, muss der Zoo einen Bekanntheitsgrad von 1/2 Stern erreichen.</color>
+         <p/>Der Moschusochse ist ein langhaariger, dunkelbrauner Wiederkäuer, der entgegen seinem Aussehen näher mit Ziegen und Schafen als mit Rindern verwandt ist. Der Moschusochse ist ursprünglich in Nordkanada und Grönland heimisch und wurde inzwischen auch in Alaska und anderen nördlichen Regionen eingeführt. Ein ausgewachsener Bulle erreicht eine Länge von 1,9 bis 2,3 Metern, eine Schulterhöhe von 1,2 bis 1,5 Metern und hat lange, nach unten gekrümmte Hörner mit scharfen, bogenförmig nach oben gerichteten Spitzen. Die Weibchen sind deutlich kleiner. Sowohl männliche als auch weibliche Moschusochsen besitzen zum Schutz gegen die Kälte ein dichtes Unterfell und ein bis an die Knöchel reichendes Deckfell. Seinen Namen hat der Moschusochse von dem starken Moschusgeruch, den das Männchen in der Brunstzeit absondert.
+         <p/>Moschusochsen wandern in Herden von 10 bis 100 Tieren. Der Mensch jagt Moschusochsen des Fleisches und der Felle wegen und hat dadurch die Bestände an sowie den Lebensraum dieser Tiere mittlerweile dramatisch reduziert. Inzwischen wurden verschiedene Anstrengungen unternommen, um die Tiere vor dem Aussterben zu retten. So stehen sie z. B. nun in Kanada unter besonderem Schutz. Wird die Herde bedroht, bilden die ausgewachsenen Tiere mit den Köpfen nach außen einen Kreis um die Jungtiere.
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Mit freundlicher Genehmigung von <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2004.</color></u></a>(C) 1993-2003 Microsoft Corporation. Alle Rechte vorbehalten.
+         </cell>
+      </text>
+   </zoopedia_muskox>
+   <zoopedia_diamondleafwillow>
+      <entry>Pflanze, Diamantblättrige Weide</entry>
+      <text>
+         <color r="255" g="255" b="255">
+            <cell pady="0" width="1000"/>
+            <p/>
+            <cell width="260"/>
+            <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+               <cell width="150">
+                  <img src="entities/objects/foliage/DiamondLeafWillow/DiamondLeafWillow_Tundra_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128"/>
+               </cell>
+               <cell pady="15" width="400">
+               <p/>Weide ist die gängige Bezeichnung für eine kleine Familie holziger Samenpflanzen und bestimmter Bäume dieser Gattung. Die Familie der Weidengewächse umfasst etwa 435 Arten von Weiden und Pappeln (siehe Pappel), einschließlich der Espenbäume und der amerikanischen Pappel. Weidengewächse bevorzugen in der Regel feuchte Standorte wie Auen und Ufer von Gewässern. Sie ist eine schnell wachsende Pflanze, die oft auch unter unwirtlichen Bedingungen gedeiht. Das Holz der Weide kann auf unterschiedlichste Weise genutzt werden, und die Blätter sind eine Futterquelle für viele Tiere. Einige Arten sind Zierpflanzen. Zur Familie gehören zwei Gattungen: Weiden und Pappeln. Beide sind in der nördlichen Hemisphäre weit verbreitet. Einige Arten kommen auch in der südlichen Hemisphäre vor. Bei den etwa 35 Pappelarten handelt es sich um Bäume. Die meisten der rund 400 Weidenarten sind Sträucher. Insbesondere in der arktischen Tundra kommen Weiden sehr häufig vor und bilden ein wichtiges Element der Vegetation. Sie wachsen dort sehr niedrig und bilden einen dichten Flächenbewuchs. Auch auf Bergen oberhalb der Baumgrenze sind Weiden heimisch.
+               <p/>Bei Weiden und Pappeln entwickeln sich weibliche und männliche Blüten jeweils auf verschiedenen Pflanzen. Die Blüten sind sehr einfach gebaut und besitzen weder Kelch- noch Blütenblätter. Sie stehen in dichten Blütenständen, die als Kätzchen bezeichnet werden. Diese bilden sich bereits vor oder während des Blattaustriebs im Frühjahr. Die windbestäubten Kätzchen der Pappeln, die von den Zweigen herabhängen, produzieren keinen Nektar. Weidenkätzchen stehen dagegen aufrecht und produzieren eine große Menge an duftendem Nektar, von dem viele Insekten, insbesondere Bienen und Falter, angezogen werden und so für die Bestäubung sorgen. Gewöhnlich werden im Pflanzenreich nur Pollen von Pflanzen mit aufwändigen, prächtigen Blüten durch Insekten verbreitet. Die Insektenbestäubung der sehr einfach aufgebauten Weidenkätzchen stellt eine Ausnahme dieser Regel dar. Zum Frühlingsanfang, bevor die meisten anderen Blüten blühen, sind viele Insekten jedoch auf den Nektar der Weidenkätzchen als Nahrungsquelle angewiesen.
+               <p/>Die Früchte der Weiden und Pappeln sind kleine Kapseln mit zahlreichen Samen. Die Samen werden mit dem Wind verbreitet, wobei jeder dieser Samen einen feinen, watteartigen Flaum trägt, mit dessen Hilfe er sich lange in der Luft halten und vom Wind transportiert werden kann. Wenn die Samen auf einem geeigneten, feuchten Boden landen, keimen sie sehr schnell innerhalb von ein bis zwei Tagen. Die meisten Weiden und Pappeln wachsen schnell und tragen schon innerhalb weniger Jahre die ersten Blüten. Sie haben allerdings auch eine kurze Lebensdauer. Einige Arten werden nur rund 20 Jahre alt.
+               <p/>Die einzelnen Arten der Weidengewächse sind von unterschiedlicher wirtschaftlicher Bedeutung. Die Zweige der Korbweide dienen als Flechtmaterial für Körbe, und das leichte, jedoch stabile Holz anderer Weidenarten wird für Prothesen, Holzschuhe oder Kricketschläger verwendet. Die Weidenrinde enthält den Wirkstoff Salizin, der in vielen Naturheilmitteln eingesetzt wird. Aspirin ist ein Derivat der Salicylsäure, die zuerst aus Weidenrinde synthetisiert wurde. Verschiedene Weidenarten sind wichtige Gartenpflanzen, insbesondere die Trauerweide und die Salweide.
+            </cell>
+            </cell>
+            <p/>
+         </color>
+      </text>
+   </zoopedia_diamondleafwillow>
+</ZT2Strings>

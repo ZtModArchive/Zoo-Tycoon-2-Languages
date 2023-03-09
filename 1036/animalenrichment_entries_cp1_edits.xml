@@ -1,0 +1,19 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_heatedrock" version="2"/>
+      <LOC_STRING _locID="zoopedia_heatedrock:entry" version="2">Rocher chauffant plat</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_heatedrock:text" version="2">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>
+                  <img src="entities/objects/enrichment/HeatedRock/HeatedRock_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>Un rocher chauffant est un large rocher qui a l'air naturel mais qui est artificiellement chauffé de l'intérieur afin d'imiter un rocher chauffé au soleil. Les rochers chauffants sont particulièrement appréciés des animaux africains tels que les lions, qui retrouvent le plaisir des grands rochers chauffés au soleil de la savane africaine.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+
+</ZT2Strings>

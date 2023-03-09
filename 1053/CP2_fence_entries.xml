@@ -1,0 +1,49 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_extinctfence:entry">Stängsel – utdöda arter</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_extinctfence:text">
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\objects\fences\extinct_xt\extinct_xt_icon.dds" sx="0" sy="0" sw="64" sh="64"/>   
+      <img src="entities\objects\fences\lowextinct_xt\lowextinct_xt_icon.dds" sx="0" sy="0" sw="64" sh="64"/>     
+      <p/>
+	Stängsel med temat utdöda arter fungerar bäst på inhägnader med utdöda djur och allmänna områden intill. Både höga och låga varianter kan omge utdöda djur som är mindre aggressiva.
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_extinctwindowfence:entry">Stängsel med fönsterglugg – utdöda arter</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_extinctwindowfence:text">
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\objects\fences\extinctwindow_xt\extinctwindow_xt_icon.dds" sx="0" sy="0" sw="64" sh="64"/>     
+      <p/>
+	Besökarna tycker om stängsel med temat utdöda arter med fönstergluggar. De omger dina utdöda djur och ger besökarna bra insyn.
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_electricfence:entry">Elektriskt stängsel</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_electricfence:text">
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\objects\fences\electric_fence\electricfence_icon.dds" sx="0" sy="0" sw="64" sh="64"/>     
+      <p/>
+	Det här elektriska trådstängslet är ett billigare och svagare alternativ till dinosauriestängslet, och bör hålla de mindre dinosaurierna instängda.
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+
+</ZT2Strings>

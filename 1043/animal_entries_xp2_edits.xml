@@ -1,0 +1,265 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_moose" version="6"/>
+      <LOC_STRING _locID="zoopedia_moose:entry" version="6">Eland</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_moose:text" version="6">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+               <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+                  <img src="entities/units/animals/Moose/Moose_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+               </cell>
+               <cell width="16">
+                  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+               </cell>
+               <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+                  <img src="entities/units/animals/Moose/Moose_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+               </cell>
+               <cell width="16">
+                  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+               </cell>
+               <cell width="60"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Status:
+                     <br/>
+                        <color r="170" g="255" b="0">
+                     Laag risico
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>             
+            
+               <cell width="128">
+                  <color r="255" g="255" b="255">Noordelijk bos</color>
+                  <br/>
+                  <img src="ui/icon_biomes/icon_borealforest.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+               </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Noord-Amerika</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/Boreal_America_North.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+Klasse: zoogdieren                                                                            
+                     <i>(Mammalia)</i>
+                     <br/>
+Orde: evenhoevigen                                                        
+                     <i>(Artiodactyla)</i>
+                     <br/>
+Familie: herten                                                        
+                     <i>(Cervidae)</i>
+                     <br/>
+Geslacht:		                                                       
+                     <i>alces  </i>
+                     <br/>
+Soort:	                                                       
+                     <i>alces</i>
+                     <br/>
+Ondersoort:	                                                       
+                     <i>americana</i>
+                  </color>
+               </cell>
+               <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/borealforest_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+               </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Interessante feiten over de eland</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Vrouwtjes beschermen hun jong tegen wolven door het kalf naar ondiep water te leiden en vervolgens tussen het jong en de wolven in te gaan staan. Meestal blazen de wolven de aftocht.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Ter bescherming tegen wolven trekken elanden zich vaak terug in meren en moerassen. Ze zijn hier veilig tot het water in de winter bevriest en de wolven hen kunnen volgen.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Elanden kunnen wel 5,5 m diep duiken en zo'n 40 seconden onder water blijven op zoek naar waterplanten en wortels.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Een eland heeft een schofthoogte van 2 m.</color>
+               </cell>
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">De eland komt in de modus Uitdaging of Campagne beschikbaar zodra je dierentuin een bekendheidsscore van 0,5 ster behaalt.
+            </color>
+            <p/>Eland is de algemene benaming voor het grootste lid van de familie der herten. De Engelse naam van de eland, 'moose', is de naam die de Noord-Amerikaanse indianenstam Algonquin het dier heeft gegeven. Dit betekent 'twijgeneter', een verwijzing naar het belangrijkste voedsel van het dier, bladeren en twijgen. Elanden komen voor in de bossen van noordelijk Azië en Europa, in het gebied tussen Siberië en Noorwegen, de Baltische regio en het noorden van China. In Noord-Amerika leven elanden in de bossen van Canada en het noorden van de Verenigde Staten. De eland wordt in deze gebieden ook wel een wapiti genoemd. Elanden zijn heel groot. De schouderhoogte van mannetjes ofwel stieren kan zo'n 2 m bedragen. Stieren kunnen meer dan 726 kg wegen. Elanden hebben opvallend lange poten. Hierdoor hoeven ze hun voedsel niet alleen in lage onderbegroeiing en op kleine bomen te zoeken, maar kunnen ze ook in moerassen en meren op zoek gaan naar waterplanten. Elanden bewegen zich probleemloos in het water en zijn goede zwemmers.                                    
+            <p/>De kop van de eland is groot en hij heeft een overhangende bovenlip. Onder de kin hangt een zogeheten lob. Dit is een huidzakje dat bedekt is met lange haren. De grote oren van de eland zijn voortdurend in beweging en fungeren als een soort radar.     		Het dier heeft dan ook een uitstekend gehoor. Rond de nekwervels is een grote bult zichtbaar.     		Hieraan zijn sterke gewrichtsbanden bevestigd, met behulp waarvan het dier de grote kop rechtop kan houden.     		Het lichaam van een eland is overwegend bruinzwart. 's Zomers is de kop van het dier bruin. Zodra de paartijd nadert, krijgen stieren een donkerbruine tot zwarte kop.                        
+            <p/>De stieren dragen een enorm schoffelgewei met een aantal uitstulpingen. De spanwijdte van het gewei kan ruim 1,5 m     		bedragen en het gewicht 22,7 kg. Het gewei is bedekt met een zachte, voedselrijke huid.     		Begin september wordt dit omhulsel afgeworpen en vaak door de stieren opgegeten. De geweien zelf worden jaarlijks     		na afloop van de paartijd afgeworpen, wat meestal eind september is. Oudere stieren werpen hun gewei in december af.     		Tegen het einde van januari hebben de meeste stieren zich van het oude gewei ontdaan. Soms gebeurt het dat jonge stieren het oude gewei     		tot in februari blijven gebruiken. Begin april begint het nieuwe gewei op te komen.                        
+            <p/>Elanden leven meestal solitair, hoewel er in de paartijd soms groepen van zo'n 10 dieren worden gevormd, vooral in de Canadese provincie Yukon Territory en in Alaska. Zowel vrouwtjes als mannetjes kunnen paren zodra ze twee jaar oud zijn. In de paartijd wordt door de stieren gevochten om de wijfjes. Ze vallen elkaar hierbij met hun gewei aan. De draagtijd duurt ongeveer 230 dagen, zodat de meeste kalveren rond eind mei worden geboren. Een vrouwtje werpt meestal één kalf, hoewel er soms ook tweelingen worden geboren. Er zijn zelfs gevallen bekend van een worp met drie of vier kalveren. Kalveren hebben een roodbruine vacht en wegen bij hun geboorte tussen de 11 en 16 kg.                        
+            <p/>Elanden worden gemiddeld 5 tot 6 jaar oud, hoewel er ook elanden van 20 jaar voorkomen. De     		leeftijd van een eland kan worden vastgesteld aan de hand van het ringenpatroon in de wortel     		van de middelste snijtand. Het ringenpatroon is vergelijkbaar met dat van bomen. Een donkere ring staat in combinatie     		met een lichte ring voor één levensjaar.                        
+            <p/>Het voedselpatroon van elanden wordt bepaald door de seizoenen. In de herfst, winter en lente voeden elanden zich met wat er     		in de zomer is gegroeid aan ratelpopulieren, zwarte populieren, wilgen, berken, hazelaars, kornoeljes en balsemsparren. In de overgang van lente     		naar zomer vullen de elanden hun voorraad minerale zouten aan door natuurlijk zout op te likken      		uit zoutpannen of van zoutstenen. 's Zomers geven elanden de voorkeur aan waterplanten. Ze kunnen 40 secondencan     		onder water blijven op zoek naar dit voedsel.    		Ondanks hun omvang en hun vermogen kortstondig een snelheid van 58 km per uur te ontwikkelen,     		worden elanden gegrepen door wolven, bruine beren en 	                        
+        
+            <a href="zoopedia:zoopedia_grizzly:entry">
+               <u>
+                  <color r="255" g="231" b="135">grizzlyberen.</color>
+               </u>
+            </a> Uit onderzoek is gebleken dat tot 75 procent van de elandkalveren in de eerste acht weken van hun leven ten prooi valt aan beren. Verder heeft de eland 's winters veel te duchten van teken. De huid van de eland wordt geïrriteerd door tekenbeten. Als gevolg daarvan schuren de dieren delen van hun vacht af die ze in de winter moet beschermen tegen de extreme kou waaraan ze meestal worden blootgesteld. Een strenge winter en ernstige tekenplagen kunnen er de oorzaak van zijn dat de helft van een elandpopulatie deze periode niet overleeft.                           
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Bijdrage van: Vince Crichton   			                        
+            <br/>Inhoud beschikbaar gesteld door                         
+            <a href="zoopedia:zoopedia_encarta:entry">
+               <u>
+                  <color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2004.</color>
+               </u>
+            </a>(C) 1993-2003 Microsoft Corporation. Alle rechten voorbehouden.                           
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_peafowl" version="6"/>
+      <LOC_STRING _locID="zoopedia_peafowl:entry" version="6">Pauw, blauwe</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_peafowl:text" version="6">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/PeafowlCommon/PeafowlCommon_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>
+						<cell width="16">
+							<img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						</cell>
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/PeafowlCommon/PeafowlCommon_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>
+						<cell width="16">
+							<img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						</cell>
+						<cell width="60"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Status:
+                     <br/>
+                        <color r="170" g="255" b="0">
+                     Laag risico
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>             
+
+               <cell width="128">
+                  <color r="255" g="255" b="255">Gematigd woud</color>
+                  <br/>
+                  <img src="ui/icon_biomes/icon_temperateforest.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+               </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Azië</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/temperateforest_Asia.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                     Klasse: vogels                                                        
+                     <i>(Aves)</i>
+                     <br/>
+                     Orde: hoendervogels                                                        
+                     <i>(Galliformes)</i>
+                     <br/>
+                     Familie: Kwartels, patrijzen, frankolijnen, fazanten, 	                                                       
+                     <br/>
+                     korhoenders, kalkoenen                                                        
+                     <i>(Phasianidae)</i>
+                     <br/>
+                     Geslacht: <i>Pavo  </i>
+                     <br/>
+                     Soort:	                                                       
+                     <i>cristatus</i>
+                  </color>   
+               </cell>
+               <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/temperateforest_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+               </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Interessante feiten over de blauwe pauw</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Pauwen zijn omnivoren en leven van wormen, insecten, kleine slangen en zaden.</color>
+               </cell>
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">
+            De blauwe pauw komt in de modus Uitdaging of Campagne beschikbaar zodra je dierentuin een bekendheidsscore van 0,5 ster behaalt.
+            </color>
+            <p/>Pauw is de algemene benaming voor drie leden van de familie der fazantvogels. Zoals bij veel vogels het geval is, heet de mannetjespauw haan en de vrouwtjespauw hen. Er zijn twee Aziatische soorten: de blauwe of Indische pauw, en de groene pauw. De derde pauwensoort, de Congopauw, komt alleen voor in de wouden van de Democratische Republiek Congo, het voormalige Zaïre. De Aziatische pauwen zijn befaamd om hun schitterende sleep met veren, die hun vrij korte staart aan het oog onttrekt en tijdens de paringsdans herhaaldelijk in- en uit worden gevouwen. De veren zijn meestal glanzend groen en goudkleurig, versierd met diepblauwe pauwenogen. Deze diepblauwe kleur is ook te zien op de kop, nek, borst en gam van de blauwe pauw. Bij de groen pauw zijn deze lichaamsdelen groen van kleur. De hen heeft geen sleep en is ook minder opvallend van kleur dan de haan. De hen bouwt haar nest op de grond of op laaghangende boomtakken. De vogels leven van een veelzijdig dieet van wormen, insecten, kleine slangen en zaden.                                    
+            <p/>De blauwe pauw komt in veel gebieden ter wereld als tamme vogel voor. Op Hawaï leven nog enkele populaties in het wild. Middels selectieve fokmethoden is er ook een witte variant ontwikkeld.                           
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">
+         Inhoud beschikbaar gesteld door 
+            <a href="zoopedia:zoopedia_encarta:entry">
+               <u>
+                  <color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2004.</color>
+               </u>
+            </a>
+            C) 1993-2003 Microsoft Corporation. Alle rechten voorbehouden.                           
+         </cell>
+      </LOC_STRING>
+
+</ZT2Strings>

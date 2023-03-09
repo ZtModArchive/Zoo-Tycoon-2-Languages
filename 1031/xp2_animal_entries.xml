@@ -1,0 +1,2164 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_beluga:entry">Beluga</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_beluga:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/Beluga/Beluga_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>						 
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/vulnerable.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Gefährdungsstatus:
+                     <br/>
+                        <color r="255" g="255" b="0">
+                     Gering gefährdet
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+				 <cell width="128">
+				  <color r="255" g="255" b="255">Tundra<br/></color>
+				  <img src="ui/icon_biomes/icon_tundra.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+				 </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Arktischer Ozean</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/tundra_arctic_ocean.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Klasse: Säugetiere <i>(Mammalia)</i>
+                  <br/>
+                  Ordnung: <i>Cetacea</i>
+                  <br/>
+                  Familie: <i>Monodontidae</i>
+                  <br/>
+                  Gattung: <i>Delphinapterus</i>
+                  <br/>
+                  Art: <i>leucas</i>
+                  </color>
+               </cell>
+				 <cell width="256" pady="10">
+				  <img src="UI/zoopedia/biome/tundra_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+				 </cell>				 
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Spannende Fakten zum Beluga</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Belugas sind bei der Geburt dunkelgrau, braun oder schwarz. Bis zum Erreichen eines Alters von fünf Jahren nehmen sie jedoch allmählich eine vollständig weiße Farbe an.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Belugas können nicht nur vorwärts, sondern auch rückwärts schwimmen!</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Sie zerkauen ihre Nahrung nicht, sondern verschlingen sie in einem Stück.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Belugas suchen in flachem Gewässer in Bodennähe nach Nahrung und ernähren sich daher gewöhnlich von am Meeresboden lebenden Fischen.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Aufgrund ihres beweglichen Halses können sie sich auch beim Fressen noch flexibel bewegen. Sie können außerdem mit ihrem Maul einen starken Sogeffekt erzeugen und so alle Tiere einer bestimmten Größe einverleiben, auch die, die sich dagegen sträuben!</color>
+               </cell>                
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">Um den Beluga im Herausforderungs- oder Kampagnenmodus freizugeben, muss der Zoo einen Bekanntheitsgrad von 1/2 Stern erreichen.</color>
+            <p/>Der Beluga ist eng mit dem Delfin verwandt. Er besitzt Zähne, einen sehr prägnanten Kopf und kurze Flossen. Der Name des Tiers ist vom russischen Begriff "Byelukha" abgeleitet, was auf Deutsch "weiß" bedeutet. Belugas werden ohne Rückenflosse geboren und sind dabei schwarz oder dunkelbraun gefärbt. Diese Farbe wechselt innerhalb von etwa fünf Jahren in ein milchiges Weiß. Während männliche Tiere eine Länge von bis zu 7 m und ein Gewicht von einer Tonne erreichen können, sind die Weibchen etwas kleiner. Belugas wandern in Gruppen von mehreren hundert Tieren und ernähren sich von Fischen, Kraken, Krabben, Schnecken und Tintenfischen. Sie sind im Nordpolarmeer heimisch und ziehen in Richtung Süden – teilweise sogar bis in den Staat New Jersey in den USA und zum Rhein in Europa.     
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Mit freundlicher Genehmigung von <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft® Encarta® 2006.</color></u></a> © 1993-2005 Microsoft Corporation. Alle Rechte vorbehalten.
+         </cell>         
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_dolphinbottlenose:entry">Tümmler, Großer</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_dolphinbottlenose:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/DolphinBottlenose/DolphinBottlenose_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>						 
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/vulnerable.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Gefährdungsstatus:
+                     <br/>
+                        <color r="255" g="255" b="0">
+                     Gefährdet
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+				 <cell width="128">
+				  <color r="255" g="255" b="255">Küste<br/></color>
+				  <img src="ui/icon_biomes/icon_coastal.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+				 </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Warme Weltmeere</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/pelagic_warm_oceans_worldwide.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Klasse: Säugetiere <i>(Mammalia)</i>
+                  <br/>
+                  Ordnung: <i>Cetacea</i>
+                  <br/>
+                  Familie: <i>Delphinidae</i>
+                  <br/>
+                  Gattung: <i>Tursiops</i>
+                  <br/>
+                  Art: <i>truncatus</i>
+                  </color>
+               </cell>
+				 <cell width="256" pady="10">
+				  <img src="UI/zoopedia/biome/coastal_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+				 </cell>				 
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Spannende Fakten zum Großen Tümmler</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Das Gehirn eines Großen Tümmlers ist sogar größer als das eines Menschen!</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Große Tümmler nehmen täglich zwischen 6 und 7 kg Fisch zu sich.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Manchmal lähmen Delfine ihre Beute mit hochfrequenten Klicklauten.</color>
+               </cell>                 
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">Um den Großen Tümmler im Herausforderungs- oder Kampagnenmodus freizugeben, muss der Zoo einen Bekanntheitsgrad von 3 1/2 Sternen erreichen.</color>
+            <p/>Der Große Tümmler ist die am besten erforschte und bekannteste Delfinart. Er ist an fast allen tropischen und gemäßigten Küsten zu finden. Große Tümmler halten sich überwiegend in Küstennähe auf und bilden häufig Gruppen von weniger als 20 Tieren. Manche Unterarten sind jedoch auch fern der Küste heimisch – in tiefen Gewässern können die Gruppen aus bis zu 200 Tieren bestehen. Einige Populationen wandern mit den Jahreszeiten.
+            <p/>Die englische Bezeichnung "Bottlenose Dolphin" (Flaschenhalsdelfin) verdankt der Große Tümmler seiner Schnauze, die sich wie ein Flaschenhals deutlich vom Kopf absetzt. Die Tiere sind an der Oberseite gewöhnlich dunkelgrau, haben aber einen helleren Bauch. Die Länge erwachsener Tiere ist unterschiedlich und liegt zwischen 2 und 4 Metern. Die Männchen sind etwas größer als die Weibchen, und die in kälteren Gewässern lebenden Großen Tümmler sind größer als ihre Warmwasserartgenossen. Große Tümmler verfügen über eine markante, geschwungene Rückenflosse, deren dünner hinterer Rand leicht einreißt. Forscher sind daher in der Lage, anhand der charakteristischen Flossenumrisse einzelne Tiere und Gruppen zu identifizieren und zu verfolgen.
+            <p/>Große Tümmler ernähren sich von vielen verschiedenen Arten von Beutetieren, z. B. von Garnelen, Tintenfischen, anderen wirbellosen Tieren und Fischen. Die Delfine jagen ihre Beute, indem sie mit ihrer Schnauze in Küstennähe Felsspalten erkunden, indem sie Fische in die Richtung von Sandbänken jagen oder indem sie gemeinsam ihre Beute in dichten Schwärmen an die Küste oder die Wasseroberfläche treiben. Sie profitieren außerdem von der Fischerei, indem sie Garnelenbooten folgen und Teile von deren Beute sowie des nicht benötigten Fangs fressen.
+            <p/>Große Tümmler sind gesellig und bleiben häufig lebenslang zusammen. Die Weibchen werden nach 5 bis 12 Jahren geschlechtsreif, die Männchen nach 9 bis 13 Jahren. Nach einer Tragezeit von etwa 12 Monaten wird ein einzelnes Kalb geboren. Die Kälber werden dann etwa 18 Monate lang gesäugt. Delfine kommunizieren miteinander über ein breites Repertoire an Pfeif- und Krächztönen. Einzelne Delfine scheinen sogar einen individuellen Pfeifton zu beherrschen. Große Tümmler orten sehr kleine Objekte durch Echopeilung, d. h., sie stoßen hochfrequente Klicklaute aus, die von ihrer Beute und anderen Gegenständen reflektiert werden. Anhand des zurückgegebenen Echos können dann einzelne Objekte erkannt werden.
+            <p/>Große Tümmler gelten oft als die anpassungsfähigsten Waltiere, da sie in vielen Teilen der Welt sogar inmitten von Hafenindustrie und Schifffahrtskanälen überleben können. Inzwischen sind sie oftmals eines der Ziele von Wal- und Delfinbeobachtungstouren und anderen touristischen Aktivitäten. Außerdem sind sie die wohl am häufigsten in Zoos und Meeresaquarien gehaltene Delfinart. Große Tümmler wurden wegen ihres Fleisches sowie zur Herstellung von Dünger und Öl gejagt. Ihr Bestand scheint sich jedoch mit Ausnahme des Schwarzen Meeres, in dem Verschmutzung und Überfischung ihnen ebenso viel Schaden zugefügt haben wie die direkte Tötung, nicht nennenswert verringert zu haben.      
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Mit freundlicher Genehmigung von <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft® Encarta® 2006.</color></u></a> © 1993-2005 Microsoft Corporation. Alle Rechte vorbehalten.
+         </cell>         
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_manateewestindian:entry">Rundschwanzseekuh</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_manateewestindian:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/ManateeWestIndian/ManateeWestIndian_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>						 
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/vulnerable.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Gefährdungsstatus:
+                     <br/>
+                        <color r="255" g="255" b="0">
+                     Gefährdet
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+				 <cell width="128">
+				  <color r="255" g="255" b="255">Küste<br/></color>
+				  <img src="ui/icon_biomes/icon_coastal.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+				 </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Atlantischer Ozean</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/coastal_carribean_atlantic_ocean.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Klasse: Säugetiere <i>(Mammalia)</i>
+                  <br/>
+                  Ordnung: <i>Sirenia</i>
+                  <br/>
+                  Familie: <i>Trichechidae</i>
+                  <br/>
+                  Gattung: <i>Trichechus</i>
+                  <br/>
+                  Art: <i>manatus</i>
+                  <br/>
+                  Unterart: <i>manatus</i>                  
+                  </color>
+               </cell>
+				 <cell width="256" pady="10">
+				  <img src="UI/zoopedia/biome/coastal_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+				 </cell>				 
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Spannende Fakten zur Rundschwanzseekuh</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Rundschwanzseekühe verfügen über ein hervorragendes Gehör, und Mütter halten mit ihren Kälbern über schrille Quiektöne Kontakt.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Früher wurden sie von Seeleuten aus der Ferne gelegentlich für Meerjungfrauen gehalten.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Da sie sich relativ langsam fortbewegen und flache Gewässer bevorzugen, droht ihnen die größte Gefahr durch Propeller von Motorbooten.</color>
+               </cell>                 
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">Um die Rundschwanzseekuh im Herausforderungs- oder Kampagnenmodus freizugeben, muss der Zoo einen Bekanntheitsgrad von 1 1/2 Sternen erreichen.</color>
+            <p/>Die Rundschwanzseekuh, auch Manati genannt, heißt so, weil sie sich von Meergras und anderen Wasserpflanzen ernährt. Die Rundschwanz- oder Karibische Seekuh ist in Flüssen und Küstengewässern zwischen den USA und dem Golf von Mexiko sowie zwischen dem Karibischen Meer und dem nordöstlichen Brasilien heimisch.
+            <p/>Der Körper einer ausgewachsenen Seekuh ist gewöhnlich rund und endet in einem horizontal abgeflachten, abgerundeten Schwanz. Die Färbung reicht von hell- bis dunkelgrau oder schwarz. Der Körper wird je nach Art 2,5 bis 4,5 Meter lang und das Gewicht liegt zwischen 200 und 600 kg. Der relativ kleine Kopf zeichnet sich durch eine gerade Schnauze und eine gespaltene Oberlippe mit borstigen Haaren aus. Wenn sich das Tier unter Wasser aufhält, sind die Nasenlöcher auf der Oberseite der Schnauze durch Klappen fest verschlossen. Die paddelartigen Vordergliedmaßen befinden sich dicht am Kopf, die hinteren Gliedmaßen sind völlig rückgebildet. Die wuchtigen, schweren Knochen und die langen, schmalen Lungen, die sich über die Länge der gesamten Körperhöhle erstrecken, ermöglichen der Rundschwanzseekuh einen gleichmäßig verteilten Auftrieb. Der Nachwuchs kommt etwa ein Jahr nach der Paarung zur Welt – in den meisten Fällen wird ein einzelnes, rosafarbenes Kalb geboren.
+            <p/>Rundschwanzseekühe leben in kleinen Familienverbänden, manchmal sind sie jedoch auch in Herden von 15 bis 20 Tieren unterwegs. Sie suchen ihr Futter sowohl im Süß- als auch im Salzwasser und sind täglich sechs bis acht Stunden auf Nahrungssuche. Ein ausgewachsenes Tier nimmt täglich eine 5 bis 10 Prozent seines Körpergewichts entsprechende Menge zu sich. Da die Rundschwanzseekuh einen langsameren Stoffwechsel als andere Säugetiere ähnlicher Größe hat, ist ihr Energiebedarf wesentlich geringer. Dies ist besonders für im Amazonas lebende Rundschwanzseekühe dann sehr wichtig, wenn das Wasser nach einer Flut zurückgeht und manche Tiere über einen längeren Zeitraum in flachen Gewässern ohne Pflanzen oder Ufergebiete gefangen sind.
+            <p/>Aufgrund ihrer Größe ist die Anzahl ihrer natürlichen Feinde gering. Die Anzahl der Tiere hat sich jedoch sowohl aufgrund der intensiven Jagd nach Häuten, Fleisch und Tran als auch durch Unfälle mit Booten beträchtlich verringert. Projekte zum Schutz der Rundschwanzseekuh in Afrika oder Südamerika stehen oft mit der traditionellen und überlebensnotwendigen Jagd auf die Tiere in Konflikt. Ein praktisches Argument, das für engagierte Artenschutzbemühungen für die Seekuh spricht, ist die Tatsache, dass die Tiere der Verstopfung von Bewässerungs- und Transportkanälen durch Pflanzen entgegenwirken.
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Mit freundlicher Genehmigung von <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft® Encarta® 2006.</color></u></a> © 1993-2005 Microsoft Corporation. Alle Rechte vorbehalten.
+         </cell>         
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_marlinblue:entry">Marlin, Blauer</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_marlinblue:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/MarlinBlue/MarlinBlue_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>						 
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Gefährdungsstatus:
+                     <br/>
+                        <color r="170" g="255" b="0">
+                     Gering gefährdet
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+				 <cell width="128">
+				  <color r="255" g="255" b="255">Hochsee<br/></color>
+				  <img src="ui/icon_biomes/icon_pelagic.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+				 </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Atlantischer Ozean</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/pelagic_atlantic_ocean.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Klasse: Strahlenflosser <i>(Actinopterygii)</i>
+                  <br/>
+                  Ordnung: <i>Perciformes</i>
+                  <br/>
+                  Familie: <i>Istiophoridae</i>
+                  <br/>
+                  Gattung: <i>Makaira</i>
+                  <br/>
+                  Art: <i>nigricans</i>
+                  </color>
+               </cell>
+				 <cell width="256" pady="10">
+				  <img src="UI/zoopedia/biome/pelagic_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+				 </cell>				 
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Spannende Fakten zum Blauen Marlin</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Die lange "Nase" des Blauen Marlins ist eigentlich ein Teil seines Oberkiefers.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Der Blaue Marlin ist die größte Art der Fächerfische.</color>
+               </cell>            
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">Um den Blauen Marlin im Herausforderungs- oder Kampagnenmodus freizugeben, muss der Zoo einen Bekanntheitsgrad von 1 Stern erreichen.</color>
+            <p/>Der Blaue Marlin ist bekannt für seinen langen, scharfkantigen Schnabel und seinen schlanken, sichelförmigen Schwanz. Er frisst Kraken, Thunfische und Makrelen und jagt in der Regel tagsüber und allein. Dabei setzt er seinen scharfkantigen Schnabel als Waffe ein. 
+            <p/>Er verfügt über einen ausgeprägten Wandertrieb und zieht durch einen großen Teil des Atlantiks – im Winter in Richtung des Äquators und im Sommer in die entgegengesetzte Richtung. Aufgrund seiner hydrodynamischen Form und seiner großen Stärke ist er im Meer einer der schnellsten Schwimmer. Einige Wissenschaftler sind der Ansicht, dass der Blaue Marlin (Makaira Nigricans) und der Indopazifische Blaue Marlin (Makaira Mazara) unterschiedliche Arten sind. Für andere Forscher wiederum stellen alle derartigen Fische eine einzige Art dar, deren Lebensraum den Atlantik, den Pazifik und den Indischen Ozean umfasst.           
+         </cell>        
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_narwhal:entry">Narwal</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_narwhal:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/Narwhal/Narwhal_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/Narwhal/Narwhal_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>							 
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>						 
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/vulnerable.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Gefährdungsstatus:
+                     <br/>
+                        <color r="255" g="255" b="0">
+                     Gefährdet
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+				 <cell width="128">
+				  <color r="255" g="255" b="255">Tundra<br/></color>
+				  <img src="ui/icon_biomes/icon_tundra.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+				 </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Arktischer Ozean</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/tundra_arctic_ocean.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Klasse: Säugetiere <i>(Mammalia)</i>
+                  <br/>
+                  Ordnung: <i>Cetacea</i>
+                  <br/>
+                  Familie: <i>Monodontidae</i>
+                  <br/>
+                  Gattung: <i>Monodon</i>
+                  <br/>
+                  Art: <i>monoceros</i>
+                  </color>
+               </cell>
+				 <cell width="256" pady="10">
+				  <img src="UI/zoopedia/biome/tundra_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+				 </cell>				 
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Spannende Fakten zum Narwal</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Narwale halten sich in der Regel ganzjährig nördlich des Polarkreises auf. Einige Exemplare wurden jedoch auch sogar im Mittelmeer gesichtet.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Die Wikinger trugen Stoßzähne von Narwalen und gaben diese als Hörner von Einhörnern aus.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Die Bezeichnung "Narwal" ist vom altnordischen Wort für "Leichenwal" abgeleitet.</color>
+               </cell>               
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">Um den Narwal im Herausforderungs- oder Kampagnenmodus freizugeben, muss der Zoo einen Bekanntheitsgrad von 3 Sternen erreichen.</color>
+            <p/>Der Narwal ist ein Zahnwal mit einem kräftigen Körperbau und ist ausschließlich in tiefen hocharktischen Gewässern in der Nähe von schwimmenden Eisschollen heimisch. Er ist ein enger Verwandter des Belugawals. Narwale sind schwarz-weiß gesprenkelt. Während die Weibchen eine Länge von bis zu 4,2 m erreichen, werden die Männchen bis zu 4,7 m lang. Narwale verfügen nur über zwei Zähne, die sich beide im Oberkiefer befinden. Der linke Zahn eines ausgewachsenen männlichen Narwals wächst spiralförmig aus dem Kopf heraus. Dieser Stoßzahn erreicht eine Länge von bis zu 3 m. Mit diesem Stoßzahn erreicht ein älterer männlicher Narwal eine Länge von fast 8 m.
+            <p/>Sie treten häufig in kleinen Gruppen von etwa 12 Tieren auf, die wiederum größeren Herden angehören. Sie wandern jahreszeitenbedingt mit der sich verschiebenden Eisgrenze und halten sich auch unter überraschend dickem Eis auf. Sie ernähren sich von Fischen, Tintenfischen und Garnelen. Die Mitglieder einer Herde trennen sich insbesondere während der Wanderung häufig nach Alter und Geschlecht. In diesen Fällen können Gruppen aus fast erwachsenen oder erwachsenen Tieren leicht anhand der Länge ihrer Stoßzähne auseinander gehalten werden.
+            <p/>Das Sozialverhalten der Narwale ist fast unerforscht. Die Wissenschaftler glauben jedoch, dass die Männchen Werberituale und sogar Kämpfe um die Gunst der Weibchen austragen. Männliche Tiere wurden bei "Schaukämpfen" an oder über der Wasseroberfläche unter Einsatz ihrer Stoßzähne beobachtet. So sieht man auch gelegentlich Männchen mit einem teilweise abgebrochenen Stoßzahn oder mit Stoßzahnspitzen, die an einer Stelle aus ihrem Körper ragen. Tödliche Verletzungen durch die Stoßzähne sind aber wahrscheinlich sehr selten. Ein ausgewachsenes Weibchen kann alle drei Jahre Nachwuchs zur Welt bringen. Die Tragezeit beträgt etwa 15 Monate, bevor dann im Sommer ein Kalb geboren wird.
+            <p/>Narwale werden von den Inuit und einigen anderen Nordeuropäern wegen ihrer Haut, ihres Fleischs und des Trans sowie wegen ihrer Stoßzähne gejagt. Die Stoßzähne werden ganz oder in bearbeiteter Form als Dekoration verwendet. Manchmal werden sie auch zu medizinischen Zwecken fein gemahlen. Obwohl diese Art nicht bedroht zu sein scheint, hat eine übermäßige lokale Jagd auf einzelne Narwale sowie auf deren Nahrung möglicherweise einen spürbaren Einfluss auf den Gesamtbestand.
+         </cell>            
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Mit freundlicher Genehmigung von <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft® Encarta® 2006.</color></u></a> © 19932005 Microsoft Corporation. Alle Rechte vorbehalten.            
+         </cell>        
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_ottersea:entry">Seeotter</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_ottersea:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/OtterSea/OtterSea_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>							 
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>						 
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/endangered.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Gefährdungsstatus:
+                     <br/>
+                        <color r="255" g="155" b="0">
+                     Bedroht
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+				 <cell width="128">
+				  <color r="255" g="255" b="255">Küste<br/></color>
+				  <img src="ui/icon_biomes/icon_coastal.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+				 </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Nordpazifische Küsten</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/coastal_north_pacific_coasts.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Klasse: Säugetiere <i>(Mammalia)</i>
+                  <br/>
+                  Ordnung: <i>Carnivora</i>
+                  <br/>
+                  Familie: <i>Mustelidae</i>
+                  <br/>
+                  Gattung: <i>Enhydra</i>
+                  <br/>
+                  Art: <i>lutris</i>                
+                  </color>
+               </cell>
+				 <cell width="256" pady="10">
+				  <img src="UI/zoopedia/biome/coastal_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+				 </cell>				 
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Spannende Fakten zum Seeotter</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Der Otter ist das kleinste Meeressäugetier.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Seeotter können bis zu 6 Minuten unter der Wasseroberfläche bleiben.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Manchmal lassen sie sich auf dem Rücken treiben und brechen dabei auf ihrer Brust mit Steinen Schalentiere auf.</color>
+               </cell>                 
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">Um den Seeotter im Herausforderungs- oder Kampagnenmodus freizugeben, muss der Zoo einen Bekanntheitsgrad von 2 1/2 Sternen erreichen.</color>
+            <p/>Der Seeotter ist an den amerikanischen und asiatischen Küsten des Nordpazifiks heimisch. Sie ähneln in ihrer Erscheinung und dem Lebensraum den eurasischen und nordamerikanischen Ottern. Sie verfügen über einen stabilen Körperbau und erreichen eine Länge von 1 bis 1,2 m. Seeotter ernähren sich überwiegend von Weichtieren und Seeigeln, die sie mit ihren großen, stumpfen Zähnen zermalmen. Sie öffnen außerdem häufig Schalentiere mithilfe von Steinen, während sie auf dem Rücken schwimmen. Weibliche Tiere bringen häufig jeweils nur ein Jungtier zur Welt, das sie im Rücken auf dem Wasser treibend säugen. Der Seeotter ist das einzige Meerestier, das nicht über eine isolierende Fettschicht zum Schutz vor dem eiskalten Meerwasser verfügt. Als Ausgleich für diesen Fettmangel muss der Seeotter ständig sein Fell putzen, damit es sehr sauber bleibt und sich über der Haut eine isolierende Luftschicht bilden kann. Wenn ihr Fell durch Öl verschmutzt wird, können sich Seeotter nicht mehr gegen das kalte Meerwasser schützen, da das Öl ihr Fell verklebt und so die Bildung eines isolierenden Luftpolsters verhindert. Außerdem nimmt der Seeotter in diesem Fall bei der Reinigung seines Fells Öl zu sich. Dies führt meist zu schweren Krankheiten und dem Tod.
+            <p/>Der Pelz des Seeotters ist ein überaus kostbarer Pelz. Das braune Innenfell ist weich, dicht und wollig und wird von einem gröberen Außenfell bedeckt, das aus längeren und an den Spitzen grauen Haaren besteht. Die einst sehr großen Seeotterbestände wurden während der ersten Hälfte des 20. Jahrhunderts fast bis zur Ausrottung gejagt. Durch nachfolgende Schutzmaßnahmen wurde ihre Zahl an den Küsten von Kalifornien und Alaska jedoch wieder erhöht.
+         </cell>
+			<p/>
+         <cell width="260"/>
+         <cell width="620">Mit freundlicher Genehmigung von <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft® Encarta® 2006.</color></u></a> © 1993-2005 Microsoft Corporation. Alle Rechte vorbehalten.
+         </cell>                  
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_penguinrockhopper:entry">Felsenpinguin</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_penguinrockhopper:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/PenguinRockhopper/PenguinRockhopper_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/PenguinRockhopper/PenguinRockhopper_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>							 
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>						 
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/vulnerable.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Gefährdungsstatus:
+                     <br/>
+                        <color r="255" g="255" b="0">
+                     Gefährdet
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+				 <cell width="128">
+				  <color r="255" g="255" b="255">Küste<br/></color>
+				  <img src="ui/icon_biomes/icon_coastal.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+				 </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Inseln der Südmeere</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/coastal_southern_ocean_islands.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Klasse: Vögel <i>Aves</i>
+                  <br/>
+                  Ordnung: <i>Sphenisciformes</i>
+                  <br/>
+                  Familie: <i>Spheniscidae</i>
+                  <br/>
+                  Gattung: <i>Eudyptes</i>
+                  <br/>
+                  Art: <i>chrysocome</i>
+                  </color>
+               </cell>
+				 <cell width="256" pady="10">
+				  <img src="UI/zoopedia/biome/coastal_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+				 </cell>				 
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Spannende Fakten zum Felsenpinguin</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Weibliche Felsenpinguine legen gewöhnlich während der Brutzeit zwei Eier, von denen aber nur eines ausgebrütet wird.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Felsenpinguine haben eine durchschnittliche Lebenserwartung von rund zehn Jahren.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Weibliche Tiere schütteln zum Anlocken eines Partners ihre Köpfe, um so auf ihre gelben Schopffedern aufmerksam zu machen.</color>
+               </cell>                 
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">Um den Felsenpinguin im Herausforderungs- oder Kampagnenmodus freizugeben, muss der Zoo einen Bekanntheitsgrad von 2 Sternen erreichen.</color>
+            <p/>Die Bezeichnung "Felsenpinguin" tragen die Tiere, weil sie oft auf den von ihnen bewohnten felsigen Inseln über die Felsbrocken hüpfen. Diese subantarktische Pinguinspezies ist überwiegend auf südlichen Inseln wie den Falklandinseln, den Antipoden-Inseln und der Macquarie-Insel heimisch.
+            <p/>Sie besitzen einen stattlichen Schopf und blutrote Augen, und ihr starrer Blick entspricht ihrem aggressiven Verhalten. Häufig kämpfen sie auf dem felsigen Gelände um die besten Nistplätze. Es sind zwar kleine Pinguine, aufgrund ihrer Flossen sowie der Schwimmhäute an ihren Füßen sind sie aber ausgezeichnete Jäger.
+				<p/>Felsenpinguine jagen Laternenfische, Krill und gelegentlich auch kleine Tintenfische. Sie selbst werden wiederum von Blauhaien, Leoparden- und Pelzrobben gejagt, und ihre Eier und Küken sind an Land häufig durch Möwen und andere Vögel gefährdet.
+				<p/>Da sie ihre Nester an felsigen Küsten bauen, ist ihre Fähigkeit, aus dem Wasser auf Felsen zu springen, lebensnotwendig.  
+         </cell>        
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_raymanta:entry">Mantarochen</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_raymanta:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/RayManta/RayManta_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>						 
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Gefährdungsstatus:
+                     <br/>
+                        <color r="170" g="255" b="0">
+                     Gering gefährdet
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+				 <cell width="128">
+				  <color r="255" g="255" b="255">Riff<br/></color>
+				  <img src="ui/icon_biomes/icon_reef.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+				 </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Warme Weltmeere</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/reef_warm_oceans_worldwide.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Klasse: Knorpelfische <i>(Chondrichthyes)</i>
+                  <br/>
+                  Ordnung: <i>Myliobatiformes</i>
+                  <br/>
+                  Familie: <i>Mobulidae</i>
+                  <br/>
+                  Gattung: <i>Manta</i>
+                  <br/>
+                  Art: <i>birostris</i>
+                  </color>
+               </cell>
+				 <cell width="256" pady="10">
+				  <img src="UI/zoopedia/biome/reef_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+				 </cell>				 
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Spannende Fakten zum Mantarochen</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Wie verschiedene Wale filtert auch der Mantarochen seine Nahrung aus dem Wasser und ernährt sich so während der Fortbewegung von winzigen Organismen und kleinen Fischen.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Aufgrund ihrer Größe müssen Mantarochen nur große Haie als natürliche Feinde fürchten.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Der Mantarochen ist weltweit die größte Rochenart.</color>
+               </cell>                 
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">Um den Mantarochen im Herausforderungs- oder Kampagnenmodus freizugeben, muss der Zoo einen Bekanntheitsgrad von 1/2 Stern erreichen.</color>
+            <p/>Mantarochen leben in warmen und tropischen Gewässern in der Nähe von Kontinenten und Inselgruppen. Sie sind in allen Ozeanen heimisch. Diese Knorpelfische, auch Teufelsrochen genannt, besitzen weit ausgebreitete Brustflossen, die Flügel ähneln. Der atlantische Mantarochen ist der größte seiner Gattung und kann eine Spannweite von 7 m erreichen. Die vorwärts gerichteten Kopfflossen sehen wie Teufelshörner aus und dienen beim Schwimmen in Bodennähe dazu, Plankton und kleine Krustentiere zum Maul zu lenken. Das Plankton wird dann mithilfe dichter Kiemenlappen aus dem Wasser gefiltert. Der Fisch stellt für Menschen keine Gefahr dar. Wenn er gefangen wird, schlägt er aber kräftig um sich.
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Mit freundlicher Genehmigung von <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft® Encarta® 2006.</color></u></a> © 1993-2005 Microsoft Corporation. Alle Rechte vorbehalten.
+         </cell>         
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_sealioncalifornia:entry">Seelöwe, Kalifornischer</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_sealioncalifornia:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/SeaLionCalifornia/SeaLionCalifornia_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/SeaLionCalifornia/SeaLionCalifornia_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>							 
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>						 
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Gefährdungsstatus:
+                     <br/>
+                        <color r="170" g="255" b="0">
+                     Gering gefährdet
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+				 <cell width="128">
+				  <color r="255" g="255" b="255">Küste<br/></color>
+				  <img src="ui/icon_biomes/icon_coastal.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+				 </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Ostpazifische Küsten</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/coastal_east_pacific_coast.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Klasse: Säugetiere <i>(Mammalia)</i>
+                  <br/>
+                  Ordnung: <i>Carnivora</i>
+                  <br/>
+                  Familie: <i>Otariidae</i>
+                  <br/>
+                  Gattung: <i>Zalophus</i>
+                  <br/>
+                  Art: <i>californianus</i>
+
+                  </color>
+               </cell>
+				 <cell width="256" pady="10">
+				  <img src="UI/zoopedia/biome/coastal_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+				 </cell>				 
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Spannende Fakten zum Kalifornischen Seelöwen</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Kalifornische Seelöwen leben nicht nur in Kalifornien! Ihr Territorium erstreckt sich über weite Teile der nordamerikanischen Pazifikküste. Einige Exemplare wurden sogar im südlichen Japanischen Meer gesichtet.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Das Alter eines Kalifornischen Seelöwen kann man anhand der Ringe im Querschnitt seiner Zähne bestimmen. Der älteste in Gefangenschaft lebende Kalifornische Seelöwe erreichte ein Alter von 31 Jahren.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Kalifornische Seelöwen sind in Bezug auf ihre Nahrung sehr anpassungsfähig. Sie ändern ihre Ernährung je nach Angebot in ihrer unmittelbaren Umgebung.</color>
+               </cell>                 
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">Um den Kalifornischen Seelöwen im Herausforderungs- oder Kampagnenmodus freizugeben, muss der Zoo einen Bekanntheitsgrad von 1 1/2 Sternen erreichen.</color>
+            <p/>Der Kalifornische Seelöwe ist eine intelligente, schlanke Robbe, deren Balancekunststücke im Zirkus oder in Meeresshows sehr gefragt sind. Auch in Zoos ist er ein oft und gern gesehener Gast. Sein geselliger Charakter, seine erstaunliche Geschwindigkeit und Beweglichkeit an Land und seine bellenden Verständigungslaute machen ihn leicht dressierbar und bei den Zuschauern sehr beliebt. In freier Wildbahn bevölkern diese Robben weite Küstenabschnitte der nordamerikanischen Westküste. Auch auf den Galápagosinseln leben einige Populationen.
+            <p/>
+            Die erwachsenen Männchen werden Bullen genannt, und wiegen im Durchschnitt 360 kg und erreichen eine Länge von 2,1 m. Die Weibchen, auch Kühe genannt, sind mit einer Länge von 1,8 m etwas kleiner und wiegen im Durchschnitt 110 kg. Beide Geschlechter haben ein schokoladenbraunes Fell und hundeähnliche Schnauzen. Die Männchen haben eine vorstehende Stirn, die durch einen Knochenkamm hervorgerufen wird, an dem die kräftige Kaumuskulatur sitzt. Die Nahrung von Kalifornischen Seelöwen besteht aus Tintenfischen, Kraken und verschiedenen Fischen: Heringe, Seebarsche, Makrelen, Sardellen und Neunaugen. Sie jagen ihre Beute im flachen Wasser und stehen dabei im direkten Wettbewerb mit einer eng verwandten Spezies: dem Stellerschen Seelöwen.
+            <p/>
+            Anfang Juni besetzen die Bullen an sandigen oder felsigen Küsten ihre Reviere, oder Kolonien, für die Fortpflanzung. Jeder Bulle paart sich mit einem Harem, d. h. einer Gruppe von fünf bis zwanzig Weibchen. Die Bullen verteidigen ihre Harems und Reviere mit beachtlicher Ausdauer und mit viel strategischem Aufwand. Sie patrouillieren zu Lande und im Wasser in der Nähe ihres Reviers, schüchtern Eindringlinge durch lautes Bellen und Drohgebärden ein, und kämpfen mit männlichen Konkurrenten, die sich in ihr Revier wagen.
+            <p/>
+            Die Kühe bringen rund ein Jahr nach der Paarung ein Junges im Revier zur Welt. Die Mutter und das Neugeborene lernen die Rufe des anderen Tiers sehr schnell von anderen Rufen zu unterscheiden. Mütter erkennen ihre Jungtiere auch am Geruch. Die Mutter nimmt ihr Junges von Beginn an mit ins Wasser und sorgt dort mindestens ein Jahr lang für den Nachwuchs. Dadurch entsteht zwischen Jungtier und Mutter eine enge Beziehung. Mit zunehmendem Alter formen die Jungen eigene Gruppen, in denen sie in der lärmenden Kolonie zusammen herumtollen, fressen und schlafen. Wenn die Jungen zwei oder drei Wochen alt sind, paaren sich die Kühe erneut. Die Weibchen halten sich in der Nähe der Kolonien auf, vorzugsweise an verlassenen Inselstränden. Die Männchen hingegen ziehen im Sommer und Herbst nach der Paarungszeit in Richtung Norden.
+            <p/>
+            Wie alle Küstentieren reagieren auch Kalifornische Seelöwen sehr sensibel auf durch den Menschen verursachte Verschmutzungen und Störungen in ihrem Lebensraum. Sie sind Beutetiere von Haien und Orcas und wurden in der Vergangenheit auch von Menschen gejagt. Die Tiere sind seit 1972 durch das Gesetz zum Schutz von Meeressäugern vor der Jagd und Störung ihres Lebensraumes geschützt. Allerdings starben noch Anfang der Achtzigerjahre bis zu 1.500 Tiere pro Jahr in Treibnetzen. Durch Eindämmung der Treibnetzfischerei in kalifornischen Gewässern konnte die Zahl der toten Tiere in den letzten Jahren verringert werden.
+         </cell>
+			<p/>
+         <cell width="260"/>
+         <cell width="620">Mit freundlicher Genehmigung von <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft® Encarta® 2006.</color></u></a> © 1993-2005 Microsoft Corporation. Alle Rechte vorbehalten.
+         </cell>                  
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_sharkreefblacktip:entry">Schwarzspitzen-Riffhai</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_sharkreefblacktip:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/SharkReefBlackTip/SharkReefBlackTip_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>						 
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Gefährdungsstatus:
+                     <br/>
+                        <color r="170" g="255" b="0">
+                     Gering gefährdet
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+				 <cell width="128">
+				  <color r="255" g="255" b="255">Riff<br/></color>
+				  <img src="ui/icon_biomes/icon_reef.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+				 </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Indopazifik</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/reef_indian_pacific_oceans.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Klasse: Knorpelfische <i>(Chondrichthyes)</i>
+                  <br/>
+                  Ordnung: <i>Carcharhiniformes</i>
+                  <br/>
+                  Familie: <i>Carcharhinidae</i>
+                  <br/>
+                  Gattung: <i>Carcharhinus</i>
+                  <br/>
+                  Art: <i>melanopterus</i>
+                  </color>
+               </cell>
+				 <cell width="256" pady="10">
+				  <img src="UI/zoopedia/biome/reef_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+				 </cell>				 
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Spannende Fakten zum Weißen Hai</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Schwarzspitzen-Riffhaie sind häufig im Süßwasser zu finden, beispielsweise in Flüssen, die in das Meer münden.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Es sind Fälle bekannt, in denen im flachen Wasser watende Menschen von Schwarzspitzen-Riffhaien gebissen wurden. Dies ist darauf zurückzuführen, dass die Haie den menschlichen Fuß mit einem Beutefisch verwechseln. So sehen das jedenfalls die Haie.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">In Gefangenschaft lebende Schwarzspitzen-Riffhaie benötigen sehr viel Platz zum Schwimmen. Sie sind dafür bekannt, bei privater Haltung gelegentlich auch aus großen Aquarien herauszuspringen!</color>
+               </cell>                 
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">Um den Schwarzspitzen-Riffhai im Herausforderungs- oder Kampagnenmodus freizugeben, muss der Zoo einen Bekanntheitsgrad von 3 Sternen erreichen.</color>
+            <p/>Der Schwarzspitzen-Riffhai gehört zu den kleineren Haien. Er kann bis zu 2 m lang werden, erreicht jedoch häufig nur eine Größe von bis zu 1,6 m. Sein Name ist von einer ausgeprägten schwarzen Spitze über einem helleren Streifen an der Hauptrückenflosse abgeleitet. Er ist außerdem häufig in Küstengebieten und Korallenriffen anzutreffen. 
+            <p/>Der Schwarzspitzen-Riffhai ernährt sich überwiegend von Fischen, kann jedoch mit seinen gezackten Zähnen auch Krustentiere, z. B. Krabben und Hummer, und Kopffüßer wie Kraken und Tintenfische zerkleinern. In den Gewässern vor der Küste Australiens ernähren sich die Tiere auch sehr gerne von Schlangen.
+            <p/>Der Schwarzspitzen-Riffhai gehört zwar nicht zu den bedrohten Arten, aber aufgrund seiner langen Tragezeit von 16 Monaten und der geringen Wurfgröße von zwei bis vier Jungtieren drohen die Bestände dennoch kontinuierlich kleiner zu werden. Außerdem sind diese Haie in vielen Restaurants als Delikatesse begehrt.            
+         </cell>        
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_sharkgoblin:entry">Koboldhai</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_sharkgoblin:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/SharkGoblin/SharkGoblin_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>						 
+						 <cell width="156"/>
+                  <br/>   
+					  <cell width="32" pady="0">               
+						  <img src="ui/zoopedia/vulnerable.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+					  </cell>                 
+					  <cell width="224" padx="10" pady="0">
+						  <color r="255" g="255" b="255">
+						  Gefährdungsstatus:
+						  <br/>
+							  <color r="255" g="255" b="0">
+						  Gefährdet
+							  </color>
+						  </color>                  
+					</cell>
+               </cell>                        
+				 <cell width="128">
+				  <color r="255" g="255" b="255">Meeresboden<br/></color>
+				  <img src="ui/icon_biomes/icon_benthic.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+				 </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Wärmere Meere weltweit</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/benthic_warm_oceans_worldwide.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Klasse: Knorpelfische <i>(Chondrichthyes)</i>
+                  <br/>
+                  Ordnung: <i>Lamniformes</i>
+                  <br/>
+                  Familie: <i>Mitsukurinidae</i>
+                  <br/>
+                  Gattung: <i>Mitsukurina</i>
+                  <br/>
+                  Art: <i>owstoni</i>
+                  </color>
+               </cell>
+				 <cell width="256" pady="10">
+				  <img src="UI/zoopedia/biome/benthic_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+				 </cell>				 
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Spannende Fakten zum Koboldhai</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Der Koboldhai trägt diesen Namen, weil er wirklich ganz schön hässlich ist.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">"Owstoni", der Name der Art, ist von Alan Owston abgeleitet, einem britischen Naturwissenschaftler aus der viktorianischen Zeit.</color>
+               </cell>               
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">Um den Koboldhai im Herausforderungs- oder Kampagnenmodus freizugeben, muss der Zoo einen Bekanntheitsgrad von 4 Sternen erreichen.</color>
+            <p/>Der Koboldhai ist ein Tiefwasserhai, der nur selten in flachen Küstengewässern oder an der Meeresoberfläche anzutreffen ist. Seine Haut ist blassrosa bis weiß, und er besitzt eine lange, flache Nase, die einzeln hervorstehend über seinem sehr großen Maul herausragt. 
+				<p/>
+				Der Koboldhai ist relativ groß. Männliche Tiere können bis zu 3,8 m lang werden. Diese Haiart ernährt sich von anderen am Meeresboden lebenden Tieren wie Garnelen, Kraken, Tintenfischen und gelegentlich auch Krabben. Da Koboldhaie sich überwiegend in tiefen Gewässern aufhalten, kommen sie in freier Wildbahn fast nie mit Menschen in Berührung.
+				<p/>
+				Der Koboldhai gilt als weltweit verbreitet. Exemplare dieser Art wurden vor den Küsten Japans, Australiens und Südafrikas beobachtet.
+         </cell>                
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_sharkhammerheadscalloped:entry">Bogenstirn-Hammerhai</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_sharkhammerheadscalloped:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/SharkHammerheadScalloped/SharkHammerheadScalloped_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>						 
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Gefährdungsstatus:
+                     <br/>
+                        <color r="170" g="255" b="0">
+                     Gering gefährdet
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+				 <cell width="128">
+				  <color r="255" g="255" b="255">Hochsee<br/></color>
+				  <img src="ui/icon_biomes/icon_pelagic.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+				 </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Wärmere Meere weltweit</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/pelagic_warm_oceans_worldwide.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Klasse: Knorpelfische <i>(Chondrichthyes)</i>
+                  <br/>
+                  Ordnung: <i>Carcharhiniformes</i>
+                  <br/>
+                  Familie: <i>Sphyrnidae</i>
+                  <br/>
+                  Gattung: <i>Sphyrna</i>
+                  <br/>
+                  Art: <i>lewini</i>
+                  </color>
+               </cell>
+				 <cell width="256" pady="10">
+				  <img src="UI/zoopedia/biome/pelagic_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+				 </cell>				 
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Spannende Fakten zum Bogenstirn-Hammerhai</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Der Große Hammerhai, die größte aller Hammerhaiarten, neigt gelegentlich zu Kannibalismus!</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Der Geruchssinn des Hammerhais ist so ausgeprägt, dass er auch eine geringe Menge Blut (1 ml auf 1 l) im Meerwasser ausmachen kann.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Große Hammerhaie, einschließlich des Bogenstirn-Hammerhais, gelten als gefährlich für den Menschen, kleinere Hammerhaie nicht.</color>
+               </cell>                 
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">Um den Bogenstirn-Hammerhai im Herausforderungs- oder Kampagnenmodus freizugeben, muss der Zoo einen Bekanntheitsgrad von 3 1/2 Sternen erreichen.</color>
+            <p/>Der Bogenstirn-Hammerhai gehört zu zehn untereinander verwandten Hammerhaiarten, die in tropischen und gemäßigten Gewässern beheimatet sind. Die große, abgeflachte Verbreiterung am Kopf gibt diesen Fischen einen ähnlichen Auftrieb wie bei Wasserflugzeugen. Dadurch können sie auch engere Kurven als andere Haie schwimmen. Die Augen und Nasenlöcher sind an den Enden des hammerähnlichen Kopfes gelegen. So können Hammerhaie ihre Beute bestens aufspüren. Der Große Hammerhai, ein sehr schneller Schwimmer mit einer Gesamtlänge von über 4 m und ausgestattet mit großen Zähnen, hat schon Taucher angegriffen. Zwei ebenfalls als gefährlich eingestufte Arten sind der Bogenstirn-Hammerhai und der Glatte Hammerhai. Einige Arten, wie der nur einen Meter lange Schaufelnasenhammerhai der Küsten Floridas, haben schaufelförmige Schnauzen.            
+         </cell>
+			<p/>
+         <cell width="260"/>
+         <cell width="620">Mit freundlicher Genehmigung von <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft® Encarta® 2006.</color></u></a> © 1993-2005 Microsoft Corporation. Alle Rechte vorbehalten.
+         </cell>                  
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_sharkwhale:entry">Walhai</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_sharkwhale:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/SharkWhale/SharkWhale_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>						 
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/vulnerable.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Gefährdungsstatus:
+                     <br/>
+                        <color r="255" g="255" b="0">
+                     Gefährdet
+                        </color>
+                     </color>                  
+                  </cell>                  
+               </cell>                        
+				 <cell width="128">
+				  <color r="255" g="255" b="255">Meeresboden<br/></color>
+				  <img src="ui/icon_biomes/icon_benthic.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+				 </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Warme Weltmeere</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/benthic_warm_oceans_worldwide.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Klasse: Knorpelfische <i>(Chondrichthyes)</i>
+                  <br/>
+                  Ordnung: <i>Orectolobiformes</i>
+                  <br/>
+                  Familie: <i>Rhiniodontidae</i>
+                  <br/>
+                  Gattung: <i>Rhincodon</i>
+                  <br/>
+                  Art: <i>Typus</i>
+                  </color>
+               </cell>
+				 <cell width="256" pady="10">
+				  <img src="UI/zoopedia/biome/benthic_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+				 </cell>				 
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Spannende Fakten zum Walhai</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Walhaie stellen für den Menschen keine Gefahr dar, außer wenn sie unabsichtlich ein Boot rammen.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Der Walhai ernährt sich, indem er einen Schwall Meerwasser ansaugt, sein Maul schließt, das Wasser durch die Kiemen presst und so kleine Fische und Organismen herausfiltert.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Manchmal husten Walhaie, um ihre Kiemen von festsitzendem Futter zu befreien!</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Die Walhaie, die Sie in Ihrem Zoo aufnehmen, sind noch nicht ausgewachsen. Sie werden also noch größer, bis sie erwachsen sind. Entweder müssen Sie die jugendlichen Walhaie freilassen, bevor sie größer werden, oder Sie müssen beizeiten die Becken vergrößern!</color>
+               </cell>                 
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">Um den Walhai im Herausforderungs- oder Kampagnenmodus freizugeben, muss der Zoo einen Bekanntheitsgrad von 4 1/2 Stern erreichen.</color>
+            <p/>Der Walhai ist der größte lebende Fisch und kommt in den tropischen Meeren der Welt vor. Walhaie können eine Länge von über 15 m und ein Gewicht von mehr als 18 Tonnen erreichen. Der Bauch des Walhais ist weiß, sein Rücken jedoch dunkelblau und mit hellen Flecken und Steifen überzogen. Damit ist der Walhai dunkler als die meisten Haie. Über Kopf und Rücken verlaufen mehrere breite Längsgrate. Der Walhai hat eine breite, flache Schnauze, an deren Ende (nicht unterhalb) sich das gewaltige Maul mit seinen vielen kleinen Zähnen befindet. Die Kiemenspalten sind außergewöhnlich groß. Der Walhai ernährt sich von kleinen Fischen und Plankton, die er mithilfe seiner langen Kiemenlappen aus dem Wasser filtert. Für Menschen ist der Walhai ungefährlich. Der Nachwuchs von Walhaien schlüpft aus befruchteten Eiern im Körper des Walhaiweibchens und wird lebend geboren.          
+         </cell>        
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_sharkwhite:entry">Hai, Weißer</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_sharkwhite:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/SharkWhite/SharkWhite_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>						 
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/vulnerable.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Gefährdungsstatus:
+                     <br/>
+                        <color r="255" g="255" b="0">
+                     Gefährdet
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+				 <cell width="128">
+				  <color r="255" g="255" b="255">Meeresboden<br/></color>
+				  <img src="ui/icon_biomes/icon_benthic.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+				 </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Weltweite Küsten</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/benthic_coasts_worldwide.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Klasse: Knorpelfische <i>(Chondrichthyes)</i>
+                  <br/>
+                  Ordnung: <i>Lamniformes</i>
+                  <br/>
+                  Familie: <i>Lamnidae</i>
+                  <br/>
+                  Gattung: <i>Carcharodon</i>
+                  <br/>
+                  Art: <i>Carcharias</i>
+                  </color>
+               </cell>
+				 <cell width="256" pady="10">
+				  <img src="UI/zoopedia/biome/benthic_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+				 </cell>				 
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Spannende Fakten zum Weißen Hai</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Weiße Haie sind nur an der Unterseite weiß. Ihre Oberseite, also der Rücken, ist blaugrau.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Der Weiße Hai ist ein hervorragender Senkrechtschwimmer. Darum greift er seine Beute häufig von unten an.</color>
+               </cell>                 
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">Um den Weißen Hai im Herausforderungs- oder Kampagnenmodus freizugeben, muss der Zoo einen Bekanntheitsgrad von 5 Sternen erreichen.</color>
+            <p/>Der Weiße Hai hat keine flache, sondern eine konische Schnauze, schwarze Augen und große, gezackte Zähne, die wie Pfeilspitzen geformt sind. Die oberen und unteren Schwanzlappen sind beim Weißen Hai nahezu gleichgroß. Der Körper ist blaugrau oder braungrau und nur an der Unterseite weiß.
+				<p/>
+				Der Weiße Hai ist zwar als Filmbösewicht berühmt-berüchtigt, aber über sein Verhalten liegen im Grunde relativ wenige Kenntnisse vor. Eines der größten Exemplare wurde 1964 bei Montauk, Long Island, New York, gefangen. Es war 5,34 m lang und wog 2.043 kg. Weiße Haie verschlingen unzerkaut Lebewesen und Gegenstände, die bis zur Hälfte ihrer eigenen Körpergröße haben können. Sie fressen Robben, Delfine, Schildkröten, andere Haie, Stücke von Walen, Fische und Schiffabfälle. Zwischen 1916 und 1969 wurden 32 Angriffe auf Schwimmer registriert, die dem Weißen Hai zugeschrieben werden. Davon verliefen 13 tödlich. Es sind drei Angriffe auf Boote durch Weiße Haie belegt. In einem Fall wurde vor der kanadischen Insel Cape Breton, Nova Scotia, ein kleines Fischerboot durch diese Attacke sogar zum Kentern gebracht. Vor den Küsten Australiens, wo die meisten Exemplare dieser Spezies gefangen werden, wurde ein Weibchen, das gut anhand seiner Narben zu identifizieren war, 13 Jahre lang in Folge gesichtet.
+				<p/>
+				Obwohl der Weiße Hai ungeheure Kräfte besitzt und die Menschen, die ihn zu Gesicht bekommen, in Angst und Schrecken versetzt, sind sich die meisten Experten darüber einig, dass dieser schlechte Ruf ungerechtfertigt ist. Viele Wissenschaftler sind sogar der Überzeugung, der Weiße Hai ist aufgrund schwindender Nahrungsquellen und der massiven Jagd durch Trophäenjäger in seinem Bestand bedroht. 
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Mit freundlicher Genehmigung von <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft® Encarta® 2006.</color></u></a> © 1993-2005 Microsoft Corporation. Alle Rechte vorbehalten.
+         </cell>          
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_turtleleatherback:entry">Lederschildk.</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_turtleleatherback:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/TurtleLeatherback/TurtleLeatherback_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/TurtleLeatherback/TurtleLeatherback_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>					 
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>						 
+						 <cell width="156"/>
+                  <br/>
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/critical.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Gefährdungsstatus:
+                     <br/>
+                        <color r="255" g="0" b="0">
+                     Stark bedroht
+                        </color>
+                     </color>                  
+                  </cell>                  
+               </cell>                        
+               <cell width="128">
+                  <color r="255" g="255" b="255">Hochsee<br/></color>
+                  <img src="ui/icon_biomes/icon_pelagic.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+               </cell>
+					<cell width="128">
+						<color r="255" g="255" b="255">Warme Weltmeere</color>
+						<br/>
+						<img src="ui/icon_maplocations/coastal_warm_oceans_worldwide.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+					</cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Klasse: Reptilien <i>(Reptilia)</i>
+                  <br/>
+                  Ordnung: <i>Testudines</i>
+                  <br/>
+                  Familie: <i>Dermochelyidae</i>
+                  <br/>
+                  Gattung: <i>Dermochelys</i>
+                  <br/>
+                  Art: <i>coriacea</i>
+                  </color>
+               </cell>
+               <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/pelagic_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+               </cell>
+            </cell>
+         </cell>         
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Spannende Fakten zur Lederschildkröte</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Die Weibchen der Lederschildkröte sind leicht an dem rosa Punkt auf ihrem Kopf zu erkennen.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Lederschildkröten werden nicht wegen ihres Fleisches gejagt, da dieses als giftig gilt. Allerdings stellt das Sammeln ihrer Eier eine Bedrohung für die Art dar.</color>
+               </cell>                 
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">Um die Lederschildkröte im Herausforderungs- oder Kampagnenmodus freizugeben, muss der Zoo einen Bekanntheitsgrad von 2 1/2 Sternen erreichen.</color>
+            <p/>Die Lederschildkröte ist die größte lebende Schildkröte. Der obere Panzer, auch Rückenpanzer oder Carpax genannt, kann eine Länge von 2,4 m und ein Gewicht von über 900 kg erreichen. Die Lederschildkröte ist im Vergleich zu anderen Meeresschildkröten wesentlich weiter südlich und nördlich im Atlantik, Pazifik, dem Indischen Ozean und manchmal sogar im Mittelmeer zu finden. Aufgrund ihrer Körpergröße und über die Bewegungen ihrer Muskeln können Lederschildkröten ihre Körpertemperatur immer über der des umgebenden Wassers halten und dadurch auch in sehr kühlen Gewässern überleben. Im Gegensatz zu anderen Schildkröten bestehen Carapax (Rückenpanzer) und Plastron (Bauchpanzer) der Lederschildkröte nicht aus großen Hornschuppen. Stattdessen haben sie eine derbe, lederartige Haut, in die ein Mosaik aus Knochen eingebettet ist. Auf dem Rückenpanzer sind sieben ausgeprägte längslaufende Rippen sichtbar, auf dem Bauchpanzer fünf. Lederschildkröten sind schwarz oder blauschwarz und meist mit kleinen unregelmäßigen weißen oder rosa Punkten und Flecken übersät. Mit ihren starken paddelförmigen Gliedmaßen können sie weite Strecken zurücklegen. Die Vorderextremitäten sind relativ groß, vor allem bei Jungtieren. Erwachsene Männchen leben vollständig im Meer, die Weibchen kommen nur zur Eiablage an den Strand. Lederschildkröten sind nicht zum Verzehr geeignet, da ihr Fleisch einen besonders hohen Ölgehalt aufweist. Sie ernähren sich hauptsächlich von Quallen, fressen aber auch Seetang, Seeigel, Tintenfische und Weichtiere.
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Mit freundlicher Genehmigung von <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft® Encarta® 2006.</color></u></a> © 1993-2005 Microsoft Corporation. Alle Rechte vorbehalten.
+         </cell>         
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_turtleseagreen:entry">Meeresschildkröte, Grüne</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_turtleseagreen:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/TurtleSeaGreen/TurtleSeaGreen_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/TurtleSeaGreen/TurtleSeaGreen_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>						 
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>						 
+                  <br/>                   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/endangered.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Gefährdungsstatus:
+                     <br/>
+                        <color r="255" g="155" b="0">
+                     Bedroht
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+               <cell width="128">
+                  <color r="255" g="255" b="255">Küste<br/></color>
+                  <img src="ui/icon_biomes/icon_coastal.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+               </cell>
+					<cell width="128">
+						<color r="255" g="255" b="255">Warme Weltmeere</color>
+						<br/>
+						<img src="ui/icon_maplocations/coastal_warm_oceans_worldwide.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+					</cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Klasse: Reptilien <i>(Reptilia)</i>
+                  <br/>
+                  Ordnung: <i>Testudines</i>
+                  <br/>
+                  Familie: <i>Cheloniidae</i>
+                  <br/>
+                  Gattung: <i>Chelonia</i>
+                  <br/>
+                  Art: <i>Mydas</i>
+                  </color>
+               </cell>
+               <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/coastal_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+               </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Spannende Fakten zur Grünen Meeresschildkröte</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Die Grüne Meeresschildkröte ist die weltweit größte Meeresschildkröte mit hartem Panzer. Die Lederschildkröte ist zwar größer, hat jedoch keinen Hornschuppenpanzer.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Beim Schlüpfen durchbrechen die Babys der Grünen Meeresschildkröte die Schale mit dem so genannten Eizahn.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Bereits direkt nach dem Schlüpfen bewegen die Schildkrötenbabys ihre Flossen. So können sich die kleinen Schildkröten aus dem Sand befreien, in dem die Eier eingegraben sind. Danach krabbeln sie sofort Richtung Wasser und schwimmen davon.</color>
+               </cell>                
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">Um die Grüne Meeresschildkröte im Herausforderungs- und Kampagnenmodus freizugeben, muss der Zoo einen Bekanntheitsgrad von 1 Stern erreichen.</color>
+            <p/>Die Grüne Meeresschildkröte verdankt ihren Namen der Farbe ihres Fettes, das Tier an sich ist braun. Die Meeresschildkröte ist der schnellste Schwimmer unter den Meeresschildkröten. Sie erreicht eine Geschwindigkeit von bis zu 32 km/h. Die Grüne Meeresschildkröte ist in allen warmen Meeren beheimatet. Mitunter halten sie sich im Sommer auch an den amerikanischen und europäischen Atlantikküsten auf. Erwachsene Exemplare können eine Panzerlänge von über einem Meter und ein Körpergewicht von über 180 kg erreichen. Verschiedene Merkmale unterscheiden sie von anderen Meeresschildkröten: Auf ihrem Kopf zwischen den Augen haben sie zwei größere Schilde und an jeder Seite des Panzers befinden sich vier Schilde, die sich nicht überlappen. Außerdem ist der Panzer relativ glatt und ohne Rippen. Die Männchen verlassen nie das Meer, während Weibchen zur Eiablage an Land gehen. Dort graben sie in der Nacht bis zu 200 Eier oberhalb des Meereshöchststands im Sand ein. Die Jungen werden von der Sonne ausgebrütet und krabbeln nach dem Schlüpfen direkt ins Meer. Grüne Meeresschildkröten sind Allesfresser, ernähren sich aber hauptsächlich von Meerespflanzen. Sie sind bei Schildkrötenjägern sehr geschätzt, denn ihr Fleisch gilt als Delikatesse. Es schmeckt ähnlich wie Kalbfleisch und wird gerne als Schildkrötensuppe oder -steak verzehrt. Auch ihre Eier sind sehr begehrt. Aufgrund von Überjagung ist die Grüne Meeresschildkröte in ihrem Bestand bedroht.
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Mit freundlicher Genehmigung von <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft® Encarta® 2006.</color></u></a> © 1993-2005 Microsoft Corporation. Alle Rechte vorbehalten.
+         </cell>         
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_walruspacific:entry">Walross, Pazifisches</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_walruspacific:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/WalrusPacific/WalrusPacific_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/WalrusPacific/WalrusPacific_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>						 
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>						 
+						 <cell width="156"/>
+                  <br/>                   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/vulnerable.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Gefährdungsstatus:
+                     <br/>
+                        <color r="255" g="255" b="0">
+                     Gefährdet
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+				 <cell width="128">
+				  <color r="255" g="255" b="255">Tundra<br/></color>
+				  <img src="ui/icon_biomes/icon_tundra.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+				 </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Arktischer Ozean</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/tundra_arctic_ocean.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Klasse: Säugetiere <i>(Mammalia)</i>
+                  <br/>
+                  Ordnung: <i>Carnivora</i>
+                  <br/>
+                  Familie: <i>Odobenidae</i>
+                  <br/>
+                  Gattung: <i>Odobenus</i>
+                  <br/>
+                  Art: <i>Rosmarus</i>
+                  <br/>
+                  Unterart: <i>Divergens</i>                  
+                  </color>
+               </cell>
+				 <cell width="256" pady="10">
+				  <img src="UI/zoopedia/biome/tundra_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+				 </cell>				 
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Spannenden Fakten zum Walross</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Der Name ist vom altnordischen "Hvall-Hross" (Wal-Pferd) abgeleitet.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Walrosse verwenden manchmal ihre Stoßzähne als Haken, um auf das Eis zu klettern!</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Walrosse ernähren sich hauptsächlich von Muscheln.</color>
+               </cell> 
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Um Muscheln vom Meeresboden zu lösen, lockern Walrosse sie gelegentlich mit einem gezielten Wasserstrahl.</color>
+               </cell>       
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">Um das Pazifische Walross im Herausforderungs- oder Kampagnenmodus freizugeben, muss der Zoo einen Bekanntheitsgrad von 4 1/2 Sternen haben.</color>
+            <p/>Das Walross ist ein großes Meeressäugetier, das in arktischen Regionen am Rand des Polarkreises an den Nordostküsten Kanadas und Sibiriens, auf Kamtschatka, an der Nordwestküste Alaskas, auf Grönland, im Norden Norwegens und auf der Ellesmere-Insel heimisch ist. Es gibt zwei Walrosspopulationen: das Atlantische und das Pazifische Walross.
+            <p/>Walrosse können ihre Hinterflossen wie Ohrenrobben nach vorne drehen und so alle vier Gliedmaßen zur Fortbewegung an Land einsetzen. Walrosse sind zwischen 2,7 und 3,56 m lang und wiegen zwischen 800 und 1.700 kg. Männchen sind größer als Weibchen. Männchen und Weibchen verfügen über einen wuchtigen Körperbau mit dicker, faltiger und haariger Haut. Mit zunehmendem Alter verliert die Haut ihr Haarkleid fast vollständig. Beide haben relativ kleine Köpfe ohne sichtbare Ohren. An deren Stelle befindet sich eine Hautfalte. Walrosse haben breite, borstige Schnauzen, und ihre oberen Eckzähne sind zu gewaltigen Stoßzähnen verlängert. Die Stoßzähne, die bei manchen Männchen bis zu einem Meter lang werden, werden bei Kämpfen als Waffe verwendet, oder als Haken, um auf das Eis zu klettern. Früher nahm man an, dass sie mit ihren Stoßzähnen auch ihre Hauptnahrung, Weich- und Schalentiere, vom Meeresboden lösen. Heute geht man davon aus, dass Walrosse ihre Nahrung vor allem mit ihren sensiblen Schnurrhaaren und der fleischigen Schnauze aufspüren und vom Meeresgrund entfernen.
+            <p/>Walrosse sind sehr gesellige Tiere, die sich in Gruppen an oder in der Nähe der Küste oder zwischen den Eisschollen versammeln. Diese Gruppen können aus mehreren tausend Tieren bestehen. Das Brüllen einer Herde ist auch in großer Entfernung noch zu hören. Walrosse sind sanftmütig, es sei denn, sie werden angegriffen. Wenn ein Mitglied der Herde in Gefahr ist, wird es von der gesamten Herde verteidigt. Eisbären sind der natürliche Hauptfeind der Walrosse. Von Menschen werden die Tiere wegen der wertvollen Stoßzähne aus Elfenbein und wegen ihres Fleisches und Specks gejagt. Durch die übermäßige Jagd wurden die weltweiten Bestände mittlerweile erheblich dezimiert.
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Mit freundlicher Genehmigung von <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft® Encarta® 2006.</color></u></a> © 1993-2005 Microsoft Corporation. Alle Rechte vorbehalten.
+         </cell>         
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_whalefalsekiller:entry">Kleiner Schwertwal</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_whalefalsekiller:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/WhaleFalseKiller/WhaleFalseKiller_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>						 
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Gefährdungsstatus:
+                     <br/>
+                        <color r="170" g="255" b="0">
+                     Gering gefährdet
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+				 <cell width="128">
+				  <color r="255" g="255" b="255">Küste<br/></color>
+				  <img src="ui/icon_biomes/icon_coastal.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+				 </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Weltweite Küsten</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/coastal_coasts_worldwide.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Klasse: Säugetiere <i>(Mammalia)</i>
+                  <br/>
+                  Ordnung: <i>Cetacea</i>
+                  <br/>
+                  Familie: <i>Delphinidae</i>
+                  <br/>
+                  Gattung: <i>Pseudorca</i>
+                  <br/>
+                  Art: <i>Crassidens</i>
+                  </color>
+               </cell>
+				 <cell width="256" pady="10">
+				  <img src="UI/zoopedia/biome/coastal_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+				 </cell>				 
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Spannende Fakten zum Kleinen Schwertwal</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Eigentlich gehört der Kleine Schwertwal zur Familie der Delfine. Er ist also gar kein Wal!</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Der Kleine Schwertwal ist sehr verspielt und bekannt dafür, sich im Ozean gerne Booten zu nähern.</color>
+               </cell>                 
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">Um den Kleinen Schwertwal im Herausforderungs- oder Kampagnenmodus freizugeben, muss der Zoo einen Bekanntheitsgrad von 4 Sternen erreichen.</color>
+            <p/>Der Kleine Schwertwal wird wegen seines Aussehens häufig mit dem Orca (Großer Schwertwal) verwechselt. Beide Tiere haben ähnlich geformte Schädel, sind biologisch gesehen jedoch nicht eng miteinander verwandt. Sie besitzen außerdem eine ähnliche Färbung, unterscheiden sich jedoch in der Musterung: Der Kleine Schwertwal ist hauptsächlich schwarz oder dunkelgrau und weist nur auf der Bauchseite einen weißen Fleck auf. Der Orca hingegen hat an mehreren Stellen seines Körpers weiße Flecken.
+            <p/>Der Kleine Schwertwal ist in warmen und tropischen Gewässern auf der ganzen Welt beheimatet, kommt jedoch an keinem Ort in in großer Zahl vor. Er ernährt sich von vielen verschiedenen Fischarten, wie Lachs, Thunfisch, Makrelen und Mahimahi (Goldmakrele).
+            <p/>Kleine Schwertwale sind sehr gesellig und gehen in sehr großen Schulen auf Wanderschaft. Schulen mit weniger als 100 Exemplaren gelten eher als klein und sind aufgrund der begrenzten Genpools der Gefahr der Inzucht ausgesetzt. 
+         </cell>      
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_whaleorca:entry">Orca</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_whaleorca:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/WhaleOrca/WhaleOrca_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/WhaleOrca/WhaleOrca_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>						 
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>						 
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Gefährdungsstatus:
+                     <br/>
+                        <color r="170" g="255" b="0">
+                     Gering gefährdet
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+				 <cell width="128">
+				  <color r="255" g="255" b="255">Tundra<br/></color>
+				  <img src="ui/icon_biomes/icon_tundra.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+				 </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Kältere Meere weltweit</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/tundra_arctic_antarctic_oceans.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Klasse: Säugetiere <i>(Mammalia)</i>
+                  <br/>
+                  Ordnung: <i>Cetacea</i>
+                  <br/>
+                  Familie: <i>Delphinidae</i>
+                  <br/>
+                  Gattung: <i>Orcinus</i>
+                  <br/>
+                  Art: <i>Orca</i>
+                  </color>
+               </cell>
+				 <cell width="256" pady="10">
+				  <img src="UI/zoopedia/biome/tundra_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+				 </cell>				 
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Spannende Fakten zum Orca</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Orcas kümmern sich sehr liebevoll um ihren Nachwuchs. Gemeinsam mit anderen ausgewachsenen Weibchen der Gruppe kümmern sich die Mütter um die Jungen.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Jede Orcagruppe hat einen eigenen Walgesang.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Der Orca wird vielfach auch als "Killerwal" bezeichnet, da er sich von vielen Arten von Meerestieren ernährt. Orcas greifen jedoch keine Menschen an.</color>
+               </cell>                 
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">Um den Orca im Herausforderungs- oder Kampagnenmodus freizugeben, muss der Zoo einen Bekanntheitsgrad von 5 Sternen erreichen.</color>
+            <p/>Der Orca, oder Killerwal, ist ein Meeressäuger und die größte Art in der Delfinfamilie. Die Bezeichnung "Killerwal" wurde ihm verliehen, da er einen scheinbar unbändigen Appetit auf Fisch, Seevögel, Meeresschildkröten und Meeressäuger hat. Allerdings sorgt dieser Name häufig für Verwirrung. Der Orca gehört zur Familie der Delfine, den Delphinidae.
+            <p/>Orcas besitzen eine genau festgelegte soziale Rangordnung um das dominante Weibchen der Gruppe. Sie kommunizieren und jagen hauptsächlich mithilfe verschiedener Laute, z. B. Klicklaute, Schreie, Pfiffe und hochfrequente Töne.
+            <p/>Orcas bevölkern mehr Erdteile als jeder andere Meeressäuger. Sie leben in allen Ozeanen, sowohl auf dem offenen Meer als auch in Landnähe. Orcas bevorzugen kältere Gewässer, kommen jedoch auch in den wärmeren Gewässern der Bahamas, der Karibik und Hawaii vor. Sogar in einigen Flüssen wurden Orcas bereits gesichtet.
+            <p/>Mit seinem ausgeprägten Fresstrieb hat sich der Orca den Respekt eingeborener Völker verschafft, vor allem im nordwestpazifischen Raum. Vielfach wurde er auch gefürchtet. Die Stämme der Tlingit, Kwakiutl und Haida bilden die Tiere auf ihren Totems sowie auf Masken, Tellern, Helmen und Decken ab. Trotz der ihm nachgesagten Wildheit halten ihn einige Kulturen auch für ein friedliches Wesen, das über die Fanggründe des Menschen wacht. Die Anwesenheit von Orcas, so die Überzeugung, verspricht einen reichen Fang.
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Mit freundlicher Genehmigung von <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft® Encarta® 2006.</color></u></a> © 1993-2005 Microsoft Corporation. Alle Rechte vorbehalten.
+         </cell>         
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_whalepilotshortfinned:entry">Kurzflossen-Grindwal</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_whalepilotshortfinned:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/WhalePilotShortFinned/WhalePilotShortFinned_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/WhalePilotShortFinned/WhalePilotShortFinned_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>
+						 <cell width="16">						
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>						 
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Gefährdungsstatus:
+                     <br/>
+                        <color r="170" g="255" b="0">
+                     Gering gefährdet
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+				 <cell width="128">
+				  <color r="255" g="255" b="255">Hochsee<br/></color>
+				  <img src="ui/icon_biomes/icon_pelagic.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+				 </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Warme Weltmeere</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/pelagic_warm_oceans_worldwide.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Klasse: Säugetiere <i>(Mammalia)</i>
+                  <br/>
+                  Ordnung: <i>Cetacea</i>
+                  <br/>
+                  Familie: <i>Delphinidae</i>
+                  <br/>
+                  Gattung: <i>Globicephala</i>
+                  <br/>
+                  Art: <i>Macrorhynchus</i>
+                  </color>
+               </cell>
+				 <cell width="256" pady="10">
+				  <img src="UI/zoopedia/biome/pelagic_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+				 </cell>				 
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Spannende Fakten zum Kurzflossen-Grindwal</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Kurzflossen-Grindwale sind eigentlich Delfine!</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Bei den Grindwalen versorgen nicht nur die Mütter den Nachwuchs, sondern auch alle anderen Mitglieder der Gruppe.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Wenn Kurzflossen-Grindwale in Gruppen auf die Jagd gehen, bilden sie dabei eine bis zu drei Kilometer lange Reihe! Dies sieht ein wenig wie eine Ballettchoreographie aus.</color>
+               </cell>                 
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">Um den Kurzflossen-Grindwal im Herausforderungs- oder Kampagnenmodus freizugeben, muss der Zoo einen Bekanntheitsgrad von 2 Sternen erreichen.</color>
+            <p/>Der Kurzflossen-Grindwal ist eigentlich ein Vertreter der Familie der Delfine. Der Kurzflossen-Grindwal lebt in den warmen und gemäßigten Gewässern der gesamten Weltmeere. Der Langflossen-Grindwal hingegen ist im nördlichen Nordatlantik bis nach Grönland, Island und zum Norden Norwegens heimisch. Eine separate Gruppe lebt in der südlichen Hemisphäre in kühlen, gemäßigten bis antarktischen Gewässern. Langflossen-Grindwale waren früher auch im Nordpazifik zu finden, wurden dort jedoch in jüngster Zeit nicht mehr beobachtet. Beide Arten kommen in einigen gemäßigten Gebieten vor, insbesondere in der Nähe Südamerikas und im Nordatlantik.
+            <p/>Grindwale beider Arten erreichen eine Länge von bis zu 6 m. Die Männchen sind etwas größer als die Weibchen, und Langflossen-Grindwale sind etwas größer als Kurzflossen-Grindwale. Die Tiere beider Arten verfügen über einen großen, abgerundeten Kopf und eine sehr lange Rückenflosse. Sie sind gewöhnlich schwarz bis dunkelbraun oder grau. Direkt hinter der Rückenflosse befindet sich ein heller Fleck, der manchmal auch "Sattelfleck" genannt wird. Am oberen Bauch befindet sich direkt unter dem Kinn häufig ein zweiter heller Fleck. Grindwale kommunizieren über komplexe Krächz- und Quiektöne miteinander und können sich anhand ihrer individuellen Töne vermutlich auch erkennen. Sie erkunden ihre Umgebung durch Echopeilung, d. h., sie stoßen hochfrequente Klicklaute aus, die von ihrer Beute und anderen Gegenständen reflektiert werden. Sie können die einzelnen Objekte dann anhand des zurückgegebenen Echos erkennen.
+            <p/>Grindwale tauchen zudem sehr tief und ernähren sich überwiegend von Tintenfischen. Sie sind gesellig und finden sich häufig in Gruppen von einigen hundert Tieren zusammen. Jedes Männchen paart sich vermutlich mit mehreren Weibchen. Diese werfen wiederum ein einziges Kalb, und obwohl sie nur bis zu einem Alter von 35 Jahren Nachwuchs zur Welt bringen können, säugen sie diesen oft über 14 weitere Jahre. Daraus lässt sich schließen, dass weibliche Tiere nicht nur sehr lange für ihre Jungtiere sorgen, sondern sich möglicherweise auch um den Nachwuchs ihrer Schwestern und sogar Töchter kümmern.
+            <p/>Gruppen von Grindwalen stranden häufiger als Gruppen anderer Walarten. Derartige Strandungen treten bei den Langflossen-Grindwalen häufig in Neuengland und vor der Küste Neuseelands auf. Es ist nicht bekannt, ob solche Massenstrandungen durch Orientierungsfehler, Krankheiten oder beide Umstände gemeinsam ausgelöst werden. Es ist allerdings davon auszugehen, dass die Bindung innerhalb einer Gruppe von Grindwalen so eng ist, dass sich im Falle einer Strandung eines einzigen Grindwals andere Tiere anschließen.
+            <p/>Aufgrund dieser engen Gruppenbindung gestaltet sich die Jagd auf Grindwale relativ einfach – insbesondere, indem beispielsweise eine ganze Gruppe von Tieren in Richtung flacherer Küstengewässer getrieben und dort erschlagen oder mit dem Speer erlegt wird. Diese Art der Jagd war über viele Jahrhunderte üblich. Heute werden Langflossen-Grindwale immer noch vor der Küste von Grönland und in der Nähe der zu Dänemark gehörenden Färöer Inseln gejagt. Kurzflossen-Grindwale werden noch vor der japanischen Küste gejagt. Man vermutet, dass die Grindwalpopulationen im Nordatlantik durch die Jagt verringert wurden.
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Mit freundlicher Genehmigung von <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft® Encarta® 2006.</color></u></a> © 1993-2005 Microsoft Corporation. Alle Rechte vorbehalten.
+         </cell>         
+      </LOC_STRING>
+  
+</ZT2Strings>

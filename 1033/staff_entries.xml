@@ -1,0 +1,59 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_animaleducator:entry"  >Animal Educator</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_animaleducator:text"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/units/staff/Educator/Educator_F_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/units/staff/Educator/Educator_M_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>
+                  The role of an educator is to walk around and talk to your guests, educating them about the            animals in your zoo. Animal educators increase your guests’ enjoyment of your zoo by providing            interesting information about the animals they are currently viewing.        
+                  <p/>
+                  Animal educators speak from podiums that you’ve purchased and placed in     different locations in your zoo. Once a podium is placed, any animal educators you've hired will speak at the podium     periodically about nearby exhibits.        
+                  <p/>
+                      If they can’t find an educator podium, animal educators will seek out the staff center. If they can’t find a staff center, they will wander the zoo aimlessly.
+                  <p/>
+                      Animal educators receive a salary, which is deducted from your zoo account on the first of     each month. Keep in mind, though, that they can also help increase the amount of donations     you receive from happy guests who enjoyed being both entertained and educated during their     visit to your zoo.			
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_maintworker:entry"  >Maintenance Worker</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_maintworker:text"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/units/staff/Worker/Worker_F_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/units/staff/Worker/Worker_M_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>
+                             Maintenance workers are responsible for the upkeep of your zoo. Their main tasks are to sweep paths and empty trash cans. They will perform their duties on their own, and you can also assign them specific tasks.            
+                  <p/>
+                       Maintenance workers are important because a clean zoo helps keep your guests happy. If your zoo starts to get dirty (trash on paths, overflowing trash cans, etc.), your guests may make an early departure. Maintenance workers receive a salary, which is deducted from your zoo account on the first of each month.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_zookeeper:entry"  >Zookeeper</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_zookeeper:text"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/units/staff/Keeper/Keeper_F_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/units/staff/Keeper/Keeper_M_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>
+                  
+Zookeepers are the most important workers in your zoo. They are trained to meet the needs of any animal in your zoo, including feeding them, healing them, and cleaning up their piles of poop.  Zookeepers receive the highest salary of any zoo employee, which is deducted from your zoo account on the first of each month. Keep in mind, though, that you can perform all the zookeeper tasks yourself, for free, in Zoo Guest mode.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+</ZT2Strings>

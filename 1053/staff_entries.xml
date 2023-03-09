@@ -1,0 +1,59 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_animaleducator:entry">Pedagog</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_animaleducator:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/units/staff/Educator/Educator_F_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/units/staff/Educator/Educator_M_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>
+                  Pedagogens uppgift är att gå omkring och prata med dina besökare och lära dem mer om            djuren i din djurpark. Pedagogerna gör att dina besökare har det trevligare i djurparken            genom att ge dem intressant information om djuren de just betraktar.        
+                  <p/>
+                  Pedagogerna pratar från podier som du köper och placerar ut på olika platser     i din djurpark. När du har placerat ut ett podium kan någon av dina pedagoger ställa sig där om prata och de     inhägnader som finns i närheten.        
+                  <p/>
+                      Om de inte hittar något podium letar de rätt på personalbyggnaden. Om de inte hittar någon personalbyggnad vandrar de omkring i djurparken helt planlöst.
+                  <p/>
+                      Pedagogerna får lön som dras från ditt konto den första i varje månad. Men kom ihåg att de     också kan hjälpa till att öka de donationer du får från nöjda besökare som uppskattar att få både     underhållning och undervisning under sitt besök i djurparken.			
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_maintworker:entry">Vaktmästare</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_maintworker:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/units/staff/Worker/Worker_F_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/units/staff/Worker/Worker_M_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>
+                             Vaktmästarna är ansvariga för att hålla ordning i din djurpark. Deras huvuduppgifter är att sopa gångar och tömma soptunnor. De utför sina uppgifter av sig själva, och du kan även tilldela dem till vissa uppgifter.            
+                  <p/>
+                       Vaktmästarna är viktiga eftersom en ren djurpark håller dina besökare nöjda. Om djurparken börjar bli smutsig (skräp på gångarna, soptunnor som svämmar över osv.) kan dina besökare lämna djurparken för tidigt. Vaktmästarnas lön dras från ditt konto den första i varje månad.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_zookeeper:entry">Djurskötare</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_zookeeper:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/units/staff/Keeper/Keeper_F_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/units/staff/Keeper/Keeper_M_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>
+                  
+Djurskötarna är den viktigaste personalen i din djurpark. De är utbildade för att ta hand om alla djur i din djurpark, de matar dem, vårdar dem och städar upp deras bajshögar. Djurskötarna får den högsta lönen av alla anställda, och den dras från ditt konto den första i varje månad. Men tänk på att du faktiskt kan utföra alla de uppgifter som djurskötarna utför själv, och helt gratis, i besökarläget.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+</ZT2Strings>

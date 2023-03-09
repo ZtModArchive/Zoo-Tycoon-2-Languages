@@ -1,0 +1,130 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_entertainer:entry">Entertainer</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_entertainer:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/units/staff/EntertainerExtinct/Entertainer_F_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/units/staff/EntertainerExtinct/Entertainer_M_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/units/staff/EntertainerDinosaur/EntertainerDinosaur_F_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/units/staff/EntertainerDinosaur/EntertainerDinosaur_M_icon.dds" sx="0" sy="0" sw="64" sh="64"/>                  
+                  <p/>
+Deze kleurig geklede medewerkers dansen, vertellen grappen, brengen poppenkastvoorstellingen en doen nog veel meer om bezoekers te vermaken. Zorg ervoor dat je een podium bouwt waar ze kunnen optreden! Het 	    
+		<a href="zoopedia:zoopedia_entertainerstage:entry">
+               <u>
+                  <color r="255" g="231" b="135">entertainerpodium</color>
+               </u> is 
+           	</a>
+  een geweldige plek om hun unieke talenten onder de aandacht te brengen.            	
+						<p/>
+Vergeet niet dat entertainers medewerkers zijn. Hun salaris wordt dus de eerste dag van elke maand van de rekening van je dierentuin afgeschreven.			
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_paleontologist:entry">Paleontoloog</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_paleontologist:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/units/staff/paleontologist/Paleontologist_M_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/units/staff/paleontologist/Paleontologist_F_icon.dds" sx="0" sy="0" sw="64" sh="64"/>                
+                  <p/>
+Deze intelligente, ruige medewerkers weten alles over uitgestorven dieren. Ze lichten de bezoekers voor over alle aspecten van dieren uit vervlogen tijden en ze vinden het leuk om informatie te verstekken vanuit het 
+		<a href="zoopedia:zoopedia_fossileducationcenter:entry">
+               <u>
+                  <color r="255" g="231" b="135">Centrum voor informatie over uitgestorven dieren</color>
+               </u>. 
+           	</a>
+		
+<p/>		
+Ze kunnen je ook helpen bij het zoeken en opgraven van stukken fossiel die je kunt samenvoegen in het  	    
+		<a href="zoopedia:zoopedia_cloningcenter:entry">
+               <u>
+                  <color r="255" g="231" b="135">Onderzoekslab uitgestorven dieren</color>
+               </u>. 
+           	</a>
+<p/>
+Vergeet niet dat paleontologen medewerkers zijn. Hun salaris wordt dus de eerste dag van elke maand van de rekening van je dierentuin afgeschreven.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_drt_gun:entry">Dinovangteam: Verdovingsspecialist</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_drt_gun:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/units/staff/DinoRecoveryTeam/DinoRecoveryTranqTeam_M_icon.dds" sx="0" sy="0" sw="64" sh="64"/>          
+                  <p/>
+		Dit ruige, behendige lid van je dinovangteam is je scherpschutter.  Deze technisch onderlegde medewerker verdooft dolle dino's, waarna de insluitingsspecialist ze in een kooi kan stoppen.  
+		<p/>
+		Zodra het alarm afgaat in de 
+		<a href="zoopedia:zoopedia_dinorecoverybuilding:entry">
+               <u>
+                  <color r="255" g="231" b="135">bunker van het dinovangteam</color>,
+               </u>
+           	</a>
+		komt het team in actie.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_drt_crate:entry">Dinovangteam: Insluitingsspecialist</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_drt_crate:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/units/staff/DinoRecoveryTeam/DinoRecoveryCrateTeam_M_icon.dds" sx="0" sy="0" sw="64" sh="64"/>          
+                  <p/>
+		Dit lid van je dinovangteam heeft een gevaarlijke baan en is de teamleider. Zodra de verdovingsspecialist een dolle dino heeft verdoofd, gebruikt de insluitingsspecialist zijn OOTOD-geweer (Opvouwbare Opgestelde Tijdelijke Omheining voor Dieren) om de dino op te sluiten.  
+		<p/>
+		Zodra het alarm afgaat in de 
+		<a href="zoopedia:zoopedia_dinorecoverybuilding:entry">
+               <u>
+                  <color r="255" g="231" b="135">Bunker dinovangteam</color>,
+               </u>
+           	</a>
+		komt het team in actie.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_drt_robot:entry">Dinovangteam: Robotachtige lokvogel</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_drt_robot:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/units/staff/DinoRecoveryTeam/DinoRecovery_Robot_icon.dds" sx="0" sy="0" sw="64" sh="64"/>          
+                  <p/>
+		De meeste dino's kunnen slecht zien, en daar maakt het dinovangteam handig gebruik van. Hoe? Ze sturen een robotachtige lokvogel op de dolle dino af, compleet met sirenes en knipperlichten, om hem af te leiden. De aandacht van de dino wordt getrokken door de robot, zodat het team hem kan verdoven. De robot, gemaakt van 100% organisch materiaal, is niet schadelijk voor dieren.
+		<p/>
+		Zodra het alarm afgaat in de 
+		<a href="zoopedia:zoopedia_dinorecoverybuilding:entry">
+               <u>
+                  <color r="255" g="231" b="135">Bunker dinovangteam</color>,
+               </u>
+           	</a>
+		komt het team in actie.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>     
+
+
+</ZT2Strings>

@@ -1,0 +1,136 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_antelopesablegiant" version="2"/>
+      <LOC_STRING _locID="zoopedia_antelopesablegiant:entry" version="2">Antílope sable gigante</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_antelopesablegiant:text" version="2">
+  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">   
+
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/AntelopeSableGiant/AntelopeSableGiant_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/AntelopeSableGiant/AntelopeSableGiant_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>						 
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/critical.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Estado de conservación:
+                     <br/>
+                        <color r="255" g="0" b="0">
+                     En peligro de extinción
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>   
+   
+    <cell width="128">
+     <color r="255" g="255" b="255">Sabana<br/></color>
+     <img src="ui/icon_biomes/icon_savannah.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+    </cell>
+    <cell width="128">
+     <color r="255" g="255" b="255">Sur de África<br/></color>
+     <img src="ui/icon_maplocations/Savannah_Africa_South_GiantSable.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+    </cell>
+    <br/>
+    <cell width="284" pady="10">
+     <color r="255" g="255" b="255">
+      Clase: Mamíferos <i>(Mammalia)</i><br/>
+      Orden: Ungulados con dedos pares<i>(Artiodactyla)</i><br/>
+      Familia: Bóvidos <i>(Bovidae)</i><br/>
+      Género: <i>Hippotragus</i><br/>
+      Especie: <i>niger</i><br/>
+      Subespecie:  <i>variani</i>
+     </color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="UI/zoopedia/biome/savannah_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Hechos divertidos del antílope sable gigante</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Los impresionantes cuernos curvados del antílope sable gigante pueden alcanzar hasta 1,5 m de longitud.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>        
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Si un antílope sable gigante perdiera sus cuernos, no le volverían a crecer.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">El antílope sable gigante puede alcanzar velocidades de hasta 56 km/h y mantenerlas durante cierto tiempo.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">La supervivencia del antílope sable gigante ha estado amenazada por 27 años de guerra civil en Angola, país del que son originarios.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Sólo quedan 1.000 antílopes sable gigante en el mundo y todos ellos habitan en la zona central de Angola, en la Reserva de Luando y en el Parque Nacional de Kangandala.</color>
+    </cell>    
+    <br/> 
+   </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178">
+    Para desbloquear al antílope sable gigante en los juegos de desafío o de campaña, debe ganar un nivel de fama del zoo de 2 estrellas.
+   </color>
+   <p/>
+Antílope es el nombre común que se aplica a un extenso grupo de mamíferos con cuernos huecos que pertenecen a la misma familia que el ganado vacuno, las cabras y las ovejas. El grupo comprende unas 100 especies que viven en África y Asia, entre las que se incluyen algunos de los mamíferos ungulados más rápidos y elegantes del mundo, así como algunos de los que están en mayor peligro de extinción.
+   <p/>
+Entre las siete especies conocidas como antílopes caballo (subfamilia Hippotraginae), se incluye el antílope sable, el antílope roano, el órix y el antílope Áddax, con una estructura similar al caballo. Viven en África y en la Península Arábiga, en una gran variedad de hábitats que van desde bosques a desiertos. A pesar de su nombre colectivo, es imposible confundir a estos antílopes con auténticos caballos, ya que tienen unos cuernos excepcionalmente largos. Los cuernos del antílope son grandes trofeos para los cazadores, un hecho que ha hecho que algunos de estos animales estén al borde de la extinción.
+   <p/>
+A diferencia de los ciervos, que tienen cuernos ramificados que mudan anualmente, los antílopes poseen cuernos puntiagudos que conservan durante toda su vida. Los cuernos de un antílope pueden alcanzar una longitud de 1,5; tienen un aspecto formidable, pero su valor como arma es limitado. Existen algunos datos de antílopes que han atravesado con sus cuernos e incluso matado a depredadores tan grandes como leones, pero cuando un antílope se enfrenta al peligro, lo más probable es que salga huyendo.
+   <p/>
+Los antílopes son rumiantes, animales que regurgitan el alimento parcialmente digerido, llamado rumia, y vuelven a masticarlo. Al igual que otros rumiantes, incluido el ganado vacuno y las ovejas, los antílopes tienen muy desarrollados los dientes laterales o molares, que trituran la rumia hasta convertirla en pulpa. No tienen incisivos superiores, por lo que para cortar tallos de hierba u hojas, presionan los incisivos inferiores contra una encía superior dura para morder.
+   <p/>
+Tanto si están comiendo como si están descansando, los antílopes confían en sus agudos sentidos para evitar el peligro. Pueden girar la vista lateralmente y sus pupilas son alargadas, lo que les permite ver bien cualquier peligro procedente de atrás o de delante. Su oído y su olfato también son agudos, un aspecto muy valioso en la vida al aire libre, donde muchos depredadores están al acecho una vez que oscurece.
+   <p/>
+Para sobrevivir, los antílopes confían en su capacidad para detectar el peligro y huir rápidamente. Su sistema de defensa les permite evitar a los depredadores más salvajes, pero sólo les ofrece una protección parcial frente a los cazadores humanos interesados en la piel, los cuernos o la carne del antílope, y ningún tipo de protección frente a los cambios en su hábitat.
+  </cell>
+  <p/>
+  <cell width="260"/>
+  <cell width="620">
+   Contenido proporcionado por<a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Biblioteca de Referencia Encarta (R) 2005 de Microsoft (R).</color></u></a>(C) 1993-2004 Microsoft Corporation. Reservados todos los derechos.
+  </cell>
+ </LOC_STRING>
+
+</ZT2Strings>

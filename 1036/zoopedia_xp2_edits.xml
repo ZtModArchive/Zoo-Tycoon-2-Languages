@@ -1,0 +1,33 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_paths" version="2"/>
+      <LOC_STRING _locID="zoopedia_paths:entry" version="2">Chemins</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_paths:text" version="2">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>Des chemins placés à un endroit judicieux jouent un rôle important tant au niveau du bien-être de vos visiteurs que pour vous assurer qu'ils vont dans la bonne direction.
+                  <p/>Pour afficher les informations sur les types de chemins, cliquez sur la rubrique Matériaux des chemins dans la liste à gauche.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_staff" version="3"/>
+      <LOC_STRING _locID="zoopedia_staff:entry" version="3">Personnel</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_staff:text" version="3">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>Vous pouvez engager différents types de personnel pour vous aider à faire tourner votre zoo.
+                  <p/>Pour afficher les informations sur un type de personnel particulier, cliquez sur son nom dans la liste à gauche.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+
+</ZT2Strings>

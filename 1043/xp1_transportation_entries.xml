@@ -1,0 +1,185 @@
+﻿<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_transportation:entry">Transport</LOC_STRING> <LOC_STRING _locID="zoopedia_transportation:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>
+Zoo Tycoon 2: Bedreigde diersoorten biedt twee transportmiddelen: Jeeps&#xAE; en kabelbanen.
+                  <p/>
+Klik in de linkerlijst op de naam van een transportitem als je hierover informatie wilt weergeven.</color>
+            </cell>
+         </cell>
+      </LOC_STRING> <LOC_STRING _locID="zoopedia_groundstation:entry">Garage voor Jeeps&#xAE;</LOC_STRING> <LOC_STRING _locID="zoopedia_groundstation:text">
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255"><img src="entities\transportation\stations\GroundStation\GroundStation_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+In de garage voor Jeeps&#xAE; kunnen bezoekers in en uit <a href="zoopedia:zoopedia_groundvehicle:entry"><u><color r="255" g="231" b="135">Jeeps</color></u></a> stappen. Een garage blijft gesloten totdat deze wordt aangesloten op een geldig, gesloten <a href="zoopedia:zoopedia_groundtrack:entry"><u><color r="255" g="231" b="135">weg</color></u></a>circuit. Nadat een circuit is voltooid, wordt de garage geopend en kun je hiervoor voertuigen kopen.</color>
+    </cell>
+   </cell>
+  </LOC_STRING> <LOC_STRING _locID="zoopedia_skystation:entry">Kabelbaanstation</LOC_STRING> <LOC_STRING _locID="zoopedia_skystation:text">
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255"><img src="entities\transportation\stations\SkyStation\SkyStation_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+In het kabelbaanstation kunnen bezoekers in en uit <a href="zoopedia:zoopedia_gondola:entry"><u><color r="255" g="231" b="135">kabelbaanbankjes</color></u></a> stappen. Een kabelbaanstation blijft gesloten totdat het wordt aangesloten op een correct aangelegde, aaneengesloten kabelbaankabel. Nadat een circuit is voltooid, wordt het kabelbaanstation geopend en kun je hiervoor voertuigen kopen.
+      <p/>
+Koop en plaats <a href="zoopedia:zoopedia_skytrampole:entry"><u><color r="255" g="231" b="135">kabelbaanpalen</color></u></a> als je een kabelbaankabel wilt aanleggen.
+      <p/>
+Tip: als je een circuit van twee stations zo kort mogelijk wilt maken, sluit je het eerste station aan op het tweede station. Vervolgens trek je gelijk weer een kabel van het tweede station naar het eerste station. De voertuigen keren in het stationsgebouw om.</color>
+    </cell>
+   </cell>
+  </LOC_STRING> <LOC_STRING _locID="zoopedia_skytrampole:entry">Kabelbaanpaal</LOC_STRING> <LOC_STRING _locID="zoopedia_skytrampole:text">
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255"><img src="entities\transportation\track\skytower\skytower_icon.dds" sx="0" sy="0" sw="64" sh="64"/> <img src="entities\transportation\track\skytower\skytower_T_arm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+Voor de aanleg van de kabelbaankabel moet je kabelbaanpalen gebruiken. Als je een kabel tussen een paal en een <a href="zoopedia:zoopedia_skystation:entry"><u><color r="255" g="231" b="135">kabelbaanstation</color></u></a> wilt trekken, selecteer je eerst de kabelbaanpaal in het venster voor het kopen van transportitems. Klik op de plaats waar je de paal wilt neerzetten en klik vervolgens op het station om de paal en het station te verbinden met de kabel.
+		<p/>
+Een normale kabelbaanpaal heeft één kabel die in slechts één richting beweegt. De kabelbaanverbindingspaal heeft twee kabels die in tegengestelde richting bewegen. Een verbindingspaal kan worden aangesloten op stations en andere verbindingspalen, maar niet op normale palen.		
+     <p/>
+Tip: je kunt de hoogte van een kabelbaanpaal aanpassen. Klik op de top van een kabelbaanpaal (zodat de cursor verandert in een handje) en houd de muisknop ingedrukt. Sleep nu met de muis totdat de paal de gewenste hoogte heeft.</color>
+    </cell>
+   </cell>
+  </LOC_STRING> <LOC_STRING _locID="zoopedia_groundtrack:entry">Weg</LOC_STRING> <LOC_STRING _locID="zoopedia_groundtrack:text">
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255"><img src="entities\transportation\track\ground\ground_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+Wegen worden gebruikt om <a href="zoopedia:zoopedia_groundstation:entry"><u><color r="255" g="231" b="135">garages voor Jeeps&#xAE;</color></u></a> met elkaar te verbinden, zodat <a href="zoopedia:zoopedia_groundvehicle:entry"><u><color r="255" g="231" b="135">Jeeps</color></u></a> kunnen rondrijden. De weg moet correct en als aaneengesloten circuit zijn aangelegd voordat je garages voor Jeeps kunt openen. Let op: alle wegen in Zoo Tycoon 2: Bedreigde diersoorten zijn eenrichtingswegen!</color>
+    </cell>
+   </cell>
+  </LOC_STRING> <LOC_STRING _locID="zoopedia_crossinggate:entry">Slagboom</LOC_STRING> <LOC_STRING _locID="zoopedia_crossinggate:text">
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255"><img src="entities\transportation\crossinggate\crossinggate_end\crossinggate_end_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+Plaats een slagboom op punten waar een pad een weg kruist om te voorkomen dat voetgangers door een Jeep&#xAE; worden aangereden. De slagboom gaat dicht en weer open wanneer het voertuig passeert.</color>
+    </cell>
+   </cell>
+  </LOC_STRING> <LOC_STRING _locID="zoopedia_elevatedpath:entry">Verhoogde paden</LOC_STRING> <LOC_STRING _locID="zoopedia_elevatedpath:text">
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255"><img src="entities\objects\paths\elevatedpaths\ElevatedPath_Stone_end\ElevatedPath_Stone_end_icon.dds" sx="0" sy="0" sw="64" sh="64"/> <img src="entities\objects\paths\elevatedpaths\ElevatedPath_Wood_end\ElevatedPath_Wood_end_icon.dds" sx="0" sy="0" sw="64" sh="64"/>      
+      <p/>
+Verhoogde paden kunnen worden gebruikt om moeilijk bereikbare plaatsen te verbinden of om bezoekers beter zicht op je dierentuin te bieden. Gebruik hellingen om verhoogde paden met het terrein of andere verhoogde paden te verbinden. Boven op platte verhoogde paden kun je gebouwen en andere objecten plaatsen.
+      <p/>
+Steunpalen worden automatisch geplaatst wanneer je verhoogde paden aanlegt. Desgewenst kun je de steunpalen verwijderen.</color>
+    </cell>
+   </cell>
+  </LOC_STRING> <LOC_STRING _locID="zoopedia_elevatedpathrailing:entry">Railing voor verhoogd pad</LOC_STRING> <LOC_STRING _locID="zoopedia_elevatedpathrailing:text">
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255"><img src="entities\objects\paths\elevatedpaths\ElevatedPath_Stone_end\Curb_Stone_end_icon.dds" sx="0" sy="0" sw="64" sh="64"/> <img src="entities\objects\paths\elevatedpaths\ElevatedPath_Stone_end\Curb_Stone_high_end_icon.dds" sx="0" sy="0" sw="64" sh="64"/> <img src="entities\objects\paths\elevatedpaths\ElevatedPath_Wood_end\Curb_Wood_end_icon.dds" sx="0" sy="0" sw="64" sh="64"/> <img src="entities\objects\paths\elevatedpaths\ElevatedPath_Wood_end\Curb_Wood_high_end_icon.dds" sx="0" sy="0" sw="64" sh="64"/>      
+      <p/>
+Railings voegen een decoratief element aan verhoogde paden doen, maar hebben ook een praktischer doel: ze voorkomen dat mensen naar beneden vallen. Je kunt railings voor verhoogde paden vervangen door andere railings om de aanblik van je dierentuin te veranderen.</color>
+    </cell>
+   </cell>
+  </LOC_STRING> <LOC_STRING _locID="zoopedia_groundvehicle:entry">Jeeps&#xAE;</LOC_STRING> <LOC_STRING _locID="zoopedia_groundvehicle:text">
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255"><img src="entities\transportation\vehicles\Jeep_Wrangler\Jeep_Wrangler_icon.dds" sx="0" sy="0" sw="64" sh="64"/> <img src="entities\transportation\vehicles\Jeep_Commander\Jeep_Commander_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+Jeeps&#xAE; vervoeren bezoekers tussen <a href="zoopedia:zoopedia_groundstation:entry"><u><color r="255" g="231" b="135">garages voor Jeeps</color></u></a>. In een Jeep Wrangler kunnen drie bezoekers worden vervoerd, in een Jeep Commander zijn dat er zes.</color>
+    </cell>
+   </cell>
+  </LOC_STRING> <LOC_STRING _locID="zoopedia_groundvehicleupgrade:entry">Gedecoreerde Jeeps&#xAE;</LOC_STRING> <LOC_STRING _locID="zoopedia_groundvehicleupgrade:text">
+    <cell pady="0" width="1000"/>
+    <p/>
+    <cell width="260"/>
+    <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+     <cell width="600" padx="20" pady="20">
+      <color r="255" g="255" b="255"><img src="entities\transportation\vehicles\Jeep_Wrangler\Jeep_Wrangler_Upgraded_icon.dds" sx="0" sy="0" sw="64" sh="64"/> <img src="entities\transportation\vehicles\Jeep_Commander\Jeep_Commander_Upgraded_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+       <p/>
+Jeeps&#xAE; vervoeren bezoekers tussen <a href="zoopedia:zoopedia_groundstation:entry"><u><color r="255" g="231" b="135">garages voor Jeeps</color></u></a>. In een Jeep Wrangler kunnen drie bezoekers worden vervoerd, in een Jeep Commander zijn dat er zes. 
+<p/>
+Gedecoreerde Jeeps bevatten decoratieve elementen en komen beschikbaar door de prijs voor beste rondleidingen, niveau 2 te winnen.</color>
+     </cell>
+    </cell>
+   </LOC_STRING> <LOC_STRING _locID="zoopedia_gondola:entry">Kabelbaanbankje</LOC_STRING> <LOC_STRING _locID="zoopedia_gondola:text">
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255"><img src="entities\transportation\vehicles\gondola\Gondola_1Seat_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/> <img src="entities\transportation\vehicles\gondola\Gondola_2Seats_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/> <img src="entities\transportation\vehicles\gondola\Gondola_4Seats_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>      
+      <p/>
+Kabelbaanbankjes vervoeren bezoekers tussen <a href="zoopedia:zoopedia_skystation:entry"><u><color r="255" g="231" b="135">kabelbaanstations</color></u></a>. De verschillende soorten kabelbaanbankjes bieden ruimte aan verschillende aantallen bezoekers.</color>
+    </cell>
+   </cell>
+  </LOC_STRING> <LOC_STRING _locID="zoopedia_gondolaupgrade:entry">Geavanceerd kabelbaanbankje</LOC_STRING> <LOC_STRING _locID="zoopedia_gondolaupgrade:text">
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255"><img src="entities\transportation\vehicles\gondola\Gondola_1Seat_icon.dds" sx="0" sy="0" sw="64" sh="64"/> <img src="entities\transportation\vehicles\gondola\Gondola_2Seats_icon.dds" sx="0" sy="0" sw="64" sh="64"/> <img src="entities\transportation\vehicles\gondola\Gondola_4Seats_icon.dds" sx="0" sy="0" sw="64" sh="64"/>      
+      <p/>
+Kabelbaanbankjes vervoeren bezoekers tussen <a href="zoopedia:zoopedia_skystation:entry"><u><color r="255" g="231" b="135">kabelbaanstations</color></u></a>. De verschillende soorten kabelbaanbankjes bieden ruimte aan verschillende aantallen bezoekers. 
+		<p/>
+Geavanceerde kabelbaanbankjes bevatten decoratieve elementen komen beschikbaar door de prijs voor toptransport, niveau 3 te winnen.</color>
+    </cell>
+   </cell>
+  </LOC_STRING> <LOC_STRING _locID="zoopedia_sixseater:entry">Zespersoons</LOC_STRING> <LOC_STRING _locID="zoopedia_sixseater:text">
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255"><img src="entities\transportation\vehicles\Jeep_Commander\Jeep_Commander_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+      [ADDSTUFF]</color>
+    </cell>
+   </cell>
+  </LOC_STRING> <LOC_STRING _locID="zoopedia_suv:entry">Achtpersoons</LOC_STRING> <LOC_STRING _locID="zoopedia_suv:text">
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255"><img src="entities\transportation\stations\SkyStation\SkyStation_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+      [ADDSTUFF]</color>
+    </cell>
+   </cell>
+  </LOC_STRING> <LOC_STRING _locID="zoopedia_truck:entry">Zespersoons</LOC_STRING> <LOC_STRING _locID="zoopedia_truck:text">
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255"><img src="entities\transportation\stations\SkyStation\SkyStation_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+      [ADDSTUFF]</color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+ 
+</ZT2Strings>

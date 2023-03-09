@@ -1,0 +1,147 @@
+<ZT2Strings>
+   <entityname>
+      <!--animal names-->
+      <Addax>Addax</Addax>
+      <Addax_stt>Addax</Addax_stt>
+      <Addax_lower>de addax</Addax_lower>
+      <Addax_ltt>
+         <color r="255" g="248" b="178">
+            <b>Addax</b>
+         </color>
+         <br/>
+         Klik om een addax, een grote antilope uit de woestijn, te selecteren en te plaatsen.
+      </Addax_ltt>
+      <!--gift names-->
+      <Addax_Gift>Addaxpop</Addax_Gift>
+      <Addax_Gift_stt>Addaxpop</Addax_Gift_stt>
+      <Addax_Gift_lower>de addaxpop</Addax_Gift_lower>
+      <Addax_Gift_ltt>
+         <color r="255" g="248" b="178">
+            <b>Addaxpop</b>
+         </color>
+         <br/>Gasten die de addax mooi vinden, kopen dit artikel.</Addax_Gift_ltt>
+   </entityname>
+   
+   <!--zoopedia entries-->
+   <zoopedia_addax version="2">
+      <entry>Addax</entry>
+      <text>
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/Addax/Addax_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>						
+						</cell>
+						<cell width="16">
+							<img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						</cell>
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/Addax/Addax_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>						
+						</cell>						
+						<cell width="16">
+							<img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						</cell>
+						<cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/critical.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Beschermde status:
+                     <br/>
+                        <color r="255" g="0" b="0">
+                     Ernstig bedreigd
+                       </color>
+                     </color>                  
+                  </cell>
+               </cell>            
+            
+               <cell width="128">
+                  <color r="255" g="255" b="255">Woestijn<br/></color>
+                  <img src="ui/icon_biomes/icon_desert.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+               </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Noord-Afrika<br/></color>
+                  <img src="ui/icon_maplocations/Desert_Africa_North.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">Klasse: Zoogdieren<i>(Mammalia)</i><br/>Order: Evenhoevigen<i>(Artiodactyla)</i><br/>Familie:Holhoornigen<i>(Bovidae)</i><br/>Geslacht:<i>Addax</i><br/>Soort:<i>nasomaculatus</i></color>
+               </cell>
+               <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/desert_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+               </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Leuke weetjes over de addax</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Dat de addax kan overleven in de uitgestrekte Sahara is mede te danken aan zijn vermogen om de woestijnvegetatie die na een flinke regenbui plotseling uit de dorre ondergrond opkomt, op grote afstand te detecteren.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">De addax is het grootste inheemse dier in de Sahara-woestijn.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">De addax drinkt bijna nooit. Vocht haalt het dier uit zijn voeding.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">De addax creëert vaak zelf een schuilplaats tegen de felle zon en heftige woestijnwind door bij rotsen de grond af te graven tot een ondiepe kuil ontstaat.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">De vacht van de addax is 's zomers wit en 's winters grijsbruin.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">De bonkige gestalte van de addax maakt dat het dier niet echt hard kan rennen. Vaak valt deze antilope daarom ten prooi aan roofdieren.</color>
+               </cell>
+            </cell>
+         </cell>
+         <cell width="340">
+         <color r="255" g="248" b="178">Je kunt de addax pas gebruiken in de Challenge- of Campaign-modus als je een twee-sterren zoo hebt opgebouwd.</color>
+         <p/>De addax is een woestijnantilope die oorspronkelijk in de westelijke Sahara, Mauritanië, Egypte en Sudan voorkwam. Nu zijn er alleen nog kleine groepen in het zuidwesten van de Sahara en aan de andere kant van de Rode Zee, in het Midden-Oosten. Door overbejaging, ernstige droogte en overlast van toeristen is de populatie dermate klein geworden dat de soort met uitsterven bedreigd is. In het wild komt nog slechts één levensvatbare populatie voor, met iets minder dan 200 dieren.
+         <p/>De addax is een plantenetende herkauwer met een schofthoogte van 95 tot 115 cm en een geelwitte vacht, bruine manen en een zwarte vlek op het voorhoofd. Beide geslachten beschikken over sierlijke, geringde hoorns in een open spiraalvorm, met een lengte tot wel 89 cm. De brede hoeven van de adax zijn uitstekend geschikt voor het rennen over het zand. Het dier kan lang zonder water en haalt zijn vocht uit de bladeren van vetplanten en wilde watermeloenen. De addax zoekt bescherming tegen de hete middagzon, soms in grotten.
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Inhoud met dank aan<a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2004.</color></u></a>(C) 1993-2003 Microsoft Corporation. Alle rechten voorbehouden.
+ </cell>
+      </text>
+   </zoopedia_addax>
+</ZT2Strings>

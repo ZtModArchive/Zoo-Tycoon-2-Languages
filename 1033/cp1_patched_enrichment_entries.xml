@@ -1,0 +1,19 @@
+﻿<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_saltlick" version="2" />
+      <LOC_STRING _locID="zoopedia_saltlick:entry" version="2"  >Salt Lick</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_saltlick:text" version="2"  >
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities/objects/enrichment/SaltLick_df/SaltLick_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+Ungulates enjoy salt licks because they meet the animals' natural desire for sodium chloride. Salt licks also contain trace minerals, such as iron and iodine, that are essential for the animals' health.
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING> 
+ 
+</ZT2Strings>

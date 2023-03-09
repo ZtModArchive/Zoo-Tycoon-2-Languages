@@ -1,0 +1,48 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_marinefence:entry">Clôture sur le thème aquatique</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_marinefence:text">
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\objects\fences\marinefence_high_mm\marinefence_high_mm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>     
+      <p/>
+La clôture sur le thème aquatique est parfaite dans les enclos des animaux marins et leurs espaces publics se trouvant à proximité.
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_marinewindowfence:entry">Clôture sur le thème aquatique avec fenêtres</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_marinewindowfence:text">
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\objects\fences\marinefence_window_mm\marinefence_window_mm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>     
+      <p/>
+La clôture sur le thème aquatique avec fenêtres est parfaite dans les enclos des animaux marins et leurs espaces publics se trouvant à proximité.
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_showfence:entry">Clôture de spectacle aquatique</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_showfence:text">
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\objects\fences\showfence_mm\showfence_mm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>     
+      <p/>
+La clôture de spectacle aquatique n'est pas très solide, donc mieux vaut ne pas l'utiliser pour les enclos des animaux. Par contre, elle est particulièrement adaptée pour créer des zones de spectacle fermées pour placer vos gradins.
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+
+</ZT2Strings>

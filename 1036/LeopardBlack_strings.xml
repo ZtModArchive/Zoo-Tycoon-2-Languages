@@ -1,0 +1,128 @@
+<ZT2Strings>
+   <entityname>
+      <!--animal names-->
+      <LeopardBlack>Panthère noire</LeopardBlack>
+      <LeopardBlack_stt>Panthère noire</LeopardBlack_stt>
+      <LeopardBlack_lower>la panthère noire</LeopardBlack_lower>
+      <LeopardBlack_ltt>
+         <color r="255" g="248" b="178">
+            <b>Panthère noire</b>
+         </color>
+         <br/>
+         Sélectionnez, puis placez la panthère noire, variante mélanique de la panthère.
+      </LeopardBlack_ltt>
+      <!--gift names-->
+      <LeopardBlack_Gift>Sac à dos panthère noire</LeopardBlack_Gift>
+      <LeopardBlack_Gift_stt>Sac à dos panthère noire</LeopardBlack_Gift_stt>
+      <LeopardBlack_Gift_lower>le sac à dos panthère noire</LeopardBlack_Gift_lower>
+      <LeopardBlack_Gift_ltt>
+         <color r="255" g="248" b="178">
+            <b>Sac à dos panthère noire</b>
+         </color>
+         <br/>Les visiteurs qui apprécient d'observer la panthère noire achèteront ce souvenir.
+      </LeopardBlack_Gift_ltt>
+      <LeopardBlack_Gift_Adult>Sac à dos panthère noire</LeopardBlack_Gift_Adult>
+      <LeopardBlack_Gift_Adult_stt>Sac à dos panthère noire</LeopardBlack_Gift_Adult_stt>
+      <LeopardBlack_Gift_Adult_lower>le sac à dos panthère noire</LeopardBlack_Gift_Adult_lower>
+      <LeopardBlack_Gift_Adult_ltt>
+         <color r="255" g="248" b="178">
+            <b>Sac à dos panthère noire</b>
+         </color>
+         <br/>Les visiteurs qui apprécient d'observer la panthère noire achèteront ce souvenir.
+      </LeopardBlack_Gift_Adult_ltt>
+   </entityname>
+   <zoopedia_leopardblack version="2">
+      <entry>Panthère noire</entry>
+      <text>
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/LeopardBlack/LeopardBlack_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						</cell>
+						<cell width="16">
+							<img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						</cell>
+						<cell width="16">
+							<img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						</cell>
+						<cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     État de préservation :
+                     <br/>
+                        <color r="170" g="255" b="0">
+                     Peu menacé
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>             
+            
+               <cell width="128">
+                  <color r="255" g="255" b="255">Forêt tropicale<br/></color>
+                  <img src="ui/icon_biomes/icon_tropicalrainforest.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+               </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Afrique<br/></color>
+                  <img src="ui/icon_maplocations/Rainforest_Africa.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">Classe : Mammifères <i>(Mammalia)</i><br/>Ordre : Carnivores <i>(Carnivora)</i><br/>Famille : Félins <i>(Felidae)</i><br/>Genre : <i>Panthera</i><br/>Espèce :<i>pardus</i></color>
+               </cell>
+               <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/tropicalrainforest_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+               </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Bon à savoir sur la panthère noire</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">La panthère noire est une variante mélanique de la panthère.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">En effet, le pelage de la panthère noire présente aussi des taches. Vous pouvez les voir en vous approchant suffisamment près et sous le bon angle.</color>
+               </cell>
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">Pour débloquer la panthère noire dans les parties Défi ou Campagne, le niveau de renommée de votre zoo doit atteindre trois étoiles.</color>
+<p/>Tout comme la panthère « commune », la panthère noire possède des taches, mais celles-ci sont plus difficiles à distinguer.
+<p/>Panthère est l'appellation commune d'un grand félin que l'on rencontre dans divers habitats ; c'est le plus répandu des chats sauvages, on le trouve dans une large partie de l'Afrique et de l'Asie. Le corps d'une panthère adulte mesure de 0,91 à 1,91 m, longueur à laquelle il faut ajouter une queue d'un mètre. Son pelage est généralement pâle, couvert de taches en rosettes (ocelles) noires. À la différence des ocelles du jaguar, celles de la panthère n'ont pas de point central. Il existe des spécimens à la robe plus sombre et certaines panthères (nées dans des portées ordinaires), sont complètement noires : il s'agit des panthères noires.
+<p/>Agile grimpeuse, la panthère noire va souvent traquer les singes dans les arbres. Elle chasse principalement la nuit. Quand le gibier se fait rare, une panthère mange des mulots, des fruits, des porcs-épics, des babouins ou des arthropodes. La femelle peut mettre bas de un à six petits.
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Avec le concours de la <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Collection Microsoft (R) Encarta (R) 2004.</color></u></a>(C) 1993-2003 Microsoft Corporation. Tous droits réservés.
+         </cell>
+      </text>
+   </zoopedia_leopardblack>
+</ZT2Strings>

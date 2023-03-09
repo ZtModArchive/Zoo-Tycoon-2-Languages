@@ -1,0 +1,53 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_rewardobjects" version="2"/>
+      <LOC_STRING _locID="zoopedia_rewardobjects:entry" version="2">Objetos de recompensa</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_rewardobjects:text" version="2">
+         <color r="255" g="255" b="255">
+            <cell pady="0" width="1000"/>
+            <p/>
+            <cell width="260"/>
+            <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+               <cell width="600" padx="20" pady="20">
+Usted obtendrá objetos de recompensa cuando gane <a href="zoopedia:zoopedia_awards:entry"><u><color r="255" g="231" b="135">premios,</color></u></a> se enfrente a <a href="zoopedia:zoopedia_challenge:entry"><u><color r="255" g="231" b="135">desafíos,</color></u></a>o complete <a href="zoopedia:zoopedia_campaign:entry"><u><color r="255" g="231" b="135">alguna campaña.</color></u></a>
+<p/>
+En la pantalla Premios del zoo, aparecen todos los objetos de recompensa que puede obtener. Para abrir la pantalla Premios del zoo, haga clic en el botón Mostrar fama del zoo y luego seleccione la ficha Premios del zoo.
+               </cell>
+            </cell>
+         </color>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_layingdownroads" version="2"/>
+      <LOC_STRING _locID="zoopedia_layingdownroads:entry" version="2">Trazado de los caminos</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_layingdownroads:text" version="2">
+         <color r="255" g="255" b="255">
+            <cell pady="0" width="1000"/>
+            <p/>
+            <cell width="260"/>
+            <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+               <cell width="600" padx="20" pady="20">
+Para usar los vehículos Jeep®, necesita una o varias estaciones de vehículos Jeep conectadas a un circuito de camino ya terminado. Una vez finalizado el circuito, se llevará a cabo la apertura de la estación de vehículos Jeep y podrá proveerla con los vehículos adquiridos. Para facilitar la entrada y salida de los visitantes, coloque senderos que conduzcan hasta las entradas de la estación de vehículos Jeep.
+<p/>
+Tenga en cuenta que todos los caminos son de una sola dirección (puede cambiar de dirección en la estación de vehículos Jeep). Para que el circuito resulte válido, evite los tramos sin salida y los cortes en el camino.
+               </cell>
+            </cell>
+         </color>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_tours" version="2"/>
+      <LOC_STRING _locID="zoopedia_tours:entry" version="2">Recorridos</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_tours:text" version="2">
+         <color r="255" g="255" b="255">
+            <cell pady="0" width="1000"/>
+            <p/>
+            <cell width="260"/>
+            <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+               <cell width="600" padx="20" pady="20">
+A los visitantes les encantan los recorridos emocionantes. Cuanto mejor lo pasen en el recorrido, mayor será la puntuación del recorrido para el circuito de transporte y, cuanto mayor sea esa puntuación, más recibirá usted en donaciones para recorridos.
+     <p/>
+Durante los recorridos, a los visitantes les gusta ver animales, refugios para animales, vegetación y rocas adecuadas al biomedio, edificios, fuentes, arcos, arriates de flores y objetos de recorrido (si están disponibles).
+     <p/>
+A los visitantes les gusta que los recorridos sean variados y pueden llegar a aburrirse si se centran demasiado en un mismo tema.                           
+               </cell>
+            </cell>
+         </color>
+      </LOC_STRING>  
+   
+</ZT2Strings>

@@ -1,0 +1,190 @@
+<ZT2Strings>
+   <!--entity names-->
+   <entityname>
+      <!--scenery object names-->
+      <Statue_Gorilla_df>Statue des gorilles</Statue_Gorilla_df>
+      <Statue_Gorilla_df_stt>Statue des gorilles</Statue_Gorilla_df_stt>
+      <Statue_Gorilla_df_lower>la statue des gorilles</Statue_Gorilla_df_lower>
+      <Statue_Gorilla_df_ltt>
+         <color r="255" g="248" b="178">
+            <b>Statue des gorilles</b>
+         </color>
+         <br/>
+         Sélectionnez, puis placez la statue des gorilles, une superbe statue d'une mère gorille et de son petit.
+      </Statue_Gorilla_df_ltt>
+      <Statue_Tiger_df>Statue des tigres</Statue_Tiger_df>
+      <Statue_Tiger_df_stt>Statue des tigres</Statue_Tiger_df_stt>
+      <Statue_Tiger_df_lower>la statue des tigres</Statue_Tiger_df_lower>
+      <Statue_Tiger_df_ltt>
+         <color r="255" g="248" b="178">
+            <b>Statue des tigres</b>
+         </color>
+         <br/>
+         Sélectionnez, puis placez la statue des tigres, une superbe statue d'une mère tigre et de ses petits.
+      </Statue_Tiger_df_ltt>
+      <Playground_TortoiseTrampoline_df>Trampoline tortue</Playground_TortoiseTrampoline_df>
+      <Playground_TortoiseTrampoline_df_stt>Trampoline tortue</Playground_TortoiseTrampoline_df_stt>
+      <Playground_TortoiseTrampoline_df_lower>la trampoline tortue</Playground_TortoiseTrampoline_df_lower>
+      <Playground_TortoiseTrampoline_df_ltt>
+         <color r="255" g="248" b="178">
+            <b>Trampoline tortue</b>
+         </color>
+         <br/>
+         Sélectionnez, puis placez une trampoline tortue, sur laquelle les enfants aiment sauter.
+      </Playground_TortoiseTrampoline_df_ltt>
+      <Fountain_Small_df>Petite fontaine</Fountain_Small_df>
+      <Fountain_Small_df_stt>Petite fontaine</Fountain_Small_df_stt>
+      <Fountain_Small_df_lower>la petite fontaine</Fountain_Small_df_lower>
+      <Fountain_Small_df_ltt>
+         <color r="255" g="248" b="178">
+            <b>Petite fontaine</b>
+         </color>
+         <br/>
+         Sélectionnez, puis placez une petite fontaine que les visiteurs apprécient de regarder.
+      </Fountain_Small_df_ltt>
+      <Fountain_Splash_df>Fontaine pour barboter</Fountain_Splash_df>
+      <Fountain_Splash_df_stt>Fontaine pour barboter</Fountain_Splash_df_stt>
+      <Fountain_Splash_df_lower>la fontaine pour barboter</Fountain_Splash_df_lower>
+      <Fountain_Splash_df_ltt>
+         <color r="255" g="248" b="178">
+            <b>Fontaine pour barboter</b>
+         </color>
+         <br/>
+         Sélectionnez, puis placez une fontaine pour barboter, une source de distraction vivifiante et rafraîchissante pour les enfants.
+      </Fountain_Splash_df_ltt>
+      
+      <!--fence names-->      
+      <brickwindow_df>Clôture en briques avec fenêtres</brickwindow_df>
+      <brickwindow_df_stt>Clôture en briques avec fenêtres</brickwindow_df_stt>
+      <brickwindow_df_lower>la clôture en briques avec fenêtres</brickwindow_df_lower>
+      <brickwindow_df_ltt>
+         <color r="255" g="248" b="178">
+            <b>Clôture en briques avec fenêtres</b>
+         </color>
+         <br/>
+         Sélectionnez, puis placez des sections d'une clôture en briques avec fenêtres, qui est robuste et offre une jolie vue.
+      </brickwindow_df_ltt>
+      <stonewindow_df>Clôture en pierre avec fenêtres</stonewindow_df>
+      <stonewindow_df_stt>Clôture en pierre avec fenêtres</stonewindow_df_stt>
+      <stonewindow_df_lower>la clôture en pierre avec fenêtres</stonewindow_df_lower>
+      <stonewindow_df_ltt>
+         <color r="255" g="248" b="178">
+            <b>Clôture en pierre avec fenêtres</b>
+         </color>
+         <br/>
+         Sélectionnez, puis placez des sections d'une clôture en pierre avec fenêtres, qui est robuste et offre une jolie vue.
+      </stonewindow_df_ltt>
+      <junglewindow>Clôture style jungle avec fenêtres</junglewindow>
+      <junglewindow_stt>Clôture style jungle avec fenêtres</junglewindow_stt>
+      <junglewindow_lower>la clôture style jungle avec fenêtres</junglewindow_lower>
+      <junglewindow_ltt>
+         <color r="255" g="248" b="178">
+            <b>Clôture style jungle avec fenêtres</b>
+         </color>
+         <br/>
+         Sélectionnez, puis placez des sections d'une clôture style jungle avec fenêtres, qui est robuste et offre une jolie vue.
+      </junglewindow_ltt>            
+   </entityname>
+   
+   <!--Zoopedia entries-->
+   <zoopedia_brickwindow>
+	      <entry>Clôture en briques avec fenêtres</entry>
+	      <text>
+	         <cell pady="0" width="1000"/>
+	         <p/>
+	         <cell width="260"/>
+	         <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+	            <cell width="600" padx="20" pady="20">
+	               <color r="255" g="255" b="255">
+	                  <img src="entities\objects\fences\brickwindow_df\brickwindow_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+	                  <p/>La clôture en briques avec fenêtres offre à vos visiteurs une excellente vue des animaux tout en empêchant ceux-ci de s'échapper.
+	                  <p/>Utilisez la clôture en briques avec fenêtres avec la clôture en briques habituelle pour créer un enclos attrayant et résistant.
+	               </color>
+	            </cell>
+	         </cell>
+	      </text>
+   </zoopedia_brickwindow>
+   <zoopedia_stonewindow>
+		      <entry>Clôture en pierre avec fenêtres</entry>
+		      <text>
+		         <cell pady="0" width="1000"/>
+		         <p/>
+		         <cell width="260"/>
+		         <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+		            <cell width="600" padx="20" pady="20">
+		               <color r="255" g="255" b="255">
+		                  <img src="entities\objects\fences\stonewindow_df\stonewindow_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+		                  <p/>La clôture en pierre avec fenêtres offre à vos visiteurs une excellente vue des animaux tout en empêchant ceux-ci de s'échapper.
+		                  <p/>Utilisez la clôture en pierre avec fenêtres avec la clôture en pierre habituelle pour créer un enclos attrayant et résistant.
+		               </color>
+		            </cell>
+		         </cell>
+		      </text>
+   </zoopedia_stonewindow>
+   <zoopedia_junglewindow>
+		      <entry>Clôture style jungle avec fenêtres</entry>
+		      <text>
+		         <cell pady="0" width="1000"/>
+		         <p/>
+		         <cell width="260"/>
+		         <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+		            <cell width="600" padx="20" pady="20">
+		               <color r="255" g="255" b="255">
+		                  <img src="entities\objects\fences\junglewindow_jt\junglewindow_jt_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+		                  <p/>La clôture style jungle avec fenêtres offre à vos visiteurs une excellente vue des animaux tout en empêchant ceux-ci de s'échapper.
+		                  <p/>Un type de clôture sur le thème de la jungle est parfait pour construire des enclos destinés aux animaux de la jungle et de la forêt tropicale, notamment les tigres, les gorilles et les chimpanzés. Les visiteurs apprécient les espaces à thème.
+		               </color>
+		            </cell>
+		         </cell>
+		      </text>
+   </zoopedia_junglewindow> 
+   <zoopedia_tortoisetrampoline>
+      <entry>Trampoline, tortue</entry>
+      <text>
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+               <img src="entities/objects/scenery/Playground_TortoiseTrampoline_df/Playground_TortoiseTrampoline_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>               
+                  <p/>
+                  <p/>Les enfants aiment monter sur le dos de cette tortue gonflable de toutes les couleurs et rebondir haut dans les airs sur la trampoline.
+               </color>
+            </cell>
+         </cell>
+      </text>
+   </zoopedia_tortoisetrampoline>
+   <zoopedia_fountainsmall>
+      <entry>Fontaine, petite</entry>
+      <text>
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+               <img src="entities\objects\scenery\Fountain_Small_df\Fountain_Small_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>La petite fontaine représente le moyen idéal d'embellir votre zoo sans occuper trop d'espace. Les visiteurs aiment voir des fontaines dans le zoo.
+               </color>
+            </cell>
+         </cell>
+      </text>
+   </zoopedia_fountainsmall>
+   <zoopedia_fountainsplash>
+      <entry>Fontaine, pour barboter</entry>
+      <text>
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities\objects\scenery\Fountain_Splash_df\Fountain_Splash_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>La fontaine pour barboter est conçue pour que les enfants puissent courir dedans et jouer dans son eau vivifiante et rafraîchissante.
+               </color>
+            </cell>
+         </cell>
+      </text>
+   </zoopedia_fountainsplash>   
+</ZT2Strings>

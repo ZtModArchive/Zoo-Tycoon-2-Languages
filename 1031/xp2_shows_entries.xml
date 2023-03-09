@@ -1,0 +1,136 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_shows:entry">Show- und Beckenobjekte</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_shows:text">
+		<cell pady="0" width="1000"/>
+		<p/>
+		<cell width="260"/>
+		<cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+		 <cell width="600" padx="20" pady="20">
+		  <color r="255" g="255" b="255">
+			<p/>Um ein Showbecken zu erstellen, platzieren Sie eine Showplattform in einem Becken, sodass eine Verbindung zum Becken mit den Showtieren entsteht. Platzieren Sie um das Showgehege Tribünen, und beginnen Sie die Tricks zu üben!
+			<p/>Informationen zu einer bestimmten Show oder einem Beckenobjekt finden Sie, wenn Sie auf den Shownamen oder das Beckenobjekt in der Liste links klicken.	  
+		  </color>
+		 </cell>
+		</cell>
+	  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_showplatform:entry">Showplattform</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_showplatform:text">
+		<cell pady="0" width="1000"/>
+		<p/>
+		<cell width="260"/>
+		<cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+		 <cell width="600" padx="20" pady="20">
+		  <color r="255" g="255" b="255">
+			<img src="entities/objects/buildings/Platform_Show_mm/Platform_Show_mm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+			<p/>Der Zeremonienmeister führt von der Showplattform aus durch die Meeresshows. Auch die Shows werden mithilfe der Showplattform erstellt. Platzieren Sie eine Showplattform in einem leeren Becken, das mit einem Becken mit Showtieren verbunden ist. Klicken Sie anschließend auf die Showplattform, um die Showplanung zu öffnen.
+			<p/>Wenn Sie zwei Meeresshow-Herausforderungen bewältigen, wird der Großbildfernseher freigegeben. Wenn Sie die gesamte Meeresshows-Kampagne bewältigen, wird die farbenprächtige Showplattform mit Aussichtsschutzdach freigegeben.
+		  </color>
+		 </cell>
+		</cell>
+	  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_grandstand_mm:entry">Tribünen</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_grandstand_mm:text">
+		<cell pady="0" width="1000"/>
+		<p/>
+		<cell width="260"/>
+		<cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+		 <cell width="600" padx="20" pady="20">
+		  <color r="255" g="255" b="255">
+			<img src="entities/objects/scenery/Grandstand_I_mm/Grandstand_I_mm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+			<img src="entities/objects/scenery/Grandstand_II_mm/Grandstand_II_mm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+			<img src="entities/objects/scenery/Grandstand_III_mm/Grandstand_III_mm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>			
+			<p/>Auf den Tribünen finden Besucher bequeme Sitzplätze, um sich die Shows anzusehen. Von Tribünen aus können Besucher die Shows viel besser genießen.
+			<p/>Auf der kleinen Tribüne finden zwei Besucher Platz, auf der mittleren Tribüne vier Besucher und auf der großen Tribüne sechs Besucher.
+		  </color>
+		 </cell>
+		</cell>
+	  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_grandstand_upgraded_mm:entry">Tribünen, Erweitert</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_grandstand_upgraded_mm:text">
+		<cell pady="0" width="1000"/>
+		<p/>
+		<cell width="260"/>
+		<cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+		 <cell width="600" padx="20" pady="20">
+		  <color r="255" g="255" b="255">
+			<img src="entities/objects/scenery/Upgraded_Grandstand_I_mm/Upgraded_Grandstand_I_mm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+			<img src="entities/objects/scenery/Upgraded_Grandstand_II_mm/Upgraded_Grandstand_II_mm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+			<img src="entities/objects/scenery/Upgraded_Grandstand_III_mm/Upgraded_Grandstand_III_mm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+			<p/>Erweiterte Tribünen sorgen für mehr Farbe und Bequemlichkeit in Ihren Showbereichen. Wenn Sie die Auszeichnung für Showspenden ersten Grades erhalten, wird die erweiterte mittlere Tribüne freigegeben. Wenn Sie die Auszeichnung für Showspenden zweiten Grades erhalten, wird die erweiterte große Tribüne freigegeben.
+		  </color>
+		 </cell>
+		</cell>
+	  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_light_mm:entry">Beckenlicht</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_light_mm:text">
+		<cell pady="0" width="1000"/>
+		<p/>
+		<cell width="260"/>
+		<cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+		 <cell width="600" padx="20" pady="20">
+		  <color r="255" g="255" b="255">
+			<img src="entities/objects/scenery/light_mm/light_mm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+			<p/>Beckenlichter lassen das Wasser im Becken erstrahlen. Sie eignen sich besonders zum Beleuchten von Gehegen mit Meeresboden oder Feuchtgebietgehegen.
+			<p/>Das Beckenlicht wird freigegeben, nachdem Sie die Showtycoon-Auszeichnung ersten Grades erhalten haben.
+		  </color>
+		 </cell>
+		</cell>
+	  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_tankportal:entry">Beckentor</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_tankportal:text">
+		<cell pady="0" width="1000"/>
+		<p/>
+		<cell width="260"/>
+		<cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+		 <cell width="600" padx="20" pady="20">
+		  <color r="255" g="255" b="255">
+			<img src="entities/objects/fences/AnimalTank_Gate/AnimalTank_Gate_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+			<p/>Beckenportale verbinden die Meeresshowbecken mit den gewöhnlichen Becken. Showtiere können nicht durchgehend in Showbecken leben. Sie müssen ein gewöhnliches Becken einrichten, in dem die Showtiere außerhalb der Vorstellungen leben. Platzieren Sie neben einem Showbecken ein gewöhnliches Becken, und verbinden sie beide mit einem Beckenportal. Wenn die Vorstellung beginnt, schwimmen die Tiere über das Beckenportal von ihrem Becken in das Showbecken.
+		  </color>
+		 </cell>
+		</cell>
+	  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_trainingarea:entry">Trainingsbereich</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_trainingarea:text">
+		<cell pady="0" width="1000"/>
+		<p/>
+		<cell width="260"/>
+		<cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+		 <cell width="600" padx="20" pady="20">
+		  <color r="255" g="255" b="255">
+			<img src="entities/objects/props/TrainingArea/TrainingArea_mm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+			<p/>In Trainingsbereichen werden den Meerestieren die Tricks für die Meeresshows beigebracht. Zum Dressieren der Tiere müssen Sie einen Trainingsbereich und einen Beckeneingang in einem Becken platzieren.
+		  </color>
+		 </cell>
+		</cell>
+	  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_trickarea_mm:entry">Trickbereich</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_trickarea_mm:text">
+		<cell pady="0" width="1000"/>
+		<p/>
+		<cell width="260"/>
+		<cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+		 <cell width="600" padx="20" pady="20">
+		  <color r="255" g="255" b="255">
+			<img src="entities/objects/props/TrickArea_mm/TrickArea_mm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+			<p/>Die Showtiere führen ihre Tricks in so genannten Trickbereichen aus. Um einen Trickbereich zu verlegen, wählen Sie den Trickbereich aus und verschieben ihn an die gewünschte Position.
+		  </color>
+		 </cell>
+		</cell>
+	  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_trickplatform:entry">Trickplattform</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_trickplatform:text">
+		<cell pady="0" width="1000"/>
+		<p/>
+		<cell width="260"/>
+		<cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+		 <cell width="600" padx="20" pady="20">
+		  <color r="255" g="255" b="255">
+			<img src="entities/objects/props/Platform_Trick/Platform_Trick_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+			<p/>Tiere wie das Pazifische Walross und der Kalifornische Seelöwe führen ihre Tricks auf Trickplattformen vor. Um eine Plattform zu verschieben, wählen Sie diese aus und verschieben sie an die gewünschte Position.
+		  </color>
+		 </cell>
+		</cell>
+	  </LOC_STRING>	
+
+</ZT2Strings>

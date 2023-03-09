@@ -1,0 +1,190 @@
+<ZT2Strings>
+   <!--entity names-->
+   <entityname>
+      <!--scenery object names-->
+      <Statue_Gorilla_df>고릴라 동상</Statue_Gorilla_df>
+      <Statue_Gorilla_df_stt>고릴라 동상</Statue_Gorilla_df_stt>
+      <Statue_Gorilla_df_lower>고릴라 동상</Statue_Gorilla_df_lower>
+      <Statue_Gorilla_df_ltt>
+         <color r="255" g="248" b="178">
+            고릴라 동상
+         </color>
+         <br/>
+         고릴라 동상을 설치합니다. 어미 고릴라와 새끼 고릴라가 함께 있는 모습을 하고 있어 동물원을 한층 아름답게 만들어 줍니다.
+      </Statue_Gorilla_df_ltt>
+      <Statue_Tiger_df>호랑이 동상</Statue_Tiger_df>
+      <Statue_Tiger_df_stt>호랑이 동상</Statue_Tiger_df_stt>
+      <Statue_Tiger_df_lower>호랑이 동상</Statue_Tiger_df_lower>
+      <Statue_Tiger_df_ltt>
+         <color r="255" g="248" b="178">
+            호랑이 동상
+         </color>
+         <br/>
+         호랑이 동상을 설치합니다. 어미 호랑이와 새끼 호랑이가 함께 있는 모습을 하고 있어 동물원을 한층 아름답게 만들어 줍니다.
+      </Statue_Tiger_df_ltt>
+      <Playground_TortoiseTrampoline_df>거북이 덤블링</Playground_TortoiseTrampoline_df>
+      <Playground_TortoiseTrampoline_df_stt>거북이 덤블링</Playground_TortoiseTrampoline_df_stt>
+      <Playground_TortoiseTrampoline_df_lower>거북이 덤블링</Playground_TortoiseTrampoline_df_lower>
+      <Playground_TortoiseTrampoline_df_ltt>
+         <color r="255" g="248" b="178">
+            거북이 덤블링
+         </color>
+         <br/>
+         거북이 덤블링을 설치합니다. 아이들은 거북이 덤블링 위에서 뛰어 노는 것을 좋아합니다.
+      </Playground_TortoiseTrampoline_df_ltt>
+      <Fountain_Small_df>꼬마 분수대</Fountain_Small_df>
+      <Fountain_Small_df_stt>꼬마 분수대</Fountain_Small_df_stt>
+      <Fountain_Small_df_lower>꼬마 분수대</Fountain_Small_df_lower>
+      <Fountain_Small_df_ltt>
+         <color r="255" g="248" b="178">
+            꼬마 분수대
+         </color>
+         <br/>
+         꼬마 분수대를 설치합니다. 관람객들은 꼬마 분수대를 보며 즐거워 합니다.
+      </Fountain_Small_df_ltt>
+      <Fountain_Splash_df>무지개 분수대</Fountain_Splash_df>
+      <Fountain_Splash_df_stt>무지개 분수대</Fountain_Splash_df_stt>
+      <Fountain_Splash_df_lower>무지개 분수대</Fountain_Splash_df_lower>
+      <Fountain_Splash_df_ltt>
+         <color r="255" g="248" b="178">
+            무지개 분수대
+         </color>
+         <br/>
+         무지개 분수대를 설치합니다. 아이들은 무지개 분수대에서 시원한 물을 맞으며 노는 것을 좋아합니다.
+      </Fountain_Splash_df_ltt>
+      
+      <!--fence names-->      
+      <brickwindow_df>벽돌 창문 울타리</brickwindow_df>
+      <brickwindow_df_stt>벽돌 창문 울타리</brickwindow_df_stt>
+      <brickwindow_df_lower>벽돌 창문 울타리</brickwindow_df_lower>
+      <brickwindow_df_ltt>
+         <color r="255" g="248" b="178">
+            벽돌 창문 울타리
+         </color>
+         <br/>
+         벽돌 창문 울타리를 만듭니다. 벽돌 창문 울타리는 단단하며 창문을 통해 울타리 안의 동물을 잘 볼 수 있습니다.
+      </brickwindow_df_ltt>
+      <stonewindow_df>돌 창문 울타리</stonewindow_df>
+      <stonewindow_df_stt>돌 창문 울타리</stonewindow_df_stt>
+      <stonewindow_df_lower>돌 창문 울타리</stonewindow_df_lower>
+      <stonewindow_df_ltt>
+         <color r="255" g="248" b="178">
+            돌 창문 울타리
+         </color>
+         <br/>
+         돌 창문 울타리를 만듭니다. 돌 창문 울타리는 단단하며 창문을 통해 울타리 안의 동물을 잘 볼 수 있습니다.
+      </stonewindow_df_ltt>
+      <junglewindow>정글 창문 울타리</junglewindow>
+      <junglewindow_stt>정글 창문 울타리</junglewindow_stt>
+      <junglewindow_lower>정글 창문 울타리</junglewindow_lower>
+      <junglewindow_ltt>
+         <color r="255" g="248" b="178">
+            정글 창문 울타리
+         </color>
+         <br/>
+         정글 창문 울타리를 만듭니다. 정글 창문 울타리는 단단하며 창문을 통해 울타리 안의 동물을 잘 볼 수 있습니다. 
+      </junglewindow_ltt>            
+   </entityname>
+   
+   <!--Zoopedia entries-->
+   <zoopedia_brickwindow>
+	      <entry>벽돌 창문 울타리</entry>
+	      <text>
+	         <cell pady="0" width="1000"/>
+	         <p/>
+	         <cell width="260"/>
+	         <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+	            <cell width="600" padx="20" pady="20">
+	               <color r="255" g="255" b="255">
+	                  <img src="entities\objects\fences\brickwindow_df\brickwindow_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+	                  <p/>벽돌 창문 울타리는 단단해서 동물들이 울타리 밖으로 나가지 못 할 뿐만 아니라 창문을 통해 관람객들이 울타리 안의 동물을 잘 볼 수 있습니다.
+	                  <p/>단단하면서도 관람객들에게 인기 있는 울타리를 만들려면 벽돌 울타리와 벽돌 창문 울타리를 섞어서 만드세요.
+	               </color>
+	            </cell>
+	         </cell>
+	      </text>
+   </zoopedia_brickwindow>
+   <zoopedia_stonewindow>
+		      <entry>돌 창문 울타리</entry>
+		      <text>
+		         <cell pady="0" width="1000"/>
+		         <p/>
+		         <cell width="260"/>
+		         <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+		            <cell width="600" padx="20" pady="20">
+		               <color r="255" g="255" b="255">
+		                  <img src="entities\objects\fences\stonewindow_df\stonewindow_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+		                  <p/>돌 창문 울타리는 단단해서 동물들이 울타리 밖으로 나가지 못 할 뿐만 아니라 창문을 통해 관람객들이 울타리 안의 동물을 잘 볼 수 있습니다.
+		                  <p/>단단하면서도 관람객들에게 인기 있는 울타리를 만들려면 돌담과 돌 창문 울타리를 섞어서 만드세요.
+		               </color>
+		            </cell>
+		         </cell>
+		      </text>
+   </zoopedia_stonewindow>
+   <zoopedia_junglewindow>
+		      <entry>정글 창문 울타리</entry>
+		      <text>
+		         <cell pady="0" width="1000"/>
+		         <p/>
+		         <cell width="260"/>
+		         <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+		            <cell width="600" padx="20" pady="20">
+		               <color r="255" g="255" b="255">
+		                  <img src="entities\objects\fences\junglewindow_jt\junglewindow_jt_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+		                  <p/>정글 창문 울타리는 단단해서 동물들이 울타리 밖으로 나가지 못 할 뿐만 아니라 창문을 통해 관람객들이 울타리 안의 동물을 잘 볼 수 있습니다.
+		                  <p/>호랑이나 고릴라 또는 침팬지와 같이 열대우림이나 정글에서 생활하는 동물들을 전시할 때 정글 창문 울타리를 사용하면 매우 효과적입니다. 관람객들은 각각의 테마에 어울리는 시설물을 좋아합니다.
+		               </color>
+		            </cell>
+		         </cell>
+		      </text>
+   </zoopedia_junglewindow> 
+   <zoopedia_tortoisetrampoline>
+      <entry>거북이 덤블링</entry>
+      <text>
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+               <img src="entities/objects/scenery/Playground_TortoiseTrampoline_df/Playground_TortoiseTrampoline_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>               
+                  <p/>
+                  <p/>아이들은 거북이 등 모양의 덤블링 위에 올라가 공중으로 뛰어 오르며 노는 것을 매우 좋아합니다.
+               </color>
+            </cell>
+         </cell>
+      </text>
+   </zoopedia_tortoisetrampoline>
+   <zoopedia_fountainsmall>
+      <entry>꼬마 분수대</entry>
+      <text>
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+               <img src="entities\objects\scenery\Fountain_Small_df\Fountain_Small_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>꼬마 분수대는 많은 공간을 차지하지 않으면서도 동물원을 아름답게 장식할 수 있는 좋은 시설물입니다. 관람객들은 꼬마 분수대를 보며 즐거워 합니다.
+               </color>
+            </cell>
+         </cell>
+      </text>
+   </zoopedia_fountainsmall>
+   <zoopedia_fountainsplash>
+      <entry>무지개 분수대</entry>
+      <text>
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities\objects\scenery\Fountain_Splash_df\Fountain_Splash_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>무지개 분수대는 아이들이 시원한 물을 맞으며 분수 속에서 뛰어 놀 수 있도록 만들어 졌습니다.
+               </color>
+            </cell>
+         </cell>
+      </text>
+   </zoopedia_fountainsplash>   
+</ZT2Strings>

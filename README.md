@@ -1,39 +1,41 @@
 # Zoo-Tycoon-2-Languages
+
 Archives of all official localised versions of the series
 
-## LOCALE IDs
-#### 1028 - Chinese (Traditional)
-#### 1031 - German
-#### 1033 - English
-#### 1036 - French
-#### 1040 - Italian
-#### 1041 - Japanese
-#### 1042 - Korean
-#### 1043 - Dutch
-#### 1045 - Polish
-#### 1046 - Portuguese (Brazil)
-#### 1053 - Swedish
-#### 2070 - Portuguese (Portugal)
-#### 3082 - Spanish
+## Coverage
 
-## Up to Base Game only:
-#### 1028
-#### 1040
-#### 1041
+### Expansions
 
-## Up to Expansions:
-#### 1031 - ES, AA, MM, EA, UC
-#### 1033 - ES, AA, MM, EA, UC
-#### 1036 - ES, AA, MM, EA, UC
-#### 1042 - ES, AA, MM
-#### 1043 - ES, AA, MM, EA, UC
-#### 1045 - ES, AA, MM, EA
-#### 1046 - ES, AA, MM, EA
-#### 1053 - ES, AA, MM, EA, UC
-#### 2070 - ES, AA, MM, EA?
-#### 3082 - ES, AA, MM, EA, UC
+| Language              | LCID | ZT2 | ES | AA | ZC | MM | EA | UC |
+|-----------------------|------|-----|----|----|----|----|----|----|
+| Chinese (Traditional) | 1028 | x   |N/A |N/A |N/A |N/A |N/A |N/A |
+| German                | 1031 | x   | x  | x  | x  | x  | x  |N/A |
+| English               | 1033 | x   | x  | x  | x  | x  | x  | x  |
+| French                | 1036 | x   | x  | x  | x  | x  | x  | x  |
+| Italian               | 1040 | x   |N/A |N/A |N/A |N/A |N/A |N/A |
+| Japanese              | 1041 | x   |N/A |N/A |N/A |N/A |N/A |N/A |
+| Korean                | 1042 | x   | x  | x  | x  |N/A |N/A |N/A |
+| Dutch                 | 1043 | x   | x  | x  | x  | x  | x  | x  |
+| Polish                | 1045 |     |    |    |    |    |N/A |N/A |
+| Portuguese (Brazil)   | 1046 | x   | ?  | ?  | ?  | ?  |N/A |N/A |
+| Swedish               | 1053 | x   | x  | x  | x  | x  | x  | x  |
+| Portuguese (Portugal) | 2070 | ?   | ?  | ?  | ?  | ?  | ?  | ?  |
+| Spanish               | 3082 | x   | x  | x  | x  | x  | x  | x  |
 
-### MISSING LOCALES:
-#### 1045
-#### 1053
-#### 2070
+### DLC
+
+| Language              | LCID | BL&SPD | HP | MO&TTP | CP1 | SP | Asian Elephant | SBP | GFP | Addax | DDP |
+|-----------------------|------|--------|----|--------|-----|----|----------------|-----|-----|-------|-----|
+| Chinese (Traditional) | 1028 | N/A    |N/A | N/A    |N/A  |N/A | N/A            |N/A  |N/A  |N/A    |N/A  |
+| German                | 1031 | x      | x  | x      | x   | x  | x              | x   | x   | ?     | x   |
+| English               | 1033 | x      | x  | x      | x   | x  | x              | x   | x   | x     | x   |
+| French                | 1036 | x      | x  | x      | x   | x  | x              | x   | x   | x     | x   |
+| Italian               | 1040 | N/A    |N/A | N/A    |N/A  |N/A | N/A            |N/A  |N/A  |N/A    |N/A  |
+| Japanese              | 1041 | N/A    |N/A | N/A    |N/A  |N/A | N/A            |N/A  |N/A  |N/A    |N/A  |
+| Korean                | 1042 | x      | x  | x      | x   | x  | x              | x   | x   | ?     |N/A  |
+| Dutch                 | 1043 | x      | x  | x      | x   | x  | x              | x   | x   | x     | x   |
+| Polish                | 1045 |        |    |        |     |    |                |     |     | ?     |N/A  |
+| Portuguese (Brazil)   | 1046 | ?      | ?  | ?      | ?   | ?  | ?              | ?   | ?   | ?     | ?   |
+| Swedish               | 1053 | x      | x  | x      | x   | x  | x              | x   | x   | x     | x   |
+| Portuguese (Portugal) | 2070 | ?      | ?  | ?      | ?   | ?  | ?              | ?   | ?   | ?     | ?   |
+| Spanish               | 3082 | x      | x  | x      | x   | x  | x              | x   | x   | x     | x   |

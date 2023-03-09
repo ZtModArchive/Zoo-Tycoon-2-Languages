@@ -1,0 +1,99 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_chum:entry">Carnada</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_chum:text">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/food/BuoyNet/BuoyNet_Chum_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/food/FoodBox/FoodBox_Chum_icon.dds" sx="0" sy="0" sw="64" sh="64"/>                  
+                  <p/>La carnada es el nombre que recibe el pescado troceado y las partes de pescado. A los depredadores marinos, como el gran tiburón blanco y la orca, les encanta comer carnada.    
+                  <p/>La carnada se puede colocar en una red con boya o en una caja de comida.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_jellyfish:entry">Medusa</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_jellyfish:text">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/food/BuoyLure/BuoyLure_Jellyfish_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/food/ArtificialReef/ArtificialReef_Jellyfish_icon.dds" sx="0" sy="0" sw="64" sh="64"/>                   
+                  <p/>La mayoría de animales evitan las medusas por el picor que producen sus tentáculos. Sin embargo, para algunas tortugas marinas, las medusas son un ingrediente básico en su dieta, puesto que son resistentes a las picaduras.
+               </color>   
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_plankton:entry">Zooplancton</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_plankton:text">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/food/FoodBox/FoodBox_Plankton_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/food/ArtificialReef/ArtificialReef_Plankton_icon.dds" sx="0" sy="0" sw="64" sh="64"/>                  
+                  <p/>El zooplancton es diminuto, normalmente microscópico. Se trata de animales marinos que se mueven con la corriente oceánica. El zooplancton incluye muchos tipos de animales diferentes, desde protozoo a diminutos crustáceos y huevos de pescado. Otro importante tipo de plancton es el fitoplancton, que consiste en pequeñas plantas flotantes.
+                  <p/>Los animales marinos filtradores, como las mantas, los tiburones ballena y la gran ballena azul, se alimentan únicamente de plancton. 
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_shellfish:entry">Marisco</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_shellfish:text">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/food/Terrain/Terrain_Shellfish_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/food/BuoyNet/BuoyNet_Shellfish_icon.dds" sx="0" sy="0" sw="64" sh="64"/>                  
+                  <img src="entities/objects/food/SubstratePile/SubstratePile_Shellfish_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/food/ArtificialReef/ArtificialReef_Shellfish_icon.dds" sx="0" sy="0" sw="64" sh="64"/>                  
+                  <p/>El marisco es una amplia categoría de alimentos que incluye cangrejos, vieiras y ostras. Para muchos animales marinos, como los delfines y las nutrias marinas, el marisco constituye el ingrediente básico de sus dietas, aunque resulta bastante difícil sacar el alimento de su concha.    
+                  <p/>El marisco se puede colocar directamente en el suelo o en una red con boya, en una superficie de material o en un arrecife artificial.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_seaweed:entry">Alga</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_seaweed:text">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/food/Terrain/Terrain_Seaweed_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/food/FoodBox/FoodBox_Seaweed_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/food/SubstratePile/SubstratePile_Seaweed_icon.dds" sx="0" sy="0" sw="64" sh="64"/>                  
+                  <p/>Las grandes plantas marinas reciben el nombre común de algas. A los animales marinos, como el manatí y la tortuga verde, les encanta comer algas.    
+                  <p/>Las algas se pueden colocar directamente en el suelo, o bien en una caja de comida o una superficie de material.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_squid:entry">Calamar</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_squid:text">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/food/BuoyLure/BuoyLure_Squid_icon.dds" sx="0" sy="0" sw="64" sh="64"/>               
+                  <p/>Los calamares, tiernos y sabrosos, son una deseada golosina para muchos tipos de animales marinos diferentes.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+
+</ZT2Strings>

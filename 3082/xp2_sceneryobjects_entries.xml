@@ -1,0 +1,172 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_aquarium:entry">Acuarios</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_aquarium:text">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities\objects\buildings\Aquarium_Jellyfish\Aquarium_Jellyfish_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities\objects\buildings\Aquarium_Octopus\Aquarium_Octopus_icon.dds" sx="0" sy="0" sw="64" sh="64"/>                  
+                  <img src="entities\objects\buildings\Aquarium_Seahorse\Aquarium_Seahorse_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities\objects\buildings\Aquarium_TropicalFish\Aquarium_TropicalFish_icon.dds" sx="0" sy="0" sw="64" sh="64"/>                  
+                  <br/>Los acuarios son el escaparate ideal para exhibir los animales marinos más pequeños. Un pequeño acuario portátil no ocupa tanto espacio como una instalación completa y se puede colocar en cualquier lugar del zoo. A los visitantes les gusta ver a los animales de cerca.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_cannon:entry">Cañón pirata</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_cannon:text">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities/objects/scenery/Cannon/Cannon_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>Este antiguo cañón aporta un toque auténtico a las instalaciones. Si se coloca en un tanque, dispara chorros de burbujas. Y si se coloca en el suelo, decora el zoo.	
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_koi:entry">Carpas de colores</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_koi:text">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities\units\animals\Koi\Koi_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>Las carpas de colores, también conocidas como nishikigoi, son una variedad ornamental de carpas comunes que se consideran especiales por sus brillantes colores y sus atractivos dibujos. ¡A los visitantes les intrigan las carpas de colores y añaden un elemento interesante a cualquier tanque: pero no las ponga en un tanque con tiburones u otros depredadores marinos!
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_drinkingfountain_mm:entry">Fuente agua pot. (nautilo)</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_drinkingfountain_mm:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities\objects\scenery\drinkingfountain_mm\drinkingfountain_mm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>Aunque no produce ingresos para el zoo, los visitantes agradecen poder tomar un trago de agua fresca en la fuente de agua potable de nautilo.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_fountain_splash_mm:entry">Fuente ornamental de beluga</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_fountain_splash_mm:text">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities/objects/scenery/FountainSplash_mm/FountainSplash_mm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>Esta fuente contiene adorables ballenas beluga con chorros de agua que salpican a los que pasan cerca. A los niños les encanta jugar y salpicar en la fuente. Colóquela en un camino y formará un arco.	
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_pirate_mast:entry">Mástil pirata</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_pirate_mast:text">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities/objects/scenery/PirateMast/PirateMast_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>Este mástil envejecido sirve de decoración del tanque debajo del agua o como interesante punto de referencia en la superficie.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_pirate_ship:entry">Barco pirata</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_pirate_ship:text">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities/objects/scenery/PirateShip/PirateShip_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>Este antiguo barco naufragado queda genial bajo el agua o en el suelo.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_seahorseride:entry">Caballito de mar mecánico</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_seahorseride:text">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities/objects/scenery/Playground_BouncyRide_Seahorse_mm/BouncyRide_Seahorse_mm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>A los niños les encanta fingir que están explorando las profundidades del océano en este caballito de mar gigante. 	Para poder comprar el caballito de mar mecánico, debe ganar el Premio Magnate de animales marinos de nivel 2.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_treasure_chest:entry">Generador burbujas (cofre)</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_treasure_chest:text">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities/objects/scenery/TreasureChest/TreasureChest_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>Este antiguo cofre del tesoro lleno de oro de piratas constituye un gran elemento decorativo en el suelo o en un tanque.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_gazebo_mm:entry">Cenador en faro</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_gazebo_mm:text">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities/objects/scenery/gazebo_mm/gazebo_mm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>             
+               A los visitantes les encanta descansar en el cenador en faro. Esta estructura escénica aporta a los visitantes un lugar para relajarse y añadir un aspecto marino al zoo.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_marinetrainingstatue:entry">Estatua de entrenamiento marino</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_marinetrainingstatue:text">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities\objects\scenery\Statue_Training_mm\Statue_Training_mm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>
+A los visitantes les gusta ver estatuas por el zoo. Para desbloquear la estatua de entrenamiento marino, debe conseguir 100 puntuaciones perfectas del 100% mientras entrena a sus animales marinos. 
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>   
+
+</ZT2Strings>

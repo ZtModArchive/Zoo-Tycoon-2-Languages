@@ -1,0 +1,39 @@
+﻿<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_facepaintingkiosk" version="6" />
+      <LOC_STRING _locID="zoopedia_facepaintingkiosk:entry" version="6"  >Face Painting Kiosk</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_facepaintingkiosk:text" version="6"  >
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\objects\buildings\Face_Painting_Kiosk_end\FacePaintingKiosk_end_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+Your young guests will love the face painting kiosk, where they can be made up as tigers, pandas, and other animals.
+<p/>
+To make the face painting kiosk available in your game, you must win the Entertainment Donation Achievement Award.
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_headphonekiosk" version="6" />
+      <LOC_STRING _locID="zoopedia_headphonekiosk:entry" version="6"  >Headset Kiosk</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_headphonekiosk:text" version="6"  >
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\objects\buildings\HeadphoneKiosk_end\HeadphoneKiosk_end_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+Guests enjoy wearing the headset provided by the headset kiosk. The wireless headphone sets provide your guests with additional information about the animals in your zoo.
+		<p/>
+To make the headset kiosk available in your game, you must win the Educational Donation Award.
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+  
+</ZT2Strings>

@@ -1,0 +1,187 @@
+﻿<ZT2Strings>
+   <entityname>
+      <!--animal names-->
+      <MuskOx>사향소</MuskOx>
+      <MuskOx_stt>사향소</MuskOx_stt>
+      <MuskOx_lower>사향소</MuskOx_lower>
+      <MuskOx_ltt>
+         <color r="255" g="248" b="178">
+            사향소
+         </color>
+         <br/>
+         사향소를 적당한 우리에 넣어 주세요. 사향소는 북극 지방에서 사는 긴 털을 가진 들소입니다.
+      </MuskOx_ltt>
+      <!--gift names-->
+      <MuskOx_Gift>사향소 모자</MuskOx_Gift>
+      <MuskOx_Gift_stt>사향소 모자</MuskOx_Gift_stt>
+      <MuskOx_Gift_lower>사향소 모자</MuskOx_Gift_lower>
+      <MuskOx_Gift_ltt>
+         <color r="255" g="248" b="178">
+            사향소 모자
+         </color>
+         <br/>사향소를 좋아하는 관람객들이 많이 찾는 상품입니다.
+      </MuskOx_Gift_ltt>
+      <MuskOx_Gift_Adult>사향소 모자</MuskOx_Gift_Adult>
+      <MuskOx_Gift_Adult_stt>사향소 모자</MuskOx_Gift_Adult_stt>
+      <MuskOx_Gift_Adult_lower>사향소 모자</MuskOx_Gift_Adult_lower>
+      <MuskOx_Gift_Adult_ltt>
+         <color r="255" g="248" b="178">
+            사향소 모자
+         </color>
+         <br/>사향소를 좋아하는 관람객들이 많이 찾는 상품입니다.
+      </MuskOx_Gift_Adult_ltt>
+      <!--foliage names-->
+      <DiamondLeafWillow_Tundra>다이아몬드 버드나무</DiamondLeafWillow_Tundra>
+      <DiamondLeafWillow_Tundra_stt>다이아몬드 버드나무</DiamondLeafWillow_Tundra_stt>
+      <DiamondLeafWillow_Tundra_lower>다이아몬드 버드나무</DiamondLeafWillow_Tundra_lower>
+      <DiamondLeafWillow_Tundra_ltt>
+         <color r="255" g="248" b="178">
+            다이아몬드 버드나무
+         </color>
+         <br/>다이아몬드 버드나무을 적당한 위치에 놓으세요. 사향소는 다이아몬드 버드나무의 잎을 아주 좋아합니다.
+      </DiamondLeafWillow_Tundra_ltt>
+      <!--guest thoughts-->
+      <AnimalDefend>%2s(이)가 %1s의 공격을 방어하고 있습니다!</AnimalDefend>
+      <!--animal actions-->
+      <DefendingAt>%s의 공격을 방어하는 중</DefendingAt>
+   </entityname>
+   <zoopedia_muskox version="2">
+      <entry>사향소</entry>
+      <text>
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/MuskOx/MuskOx_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						</cell>
+						<cell width="16">
+							<img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						</cell>
+						<cell width="16">
+							<img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						</cell>
+						<cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     보존 상태:
+                     <br/>
+                        <color r="170" g="255" b="0">
+                     비교적 양호
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>   
+            
+               <cell width="128">
+                  <color r="255" g="255" b="255">툰드라<br/></color>
+                  <img src="ui/icon_biomes/icon_tundra.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+               </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">북극<br/></color>
+                  <img src="ui/icon_maplocations/Tundra_Arctic.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">강: 포유류 (Mammalia)<br/>목: 소목 (Artiodactyla)<br/>과: 소과 (Bovidae)<br/>속: Ovibos<br/>종: moschatus</color>
+               </cell>
+               <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/tundra_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+               </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="굴림" size="12" shadowx="2" shadowy="1" shadowa="50">사향소에 대한 재미있는 상식</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">사향소는 눈밑에 아주 강한 사향 냄새를 풍기는 분비샘을 가지고 있습니다.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">사향소는 매머드와 함께 지냈던 수천년 전 마지막 빙하기 이후로 지금까지 지구상에 살아오고 있습니다.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">사향소의 털은 인도산 양털만큼이나 매우 부드럽고 세계에서 가장 따뜻한 섬유라고 알려져 있습니다.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">에스키모인들은 "턱수염이 달린 동물"이라는 의미로 사향소를 "우밍막"이라고 부릅니다.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">사향소는 10에서 20마리가 무리를 지어 생활하며 다른 동물의 공격을 받으면 새끼를 가운데에 두고 뿔을 밖으로 향해 둥굴게 진을 쳐서 대항합니다.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">사향소의 발굽은 얼음을 깨고 신선한 물을 먹을 수 있을만큼 단단합니다.</color>
+               </cell>
+            </cell>
+         </cell>
+         <cell width="340">
+         <color r="255" g="248" b="178">챌린지 또는 캠페인 게임에서 사향소를 입양하려면 동물원 명성을 별 반 개 이상으로 올려야 합니다.</color>
+         <p/>사향소는 같은 반추 동물인 염소나 양에 비해 암갈색의 긴 털을 가지고 있습니다. 사향소는 캐나다 북부와 그린란드에서 서식하며 알래스카와 다른 북부 지역에서도 볼 수 있습니다. 다 자란 사향소는 몸길이가 1.9에서 2.3m에 이르며 높이는 1.2에서 1.5m에 이릅니다. 아래쪽으로 뻗어서 끝이 위쪽으로 휘는 뾰족한 뿔을 가지고 있으며 암컷의 뿔은 수컷에 비해 상대적으로 작습니다. 몸은 추위를 이기기 위해 발목까지 내려오는 두터운 털로 덮혀있습니다. 수컷은 발정기 때 매우 강한 사향 냄새를 풍기기 때문에 사향소라는 이름이 붙었습니다.
+         <p/>사향소는 10에서 100마리가 떼를 지어 이동합니다. 사향소의 가죽과 고기를 목적으로 계속된 사람들의 사냥으로 인해 사향소의 숫자는 현저하게 줄어들었으며 서식 지역도 좁아졌습니다. 그래서 사향소를 보호하려는 노력이 계속되고 있고 캐나다에서 사향소를 특별 보호 동물로 지정해 보호하고 있습니다. 다른 동물의 위협을 받으면 새끼들을 가운데에 두고 뿔을 바깥쪽으로 하여 둥굴게 원형을 만들어 대항합니다.
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">내용 출처 <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2004.</color></u></a>(C) 1993-2003 Microsoft Corporation. All rights reserved.
+         </cell>
+      </text>
+   </zoopedia_muskox>
+   <zoopedia_diamondleafwillow>
+      <entry>다이아몬드 버드나무</entry>
+      <text>
+         <color r="255" g="255" b="255">
+            <cell pady="0" width="1000"/>
+            <p/>
+            <cell width="260"/>
+            <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+               <cell width="150">
+                  <img src="entities/objects/foliage/DiamondLeafWillow/DiamondLeafWillow_Tundra_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128"/>
+               </cell>
+               <cell pady="15" width="400">
+               <p/>버드나무는 꽃이 피는 나무 중 한 과를 통칭하는 말이며 이 과를 대표하는 속으로는 포플러와 버드나무가 있습니다. 버드나무과는 사시나무와 미루나무를 포함하여 435개의 종으로 이루어져 있습니다. 이 과에 속하는 나무들은 대부분 성장 속도가 빠르고 매우 높이 자라는 종이기 때문에 강기슭이나 강가의 평지와 같이 습기가 많은 곳에 서식합니다. 이 과의 나무들은 많은 용도로 사용되며 많은 야생 동물들이 그 잎을 먹이로 먹습니다. 주로 북반구에 걸쳐 넓게 서식하며 몇몇 종은 남반구에서도 서식합니다. 포플러속 중 약 35종이 나무로 분류되고 버드나무속 중 400종 이상의 대부분이 관목으로 분류됩니다. 툰드라 지역과 고산 지대의 수목 한계선 이상에서 버드나무속의 관목들이 많이 서식합니다.
+               <p/>버드나무와 포플러는 암꽃과 수꽃이 다른 그루에서 피는 자웅이주 식물로 꽃받침과 꽃잎이 없는 단순한 꽃을 피웁니다. 꽃은 봄에 새 잎이 돋기 전에 여러 개의 꽃송이가 밀집해서 개화합니다. 포플러의 꽃은 옆으로 긴 모양이며 꿀이 없고 바람을 통해 수정됩니다. 이와는 대조적으로 버드나무의 꽃은 길쭉한 모양이며 향기로운 꿀을 가지고 있어 벌과 나방 같은 곤충들을 유혹합니다. 일반적으로 화려한 꽃을 피우는 식물들만이 곤충을 유혹해 수정이 가능하지만 다른 꽃들이 아직 피지 않은 초봄에는 버드나무의 꽃이 곤충들이 먹이로 취할 수 있는 유일한 꽃이기 때문에 상당히 단순한 꽃을 피우는 버드나무는 곤충을 통한 수정이 가능합니다.
+               <p/>버드나무와 포플러의 열매는 작으며, 열매 속에는 바람을 통해 퍼질 수 있는 솜털을 가진 씨앗들이 들어 있습니다. 씨앗이 적당한 습기를 가진 토양에 도착하면 이틀 이내로 싹을 틔웁니다. 대부분의 버드나무와 포플러는 성장 속도가 빠르고 수년 이내에 꽃을 피우지만 20년 정도의 짧은 수명을 가지고 있습니다.
+               <p/>이 과의 수목들은 경제적으로 매우 유용하게 사용됩니다. 육지꽃버들의 가지는 바구니의 재료로 사용되며 가벼우면서도 단단한 다른 버드나무는 나무신이나 야구 방망이의 재료로 사용됩니다. 버드나무의 껍질에는 활성화합물인 살리신이 들어 있어 많은 민간 치료 요법에 사용됩니다. 아스피린의 주성분인 살리실산도 처음에는 버드나무 껍질에서 추출해서 합성되었습니다. 수양버들이나 갯버들과 같은 몇몇 버드나무는 정원수로 많이 사용됩니다.
+            </cell>
+            </cell>
+            <p/>
+         </color>
+      </text>
+   </zoopedia_diamondleafwillow>
+</ZT2Strings>

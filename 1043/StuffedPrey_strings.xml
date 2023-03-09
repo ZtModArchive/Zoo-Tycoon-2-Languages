@@ -1,0 +1,33 @@
+<ZT2Strings>
+   <entityname>
+      <!--animal names-->
+      <StuffedPrey>Gevulde prooipop</StuffedPrey>
+      <StuffedPrey_stt>Gevulde prooipop</StuffedPrey_stt>
+      <StuffedPrey_lower>de gevulde prooipop</StuffedPrey_lower>
+      <StuffedPrey_ltt>
+         <color r="255" g="248" b="178">
+            <b>Gevulde prooipop</b>
+         </color>
+         <br/>
+         Klik op de gevulde prooipop om deze te selecteren en vervolgens te plaatsen. Deze pop is een speelgoed voor roofdieren waarop zij hun aanvallen kunnen oefenen.
+      </StuffedPrey_ltt>
+   </entityname>
+   <zoopedia_stuffedprey>
+      <entry>Gevulde prooipop</entry>
+      <text>
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>
+                  <img src="entities\objects\enrichment\StuffedPrey\StuffedPrey_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>De gevulde prooipop is een pop in de vorm van een gazelle, gemaakt van stro en jute, en bevestigd op een dikke springveer.
+                  <p/>Vleeseters oefenen hun aanvallen graag door de pop te bijten of te slaan, omdat deze begint te stuiteren als gevolg van hun aanval.
+               </color>
+            </cell>
+         </cell>
+      </text>
+   </zoopedia_stuffedprey>
+</ZT2Strings>

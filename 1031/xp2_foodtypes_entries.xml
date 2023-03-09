@@ -1,0 +1,99 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_chum:entry">Köderfisch</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_chum:text">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/food/BuoyNet/BuoyNet_Chum_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/food/FoodBox/FoodBox_Chum_icon.dds" sx="0" sy="0" sw="64" sh="64"/>                  
+                  <p/>Köderfisch ist eine Bezeichnung für gehackten Fisch und Fischteile. Meeresraubtiere wie der Weiße Hai und der Orca lieben Köderfisch.    
+                  <p/>Lachs kann in einem Bojennetz oder einer Futterbox platziert werden.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_jellyfish:entry">Quallen</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_jellyfish:text">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/food/BuoyLure/BuoyLure_Jellyfish_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/food/ArtificialReef/ArtificialReef_Jellyfish_icon.dds" sx="0" sy="0" sw="64" sh="64"/>                   
+                  <p/>Die meisten Tiere meiden Quallen aufgrund der schmerzhaften Tentakel. Für einige Meeresschildkröten jedoch sind Quallen ein wichtiger Bestandteil ihrer Ernähung, da sie gegen deren Tentakel resistent sind.
+               </color>   
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_plankton:entry">Zooplankton</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_plankton:text">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/food/FoodBox/FoodBox_Plankton_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/food/ArtificialReef/ArtificialReef_Plankton_icon.dds" sx="0" sy="0" sw="64" sh="64"/>                  
+                  <p/>Zooplankton bezeichnet winzige, in der Regel mikroskopisch kleine Meerestiere, die von der Meeresströmung getrieben werden. Plankton umfasst sehr viele unterschiedliche Arten von Tieren, von mikroskopisch kleinen Protozoen bis hin zu kleinen Schalentieren und Fischeiern. Ein weiterer wichtiger Planktontyp ist Phytoplankton, das aus winzigen treibenden Pflanzen besteht.
+                  <p/>Meerestiere, die ihre Nahrung filtern, z. B. Mantarochen, Walhaie und der riesige Blauwal, leben ausschließlich von Plankton. 
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_shellfish:entry">Schalentiere</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_shellfish:text">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/food/Terrain/Terrain_Shellfish_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/food/BuoyNet/BuoyNet_Shellfish_icon.dds" sx="0" sy="0" sw="64" sh="64"/>                  
+                  <img src="entities/objects/food/SubstratePile/SubstratePile_Shellfish_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/food/ArtificialReef/ArtificialReef_Shellfish_icon.dds" sx="0" sy="0" sw="64" sh="64"/>                  
+                  <p/>Der Begriff Schalentiere steht für eine weit gefächerte Futterkategorie, in z. B. Krabben, Kammmuscheln und Austern fallen. Für viele Meerestiere wie Delfine und Seeotter sind Schalentiere ein wichtiger Bestandteil der Nahrung, trotz der beträchtlichen Mühe, mit der das Befreien des Futters aus der Schale verbunden ist.    
+                  <p/>Schalentiere können direkt auf dem Grund, in Köderbojen, Substrathaufen oder künstlichen Riffen platziert werden.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_seaweed:entry">Seetang</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_seaweed:text">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/food/Terrain/Terrain_Seaweed_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/food/FoodBox/FoodBox_Seaweed_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/food/SubstratePile/SubstratePile_Seaweed_icon.dds" sx="0" sy="0" sw="64" sh="64"/>                  
+                  <p/>Seetang ist die allgemeine Bezeichnung für verschiedene Arten großer Meeresalgen. Meerestiere wie die Seekuh und die Grüne Meeresschildkröte lieben Seetang.    
+                  <p/>Seetang kann direkt auf dem Grund, in einem Futterbehälter oder auf einem Substrathaufen platziert werden.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_squid:entry">Tintenfisch</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_squid:text">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/food/BuoyLure/BuoyLure_Squid_icon.dds" sx="0" sy="0" sw="64" sh="64"/>               
+                  <p/>Der zarte und schmackhafte Tintenfisch ist für viele Meerestierarten ein begehrter Leckerbissen.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+
+</ZT2Strings>

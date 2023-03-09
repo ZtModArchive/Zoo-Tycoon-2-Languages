@@ -1,0 +1,23 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_trainer:entry">Trainer</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_trainer:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/units/staff/Trainer/Trainer_F_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/units/staff/Trainer/Trainer_M_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>
+Trainers leren zeedieren in je dierentuin kunstjes die ze tijdens shows kunnen opvoeren. Je kunt trainers toewijzen aan specifieke dieren. Trainers zonder opdrachten kiezen zelf dieren die ze gaan trainen. De trainers besluiten welke kunstjes ze de dieren leren. Ze beginnen met de eenvoudige kunstjes en voeren de moeilijkheidsgraad daarna verder op.
+						<p/>
+Trainers moeten via een bassin-ingang een bassin naar binnen kunnen gaan om de dieren te trainen. Trainers kunnen dieren in een bassin zonder ingang niet trainen.       
+                  <p/>
+Trainers ontvangen een salaris dat op de eerste van elke maand van de rekening van je dierentuin wordt afgeschreven.			
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+
+</ZT2Strings>

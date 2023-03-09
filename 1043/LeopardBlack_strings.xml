@@ -1,0 +1,128 @@
+<ZT2Strings>
+   <entityname>
+      <!--animal names-->
+      <LeopardBlack>Zwarte panter</LeopardBlack>
+      <LeopardBlack_stt>Zwarte panter</LeopardBlack_stt>
+      <LeopardBlack_lower>de zwarte panter</LeopardBlack_lower>
+      <LeopardBlack_ltt>
+         <color r="255" g="248" b="178">
+            <b>Zwarte panter</b>
+         </color>
+         <br/>
+         Klik op de zwarte panter om deze te selecteren en vervolgens te plaatsen. De zwarte panter is een geheel zwarte versie van de luipaard.
+      </LeopardBlack_ltt>
+      <!--gift names-->
+      <LeopardBlack_Gift>Zwarte-panterrugzak</LeopardBlack_Gift>
+      <LeopardBlack_Gift_stt>Zwarte-panterrugzak</LeopardBlack_Gift_stt>
+      <LeopardBlack_Gift_lower>de zwarte-panterrugzak</LeopardBlack_Gift_lower>
+      <LeopardBlack_Gift_ltt>
+         <color r="255" g="248" b="178">
+            <b>Zwarte-panterrugzak</b>
+         </color>
+         <br/>Bezoekers die graag naar de zwarte panter kijken, zullen dit souvenir kopen.
+      </LeopardBlack_Gift_ltt>
+      <LeopardBlack_Gift_Adult>Zwarte-panterrugzak</LeopardBlack_Gift_Adult>
+      <LeopardBlack_Gift_Adult_stt>Zwarte-panterrugzak</LeopardBlack_Gift_Adult_stt>
+      <LeopardBlack_Gift_Adult_lower>de zwarte-panterrugzak</LeopardBlack_Gift_Adult_lower>
+      <LeopardBlack_Gift_Adult_ltt>
+         <color r="255" g="248" b="178">
+            <b>Zwarte-panterrugzak</b>
+         </color>
+         <br/>Bezoekers die graag naar de zwarte panter kijken, zullen dit souvenir kopen.
+      </LeopardBlack_Gift_Adult_ltt>
+   </entityname>
+   <zoopedia_leopardblack version="2">
+      <entry>Panter, zwart</entry>
+      <text>
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/LeopardBlack/LeopardBlack_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						</cell>
+						<cell width="16">
+							<img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						</cell>
+						<cell width="16">
+							<img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						</cell>
+						<cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Status in het wild:
+                     <br/>
+                        <color r="170" g="255" b="0">
+                     enigszins bedreigd
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>             
+            
+               <cell width="128">
+                  <color r="255" g="255" b="255">Tropisch regenwoud<br/></color>
+                  <img src="ui/icon_biomes/icon_tropicalrainforest.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+               </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Afrika<br/></color>
+                  <img src="ui/icon_maplocations/Rainforest_Africa.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">Klasse: zoogdieren <i>(Mammalia)</i><br/>Orde: vleeseters <i>(Carnivora)</i><br/>Familie: katachtigen <i>(Felidae)</i><br/>Geslacht: <i>Panthera</i><br/>Soort:<i>pardus</i></color>
+               </cell>
+               <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/tropicalrainforest_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+               </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Interessante feiten over de zwarte panter</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">De zwarte panter is een geheel zwarte variant van de luipaard.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">De zwarte panter heeft wel vlekken. Die kun je zien van dichtbij en bij het juiste licht.</color>
+               </cell>
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">De zwarte panter komt in de modus Uitdaging of Campagne beschikbaar zodra je dierentuin een bekendheidsscore van 3 sterren behaalt.</color>
+<p/>Net als de luipaard heeft ook de zwarte panter vlekken, maar deze zijn moeilijker te zien.
+<p/>Luipaard is de gebruikelijke naam voor een groot lid van de familie der katachtigen, met een groot aantal verschillende soorten habitat en de meest uitgebreide spreiding van alle wilde katten, zich uitstrekkend over vrijwel heel Afrika en Azië. Het lichaam van een volwassen luipaard is ongeveer 0,91 tot 1,91 m lang, exclusief de staart van 1 m. De vacht is meestal licht en gemarkeerd met onderbroken cirkels in de vorm van zwarte vlekken. In tegenstelling tot de rozetten van de Amerikaanse jaguar hebben deze cirkels geen centrale vlek. Er zijn ook exemplaren met donkerdere basiskleuren waargenomen, en sommige luipaarden (die ter wereld komen in verder normale nesten) zijn volledig zwart en worden daarom zwarte panters genoemd.
+<p/>De zwarte panter is een lenige klimmer en besluipt vaak apen in de bomen. Hij jaagt voornamelijk 's nachts. Als zijn prooi schaars is, eet de panter ook veldmuizen, fruit, stekelvarkens, bavianen of geleedpotigen. Het vrouwtje werpt één tot zes jongen per nest.
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Inhoud met dank aan <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2004.</color></u></a>(C) 1993-2003 Microsoft Corporation. Alle rechten voorbehouden.
+         </cell>
+      </text>
+   </zoopedia_leopardblack>
+</ZT2Strings>

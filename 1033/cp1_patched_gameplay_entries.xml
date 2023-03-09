@@ -1,0 +1,53 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_rewardobjects" version="2" />
+      <LOC_STRING _locID="zoopedia_rewardobjects:entry" version="2"  >Reward Objects</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_rewardobjects:text" version="2"  >
+         <color r="255" g="255" b="255">
+            <cell pady="0" width="1000"/>
+            <p/>
+            <cell width="260"/>
+            <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+               <cell width="600" padx="20" pady="20">
+You earn reward objects by winning <a href="zoopedia:zoopedia_awards:entry"><u><color r="255" g="231" b="135">awards,</color></u></a> playing <a href="zoopedia:zoopedia_challenge:entry"><u><color r="255" g="231" b="135">challenges,</color></u></a>challenges, or completing <a href="zoopedia:zoopedia_campaign:entry"><u><color r="255" g="231" b="135">campaigns.</color></u></a>
+<p/>
+The Zoo Awards screen displays all of the reward objects you can earn. To open the Zoo Awards screen, click the Display Zoo Fame button, and then select the Zoo Awards tab.
+               </cell>
+            </cell>
+         </color>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_layingdownroads" version="2" />
+      <LOC_STRING _locID="zoopedia_layingdownroads:entry" version="2"  >Laying Down Roads</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_layingdownroads:text" version="2"  >
+         <color r="255" g="255" b="255">
+            <cell pady="0" width="1000"/>
+            <p/>
+            <cell width="260"/>
+            <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+               <cell width="600" padx="20" pady="20">
+To use Jeep&#xAE; vehicles, you need one or more Jeep vehicle stations connected to a completed road circuit. Once a circuit is complete, the Jeep vehicle station opens and you can buy vehicles. Place paths leading to the entrance of your Jeep vehicle station so that your guests can enter and exit.
+<p/>
+Note that all roads are one-way (you can reverse the direction at a Jeep vehicle station.) To make a valid circuit, avoid dead ends and breaks in the road.
+               </cell>
+            </cell>
+         </color>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_tours" version="2" />
+      <LOC_STRING _locID="zoopedia_tours:entry" version="2"  >Tours</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_tours:text" version="2"  >
+         <color r="255" g="255" b="255">
+            <cell pady="0" width="1000"/>
+            <p/>
+            <cell width="260"/>
+            <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+               <cell width="600" padx="20" pady="20">
+Guests love an exciting tour. The more your guests enjoy a tour, the higher their tour rating for the transportation circuit--and the higher the tour rating, the more you receive in tour donations!
+     <p/>
+While on tour, guests particularly like to see animals, animal shelters, biome-appropriate foliage and rocks, themed buildings, fountains, arches, flowerbeds, and tour objects (if available.)
+     <p/>
+Guests like variety in their tours and may get bored of seeing too much of the same thing during a single tour.                           
+               </cell>
+            </cell>
+         </color>
+      </LOC_STRING>  
+   
+</ZT2Strings>

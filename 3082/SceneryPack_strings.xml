@@ -1,0 +1,190 @@
+<ZT2Strings>
+   <!--entity names-->
+   <entityname>
+      <!--scenery object names-->
+      <Statue_Gorilla_df>Estatua de gorila</Statue_Gorilla_df>
+      <Statue_Gorilla_df_stt>Estatua de gorila</Statue_Gorilla_df_stt>
+      <Statue_Gorilla_df_lower>la estatua de gorila</Statue_Gorilla_df_lower>
+      <Statue_Gorilla_df_ltt>
+         <color r="255" g="248" b="178">
+            <b>Estatua de gorila</b>
+         </color>
+         <br/>
+         Haga clic para seleccionar y colocar la estatua de gorila, una bonita estatua de una madre gorila y su cachorro.
+      </Statue_Gorilla_df_ltt>
+      <Statue_Tiger_df>Estatua de tigre</Statue_Tiger_df>
+      <Statue_Tiger_df_stt>Estatua de tigre</Statue_Tiger_df_stt>
+      <Statue_Tiger_df_lower>la estatua de tigre</Statue_Tiger_df_lower>
+      <Statue_Tiger_df_ltt>
+         <color r="255" g="248" b="178">
+            <b>Estatua de tigre</b>
+         </color>
+         <br/>
+         Haga clic para seleccionar y colocar la estatua de tigre, una bonita estatua de una madre tigresa y sus crías.
+      </Statue_Tiger_df_ltt>
+      <Playground_TortoiseTrampoline_df>Tortuga hinchable</Playground_TortoiseTrampoline_df>
+      <Playground_TortoiseTrampoline_df_stt>Tortuga hinchable</Playground_TortoiseTrampoline_df_stt>
+      <Playground_TortoiseTrampoline_df_lower>la tortuga hinchable</Playground_TortoiseTrampoline_df_lower>
+      <Playground_TortoiseTrampoline_df_ltt>
+         <color r="255" g="248" b="178">
+            <b>Tortuga hinchable</b>
+         </color>
+         <br/>
+         Haga clic para seleccionar y colocar una tortuga hinchable en la que los niños les encantará saltar.
+      </Playground_TortoiseTrampoline_df_ltt>
+      <Fountain_Small_df>Fuente pequeña</Fountain_Small_df>
+      <Fountain_Small_df_stt>Fuente pequeña</Fountain_Small_df_stt>
+      <Fountain_Small_df_lower>la fuente pequeña</Fountain_Small_df_lower>
+      <Fountain_Small_df_ltt>
+         <color r="255" g="248" b="178">
+            <b>Fuente pequeña</b>
+         </color>
+         <br/>
+         Haga clic para seleccionar y colocar una fuente pequeña, que alegrará la vista a los visitantes.
+      </Fountain_Small_df_ltt>
+      <Fountain_Splash_df>Fuente para chapotear</Fountain_Splash_df>
+      <Fountain_Splash_df_stt>Fuente para chapotear</Fountain_Splash_df_stt>
+      <Fountain_Splash_df_lower>la fuente para chapotear</Fountain_Splash_df_lower>
+      <Fountain_Splash_df_ltt>
+         <color r="255" g="248" b="178">
+            <b>Fuente para chapotear</b>
+         </color>
+         <br/>
+         Haga clic para seleccionar y colocar una fuente para chapotear, una estupenda y refrescante diversión para los niños.
+      </Fountain_Splash_df_ltt>
+      
+      <!--fence names-->      
+      <brickwindow_df>Valla de ladrillos con ventanas</brickwindow_df>
+      <brickwindow_df_stt>Valla de ladrillos con ventanas</brickwindow_df_stt>
+      <brickwindow_df_lower>la valla de ladrillos con ventanas</brickwindow_df_lower>
+      <brickwindow_df_ltt>
+         <color r="255" g="248" b="178">
+            <b>Valla de ladrillos con ventanas</b>
+         </color>
+         <br/>
+         Haga clic para seleccionar y colocar secciones de la valla de ladrillos con ventanas, que es sólida y proporciona una buena vista.
+      </brickwindow_df_ltt>
+      <stonewindow_df>Valla de piedra con ventanas</stonewindow_df>
+      <stonewindow_df_stt>Valla de piedra con ventanas</stonewindow_df_stt>
+      <stonewindow_df_lower>la valla de piedra con ventanas</stonewindow_df_lower>
+      <stonewindow_df_ltt>
+         <color r="255" g="248" b="178">
+            <b>Valla de piedra con ventanas</b>
+         </color>
+         <br/>
+         Haga clic para seleccionar y colocar secciones de la valla de piedra con ventanas, que es sólida y proporciona una buena vista.
+      </stonewindow_df_ltt>
+      <junglewindow>Valla de jungla con ventanas</junglewindow>
+      <junglewindow_stt>Valla de jungla con ventanas</junglewindow_stt>
+      <junglewindow_lower>la valla de jungla con ventanas</junglewindow_lower>
+      <junglewindow_ltt>
+         <color r="255" g="248" b="178">
+            <b>Valla de jungla con ventanas</b>
+         </color>
+         <br/>
+         Haga clic para seleccionar y colocar secciones de la valla de jungla con ventanas, que es sólida y proporciona una buena vista.
+      </junglewindow_ltt>            
+   </entityname>
+   
+   <!--Zoopedia entries-->
+   <zoopedia_brickwindow>
+	      <entry>Valla de ladrillos con ventanas</entry>
+	      <text>
+	         <cell pady="0" width="1000"/>
+	         <p/>
+	         <cell width="260"/>
+	         <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+	            <cell width="600" padx="20" pady="20">
+	               <color r="255" g="255" b="255">
+	                  <img src="entities\objects\fences\brickwindow_df\brickwindow_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+	                  <p/>La valla de ladrillos con ventanas ofrece a los visitantes una vista excelente de los animales, al tiempo que ofrece seguridad contra escapes de animales.
+	                  <p/>Utilice la valla de ladrillos con ventanas junto con la valla de ladrillos normal para disponer de instalaciones atractivas y duraderas.
+	               </color>
+	            </cell>
+	         </cell>
+	      </text>
+   </zoopedia_brickwindow>
+   <zoopedia_stonewindow>
+		      <entry>Valla de piedra con ventanas</entry>
+		      <text>
+		         <cell pady="0" width="1000"/>
+		         <p/>
+		         <cell width="260"/>
+		         <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+		            <cell width="600" padx="20" pady="20">
+		               <color r="255" g="255" b="255">
+		                  <img src="entities\objects\fences\stonewindow_df\stonewindow_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+		                  <p/>La valla de piedra con ventanas ofrece a los visitantes una vista excelente de los animales, al tiempo que ofrece seguridad contra escapes de animales.
+		                  <p/>Utilice la valla de piedra con ventanas junto con la valla de piedra normal para disponer de instalaciones atractivas y duraderas.
+		               </color>
+		            </cell>
+		         </cell>
+		      </text>
+   </zoopedia_stonewindow>
+   <zoopedia_junglewindow>
+		      <entry>Valla de jungla con ventanas</entry>
+		      <text>
+		         <cell pady="0" width="1000"/>
+		         <p/>
+		         <cell width="260"/>
+		         <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+		            <cell width="600" padx="20" pady="20">
+		               <color r="255" g="255" b="255">
+		                  <img src="entities\objects\fences\junglewindow_jt\junglewindow_jt_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+		                  <p/>La valla de jungla con ventanas ofrece a los visitantes una vista excelente de los animales, al tiempo que ofrece seguridad contra escapes de animales.
+		                  <p/>Vallado que refleja un tema de jungla que suele utilizarse cuando se crean instalaciones para animales de la jungla y de la pluviselva, como tigres, gorilas y chimpancés. A los visitantes les encantan los objetos temáticos.
+		               </color>
+		            </cell>
+		         </cell>
+		      </text>
+   </zoopedia_junglewindow> 
+   <zoopedia_tortoisetrampoline>
+      <entry>Tortuga, hinchable</entry>
+      <text>
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+               <img src="entities/objects/scenery/Playground_TortoiseTrampoline_df/Playground_TortoiseTrampoline_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>               
+                  <p/>
+                  <p/>A los niños les encanta subirse a lomos de esta colorida tortuga hinchable y dar saltos en la cama elástica.
+               </color>
+            </cell>
+         </cell>
+      </text>
+   </zoopedia_tortoisetrampoline>
+   <zoopedia_fountainsmall>
+      <entry>Fuente, pequeña</entry>
+      <text>
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+               <img src="entities\objects\scenery\Fountain_Small_df\Fountain_Small_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>La fuente pequeña es la forma ideal de embellecer el zoo sin ocupar demasiado espacio. Los visitantes disfrutan viendo las fuentes del zoo.
+               </color>
+            </cell>
+         </cell>
+      </text>
+   </zoopedia_fountainsmall>
+   <zoopedia_fountainsplash>
+      <entry>Fuente, chapoteo</entry>
+      <text>
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities\objects\scenery\Fountain_Splash_df\Fountain_Splash_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>La fuente para chapotear está diseñada para que los niños puedan entrar dentro y jugar en sus refrescantes aguas.
+               </color>
+            </cell>
+         </cell>
+      </text>
+   </zoopedia_fountainsplash>   
+</ZT2Strings>

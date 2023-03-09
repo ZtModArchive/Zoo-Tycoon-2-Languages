@@ -1,0 +1,769 @@
+<ZT2Strings>
+      <LOC_STRING _locID="tools:tooltypeformat">
+         <font name="arial" size="8" shadowx="0" shadowy="0">%text%</font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:toolcomponentformat">
+         <font name="arial" size="9" shadowx="0" shadowy="0">%text%</font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:inheritanceformat">
+         <font name="arial" size="9" shadowx="0" shadowy="0">
+            <b>%text%</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:selectedtypeformat">
+         <font name="arial" size="14" shadowx="0" shadowy="0" shadowa="64">
+            <b>%text%</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:selectedcomponentformat">
+         <font name="arial" size="16" shadowx="-1" shadowy="1" shadowa="64">%text%</font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:toolheadingformat">
+         <font name="arial" size="14">
+            <b>%text%</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:toolsubheadingformat">
+         <font name="arial" size="12" shadowx="-1" shadowy="1" shadowa="64">%text%</font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:xmlnodeformat">
+         <font name="arial" size="14">
+            <color r="255" g="255" b="50" a="255">%text%</color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:xmlnodeformatdisabled">
+         <font name="arial" size="14">
+            <color r="255" g="255" b="50" a="150">%text%</color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:xmlattributenameformat">
+         <font name="arial" size="10" shadowx="0" shadowy="0">
+            <b>
+               <color r="255" g="255" b="50" a="255">%text%</color>
+            </b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:xmlattributenameformatdisabled">
+         <font name="arial" size="10" shadowx="0" shadowy="0">
+            <b>
+               <color r="255" g="255" b="50" a="150">%text%</color>
+            </b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:xmlattributevalueformat">
+         <font name="arial" size="12" shadowx="0" shadowy="0">
+            <color r="255" g="255" b="50" a="255">%text%</color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:xmlattributevalueformatdisabled">
+         <font name="arial" size="12" shadowx="0" shadowy="0">
+            <color r="255" g="255" b="50" a="150">%text%</color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:xmlattributeequalformat">
+         <font name="arial" size="12" shadowx="-1" shadowy="1">%text%</font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:savelogformat">
+         <font name="arial" size="12" shadowa="0">%text%</font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:noshadow">
+         <font shadowx="0" shadowy="0">%text%</font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:toolheading">Verktyg-menyn</LOC_STRING>
+      <LOC_STRING _locID="tools:guitool">Gränssnittsverktyg</LOC_STRING>
+      <LOC_STRING _locID="tools:guitool_stt">Kör gränssnittsverktyg</LOC_STRING>
+      <LOC_STRING _locID="tools:typetree">Typträd</LOC_STRING>
+      <LOC_STRING _locID="tools:componentpanel">Komponentlista</LOC_STRING>
+      <LOC_STRING _locID="tools:guitool_ltt">
+         <color r="255" g="248" b="178">
+            <b>Kör gränssnittsverktyg</b>
+         </color>
+         <br>Kör gränssnittsverktyget och granska layoutfilerna.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:entityeditor">Enhetsredigeraren</LOC_STRING>
+      <LOC_STRING _locID="tools:entityeditor_stt">Kör Enhetsredigeraren</LOC_STRING>
+      <LOC_STRING _locID="tools:entityeditor_ltt">
+         <color r="255" g="248" b="178">
+            <b>Kör Enhetsredigeraren</b>
+         </color>
+         <br>Kör Enhetsredigeraren så att du kan testa och modifiera olika enheter i spelet.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:reloadbinderandreplace_stt">
+         <color r="255" g="248" b="178">
+            <b>Läs in Enhets-binder på nytt och ersätt</b>
+         </color>
+         <br>Läser in enhets-binder på nytt om du har gjort ändringar utanför den här redigeraren.</br>
+         <br>Alla aktuella förekomster av enheten uppdateras och byts ut.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:placeobject_stt">
+         <color r="255" g="248" b="178">
+            <b>Placera ut objekt</b>
+         </color>
+         <br>Placera ut vald enhetstyp.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:entityeditoropen_stt">Öppna Enhetsredigeraren</LOC_STRING>
+      <LOC_STRING _locID="tools:entityeditoropen_ltt">
+         <color r="255" g="248" b="178">
+            <b>Öppna Enhetsredigeraren</b>
+         </color>
+         <br>Öppnar fönstret med verktyget Enhetsredigeraren.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:expand_stt">
+         <color r="255" g="248" b="178">
+            <b>Utöka</b>
+         </color>
+         <br>Utökar trädvyn.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:collapse_stt">
+         <color r="255" g="248" b="178">
+            <b>Komprimera</b>
+         </color>
+         <br>Komprimerar trädvyn.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:showalltypes_stt">
+         <color r="255" g="248" b="178">
+            <b>Visa alla typer</b>
+         </color>
+         <br>Visar alla enhetstyper i trädformat.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:showfavoritetypes_stt">
+         <color r="255" g="248" b="178">
+            <b>Visa mina favorittyper</b>
+         </color>
+         <br>Visar mina favoritenhetstyper.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:addtomyfavorites_stt">
+         <color r="255" g="248" b="178">
+            <b>Lägg till i Favoriter</b>
+         </color>
+         <br>Lägger till den valda typen i Mina favoriter.</br>
+         <br>Klicka på Favoriter om du vill visa Mina favoriter.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:removefrommyfavorites_stt">
+         <color r="255" g="248" b="178">
+            <b>Ta bort från Favoriter</b>
+         </color>
+         <br>Tar bort den valda typen från Mina favoriter.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:ditherbackground_stt">
+         <color r="255" g="248" b="178">
+            <b>Rasterbakgrund</b>
+         </color>
+         <br>Växlar bakgrund (med/utan raster).</br>
+         <br>Rastrera bakgrunden så att du kan se bakomliggande objekt.</br>
+         <br>Stäng av den rastrerade bakgrunden så att det går lättare att läsa texten.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:applychanges_stt">
+         <color r="255" g="248" b="178">
+            <b>Tillämpa ändringar</b>
+         </color>
+         <br>Tillämpar alla ändringar som har gjorts för enheten.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:revertchanges_stt">
+         <color r="255" g="248" b="178">
+            <b>Återställ alla ändringar</b>
+         </color>
+         <br>Återställer alla ändringar som har gjorts för enheten.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:savebinder_stt">
+         <color r="255" g="248" b="178">
+            <b>Spara</b>
+         </color>
+         <br>Sparar binder-filen i</br>
+         <br>vald rotkatalog.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:selectdataroot_stt">
+         <color r="255" g="248" b="178">
+            <b>Välj rotkatalog</b>
+         </color>
+         <br>Välj en annan rotkatalog.</br>
+         <br>När du sparar binder-filen</br>
+         <br>sparas den i vald rotkatalog.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:selectselected_stt">
+         <color r="255" g="248" b="178">
+            <b>Välj vald enhetstyp</b>
+         </color>
+         <br>Väljer enhetstyp baserat på</br>
+         <br>vilket objekt som har valts i världen.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:updatetypelists_stt">
+         <color r="255" g="248" b="178">
+            <b>Uppdatera typlistor</b>
+         </color>
+         <br>Uppdaterar typlistorna i spelet enligt dataändringarna</br>
+         <br>till exempel djurskötarens råd och köppaneler.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:saveall_stt">
+         <color r="255" g="248" b="178">
+            <b>Spara alla</b>
+         </color>
+         <br>Sparar alla binder-filer</br>
+         <br>som har ändrats.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:nextbinder_stt">
+         <color r="255" g="248" b="178">
+            <b>Nästa urval</b>
+         </color>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:previousbinder_stt">
+         <color r="255" g="248" b="178">
+            <b>Föregående urval</b>
+         </color>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:addnode_stt">
+         <color r="255" g="248" b="178">
+            <b>Lägg till nod</b>
+         </color>
+         <br>Lägger till en ny underordnad nod.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:overridenode_stt">
+         <color r="255" g="248" b="178">
+            <b>Åsidosätt nod</b>
+         </color>
+         <br>Åsidosätter noden för den här</br>
+         <br>binder-filen så att den kan redigeras.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:removenode_stt">
+         <color r="255" g="248" b="178">
+            <b>Ta bort nod</b>
+         </color>
+         <br>Tar bort noden från den överordnade noden.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:inheritnode_stt">
+         <color r="255" g="248" b="178">
+            <b>Ta bort nod (arv)</b>
+         </color>
+         <br>Tar bort noden och ärver</br>
+         <br>data från den överordnade binder-filen.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:addattribute_stt">
+         <color r="255" g="248" b="178">
+            <b>Lägg till attribut</b>
+         </color>
+         <br>Lägger till ett nytt attribut i noden.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:overrideattribute_stt">
+         <color r="255" g="248" b="178">
+            <b>Åsidosätt attribut</b>
+         </color>
+         <br>Åsidosätter attributet</br>
+         <br>så att det går att göra ändringar i det.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:removeattribute_stt">
+         <color r="255" g="248" b="178">
+            <b>Ta bort attribut</b>
+         </color>
+         <br>Tar bort attributet från noden.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:inheritattribute_stt">
+         <color r="255" g="248" b="178">
+            <b>Ta bort attribut (arv)</b>
+         </color>
+         <br>Tar bort attributet från noden</br>
+         <br>och ärver värdet från den överordnade binder-filen.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:nosavewarning">
+         <font name="arial" size="18" image="ui\font\color_mainmenu.tga" shadowx="-1" shadowy="1" shadowa="64">
+            <b>Det finns ändringar i binder-filen som inte har sparats!</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:addsharedcomponent_stt">
+         <color r="255" g="248" b="178">
+            <b>Lägg till delad komponent</b>
+         </color>
+         <br>Lägger till en ny delad</br>
+         <br>komponent i enheten.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:addsubbinder_stt">
+         <color r="255" g="248" b="178">
+            <b>Lägg till underordnad Binder-fil</b>
+         </color>
+         <br>Lägger till en ny underordnad Binder-fil i enheten.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:addentitytype_stt">
+         <color r="255" g="248" b="178">
+            <b>Lägg till enhetstyp</b>
+         </color>
+         <br>Lägger till en ny enhetstyp.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:canceladdnew_stt">
+         <color r="255" g="248" b="178">
+            <b>Avbryt</b>
+         </color>
+         <br>Klicka om du vill avbryta.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:addnewcomponenttypelabel">Ange vilken TYP av komponent du vill lägga till i enheten (obligatoriskt):</LOC_STRING>
+      <LOC_STRING _locID="tools:addnewcomponentnamelabel">Ange NAMNET på komponenten som du vill lägga till i enheten (valfritt):</LOC_STRING>
+      <LOC_STRING _locID="tools:addnewentitytypeparent">Ange enhetstypen som den nya enhetstypen ska härledas från:</LOC_STRING>
+      <LOC_STRING _locID="tools:addnewentitytypechild">Ange namnet på den nya enhetstypen:</LOC_STRING>
+      <LOC_STRING _locID="tools:tapobjectselect">
+         <font name="arial" size="8" shadowx="-1" shadowy="1" shadowa="32">%text%</font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:taptool">Redigerare &amp; TAP-verktyg</LOC_STRING>
+      <LOC_STRING _locID="tools:taptool_stt">Kör Redigeraren &amp; TAP-verktyget</LOC_STRING>
+      <LOC_STRING _locID="tools:taptoolopen_stt">Starta TAP-verktyget</LOC_STRING>
+      <LOC_STRING _locID="tools:taptoolopen_ltt">
+         <color r="255" g="248" b="178">
+            <b>Starta TAP-verktyget</b>
+         </color>
+         <br>Startar TAP-verktyget så att du snabbt kan se olika taps.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:taptooltest_stt">Kör vald TAP.</LOC_STRING>
+      <LOC_STRING _locID="tools:taptoolreload_stt">Läs in tillgångar som hör till vald TAP på nytt.</LOC_STRING>
+      <LOC_STRING _locID="tools:colorlabelformat">
+         <font name="arial" size="14" shadowa="32">
+            <b>%text%</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:terrainlights_stt">
+         <color r="255" g="248" b="178">
+            <b>Terrängbelysning</b>
+         </color>
+         <br>Visa och ändra terrängbelysningen.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:objectlights_stt">
+         <color r="255" g="248" b="178">
+            <b>Objektbelysning</b>
+         </color>
+         <br>Visa och ändra objektbelysningen.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:waterlights_stt">
+         <color r="255" g="248" b="178">
+            <b>Vattenbelysning</b>
+         </color>
+         <br>Visa och ändra vattenbelysningen.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:cloudlights_stt">
+         <color r="255" g="248" b="178">
+            <b>Molnbelysning</b>
+         </color>
+         <br>Visa och ändra molnbelysningen.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:savelights_stt">
+         <color r="255" g="248" b="178">
+            <b>Spara belysning</b>
+         </color>
+         <br>Spara belysningen på en fil.</br>
+         <br>I textrutan anger du det namn som du vill spara filen under.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:loadlights_stt">
+         <color r="255" g="248" b="178">
+            <b>Läs in belysning</b>
+         </color>
+         <br>Läser in belysning från en fil</br>
+         <br>I textrutan anger du namnet på den belysningsfil som du vill läsa in.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:gt_label">
+         <font name="arial" size="10" shadowx="-1" shadowy="1">
+            <b>Gestskaparverktyg</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:new_gesture_stt">Ny gest</LOC_STRING>
+      <LOC_STRING _locID="tools:load_gesture_stt">Läs in gest</LOC_STRING>
+      <LOC_STRING _locID="tools:save_gesture_stt">Spara gest</LOC_STRING>
+      <LOC_STRING _locID="tools:next_stt">Nästa</LOC_STRING>
+      <LOC_STRING _locID="tools:previous_stt">Föregående</LOC_STRING>
+      <LOC_STRING _locID="tools:undo_stt">Ångra</LOC_STRING>
+      <LOC_STRING _locID="tools:delete_stt">Ta bort</LOC_STRING>
+      <LOC_STRING _locID="tools:load_gesture_label">
+         <font name="arial" size="11" shadowx="0" shadowy="0">
+            <b>Läs in gest </b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:save_gesture_label">
+         <font name="arial" size="11" shadowx="0" shadowy="0">
+            <b>Spara gest </b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:overwrite_gesture_label">
+         <font name="arial" size="20" shadowx="0" shadowy="0">
+            <b>Skriv över gest?</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:insert_label">
+         <font name="arial" size="10" shadowx="0" shadowy="0">
+            <b>Lägg till nod</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:insert_text_begin_stt">Lägg till nod (början)</LOC_STRING>
+      <LOC_STRING _locID="tools:insert_text_middle_stt">Lägg till nod (mitten)</LOC_STRING>
+      <LOC_STRING _locID="tools:insert_text_end_stt">Lägg till nod (slutet)</LOC_STRING>
+      <LOC_STRING _locID="tools:insert_event_label">
+         <font name="arial" size="10" shadowx="0" shadowy="0">
+            <b>Lägg till händelse </b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:insert_event_stt">Lägg till händelse längs spline.</LOC_STRING>
+      <LOC_STRING _locID="tools:view_gesture_stt">Visa gest.</LOC_STRING>
+      <LOC_STRING _locID="tools:play_gesture_stt">Testa gest i FPM-läge.</LOC_STRING>
+      <LOC_STRING _locID="tools:increase_stt">Öka.</LOC_STRING>
+      <LOC_STRING _locID="tools:decrease_stt">Minska.</LOC_STRING>
+      <LOC_STRING _locID="tools:event_window_stt">Ändra storlek på händelsefönster.</LOC_STRING>
+      <LOC_STRING _locID="tools:view_label">
+         <font name="arial" size="9" shadowx="-1" shadowy="2">
+            <b>Visa spline</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:test_label">
+         <font name="arial" size="9" shadowx="-1" shadowy="2">
+            <b>Testa spline</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:score_size_stt">Ändra tjocklek på poäng.</LOC_STRING>
+      <LOC_STRING _locID="tools:spline_size_stt">Ändra tjocklek på spline.</LOC_STRING>
+      <LOC_STRING _locID="tools:event_window_label">
+         <font name="arial" size="9" shadowx="-1" shadowy="2">
+            <b>Händelsestorlek</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:spline_thickness_label">
+         <font name="arial" size="10" shadowx="0" shadowy="0">
+            <b>Splinestorlek</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:scoring_prox_label">
+         <font name="arial" size="10" shadowx="0" shadowy="0">
+            <b>Poängdifferens</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:node_start_label">
+         <font name="arial" size="9" shadowx="-1" shadowy="2">
+            <b>Lägg till nod i början</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:node_label">
+         <font name="arial" size="9" shadowx="-1" shadowy="2">
+            <b>Lägg till nod mellan punkter</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:node_end_label">
+         <font name="arial" size="9" shadowx="-1" shadowy="2">
+            <b>Lägg till nod i slutet </b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:event_label">
+         <font name="arial" size="9" shadowx="-1" shadowy="2">
+            <b>Lägg till händelse </b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:event_size_label">
+         <font name="arial" size="9" shadowx="-1" shadowy="2">
+            <b>Ändra storlek på händelsefönster</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:score_size_label">
+         <font name="arial" size="9" shadowx="-1" shadowy="2">
+            <b>Ändra poängdifferens</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:spline_size_label">
+         <font name="arial" size="9" shadowx="-1" shadowy="2">
+            <b>Ändra tjocklek på spline </b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:new_spline_label">
+         <font name="arial" size="9" shadowx="-1" shadowy="2">
+            <b>Skapa ny spline</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:load_spline_label">
+         <font name="arial" size="9" shadowx="-1" shadowy="2">
+            <b>Läs in spline</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:delete_spline_label">
+         <font name="arial" size="9" shadowx="-1" shadowy="2">
+            <b>Läs in spline</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="watertool:reflection_stt">
+         <color r="255" g="248" b="178">
+            <b>Reflexion</b>
+         </color>
+         <br>Alla parametrar som styr reflexionen när ljuset möter vattenytan.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="watertool:refraction_stt">
+         <color r="255" g="248" b="178">
+            <b>Refraktion</b>
+         </color>
+         <br>Alla parametrar som styr refraktionen när ljuset möter vattenytan.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="watertool:geometric_stt">
+         <color r="255" g="248" b="178">
+            <b>Geometri</b>
+         </color>
+         <br>Alla parametrar som styr geometrin på vattenytan.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="watertool:shore_stt">
+         <color r="255" g="248" b="178">
+            <b>Strand</b>
+         </color>
+         <br>Alla parametrar som styr strandeffekter.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="watertool:ripple_stt">
+         <color r="255" g="248" b="178">
+            <b>Krusning</b>
+         </color>
+         <br>Alla parametrar som styr krusningseffekter.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="watertool:scum_stt">
+         <color r="255" g="248" b="178">
+            <b>Skum</b>
+         </color>
+         <br>Om du anger en skumkarta här ändras vattnets beteende på två sätt.</br>
+         <br>Den första och mest påfallande beteendeförändringen är att skumkartan får en rullning med korsinterferens</br>
+         <br>(2 exemplar rullar i förhållande till varandra) som ett lager på vattnet.</br>
+         <br>Den andra beteendeförändringen är mindre påfallande och gör att refraktionen minskas</br>
+         <br>och att reflexionen begränsas så att endast himlen reflekteras.</br>
+         <br>Om ingen skumkartfil har angetts ignoreras resterande parametrar.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="watertool:reflectionstrength_stt">
+         <color r="255" g="248" b="178">
+            <b>Styrka</b>
+         </color>
+         <br>Ange hur stark du vill att reflexionen ska vara.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="watertool:reflectionambient_stt">
+         <color r="255" g="248" b="178">
+            <b>Omgivande</b>
+         </color>
+         <br>Vattnets färg om det inte förekommer någon reflexion.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="watertool:reflectiontint_stt">
+         <color r="255" g="248" b="178">
+            <b>Färgton</b>
+         </color>
+         <br>Den färgton som reflexionen ska färgas med.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="watertool:reflectionmapsize_stt">
+         <color r="255" g="248" b="178">
+            <b>Kartstorlek</b>
+         </color>
+         <br>Storlek i meter på ojämnheter (bump map) på ytan.</br>
+         <br>Om du anger ett lågt värde skapas en mer detaljerad struktur på vattenytan.</br>
+         <br>Om du väljer ett högt värde skapas en mjukt varierande vattenyta.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="watertool:reflectionbumpiness_stt">
+         <color r="255" g="248" b="178">
+            <b>Vågighet</b>
+         </color>
+         <br>Om du väljer ett högt värde skapas branta texturvågor.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="watertool:reflectionfalloff_stt">
+         <color r="255" g="248" b="178">
+            <b>Avstånd</b>
+         </color>
+         <br>Avståndet tills vågigheten har gått ned till minimivärdet.</br>
+         <br>Om du anger ett högt värde ser vattnet ojämnare ut på långt håll.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="watertool:reflectionfresnel_stt">
+         <color r="255" g="248" b="178">
+            <b>Fresnel</b>
+         </color>
+         <br>Bestämmer hur vinkeln påverkas av reflexionsstyrkan.</br>
+         <br>Reflexionen mot vattnet är alltid stark i glansvinkeln.</br>
+         <br>Om du anger ett lågt värde förblir vattnet</br>
+         <br>reflekterande tills siktvinkeln är nästan helt vinkelrät.</br>
+         <br>Om du anger ett högt värde minskas reflexionen och</br>
+         <br>refraktioner träder fram vid en mycket brantare siktvinkel.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="watertool:refractionambient_stt">
+         <color r="255" g="248" b="178">
+            <b>Omgivande</b>
+         </color>
+         <br>Vattnets färg.</br>
+         <br>Den refrakterade bilden läggs till i färgen.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="watertool:refractiontint_stt">
+         <color r="255" g="248" b="178">
+            <b>Färgton</b>
+         </color>
+         <br>Den färgton som refraktionerna ska färgas med.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="watertool:refractionmapsize_stt">
+         <color r="255" g="248" b="178">
+            <b>Kartstorlek</b>
+         </color>
+         <br>Storlek i meter på ojämnheter (bump map) på ytan.</br>
+         <br>Om du anger ett lågt värde skapas en mer detaljerad struktur på vattenytan.</br>
+         <br>Om du väljer ett högt värde skapas en mjukt varierande vattenyta.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="watertool:refractionbumpiness_stt">
+         <color r="255" g="248" b="178">
+            <b>Vågighet</b>
+         </color>
+         <br>Anger hur grov ytan ska vara. Om du väljer ett högt värde skapas branta texturvågor.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="watertool:refractionfalloff_stt">
+         <color r="255" g="248" b="178">
+            <b>Avstånd</b>
+         </color>
+         <br>Avstånd i meter tills vågigheten har gått ned till minimivärdet.</br>
+         <br>Om du anger ett högt värde ser vattnet ojämnare ut på långt håll.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="watertool:geometricamp_stt">
+         <color r="255" g="248" b="178">
+            <b>Amplitud</b>
+         </color>
+         <br>Varje våg får en slumpmässig amplitud</br>
+         <br>mellan värdet minAmplitude och maxAmplitude.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="watertool:geometricchop_stt">
+         <color r="255" g="248" b="178">
+            <b>Krabb</b>
+         </color>
+         <br>Ett lågt värde ger rundare vågor.</br>
+         <br>Om du anger ett högt värde skapas vågor med mer virvlar och spetsigare toppar.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="watertool:shoretint_stt">
+         <color r="255" g="248" b="178">
+            <b>Färgton</b>
+         </color>
+         <br>Den färgton som varje lager ska färgas med.</br>
+         <br>Normalt används färgen vit, men det kan vara värt att leka lite med alfa.</br>
+         <br>Bestämmer krusningarnas maximala opacitet.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="watertool:shorerate_stt">
+         <color r="255" g="248" b="178">
+            <b>Hastighet</b>
+         </color>
+         <br>Den hastighet som lagret rör sig med.</br>
+         <br>Om du anger ett negativt värde rör sig lagret ut i vattnet (bort från stranden),</br>
+         <br>och om du väljer ett positivt värde rör sig lagret upp på stranden.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="watertool:shoresize_stt">
+         <color r="255" g="248" b="178">
+            <b>Kartstorlek</b>
+         </color>
+         <br>Vertikal storlek (i meter) på texturen.</br>
+         <br>Om du anger ett lågt värde trycks texturen ihop vertikalt, och om du anger ett högt värde dras texturen ut.</br>
+         <br>Standardvärdet ger ett höjd-/breddförhållande på ungefär 1:1.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="watertool:shorerippletop_stt">
+         <color r="255" g="248" b="178">
+            <b>Övre strandtextur</b>
+         </color>
+         <br>Filnamnet på den översta krusningstexturen.</br>
+         <br>Den här texturen måste överlappa i båda dimensionerna.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="watertool:shoreripplebot_stt">
+         <color r="255" g="248" b="178">
+            <b>Nedre strandtextur</b>
+         </color>
+         <br>Filnamnet på den nedersta krusningstexturen.</br>
+         <br>Den här texturen måste överlappa i båda dimensionerna.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="watertool:shoreripplemask_stt">
+         <color r="255" g="248" b="178">
+            <b>Strandtextur - mask</b>
+         </color>
+         <br>Textur för att maska av effekten.</br>
+         <br>Den här texturen ska vara helt transparent längst upp och längst ned, </br>
+         <br>och överlappa från vänster till höger.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="watertool:ripplelifespan_stt">
+         <color r="255" g="248" b="178">
+            <b>Livslängd</b>
+         </color>
+         <br>Livslängd i sekunder för en puls av koncentriska vågor.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="watertool:ripplestartup_stt">
+         <color r="255" g="248" b="178">
+            <b>Starttid</b>
+         </color>
+         <br>Den tid det tar (i sekunder) att starta en puls av koncentriska vågor.</br>
+         <br>Om tiden är för kort blir vågorna ojämna.</br>
+         <br>Om starttiden är för lång blir pulsen jämn men dess effekt blir otydlig.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="watertool:ripplemaxamp_stt">
+         <color r="255" g="248" b="178">
+            <b>Max. amplitud</b>
+         </color>
+         <br>Hur starka vågorna ska vara när mycket tunga objekt orsakar krusningar.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="watertool:rippleminamp_stt">
+         <color r="255" g="248" b="178">
+            <b>Min. amplitud</b>
+         </color>
+         <br>Hur starka vågorna ska vara när mycket lätta objekt orsakar krusningar.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="watertool:ripplechop_stt">
+         <color r="255" g="248" b="178">
+            <b>Krabb</b>
+         </color>
+         <br>Anger hur stark sjögången ska vara.</br>
+         <br>Ett lågt värde ger rundare vågor.</br>
+         <br>Om du anger ett högt värde skapas vågor med mer virvlar och spetsigare toppar.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="watertool:scumimage_stt">
+         <color r="255" g="248" b="178">
+            <b>Bild</b>
+         </color>
+         <br>Textur för användning av skum. Både alfa och färg har betydelse här.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="watertool:scumsize_stt">
+         <color r="255" g="248" b="178">
+            <b>Storlek</b>
+         </color>
+         <br>Storlek i meter på det här lagret av skumkartan i världen.</br>
+         <br>Observera att det här är 2 värden, ett för x (öst/väst) och ett för y (nord/syd).</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="watertool:scumrate_stt">
+         <color r="255" g="248" b="178">
+            <b>Hastighet</b>
+         </color>
+         <br>Hastigheten som lagret rullar med.</br>
+         <br>Observera att det här är 2 värden, ett för x (öst/väst) och ett för y (nord/syd).</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="watertool:alpine_stt">
+         <color r="255" g="248" b="178">
+            <b>Alpint landskap</b>
+         </color>
+      </LOC_STRING>
+      <LOC_STRING _locID="watertool:boreal_stt">
+         <color r="255" g="248" b="178">
+            <b>Nordlig skog</b>
+         </color>
+      </LOC_STRING>
+      <LOC_STRING _locID="watertool:desert_stt">
+         <color r="255" g="248" b="178">
+            <b>Öken</b>
+         </color>
+      </LOC_STRING>
+      <LOC_STRING _locID="watertool:grassland_stt">
+         <color r="255" g="248" b="178">
+            <b>Grässlätt</b>
+         </color>
+      </LOC_STRING>
+      <LOC_STRING _locID="watertool:savannah_stt">
+         <color r="255" g="248" b="178">
+            <b>Savann</b>
+         </color>
+      </LOC_STRING>
+      <LOC_STRING _locID="watertool:scrub_stt">
+         <color r="255" g="248" b="178">
+            <b>Buskskog</b>
+         </color>
+      </LOC_STRING>
+      <LOC_STRING _locID="watertool:temperate_stt">
+         <color r="255" g="248" b="178">
+            <b>Tempererad skog</b>
+         </color>
+      </LOC_STRING>
+      <LOC_STRING _locID="watertool:tropical_stt">
+         <color r="255" g="248" b="178">
+            <b>Tropisk regnskog</b>
+         </color>
+      </LOC_STRING>
+      <LOC_STRING _locID="watertool:tundra_stt">
+         <color r="255" g="248" b="178">
+            <b>Tundra</b>
+         </color>
+      </LOC_STRING>
+      <LOC_STRING _locID="watertool:wetlands_stt">
+         <color r="255" g="248" b="178">
+            <b>Våtmark</b>
+         </color>
+      </LOC_STRING>
+</ZT2Strings>

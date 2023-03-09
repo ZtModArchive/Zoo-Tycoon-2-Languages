@@ -1,0 +1,187 @@
+﻿<ZT2Strings>
+   <entityname>
+      <!--animal names-->
+      <MuskOx>Boeuf musqué</MuskOx>
+      <MuskOx_stt>Boeuf musqué</MuskOx_stt>
+      <MuskOx_lower>le boeuf musqué</MuskOx_lower>
+      <MuskOx_ltt>
+         <color r="255" g="248" b="178">
+            <b>Boeuf musqué</b>
+         </color>
+         <br/>
+         Sélectionnez, puis placez un boeuf musqué, bovidé de la région arctique aux longs poils.
+      </MuskOx_ltt>
+      <!--gift names-->
+      <MuskOx_Gift>Casquette boeuf musqué</MuskOx_Gift>
+      <MuskOx_Gift_stt>Casquette boeuf musqué</MuskOx_Gift_stt>
+      <MuskOx_Gift_lower>la casquette boeuf musqué</MuskOx_Gift_lower>
+      <MuskOx_Gift_ltt>
+         <color r="255" g="248" b="178">
+            <b>Casquette boeuf musqué</b>
+         </color>
+         <br/>Les visiteurs qui apprécient d'observer le boeuf musqué achèteront ce souvenir.
+      </MuskOx_Gift_ltt>
+      <MuskOx_Gift_Adult>Casquette boeuf musqué</MuskOx_Gift_Adult>
+      <MuskOx_Gift_Adult_stt>Casquette boeuf musqué</MuskOx_Gift_Adult_stt>
+      <MuskOx_Gift_Adult_lower>la casquette boeuf musqué</MuskOx_Gift_Adult_lower>
+      <MuskOx_Gift_Adult_ltt>
+         <color r="255" g="248" b="178">
+            <b>Casquette boeuf musqué</b>
+         </color>
+         <br/>Les visiteurs qui apprécient d'observer le boeuf musqué achèteront ce souvenir.
+      </MuskOx_Gift_Adult_ltt>
+      <!--foliage names-->
+      <DiamondLeafWillow_Tundra>Saule à feuilles planes</DiamondLeafWillow_Tundra>
+      <DiamondLeafWillow_Tundra_stt>Saule à feuilles planes</DiamondLeafWillow_Tundra_stt>
+      <DiamondLeafWillow_Tundra_lower>le saule à feuilles planes</DiamondLeafWillow_Tundra_lower>
+      <DiamondLeafWillow_Tundra_ltt>
+         <color r="255" g="248" b="178">
+            <b>Saule à feuilles planes</b>
+         </color>
+         <br/>Sélectionnez, puis placez un saule à feuilles planes, la source de nourriture préférée du boeuf musqué.
+      </DiamondLeafWillow_Tundra_ltt>
+      <!--guest thoughts-->
+      <AnimalDefend>%2s se défend contre %1s!</AnimalDefend>
+      <!--animal actions-->
+      <DefendingAt>Défense contre %s</DefendingAt>
+   </entityname>
+   <zoopedia_muskox version="2">
+      <entry>Boeuf musqué</entry>
+      <text>
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/MuskOx/MuskOx_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						</cell>
+						<cell width="16">
+							<img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						</cell>
+						<cell width="16">
+							<img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						</cell>
+						<cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     État de préservation :
+                     <br/>
+                        <color r="170" g="255" b="0">
+                     Peu menacé
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>   
+            
+               <cell width="128">
+                  <color r="255" g="255" b="255">Toundra<br/></color>
+                  <img src="ui/icon_biomes/icon_tundra.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+               </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Arctique<br/></color>
+                  <img src="ui/icon_maplocations/Tundra_Arctic.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">Classe : Mammifères <i>(Mammalia)</i><br/>Ordre : Ongulés artiodactyles <i>(Artiodactyla)</i><br/>Famille : Bovidés <i>(Bovidae)</i><br/>Genre : <i>Ovibos</i><br/>Espèce : <i>moschatus</i></color>
+               </cell>
+               <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/tundra_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+               </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Bon à savoir sur le boeuf musqué</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Le mâle possède, sous les yeux, une glande qui dépose une odeur musquée sur les branches des arbres ou des arbustes contre lesquels il se frotte.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Le boeuf musqué est présent sur Terre depuis l'Âge de glace, se mesurant aux mammouths laineux il y a des milliers d'années.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">La couche située sous le pelage du boeuf musqué, appelée qiviat, est aussi douce que du cachemire et est considérée comme la fibre la plus chaude au monde.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Les Esquimaux appelaient le boeuf musqué « oomingmak », ce qui signifie « le barbu ».</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Le boeuf musqué vit en groupes de 10 à 20 individus ; en cas de danger, les adultes forment un cercle autour des jeunes.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Les sabots du boeuf musqué lui permettent de percer la glace pour atteindre l'eau douce.</color>
+               </cell>
+            </cell>
+         </cell>
+         <cell width="340">
+         <color r="255" g="248" b="178">Pour débloquer le boeuf musqué au cours de parties en mode Défi ou Campagne, vous devez obtenir une note de renommée de 0,5 étoile pour votre zoo.</color>
+         <p/>Le boeuf musqué est un ruminant au long pelage brun foncé, apparenté aux chèvres et aux moutons. 	Il vit dans le nord du Canada et au Groenland et a été introduit en Alaska et dans d'autres régions nordiques. Le mâle adulte mesure en moyenne 1,90 à 2,30 m de long et 1,20 à 1,50 m de haut au garrot. Il possède de longues cornes incurvées vers le bas et munies de pointes aiguisées tournées vers le haut ; la femelle est beaucoup plus petite. Mâle et femelle possèdent une épaisse toison interne et une toison externe arrivant à la cheville, qui les protège contre le froid. Le mâle dégage une forte odeur de musc en période de rut, d'où son nom.
+         <p/>Le boeuf musqué se déplace en troupeaux de 10 à 100 individus. La population et l'habitat du boeuf musqué ont fortement diminué, les humains le chassant pour sa peau et sa viande. Des efforts ont cependant été faits pour préserver l'espèce, qui est désormais protégée au Canada. En cas de danger, les adultes du troupeau forment un cercle, les jeunes se trouvant au centre.
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Avec le concours de la <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Collection Microsoft (R) Encarta (R) 2004.</color></u></a>(C) 1993-2003 Microsoft Corporation. Tous droits réservés.
+         </cell>
+      </text>
+   </zoopedia_muskox>
+   <zoopedia_diamondleafwillow>
+      <entry>Plante, saule à feuilles planes</entry>
+      <text>
+         <color r="255" g="255" b="255">
+            <cell pady="0" width="1000"/>
+            <p/>
+            <cell width="260"/>
+            <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+               <cell width="150">
+                  <img src="entities/objects/foliage/DiamondLeafWillow/DiamondLeafWillow_Tundra_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128"/>
+               </cell>
+               <cell pady="15" width="400">
+               <p/>Le saule est le nom commun d'une petite famille de végétaux ligneux à fleurs et de certains arbres de cette espèce. La famille des salicacées se compose de quelques 435 espèces de saules (dont l'osier) et de peupliers (voir Peuplier), incluant le tremble et le peuplier deltoïde. Les membres de cette famille vivent habituellement dans des habitats humides, plaines inondables ou bords des cours d'eau ; ce sont des espèces à croissance rapide, souvent pionnières. Leur bois reçoit de nombreuses applications et leurs feuilles constituent une source nourriture pour la faune. Certaines espèces sont ornementales. La famille se compose de deux genres : le saule et le peuplier. Tous deux sont largement répandus dans l'hémisphère Nord ; on rencontre quelques espèces dans l'hémisphère Sud. Les quelque 35 espèces de peupliers sont des arbres, tandis que la majeure partie des espèces de saules (environ 400) sont des arbustes. Les saules sont particulièrement abondants et importants dans la toundra arctique, où ils sont petits et forment une sorte de tapis ; on les trouve également en montagne, au-delà de la limite des arbres.
+               <p/>Les saules et les peupliers produisent des fleurs mâles et femelles sur des pieds distincts. Les fleurs sont très simples et ne présentent aucun sépale ou pétale. Elles sont réunies en bouquets denses, appelés chatons, avant ou pendant la pousse des nouvelles feuilles au printemps. Les chatons de peuplier sont pendants et ne produisent aucun nectar ; le vent est l'agent de la pollinisation (anémophile). Les chatons de saule, en revanche, sont dressés et produisent un nectar abondant et parfumé qui attire les insectes, notamment les abeilles et les mouches, qui assurent la pollinisation (entomophile). La pollinisation entomophile des fleurs très simples du saule fait figure d'exception au royaume végétal, où seules les plantes à fleurs complexes et très voyantes voient leur pollen distribué par les insectes. Néanmoins, au début du printemps, avant que la plupart des fleurs ne voient le jour, les insectes vivent du nectar des chatons de saule.
+               <p/>Les fruits du saule et du peuplier sont de petites capsules renfermant de nombreuses graines, chacune d'entre elles pourvue de fils ressemblant à du coton et faisant office de parachutes pour une meilleure dispersion par le vent. Si les graines atterrissent sur un sol approprié et humide, elles germent en un ou deux jours. La plupart des saules et des peupliers ont une croissance rapide, atteignant l'âge de la floraison en quelques années ; mais leur durée de vie est également courte, certaines espèces ne dépassant pas une vingtaine d'années.
+               <p/>D'un point de vue économique, l'importance de la famille est variable : l'osier commun est cultivé pour ses tiges, employées en vannerie, et le bois léger mais résistant aux chocs d'autres saules est utilisé pour fabriquer des prothèses, des sabots et des battes de cricket. L'écorce de saule contient un principe actif appelé salicine et utilisé dans de nombreux remèdes populaires. L'aspirine est un dérivé de l'acide salicylique, synthétisé pour la première fois à partir de dérivés d'écorce de saule. Plusieurs espèces de saules, notamment le saule pleureur et le saule blanc, tiennent une place importante dans l'horticulture.
+            </cell>
+            </cell>
+            <p/>
+         </color>
+      </text>
+   </zoopedia_diamondleafwillow>
+</ZT2Strings>

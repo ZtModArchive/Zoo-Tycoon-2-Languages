@@ -1,0 +1,2164 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_beluga:entry">Witte dolfijn</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_beluga:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/Beluga/Beluga_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>						 
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/vulnerable.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Status:
+                     <br/>
+                        <color r="255" g="255" b="0">
+                     Laag risico
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+				 <cell width="128">
+				  <color r="255" g="255" b="255">Toendra<br/></color>
+				  <img src="ui/icon_biomes/icon_tundra.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+				 </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Noordelijke IJszee</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/tundra_arctic_ocean.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Klasse: zoogdieren <i>(Mammalia)</i>
+                  <br/>
+                  Orde: <i>Cetacea</i>
+                  <br/>
+                  Familie: <i>Monodontidae</i>
+                  <br/>
+                  Geslacht: <i>Delphinapterus</i>
+                  <br/>
+                  Soort: <i>leucas</i>
+                  </color>
+               </cell>
+				 <cell width="256" pady="10">
+				  <img src="UI/zoopedia/biome/tundra_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+				 </cell>				 
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Interessante feiten over de witte dolfijn</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Witte dolfijnen zijn bij hun geboorte donkergrijs, bruin of zwart, maar worden geleidelijk steeds lichter, tot ze op vijfjarige leeftijd volledig wit zijn.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Witte dolfijnen kunnen voor- en achteruit zwemmen!</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Witte dolfijnen kauwen hun voedsel niet; ze slikken het in zijn geheel door.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Witte dolfijnen zoeken naar voedsel vlakbij de bodem in ondiep water en eten dus doorgaans vissen die op de bodem leven.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">De nek van de witte dolfijn is erg flexibel, waardoor hij deze gemakkelijk kan bewegen terwijl hij eet. Met zijn bek kan hij ook dusdanig hard zuigen, dat hij ook dieren kan oppikken die niet willen worden opgegeten!</color>
+               </cell>                
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">De witte dolfijn komt in de modus Uitdaging of Campagne beschikbaar zodra je dierentuin een bekendheidsscore van 0,5 ster behaalt.</color>
+            <p/>De witte dolfijn is een walvis met tanden die nauw verwant is aan de dolfijn, met een karakteristieke kop en korte vinnen. Witte dolfijnen worden zwart of donkerbruin geboren zonder rugvin, en worden in ongeveer vijf jaar tijd melkachtig wit. Mannetjes kunnen maximaal 7 m lang worden en een gewicht van 1000 kg bereiken; vrouwtjes zijn wat kleiner. Witte dolfijnen reizen in scholen van enkele duizenden dieren en voeden zich met vissen, inktvissen, krabben, slakken en pijlinktvissen. Ze komen veel voor in de Noordelijke IJszee en reizen ver zuidwaarts tot de hoogte van de staat New Jersey in de Verenigde Staten en de rivier de Rijn in Europa.     
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Inhoud gebaseerd op <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft® Encarta® 2006.</color></u></a> © 19932005 Microsoft Corporation. Alle rechten voorbehouden.
+         </cell>         
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_dolphinbottlenose:entry">Tuimelaar</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_dolphinbottlenose:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/DolphinBottlenose/DolphinBottlenose_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>						 
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/vulnerable.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Status:
+                     <br/>
+                        <color r="255" g="255" b="0">
+                     Kwetsbaar
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+				 <cell width="128">
+				  <color r="255" g="255" b="255">Kust<br/></color>
+				  <img src="ui/icon_biomes/icon_coastal.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+				 </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Warme oceanen</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/pelagic_warm_oceans_worldwide.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Klasse: zoogdieren <i>(Mammalia)</i>
+                  <br/>
+                  Orde: <i>Cetacea</i>
+                  <br/>
+                  Familie: <i>Delphinidae</i>
+                  <br/>
+                  Geslacht: <i>Tursiops</i>
+                  <br/>
+                  Soort: <i>truncatus</i>
+                  </color>
+               </cell>
+				 <cell width="256" pady="10">
+				  <img src="UI/zoopedia/biome/coastal_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+				 </cell>				 
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Interessante feiten over de tuimelaar</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Tuimelaars hebben grotere hersenen dan mensen!</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Tuimelaars kunnen 6 tot 7 kg vis per dag eten.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Tuimelaars verdoven hun prooi soms met schelle klikgeluiden.</color>
+               </cell>                 
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">De tuimelaar komt in de modus Uitdaging of Campagne beschikbaar zodra je dierentuin een bekendheidsscore van 3,5 sterren behaalt.</color>
+            <p/>De tuimelaar is de meest bestudeerde en algemeen bekendste dolfijnsoort. Hij komt voor langs bijna alle tropische en gematigde kusten. Tuimelaars leven in de meeste gebieden langs de kust en leven meestal in groepen van minder dan 20. Er bestaan ook varianten die op open zee leven, en in diep water kunnen de groepen bestaan uit wel 200 tuimelaars. Sommige populaties migreren op het ritme van de seizoenen.
+            <p/>Tuimelaars hebben een kenmerkende snuit, die opvallend van de kop af staat. De dieren zijn meestal donkergrijs of zwart aan de bovenkant, met een lichtere buik. De lengte van volwassenen varieert van circa 2 m tot circa 4 m. De mannetjes zijn iets groter dan de vrouwtjes en tuimelaars die leven in koud water zijn groter dan hun soortgenoten die leven in warm water. Tuimelaars hebben een opvallende, gebogen rugvin met een dunne achterrand die gemakkelijk afrafelt. Dit karakteristieke afrafelen wordt vaak door onderzoekers gebruikt om specifieke dieren en groepen te herkennen en te volgen.
+            <p/>Tuimelaars voeden zich met veel verschillende soorten prooien, waaronder garnalen, inktvissen, andere ongewervelde dieren en vissen. Tuimelaars voeden zich door met hun neus in rotsspleten voor de kust de porren, door vissen te achtervolgen tot op modderbanken en deze op te eten wanneer ze zijn gestrand, of door in groepsverband prooi in grote hoeveelheden op de kust of naar het wateroppervlak te drijven. Tuimelaars profiteren ook van de visvaart van de mens, bijvoorbeeld door garnalenvissers te volgen voor de prooi die door de boten omhoog wordt gewoeld en voor de vangst die overboord wordt gegooid.
+            <p/>Tuimelaars zijn sociale wezens en de meest dieren lijken hun hele leven bij elkaar te blijven. Vrouwtjes zijn geslachtsrijp na 5 tot 12 jaar en mannetjes na 9 tot 13 jaar. Na een draagtijd van ongeveer 12 maanden wordt er één kalf geboren. Kalveren zogen gedurende maximaal 18 maanden. Tuimelaars communiceren met elkaar via een rijk repertoire aan fluitsignalen en raspende geluiden; sommige dieren lijken zelfs een fluitsignaal te hebben waaraan ze elkaar herkennen. Tuimelaars kunnen zelfs de kleinste voorwerpen onderscheiden door echolocatie. Hierbij verzenden ze klikken met een hoge frequentie, die worden weerkaatst door prooien en andere voorwerpen. De echoklanken die terugkomen, gebruiken ze vervolgens om de voorwerpen te onderscheiden.
+            <p/>Tuimelaars worden vaak beschouwd als de meest aanpasbare dolfijnsoort, omdat ze in veel delen van de wereld leven te midden van de industriële activiteiten rondom havens en scheepvaartkanalen. Meer recentelijk worden tuimelaars veel bekeken tijdens dolfijnspotten en andere toeristische activiteiten, en het ook is de dolfijnsoort die het vaakst te zien is in dierentuinen en zeeaquaria. Er wordt op tuimelaars gejaagd vanwege hun vlees, olie en stoffen die de vruchtbaarheid zouden bevorderen, maar hun aantal lijkt niet sterk te zijn afgenomen, behalve in de Zwarte Zee, waar vervuiling en overbevissing van de prooi van tuimelaars net zo veel schade hebben veroorzaakt als met directe jacht het geval zou zijn.      
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Inhoud gebaseerd op <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft® Encarta® 2006.</color></u></a> © 19932005 Microsoft Corporation. Alle rechten voorbehouden.
+         </cell>         
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_manateewestindian:entry">Lamantijn, Caraïbische</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_manateewestindian:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/ManateeWestIndian/ManateeWestIndian_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>						 
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/vulnerable.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Status:
+                     <br/>
+                        <color r="255" g="255" b="0">
+                     Kwetsbaar
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+				 <cell width="128">
+				  <color r="255" g="255" b="255">Kust<br/></color>
+				  <img src="ui/icon_biomes/icon_coastal.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+				 </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Atlantische Oceaan</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/coastal_carribean_atlantic_ocean.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Klasse: zoogdieren <i>(Mammalia)</i>
+                  <br/>
+                  Orde: <i>Sirenia</i>
+                  <br/>
+                  Familie: <i>Trichechidae</i>
+                  <br/>
+                  Geslacht: <i>Trichechus</i>
+                  <br/>
+                  Soort: <i>manatus</i>
+                  <br/>
+                  Ondersoort: <i>manatus</i>                  
+                  </color>
+               </cell>
+				 <cell width="256" pady="10">
+				  <img src="UI/zoopedia/biome/coastal_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+				 </cell>				 
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Interessante feiten over de Caraïbische lamantijn</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Lamantijnen hebben een uitstekend gehoor, en moeders en hun kalveren gebruiken hoge klanken om elkaar niet kwijt te raken.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Vroeger zagen zeevaarders lamantijnen op een afstand vaak aan voor zeemeerminnen.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Omdat lamantijnen zich traag voortbewegen en houden van ondiep water, zijn scheepsschroeven een van de grootste gevaren voor deze dieren.</color>
+               </cell>                 
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">De Caraïbische lamantijn komt in de modus Uitdaging of Campagne beschikbaar zodra je dierentuin een bekendheidsscore van 1,5 ster behaalt.</color>
+            <p/>De lamantijn wordt vaak een zeekoe genoemd, omdat het dier graast te midden van zeegrassen en andere waterplanten. De Caraïbische (of West-Indische) lamantijn komt voor in de rivieren en kustwateren van het zuidoosten van de Verenigde Staten en de Golf van Mexico tot de Caraïbische Zee en het noordoosten van Brazilië.
+            <p/>Een volwassen lamantijn heeft een bolvormig lichaam, meestal licht- tot donkergrijs of zwart van kleur, dat uitloopt in een horizontaal afgevlakte, ronde staart. Het dier is 2,5 tot 4,5 m lang, afhankelijk van de soort, en weegt 200 tot 600 kg. De kleine kop wordt gekenmerkt door een rechte snuit en een gespleten bovenlip met borstelige haren. De neusgaten, die zich bevinden op het bovenste gedeelte van de snuit, worden strak afgesloten door kleppen wanneer het dier onder water is. De peddelachtige voorste ledematen bevinden zich dicht bij de kop; het dier heeft geen uitwendige achterste ledematen. De lamantijn heeft een gelijkmatig verdeeld drijfvermogen vanwege zijn grote, zware botten en lange, smalle longen, die zich uitstrekken over de gehele lichaamsholte. Een lamantijn bevalt ongeveer een jaar na het paren; meestal wordt er één enkel roze kalf geboren.
+            <p/>Lamantijnen leven in kleine familiegroepen, hoewel ze af en toe ook reizen in kuddes van 15 tot 20 dieren. Ze voeden zich zowel in zoet als zout water en grazen wel zes tot acht uur per dag. Een volwassen lamantijn eet dagelijks een hoeveelheid die overeenkomt met 5 tot 10 procent van zijn eigen lichaamsgewicht. Lamantijnen hebben een tragere spijsvertering dan andere zoogdieren van een vergelijkbaar formaat, waardoor ze ook aanzienlijk minder energie nodig hebben. Dit is vooral van belang voor Amazone-lamantijnen wanneer het water zich terugtrekt na overstromingen, waardoor sommige dieren langere tijd worden ingesloten in ondiep water, ver verwijderd van de planten op de rivieroevers.
+            <p/>Vanwege hun formaat hebben lamantijnen weinig natuurlijke vijanden. Hun populatie is echter sterk afgenomen door een intensieve jacht op de huid, het vlees en de spekolie van de dieren. Daarnaast worden ze regelmatig verwond of gedood bij botsingen met boten. Pogingen om lamantijnen in Afrika en Zuid-Amerika te beschermen botsen soms met de traditionele jacht voor eigen gebruik op deze dieren. Een praktische overweging ter ondersteuning van de bescherming van deze dieren is het feit dat lamantijnen helpen rivierstromen die worden gebruikt voor irrigatie en transport, vrij te maken wanneer deze verstopt zijn geraakt door planten.
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Inhoud gebaseerd op <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft® Encarta® 2006.</color></u></a> © 1993-2005 Microsoft Corporation. Alle rechten voorbehouden.
+         </cell>         
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_marlinblue:entry">Marlijn, blauwe</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_marlinblue:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/MarlinBlue/MarlinBlue_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>						 
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Status:
+                     <br/>
+                        <color r="170" g="255" b="0">
+                     Laag risico
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+				 <cell width="128">
+				  <color r="255" g="255" b="255">Diepzee<br/></color>
+				  <img src="ui/icon_biomes/icon_pelagic.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+				 </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Atlantische Oceaan</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/pelagic_atlantic_ocean.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Klasse: Straalvinnigen <i>(Actinopterygii)</i>
+                  <br/>
+                  Orde: <i>Perciformes</i>
+                  <br/>
+                  Familie: <i>Istiophoridae</i>
+                  <br/>
+                  Geslacht: <i>Makaira</i>
+                  <br/>
+                  Soort: <i>nigricans</i>
+                  </color>
+               </cell>
+				 <cell width="256" pady="10">
+				  <img src="UI/zoopedia/biome/pelagic_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+				 </cell>				 
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Interessante feiten over de blauwe marlijn</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">De lange 'neus' van de blauwe marlijn is in feite een deel van zijn bovenkaak.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">De blauwe marlijn is de grootste marlijnsoort ter wereld.</color>
+               </cell>            
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">De blauwe marlijn komt in de modus Uitdaging of Campagne beschikbaar zodra je dierentuin een bekendheidsscore van 1 ster behaalt.</color>
+            <p/>De blauwe marlijn is bekend vanwege zijn lange, scherpe neus en zijn slanke, sikkelvormige staart. Hij eet inktvis, pijlinktvis, tonijn en makreel, en jaagt meestal solitair en overdag, waarbij hij zijn scherpe neus als wapen gebruikt. 
+            <p/>De blauwe marlijn is een echte trekvis: in de winter verplaatst hij zich richting evenaar en in de zomer hier weer vandaan, verspreid over vrijwel de gehele Atlantische Oceaan. Met zijn hydrodynamische vorm en grote kracht is de blauwe marlijn een van de snelste zwemmers in de oceaan. Sommige wetenschappers beschouwen de Atlantische blauwe marlijn (Makaira nigricans) en de Indo-Pacifische blauwe marlijn (Makaira mazara) als afzonderlijke diersoorten. Andere wetenschappers beschouwen beide als één soort die verspreid voorkomt in de Atlantische Oceaan, de Stille Oceaan en de Indische Oceaan.           
+         </cell>        
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_narwhal:entry">Narwal</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_narwhal:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/Narwhal/Narwhal_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/Narwhal/Narwhal_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>							 
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>						 
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/vulnerable.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Status:
+                     <br/>
+                        <color r="255" g="255" b="0">
+                     Kwetsbaar
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+				 <cell width="128">
+				  <color r="255" g="255" b="255">Toendra<br/></color>
+				  <img src="ui/icon_biomes/icon_tundra.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+				 </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Noordelijke IJszee</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/tundra_arctic_ocean.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Klasse: zoogdieren <i>(Mammalia)</i>
+                  <br/>
+                  Orde: <i>Cetacea</i>
+                  <br/>
+                  Familie: <i>Monodontidae</i>
+                  <br/>
+                  Geslacht: <i>Monodon</i>
+                  <br/>
+                  Soort: <i>monoceros</i>
+                  </color>
+               </cell>
+				 <cell width="256" pady="10">
+				  <img src="UI/zoopedia/biome/tundra_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+				 </cell>				 
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Interessante feiten over de narwal</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Narwals blijven meestal het hele jaar door ten noorden van de poolcirkel, maar er zijn enkele gevallen bekend van exemplaren die zuidelijk zijn afgedwaald tot aan de Middellandse Zee.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">De oude Vikingen maakten andere mensen wijs dat de slagtanden van narwals afkomstig waren van eenhoorns.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">De naam narwal is afkomstig van de oud-Noorse woorden voor 'lijk-walvis'.</color>
+               </cell>               
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">De narwal komt in de modus Uitdaging of Campagne beschikbaar zodra je dierentuin een bekendheidsscore van 3 sterren behaalt.</color>
+            <p/>De narwal is een walvis met een robuust lichaam en tanden, die alleen voorkomt in de diepe wateren van het hoge noordpoolgebied, meestal in de buurt van drijfijs. Hij is nauw verwant aan de witte dolfijn. Narwals zijn zwart-wit gevlekt. De vrouwtjes kunnen tot 4,2 m lang worden en de mannetjes tot 4,7 m. Narwals hebben maar twee tanden, beide in de bovenkaak. De linkertand van een volwassen mannetje blijft groeien en draait in een spiraal van de kop af, tot de slagstand maximaal 3 m lang is. Als je deze slagtand meetelt, kan de totale lichaamslengte van een ouder mannetje wel bijna 8 m bedragen.
+            <p/>Narwals komen vaak voor in kleine groepen van ongeveer 12 dieren, die weer deel uitmaken van grotere kuddes. Ze migreren op het ritme van de seizoenen, naarmate de ijsgrens verschuift, en zijn te vinden in de buurt van opvallend dik ijs. Hun dieet bestaat uit vis, inktvis en garnalen. De leden van een kudde kunnen zich opsplitsen in afzonderlijke groepen op basis van leeftijd en geslacht, vooral tijdens het trekken. Als dit het geval is, zijn de groepen bijna volwassen of volwassen mannetjes gemakkelijk te herkennen aan de grootte van hun slagtanden.
+            <p/>De sociale structuur van narwals is onbekend, hoewel onderzoekers van mening zijn dat mannetjes indruk op elkaar maken of met elkaar vechten om de vrouwtjes. Er is wel eens waargenomen dat mannetjes hun slagtanden gebruiken om te vechten met andere mannetjes op of boven het wateroppervlak, en soms zijn er mannetjes te zien met gedeeltelijk afgebroken slagtanden of met slagtanden die vastzitten in hun lichaam. Het komt waarschijnlijk echter minder vaak voor dat het ene mannetje het andere doorboort. Een volwassen vrouwtje kan één keer in de drie jaar bevallen. De draagtijd is ongeveer 15 maanden en in de zomer wordt er dan één kalf geboren.
+            <p/>Eskimo's en enkele andere volkeren in het noorden van Europa jagen op narwals vanwege hun huid, vlees, spek en vooral hun slagtanden. De slagtanden worden gebruikt als versiering, zowel in hun geheel als gegraveerd, en wordt soms vermaald tot poeder wegens de vermeende geneeskrachtige werking. Hoewel de diersoort niet bedreigd lijkt te zijn, kunnen populaties worden beperkt door lokale overmatige jacht op narwals en hun voedselbronnen.
+         </cell>            
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Inhoud gebaseerd op <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft® Encarta® 2006.</color></u></a> © 1993-2005 Microsoft Corporation. Alle rechten voorbehouden.            
+         </cell>        
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_ottersea:entry">Zeeotter</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_ottersea:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/OtterSea/OtterSea_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>							 
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>						 
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/endangered.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Status:
+                     <br/>
+                        <color r="255" g="155" b="0">
+                     Bedreigd
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+				 <cell width="128">
+				  <color r="255" g="255" b="255">Kust<br/></color>
+				  <img src="ui/icon_biomes/icon_coastal.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+				 </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Noordkust Stille Oceaan</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/coastal_north_pacific_coasts.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Klasse: zoogdieren <i>(Mammalia)</i>
+                  <br/>
+                  Orde: <i>Carnivora</i>
+                  <br/>
+                  Familie: <i>Mustelidae</i>
+                  <br/>
+                  Geslacht: <i>Enhydra</i>
+                  <br/>
+                  Soort: <i>lutris</i>                
+                  </color>
+               </cell>
+				 <cell width="256" pady="10">
+				  <img src="UI/zoopedia/biome/coastal_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+				 </cell>				 
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Interessante feiten over de zeeotter</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">De otter is het kleinste zeezoogdier.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Zeeotters kunnen wel 6 minuten onder water blijven.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Soms drijven zeeotters op hun rug en gebruiken rotsen om schaaldieren open te breken op hun borst.</color>
+               </cell>                 
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">De zeeotter komt in de modus Uitdaging of Campagne beschikbaar zodra je dierentuin een bekendheidsscore van 2,5 sterren behaalt.</color>
+            <p/>De zeeotter komt van oorsprong voor langs de Amerikaanse en Aziatische kusten van het noordelijke deel van de Stille Oceaan. Hij lijkt qua uiterlijk en gewoonten in het water op de Europees-Aziatische en Noord-Amerikaanse otters, heeft een stevige bouw en kan 1 tot 1,2 m lang worden. Zeeotters voeden zich hoofdzakelijk met weekdieren en zee-egels, die ze openbreken met hun grote, botte tanden. Zeeotters gebruiken ook regelmatig rotsen als gereedschap om schaaldieren open te breken terwijl ze op hun rug zwemmen. Het vrouwtje bevalt telkens van één jong, dat ze zoogt terwijl ze op haar rug in het water ligt. De zeeotter is het enige zeezoogdier dat geen isolerende blubber- of speklaag heeft, die dient als bescherming tegen het ijskoude oceaanwater. Als compensatie voor het ontbreken van deze blubberlaag, moet de zeeotter voortdurend zijn vacht strijken, zodat deze onberispelijk schoon blijft en een isolerende luchtlaag tegen de huid aan wordt ingesloten. Wanneer ze bevuild raken met olie, kunnen zeeotters zichzelf niet meer beschermen tegen het koude oceaanwater, omdat de olie de vacht bedekt, waardoor de isolerende luchtruimte niet kan worden gevormd. Bovendien krijgt de zeeotter de olie ook binnen wanneer hij zijn vacht schoonmaakt, waardoor hij meestal ziek wordt en sterft.
+            <p/>De pels van de zeeotter is een van de meest bijzondere vachten die er bestaan. De bruine binnenvacht is zacht, dicht en wollig en wordt bedekt door de ruwere en langere haren met grijze uiteinden van de buitenvacht. Ooit kwamen zeeotters in grote getalen voor, tot ze in de eerste helft van de 20e eeuw als gevolg van de jacht bijna waren uitgestorven. De hierop volgende beschermende maatregelen hebben ervoor gezorgd dat ze weer in grotere getalen voorkomen langs de kust van Californië en Alaska.
+         </cell>
+			<p/>
+         <cell width="260"/>
+         <cell width="620">Inhoud gebaseerd op <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft® Encarta® 2006.</color></u></a> © 1993-2005 Microsoft Corporation. Alle rechten voorbehouden.
+         </cell>                  
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_penguinrockhopper:entry">Rotsspringer</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_penguinrockhopper:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/PenguinRockhopper/PenguinRockhopper_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/PenguinRockhopper/PenguinRockhopper_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>							 
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>						 
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/vulnerable.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Status:
+                     <br/>
+                        <color r="255" g="255" b="0">
+                     Kwetsbaar
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+				 <cell width="128">
+				  <color r="255" g="255" b="255">Kust<br/></color>
+				  <img src="ui/icon_biomes/icon_coastal.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+				 </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Antarctische eilanden</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/coastal_southern_ocean_islands.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Klasse: Vogels <i>Aves</i>
+                  <br/>
+                  Orde: <i>Sphenisciformes</i>
+                  <br/>
+                  Familie: <i>Spheniscidae</i>
+                  <br/>
+                  Geslacht: <i>Eudyptes</i>
+                  <br/>
+                  Soort: <i>chrysocome</i>
+                  </color>
+               </cell>
+				 <cell width="256" pady="10">
+				  <img src="UI/zoopedia/biome/coastal_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+				 </cell>				 
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Interessante feiten over de tuimelaar</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Vrouwelijke rotsspringers leggen normaal gesproken twee eieren in een broedseizoen, maar er wordt slechts één ei uitgebroed.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Rotsspringers worden gemiddeld tien jaar oud.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Om een partner voor zich te winnen schudden mannetjes hun koppen om de aandacht te vestigen op hun kuif met gele veren.</color>
+               </cell>                 
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">De rotsspringer komt in de modus Uitdaging of Campagne beschikbaar zodra je dierentuin een bekendheidsscore van 2 sterren behaalt.</color>
+            <p/>Rotsspringers danken hun naam aan hun gespring van en naar de rotsblokken op de rotsachtige eilanden waarop ze leven. Dit is een sub-Antarctische pinguïnsoort, die dus hoofdzakelijk te vinden is op zuidelijke eilanden zoals de Falklandeilanden, het Macquarie-eiland, Australië en Nieuw-Zeeland.
+            <p/>Rotsspringers hebben een fraaie, opvallende kuif en bloedrode ogen, en zijn zo agressief als je op basis van hun intense starende blik mag verwachten. Ze vechten vaak om de beste nestplaatsen op het rotsachtige terrein. Het zijn kleine pinguïns, maar dankzij hun krachtige poten met zwemvliezen en hun vinnen, zijn het voortreffelijke zwemmers en jagers.
+				<p/>Rotsspringers jagen op lantaarnvissen, krill en soms ook op kleine inktvissen. Ze zijn zelf een prooi voor blauwe haaien, zeeluipaarden en pelsrobben. Daarnaast vallen hun eieren en kuikens op het land vaak ten prooi aan meeuwen en andere vogels.
+				<p/>Omdat ze hun nesten maken langs rotsachtige kustlijnen, is hun vermogen om vanuit het water op de rotsen te springen een belangrijke vaardigheid om te overleven.  
+         </cell>        
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_raymanta:entry">Reuzenmanta</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_raymanta:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/RayManta/RayManta_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>						 
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Status:
+                     <br/>
+                        <color r="170" g="255" b="0">
+                     Laag risico
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+				 <cell width="128">
+				  <color r="255" g="255" b="255">Rif<br/></color>
+				  <img src="ui/icon_biomes/icon_reef.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+				 </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Warme oceanen</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/reef_warm_oceans_worldwide.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Klasse: Kraakbeenvissen <i>(Chondrichthyes)</i>
+                  <br/>
+                  Orde: <i>Myliobatiformes</i>
+                  <br/>
+                  Familie: <i>Mobulidae</i>
+                  <br/>
+                  Geslacht: <i>Manta</i>
+                  <br/>
+                  Soort: <i>birostris</i>
+                  </color>
+               </cell>
+				 <cell width="256" pady="10">
+				  <img src="UI/zoopedia/biome/reef_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+				 </cell>				 
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Interessante feiten over de reuzenmanta</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Evenals sommige walvissen zijn reuzenmanta's voedselfilterende dieren, die minuscule organismen en kleine vissen verzamelen tijdens het zwemmen.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Omdat reuzenmanta's zo groot zijn, vormen alleen grote haaien een bedreiging voor deze dieren.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">De reuzenmanta is de grootste roggensoort ter wereld.</color>
+               </cell>                 
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">De reuzenmanta komt in de modus Uitdaging of Campagne beschikbaar zodra je dierentuin een bekendheidsscore van 0,5 ster behaalt.</color>
+            <p/>Reuzenmanta's komen voor in gematigde en tropische wateren nabij continenten en eilandgroepen in alle oceanen. Deze kraakbeenvissen, ook duivelsroggen en zeevleermuizen genoemd, hebben enorme uitgestrekte, vleugelachtige borstvinnen. De grootste soort, de Atlantische manta, kan wel 7 m lang worden van het ene uiteinde van de vin tot het andere. De twee vooruitwijzende kwabben aan weerszijde van de kop, die zouden lijken op de hoorns van een duivel, worden gebruikt om plankton en kleine schaaldieren in de mond van de vis te leiden terwijl deze vlakbij het oppervlak rondzwemt; het plankton wordt door dichte kieuwzeven tegengehouden. De vis is ongevaarlijk voor mensen, maar als hij wordt gevangen, kan hij gevaarlijk uithalen.
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Inhoud gebaseerd op <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft® Encarta® 2006.</color></u></a> © 1993-2005 Microsoft Corporation. Alle rechten voorbehouden.
+         </cell>         
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_sealioncalifornia:entry">Zeeleeuw, Californische</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_sealioncalifornia:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/SeaLionCalifornia/SeaLionCalifornia_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/SeaLionCalifornia/SeaLionCalifornia_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>							 
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>						 
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Status:
+                     <br/>
+                        <color r="170" g="255" b="0">
+                     Laag risico
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+				 <cell width="128">
+				  <color r="255" g="255" b="255">Kust<br/></color>
+				  <img src="ui/icon_biomes/icon_coastal.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+				 </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Oostkust Stille Oceaan</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/coastal_east_pacific_coast.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Klasse: zoogdieren <i>(Mammalia)</i>
+                  <br/>
+                  Orde: <i>Carnivora</i>
+                  <br/>
+                  Familie: <i>Otariidae</i>
+                  <br/>
+                  Geslacht: <i>Zalophus</i>
+                  <br/>
+                  Soort: <i>californianus</i>
+
+                  </color>
+               </cell>
+				 <cell width="256" pady="10">
+				  <img src="UI/zoopedia/biome/coastal_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+				 </cell>				 
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Interessante feiten over de Californische zeeleeuw</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Californische zeeleeuwen komen niet alleen voor in Californië! Hun territorium strekt zich uit langs vrijwel de gehele Noord-Amerikaanse kust van de Stille Oceaan. Er zijn zelfs exemplaren aangetroffen in het zuiden van de Japanse Zee.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">De leeftijd van een Californische zeeleeuw kan worden bepaald door de ringen op de dwarsdoorsneden van zijn tanden te tellen. De oudste Californische zeeleeuw in gevangenschap is 31 jaar oud geworden.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Californische zeeleeuwen zijn zeer flexibele eters. Hun dieet verandert afhankelijk van wat er beschikbaar is in hun directe omgeving.</color>
+               </cell>                 
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">De Californische zeeleeuw komt in de modus Uitdaging of Campagne beschikbaar zodra je dierentuin een bekendheidsscore van 1,5 ster behaalt.</color>
+            <p/>De Californische zeeleeuw is een intelligente, slanke zeehond die bekend staat om zijn balanceertrucs in het circus en te vinden is in bijna elke dierentuin. Door zijn sociale persoonlijkheid, opmerkelijke snelheid en behendigheid op het land, plus zijn levendige blafachtige geluiden is deze zeehond makkelijk te trainen en aantrekkelijk om te zien voor een menselijk publiek. In het wild komen deze kustbewoners voor langs grote delen van de Noord-Amerikaanse westkust. Er zijn ook enkele populaties te vinden op de Galápagos-eilanden.
+            <p/>
+            Volwassen mannetjes, bullen genoemd, hebben gemiddeld een gewicht van 360 kg en een lengte van 2,1 m. Vrouwtjes zijn kleiner, met een gemiddeld gewicht van 110 kg en een gemiddelde lengte van 1,8 m. Beide geslachten hebben een chocoladebruine vacht en een hondachtige snuit. De mannetjes hebben een uitstekend voorhoofd, wat wordt veroorzaakt door een inwendige beenrand waarin zijn krachtige kauwspieren zijn verankerd. Californische zeeleeuwen eten inktvis en octopus, plus een groot aantal vissoorten: haring, schorpioenvis, makreel, ansjovis en lamprei. Ze jagen in ondiepe wateren en concurreren vaak rechtstreeks met een nauwverwante soort, de Stellerzeeleeuw.
+            <p/>
+            Begin juni bakenen de bullen hun paringsterritorium (of kolonie) af op zandachtige of rotsachtige kusten. Elke bul paart met een harem die bestaat uit vijf tot twintig vrouwtjes. Bullen verdedigen hun harem en territorium met aanzienlijk veel energie en strategie. Ze bewaken het gebied op land en in het water, waarbij ze luid blaffen en poses aannemen richting indringers. Soms vechten ze zelfs met mannetjes die hun gebied binnendringen.
+            <p/>
+            Elke vrouwtje bevalt in de kolonie van één jong, ongeveer een jaar na de bevruchting. De moeders en pasgeborenen leren al snel elkaars roep herkennen; een moeder onthoudt ook de geur van haar jong. Een moeder neemt haar jong al vroeg mee naar het water en zoogt het lange tijd (vaak een jaar of meer), waardoor een hechte band ontstaat. Naarmate de jongen groeien, vormen ze groepen die samen spelen, eten en dutjes doen in de luidruchtige kolonie. Wanneer de jongen twee tot drie weken oud zijn, gaan de vrouwtjes weer paren. De vrouwtjes blijven in de buurt van de kolonie, vaak op de stranden van afgelegen eilanden, terwijl de mannetjes in de zomer en herfst na de paartijd naar het noorden trekken.
+            <p/>
+            Als kustwezens zijn Californische zeeleeuwen bijzonder kwetsbaar voor giftige verontreinigende stoffen en verstoring van hun habitat door de mens. Ze vallen ten prooi aan haaien en zwaardwalvissen, en in het verleden werd er ook door de mens op ze gejaagd. Deze dieren worden in de Amerikaanse wateren beschermd tegen jacht en mishandeling sinds in 1972 de Marine Mammal Protection Act werd aangenomen. Toch verdronken er aan het begin van de jaren '80 nog 1500 dieren per jaar, nadat ze verstrikt waren geraakt in haringnetten. Recente pogingen om de visvangst met haringnetten in de Californische wateren te reguleren en beperken, hebben geleid tot minder sterfgevallen.
+         </cell>
+			<p/>
+         <cell width="260"/>
+         <cell width="620">Inhoud gebaseerd op <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft® Encarta® 2006.</color></u></a> © 1993-2005 Microsoft Corporation. Alle rechten voorbehouden.
+         </cell>                  
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_sharkreefblacktip:entry">Zwartpuntrifhaai</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_sharkreefblacktip:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/SharkReefBlackTip/SharkReefBlackTip_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>						 
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Status:
+                     <br/>
+                        <color r="170" g="255" b="0">
+                     Laag risico
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+				 <cell width="128">
+				  <color r="255" g="255" b="255">Rif<br/></color>
+				  <img src="ui/icon_biomes/icon_reef.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+				 </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Indische / Stille Oceanen</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/reef_indian_pacific_oceans.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Klasse: Kraakbeenvissen <i>(Chondrichthyes)</i>
+                  <br/>
+                  Orde: <i>Carcharhiniformes</i>
+                  <br/>
+                  Familie: <i>Carcharhinidae</i>
+                  <br/>
+                  Geslacht: <i>Carcharhinus</i>
+                  <br/>
+                  Soort: <i>melanopterus</i>
+                  </color>
+               </cell>
+				 <cell width="256" pady="10">
+				  <img src="UI/zoopedia/biome/reef_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+				 </cell>				 
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Interessante feiten over de zwartpuntrifhaai</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Zwartpuntrifhaaien worden soms aangetroffen in zoet water, bijvoorbeeld in rivieren die in verbinding staan met oceanen.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Er zijn enkele gevallen bekend waarin zwartpuntrifhaaien mensen in ondiep water hebben gebeten, maar dit kwam meestal doordat een voet per ongeluk voor een vis werd aangezien. Dat beweert de haai althans.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">In gevangenschap hebben zwartpuntrifhaaien veel ruimte nodig om te zwemmen. Het is wel eens voorgekomen dat haaien uit grote aquariums sprongen wanneer mensen probeerden ze als huisdier te houden!</color>
+               </cell>                 
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">De zwartpuntrifhaai komt in de modus Uitdaging of Campagne beschikbaar zodra je dierentuin een bekendheidsscore van 3 sterren behaalt.</color>
+            <p/>De zwartpuntrifhaai is een kleine haai die tot 2 meter lang kan worden, maar meestal kleiner is dan 1,6 meter. De naam is afgeleid van de opvallende zwarte punt boven een lichtgekleurde band op zijn primaire rugvin. De haai komt meestal voor langs kustgebieden en koraalriffen. 
+            <p/>De zwartpuntrifhaai leeft hoofdzakelijk op een dieet van vis, maar met zijn gezaagde tanden kan hij ook schaaldieren (zoals krabben en kreeften) en koppotigen (zoals inktvissen en pijlinktvissen) kauwen. In de wateren voor de Australische kust eten ze ook zeer veel slangen.
+            <p/>Hoewel deze haaien niet als bedreigde diersoort worden beschouwd, worden ze wel voortdurend met uitsterven bedreigd door de combinatie van een lange draagtijd (16 maanden) en een klein aantal jongen (2 tot 4) wanneer ze zich voortplanten. Ze staan ook geregeld op het menu in restaurants.            
+         </cell>        
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_sharkgoblin:entry">Koboldhaai</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_sharkgoblin:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/SharkGoblin/SharkGoblin_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>						 
+						 <cell width="156"/>
+                  <br/>   
+					  <cell width="32" pady="0">               
+						  <img src="ui/zoopedia/vulnerable.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+					  </cell>                 
+					  <cell width="224" padx="10" pady="0">
+						  <color r="255" g="255" b="255">
+						  Status:
+						  <br/>
+							  <color r="255" g="255" b="0">
+						  Kwetsbaar
+							  </color>
+						  </color>                  
+					</cell>
+               </cell>                        
+				 <cell width="128">
+				  <color r="255" g="255" b="255">Zeebodem<br/></color>
+				  <img src="ui/icon_biomes/icon_benthic.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+				 </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Warme oceanen</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/benthic_warm_oceans_worldwide.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Klasse: Kraakbeenvissen <i>(Chondrichthyes)</i>
+                  <br/>
+                  Orde: <i>Lamniformes</i>
+                  <br/>
+                  Familie: <i>Mitsukurinidae</i>
+                  <br/>
+                  Geslacht: <i>Mitsukurina</i>
+                  <br/>
+                  Soort: <i>owstoni</i>
+                  </color>
+               </cell>
+				 <cell width="256" pady="10">
+				  <img src="UI/zoopedia/biome/benthic_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+				 </cell>				 
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Interessante feiten over de koboldhaai</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">De koboldhaai dankt zijn naam aan het feit dat hij, eerlijk is eerlijk, ontzettend lelijk is.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">De soortnaam 'owstoni' is afkomstig van Alan Owston, een Britse natuurwetenschapper uit de Victoriaanse periode.</color>
+               </cell>               
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">De koboldhaai komt in de modus Uitdaging of Campagne beschikbaar zodra je dierentuin een bekendheidsscore van 4 sterren behaalt.</color>
+            <p/>De koboldhaai is een diepwaterhaai die zelden wordt gesignaleerd in ondiepe kustwateren of elders aan het oceaanoppervlak. Zijn huid is rozeachtig wit met blauwe vinnen en hij heeft een lange, platte neus die apart uitsteekt boven zijn zeer grote bek. 
+				<p/>
+				Dit is ook een vrij grote haai. Bij mannetjes is wel eens een lengte van 3,8 m gemeten. De haai voedt zich met dieren die op de bodem leven: garnalen, inktvissen, pijlinktvissen en soms zelfs krabben. Omdat hij in diep water verblijft, komt hij in het wild bijna nooit in aanraking met mensen.
+				<p/>
+				Er wordt gedacht dat de koboldhaai overal ter wereld voorkomt. De soort is waargenomen voor de kusten van Japan, Australië en het zuiden van Afrika.
+         </cell>                
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_sharkhammerheadscalloped:entry">Hamerhaai, geschulpte</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_sharkhammerheadscalloped:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/SharkHammerheadScalloped/SharkHammerheadScalloped_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>						 
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Status:
+                     <br/>
+                        <color r="170" g="255" b="0">
+                     Laag risico
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+				 <cell width="128">
+				  <color r="255" g="255" b="255">Diepzee<br/></color>
+				  <img src="ui/icon_biomes/icon_pelagic.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+				 </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Warme oceanen</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/pelagic_warm_oceans_worldwide.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Klasse: Kraakbeenvissen <i>(Chondrichthyes)</i>
+                  <br/>
+                  Orde: <i>Carcharhiniformes</i>
+                  <br/>
+                  Familie: <i>Sphyrnidae</i>
+                  <br/>
+                  Geslacht: <i>Sphyrna</i>
+                  <br/>
+                  Soort: <i>lewini</i>
+                  </color>
+               </cell>
+				 <cell width="256" pady="10">
+				  <img src="UI/zoopedia/biome/pelagic_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+				 </cell>				 
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Interessante feiten over de geschulpte hamerhaai</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Van grote hamerhaaien, de grootste soort hamerhaaien, wordt soms beweerd dat het kannibalen zijn!</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Het reukvermogen van een hamerhaai is zo sterk dat hij zelfs een kleine hoeveelheid (één deel per miljoen) bloed in zeewater kan opmerken.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Hoewel de grotere hamerhaaien, waaronder de geschulpte hamerhaai, als zeer gevaarlijk voor de mens worden beschouwd, geldt dat niet voor de kleinere soorten.</color>
+               </cell>                 
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">De geschulpte hamerhaai komt in de modus Uitdaging of Campagne beschikbaar zodra je dierentuin een bekendheidsscore van 3,5 sterren behaalt.</color>
+            <p/>De geschulpte hamerhaai is een van de tien verwante soorten hamerhaaien die voorkomen in tropische en gematigde zeeën. Door de grote afgevlakte uitstulpingen aan zijn kop heeft deze haai een stuwkracht als van een speedboot en kan hij scherpere draaien maken dan andere haaien. Doordat de ogen en neusgaten zich bevinden aan de uiteinden van de hamerkop, is de haai ook beter in staat om zijn prooi op te sporen. De grote hamerhaai, een krachtige zwemmer met grote tanden en een lengte van meer dan 4 m, valt wel eens duikers aan. Twee andere grotere soorten die ook als gevaarlijk worden beschouwd zijn de geschulpte hamerhaai en de gladde hamerhaai. Sommige soorten, zoals de kaphamerhaai, die slechts 1 m lang wordt en veel voorkomt voor de kusten van Florida, hebben een kop in de vorm van een schop.            
+         </cell>
+			<p/>
+         <cell width="260"/>
+         <cell width="620">Inhoud gebaseerd op <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft® Encarta® 2006.</color></u></a> © 1993-2005 Microsoft Corporation. Alle rechten voorbehouden.
+         </cell>                  
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_sharkwhale:entry">Walvishaai</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_sharkwhale:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/SharkWhale/SharkWhale_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>						 
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/vulnerable.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Status:
+                     <br/>
+                        <color r="255" g="255" b="0">
+                     Kwetsbaar
+                        </color>
+                     </color>                  
+                  </cell>                  
+               </cell>                        
+				 <cell width="128">
+				  <color r="255" g="255" b="255">Zeebodem<br/></color>
+				  <img src="ui/icon_biomes/icon_benthic.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+				 </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Warme oceanen</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/benthic_warm_oceans_worldwide.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Klasse: Kraakbeenvissen <i>(Chondrichthyes)</i>
+                  <br/>
+                  Orde: <i>Orectolobiformes</i>
+                  <br/>
+                  Familie: <i>Rhiniodontidae</i>
+                  <br/>
+                  Geslacht: <i>Rhincodon</i>
+                  <br/>
+                  Soort: <i>typus</i>
+                  </color>
+               </cell>
+				 <cell width="256" pady="10">
+				  <img src="UI/zoopedia/biome/benthic_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+				 </cell>				 
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Interessante feiten over de walvishaai</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Een walvishaai vormt geen gevaar voor mensen, tenzij hij per ongeluk tegen een boot aan zwemt.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">De walvishaai voedt zich door oceaanwater in zijn bek te zuigen, de bek te sluiten en het water vervolgens via zijn kieuwzeven naar buiten te persen, waardoor kleine vissen en organismen achterblijven.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Soms hoesten walvishaaien om voedsel los te krijgen dat vast zit in hun kieuwen!</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">De walvishaaien die je adopteert in je dierentuin zijn nog niet volwassen, wat betekent dat ze nog zullen groeien. Zorg ervoor dat je de opgroeiende walvishaaien in de natuur vrijlaat voordat ze volwassen zijn, of bereid je erop voor dat je een groter bassin voor ze moet maken!</color>
+               </cell>                 
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">De walvishaai komt in de modus Uitdaging of Campagne beschikbaar zodra je dierentuin een bekendheidsscore van 4,5 sterren behaalt.</color>
+            <p/>De walvishaai is de grootste bekende vis die van nature voorkomt in tropische zeeën overal ter wereld. De walvishaai kan een lengte van meer dan 15 m bereiken en meer dan 18.000 kilo wegen. De walvishaai is diepblauw aan de bovenkant en wit aan de onderkant, waarmee hij donkerder van kleur is dan de meeste andere haaien. Zijn lichaam is verder voorzien van witte vlekken en verticale strepen. Op zijn kop en rug zitten in de lengterichting diverse brede groeven. Hij heeft een brede, afgevlakte snuit met een bek aan de voorkant, niet aan de onderkant, en in zijn kaken bevinden zich zeer veel kleine tanden. De kieuwopeningen zijn uitzonderlijk groot. De walvishaai voedt zich met kleine vissen en plankton die hij uit het zeewater filtert met zijn lange kieuwzeven; hij is ongevaarlijk voor mensen. Jonge walvishaaien komen uit bevruchte eieren in het lichaam van het vrouwtje en worden vervolgens levend geboren.          
+         </cell>        
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_sharkwhite:entry">Mensenhaai</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_sharkwhite:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/SharkWhite/SharkWhite_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>						 
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/vulnerable.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Status:
+                     <br/>
+                        <color r="255" g="255" b="0">
+                     Kwetsbaar
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+				 <cell width="128">
+				  <color r="255" g="255" b="255">Zeebodem<br/></color>
+				  <img src="ui/icon_biomes/icon_benthic.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+				 </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Kusten wereldwijd</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/benthic_coasts_worldwide.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Klasse: Kraakbeenvissen <i>(Chondrichthyes)</i>
+                  <br/>
+                  Orde: <i>Lamniformes</i>
+                  <br/>
+                  Familie: <i>Lamnidae</i>
+                  <br/>
+                  Geslacht: <i>Carcharodon</i>
+                  <br/>
+                  Soort: <i>carcharias</i>
+                  </color>
+               </cell>
+				 <cell width="256" pady="10">
+				  <img src="UI/zoopedia/biome/benthic_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+				 </cell>				 
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Interessante feiten over de zwartpuntrifhaai</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Mensenhaaien, ook wel witte haaien genoemd, zijn feitelijk alleen wit aan de onderkant. Hun rug is blauwachtig-grijs.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Mensenhaaien zijn uitstekende verticale zwemmers, waardoor ze hun prooi vaak rechtstreeks van onderen aanvallen.</color>
+               </cell>                 
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">De mensenhaai komt in de modus Uitdaging of Campagne beschikbaar zodra je dierentuin een bekendheidsscore van 5 sterren behaalt.</color>
+            <p/>De mensenhaai heeft een kegelvormige kop in plaats van een afgeplatte kop, zwarte ogen en grote, gezaagde, pijlvormige tanden. De bovenste en onderste lob van de staart zijn vrijwel even groot en het lichaam is blauw- of bruingrijs met een witte onderkant.
+				<p/>
+				Hoewel de mensenhaai berucht is als slechterik in films, is er maar weinig bekend over zijn echte gedrag. Bij Montauk, op Long Island (New York), werd in 1964 een van de grootste exemplaren ooit gevangen; deze was 5,34 m lang en woog naar schatting 2.043 kg. Mensenhaaien slikken dieren en voorwerpen die half zo groot zijn als zijzelf in zijn geheel door zonder eerst te kauwen, met name zeehonden, dolfijnen, schildpadden, andere haaien, stukken walvis, vis en afval van schepen. Tussen 1916 en 1969 vonden er 32 aanvallen op zwemmers plaats, waarvan 13 met dodelijke afloop, die werden toegeschreven aan mensenhaaien. Er zijn drie gevallen bekend van mensenhaaien die boten aanvielen, waarbij een van de boten (een sloep) zonk voor de kust van Cape Breton, in Nova Scotia (Canada). Voor de Australische kusten, waar de meeste grote soorten voorkomen, was ooit sprake van een vrouwtje dat te herkennen was aan haar littekens en dat 13 jaar lang terugkeerde.
+				<p/>
+				Hoewel de mensenhaai zeer sterk is en mensen met wie hij toevallig in aanraking komt veel schrik aanjaagt, zijn de meeste experts het er over eens dat zijn slechte reputatie onverdiend is. Sommige deskundigen geloven dat de soort wordt bedreigd wegens een afnemende voedselvoorraad en overbevissing door trofeejagers. 
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Inhoud gebaseerd op <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft® Encarta® 2006.</color></u></a> © 1993-2005 Microsoft Corporation. Alle rechten voorbehouden.
+         </cell>          
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_turtleleatherback:entry">Lederschildpad</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_turtleleatherback:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/TurtleLeatherback/TurtleLeatherback_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/TurtleLeatherback/TurtleLeatherback_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>					 
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>						 
+						 <cell width="156"/>
+                  <br/>
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/critical.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Status:
+                     <br/>
+                        <color r="255" g="0" b="0">
+                     Ernstig bedreigd
+                        </color>
+                     </color>                  
+                  </cell>                  
+               </cell>                        
+               <cell width="128">
+                  <color r="255" g="255" b="255">Diepzee<br/></color>
+                  <img src="ui/icon_biomes/icon_pelagic.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+               </cell>
+					<cell width="128">
+						<color r="255" g="255" b="255">Warme oceanen</color>
+						<br/>
+						<img src="ui/icon_maplocations/coastal_warm_oceans_worldwide.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+					</cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Klasse: reptielen <i>(Reptilia)</i>
+                  <br/>
+                  Orde: <i>Testudines</i>
+                  <br/>
+                  Familie: <i>Dermochelyidae</i>
+                  <br/>
+                  Geslacht: <i>Dermochelys</i>
+                  <br/>
+                  Soort: <i>coriacea</i>
+                  </color>
+               </cell>
+               <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/pelagic_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+               </cell>
+            </cell>
+         </cell>         
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Interessante feiten over de lederschildpad</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Vrouwelijke lederschildpadden zijn te herkennen aan de roze vlek boven op hun kop.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Er wordt niet op lederschildpadden gejaagd voor eten, omdat hun vlees giftig schijnt te zijn. De eieren worden echter wel verzameld en hierdoor wordt de soort ernstig bedreigd.</color>
+               </cell>                 
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">De lederschildpad komt in de modus Uitdaging of Campagne beschikbaar zodra je dierentuin een bekendheidsscore van 2,5 sterren behaalt.</color>
+            <p/>De lederschildpad is de grootste levende schildpadsoort. Het rugschild van de lederschildpad kan 2,4 m lang worden en meer dan 900 kg wegen. De lederschildpad komt verder naar het noorden en het zuiden voor dan andere zeeschildpadden in de Atlantische, Stille en Indische Oceaan, soms zelfs in de Middellandse Zee. Hoewel de lederschildpad veel tijd kan doorbrengen in erg koud water, kan hij zijn lichaamstemperatuur tot ver boven de watertemperatuur stabiliseren vanwege zijn grote omvang en door zijn spieren in beweging te houden. In tegenstelling tot andere zeeschildpadden heeft de lederschildpad geen grote, hoornige schubben op zijn rug- en buikschild. In plaats daarvan heeft hij een leerachtige huid met een mozaïek van kleine botjes. Er lopen zeven kenmerkende lengtekammen over het rugschild en vijf kammen over het buikschild. De schildpad is zwartachtig of blauw-zwart van kleur, meestal met kleine, onregelmatige witte of roze vlekken. De ledematen zijn sterk en hebben de vorm van een peddel, zodat de schildpad over lange afstanden kan zwemmen; de voorste ledematen zijn vrij groot, vooral bij de jongen. Mannetjes brengen hun volwassen leven in zee door; vrouwtjes gaan alleen aan land om eieren te leggen op het strand. Lederschildpadden zijn niet eetbaar en hun vlees bevat zeer veel olie. Ze eten hoofdzakelijk kwallen, maar ook zeewier, zee-egels, pijlinktvissen en weekdieren.
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Inhoud gebaseerd op <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft® Encarta® 2006.</color></u></a> © 1993-2005 Microsoft Corporation. Alle rechten voorbehouden.
+         </cell>         
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_turtleseagreen:entry">Zeeschildpad, groene</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_turtleseagreen:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/TurtleSeaGreen/TurtleSeaGreen_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/TurtleSeaGreen/TurtleSeaGreen_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>						 
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>						 
+                  <br/>                   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/endangered.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Status:
+                     <br/>
+                        <color r="255" g="155" b="0">
+                     Bedreigd
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+               <cell width="128">
+                  <color r="255" g="255" b="255">Kust<br/></color>
+                  <img src="ui/icon_biomes/icon_coastal.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+               </cell>
+					<cell width="128">
+						<color r="255" g="255" b="255">Warme oceanen</color>
+						<br/>
+						<img src="ui/icon_maplocations/coastal_warm_oceans_worldwide.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+					</cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Klasse: reptielen <i>(Reptilia)</i>
+                  <br/>
+                  Orde: <i>Testudines</i>
+                  <br/>
+                  Familie: <i>Cheloniidae</i>
+                  <br/>
+                  Geslacht: <i>Chelonia</i>
+                  <br/>
+                  Soort: <i>mydas</i>
+                  </color>
+               </cell>
+               <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/coastal_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+               </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Interessante feiten over de groene zeeschildpad</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">De groene zeeschildpad is de grootste zeeschildpad met een hard schild ter wereld. De lederschildpad is groter, maar heeft geen hard schild.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Jonge groene zeeschildpadden gebruiken een zogenaamde 'eitand' om hun ei aan het eind van de broedtijd open te breken.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Zodra de jonge zeeschildpadden uit hun ei komen, beginnen ze hun poten te bewegen. Hierdoor komen ze omhoog uit het zand waarin hun ei ligt begraven, waarna de jongen naar het water kruipen en wegzwemmen.</color>
+               </cell>                
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">De groene zeeschildpad komt in de modus Uitdaging of Campagne beschikbaar zodra je dierentuin een bekendheidsscore van 1ster behaalt.</color>
+            <p/>De groene zeeschildpad is een grote schildpad die zijn naam dankt aan de kleur van zijn vet, hoewel het dier zelf overal bruinachtig is. Met snelheden tot 32 km per uur is dit de snelst zwemmende schildpad. De groene zeeschildpad komt voor in alle warme zeeën en is soms in de zomer ook te vinden langs de noordelijke kusten van de Atlantische Oceaan bij de Verenigde Staten en Europa. Het schild van een volwassen exemplaar kan meer dan 1 m lang worden en het dier kan meer dan 180 kg wegen. Deze schildpad onderscheidt zich van andere zeeschildpadden door een paar grote platen boven op zijn kop tussen zijn ogen, een relatief glad schild zonder kammen en slechts vier grote, niet-overlappende platen aan elke zijde van zijn schild. Mannetjes verlaten de zee nooit; vrouwtjes alleen om eieren te leggen. 's Nachts leggen zij, buiten het bereik van de zee, soms wel 200 eieren in het zand. De jongen worden uitgebroed door de warmte van de zon en kruipen al snel terug naar zee. Groene zeeschildpadden zijn omnivoren, maar eten hoofdzakelijk zeevegetatie. Ze zijn zeer populair bij schildpadjagers, omdat hun kalfachtige vlees een delicatesse is die wordt gebruikt voor schildpadsoep en schildpadbiefstuk; ook de eieren worden graag gegeten. Wegens de overmatige jacht neemt het aantal groene zeeschildpadden snel af.
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Inhoud gebaseerd op <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft® Encarta® 2006.</color></u></a> © 1993-2005 Microsoft Corporation. Alle rechten voorbehouden.
+         </cell>         
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_walruspacific:entry">Walrus, Pacifische</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_walruspacific:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/WalrusPacific/WalrusPacific_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/WalrusPacific/WalrusPacific_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>						 
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>						 
+						 <cell width="156"/>
+                  <br/>                   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/vulnerable.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Status:
+                     <br/>
+                        <color r="255" g="255" b="0">
+                     Kwetsbaar
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+				 <cell width="128">
+				  <color r="255" g="255" b="255">Toendra<br/></color>
+				  <img src="ui/icon_biomes/icon_tundra.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+				 </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Noordelijke IJszee</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/tundra_arctic_ocean.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Klasse: zoogdieren <i>(Mammalia)</i>
+                  <br/>
+                  Orde: <i>Carnivora</i>
+                  <br/>
+                  Familie: <i>Odobenidae</i>
+                  <br/>
+                  Geslacht: <i>Odobenus</i>
+                  <br/>
+                  Soort: <i>rosmarus</i>
+                  <br/>
+                  Ondersoort: <i>divergens</i>                  
+                  </color>
+               </cell>
+				 <cell width="256" pady="10">
+				  <img src="UI/zoopedia/biome/tundra_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+				 </cell>				 
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Interessante feiten over de Pacifische walrus</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">De naam is afgeleid van de oud-Noorse woorden 'hvall-hross' (walvispaard).</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Walrussen gebruiken soms hun slagtanden als haken om op het ijs te kunnen klimmen!</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">De walrus eet het liefst schelpdieren.</color>
+               </cell> 
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Om schelpdieren los te wrikken van de oceaanbodem, blazen walrussen ze soms los met een waterstraal.</color>
+               </cell>       
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">De Pacifische walrus komt in de modus Uitdaging of Campagne beschikbaar zodra je dierentuin een bekendheidsscore van 4,5 sterren behaalt.</color>
+            <p/>De walrus is een groot zeezoogdier dat voorkomt in de arctische gebieden aan de rand van het poolijs, langs de noordoostelijke kusten van Canada en Siberië, Kamtsjatka, de noordwestelijke kust van Alaska, Groenland, noordelijk Noorwegen en Ellesmere-eiland. Er zijn twee soorten walrussen: de Atlantische walrus en de Pacifische walrus.
+            <p/>Evenals oorrobben kunnen walrussen hun achterste ledematen naar voor draaien en zodoende alle vier hun ledematen gebruiken wanneer ze zich op het land voortbewegen. Walrussen worden 2,7 tot 3,56 m lang en wegen 800 tot 1700 kg; de mannetjes zijn groter dan de vrouwtjes. Zowel de mannetjes als de vrouwtjes hebben kolossale lichamen met een dikke, gerimpelde, harige huid die bijna kaal wordt naarmate ze ouder worden. Ze hebben beide een relatief smalle kop zonder uitwendige oren; de locatie van de oren is te herkennen aan een huidplooi. Walrussen hebben brede, borstelachtige snuiten en de enorme verlengde hondachtige boventanden vormen zware slagtanden. De slagtanden (die bij sommige mannetjes ongeveer 1 m lang zijn) worden gebruikt als wapens bij gevechten en als haken om op het ijs te klimmen. Hoewel ooit werd gedacht dat de slagtanden ook werden gebruikt om op de oceaanbodem schelp- en schaaldieren te verzamelen (het belangrijkste voedsel van walrussen), is nu de algemene mening dat de gevoelige snorharen en vlezige snuit een hoofdrol spelen in het opsporen en verwijderen van hun prooi van de oceaanbodem.
+            <p/>Walrussen zijn zeer sociale dieren die samenleven in kuddes (die soms wel uit enkele duizenden dieren bestaan) op of voor de kust, of tussen de ijsschotsen. Het gebrul van een kudde is over grote afstanden hoorbaar. Walrussen zijn vriendelijk tenzij ze worden aangevallen. Als een lid van de kudde in gevaar is, komt de hele kudde te hulp. IJsberen zijn de belangrijkste natuurlijke vijand van de walrus, en mensen jagen op het dier voor zijn kostbare ivoren slagtanden en zijn vlees en blubber. De wereldwijde populatie is sterk gedaald als gevolg van de intensieve jacht.
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Inhoud gebaseerd op <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft® Encarta® 2006.</color></u></a> © 1993-2005 Microsoft Corporation. Alle rechten voorbehouden.
+         </cell>         
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_whalefalsekiller:entry">Kleine zwaardwalvis</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_whalefalsekiller:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/WhaleFalseKiller/WhaleFalseKiller_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>						 
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Status:
+                     <br/>
+                        <color r="170" g="255" b="0">
+                     Laag risico
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+				 <cell width="128">
+				  <color r="255" g="255" b="255">Kust<br/></color>
+				  <img src="ui/icon_biomes/icon_coastal.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+				 </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Kusten wereldwijd</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/coastal_coasts_worldwide.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Klasse: zoogdieren <i>(Mammalia)</i>
+                  <br/>
+                  Orde: <i>Cetacea</i>
+                  <br/>
+                  Familie: <i>Delphinidae</i>
+                  <br/>
+                  Geslacht: <i>Pseudorca</i>
+                  <br/>
+                  Soort: <i>crassidens</i>
+                  </color>
+               </cell>
+				 <cell width="256" pady="10">
+				  <img src="UI/zoopedia/biome/coastal_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+				 </cell>				 
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Interessante feiten over de kleine zwaardwalvis</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">De kleine zwaardwalvis is in feite een soort dolfijn. Het is helemaal geen walvis!</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">De kleine zwaardwalvis is zeer speels en nadert zelfs wel eens boten op de oceaan.</color>
+               </cell>                 
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">De kleine zwaardwalvis komt in de modus Uitdaging of Campagne beschikbaar zodra je dierentuin een bekendheidsscore van 4 sterren behaalt.</color>
+            <p/>De kleine zwaardwalvis dankt zijn naam uiteraard aan zijn misleidende gelijkenis met de gewone zwaardwalvis (of orka). De schedels van beide dieren lijken inderdaad op elkaar, maar biologisch gezien zijn ze niet nauw aan elkaar verwant. Ze hebben ook vergelijkbare kleuren, zij het met andere patronen: de kleine zwaardwalvis is voornamelijk zwart of donkergrijs, met enkel een witte vlek aan de onderkant. De orka heeft ook op veel andere plaatsen van zijn lichaam witte vlekken.
+            <p/>De kleine zwaardwalvis komt overal ter wereld voor in gematigde en tropische wateren, maar komt op geen enkele specifieke plaats in grote getalen voor. Hij eet veel soorten vis, waaronder zalm, inktvis, tonijn, makreel en mahimahi.
+            <p/>Kleine zwaardwalvissen zijn zeer sociaal en reizen in grote groepen. Groepen met minder dan 100 dieren worden beschouwd als kleine groepen en zijn de reden dat de walvissen gevaar lopen om 'genetisch uitgestorven' te raken, omdat ze genetisch zo sterk op elkaar lijken dat zich weldra de problemen van inteelt zullen voordoen. 
+         </cell>      
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_whaleorca:entry">Orka</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_whaleorca:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/WhaleOrca/WhaleOrca_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/WhaleOrca/WhaleOrca_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>						 
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>						 
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Status:
+                     <br/>
+                        <color r="170" g="255" b="0">
+                     Laag risico
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+				 <cell width="128">
+				  <color r="255" g="255" b="255">Toendra<br/></color>
+				  <img src="ui/icon_biomes/icon_tundra.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+				 </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Koude oceanen van de wereld</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/tundra_arctic_antarctic_oceans.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Klasse: zoogdieren <i>(Mammalia)</i>
+                  <br/>
+                  Orde: <i>Cetacea</i>
+                  <br/>
+                  Familie: <i>Delphinidae</i>
+                  <br/>
+                  Geslacht: <i>Orcinus</i>
+                  <br/>
+                  Soort: <i>orca</i>
+                  </color>
+               </cell>
+				 <cell width="256" pady="10">
+				  <img src="UI/zoopedia/biome/tundra_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+				 </cell>				 
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Interessante feiten over de orka</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Orka's geven erg veel om hun jongen. De moeder zorgt samen met veel van de opgroeiende vrouwtjes uit de groep voor de jongen.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Elke orkagroep heeft een eigen geluidendialect.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Orka's worden in het Engels ook wel 'killer whales' genoemd omdat ze jagen op allerlei zeedieren, waaronder enkele grotere walvissen. Ze vallen echter geen mensen aan.</color>
+               </cell>                 
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">De orka komt in de modus Uitdaging of Campagne beschikbaar zodra je dierentuin een bekendheidsscore van 5 sterren behaalt.</color>
+            <p/>De orka, of zwaardwalvis, is een zeezoogdier en het grootste lid van de dolfijnenfamilie. De orka wordt in het Engels 'killer whale' genoemd wegens zijn enorme eetlust: hij eet vissen, zeevogels, zeeschildpadden en zeezoogdieren. Deze naam kan echter zorgen voor verwarring. De orka is lid van de dolfijnfamilie der Delphinidae.
+            <p/>Orka's hebben een duidelijke sociale structuur die wordt gevormd rond het dominante vrouwtje. Ze gebruiken hoofdzakelijk geluid om te communiceren en om hun prooi te vinden. Dit zijn onder andere klikgeluiden, schreeuwen, fluitgeluiden en gepulseerde roepen.
+            <p/>Orka's komen op meer plaatsen ter wereld voor dan alle andere zeezoogdieren. Ze leven in alle oceanen, zowel op open zee als dicht bij de kust. Ze komen vaker voor in koude wateren, maar worden ook waargenomen in de warmere wateren van de Bahamas, de Caraïben en Hawaï. Er zijn zelfs wel eens orka's gesignaleerd in sommige rivieren.
+            <p/>De meedogenloze eetgewoonten van de orka hebben lange tijd gezorgd voor zowel angst als respect voor het dier in veel inheemse volkeren, met name de indianen aan de noordwestkust van de Stille Oceaan. De Tlingit-, Kwakiutl- en Haida-stammen verwerken afbeeldingen van het dier in hun totemkunst, en illustraties van de orka zijn terug te vinden op maskers, schalen, helmen en dekens. Ondanks zijn kwaadaardige reputatie geloven sommige culturen, zoals de Tlingit, dat de orka een vriendelijke bewaker van het voedsel in de oceaan is. Zij geloven dat de aanwezigheid van orka's mensen helpt om grote visvangsten binnen te halen.
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Inhoud gebaseerd op <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft® Encarta® 2006.</color></u></a> © 1993-2005 Microsoft Corporation. Alle rechten voorbehouden.
+         </cell>         
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_whalepilotshortfinned:entry">Kortflipper- griend</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_whalepilotshortfinned:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/WhalePilotShortFinned/WhalePilotShortFinned_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/WhalePilotShortFinned/WhalePilotShortFinned_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>
+						 <cell width="16">						
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>						 
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Status:
+                     <br/>
+                        <color r="170" g="255" b="0">
+                     Laag risico
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+				 <cell width="128">
+				  <color r="255" g="255" b="255">Diepzee<br/></color>
+				  <img src="ui/icon_biomes/icon_pelagic.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+				 </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Warme oceanen</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/pelagic_warm_oceans_worldwide.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Klasse: zoogdieren <i>(Mammalia)</i>
+                  <br/>
+                  Orde: <i>Cetacea</i>
+                  <br/>
+                  Familie: <i>Delphinidae</i>
+                  <br/>
+                  Geslacht: <i>Globicephala</i>
+                  <br/>
+                  Soort: <i>macrorhynchus</i>
+                  </color>
+               </cell>
+				 <cell width="256" pady="10">
+				  <img src="UI/zoopedia/biome/pelagic_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+				 </cell>				 
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Interessante feiten over de kortflippergriend</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Kortflippergrienden zijn feitelijk dolfijnen!</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">De jongen van de kortflippergriend worden verzorgd door hun moeder en door alle andere leden van de groep.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Kortflippergrienden vormen soms jaaggroepen die lijken te opereren volgens een heuse choreografie, waarbij ze zij aan zij een rij vormen van wel 4 km breed!</color>
+               </cell>                 
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">De kortflippergriend komt in de modus Uitdaging of Campagne beschikbaar zodra je dierentuin een bekendheidsscore van 2 sterren behaalt.</color>
+            <p/>De kortflippergriend is in feite een soort uit de dolfijnenfamilie. De kortflippergriend komt voor in tropische en warme gematigde wateren in alle oceanen ter wereld. De kortflippergriend komt in de noordelijke Atlantische Oceaan voor tot aan Groenland, IJsland en het noorden van Noorwegen; op het zuidelijke halfrond komt een andere groep voor in gematigd koude tot arctische wateren. Hoewel hun gebied ooit ook het noorden van de Stille Oceaan omvatte, zijn daar recentelijk geen kortflippergrienden meer waargenomen. De twee soorten komen beide voor in enkele gematigde gebieden, met name rond Zuid-Amerika en in het noorden van de Atlantische Oceaan.
+            <p/>Beide soorten grienden kunnen ongeveer 6 m lang worden. Mannetjes zijn iets groter dan vrouwtjes en kortflippergrienden zijn iets kleiner dan de soort met grote flippers. De leden van beide soorten hebben een grote, bolvormige kop en een zeer grote rugvin. Ze zijn meestal zwart tot donkerbruin of grijs van kleur, met een lichte vlek (soms een zadelvlek genoemd) net achter de rugvin. Op de bovenbuik of net onder de kin komt vaak een tweede lichte vlek voor. Grienden communiceren met elkaar via ingewikkelde raspende geluiden en roepen, en ze herkennen elkaar waarschijnlijk aan deze geluiden. Ze gebruiken echolocatie om hun omgeving te onderscheiden. Hierbij verzenden ze klikken met een hoge frequentie, die worden weerkaatst door prooien en andere voorwerpen. De echoklanken die terugkomen gebruiken ze vervolgens om de voorwerpen te onderscheiden.
+            <p/>Grienden kunnen diep duiken en voeden zich hoofdzakelijk met inktvis. Het zijn erg sociale wezens en de groepen bestaan meestal uit enkele honderden exemplaren. Elk mannetje paart waarschijnlijk met meerdere vrouwtjes. De vrouwtjes baren een enkel kalf en hoewel ze na de leeftijd van 35 jaar niet meer kunnen baren, blijven ze vaak nog minstens 14 jaar jongen zogen. Dit duidt erop dat vrouwtjes lang voor hun jongen zorgen en mogelijk ook zorgen voor de jongen van hun zussen en wellicht hun dochters.
+            <p/>Groepen grienden stranden vaker dan groepen van andere walvissoorten. In New England en voor de kust van Nieuw-Zeeland stranden de langvinnige soorten regelmatig. Het is onbekend of dit massale stranden wordt veroorzaakt door fouten in de navigatie, ziekte of beide, maar duidelijk is wel dat de samenleving van grienden zo hecht is dat als er enkele exemplaren stranden, anderen dat ook zullen doen.
+            <p/>Omdat de griendscholen zo hecht zijn, is het relatief gemakkelijk om op ze te jagen, vooral met methoden waarbij een school naar het ondiepe gedeelte van een baai wordt geleid om daar te worden geharpoeneerd of neergeknuppeld. Historisch gezien kwam deze vorm van jacht op grienden veel meer voor; voor de kust van Groenland en rond de Faeröer Eilanden bij Denemarken wordt nog altijd op langflippergrienden gejaagd, en voor de kust van Japan wordt nog altijd op kortflippergrienden gejaagd. Er wordt aangenomen dat de griendpopulaties in het noorden van de Atlantische Oceaan zijn afgenomen als gevolg van de jacht.
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Inhoud gebaseerd op <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft® Encarta® 2006.</color></u></a> © 1993-2005 Microsoft Corporation. Alle rechten voorbehouden.
+         </cell>         
+      </LOC_STRING>
+  
+</ZT2Strings>

@@ -1,0 +1,180 @@
+﻿<ZT2Strings>
+   <entityname>
+      <!--animal names-->
+      <ElephantAsian>Asian Elephant</ElephantAsian>
+      <ElephantAsian_stt>Asian elephant</ElephantAsian_stt>
+      <ElephantAsian_lower>the Asian elephant</ElephantAsian_lower>
+      <ElephantAsian_ltt>
+         <color r="255" g="248" b="178">
+            <b>Asian Elephant</b>
+         </color>
+         <br/>
+         Click to select and then place an Asian elephant, a strong elephant with smaller ears than the African elephant.
+      </ElephantAsian_ltt>
+      <!--gift names-->
+      <ElephantAsian_Gift>Asian Elephant Stuffed Animal</ElephantAsian_Gift>
+      <ElephantAsian_Gift_stt>Asian elephant stuffed animal</ElephantAsian_Gift_stt>
+      <ElephantAsian_Gift_lower>the Asian elephant stuffed animal</ElephantAsian_Gift_lower>
+      <ElephantAsian_Gift_ltt>
+         <color r="255" g="248" b="178">
+            <b>Asian Elephant Stuffed Animal</b>
+         </color>
+         <br/>Guests who enjoy watching the Asian elephant will buy this gift.
+      </ElephantAsian_Gift_ltt>
+   </entityname>
+   <zoopedia_elephantasian version="2">
+      <entry>Elephant, Asian</entry>
+      <text>
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/ElephantAsian/ElephantAsian_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/ElephantAsian/ElephantAsian_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>						 
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>	
+						<cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/endangered.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Conservation Status:
+                     <br/>
+                        <color r="255" g="155" b="0">
+                     Endangered
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>            
+            
+               <cell width="128">
+                  <color r="255" g="255" b="255">Scrub<br/></color>
+                  <img src="ui/icon_biomes/icon_scrub.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+               </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Southeast Asia<br/></color>
+                  <img src="ui/icon_maplocations/Scrub_Asia_Southeast.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284">
+                  <color r="255" g="255" b="255">Class: Mammals <i>(Mammalia)</i><br/>Order: Elephants <i>(Proboscidea)</i><br/>Family: Elephants <i>(Elephantidae)</i><br/>Genus: <i>Elephas</i><br/>Species:<i>maximus</i></color>
+               </cell>
+               <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/scrub_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+               </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Fun Asian Elephant Facts</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">An infant Asian elephant is cared for by its mother and other females in the herd (known as "aunties").</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Asian elephants are true trailblazers for other animals--elephant trails through the forest are often used by other animals.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Elephants use low frequency sound waves for communication both inside and out of the herd. These sound waves can carry for a distance of up to 10 miles.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">The Asian elephant is sometimes called the Indian elephant.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">The Asian elephant uses its ivory tusks for digging, uprooting trees, and displaying when breeding.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">The dominant elephant in the herd is a female, the matriach, who is usually the largest, oldest, or most experienced female in the herd.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">The finger-like appendage at the tip of the elephant's trunk is sensitive enough to pick up small objects like peanuts.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">While feeding, Asian elephants purr.</color>
+               </cell>
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">To unlock the Asian elephant in challenge or campaign games, you must earn a 3-1/2-star zoo fame rating for your zoo.</color>
+            <p/>The elephant is a huge mammal characterized by a long muscular snout and two long, curved tusks. Highly intelligent and strong, elephants are the largest land animals and are among the longest-lived, with life spans of 60 years or more. Healthy, full-grown elephants have no natural enemies other than humans.
+            <p/>Throughout history, people have prized elephants for their great size and strength. On the battlefield, soldiers astride elephants have trampled and terrified enemies. Elephants also have been trained to carry heavy supplies through jungles and to haul huge logs from the forests where they once lived.
+            <p/>Elephants have long been revered and honored, and in Thailand, India, and other Southeast Asian countries, beautifully decorated elephants still play a significant role in traditional religious ceremonies. According to Buddhist tradition, the Buddha chose the form of a white elephant as one of his many earthly incarnations, and the rare appearance of a white elephant is still heralded as a manifestation of the gods.
+            <p/>Fossils of elephant ancestors indicate they once lived on every continent except Australia and Antarctica, but elephant habitat today is restricted to Africa and parts of Southeast Asia. Elephants occupy an array of environments in Africa and Southeast Asia-grasslands, marshes, forests, deserts, and mountains. They are herbivores, or plant eaters, and need great quantities of food to sustain their massive size. They also need a lot of drinking water and so are restricted to areas with ample vegetation and adequate water.
+            <p/>Even small herds of a few elephants can quickly deplete the food and water resources of an area, forcing them to keep on the move. A herd of elephants migrates seasonally in an extended loop, looking for fresh resources within its home range, which can extend over 1500 sq km (600 sq mi). In its search for food, an elephant can travel 5000 to 10,000 km (3100 to 6200 mi) in one year, the longest mammal migration on record.
+            <p/>African and Asian elephants differ in size, color, and other physical characteristics. The African elephant can be distinguished by its larger size and broader ears that drape over its shoulders. Males, or bulls, may reach 4 m (13 ft) in height and weigh 7000 kg (15,400 lb). Females, or cows, are shorter, averaging 2.8 m (9 ft) in height, and weigh considerably less, about 3600 kg (7900 lb). African elephants are light gray in color, although they can appear dark gray, red, or brown from the mud they bathe in. They have a low, flat forehead and a slightly swayed back. Their fan-shaped ears average 1.5 m (5 ft) in length and 1.2 m (4 ft) in width. Both bulls and cows have long, curved tusks. 
+            <p/>Asian elephants are shorter and stockier than their African relatives, with ears that do not reach their shoulders. The average Asian bull stands 3 m (10 ft) tall and weighs 2300 kg (5100 lb), about half the weight of male African elephants. Cows reach an average height of 2.4 m (7.8 ft) and weigh an average of 3000 kg (6600 lb). Asian elephants have dark gray skin, a bulbous forehead, and a rounded back. Ear size averages 0.75 m (2.5 ft) long and 0.6 m (2 ft wide). The cow's tusks may be either absent or undeveloped. 
+            <p/>Despite their great weight, elephants walk almost noiselessly with exceptional grace, their columnar legs keeping their bulk moving forward in smooth, rhythmic strides. A thick cushion of resilient tissue grows on the base of each foot, absorbing the shock of the weight. The toes help balance the weight in walking. Elephants normally walk at a speed of about 6 km/h (about 4 mph) and can charge at up to 40 km/h (25 mph). They cannot gallop or jump over ditches, but readily take to rivers and lakes, where the water supports them and enables them to swim long distances without tiring.
+            <p/>Elephant tusks, the paired, elongated upper incisors, or teeth, are the largest and heaviest teeth of any living animal. The tusks are used for digging for roots and water, stripping the bark off trees for food, fighting each other during mating season, and, in African elephant cows, warding off predators of baby elephants such as lions and tigers. In a calf, the first incisors are replaced within 6 to 12 months of birth, and the second set, which becomes the tusks, grows at the rate of about 17 cm (about 7 in) per year throughout life. Tusk growth is determined by genetics and nutrition, and over the years, normal wear and tear scales down their length. An African bull tusk typically weighs 20 to 45 kg (50 to 100 lb) and is 1.8 to 2.4 m (6 to 8 ft) in length. The tusks of an adult Asian bull average 1.5 m (5 ft) in length and 30 kg (70 lb) in weight. The more massive tusks of the African elephant, and the fact that both bulls and cows have tusks, make these animals a more desirable target for ivory hunters than Asian elephants.
+            <p/>Elephants have a total of four teeth, all molars, which have jagged ridges for grinding leaves, stems, and roots. A single tooth can weigh more than 5 kg (11 lb) and measure 30 cm (12 in) in length. The first pair of molars is located toward the front of the mouth; when these front molars wear down, they drop out in pieces as the two molars in the back shift forward. Two new molars then emerge in the back of the mouth to replace those that have moved forward. Elephants replace the back molars six times throughout life. When the last set of molars wears out-anywhere between 40 and about 60 years of age-an elephant can no longer chew food and dies of starvation, a not uncommon death among elephants.
+            <p/>Elephants lack sweat glands in their skin and their ears act like radiators for releasing body heat. By flapping them, an elephant brings the many blood vessels within each broad ear into contact with the air, which cools the blood before it circulates again through the body. This cooling mechanism may explain why the African elephant, which evolved in a hot climate, has ears larger than those of its Asian relative, which evolved in a cooler area. An elephant's tail is hairless but has a skimpy brush at its tip, a useful tool for whisking away pesky flies. A typical tail can weigh 10 kilograms (22 lb).
+            <p/>Elephant eyesight is poor, and the eyes are small in relation to the enormous head, which can turn just slightly from side to side. This limited movement results in restricted side vision, and an elephant must move its whole body to broaden its range of vision. Its other senses-hearing, smell, taste, and touch-are acute. The most sensitive organ is the trunk, which is frequently at work picking up scents of food and danger from the ground and air. Elephants can smell water at great distances and can hear certain sounds from more than a mile away. 
+            <p/>Elephants display complex social behavior, living in tightly knit families that are matriarchal-that is, headed by the oldest females. Families are composed of sisters, cousins, aunts, and nieces, and their young offspring, and range in size from 2 to 29 individuals. These animals may remain together for life. If a family becomes too large, a few females leave to start a new herd. The members of a family bathe, forage, and travel as a group. Family members typically stay within 46 m (150 ft) of the matriarch, maintaining contact with their calls. If they are separated even for a matter of hours, their reunion is marked by an elaborate greeting ceremony, which includes running, rumbling, spinning, trumpeting, defecating, urinating, clicking tusks, and rubbing each other's bodies with their heads. The family also defends the young, sick, old, and disabled from predators. When the elder cow in a family dies, the next oldest usually takes her place as leader.
+            <p/>Elephants communicate with each other through touch, sound, scent, and body language. Touching is done mainly with the trunk, and can range from a cow's gentle caress of her calf to a disciplinary slap delivered by a matriarch to an unruly sub-adult male. Shoving, kicking, and rubbing against each other are other ways that elephants communicate.
+            <p/>Elephants also raise their voices to communicate, trumpeting as a warning or greeting to other elephants nearby. These animals also produce low-frequency rumbling sounds, which can travel over great distances, reaching the ears of elephants several kilometers away. Recent research indicates that elephants also communicate with infrasound, sounds inaudible to human ears.
+            <p/>Elephant communication includes the secretion of different pheromones in urine or dung. These chemical scent signals can be detected by nearby elephants, or carried by the breeze to elephants at a distance. The secretions of the glands during musth also convey scent messages. In addition, information is shared through various body poses. An African elephant, for example, spreads its ears wide and may flap them while holding its trunk against its body to signal it is about to charge. 
+            <p/>Much has been written about the emotional life of elephants. Observation of wild elephants has proven them to be loyal and affectionate, willing to risk their lives for the sake of others in a family group. Wild elephants have been known to celebrate births of new elephants and to grieve and even shed tears over the death of a family member. In captivity, elephants can become attached to a particular zookeeper or circus worker, refusing to cooperate for anyone else.
+            <p/>Contributed By:<br/>David George Gordon
+            <p/>Reviewed By:<br/>Russ Roach
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Content provided courtesy of <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2004.</color></u></a>(C) 1993-2003 Microsoft Corporation. All rights reserved.
+         </cell>
+      </text>
+   </zoopedia_elephantasian>
+</ZT2Strings>

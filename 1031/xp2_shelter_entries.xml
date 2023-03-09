@@ -1,0 +1,45 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_kelpbed:entry">Kelpbett</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_kelpbed:text">
+			<cell pady="0" width="1000"/>
+			<p/>
+			<cell width="260"/>
+			<cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+				<cell width="600" padx="20" pady="20">
+					<color r="255" g="255" b="255">
+						<img src="entities/objects/shelters/KelpBed_Shelter/KelpBed_Shelter_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+						<p/>Seeotter schlafen am liebsten in einem "Bett" aus Kelp. Sie wickeln sich mit Kelp ein, damit sie während des Schlafs nicht abtreiben!
+					</color>
+				</cell>
+			</cell>
+		</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_desertisland:entry">Wüsteninsel</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_desertisland:text">
+			<cell pady="0" width="1000"/>
+			<p/>
+			<cell width="260"/>
+			<cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+				<cell width="600" padx="20" pady="20">
+					<color r="255" g="255" b="255">
+						<img src="entities/objects/shelters/DesertIsland/DesertIsland_Shelter_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+						<p/>Die Wüsteninsel ist nicht nur ein Dekorationsobjekt für ein Becken, sondern bietet der Grünen Meeresschildkröte auch einen geeigneten Ort, sich zurückzuziehen und ihre Eier abzulegen.
+					</color>
+				</cell>
+			</cell>
+		</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_rockisland:entry">Felseninsel</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_rockisland:text">
+			<cell pady="0" width="1000"/>
+			<p/>
+			<cell width="260"/>
+			<cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+				<cell width="600" padx="20" pady="20">
+					<color r="255" g="255" b="255">
+						<img src="entities/objects/shelters/RockIsland/RockIsland_Shelter_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+						<p/>Die Felseninsel besteht eigentlich aus schwimmendem Hartplastik und bietet Kalifornischen Seelöwen, Pazifischen Walrossen, Seeottern und Felsenpinguinen einen Rückzugsort.
+					</color>
+				</cell>
+			</cell>
+		</LOC_STRING>
+
+</ZT2Strings>

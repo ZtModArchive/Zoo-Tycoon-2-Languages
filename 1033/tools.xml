@@ -1,0 +1,769 @@
+<ZT2Strings>
+      <LOC_STRING _locID="tools:tooltypeformat"  >
+         <font name="arial" size="8" shadowx="0" shadowy="0">%text%</font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:toolcomponentformat"  >
+         <font name="arial" size="9" shadowx="0" shadowy="0">%text%</font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:inheritanceformat"  >
+         <font name="arial" size="9" shadowx="0" shadowy="0">
+            <b>%text%</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:selectedtypeformat"  >
+         <font name="arial" size="14" shadowx="0" shadowy="0" shadowa="64">
+            <b>%text%</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:selectedcomponentformat"  >
+         <font name="arial" size="16" shadowx="-1" shadowy="1" shadowa="64">%text%</font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:toolheadingformat"  >
+         <font name="arial" size="14">
+            <b>%text%</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:toolsubheadingformat"  >
+         <font name="arial" size="12" shadowx="-1" shadowy="1" shadowa="64">%text%</font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:xmlnodeformat"  >
+         <font name="arial" size="14">
+            <color r="255" g="255" b="50" a="255">%text%</color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:xmlnodeformatdisabled"  >
+         <font name="arial" size="14">
+            <color r="255" g="255" b="50" a="150">%text%</color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:xmlattributenameformat"  >
+         <font name="arial" size="10" shadowx="0" shadowy="0">
+            <b>
+               <color r="255" g="255" b="50" a="255">%text%</color>
+            </b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:xmlattributenameformatdisabled"  >
+         <font name="arial" size="10" shadowx="0" shadowy="0">
+            <b>
+               <color r="255" g="255" b="50" a="150">%text%</color>
+            </b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:xmlattributevalueformat"  >
+         <font name="arial" size="12" shadowx="0" shadowy="0">
+            <color r="255" g="255" b="50" a="255">%text%</color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:xmlattributevalueformatdisabled"  >
+         <font name="arial" size="12" shadowx="0" shadowy="0">
+            <color r="255" g="255" b="50" a="150">%text%</color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:xmlattributeequalformat"  >
+         <font name="arial" size="12" shadowx="-1" shadowy="1">%text%</font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:savelogformat"  >
+         <font name="arial" size="12" shadowa="0">%text%</font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:noshadow"  >
+         <font shadowx="0" shadowy="0">%text%</font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:toolheading"  >Tools Menu</LOC_STRING>
+      <LOC_STRING _locID="tools:guitool"  >UI Tool</LOC_STRING>
+      <LOC_STRING _locID="tools:guitool_stt"  >Run UI tool</LOC_STRING>
+      <LOC_STRING _locID="tools:typetree"  >Type Tree</LOC_STRING>
+      <LOC_STRING _locID="tools:componentpanel"  >Component List</LOC_STRING>
+      <LOC_STRING _locID="tools:guitool_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Run UI tool</b>
+         </color>
+         <br>Run the UI tool and view layout files.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:entityeditor"  >Entity Editor</LOC_STRING>
+      <LOC_STRING _locID="tools:entityeditor_stt"  >Run Entity Editor</LOC_STRING>
+      <LOC_STRING _locID="tools:entityeditor_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Run Entity Editor</b>
+         </color>
+         <br>Runs the Entity Editor to test and modify entitys in the game.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:reloadbinderandreplace_stt"  >
+         <color r="255" g="248" b="178">
+            <b>Reload Entity Binder and Replace</b>
+         </color>
+         <br>Reloads the entity binder if you made modifications outside this editor.</br>
+         <br>All current instances of the entity will be updated and replaced.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:placeobject_stt"  >
+         <color r="255" g="248" b="178">
+            <b>Place Object</b>
+         </color>
+         <br>Place the currently selected Entity Type.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:entityeditoropen_stt"  >Open Entity Editor</LOC_STRING>
+      <LOC_STRING _locID="tools:entityeditoropen_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Open Entity Editor</b>
+         </color>
+         <br>Opens the Entity Editor tool window.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:expand_stt"  >
+         <color r="255" g="248" b="178">
+            <b>Expand</b>
+         </color>
+         <br>Expands the tree view.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:collapse_stt"  >
+         <color r="255" g="248" b="178">
+            <b>Collapse</b>
+         </color>
+         <br>Collapses the tree view.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:showalltypes_stt"  >
+         <color r="255" g="248" b="178">
+            <b>Show All Types</b>
+         </color>
+         <br>Shows all entity types in a tree format.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:showfavoritetypes_stt"  >
+         <color r="255" g="248" b="178">
+            <b>Show My Favorite Types</b>
+         </color>
+         <br>Shows my favorite entity types.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:addtomyfavorites_stt"  >
+         <color r="255" g="248" b="178">
+            <b>Add To Favorites</b>
+         </color>
+         <br>Adds the selected type to My Favorites.</br>
+         <br>To view my favorites click on the 'Favorites' button.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:removefrommyfavorites_stt"  >
+         <color r="255" g="248" b="178">
+            <b>Remove From Favorites</b>
+         </color>
+         <br>Removes the selected type from My Favorites.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:ditherbackground_stt"  >
+         <color r="255" g="248" b="178">
+            <b>Dither Background</b>
+         </color>
+         <br>Toggles dithered background.</br>
+         <br>Dither the background to see objects behind.</br>
+         <br>Turn off dithered background to make it easier to read the text.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:applychanges_stt"  >
+         <color r="255" g="248" b="178">
+            <b>Apply Changes</b>
+         </color>
+         <br>Applys any changes made to the entity.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:revertchanges_stt"  >
+         <color r="255" g="248" b="178">
+            <b>Revert All Changes</b>
+         </color>
+         <br>Reverts all changes made to the entity.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:savebinder_stt"  >
+         <color r="255" g="248" b="178">
+            <b>Save</b>
+         </color>
+         <br>Saves the binder file to</br>
+         <br>the selected data root.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:selectdataroot_stt"  >
+         <color r="255" g="248" b="178">
+            <b>Select Data Root</b>
+         </color>
+         <br>Select a different data root.</br>
+         <br>When you save the binder it will</br>
+         <br>save it to the selected data root.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:selectselected_stt"  >
+         <color r="255" g="248" b="178">
+            <b>Select Selected Entity Type</b>
+         </color>
+         <br>Selects the entity type based on</br>
+         <br>the selected object in the world.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:updatetypelists_stt"  >
+         <color r="255" g="248" b="178">
+            <b>Update Type Lists</b>
+         </color>
+         <br>Updates type lists in the game to reflect data changes</br>
+         <br>such as keeper recommendations and buy panels.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:saveall_stt"  >
+         <color r="255" g="248" b="178">
+            <b>Save All</b>
+         </color>
+         <br>Saves all of the binder files</br>
+         <br>which have been modified.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:nextbinder_stt"  >
+         <color r="255" g="248" b="178">
+            <b>Next Selection</b>
+         </color>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:previousbinder_stt"  >
+         <color r="255" g="248" b="178">
+            <b>Previous Selection</b>
+         </color>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:addnode_stt"  >
+         <color r="255" g="248" b="178">
+            <b>Add Node</b>
+         </color>
+         <br>Adds a new child node.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:overridenode_stt"  >
+         <color r="255" g="248" b="178">
+            <b>Override Node</b>
+         </color>
+         <br>Overrides the node on this</br>
+         <br>binder to make it editable.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:removenode_stt"  >
+         <color r="255" g="248" b="178">
+            <b>Remove Node</b>
+         </color>
+         <br>Removes this node from the parent node.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:inheritnode_stt"  >
+         <color r="255" g="248" b="178">
+            <b>Remove Node (Inherit)</b>
+         </color>
+         <br>Removes the node and inherits</br>
+         <br>the data from the parent binder.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:addattribute_stt"  >
+         <color r="255" g="248" b="178">
+            <b>Add Attribute</b>
+         </color>
+         <br>Adds a new attribute to the node.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:overrideattribute_stt"  >
+         <color r="255" g="248" b="178">
+            <b>Override Attribute</b>
+         </color>
+         <br>Overrides the attribute</br>
+         <br>to make changes to it.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:removeattribute_stt"  >
+         <color r="255" g="248" b="178">
+            <b>Remove Attribute</b>
+         </color>
+         <br>Removes this attribute from the node.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:inheritattribute_stt"  >
+         <color r="255" g="248" b="178">
+            <b>Remove Attribute (Inherit)</b>
+         </color>
+         <br>Removes this attribute from the node</br>
+         <br>and inherits the value from the parent binder.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:nosavewarning"  >
+         <font name="arial" size="18" image="ui\font\color_mainmenu.tga" shadowx="-1" shadowy="1" shadowa="64">
+            <b>There are unsaved binder changes!</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:addsharedcomponent_stt"  >
+         <color r="255" g="248" b="178">
+            <b>Add Shared Component</b>
+         </color>
+         <br>Adds a new shared</br>
+         <br>component to the entity.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:addsubbinder_stt"  >
+         <color r="255" g="248" b="178">
+            <b>Add Sub-Binder</b>
+         </color>
+         <br>Adds a new sub-binder to the entity.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:addentitytype_stt"  >
+         <color r="255" g="248" b="178">
+            <b>Add Entity Type</b>
+         </color>
+         <br>Adds a new entity type.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:canceladdnew_stt"  >
+         <color r="255" g="248" b="178">
+            <b>Cancel</b>
+         </color>
+         <br>Click to cancel.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:addnewcomponenttypelabel"  >Enter the TYPE of component to add to the entity (required):</LOC_STRING>
+      <LOC_STRING _locID="tools:addnewcomponentnamelabel"  >Enter the NAME of component to add to the entity (optional):</LOC_STRING>
+      <LOC_STRING _locID="tools:addnewentitytypeparent"  >Enter the entity type which the new entity type will derive from:</LOC_STRING>
+      <LOC_STRING _locID="tools:addnewentitytypechild"  >Enter the name of the new entity type:</LOC_STRING>
+      <LOC_STRING _locID="tools:tapobjectselect"  >
+         <font name="arial" size="8" shadowx="-1" shadowy="1" shadowa="32">%text%</font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:taptool"  >Editor &amp; TAP Tool</LOC_STRING>
+      <LOC_STRING _locID="tools:taptool_stt"  >Run Editor &amp; TAP Tool</LOC_STRING>
+      <LOC_STRING _locID="tools:taptoolopen_stt"  >Launch TAP Tool</LOC_STRING>
+      <LOC_STRING _locID="tools:taptoolopen_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Launch TAP Tool</b>
+         </color>
+         <br>Launches the TAP Tool to quickly view different taps.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:taptooltest_stt"  >Run the selected TAP.</LOC_STRING>
+      <LOC_STRING _locID="tools:taptoolreload_stt"  >Reload the assets associated with the selected TAP.</LOC_STRING>
+      <LOC_STRING _locID="tools:colorlabelformat"  >
+         <font name="arial" size="14" shadowa="32">
+            <b>%text%</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:terrainlights_stt"  >
+         <color r="255" g="248" b="178">
+            <b>Terrain Lights</b>
+         </color>
+         <br>View and modify the terrain lights.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:objectlights_stt"  >
+         <color r="255" g="248" b="178">
+            <b>Object Lights</b>
+         </color>
+         <br>View and modify the object lights.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:waterlights_stt"  >
+         <color r="255" g="248" b="178">
+            <b>Water Lights</b>
+         </color>
+         <br>View and modify the water lights.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:cloudlights_stt"  >
+         <color r="255" g="248" b="178">
+            <b>Cloud Lights</b>
+         </color>
+         <br>View and modify the cloud lights.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:savelights_stt"  >
+         <color r="255" g="248" b="178">
+            <b>Save Lights</b>
+         </color>
+         <br>Save the lights to a file.</br>
+         <br>Specify the name of the file to save in the edit box.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:loadlights_stt"  >
+         <color r="255" g="248" b="178">
+            <b>Load Lights</b>
+         </color>
+         <br>Load lights from a file</br>
+         <br>Enter the file name of the light file to load in the edit box.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:gt_label"  >
+         <font name="arial" size="10" shadowx="-1" shadowy="1">
+            <b>Gesture Creation Tool</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:new_gesture_stt"  >New gesture</LOC_STRING>
+      <LOC_STRING _locID="tools:load_gesture_stt"  >Load gesture</LOC_STRING>
+      <LOC_STRING _locID="tools:save_gesture_stt"  >Save gesture</LOC_STRING>
+      <LOC_STRING _locID="tools:next_stt"  >Next</LOC_STRING>
+      <LOC_STRING _locID="tools:previous_stt"  >Previous</LOC_STRING>
+      <LOC_STRING _locID="tools:undo_stt"  >Undo</LOC_STRING>
+      <LOC_STRING _locID="tools:delete_stt"  >Delete</LOC_STRING>
+      <LOC_STRING _locID="tools:load_gesture_label"  >
+         <font name="arial" size="11" shadowx="0" shadowy="0">
+            <b>Load Gesture </b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:save_gesture_label"  >
+         <font name="arial" size="11" shadowx="0" shadowy="0">
+            <b>Save Gesture </b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:overwrite_gesture_label"  >
+         <font name="arial" size="20" shadowx="0" shadowy="0">
+            <b>Overwrite Gesture?</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:insert_label"  >
+         <font name="arial" size="10" shadowx="0" shadowy="0">
+            <b>Insert Node</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:insert_text_begin_stt"  >Insert Node (begining)</LOC_STRING>
+      <LOC_STRING _locID="tools:insert_text_middle_stt"  >Insert Node (middle)</LOC_STRING>
+      <LOC_STRING _locID="tools:insert_text_end_stt"  >Insert Node (end)</LOC_STRING>
+      <LOC_STRING _locID="tools:insert_event_label"  >
+         <font name="arial" size="10" shadowx="0" shadowy="0">
+            <b>Insert Event </b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:insert_event_stt"  >Insert Event along spline.</LOC_STRING>
+      <LOC_STRING _locID="tools:view_gesture_stt"  >View Gesture.</LOC_STRING>
+      <LOC_STRING _locID="tools:play_gesture_stt"  >Test Gesture in FPM mode.</LOC_STRING>
+      <LOC_STRING _locID="tools:increase_stt"  >Increase.</LOC_STRING>
+      <LOC_STRING _locID="tools:decrease_stt"  >Decrease.</LOC_STRING>
+      <LOC_STRING _locID="tools:event_window_stt"  >Change Event window opp size.</LOC_STRING>
+      <LOC_STRING _locID="tools:view_label"  >
+         <font name="arial" size="9" shadowx="-1" shadowy="2">
+            <b>View Spline</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:test_label"  >
+         <font name="arial" size="9" shadowx="-1" shadowy="2">
+            <b>Test Spline</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:score_size_stt"  >Change Scoring thickness.</LOC_STRING>
+      <LOC_STRING _locID="tools:spline_size_stt"  >Change Spline thickness.</LOC_STRING>
+      <LOC_STRING _locID="tools:event_window_label"  >
+         <font name="arial" size="9" shadowx="-1" shadowy="2">
+            <b>Event Size</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:spline_thickness_label"  >
+         <font name="arial" size="10" shadowx="0" shadowy="0">
+            <b>Spline Size</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:scoring_prox_label"  >
+         <font name="arial" size="10" shadowx="0" shadowy="0">
+            <b>Scoring Prox</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:node_start_label"  >
+         <font name="arial" size="9" shadowx="-1" shadowy="2">
+            <b>Insert Node At Start</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:node_label"  >
+         <font name="arial" size="9" shadowx="-1" shadowy="2">
+            <b>Insert Node Between Points</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:node_end_label"  >
+         <font name="arial" size="9" shadowx="-1" shadowy="2">
+            <b>Insert Node At End </b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:event_label"  >
+         <font name="arial" size="9" shadowx="-1" shadowy="2">
+            <b>Insert Event </b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:event_size_label"  >
+         <font name="arial" size="9" shadowx="-1" shadowy="2">
+            <b>Change Event Window Size</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:score_size_label"  >
+         <font name="arial" size="9" shadowx="-1" shadowy="2">
+            <b>Change Score Prox</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:spline_size_label"  >
+         <font name="arial" size="9" shadowx="-1" shadowy="2">
+            <b>Change Spline Thickness </b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:new_spline_label"  >
+         <font name="arial" size="9" shadowx="-1" shadowy="2">
+            <b>Create new spline</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:load_spline_label"  >
+         <font name="arial" size="9" shadowx="-1" shadowy="2">
+            <b>Load spline</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:delete_spline_label"  >
+         <font name="arial" size="9" shadowx="-1" shadowy="2">
+            <b>Load spline</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="watertool:reflection_stt"  >
+         <color r="255" g="248" b="178">
+            <b>Reflection</b>
+         </color>
+         <br>All of the parameters for controlling the reflections off the water surface.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="watertool:refraction_stt"  >
+         <color r="255" g="248" b="178">
+            <b>Refraction</b>
+         </color>
+         <br>All of the parameters for controlling the refraction off the water surface.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="watertool:geometric_stt"  >
+         <color r="255" g="248" b="178">
+            <b>Geometric</b>
+         </color>
+         <br>All of the parameters for controlling the geometry off the water surface.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="watertool:shore_stt"  >
+         <color r="255" g="248" b="178">
+            <b>Shore</b>
+         </color>
+         <br>All of the parameters for controlling the shore effect.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="watertool:ripple_stt"  >
+         <color r="255" g="248" b="178">
+            <b>Ripple</b>
+         </color>
+         <br>All of the parameters for controlling the ripple effect.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="watertool:scum_stt"  >
+         <color r="255" g="248" b="178">
+            <b>Scum</b>
+         </color>
+         <br>If a scum map is named here, it will change the behavior of the water in two ways.</br>
+         <br>First and most obvious, it will put the scum map in a cross interfering scroll</br>
+         <br>(2 copies scrolling relative to each other) as a layer over the water.</br>
+         <br>Second and less obvious, you will lose refraction </br>
+         <br>and your reflections will be limited to reflecting the sky.</br>
+         <br>If there is no scum map file named, the rest of the parameters are ignored.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="watertool:reflectionstrength_stt"  >
+         <color r="255" g="248" b="178">
+            <b>Strength</b>
+         </color>
+         <br>How strong you want the reflections.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="watertool:reflectionambient_stt"  >
+         <color r="255" g="248" b="178">
+            <b>Ambient</b>
+         </color>
+         <br>The emissive color of the water in the absence of reflection.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="watertool:reflectiontint_stt"  >
+         <color r="255" g="248" b="178">
+            <b>Tint</b>
+         </color>
+         <br>A color to tint the reflections with.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="watertool:reflectionmapsize_stt"  >
+         <color r="255" g="248" b="178">
+            <b>Mapsize</b>
+         </color>
+         <br>The size of the bump map on the surface in meters.</br>
+         <br>A smaller value will create finer detail structure in the water surface.</br>
+         <br>A larger value will make for more blobby smoothly varying water.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="watertool:reflectionbumpiness_stt"  >
+         <color r="255" g="248" b="178">
+            <b>Bumpiness</b>
+         </color>
+         <br>A higher value makes the texture waves steeper.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="watertool:reflectionfalloff_stt"  >
+         <color r="255" g="248" b="178">
+            <b>Falloff</b>
+         </color>
+         <br>The distance at which the bumpiness falls off to its minimum value.</br>
+         <br>A higher valued falloff will make the water noisier in the distance.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="watertool:reflectionfresnel_stt"  >
+         <color r="255" g="248" b="178">
+            <b>Fresnel</b>
+         </color>
+         <br>Controls the angular dependency of the reflection strength.</br>
+         <br>The water is always highly reflective viewed at a grazing angle.</br>
+         <br>With a low fresnel value, the water will remain</br>
+         <br>reflective until an almost perpendicular viewing angle.</br>
+         <br>With a high fresnel value, the reflections fade out revealing</br>
+         <br>the refractions at a much steeper viewing angle.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="watertool:refractionambient_stt"  >
+         <color r="255" g="248" b="178">
+            <b>Ambient</b>
+         </color>
+         <br>The emissive color of the water.</br>
+         <br>The refracted imagery is added to this color.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="watertool:refractiontint_stt"  >
+         <color r="255" g="248" b="178">
+            <b>Tint</b>
+         </color>
+         <br>A color to tint the refractions with.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="watertool:refractionmapsize_stt"  >
+         <color r="255" g="248" b="178">
+            <b>Mapsize</b>
+         </color>
+         <br>The size of the bump map on the surface in meters.</br>
+         <br>A smaller value will create finer detail structure in the water surface.</br>
+         <br>A larger value will make for more blobby smoothly varying water.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="watertool:refractionbumpiness_stt"  >
+         <color r="255" g="248" b="178">
+            <b>Bumpiness</b>
+         </color>
+         <br>How rough the surface is. A higher value makes the texture waves steeper.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="watertool:refractionfalloff_stt"  >
+         <color r="255" g="248" b="178">
+            <b>Falloff</b>
+         </color>
+         <br>The distance in meters at which the bumpiness falls off to its minimum value.</br>
+         <br>A higher valued falloff will make the water noisier in the distance.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="watertool:geometricamp_stt"  >
+         <color r="255" g="248" b="178">
+            <b>Amplitude</b>
+         </color>
+         <br>Each wave will have an amplitude randomly</br>
+         <br>picked between minAmplitude and maxAmplitude.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="watertool:geometricchop_stt"  >
+         <color r="255" g="248" b="178">
+            <b>Chop</b>
+         </color>
+         <br>A small chop makes rounder waves.</br>
+         <br>A high chop value makes waves with more swirl and pointier peaks.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="watertool:shoretint_stt"  >
+         <color r="255" g="248" b="178">
+            <b>Tint</b>
+         </color>
+         <br>The color modulating each of the layers.</br>
+         <br>You'll usually want to leave the color white, but the alpha is worth playing with.</br>
+         <br>It controls the maximum opacity of the ripples.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="watertool:shorerate_stt"  >
+         <color r="255" g="248" b="178">
+            <b>Rate</b>
+         </color>
+         <br>The speed at which the layer moves.</br>
+         <br>A negative speed moves into the water (away from the shore),</br>
+         <br>and a positive value moves into the shore.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="watertool:shoresize_stt"  >
+         <color r="255" g="248" b="178">
+            <b>Map Size</b>
+         </color>
+         <br>The size (in meters) of the vertical dimension of the texture.</br>
+         <br>A smaller value will squish your texture vertically, a larger value will stretch it.</br>
+         <br>The default value keeps an approximate 1:1 aspect ratio.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="watertool:shorerippletop_stt"  >
+         <color r="255" g="248" b="178">
+            <b>Shore Top Texture</b>
+         </color>
+         <br>The top ripple texture file name.</br>
+         <br>This texture must tile in both dimensions.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="watertool:shoreripplebot_stt"  >
+         <color r="255" g="248" b="178">
+            <b>Shore Bottom Texture</b>
+         </color>
+         <br>The bottom ripple texture file name.</br>
+         <br>This texture must tile in both dimensions.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="watertool:shoreripplemask_stt"  >
+         <color r="255" g="248" b="178">
+            <b>Shore Mask Texture</b>
+         </color>
+         <br>The texture to mask off the effect.</br>
+         <br>At a minimum, this texture should be completely transparent top and bottom, </br>
+         <br>and tile left to right.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="watertool:ripplelifespan_stt"  >
+         <color r="255" g="248" b="178">
+            <b>Lifespan</b>
+         </color>
+         <br>The lifetime in seconds of a pulse of concentric waves.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="watertool:ripplestartup_stt"  >
+         <color r="255" g="248" b="178">
+            <b>Startup</b>
+         </color>
+         <br>The amount of time (in seconds) it takes to start up a pulse of concentric waves.</br>
+         <br>Too short a time will cause a discontinuous pop in the waves.</br>
+         <br>Too long a time will be smooth but blur the cause and effect of the pulse.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="watertool:ripplemaxamp_stt"  >
+         <color r="255" g="248" b="178">
+            <b>Max Amplitude</b>
+         </color>
+         <br>How strong to make the waves when a very heavy object causes ripples.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="watertool:rippleminamp_stt"  >
+         <color r="255" g="248" b="178">
+            <b>Min Amplitude</b>
+         </color>
+         <br>How strong to make the waves when a very light object causes ripples.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="watertool:ripplechop_stt"  >
+         <color r="255" g="248" b="178">
+            <b>Chop</b>
+         </color>
+         <br>How choppy or swirly to make the waves.</br>
+         <br>A small chop makes rounder waves.</br>
+         <br>A high chop value makes waves with more swirl and pointier peaks.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="watertool:scumimage_stt"  >
+         <color r="255" g="248" b="178">
+            <b>Image</b>
+         </color>
+         <br>The texture to use for scum. Both alpha and color matter here.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="watertool:scumsize_stt"  >
+         <color r="255" g="248" b="178">
+            <b>Size</b>
+         </color>
+         <br>Size in meters of this layer of the scum map in the world.</br>
+         <br>Notice this is 2 values, for x (east/west) and y (north/south).</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="watertool:scumrate_stt"  >
+         <color r="255" g="248" b="178">
+            <b>Rate</b>
+         </color>
+         <br>The rate this layer scrolls.</br>
+         <br>Notice this is 2 values, for x (east/west) and y (north/south).</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="watertool:alpine_stt"  >
+         <color r="255" g="248" b="178">
+            <b>Alpine</b>
+         </color>
+      </LOC_STRING>
+      <LOC_STRING _locID="watertool:boreal_stt"  >
+         <color r="255" g="248" b="178">
+            <b>Boreal Forest</b>
+         </color>
+      </LOC_STRING>
+      <LOC_STRING _locID="watertool:desert_stt"  >
+         <color r="255" g="248" b="178">
+            <b>Desert</b>
+         </color>
+      </LOC_STRING>
+      <LOC_STRING _locID="watertool:grassland_stt"  >
+         <color r="255" g="248" b="178">
+            <b>Grassland</b>
+         </color>
+      </LOC_STRING>
+      <LOC_STRING _locID="watertool:savannah_stt"  >
+         <color r="255" g="248" b="178">
+            <b>Savannah</b>
+         </color>
+      </LOC_STRING>
+      <LOC_STRING _locID="watertool:scrub_stt"  >
+         <color r="255" g="248" b="178">
+            <b>Scrub</b>
+         </color>
+      </LOC_STRING>
+      <LOC_STRING _locID="watertool:temperate_stt"  >
+         <color r="255" g="248" b="178">
+            <b>Temperate Forest</b>
+         </color>
+      </LOC_STRING>
+      <LOC_STRING _locID="watertool:tropical_stt"  >
+         <color r="255" g="248" b="178">
+            <b>Tropical Rain Forest</b>
+         </color>
+      </LOC_STRING>
+      <LOC_STRING _locID="watertool:tundra_stt"  >
+         <color r="255" g="248" b="178">
+            <b>Tundra</b>
+         </color>
+      </LOC_STRING>
+      <LOC_STRING _locID="watertool:wetlands_stt"  >
+         <color r="255" g="248" b="178">
+            <b>Wetlands</b>
+         </color>
+      </LOC_STRING>
+</ZT2Strings>

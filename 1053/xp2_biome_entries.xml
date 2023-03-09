@@ -1,0 +1,62 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_benthic:entry">Den bentiska biotopen</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_benthic:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" bgimg="ui/zoopedia/topCellBg.dds" pady="15" padx="15">
+            <color r="255" g="255" b="255">
+               <cell width="600">
+                  <img src="UI/zoopedia/biome/benthic_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+                  <p/>Den bentiska biotopen är området på havsbottnen, under den pelagiska zonen. Den innefattar dock inte den djupaste, mörkaste delen av havet, som kallas för den abyssala zonen.
+                  <p/>Den bentiska biotopens botten består av sand, slam och döda organismer. Vissa djur och organismer frodas i den näringsrika miljön, till exempel bakterier, svampar, havsanemoner, maskar, sjöstjärnor och bottenfiskar. Här växer även sjögräs.
+               </cell>
+            </color>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_coastal:entry">Kustbiotopen</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_coastal:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" bgimg="ui/zoopedia/topCellBg.dds" pady="15" padx="15">
+            <color r="255" g="255" b="255">
+               <cell width="600">
+                  <img src="UI/zoopedia/biome/coastal_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+                  <p/>Kustbiotopen, som även kallas för tidvattenszonen, är området där hav möter land. Den ligger ibland under vattenytan och ibland över. Djur och växter i den här biotopen måste kunna anpassa sig både till vatten och till luft.
+                  <p/>På landområdena, dit det högsta tidvattnet når, lever endast alger och mollusker. Där finns emellertid flera olika typer av alger och smådjur, till exempel växtätande sniglar, krabbor, sjöstjärnor och småfisk. På botten av kustbiotopen, som bara syns när tidvattnet är som lägst, finns flera olika ryggradslösa djur och fiskar, samt sjögräs. Alla dessa arter måste anpassa sig till den instabilitet som det innebär att sanden ständigt rör på sig. I de klippiga områdena längs kusten, som även de kallas för kustbiotoper, finns det färre levande varelser, och de som finns lever i en mer stabil miljö.
+   
+               </cell>
+            </color>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_pelagic:entry">Den pelagiska biotopen</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_pelagic:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" bgimg="ui/zoopedia/topCellBg.dds" pady="15" padx="15">
+            <color r="255" g="255" b="255">
+               <cell width="600">
+                  <img src="UI/zoopedia/biome/pelagic_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+                  <p/>Långt bort från land finns den pelagiska biotopen - det öppna havet. Den pelagiska biotopen är oftast kall, men det kan förekomma variationer i temperaturen på grund av termisk skiktindelning, där varma och kalla havsströmmar ständigt blandas. Ytligt sjögräs frodas i den pelagiska biotopen, liksom många fiskarter och vissa däggdjur, till exempel valar och delfiner.  
+               </cell>
+            </color>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_reef:entry">Revbiotopen</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_reef:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" bgimg="ui/zoopedia/topCellBg.dds" pady="15" padx="15">
+            <color r="255" g="255" b="255">
+               <cell width="600">
+                  <img src="UI/zoopedia/biome/reef_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+                  <p/>Revbiotopen är ett kust- och havsekosystem som är en av jordens mest mångfaldiga miljöer och bebos av några av världens vackraste livsformer. Ett rev är ett berg eller en klippa som finns precis under havsytan. Korallrev består nästan bara, eller helt, av koraller - små djur som lever i kolonier. Under en period på hundratals eller till och med tusentals år byggs kalkstensskeletten från döda koraller på, och bildar en ständigt växande struktur för nya koraller. Den fysiska strukturen, med det levande ytskiktet av korallkolonier och andra organismer, är ett korallrev.   
+               </cell>
+            </color>
+         </cell>
+      </LOC_STRING>   
+
+</ZT2Strings>

@@ -1,0 +1,231 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_beluga" version="9"/>
+      <LOC_STRING _locID="zoopedia_beluga:entry" version="9">Béluga</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_beluga:text" version="9">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/Beluga/Beluga_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>						 
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/vulnerable.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     État de préservation :
+                     <br/>
+                        <color r="255" g="255" b="0">
+                     Vulnérable
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+				 <cell width="128">
+				  <color r="255" g="255" b="255">Toundra<br/></color>
+				  <img src="ui/icon_biomes/icon_tundra.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+				 </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Océan arctique</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/tundra_arctic_ocean.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Classe : Mammifères <i>(Mammalia)</i>
+                  <br/>
+                  Ordre : <i>Cétacés</i>
+                  <br/>
+                  Famille : <i>Monodontidés</i>
+                  <br/>
+                  Genre : <i>Delphinapterus</i>
+                  <br/>
+                  Espèce : <i>leucas</i>
+                  </color>
+               </cell>
+				 <cell width="256" pady="10">
+				  <img src="UI/zoopedia/biome/tundra_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+				 </cell>				 
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Bon à savoir sur le béluga</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">À sa naissance, le béluga est gris foncé, marron ou noir, mais sa couleur change progressivement et il est totalement blanc à l'âge de cinq ans.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Le béluga nage aussi bien en avant qu'en arrière !</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Les bélugas ne mâchent pas leur nourriture, ils l'avalent en entier.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Le béluga recherche de la nourriture au fond des eaux peu profondes. C'est pourquoi il mange généralement du poisson benthique.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Grâce à son cou flexible, le béluga peut se déplacer facilement lorsqu'il se nourrit. Sa bouche lui permet également d'aspirer fortement les animaux qui ne veulent pas être avalés !</color>
+               </cell>                
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">Pour débloquer le béluga au cours de parties en mode Défi ou Campagne, votre zoo doit atteindre une renommée de 0,5 étoile.</color>
+            <p/>Le béluga est une baleine à dents très proche du dauphin, avec une tête bien particulière et de courtes nageoires. Les bélugas (dont le nom est tiré du russe « byelukha », signifiant « blanc ») sont de couleur noire ou brun foncé, sans aileron dorsal, et deviennent blanc laiteux au bout de cinq ans. Les mâles peuvent atteindre une longueur maximale de 7 m ; les femelles sont légèrement plus petites. Les bélugas voyagent en groupes pouvant atteindre plusieurs milliers d'individus. Ils se nourrissent de poissons, de pieuvres, de crabes, de crustacés et de calmars. Vivant dans l'Océan Arctique, ils migrent vers le sud jusqu'à l'État du New Jersey aux États-Unis et vers le Rhin en Europe.     
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Contenu adapté de <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft® Encarta® 2006.</color></u></a> © 1993-2005 Microsoft Corporation. Tous droits réservés.
+         </cell>         
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_penguinrockhopper" version="9"/>
+      <LOC_STRING _locID="zoopedia_penguinrockhopper:entry" version="9">Gorfou sauteur</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_penguinrockhopper:text" version="9">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/PenguinRockhopper/PenguinRockhopper_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/PenguinRockhopper/PenguinRockhopper_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>							 
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>						 
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/vulnerable.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     État de préservation :
+                     <br/>
+                        <color r="255" g="255" b="0">
+                     Vulnérable
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+				 <cell width="128">
+				  <color r="255" g="255" b="255">Côtes<br/></color>
+				  <img src="ui/icon_biomes/icon_coastal.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+				 </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Îles des océans de l'hémisphère Sud</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/coastal_southern_ocean_islands.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Classe : Oiseaux <i>Aves</i>
+                  <br/>
+                  Ordre : <i>Sphénisciformes</i>
+                  <br/>
+                  Famille : <i>Sphéniscidés</i>
+                  <br/>
+                  Genre : <i>Eudyptes</i>
+                  <br/>
+                  Espèce : <i>chrysocome</i>
+                  </color>
+               </cell>
+				 <cell width="256" pady="10">
+				  <img src="UI/zoopedia/biome/coastal_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+				 </cell>				 
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Bon à savoir sur le gorfou sauteur</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Le gorfou sauteur femelle pond généralement deux œufs pendant la période de reproduction, mais un seul est incubé.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">La durée de vie du gorfou sauteur est d'environ dix ans.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Pour séduire une compagne, le gorfou sauteur mâle secoue la tête pour attirer l'attention sur le plumage jaune de sa crête.</color>
+               </cell>                 
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">Pour débloquer le gorfou sauteur au cours de parties en mode Défi ou Campagne, votre zoo doit atteindre une renommée de 2 étoiles.</color>
+            <p/>Les gorfous sauteurs doivent leur nom aux bonds qu'ils effectuent entre les pierres des îles rocheuses où ils vivent. Il s'agit d'une espèce de pingouin du sous-Antarctique qu'on retrouve essentiellement sur les îles de l'hémisphère sud, comme les Malouines, l'Île Macquarie et les Antipodes.
+            <p/>Caractérisés par une superbe crête et des yeux rouge sang, les gorfous sauteurs sont aussi agressifs que leur regard intense le laisse suggérer. Il n'est pas rare de les voir se battre pour le meilleur lieu de nidification sur le terrain rocheux. Ce sont de petits pingouins, mais leurs pieds palmés et leurs nageoires puissantes en font de remarquables nageurs et chasseurs.
+				<p/>Les gorfous sauteurs se nourrissent de poissons lanternes, de krill et parfois de petits calmars. Ils sont eux-mêmes chassés par les requins bleus, les phoques léopards et les otaries à fourrure. Sur terre, leurs œufs et leurs poussins sont souvent la proie de mouettes et d'autres oiseaux.
+				<p/>Comme ils construisent leurs nids sur les littoraux rocheux, leur habileté à sortir de l'eau en sautant sur les rochers est une aptitude essentielle pour leur survie.  
+         </cell>        
+      </LOC_STRING>  
+
+</ZT2Strings>

@@ -1,0 +1,130 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_entertainer:entry">Animador</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_entertainer:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/units/staff/EntertainerExtinct/Entertainer_F_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/units/staff/EntertainerExtinct/Entertainer_M_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/units/staff/EntertainerDinosaur/EntertainerDinosaur_F_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/units/staff/EntertainerDinosaur/EntertainerDinosaur_M_icon.dds" sx="0" sy="0" sw="64" sh="64"/>                  
+                  <p/>
+Estos miembros del personal vestidos con trajes de vivos colores bailan, cuentan chistes, realizan espectáculos de títeres y muchas otras cosas para entretener a los visitantes. ¡Asegúrese de construirles un lugar para sus actuaciones! El 	    
+		<a href="zoopedia:zoopedia_entertainerstage:entry">
+               <u>
+                  <color r="255" g="231" b="135">puesto de animación</color>
+               </u> es 
+           	</a>
+  es una buena forma de demostrar su talento.            	
+						<p/>
+Recuerde que los animadores son miembros del personal, por lo que su sueldo se deduce de la cuenta del zoo a principios de cada mes.			
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_paleontologist:entry">Paleontólogo</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_paleontologist:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/units/staff/paleontologist/Paleontologist_M_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/units/staff/paleontologist/Paleontologist_F_icon.dds" sx="0" sy="0" sw="64" sh="64"/>                
+                  <p/>
+Estos inteligentes y curtidos miembros del personal lo saben todo sobre los animales extinguidos. Enseñan a los visitantes todos y cada uno de los aspectos de estos animales de otros tiempos y les encanta enseñar desde el 
+		<a href="zoopedia:zoopedia_fossileducationcenter:entry">
+               <u>
+                  <color r="255" g="231" b="135">Centro de Educación de Animales Extinguidos</color>
+               </u>. 
+           	</a>
+		
+<p/>		
+También pueden ayudarle a encontrar y desenterrar fósiles que puede unir en el  	    
+		<a href="zoopedia:zoopedia_cloningcenter:entry">
+               <u>
+                  <color r="255" g="231" b="135">Laboratorio de Animales Extinguidos</color>
+               </u>. 
+           	</a>
+<p/>
+Recuerde que los paleontólogos son miembros del personal, por lo que su sueldo se deduce de la cuenta del zoo a principios de cada mes.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_drt_gun:entry">Equipo de Captura de Dinosaurios: especialista en tranquilización</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_drt_gun:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/units/staff/DinoRecoveryTeam/DinoRecoveryTranqTeam_M_icon.dds" sx="0" sy="0" sw="64" sh="64"/>          
+                  <p/>
+		Este ágil y curtido miembro del Equipo de Captura de Dinosaurios es su mejor tirador.  Este empleado hábil con los aparatos tranquiliza a los dinosaurios descontrolados y luego el especialista en contención los enjaula.  
+		<p/>
+		Cuando suena la alarma de descontrol del 
+		<a href="zoopedia:zoopedia_dinorecoverybuilding:entry">
+               <u>
+                  <color r="255" g="231" b="135">búnker del Equipo de Captura de Dinosaurios</color>, 
+               </u>
+           	</a>
+		el equipo entra en acción.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_drt_crate:entry">Equipo de Captura de Dinosaurios: especialista en contención</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_drt_crate:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/units/staff/DinoRecoveryTeam/DinoRecoveryCrateTeam_M_icon.dds" sx="0" sy="0" sw="64" sh="64"/>          
+                  <p/>
+		Este miembro del Equipo de Captura de Animales tiene un trabajo peligroso y es el capitán del equipo. Una vez que el especialista en tranquilización calma al dinosaurio descontrolado, el especialista en contención utiliza una pistola JAULA (Jaula Auxiliar Universal de Longitud Adaptable) para contenerlo.  
+		<p/>
+		Cuando suena la alarma de descontrol del 
+		<a href="zoopedia:zoopedia_dinorecoverybuilding:entry">
+               <u>
+                  <color r="255" g="231" b="135">búnker del Equipo de Captura de Dinosaurios</color>, 
+               </u>
+           	</a>
+		el equipo entra en acción.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_drt_robot:entry">Equipo de Captura de Dinosaurios: cebo robótico</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_drt_robot:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/units/staff/DinoRecoveryTeam/DinoRecovery_Robot_icon.dds" sx="0" sy="0" sw="64" sh="64"/>          
+                  <p/>
+		La mayoría de los dinosaurios tienen mala vista y el Equipo de Captura de Dinosaurios se aprovecha de este defecto. ¿Cómo? Envían un cebo robótico, que lleva sirenas y luces parpadeantes, para distraer al dinosaurio descontrolado. Cuando el dinosaurio se fija en el robot, el equipo lo tranquiliza. Este robot, fabricado con material orgánico, no es perjudicial para los dinosaurios.
+		<p/>
+		Cuando suena la alarma de descontrol del 
+		<a href="zoopedia:zoopedia_dinorecoverybuilding:entry">
+               <u>
+                  <color r="255" g="231" b="135">búnker del Equipo de Captura de Dinosaurios</color>, 
+               </u>
+           	</a>
+		el equipo entra en acción.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>     
+
+
+</ZT2Strings>

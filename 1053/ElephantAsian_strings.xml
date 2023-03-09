@@ -1,0 +1,180 @@
+﻿<ZT2Strings>
+   <entityname>
+      <!--animal names-->
+      <ElephantAsian>Asiatisk elefant</ElephantAsian>
+      <ElephantAsian_stt>Asiatisk elefant</ElephantAsian_stt>
+      <ElephantAsian_lower>den asiatiska elefanten</ElephantAsian_lower>
+      <ElephantAsian_ltt>
+         <color r="255" g="248" b="178">
+            <b>Asiatisk elefant</b>
+         </color>
+         <br/>
+         Klicka för att välja och placera sedan ut en asiatisk elefant, en stark elefant med mindre öron än den afrikanska elefanten.
+      </ElephantAsian_ltt>
+      <!--gift names-->
+      <ElephantAsian_Gift>Uppstoppad asiatisk elefant</ElephantAsian_Gift>
+      <ElephantAsian_Gift_stt>Uppstoppad asiatisk elefant</ElephantAsian_Gift_stt>
+      <ElephantAsian_Gift_lower>den uppstoppade asiatiska elefanten</ElephantAsian_Gift_lower>
+      <ElephantAsian_Gift_ltt>
+         <color r="255" g="248" b="178">
+            <b>Uppstoppad asiatisk elefant</b>
+         </color>
+         <br/>Besökare som tycker om den asiatiska elefanten kommer att köpa den här souveniren.
+      </ElephantAsian_Gift_ltt>
+   </entityname>
+   <zoopedia_elephantasian version="2">
+      <entry>Elefant, asiatisk</entry>
+      <text>
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/ElephantAsian/ElephantAsian_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/ElephantAsian/ElephantAsian_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>						 
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>	
+						<cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/endangered.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Hotstatus:
+                     <br/>
+                        <color r="255" g="155" b="0">
+                     Starkt hotad
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>            
+            
+               <cell width="128">
+                  <color r="255" g="255" b="255">Buskskog<br/></color>
+                  <img src="ui/icon_biomes/icon_scrub.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+               </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Sydostasien<br/></color>
+                  <img src="ui/icon_maplocations/Scrub_Asia_Southeast.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284">
+                  <color r="255" g="255" b="255">Klass: Däggdjur <i>(Mammalia)</i><br/>Ordning: Snabeldjur <i>(Proboscidea)</i><br/>Familj: Elefantdjur <i>(Elephantidae)</i><br/>Släkte: <i>Elephas</i><br/>Art:<i>Maximus</i></color>
+               </cell>
+               <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/scrub_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+               </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Roliga fakta om asiatiska elefanter</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">En nyfödd asiatisk elefant vårdas av sin mamma och andra honor i hjorden (som ibland kallas "mostrar").</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Asiatiska elefanter fungerar som vägröjare för andra djur - elefanternas stigar genom skogen används ofta av andra djur.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Elefanter använder lågfrekventa ljud för att kommunicera inom och utom hjorden. Ljudvågorna kan färdas upp till 15 km.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Den asiatiska elefanten kallades tidigare för indisk elefant.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Den asiatiska elefanten använder sina betar för att gräva, rycka upp träd och för att skaffa sig en position i hjorden.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Den dominanta elefanten i flocken är alltid en hona, matriarken, som oftast är den största, äldsta och mest erfarna honan i hjorden.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Toppen på elefantens snabel fungerar som elefantens pekfinger, och kan användas för att plocka upp små objekt, till exempel jordnötter.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Asiatiska elefanter spinner när de äter.</color>
+               </cell>
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">För att låsa upp den asiatiska elefanten i utmanings- eller kampanjläge måste din djurpark få ett anseende på minst 3 1/2 stjärnor.</color>
+            <p/>Elefanten är ett jättestort däggdjur som känns igen på den långa snabeln och de två långa, böjda betarna. Elefanter är mycket intelligent och starka, och är det största nu levande landdjuret. Dessutom lever de mycket länge och blir ofta 60 år eller äldre. Friska, fullvuxna elefanter har inga naturliga fiender, utom människan.
+            <p/>Genom historien har människan beundrat elefanter för deras storlek och enorma styrka. På slagfältet har soldater kämpat sida vid sida med elefanter som trampat ned och satt skräck i fienden. Tama elefanter har också använts för att bära last genom djungeln och för att forsla timmer från de skogar där de tidigare levde.
+            <p/>Elefanter har också varit föremål för religiös dyrkan, och i Thailand, Indien och andra länder i Sydostasien spelar utsmyckade elefanter fortfarande en central roll i traditionella religiösa ceremonier. Enligt den buddistiska traditionen valde Buddha en vit elefant som en av sina många jordiska inkarnationer, och än idag anses en vit elefant vara en gudomlig manifestation.
+            <p/>Fossilfynd av elefantens förfäder tyder på att elefanten tidigare levde på alla kontinenter utom Australien och Antarktis, men idag finns elefanten bara i Afrika och vissa delar av Sydostasien. Elefanter lever i många miljöer i Afrika och Sydostasien - grässlätter, träskmarker, skogar, öknar och bergstrakter. De är herbivorer, eller växtätare, och behöver enorma mängder energi för att föda den stora kroppen. De behöver dessutom mycket dricksvatten, vilket gör att de bara kan leva i miljöer med god tillgång till föda och vatten.
+            <p/>Till och med mindre elefanthjordar kan snabbt göra slut på vatten och föda i ett område, vilket tvingar hjorden att röra på sig. En elefanthjord vandrar efter årstiderna i en cirkelrörelse, ständigt på jakt efter vatten och föda inom reviret, som kan vara upp till 1 500 kvadratkilometer. En elefant kan vandra mellan 500 och 1 000 mil per år, vilket är den längsta uppmätta sträckan för ett däggdjur.
+            <p/>Afrikanska och asiatiska elefanter skiljer sig åt i fråga om storlek, färg och andra kännetecken. Den afrikanska elefanten är större än sin asiatiska kusin, och har mycket större öron. Hannar, eller tjurar, kan bli 4 meter höga och väga upp till 7 000 kg. Honorna, eller korna, är kortare med en medelhöjd på 2,8 m, och väger mindre, cirka 3 600 kg. Afrikanska elefanter är ljusgrå till färgen, även om de ofta kan vara mörkgrå, röda eller bruna efter ett gyttjebad. De har en låg, platt panna och en något krökt rygg. Öronen är i genomsnitt 1,5 m långa och 1,2 m breda. Både tjurar och kor har lång, böjda betar. 
+            <p/>Asiatiska elefanter är kortare och mer satt än sina afrikanska släktingar, med öron som inte når ned till skuldrorna. En asiatisk elefanttjur är i genomsnitt 3 m hög och väger omkring 2 300 kg, ungefär hälften av vad en afrikansk elefanttjur väger. En asiatisk elefantko är i genomsnitt 2,4 m hög och väger cirka 3 000 kg. Asiatiska elefanter har mörkgrått skinn, rak panna och en välvd rygg. Öronen är i genomsnitt 75 cm långa och 60 cm breda. Honornas betar är oftast bara små stumpar, eller saknas helt. 
+            <p/>Den stora vikten till trots kan elefanten röra sig nästan ljudlöst. Elefanten använder sina pelarlika ben för att röra sig framåt i mjuka, rytmiska rörelser. Under varje fot finns en tjock kudde av elastisk vävnad som hjälper till att dämpa stöten från den enorma vikten. Tårna hjälper till att hålla balansen när elefanten rör sig. Elefanten rör sig normalt med en hastighet av ungefär 6 km/h, men kan komma upp i 40 km/h när den springer. Elefanten kan inte galoppera eller hoppa över diken, men är en god simmare. Vattnet hjälper till att bära upp vikten och gör att elefanten kan simma långa sträckor utan att tröttna.
+            <p/>Elefantens betar är egentligen förlängda framtänder. Elefanten är det nu levande djur som har de största tänderna. Betarna används för att gräva efter rötter eller vatten, för att barka av träd, för att slåss under parningstiden, samt av afrikanska elefantkor för att skydda ungarna mot rovdjur som lejon och tigrar. En nyfödd elefant har framtänder som ersätts när ungen blir mellan 6 och 12 månader, och den andra uppsättningen tänder (som blir betarna) växer med ungefär 17 cm om året under elefantens hela liv. Hur mycket betarna växer beror på arvsanlag och tillgång till föda. Betarna slits ned när elefanten använder dem. Betarna på en afrikansk tjur väger mellan 20 och 45 kg och är mellan 1,8 och 2,4 m långa. Betarna på en fullvuxen asiatisk elefanttjur är i genomsnitt 1,5 m långa och väger 30 kg. Det faktum att den afrikanska elefanten har större betar, och att både afrikanska hannar och honor har betar, gör att djuren är mer intressanta för tjuvjägare än den asiatiska motsvarigheten.
+            <p/>Elefanten har totalt fyra kindtänder med sågtandade kanter som lätt mal ned löv, grenar och rötter. En enda tand kan väga mer än 5 kg och vara upp till 30 cm lång. De första kindtänderna finns i munnens framkant, och när dessa tänder har slitits ned flyttas två andra kindtänder som sitter längre bak framåt i munnen. Sedan växer två nya tänder ut längst bak i munnen som ersätter det tandpar som har flyttats framåt. Elefanten kan ersätta de bakre kindtänderna sex gånger under sitt liv. De sista kindtänderna slits ut när elefanten är mellan 40 och 60 år. Det är inte ovanligt att elefanter dör av svält när de sista kindtänderna är utslitna.
+            <p/>Elefanter har inga svettkörtlar i skinnet. I stället använder elefanten öronen som värmeväxlare för att reglera kroppstemperaturen. Genom att vifta på öronen kommer de många små blodkärlen i örat i kontakt med den omgivande luften, vilket kyler ned blodet innan det cirkulerar i kroppen. Den här kylmekanismen kan förklara varför den afrikanska elefanten som lever i ett varmare klimat har större öron än sin asiatiska släkting, som lever i ett kallare klimat. Elefantens svans saknar hår, men har en liten borste längst ut på spetsen som elefanten använder för att vifta bort flugor. En elefantsvans väger omkring 10 kg.
+            <p/>Elefanten har dålig syn, och ögonen är mycket små i relation till det stora huvudet. Ögonen kan bara röras en liten bit från sida till sida. Den begränsade ögonrörligheten gör att elefantens synfält är relativt litet, och elefanten måste röra hela kroppen för att bredda synfältet. De andra sinnena - hörsel, lukt, smak och känsel, är väl utvecklade. Det känsligaste organet är snabeln, som används för att hämta in luktintryck från föda och hot på marken samt i luften. Elefanter kan lukta sig till vatten över stora avstånd och kan höra vissa ljud på tusentals meters håll. 
+            <p/>Elefanten har ett rikt socialt liv och lever i tätt sammanhållna grupper som leds av en hona - samhällsordningen är matriarkalisk. Grupperna består av systrar, kusiner, mostrar och systerdöttrar samt ungar. Gruppen kan bestå av mellan 2 och 29 individer. Djuren lever i gruppen under hela sitt liv. Om gruppen blir för stor ger sig några honor av för att bilda en ny grupp. Gruppmedlemmarna badar, äter och förflyttar sig tillsammans. Djuren håller sig oftast inom 50 meter från matriarken och håller kontakten med ljudsignaler. Om ett djur kommer bort från hjorden firas djurets återkomst av en omständlig ceremoni som består av att djuren springer, snurrar, trumpetar, defekerar, urinerar, slår ihop betarna och gnuggar varandras kroppar med sina huvuden. Gruppen försvarar också sina unga, sjuka och gamla från rovdjur. När ledarhonan i hjorden dör tas hennes plats oftast av den näst äldsta elefantkon.
+            <p/>Elefanter kommunicerar med ljud, beröring, lukt och kroppsspråk. Beröring sker oftast med snabeln, och sträcker sig från en ömsint smekning av en unge till hårdhänta tillrättavisningar av en olydig yngre hanne. Elefanter kommunicerar också genom att knuffas, sparkas och gnida sig mot varandra.
+            <p/>Elefanten kan också höja rösten för att kommunicera och varna eller hälsa andra elefanter med kraftiga trumpetstötar. Djuren använder också lågfrekventa mullrande ljud som kan höras av andra elefanter på flera kilometers avstånd. Forskning har visat att elefanter kan kommunicera med infraljud, ljud som är för låga för att höras av människor.
+            <p/>Kommunikationen består också av olika feromonsekret i elefantens urin och avföring. Dessa kemiska luktsignaler kan uppfattas av andra elefanter i närheten, eller färdas av vindarna över större avstånd. Det sekret som elefanten avsöndrar under "musth" innehåller också luktmeddelanden. Dessutom kan elefanten kommunicera genom kroppsspråk. En afrikansk elefant som håller snabeln nära kroppen och viftar med utfällda öronen signalerar att djuret tänker gå till anfall. 
+            <p/>Det har skrivits mycket om elefantens känsloliv. Observationer av vilda elefanter tyder på att de är lojala och tillgivna, och att de ibland riskerar livet för de andra gruppmedlemmarna. Vilda elefanter har rapporterats fira nytillskott i familjen och kan sörja eller till och med fälla tårar över döda gruppmedlemmar. I fångenskap kan elefanter fästa sig vid en viss djurskötare eller cirkusarbetare, och vägra samarbeta med någon annan.
+            <p/>Av:<br/>David George Gordon
+            <p/>Granskat av:<br/>Russ Roach
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Innehållet har hämtats från <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2004.</color></u></a>(C) 1993-2003 Microsoft Corporation. Med ensamrätt.
+         </cell>
+      </text>
+   </zoopedia_elephantasian>
+</ZT2Strings>

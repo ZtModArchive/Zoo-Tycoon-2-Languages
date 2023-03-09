@@ -1,0 +1,254 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_meerkat" version="9"/>
+      <LOC_STRING _locID="zoopedia_meerkat:entry" version="9">Suricata</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_meerkat:text" version="9">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/Meerkat/Meerkat_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>							 
+						 <cell width="156"/>						 
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Estado de conservación:
+                     <br/>
+                        <color r="170" g="255" b="0">
+                     Riesgo bajo
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+				 <cell width="128">
+				  <color r="255" g="255" b="255">Monte bajo<br/></color>
+				  <img src="ui/icon_biomes/icon_scrub.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+				 </cell>	
+               <cell width="128">
+                  <color r="255" g="255" b="255">Sur de África</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/Savannah_Africa_South.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Clase: Mamíferos <i>(Mammalia)</i>
+                  <br/>
+                  Orden: Carnívoros <i>(Carnivora)</i>
+                  <br/>
+                  Familia: Civetas <i>(Viverridae)</i>
+                  <br/>
+                  Género: <i>suricata</i>
+                  <br/>
+                  Especie: <i>suricatta</i>
+                  <br/>
+                  Subespecie: <i>suricata</i>                  
+                  </color>
+               </cell>
+				 <cell width="256" pady="10">
+				  <img src="UI/zoopedia/biome/scrub_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+				 </cell>	
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Datos divertidos de la suricata</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Las suricatas son animales sociables que viven en grupos y comparten tanto el lugar de aseo como las responsabilidades del cuidado de las crías.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Los grupos de suricatas, cuyo número oscila normalmente entre cinco y 30 miembros, se denominan "bandas".</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Dado que muchos depredadores consideran a las suricatas un tentempié, siempre hay una suricata de guardia mientras el resto duerme o come.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">La dieta de las suricatas está compuesta de escarabajos, arañas, ciempiés, grillos y escorpiones (las suricatas son inmunes a su veneno).</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>               
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Las suricatas usan la cola para mantener el equilibrio y para comunicarse con otros miembros de su banda.</color>
+               </cell>                   
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">Para desbloquear a la suricata en los juegos de desafío o de campaña, debe ganar un nivel de fama del zoo de 3 estrellas y media.</color>
+            <p/>La suricata, también llamada suricato, es un pequeño miembro de la familia de las mangostas que habita en la parte sur de África. Las suricatas se caracterizan por su postura erguida y por ser muy sociables.
+
+<p/>Las suricatas suelen habitar en áreas áridas y abiertas, y en las sabanas. Estos animales tan sociables viven en colonias, normalmente en terrenos arenosos en los que pueden cavar intrincadas madrigueras subterráneas.
+
+<p/>Las suricatas miden entre 25 y 35 cm de longitud, sin incluir la cola. Son más delgadas que las mangostas, y tienen hocicos puntiagudos, la piel de color marrón plateado y franjas oscuras irregulares en la espalda. Tienen la cara blanca con manchas oscuras en las orejas y alrededor de los ojos. A diferencia de la mayoría de las mangostas, las suricatas tienen cuatro dedos, en lugar de cinco, en cada pata.
+
+<p/>Las suricatas salen en busca de comida sólo durante el día y se alimentan principalmente de insectos, especialmente de escarabajos, arañas y milpiés. En ocasiones comen pequeños vertebrados, huevos y raíces. Generalmente, tienen entre dos y cuatro crías que suelen nacer en verano o a principios del invierno, después de un periodo de gestación de unas 11 semanas. Tanto los machos como las hembras cuidan, limpian y protegen a las crías.
+
+<p/>Las suricatas suelen erguirse sobre sus patas traseras o incluso ponerse de puntillas para olfatear el viento y detectar la presencia de buitres que les puedan atacar. Tienen una vista excelente y son capaces de emitir hasta diez tipos de sonidos diferentes, incluyendo un ladrido de alarma.
+
+<p/>Debido a que las suricatas pueden transmitir la rabia, las suelen matar o asfixiar con gas en sus madrigueras en las zonas en las que suponen una amenaza para el hombre. Sin embargo, su número no se ha reducido de manera significativa. En Sudáfrica, estas criaturas tan cariñosas y fáciles de domesticar se utilizan como mascotas.
+
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Contenido adaptado de <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft® Encarta® 2006.</color></u></a> © 1993-2005 Microsoft Corporation. Reservados todos los derechos.
+         </cell>         
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_birdsecretary" version="9"/>
+      <LOC_STRING _locID="zoopedia_birdsecretary:entry" version="9">Secretario</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_birdsecretary:text" version="9">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/BirdSecretary/BirdSecretary_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>						 
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Estado de conservación:
+                     <br/>
+                        <color r="170" g="255" b="0">
+                     riesgo bajo
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+               <cell width="128">
+                  <color r="255" g="255" b="255">Pradera<br/></color>
+                  <img src="ui/icon_biomes/icon_grassland.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+               </cell>
+					<cell width="128">
+						<color r="255" g="255" b="255">África</color>
+						<br/>
+						<img src="ui/icon_maplocations/Grassland_Africa_Asia.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+					</cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Clase: Aves <i>(Aves)</i>
+                  <br/>
+                  Orden: Rapaz diurna <i>(Falconiformes)</i>
+                  <br/>
+                  Familia: <i>Sagittariidae</i>
+                  <br/>
+                  Género: <i>Sagittarius</i>
+                  <br/>
+                  Especie: <i>serpentarius</i>
+                  </color>
+               </cell>
+               <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/grassland_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+               </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Datos divertidos del secretario</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">En ocasiones, los secretarios caminan hasta 32 kilómetros al día con sus largas patas.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">En Sudáfrica, la gente a veces los utiliza de mascotas porque matan serpientes y ratas.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Las serpientes son el alimento favorito de los secretarios. Las agarran con los dedos de sus patas y las golpean contra el suelo utilizando las alas para protegerse de sus mordiscos.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Estas aves sólo tienen una pareja durante toda su vida y viven en el mismo nido durante muchos años. Aunque la mayor parte del tiempo viven en solitario, su pareja no suele estar muy lejos.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>               
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Los secretarios están en silencio la mayor parte del tiempo. El único sonido que emiten es un graznido que les sirve para cortejar a su pareja.</color>
+               </cell>                   
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">Para desbloquear al secretario en los juegos de desafío o de campaña, debe ganar un nivel de fama del zoo de 3 estrellas.</color>
+            <p/>Secretario es el nombre común de una gran ave de presa que habita en África, al sur del Sahara. Mide más de 1 m de longitud, y posee unas patas muy largas, una larga cola y un potente pico ganchudo. En muchos libros se dice que el nombre de este pájaro tiene su origen en el curioso parecido de las plumas de su cresta con varias plumas de escribir colocadas detrás de la oreja. Sin embargo, en realidad su nombre proviene de una mala pronunciación del nombre de la especie en árabe. En general, esta ave es de color gris azulado, aunque las plumas principales, los muslos y la cola son de color negro. El secretario se alimenta de pequeños animales y de reptiles, sobre todo de serpientes, a los que suele acechar. Los secretarios vuelan en muy pocas ocasiones. Estos solitarios pájaros construyen grandes y sólidos nidos con ramas de árboles o arbustos, y ponen dos huevos en cada nidada.
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Contenido adaptado de <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft® Encarta® 2006.</color></u></a> © 1993-2005 Microsoft Corporation. Reservados todos los derechos.
+         </cell>         
+      </LOC_STRING>
+
+</ZT2Strings>

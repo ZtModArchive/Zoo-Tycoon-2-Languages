@@ -1,0 +1,33 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_paths" version="2"/>
+      <LOC_STRING _locID="zoopedia_paths:entry" version="2">Gångar</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_paths:text" version="2">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>Det är viktigt att du är noga med hur du placerar ut gångarna om gästerna ska bli nöjda och röra sig i rätt riktning.
+                  <p/>Om du vill ha information om en viss gångtyp klickar du på Gångvägsmaterial i listan till vänster.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_staff" version="3"/>
+      <LOC_STRING _locID="zoopedia_staff:entry" version="3">Personal</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_staff:text" version="3">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>Du kan ha olika typer av anställda som hjälper dig att sköta om djurparken.
+                  <p/>Om du vill ha information om en viss kategori anställda klickar du på ett av alternativen i listan till vänster.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+
+</ZT2Strings>

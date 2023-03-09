@@ -1,0 +1,185 @@
+﻿<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_transportation:entry">Transporte</LOC_STRING> <LOC_STRING _locID="zoopedia_transportation:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>
+Zoo Tycoon 2: Endangered Species dispone de dos modos de transporte diferentes: vehículos Jeep&#xAE; y teleférico.
+                  <p/>
+Para ver la información acerca de una opción de transporte específica, haga clic en el nombre de la opción de transporte deseada en la lista de la izquierda.</color> 
+            </cell>
+         </cell>
+      </LOC_STRING> <LOC_STRING _locID="zoopedia_groundstation:entry">Estación de vehículos Jeep&#xAE;</LOC_STRING> <LOC_STRING _locID="zoopedia_groundstation:text">
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255"><img src="entities\transportation\stations\GroundStation\GroundStation_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+Los visitantes entran y salen de los <a href="zoopedia:zoopedia_groundvehicle:entry"><u><color r="255" g="231" b="135">vehículos Jeep&#xAE;</color></u></a> en la estación de vehículos Jeep&#xAE;. La estación de vehículos Jeep permanecerá cerrada hasta el momento en que se conecte a un circuito de <a href="zoopedia:zoopedia_groundtrack:entry"><u><color r="255" g="231" b="135">camino</color></u></a> cerrado válido. Una vez finalizado el circuito, se llevará a cabo la apertura de la estación de vehículos Jeep y podrá proveerla con los vehículos adquiridos para este fin.</color>
+    </cell>
+   </cell>
+  </LOC_STRING> <LOC_STRING _locID="zoopedia_skystation:entry">Estación de teleférico</LOC_STRING> <LOC_STRING _locID="zoopedia_skystation:text">
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255"><img src="entities\transportation\stations\SkyStation\SkyStation_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+Los visitantes entran y salen de los <a href="zoopedia:zoopedia_gondola:entry"><u><color r="255" g="231" b="135">coches de teleférico</color></u></a> en la estación de teleférico. La estación de teleférico permanecerá cerrada hasta el momento en que se conecte a uno de los circuitos cerrados del cable tendido. Una vez finalizado el circuito, se llevará a cabo la apertura de la estación de teleférico y podrá proveerla con los coches adquiridos para este fin.
+      <p/>
+Para poder instalar el cable de teleférico, compre y coloque los <a href="zoopedia:zoopedia_skytrampole:entry"><u><color r="255" g="231" b="135">soportes de teleférico.</color></u></a>
+      <p/>
+Sugerencia: para crear un circuito de dos estaciones en el mínimo espacio posible, conecte la primera estación a la segunda estación y, a continuación, lleve un cable directamente de la segunda estación a la primera. Los vehículos girarán en el interior del edificio de la estación.</color>
+    </cell>
+   </cell>
+  </LOC_STRING> <LOC_STRING _locID="zoopedia_skytrampole:entry">Soporte de teleférico</LOC_STRING> <LOC_STRING _locID="zoopedia_skytrampole:text">
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255"><img src="entities\transportation\track\skytower\skytower_icon.dds" sx="0" sy="0" sw="64" sh="64"/> <img src="entities\transportation\track\skytower\skytower_T_arm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+Los soportes de teleférico se utilizan para instalar el cable. Para conectar el cable de un soporte a una <a href="zoopedia:zoopedia_skystation:entry"><u><color r="255" g="231" b="135">estación de teleférico,</color></u></a> seleccione, en primer lugar, el soporte de teleférico en el panel de compras de transporte. Haga clic en la ubicación deseada para construir el soporte y, a continuación, haga clic en la estación para conectar el cable del soporte a la estación.
+		<p/>
+Los soportes de teleférico habituales cuentan con un solo ramal de cables y el cable se mueve en una única dirección. Los soportes de teleférico en forma de "T" disponen de dos ramales de cable conectados, uno para cada dirección. Los soportes en "T" pueden conectarse a estaciones y a otros soportes en "T", pero nunca a los soportes habituales.		
+     <p/>
+Sugerencia: puede ajustar la altura del soporte de teleférico. Coloque el cursor sobre el extremo superior de un soporte, para que aparezca el cursor de mano y, a continuación, haga clic y mantenga presionado el botón. Seguidamente, tire hacia arriba y hacia abajo para ajustar el soporte a la altura deseada.</color>
+    </cell>
+   </cell>
+  </LOC_STRING> <LOC_STRING _locID="zoopedia_groundtrack:entry">Camino</LOC_STRING> <LOC_STRING _locID="zoopedia_groundtrack:text">
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255"><img src="entities\transportation\track\ground\ground_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+Los caminos se usan para comunicar <a href="zoopedia:zoopedia_groundstation:entry"><u><color r="255" g="231" b="135">las estaciones de vehículos Jeep&#xAE;</color></u></a> de manera que los <a href="zoopedia:zoopedia_groundvehicle:entry"><u><color r="255" g="231" b="135">vehículos Jeep&#xAE;</color></u></a> puedan desplazarse entre ellas. Para que sea posible abrir las estaciones de vehículos Jeep, el camino deberá formar un circuito cerrado válido. ¡Tenga en cuenta que los caminos del Zoo Tycoon 2: Endangered Species son de una sola dirección!</color>
+    </cell>
+   </cell>
+  </LOC_STRING> <LOC_STRING _locID="zoopedia_crossinggate:entry">Puerta de cruce de caminos</LOC_STRING> <LOC_STRING _locID="zoopedia_crossinggate:text">
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255"><img src="entities\transportation\crossinggate\crossinggate_end\crossinggate_end_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+Instale una puerta de cruce de caminos en los puntos en los que los senderos se cruzan con los caminos, para evitar que los peatones vayan por la carretera en el momento en que se aproxime un vehículo Jeep&#xAE;. La puerta de cruce de caminos se baja antes de que el vehículo llegue y se sube en cuanto el vehículo ha pasado.</color>
+    </cell>
+   </cell>
+  </LOC_STRING> <LOC_STRING _locID="zoopedia_elevatedpath:entry">Senderos elevados</LOC_STRING> <LOC_STRING _locID="zoopedia_elevatedpath:text">
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255"><img src="entities\objects\paths\elevatedpaths\ElevatedPath_Stone_end\ElevatedPath_Stone_end_icon.dds" sx="0" sy="0" sw="64" sh="64"/> <img src="entities\objects\paths\elevatedpaths\ElevatedPath_Wood_end\ElevatedPath_Wood_end_icon.dds" sx="0" sy="0" sw="64" sh="64"/>      
+      <p/>
+Los senderos elevados pueden usarse para llegar a lugares de difícil acceso o para ofrecer a los visitantes una mejor vista del zoo. Use las rampas para llevar los senderos elevados hasta el suelo o comunicarlos con otros senderos elevados. Si lo desea, podrá colocar edificios y otros objetos sobre estos senderos planos elevados. 
+      <p/>
+Cuando construye senderos elevados, los soportes de éstos se instalan de forma automática. Es posible eliminar los soportes si así lo desea.</color>
+    </cell>
+   </cell>
+  </LOC_STRING> <LOC_STRING _locID="zoopedia_elevatedpathrailing:entry">Barandilla de sendero elevado</LOC_STRING> <LOC_STRING _locID="zoopedia_elevatedpathrailing:text">
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255"><img src="entities\objects\paths\elevatedpaths\ElevatedPath_Stone_end\Curb_Stone_end_icon.dds" sx="0" sy="0" sw="64" sh="64"/> <img src="entities\objects\paths\elevatedpaths\ElevatedPath_Stone_end\Curb_Stone_high_end_icon.dds" sx="0" sy="0" sw="64" sh="64"/> <img src="entities\objects\paths\elevatedpaths\ElevatedPath_Wood_end\Curb_Wood_end_icon.dds" sx="0" sy="0" sw="64" sh="64"/> <img src="entities\objects\paths\elevatedpaths\ElevatedPath_Wood_end\Curb_Wood_high_end_icon.dds" sx="0" sy="0" sw="64" sh="64"/>      
+      <p/>
+Las barandillas, además de ser un elemento decorativo para los senderos elevados, cumplen con una función más práctica: evitar que alguien se caiga. Si desea cambiar el aspecto, puede cambiar las barandillas de sendero elevado por otras.</color>
+    </cell>
+   </cell>
+  </LOC_STRING> <LOC_STRING _locID="zoopedia_groundvehicle:entry">Vehículos Jeep&#xAE;</LOC_STRING> <LOC_STRING _locID="zoopedia_groundvehicle:text">
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255"><img src="entities\transportation\vehicles\Jeep_Wrangler\Jeep_Wrangler_icon.dds" sx="0" sy="0" sw="64" sh="64"/> <img src="entities\transportation\vehicles\Jeep_Commander\Jeep_Commander_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+Los vehículos Jeep&#xAE; transportan a los visitantes entre <a href="zoopedia:zoopedia_groundstation:entry"><u><color r="255" g="231" b="135">las distintas estaciones de vehículos Jeep.</color></u></a> El Jeep Wrangler puede llevar tres visitantes y el Jeep Commander puede llevar seis.</color>
+    </cell>
+   </cell>
+  </LOC_STRING> <LOC_STRING _locID="zoopedia_groundvehicleupgrade:entry">Vehículos Jeep&#xAE;, decorados</LOC_STRING> <LOC_STRING _locID="zoopedia_groundvehicleupgrade:text">
+    <cell pady="0" width="1000"/>
+    <p/>
+    <cell width="260"/>
+    <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+     <cell width="600" padx="20" pady="20">
+      <color r="255" g="255" b="255"><img src="entities\transportation\vehicles\Jeep_Wrangler\Jeep_Wrangler_Upgraded_icon.dds" sx="0" sy="0" sw="64" sh="64"/> <img src="entities\transportation\vehicles\Jeep_Commander\Jeep_Commander_Upgraded_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+       <p/>
+Los vehículos Jeep&#xAE; transportan a los visitantes entre <a href="zoopedia:zoopedia_groundstation:entry"><u><color r="255" g="231" b="135">las distintas estaciones de vehículos Jeep.</color></u></a> El Jeep Wrangler puede llevar tres visitantes y el Jeep Commander puede llevar seis. 
+<p/>
+Los vehículos Jeep decorados presentan diseños decorativos y para desbloquearlos deberá ganar el Premio al recorrido Tycoon de Segundo Nivel.</color> 
+     </cell>
+    </cell>
+   </LOC_STRING> <LOC_STRING _locID="zoopedia_gondola:entry">Coches de teleférico</LOC_STRING> <LOC_STRING _locID="zoopedia_gondola:text">
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255"><img src="entities\transportation\vehicles\gondola\Gondola_1Seat_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/> <img src="entities\transportation\vehicles\gondola\Gondola_2Seats_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/> <img src="entities\transportation\vehicles\gondola\Gondola_4Seats_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>      
+      <p/>
+Los coches de teleférico transportan a los visitantes <a href="zoopedia:zoopedia_skystation:entry"><u><color r="255" g="231" b="135">entre las distintas estaciones de teleférico.</color></u></a> El número de visitantes que se puede transportar varía según el tipo de coche de teleférico que se utilice.</color>
+    </cell>
+   </cell>
+  </LOC_STRING> <LOC_STRING _locID="zoopedia_gondolaupgrade:entry">Coches de teleférico, actualizados</LOC_STRING> <LOC_STRING _locID="zoopedia_gondolaupgrade:text">
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255"><img src="entities\transportation\vehicles\gondola\Gondola_1Seat_icon.dds" sx="0" sy="0" sw="64" sh="64"/> <img src="entities\transportation\vehicles\gondola\Gondola_2Seats_icon.dds" sx="0" sy="0" sw="64" sh="64"/> <img src="entities\transportation\vehicles\gondola\Gondola_4Seats_icon.dds" sx="0" sy="0" sw="64" sh="64"/>      
+      <p/>
+Los coches de teleférico transportan a los visitantes <a href="zoopedia:zoopedia_skystation:entry"><u><color r="255" g="231" b="135">entre las distintas estaciones de teleférico.</color></u></a> El número de visitantes que se puede transportar varía según el tipo de coche de teleférico que se utilice. 
+		<p/>
+Los coches de teleférico actualizados presentan diseños decorativos y para desbloquearlos deberá ganar el Premio al transporte Tycoon de Tercer Nivel.</color>
+    </cell>
+   </cell>
+  </LOC_STRING> <LOC_STRING _locID="zoopedia_sixseater:entry">Seis asientos</LOC_STRING> <LOC_STRING _locID="zoopedia_sixseater:text">
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255"><img src="entities\transportation\vehicles\Jeep_Commander\Jeep_Commander_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+      [ADDSTUFF]</color>
+    </cell>
+   </cell>
+  </LOC_STRING> <LOC_STRING _locID="zoopedia_suv:entry">Ocho asientos</LOC_STRING> <LOC_STRING _locID="zoopedia_suv:text">
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255"><img src="entities\transportation\stations\SkyStation\SkyStation_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+      [ADDSTUFF]</color>
+    </cell>
+   </cell>
+  </LOC_STRING> <LOC_STRING _locID="zoopedia_truck:entry">Seis asientos</LOC_STRING> <LOC_STRING _locID="zoopedia_truck:text">
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255"><img src="entities\transportation\stations\SkyStation\SkyStation_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+      [ADDSTUFF]</color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+ 
+</ZT2Strings>
