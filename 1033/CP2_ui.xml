@@ -1,0 +1,197 @@
+<ZT2Strings>
+      <LOC_STRING _locID="mainmenu" version="9" />
+      <LOC_STRING _locID="mainmenu:legalcopy1" version="9"  >
+         <font name="arial" size="10" shadowx="0" shadowy="0">
+            <b>© &amp; (p) 2007 Microsoft Corporation. All rights reserved.</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="mainmenu:legalcopy2" version="9"  >
+         <font name="arial" size="10" shadowx="0" shadowy="0">
+            <b>Developed by Blue Fang Games for Microsoft Corporation.</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="mainmenu:legalcopy3" version="9"  >
+         <font name="arial" size="10" shadowx="0" shadowy="0">
+            <b>This program is protected by U.S. and international copyright law</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="mainmenu:legalcopy4" version="9"  >
+         <font name="arial" size="10" shadowx="0" shadowy="0">
+            <b>as described in Help/About.</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="mainmenu:cp2_installed_stt" version="9"  >Extinct Animals Installed</LOC_STRING>
+      <LOC_STRING _locID="mainmenu:cp2_installed_ltt" version="9"  >
+         <color r="255" g="248" b="178">
+            <b>Extinct Animals Installed</b>
+         </color>
+         <br>Extinct Animals expansion pack is installed. </br>
+      </LOC_STRING>
+      <LOC_STRING _locID="mainmenu:tutorial_intro_text_extinct" version="9"  >
+         <font name="arial" size="20" image="ui\font\color_mainmenu.tga">
+            <color r="255" g="197" b="78">
+               <b>Would you like to learn how to play Zoo Tycoon 2: Extinct Animals?</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="fptranqdisplay:tranqscreen_format1"  >
+         <font name="arial" size="9">
+            <color r="92" g="255" b="64">
+               <b>%text%</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="fptranqdisplay:tranqscreen_format2"  >
+         <font name="arial" size="9">
+            <color r="255" g="92" b="64">
+               <b>%text%</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="fptranqdisplay:tranqtarget_label_message"  >
+      Target:
+      </LOC_STRING>
+      <LOC_STRING _locID="fptranqdisplay:tranqscreen_format3"  >
+         <font name="arial" size="12">
+            <color r="210" g="50" b="0">
+               <b>%text%</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="fptranqdisplay:tranqdistance_label_message"  >
+      Meters to target: 
+      </LOC_STRING>
+      <LOC_STRING _locID="fptranqdisplay:tranqdistance_outofrange_message"  >
+      TARGET OUT OF RANGE! 
+      </LOC_STRING>
+      <LOC_STRING _locID="cloningfeedback:animal_format"  >
+          <font name="arial" size="12">
+            <color r="92" g="255" b="64">
+               <b>%text%</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="cloningfeedback:initial_message"  >
+      Click the computer screen or press SPACEBAR to start.
+      </LOC_STRING>
+      <LOC_STRING _locID="cloningfeedback:which_animal_success"  >
+      Great job! You created %s. Super animals are larger, healthier, and longer living than regular animals.
+      </LOC_STRING>
+      <LOC_STRING _locID="cloningfeedback:which_animal_normal"  >
+      Well done! You created %s.
+      </LOC_STRING>
+      <LOC_STRING _locID="cloningfeedback:which_animal_failure"  >
+      Oops, your attempt failed! Keep trying, you're sure to get a better animal next time!
+      </LOC_STRING>
+      <LOC_STRING _locID="cloningfeedback:missing_animal_failure"  >
+      Uh-oh! You haven't unlocked any extinct animals yet! Try finding some fossils first.
+      </LOC_STRING>
+      <LOC_STRING _locID="cloningfeedback:no_animal_failure"  >
+      What happened? Press SPACEBAR to try again, or press ESC to leave the lab. Click the ? button to the left if you need more help.
+      </LOC_STRING>
+      <LOC_STRING _locID="cloningfeedback:no_clicks_failure"  >
+      Remember, click the mouse or press the arrow keys when the scan line hits the icons on the screen.
+      </LOC_STRING>
+      <LOC_STRING _locID="puzzlefeedback:animal_format"  >
+          <font name="arial" size="12">
+            <color r="200" g="192" b="168">
+               <b>%text%</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="fpfossildisplay:piece_found"  >You uncovered a fossilized piece of %1s! (%2s)</LOC_STRING>
+      <LOC_STRING _locID="fpfossildisplay:puzzle_ready"  >You can now build %s fossil at the Extinct Research Lab!</LOC_STRING>
+      <LOC_STRING _locID="fpfossildisplay:placeable_object_found"  >You found %s.</LOC_STRING>
+      <LOC_STRING _locID="fpfossildisplay:nonplaceable_object_found"  >You received %2m for %1s you found.</LOC_STRING>
+      <LOC_STRING _locID="fpfossildisplay:next_level_unlocked"  >Your fossil finder was upgraded. Now you can find more fossils!</LOC_STRING>
+      <LOC_STRING _locID="fpfossildisplay:next_level_unavailable"  >Increase your zoo fame to upgrade your fossil finding device!</LOC_STRING>
+      <LOC_STRING _locID="minigameHelp:minigameHelp_format"  >
+         <font name="arial" size="9" shadowx="1" shadowy="1">
+            <color r="250" g="250" b="200">
+               <b>%text%</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="minigameHelp:minigameHelp_FossilFinding"  >
+      <u>Controls:</u>
+      <br/>
+      Movement: Arrow Keys (Hold SHIFT to run)
+      <br/>
+      Turn/Look: Move mouse
+      <br/>
+      Dig fossil sites: SPACEBAR
+      <p/>
+      Welcome to fossil finding!  In this game mode, you can walk around your zoo with your handheld Fossil Finder and look for hidden fossil pieces in your zoo. 
+      <p/>
+      The vertical bar in the center of your Fossil Finder lets you know when you're approaching an underground object. When you get really close, a dig site marker automatically appears. Press SPACEBAR to dig at that site, or leave it to continue looking for other sites.   
+      <p/>
+      All of the fossils you collect will be placed at the Extinct Research Lab.  When you have enough pieces to assemble a complete fossil, go to the Lab, select the Fossil Building tab and start the Fossil Building game!
+      </LOC_STRING>
+      <LOC_STRING _locID="minigameHelp:minigameHelp_FossilBuilding"  >
+      <u>Controls:</u>
+      <br/>
+      Move Pieces: Click and drag pieces.
+      <br/>
+      Rotate Pieces: &lt; and &gt; 
+      <br/>
+      Reset Puzzle: Ctrl-R
+      <br/>
+      NOTE: Pieces must be inside the skeleton outline to lock in place.      
+      <p/>
+      Welcome to the Extinct Research Lab's fossil building room.  
+      <p/>
+      You must correctly arrange the fossil pieces you found to assemble a complete fossilized skeleton. Click and drag the pieces to move them. When a piece is correctly placed, it changes color when you release the left mouse button. To help you, one piece -- an anchor piece -- is in place when you start.   
+      <p/>
+      If you would like to reset the puzzle, press Ctrl-R.  This will give you a new starting piece, but it will reset all the other pieces, so be careful!
+      </LOC_STRING>
+      <LOC_STRING _locID="minigameHelp:minigameHelp_Cloning"  >
+      <u>Controls:</u>
+      <br/>
+      Start Game: SPACEBAR
+      <br/>
+      To Play: Press the correct arrow key or click the mouse button when the scan line crosses the icon. 
+      <p/>
+      On higher-star animals, ? icons may appear and cover the symbols that you must press. Memorize the pattern when it flashes, and then press the right key when the scan line crosses or you won't get a perfect score!
+      <p/>
+      Welcome to the Extinct Research Lab's animal creation room! If you found the fossil pieces of an animal and put them together, you can create that animal here at the lab! By selecting the animal to create, you have started the animal creation pattern-matching game!  
+      <p/>
+      Pressing SPACEBAR or clicking the computer screen starts the process. You need to match the pattern of icons on the computer screen as the scan line crosses over them. 
+      <p/>
+      If you do a great job, you create a super version of the animal. These are the happiest, healthiest, and strongest animals, and guests enjoy them most. Do an okay job and you get a regular version. Fail and you could get ... something entirely different. 
+      </LOC_STRING>
+      <LOC_STRING _locID="minigameHelp:minigameHelp_DiseaseResearch"  >
+      <u>Controls:</u>
+      <br/>
+      Movement: Arrow Keys (Hold SHIFT to run)
+      <br/>
+      Take a sample: SPACEBAR
+      <p/>
+      Welcome to disease curing mode. If your animals catch a disease, you can conduct research to find a cure.  
+      <p/>
+      In this mode, you walk around your zoo and use SPACEBAR to sample possible cure items. First, you need to take a small sample from one of your sick animals.  
+      <p/>
+      Once your research team analyzes the sample, you get your first research report from the lab. These reports help you find what you need to assemble the cure. You can use the research report button to get additional research updates from the lab, but for each one of these hints, you earn less money when you finally find the cure. Keep in mind that the items you need for the cure might not be in your zoo yet!
+      <p/>
+      Once you find the cure, go into Zoo Guest Mode and cure your animals the same way you would wash or heal them. You can also give your zookeepers the disease cure, so they can cure your animals for you!
+      </LOC_STRING>
+      <LOC_STRING _locID="minigameHelp:minigameHelp_Tranquilize"  >
+      <u>Controls:</u>
+      <br/>
+      Movement: Arrow Keys (Hold SHIFT to run)
+      <br/>
+      Turn/Look: Move mouse
+      <br/>
+      Charge tranquilization gun: 
+      <br/>
+      Center your target on a rampaging animal.
+      <br/>
+      Fire tranquilization gun: SPACEBAR
+      <br/>
+      <u>NOTE:</u> The gun must be fully charged to have any effect.
+      <p/>
+
+      Got a rampaging dino, eh? You've got the right tools for the job! To calm down a rampaging dino, get one in your sights, steady your aim on the target, and press SPACEBAR to fire the tranquilizer after your gun powers up to a full charge. The charge time on larger dinos is longer than for smaller ones, because the larger dinos need a stronger dose. Hold steady! If your aim wavers from your target, your tranquilizer gun loses some of its charge.  
+      <p/>
+      When you tranquilize a rampaging dino, it settles down and sleeps for a little while. You can then pick it up, crate it, and move it back to its exhibit. If an animal doesn't show up on your target display, it's not a rampaging dino.   
+      </LOC_STRING>
+</ZT2Strings>
