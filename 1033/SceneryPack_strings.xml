@@ -1,0 +1,190 @@
+<ZT2Strings>
+   <!--entity names-->
+   <entityname>
+      <!--scenery object names-->
+      <Statue_Gorilla_df>Gorilla Statue</Statue_Gorilla_df>
+      <Statue_Gorilla_df_stt>Gorilla statue</Statue_Gorilla_df_stt>
+      <Statue_Gorilla_df_lower>the gorilla statue</Statue_Gorilla_df_lower>
+      <Statue_Gorilla_df_ltt>
+         <color r="255" g="248" b="178">
+            <b>Gorilla Statue</b>
+         </color>
+         <br/>
+         Click to select and then place the gorilla statue, a beautiful statue of a mother gorilla and her baby.
+      </Statue_Gorilla_df_ltt>
+      <Statue_Tiger_df>Tiger Statue</Statue_Tiger_df>
+      <Statue_Tiger_df_stt>Tiger statue</Statue_Tiger_df_stt>
+      <Statue_Tiger_df_lower>the tiger statue</Statue_Tiger_df_lower>
+      <Statue_Tiger_df_ltt>
+         <color r="255" g="248" b="178">
+            <b>Tiger Statue</b>
+         </color>
+         <br/>
+         Click to select and then place the tiger statue, a beautiful statue of a mother tiger and her cubs.
+      </Statue_Tiger_df_ltt>
+      <Playground_TortoiseTrampoline_df>Tortoise Trampoline</Playground_TortoiseTrampoline_df>
+      <Playground_TortoiseTrampoline_df_stt>Tortoise trampoline</Playground_TortoiseTrampoline_df_stt>
+      <Playground_TortoiseTrampoline_df_lower>the tortoise trampoline</Playground_TortoiseTrampoline_df_lower>
+      <Playground_TortoiseTrampoline_df_ltt>
+         <color r="255" g="248" b="178">
+            <b>Tortoise Trampoline</b>
+         </color>
+         <br/>
+         Click to select and then place a tortoise trampoline, which children love to bounce on.
+      </Playground_TortoiseTrampoline_df_ltt>
+      <Fountain_Small_df>Small Fountain</Fountain_Small_df>
+      <Fountain_Small_df_stt>Small fountain</Fountain_Small_df_stt>
+      <Fountain_Small_df_lower>the small fountain</Fountain_Small_df_lower>
+      <Fountain_Small_df_ltt>
+         <color r="255" g="248" b="178">
+            <b>Small Fountain</b>
+         </color>
+         <br/>
+         Click to select and then place a small fountain, which guests enjoy seeing.
+      </Fountain_Small_df_ltt>
+      <Fountain_Splash_df>Splash Fountain</Fountain_Splash_df>
+      <Fountain_Splash_df_stt>Splash fountain</Fountain_Splash_df_stt>
+      <Fountain_Splash_df_lower>the splash fountain</Fountain_Splash_df_lower>
+      <Fountain_Splash_df_ltt>
+         <color r="255" g="248" b="178">
+            <b>Splash Fountain</b>
+         </color>
+         <br/>
+         Click to select and then place a splash fountain, a cool, wet source of amusement for children.
+      </Fountain_Splash_df_ltt>
+      
+      <!--fence names-->      
+      <brickwindow_df>Brick Window Fence</brickwindow_df>
+      <brickwindow_df_stt>Brick window fence</brickwindow_df_stt>
+      <brickwindow_df_lower>the brick window fence</brickwindow_df_lower>
+      <brickwindow_df_ltt>
+         <color r="255" g="248" b="178">
+            <b>Brick Window Fence</b>
+         </color>
+         <br/>
+         Click to select and then place sections of brick window fence, which is both strong and provides a good view.
+      </brickwindow_df_ltt>
+      <stonewindow_df>Stone Window Fence</stonewindow_df>
+      <stonewindow_df_stt>Stone window fence</stonewindow_df_stt>
+      <stonewindow_df_lower>the stone window fence</stonewindow_df_lower>
+      <stonewindow_df_ltt>
+         <color r="255" g="248" b="178">
+            <b>Stone Window Fence</b>
+         </color>
+         <br/>
+         Click to select and then place sections of stone window fence, which is both strong and provides a good view.
+      </stonewindow_df_ltt>
+      <junglewindow>Jungle Window Fence</junglewindow>
+      <junglewindow_stt>Jungle window fence</junglewindow_stt>
+      <junglewindow_lower>the jungle window fence</junglewindow_lower>
+      <junglewindow_ltt>
+         <color r="255" g="248" b="178">
+            <b>Jungle Window Fence</b>
+         </color>
+         <br/>
+         Click to select and then place sections of jungle window fence, which is strong and provides a good view.
+      </junglewindow_ltt>            
+   </entityname>
+   
+   <!--Zoopedia entries-->
+   <zoopedia_brickwindow>
+	      <entry>Brick Window Fence</entry>
+	      <text>
+	         <cell pady="0" width="1000"/>
+	         <p/>
+	         <cell width="260"/>
+	         <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+	            <cell width="600" padx="20" pady="20">
+	               <color r="255" g="255" b="255">
+	                  <img src="entities\objects\fences\brickwindow_df\brickwindow_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+	                  <p/>The brick window fence provides your guests with an excellent view of the animals while providing security against animal escapes at the same time.
+	                  <p/>Use the brick window fence with the regular brick fence for an attractive and durable exhibit.
+	               </color>
+	            </cell>
+	         </cell>
+	      </text>
+   </zoopedia_brickwindow>
+   <zoopedia_stonewindow>
+		      <entry>Stone Window Fence</entry>
+		      <text>
+		         <cell pady="0" width="1000"/>
+		         <p/>
+		         <cell width="260"/>
+		         <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+		            <cell width="600" padx="20" pady="20">
+		               <color r="255" g="255" b="255">
+		                  <img src="entities\objects\fences\stonewindow_df\stonewindow_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+		                  <p/>The stone window fence provides your guests with an excellent view of the animals while providing security against animal escapes at the same time.
+		                  <p/>Use the stone window fence with the regular stone fence for an attractive and durable exhibit.
+		               </color>
+		            </cell>
+		         </cell>
+		      </text>
+   </zoopedia_stonewindow>
+   <zoopedia_junglewindow>
+		      <entry>Jungle Window Fence</entry>
+		      <text>
+		         <cell pady="0" width="1000"/>
+		         <p/>
+		         <cell width="260"/>
+		         <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+		            <cell width="600" padx="20" pady="20">
+		               <color r="255" g="255" b="255">
+		                  <img src="entities\objects\fences\junglewindow_jt\junglewindow_jt_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+		                  <p/>The jungle window fence provides your guests with an excellent view of the animals while providing security against animal escapes at the same time.
+		                  <p/>Fencing that reflects a jungle theme is best used when building exhibits for jungle and rainforest animals, including the tiger, gorilla, and chimpanzee. Guests appreciate themed objects.
+		               </color>
+		            </cell>
+		         </cell>
+		      </text>
+   </zoopedia_junglewindow> 
+   <zoopedia_tortoisetrampoline>
+      <entry>Trampoline, Tortoise</entry>
+      <text>
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+               <img src="entities/objects/scenery/Playground_TortoiseTrampoline_df/Playground_TortoiseTrampoline_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>               
+                  <p/>
+                  <p/>Kids love to climb up on the back of this colorful inflatable tortoise and bounce high into the air on the trampoline.
+               </color>
+            </cell>
+         </cell>
+      </text>
+   </zoopedia_tortoisetrampoline>
+   <zoopedia_fountainsmall>
+      <entry>Fountain, Small</entry>
+      <text>
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+               <img src="entities\objects\scenery\Fountain_Small_df\Fountain_Small_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>The small fountain is the ideal way to beautify your zoo without taking up too much space. Guests enjoy seeing fountains in your zoo.
+               </color>
+            </cell>
+         </cell>
+      </text>
+   </zoopedia_fountainsmall>
+   <zoopedia_fountainsplash>
+      <entry>Fountain, Splash</entry>
+      <text>
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities\objects\scenery\Fountain_Splash_df\Fountain_Splash_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>The splash fountain is designed so that children can run inside and play in the fountain's cool, refreshing waters.
+               </color>
+            </cell>
+         </cell>
+      </text>
+   </zoopedia_fountainsplash>   
+</ZT2Strings>

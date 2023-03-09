@@ -1,0 +1,52 @@
+﻿<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_zoofamescores" version="2" />
+      <LOC_STRING _locID="zoopedia_zoofamescores:order" version="2"  >!!!Zoo Fame Scores</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_zoofamescores:entry" version="2"  >Zoo Fame Scores</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_zoofamescores:text" version="2"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>
+Every zoo you create in Zoo Tycoon 2 is assigned a zoo fame score on a scale of between 1 and 5 stars. Your zoo fame score is always displayed in the upper-left corner of the main game window.
+                  <p/>
+Your zoo fame score is determined by a combination of factors:
+                  <p/>
+                  <i>Number of Animals</i>
+                  <br/>
+                  The more animals you have in your zoo, the more famous it becomes. Add animals to your zoo to increase your fame.
+                  <p/>
+                  <i>Number of Species</i>
+                  <br/>
+                  Having multiple species in your zoo makes it more famous. Try adopting animals from many different species in order to become as famous as possible!
+                  <p/>
+                  <i>Animal Happiness</i>
+                  <br/>
+                  Even if you have lots of animals from many different kinds of species, if they aren’t happy then your zoo won’t be famous. Keep your animals happy by meeting their needs.
+                  <p/>
+                  <i>Educational Habitats</i>
+                  <br/>
+                  Educational zoos are more famous. Guests are educated by seeing animals in their native habitat alongside rocks and foliage from that habitat. Hiring educators also helps. Grouping compatible biomes together aids education: it’s more educational to put a scrub exhibit next to a savannah exhibit than next to a tundra exhibit.  
+                  <p/>
+                  <i>Entertaining Animals</i>
+                  <br/>
+                  Guests like having a good view of healthy, happy, and active animals. They also like rare and exotic animals. To ensure guests are enjoying your animals make sure the animals are happy, they have lots of things to do, and that guests can view them from close-up.
+                  <p/>
+                  <i>Guest Happiness</i>
+                  <br/>
+                  Even if your zoo is educational and your animals are very entertaining, if your guests aren’t happy, then your zoo won’t be famous. Keep your guests happy by meeting their needs.
+                  <p/>
+                  <i>Goals</i>
+                  <br/>
+                  Your zoo can become more famous by meeting challenges and earning awards. You won’t lose this fame. This is not counted in scenario games.
+                  <p/>
+                  <i>Release to Wild</i>
+                  <br/>
+                  Releasing animals into the wild increases the fame for your zoo. You won’t lose this fame.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+</ZT2Strings>

@@ -1,0 +1,128 @@
+<ZT2Strings>
+   <entityname>
+      <!--animal names-->
+      <LeopardBlack>Black Leopard</LeopardBlack>
+      <LeopardBlack_stt>Black leopard</LeopardBlack_stt>
+      <LeopardBlack_lower>the black leopard</LeopardBlack_lower>
+      <LeopardBlack_ltt>
+         <color r="255" g="248" b="178">
+            <b>Black Leopard</b>
+         </color>
+         <br/>
+         Click to select and then place a black leopard, a melanistic version of the leopard.
+      </LeopardBlack_ltt>
+      <!--gift names-->
+      <LeopardBlack_Gift>Black Leopard Backpack</LeopardBlack_Gift>
+      <LeopardBlack_Gift_stt>Black leopard backpack</LeopardBlack_Gift_stt>
+      <LeopardBlack_Gift_lower>the black leopard backpack</LeopardBlack_Gift_lower>
+      <LeopardBlack_Gift_ltt>
+         <color r="255" g="248" b="178">
+            <b>Black Leopard Backpack</b>
+         </color>
+         <br/>Guests who enjoy watching the black leopard will buy this gift.
+      </LeopardBlack_Gift_ltt>
+      <LeopardBlack_Gift_Adult>Black Leopard Backpack</LeopardBlack_Gift_Adult>
+      <LeopardBlack_Gift_Adult_stt>Black leopard backpack</LeopardBlack_Gift_Adult_stt>
+      <LeopardBlack_Gift_Adult_lower>the black leopard backpack</LeopardBlack_Gift_Adult_lower>
+      <LeopardBlack_Gift_Adult_ltt>
+         <color r="255" g="248" b="178">
+            <b>Black Leopard Backpack</b>
+         </color>
+         <br/>Guests who enjoy watching the black leopard will buy this gift.
+      </LeopardBlack_Gift_Adult_ltt>
+   </entityname>
+   <zoopedia_leopardblack version="2">
+      <entry>Leopard, Black</entry>
+      <text>
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/LeopardBlack/LeopardBlack_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						</cell>
+						<cell width="16">
+							<img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						</cell>
+						<cell width="16">
+							<img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						</cell>
+						<cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Conservation Status:
+                     <br/>
+                        <color r="170" g="255" b="0">
+                     Lower Risk
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>             
+            
+               <cell width="128">
+                  <color r="255" g="255" b="255">Tropical Rainforest<br/></color>
+                  <img src="ui/icon_biomes/icon_tropicalrainforest.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+               </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Africa<br/></color>
+                  <img src="ui/icon_maplocations/Rainforest_Africa.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">Class: Mammals <i>(Mammalia)</i><br/>Order: Carnivores <i>(Carnivora)</i><br/>Family: Cats <i>(Felidae)</i><br/>Genus: <i>Panthera</i><br/>Species:<i>pardus</i></color>
+               </cell>
+               <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/tropicalrainforest_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+               </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Fun Black Leopard Facts</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">The black leopard is a melanistic variation of the leopard.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">The black leopard does indeed have spots. Close up and in just the right light, you can see them.</color>
+               </cell>
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">To unlock the black leopard in challenge or campaign games, you must earn a 3-star zoo fame rating for your zoo.</color>
+<p/>Like the leopard, the black leopard has spots, but they are harder to see.
+<p/>Leopard is the common name for a large member of the cat family that occupies a wide range of habitats and has the most extensive distribution of any of the wild species of cat, occurring throughout much of Africa and Asia. The body of an adult leopard is about 0.91 to 1.91 m (3 to 6.3 ft) long, exclusive of the 1-m (3-ft) tail. Typically the coat is pale tan, and it is marked with broken circles of black spots. Unlike the rosettes of the American jaguar, these circles have no central spot. Specimens with darker ground colors are seen, and some leopards (born in otherwise ordinary litters) are completely black and are known as black panthers.
+<p/>The black leopard is an agile climber and will often stalk monkeys in the trees. It hunts mainly at night. When game is scarce, a leopard will eat field mice, fruit, porcupines, baboons, or arthropods. The female bears one to six young per litter.
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Content provided courtesy of <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2004.</color></u></a>(C) 1993-2003 Microsoft Corporation. All rights reserved.
+         </cell>
+      </text>
+   </zoopedia_leopardblack>
+</ZT2Strings>

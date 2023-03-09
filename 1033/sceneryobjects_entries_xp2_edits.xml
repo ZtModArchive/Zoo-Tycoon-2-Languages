@@ -1,0 +1,59 @@
+﻿<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_themedtrashcan" version="6" />
+      <LOC_STRING _locID="zoopedia_themedtrashcan:entry" version="6"  >Trash Can, Themed</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_themedtrashcan:text" version="6"  >
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities\objects\scenery\trashcan_jt\trashcan_jt_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities\objects\scenery\trashcan_st\trashcan_st_icon.dds" sx="0" sy="0" sw="64" sh="64"/>                  
+                  <br/>A trash can allows guests to dispose of their trash and is emptied by maintenance workers. Guests get irritated if trash cans become full, and they litter if a trash can isn't available. Guests on tours enjoy seeing themed objects.          
+                  <p/>To see the many themes you can unlock, click the Zoo Fame button. Next, click the Zoo Awards tab, and then click Persistent Awards.     
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_themedviewingareas" version="6" />
+      <LOC_STRING _locID="zoopedia_themedviewingareas:entry" version="6"  >Themed Viewing Canopies</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_themedviewingareas:text" version="6"  >
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities\objects\scenery\ViewingArea_Jt\ViewingArea_Jt_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities\objects\scenery\ViewingArea_St\ViewingArea_St_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>
+               A themed viewing canopy provides a sheltered location from which the guests can view the animals.  Guests on tours enjoy seeing themed objects.
+                  <p/>To see the many themes you can unlock, click the Zoo Fame button. Next, click the Zoo Awards tab, and then click Persistent Awards. 
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_themedumbrellatable" version="6" />
+      <LOC_STRING _locID="zoopedia_themedumbrellatable:entry" version="6"  >Themed Umbrella Table</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_themedumbrellatable:text" version="6"  >
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities\objects\scenery\umbrellatable_jt\umbrellatable_jt_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities\objects\scenery\umbrellatable_St\umbrellatable_St_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>
+               A dining table allows guests to sit down to consume food and drink purchased at the zoo. Guests are happier when they don't have to eat standing up.  Guests on tours enjoy seeing themed objects.
+                  <p/>To see the many themes you can unlock, click the Zoo Fame button. Next, click the Zoo Awards tab, and then click Persistent Awards.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+
+</ZT2Strings>

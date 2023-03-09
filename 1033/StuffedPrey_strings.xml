@@ -1,0 +1,33 @@
+<ZT2Strings>
+   <entityname>
+      <!--animal names-->
+      <StuffedPrey>Stuffed Prey Dummy</StuffedPrey>
+      <StuffedPrey_stt>Stuffed prey dummy</StuffedPrey_stt>
+      <StuffedPrey_lower>the stuffed prey dummy</StuffedPrey_lower>
+      <StuffedPrey_ltt>
+         <color r="255" g="248" b="178">
+            <b>Stuffed Prey Dummy</b>
+         </color>
+         <br/>
+         Click to select and then place the stuffed prey dummy, a toy for predators to practice attacking.
+      </StuffedPrey_ltt>
+   </entityname>
+   <zoopedia_stuffedprey>
+      <entry>Stuffed Prey Dummy</entry>
+      <text>
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>
+                  <img src="entities\objects\enrichment\StuffedPrey\StuffedPrey_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>The stuffed prey dummy is a gazelle-shaped dummy made of straw and burlap mounted on a thick coiled spring.
+                  <p/>Carnivores enjoy practicing their attacks by biting or swatting at the dummy because it bounces in reaction to their attack.
+               </color>
+            </cell>
+         </cell>
+      </text>
+   </zoopedia_stuffedprey>
+</ZT2Strings>

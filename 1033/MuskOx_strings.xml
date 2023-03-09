@@ -1,0 +1,187 @@
+﻿<ZT2Strings>
+   <entityname>
+      <!--animal names-->
+      <MuskOx>Musk Ox</MuskOx>
+      <MuskOx_stt>Musk ox</MuskOx_stt>
+      <MuskOx_lower>the musk ox</MuskOx_lower>
+      <MuskOx_ltt>
+         <color r="255" g="248" b="178">
+            <b>Musk Ox</b>
+         </color>
+         <br/>
+         Click to select and then place a musk ox, an arctic bovid with long hair.
+      </MuskOx_ltt>
+      <!--gift names-->
+      <MuskOx_Gift>Musk Ox Hat</MuskOx_Gift>
+      <MuskOx_Gift_stt>Musk ox hat</MuskOx_Gift_stt>
+      <MuskOx_Gift_lower>the musk ox hat</MuskOx_Gift_lower>
+      <MuskOx_Gift_ltt>
+         <color r="255" g="248" b="178">
+            <b>Musk Ox Hat</b>
+         </color>
+         <br/>Guests who enjoy watching the musk ox will buy this gift.
+      </MuskOx_Gift_ltt>
+      <MuskOx_Gift_Adult>Musk Ox Hat</MuskOx_Gift_Adult>
+      <MuskOx_Gift_Adult_stt>Musk ox hat</MuskOx_Gift_Adult_stt>
+      <MuskOx_Gift_Adult_lower>the musk ox hat</MuskOx_Gift_Adult_lower>
+      <MuskOx_Gift_Adult_ltt>
+         <color r="255" g="248" b="178">
+            <b>Musk Ox Hat</b>
+         </color>
+         <br/>Guests who enjoy watching the musk ox will buy this gift.
+      </MuskOx_Gift_Adult_ltt>
+      <!--foliage names-->
+      <DiamondLeafWillow_Tundra>Diamond Leaf Willow</DiamondLeafWillow_Tundra>
+      <DiamondLeafWillow_Tundra_stt>Diamond leaf willow</DiamondLeafWillow_Tundra_stt>
+      <DiamondLeafWillow_Tundra_lower>the diamond leaf willow</DiamondLeafWillow_Tundra_lower>
+      <DiamondLeafWillow_Tundra_ltt>
+         <color r="255" g="248" b="178">
+            <b>Diamond Leaf Willow</b>
+         </color>
+         <br/>Click to select and then place a diamond leaf willow, the favored food source of the musk ox.
+      </DiamondLeafWillow_Tundra_ltt>
+      <!--guest thoughts-->
+      <AnimalDefend>%2s is defending against %1s!</AnimalDefend>
+      <!--animal actions-->
+      <DefendingAt>Defending against %s</DefendingAt>
+   </entityname>
+   <zoopedia_muskox version="2">
+      <entry>Musk Ox</entry>
+      <text>
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/MuskOx/MuskOx_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						</cell>
+						<cell width="16">
+							<img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						</cell>
+						<cell width="16">
+							<img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						</cell>
+						<cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Conservation Status:
+                     <br/>
+                        <color r="170" g="255" b="0">
+                     Lower Risk
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>   
+            
+               <cell width="128">
+                  <color r="255" g="255" b="255">Tundra<br/></color>
+                  <img src="ui/icon_biomes/icon_tundra.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+               </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Arctic<br/></color>
+                  <img src="ui/icon_maplocations/Tundra_Arctic.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">Class: Mammals <i>(Mammalia)</i><br/>Order: Even-Toed Ungulates <i>(Artiodactyla)</i><br/>Family: Bovids <i>(Bovidae)</i><br/>Genus: <i>Ovibos</i><br/>Species: <i>moschatus</i></color>
+               </cell>
+               <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/tundra_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+               </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Fun Musk Ox Facts</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Musk ox bulls have a gland under their eyes that leaves a musky odor when rubbed on branches of bushes or trees.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">The musk ox has lived on Earth since the last Ice Age, rubbing shoulders with woolly mammoths thousands of years ago.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">The undercoat of the musk ox, called qiviut, is as soft as cashmere and is believed to be the world's warmest fiber.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">The Eskimos called the musk ox "oomingmak", which means "Bearded One."</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Musk oxen gather in groups of 10 to 20, and form circles around their young when they sense danger.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">The hooves of the musk ox are well-adapted to break through ice in order to reach fresh water.</color>
+               </cell>
+            </cell>
+         </cell>
+         <cell width="340">
+         <color r="255" g="248" b="178">To unlock the musk ox in challenge or campaign games, you must earn a 1/2-star zoo fame rating for your zoo.</color>
+         <p/>The musk ox is a long-haired, dark-brown ruminant related to goats and sheep. The musk ox is found in northern Canada and Greenland and has been introduced into Alaska and other northern areas. An adult bull averages 1.9 to 2.3 m (6.2 to 7.5 ft) in length, stands 1.2 to 1.5 m (3.9 to 5 ft) at the shoulder, and has long, downward-curving horns with sharp, upturned tips; females are much smaller. Both sexes have a dense undercoat and an ankle-length outercoat for protection against the cold. The male emits a strong scent of musk when in rut, hence the name.
+         <p/>The musk ox travels in herds of 10 to 100. Its numbers have been drastically reduced and its range limited by humans, who hunt it for hides and meat. Efforts have been made to conserve the species, however, and it is now protected in Canada. The adults of a herd, when threatened, form an outward-facing circle with the young in the middle.
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Content provided courtesy of <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2004.</color></u></a>(C) 1993-2003 Microsoft Corporation. All rights reserved.
+         </cell>
+      </text>
+   </zoopedia_muskox>
+   <zoopedia_diamondleafwillow>
+      <entry>Plant, Diamond Leaf Willow</entry>
+      <text>
+         <color r="255" g="255" b="255">
+            <cell pady="0" width="1000"/>
+            <p/>
+            <cell width="260"/>
+            <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+               <cell width="150">
+                  <img src="entities/objects/foliage/DiamondLeafWillow/DiamondLeafWillow_Tundra_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128"/>
+               </cell>
+               <cell pady="15" width="400">
+               <p/>Willow is the common name for a small family of woody flowering plants, and for certain trees of its representative genera. The willow family comprises about 435 species of willows and poplars (see Poplar), including the aspens and the cottonwoods. Members of the family usually live in moist habitats and in floodplains and riverbanks; they are rapid-growing, often pioneer, species. Their wood is used in many ways, and their leaves supply food for wildlife. Some species are ornamental. The family contains two genera: willow and poplar. Both are widespread in the northern hemisphere; a few species occur in the southern hemisphere. The 35 or so species of poplar are trees, and the majority of the 400 or so species of willow are shrubs. Willows are particularly abundant and important in the Arctic tundra, where they are low and matlike; they are also found above the timberline on mountains.
+               <p/>Willows and poplars produce male and female flowers on separate plants. The flowers are very simple, lacking both sepals and petals. They appear in dense clusters, called catkins, before or during the growth of new leaves in the spring. The catkins of poplars are pendent and produce no nectar; wind is the agent of pollination. The catkins of willows, in contrast, are erect and produce abundant, scented nectar that attracts insects, especially bees and moths, which carry out pollination. Insect pollination of the highly simplified flowers of willows is an exception to the rule in the plant kingdom that only plant groups with complex, showy flowers have their pollen distributed by insects. In the early spring, however, before most other flowers appear, insects rely on the nectar of willow catkins as a food source.
+               <p/>The fruits of willows and poplars are small capsules containing numerous seeds, each of which has cottonlike threads that act as parachutes, aiding in wind dispersal. If the seeds land on proper, moist soil, they germinate within one or two days. Most willows and poplars grow rapidly, reaching flowering age within a few years, but they are short-lived, some lasting only 20 years.
+               <p/>The economic importance of the family varies. Twigs of the common osier are grown for use in basketmaking, and the light but dent-resistant wood of other willows is used for artificial limbs, wooden shoes, and cricket bats. Willow bark contains the active compound salicin, used in many folk medicines. Aspirin is a derivative of salicylic acid, which was first synthesized from derivatives of willow bark. Several willows, such as weeping willow and pussywillow, are of horticultural importance.
+            </cell>
+            </cell>
+            <p/>
+         </color>
+      </text>
+   </zoopedia_diamondleafwillow>
+</ZT2Strings>
