@@ -1,0 +1,43 @@
+<ZT2Strings>
+      <LOC_STRING _locID="alert:sttformat">
+         <font name="arial" size="10">%text%</font>
+      </LOC_STRING>
+      <LOC_STRING _locID="alert:lttformat">
+         <font name="arial" size="10">%text%</font>
+      </LOC_STRING>
+      <LOC_STRING _locID="alert:save_game_message">
+         <font name="arial" size="20">
+            <b>Jogo salvo</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="alert:alert">
+         <font name="arial" size="16">
+            <color r="255" g="197" b="78">
+               <b>%text%</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="alert:save_failed">Espaço insuficiente no disco rígido. Não foi possível salvar o jogo.</LOC_STRING>
+      <LOC_STRING _locID="alert:photo_save_failed">Espaço insuficiente no disco rígido. Não foi possível salvar a foto.</LOC_STRING>
+      <LOC_STRING _locID="alert:download_save_failed">Espaço insuficiente no disco rígido. Não foi possível concluir o download.</LOC_STRING>
+      <LOC_STRING _locID="alert:invalid_name_profile">Os nomes de perfis devem incluir pelo menos uma letra ou número e não podem ser palavras reservadas do Windows®.</LOC_STRING>
+      <LOC_STRING _locID="alert:invalid_name_save">Os nomes de arquivo devem incluir pelo menos uma letra ou número e não podem ser palavras reservadas do Windows®.</LOC_STRING>
+      <LOC_STRING _locID="alert:profile_exists">Perfil já existente. Escolha outro nome.</LOC_STRING>
+      <LOC_STRING _locID="alert:save_failed_readonly">Arquivo somente leitura. Não foi possível salvar o jogo.</LOC_STRING>
+      <LOC_STRING _locID="alert:load_failed">Arquivo corrompido ou ilegível. Não foi possível carregar o jogo.</LOC_STRING>
+      <LOC_STRING _locID="error:startup_error_title">Erro na inicialização do Zoo Tycoon 2</LOC_STRING>
+      <LOC_STRING _locID="error:init_config_info_failed">Erro na chamada para InitConfigInformation</LOC_STRING>
+      <LOC_STRING _locID="error:d3d_create_failed">Falha ao criar objeto Direct3D</LOC_STRING>
+      <LOC_STRING _locID="error:init_video_card_info_failed">Erro na chamada para Config_InitVideoCardInfo</LOC_STRING>
+      <LOC_STRING _locID="error:enumerate_adapter_modes_failed">Falha ao enumerar modos de adaptador gráfico</LOC_STRING>
+      <LOC_STRING _locID="error:slow_processor">É necessário um processador de pelo menos 733 MHz para executar o Zoo Tycoon 2 corretamente.  (%s MHz detectados)</LOC_STRING>
+      <LOC_STRING _locID="error:low_system_memory">São necessários pelo menos %1s MB de memória do sistema para executar o Zoo Tycoon 2.  (%2s MB detectados)</LOC_STRING>
+      <LOC_STRING _locID="error:low_video_memory">São necessários pelo menos %1s MB de memória de vídeo para executar o Zoo Tycoon 2.  (%2s MB detectados)</LOC_STRING>
+      <LOC_STRING _locID="error:unsupported_graphics_adapter">O Zoo Tycoon 2 não é compatível com a placa gráfica %s.</LOC_STRING>
+      <LOC_STRING _locID="error:prototype_graphics_adapter">A placa gráfica %s é um protótipo e poderá causar problemas com o Zoo Tycoon 2.</LOC_STRING>
+      <LOC_STRING _locID="error:invalid_graphics_driver">O driver gráfico não é válido para o sistema operacional. Contate o fornecedor da placa gráfica para obter um driver atualizado.</LOC_STRING>
+      <LOC_STRING _locID="error:old_graphics_driver">O driver gráfico pode ser antigo demais para executar o Zoo Tycoon 2. Contate o fornecedor da placa gráfica para obter um driver atualizado.</LOC_STRING>
+      <LOC_STRING _locID="error:invalid_sound_driver">O driver de som não é válido para o sistema operacional. Contate o fornecedor da placa de som para obter um driver atualizado.</LOC_STRING>
+      <LOC_STRING _locID="error:old_sound_driver">O driver de som pode ser antigo demais para executar o Zoo Tycoon 2. Contate o fornecedor da placa de som para obter um driver atualizado.</LOC_STRING>
+      <LOC_STRING _locID="error:renderer_create_failed">O Zoo Tycoon 2 não pôde criar um processador gráfico. Contate o fornecedor da placa gráfica para se assegurar de que você tenha o driver mais recente.</LOC_STRING>
+</ZT2Strings>
