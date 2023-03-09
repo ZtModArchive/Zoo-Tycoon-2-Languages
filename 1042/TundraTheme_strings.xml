@@ -1,0 +1,414 @@
+﻿<ZT2Strings>
+   <!--entity names-->
+   <entityname>
+      <!--building names-->
+      
+      <bathroomlarge_tt>대형 화장실</bathroomlarge_tt>
+		<bathroomlarge_tt_stt>대형 화장실</bathroomlarge_tt_stt>
+		<bathroomlarge_tt_lower>대형 화장실</bathroomlarge_tt_lower>
+		<bathroomlarge_tt_ltt>
+		   <color r="255" g="248" b="178">
+		      대형 화장실
+		   </color>
+		   <br/>
+		   대형 화장실을 설치합니다. 소형 화장실에 비해 가격은 비싸지만 6명이 더 들어갈 수 있습니다.
+      </bathroomlarge_tt_ltt>
+      
+      <bathroomsmall_tt>소형 화장실</bathroomsmall_tt>
+      <bathroomsmall_tt_stt>소형 화장실</bathroomsmall_tt_stt>
+      <bathroomsmall_tt_lower>소형 화장실</bathroomsmall_tt_lower>
+      <bathroomsmall_tt_ltt>
+         <color r="255" g="248" b="178">
+            소형 화장실
+         </color>
+         <br/>
+         소형 화장실을 설치합니다. 소형 화장실은 한 번에 한 명의 관람객이 이용할 수 있습니다.
+      </bathroomsmall_tt_ltt>   
+      
+      <foodstand_burger_tt>햄버거 판매대</foodstand_burger_tt>
+		      <foodstand_burger_tt_stt>햄버거 판매대</foodstand_burger_tt_stt>
+		      <foodstand_burger_tt_lower>햄버거 판매대</foodstand_burger_tt_lower>
+		      <foodstand_burger_tt_ltt>
+		         <color r="255" g="248" b="178">
+		            햄버거 판매대
+		         </color>
+		         <br/>
+		         햄버거 판매대를 설치합니다. 햄버거는 비싸지 않은 가격으로 허기를 채울 수 있는 음식입니다.     
+      </foodstand_burger_tt_ltt>
+      
+      <foodstand_hotdog_tt>핫도그 판매대</foodstand_hotdog_tt>
+      <foodstand_hotdog_tt_stt>핫도그 판매대</foodstand_hotdog_tt_stt>
+      <foodstand_hotdog_tt_lower>핫도그 판매대</foodstand_hotdog_tt_lower>
+      <foodstand_hotdog_tt_ltt>
+         <color r="255" g="248" b="178">
+            핫도그 판매대
+         </color>
+         <br/>
+         핫도그 판매대를 설치합니다. 핫도그는 아이들이 특히 좋아하는 음식입니다.
+      </foodstand_hotdog_tt_ltt>
+      <foodstand_salad_tt>샐러드 판매대</foodstand_salad_tt>
+		      <foodstand_salad_tt_stt>샐러드 판매대</foodstand_salad_tt_stt>
+		      <foodstand_salad_tt_lower>샐러드 판매대</foodstand_salad_tt_lower>
+		      <foodstand_salad_tt_ltt>
+		         <color r="255" g="248" b="178">
+		            샐러드 판매대
+		         </color>
+		         <br/>
+		         샐러드 판매대를 설치합니다.
+		 아이들은 샐러드를 싫어하지만 어른들은 아주 좋아합니다.
+      </foodstand_salad_tt_ltt>
+      <foodstand_soda_tt>음료수 판매대</foodstand_soda_tt>
+      <foodstand_soda_tt_stt>음료수 판매대</foodstand_soda_tt_stt>
+      <foodstand_soda_tt_lower>음료수 판매대</foodstand_soda_tt_lower>
+      <foodstand_soda_tt_ltt>
+         <color r="255" g="248" b="178">
+            음료수 판매대
+         </color>
+         <br/>
+          음료수 판매대를 설치합니다. 관람객들은 음료수를 아주 좋아합니다. 
+      </foodstand_soda_tt_ltt>      
+
+      <foodstand_sub_tt>샌드위치 판매대</foodstand_sub_tt>
+      <foodstand_sub_tt_stt>샌드위치 판매대</foodstand_sub_tt_stt>
+      <foodstand_sub_tt_lower>샌드위치 판매대</foodstand_sub_tt_lower>
+      <foodstand_sub_tt_ltt>
+         <color r="255" g="248" b="178">
+            샌드위치 판매대
+         </color>
+         <br/>
+          샌드위치 판매대를 설치합니다. 샌드위치에는 고기가 들어 있어서 점심 식사로 손색이 없습니다.
+ 
+      </foodstand_sub_tt_ltt>
+      
+      <foodstand_sushi_tt>초밥 판매대</foodstand_sushi_tt>
+      <foodstand_sushi_tt_stt>초밥 판매대</foodstand_sushi_tt_stt>
+      <foodstand_sushi_tt_lower>초밥 판매대</foodstand_sushi_tt_lower>
+      <foodstand_sushi_tt_ltt>
+         <color r="255" g="248" b="178">
+            초밥 판매대
+         </color>
+         <br/>
+          초밥 판매대를 설치합니다. 가격이 비싼 편인 초밥은 아이들보다 어른들이 더 좋아합니다. 
+      </foodstand_sushi_tt_ltt>
+      
+      <foodstand_water_tt>생수 판매대</foodstand_water_tt>
+      <foodstand_water_tt_stt>생수 판매대</foodstand_water_tt_stt>
+      <foodstand_water_tt_lower>생수 판매대</foodstand_water_tt_lower>
+      <foodstand_water_tt_ltt>
+         <color r="255" g="248" b="178">
+            생수 판매대
+         </color>
+         <br/>
+          생수 판매대를 설치합니다.
+ 생수는 관람객들의 갈증을 해소해 줍니다.    
+ 
+      </foodstand_water_tt_ltt>      
+
+      <foodstand_shishkabob_tt>꼬치구이 판매대</foodstand_shishkabob_tt>
+      <foodstand_shishkabob_tt_stt>꼬치구이 판매대</foodstand_shishkabob_tt_stt>
+      <foodstand_shishkabob_tt_lower>꼬치구이 판매대</foodstand_shishkabob_tt_lower>
+      <foodstand_shishkabob_tt_ltt>
+         <color r="255" g="248" b="178">
+            꼬치구이 판매대
+         </color>
+         <br/>
+          꼬치구이 판매대를 설치합니다. 꼬치구이는 단백질이 풍부하고 가격도 적당한 음식입니다.
+ 
+      </foodstand_shishkabob_tt_ltt>
+
+      <foodstand_coffee_tt>커피 판매대</foodstand_coffee_tt>
+      <foodstand_coffee_tt_stt>커피 판매대</foodstand_coffee_tt_stt>
+      <foodstand_coffee_tt_lower>커피 판매대</foodstand_coffee_tt_lower>
+      <foodstand_coffee_tt_ltt>
+         <color r="255" g="248" b="178">
+            커피 판매대
+         </color>
+         <br/>
+          커피 판매대를 설치합니다. 어른들은 커피를 즐겨마시며 일부 아이들도 커피를 좋아합니다.
+      </foodstand_coffee_tt_ltt>
+
+      <snackcart_cheesecake_tt>치즈 케이크 가판대</snackcart_cheesecake_tt>
+      <snackcart_cheesecake_tt_stt>치즈 케이크 가판대</snackcart_cheesecake_tt_stt>
+      <snackcart_cheesecake_tt_lower>치즈 케이크 가판대</snackcart_cheesecake_tt_lower>
+      <snackcart_cheesecake_tt_ltt>
+         <color r="255" g="248" b="178">
+            치즈 케이크 가판대
+         </color>
+         <br/>
+         치즈 케이크 가판대를 설치합니다.
+어른들은 디저트로 치즈 케이크를 즐깁니다.
+      </snackcart_cheesecake_tt_ltt>
+      
+      <snackcart_popcorn_tt>팝콘 가판대</snackcart_popcorn_tt>
+      <snackcart_popcorn_tt_stt>팝콘 가판대</snackcart_popcorn_tt_stt>
+      <snackcart_popcorn_tt_lower>팝콘 가판대</snackcart_popcorn_tt_lower>
+      <snackcart_popcorn_tt_ltt>
+         <color r="255" g="248" b="178">
+            팝콘 가판대
+         </color>
+         <br/>
+          팝콘 가판대를 설치합니다. 팝콘을 먹은 관람객들은 갈증을 느끼게 됩니다.
+      </snackcart_popcorn_tt_ltt>      
+
+      <snackcart_pretzel_tt>쿠키 가판대</snackcart_pretzel_tt>
+      <snackcart_pretzel_tt_stt>쿠키 가판대</snackcart_pretzel_tt_stt>
+      <snackcart_pretzel_tt_lower>쿠키 가판대</snackcart_pretzel_tt_lower>
+      <snackcart_pretzel_tt_ltt>
+         <color r="255" g="248" b="178">
+            쿠키 가판대
+         </color>
+         <br/>
+          쿠키 가판대를 설치합니다. 쿠키를 먹고나면 갈증을 느끼게 됩니다.   
+      </snackcart_pretzel_tt_ltt>
+
+      <snackcart_cottoncandy_tt>솜사탕 가판대</snackcart_cottoncandy_tt>
+      <snackcart_cottoncandy_tt_stt>솜사탕 가판대</snackcart_cottoncandy_tt_stt>
+      <snackcart_cottoncandy_tt_lower>솜사탕 가판대</snackcart_cottoncandy_tt_lower>
+      <snackcart_cottoncandy_tt_ltt>
+         <color r="255" g="248" b="178">
+            솜사탕 가판대
+         </color>
+         <br/>
+          솜사탕 가판대를 설치합니다. 솜사탕은 아이들이 좋아하는 간식입니다.
+ 
+ 
+      </snackcart_cottoncandy_tt_ltt>
+      
+      <snackcart_fruitcup_tt>생과일 가판대</snackcart_fruitcup_tt>
+      <snackcart_fruitcup_tt_stt>생과일 가판대</snackcart_fruitcup_tt_stt>
+      <snackcart_fruitcup_tt_lower>생과일 가판대</snackcart_fruitcup_tt_lower>
+      <snackcart_fruitcup_tt_ltt>
+         <color r="255" g="248" b="178">
+            생과일 가판대
+         </color>
+         <br/>
+          생과일 가판대를 설치합니다. 몸에 좋은 음식을 원하는 관람객들은 생과일을 즐겨 먹습니다.
+      </snackcart_fruitcup_tt_ltt>
+      
+      <snackcart_icecream_tt>아이스크림 가판대</snackcart_icecream_tt>
+      <snackcart_icecream_tt_stt>아이스크림 가판대</snackcart_icecream_tt_stt>
+      <snackcart_icecream_tt_lower>아이스크림 가판대</snackcart_icecream_tt_lower>
+      <snackcart_icecream_tt_ltt>
+         <color r="255" g="248" b="178">
+            아이스크림 가판대
+         </color>
+         <br/>
+          아이스크림 가판대를 설치합니다. 아이들은 아이스크림을 아주 좋아합니다.
+      </snackcart_icecream_tt_ltt>
+    
+      <!--scenery object names-->
+      
+      <bench_tt>툰드라 벤치</bench_tt>
+		<bench_tt_stt>툰드라 벤치</bench_tt_stt>
+		<bench_tt_lower>툰드라 벤치</bench_tt_lower>
+		<bench_tt_ltt>
+		   <color r="255" g="248" b="178">
+		      툰드라 벤치
+		   </color>
+		   <br/>
+		         툰드라 벤치를 설치합니다. 관람객들은 색다른 분위기를 느낄 수 있는 툰드라 스타일 벤치를 좋아합니다.
+      </bench_tt_ltt>
+      
+      <DonationBox_tt>툰드라 기부함</DonationBox_tt>
+		<DonationBox_tt_stt>툰드라 기부함</DonationBox_tt_stt>
+		<DonationBox_tt_lower>툰드라 기부함</DonationBox_tt_lower>
+		<DonationBox_tt_ltt>
+		   <color r="255" g="248" b="178">
+		            툰드라 기부함
+		   </color>
+		   <br/>
+		   툰드라 기부함을 설치합니다. 주변에 기부함이 없으면 관람객들은 기부를 하지 못합니다.
+      </DonationBox_tt_ltt>
+      
+      <umbrellatable_tt>툰드라 파라솔</umbrellatable_tt>
+		<umbrellatable_tt_stt>툰드라 파라솔</umbrellatable_tt_stt>
+		<umbrellatable_tt_lower>툰드라 파라솔</umbrellatable_tt_lower>
+		<umbrellatable_tt_ltt>
+		   <color r="255" g="248" b="178">
+		      툰드라 파라솔
+		   </color>
+		   <br/>
+		         툰드라 파라솔을 설치합니다. 관람객들이 파라솔 그늘 밑에서 편안하게 식사를 할 수 있습니다.      
+      </umbrellatable_tt_ltt>
+      
+      <ViewingArea_tt>툰드라 그늘 지붕</ViewingArea_tt>
+      <ViewingArea_tt_stt>툰드라 그늘 지붕</ViewingArea_tt_stt>
+      <ViewingArea_tt_lower>툰드라 그늘 지붕</ViewingArea_tt_lower>
+      <ViewingArea_tt_ltt>
+         <color r="255" g="248" b="178">
+            툰드라 그늘 지붕
+         </color>
+         <br/>
+         툰드라 그늘 지붕을 설치합니다. 관람객들이 그늘 지붕 밑에서 편안하게 동물을 구경할 수 있습니다.
+      </ViewingArea_tt_ltt>
+      
+      <lamp_tt>툰드라 가로등</lamp_tt>
+		<lamp_tt_stt>툰드라 가로등</lamp_tt_stt>
+		<lamp_tt_lower>툰드라 가로등</lamp_tt_lower>
+		<lamp_tt_ltt>
+		   <color r="255" g="248" b="178">
+		      툰드라 가로등
+		   </color>
+		   <br/>
+		         툰드라 가로등을 설치합니다. 관람객들은 색다른 분위기를 느낄 수 있는 툰드라 스타일 가로등을 좋아합니다.
+      </lamp_tt_ltt>
+      
+      <trashcan_tt>툰드라 쓰레기통</trashcan_tt>
+      <trashcan_tt_stt>툰드라 쓰레기통</trashcan_tt_stt>
+      <trashcan_tt_lower>툰드라 쓰레기통</trashcan_tt_lower>
+      <trashcan_tt_ltt>
+         <color r="255" g="248" b="178">
+            툰드라 쓰레기통
+         </color>
+         <br/>
+         툰드라 쓰레기통을 설치합니다. 관람객들이 쓰레기를 쉽게 버릴 수 있도록 동물원 곳곳에 쓰레기통을 설치하는 것이 좋습니다.
+      </trashcan_tt_ltt>
+      
+      <Statue_tt>툰드라 조각상</Statue_tt>
+      <Statue_tt_stt>툰드라 조각상</Statue_tt_stt>
+      <Statue_tt_lower>툰드라 조각상</Statue_tt_lower>
+      <Statue_tt_ltt>
+         <color r="255" g="248" b="178">
+            툰드라 조각상
+         </color>
+         <br/>
+         툰드라 조각상을 설치합니다. 주위 경관과 어울리는 조각상은 동물원을 한층 아름답게 만들어 줍니다.
+      </Statue_tt_ltt>     
+              
+      <PathArch_tt>툰드라 아치형 입구</PathArch_tt>
+      <PathArch_tt_stt>툰드라 아치형 입구</PathArch_tt_stt>
+      <PathArch_tt_lower>툰드라 아치형 입구</PathArch_tt_lower>
+      <PathArch_tt_ltt>
+         <color r="255" g="248" b="178">
+            툰드라 아치형 입구
+         </color>
+         <br/>
+         툰드라 아치형 입구를 설치합니다. 툰드라 아치형 입구는 툰드라 스타일로 꾸며진 지역 입구에 설치하면 좋습니다. 
+      </PathArch_tt_ltt>
+      
+              <Fountain_tt>툰드라 분수대</Fountain_tt>
+      <Fountain_tt_stt>툰드라 분수대</Fountain_tt_stt>
+      <Fountain_tt_lower>툰드라 분수대</Fountain_tt_lower>
+      <Fountain_tt_ltt>
+         <color r="255" g="248" b="178">
+            툰드라 분수대
+         </color>
+         <br/>
+         툰드라 분수대를 설치합니다. 주위 경관과 어울리는 분수대는 동물원을 한층 아름답게 만들어 줍니다.
+      </Fountain_tt_ltt>   
+   
+       <MusicalRock_tt>툰드라 소리 바위</MusicalRock_tt>
+      <MusicalRock_tt_stt>툰드라 소리 바위</MusicalRock_tt_stt>
+      <MusicalRock_tt_lower>툰드라 소리 바위</MusicalRock_tt_lower>
+      <MusicalRock_tt_ltt>
+         <color r="255" g="248" b="178">
+            툰드라 소리 바위
+         </color>
+         <br/>
+         툰드라 소리 바위를 적당한 위치에 놓으세요. 소리 바위는 스피커가 들어 있어서 음악이 나오는 바위입니다.
+      </MusicalRock_tt_ltt>           
+      
+      <!--fence names-->
+      <tundrafence>툰드라 울타리</tundrafence>
+      <tundrafence_stt>툰드라 울타리</tundrafence_stt>
+      <tundrafence_lower>툰드라 울타리</tundrafence_lower>
+      <tundrafence_ltt>
+         <color r="255" g="248" b="178">
+            툰드라 울타리
+         </color>
+         <br/>
+         툰드라 울타리를 만듭니다.
+ 관람객들은 색다른 분위기의 툰드라 스타일 울타리를 좋아합니다.
+      </tundrafence_ltt>
+      <lowtundra>툰드라 낮은 울타리</lowtundra>
+      <lowtundra_stt>툰드라 낮은 울타리</lowtundra_stt>
+      <lowtundra_lower>툰드라 낮은 울타리</lowtundra_lower>
+      <lowtundra_ltt>
+         <color r="255" g="248" b="178">
+            툰드라 낮은 울타리
+         </color>
+         <br/>
+         툰드라 낮은 울타리를 만듭니다.
+ 관람객들은 색다른 분위기의 툰드라 스타일 울타리를 좋아합니다.
+      </lowtundra_ltt>
+      <tundrawindow>툰드라 창문 울타리</tundrawindow>
+      <tundrawindow_stt>툰드라 창문 울타리</tundrawindow_stt>
+      <tundrawindow_lower>툰드라 창문 울타리</tundrawindow_lower>
+      <tundrawindow_ltt>
+         <color r="255" g="248" b="178">
+            툰드라 창문 울타리
+         </color>
+         <br/>
+         툰드라 창문 울타리를 만듭니다.
+ 관람객들은 색다른 분위기의 툰드라 스타일 울타리를 좋아합니다.
+      </tundrawindow_ltt>
+
+      <!--path names-->
+      <tundra>툰드라 스타일 길</tundra>
+		      <tundra_stt>툰드라 스타일 길</tundra_stt>
+		      <tundra_lower>툰드라 스타일 길</tundra_lower>
+		      <tundra_ltt>
+		         <color r="255" g="248" b="178">
+		            툰드라 스타일 길
+		         </color>
+		         <br/>
+		         툰드라 스타일 길을 만듭니다. 관람객들은 색다른 분위기의 툰드라 스타일 길을 좋아합니다.     
+      </tundra_ltt>
+      
+      <!--enrichment object names-->
+      <!--item names-->
+      <!--guest thoughts-->
+   </entityname>
+   <!--Zoopedia entries-->
+   <zoopedia_tundrafence>
+      <entry>툰드라 울타리</entry>
+      <text>
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities\objects\fences\tundra_tt\tundra_tt_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+               <p/>북극곰이나 펭귄 같은 툰드라 지역의 동물들을 전시할 때에 툰드라 스타일의 건물이나 울타리를 사용하면 효과적입니다.
+               <p/>또한 툰드라 전시 지역과 인접한 근처에 편의 시설이나 건물을 지을 때에도 툰드라 스타일로 지으면 관람객들이 더 좋아합니다.
+               </color>
+            </cell>
+         </cell>
+      </text>
+   </zoopedia_tundrafence>
+   <zoopedia_lowtundra>
+      <entry>툰드라 낮은 울타리</entry>
+      <text>
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities\objects\fences\lowtundra_tt\lowtundra_tt_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+               <p/>북극곰이나 펭귄 같은 툰드라 지역의 동물들을 전시할 때에 툰드라 스타일의 건물이나 울타리를 사용하면 효과적입니다.
+               <p/>또한 툰드라 전시 지역과 인접한 근처에 편의 시설이나 건물을 지을 때에도 툰드라 스타일로 지으면 관람객들이 더 좋아합니다.
+               </color>
+            </cell>
+         </cell>
+      </text>
+   </zoopedia_lowtundra>
+   <zoopedia_tundrawindow>
+      <entry>툰드라 창문 울타리</entry>
+      <text>
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities\objects\fences\tundrawindow_tt\tundrawindow_tt_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+               <p/>북극곰이나 펭귄 같은 툰드라 지역의 동물들을 전시할 때에 툰드라 스타일의 건물이나 울타리를 사용하면 효과적입니다.
+               <p/>또한 툰드라 전시 지역과 인접한 근처에 편의 시설이나 건물을 지을 때에도 툰드라 스타일로 지으면 관람객들이 더 좋아합니다.
+               </color>
+            </cell>
+         </cell>
+      </text>
+   </zoopedia_tundrawindow>
+</ZT2Strings>
