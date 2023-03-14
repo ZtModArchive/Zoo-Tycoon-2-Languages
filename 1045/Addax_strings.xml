@@ -1,0 +1,148 @@
+<ZT2Strings>
+   <entityname>
+      <!--animal names-->
+      <Addax>Adaks pustynny</Addax>
+      <Addax_stt>Adaks pustynny</Addax_stt>
+      <Addax_lower>adaks pustynny</Addax_lower>
+      <Addax_ltt>
+         <color r="255" g="248" b="178">
+            <b>Adaks pustynny</b>
+         </color>
+         <br/>
+         Kliknij, aby wybrać i umieścić adaksa pustynnego, dużą pustynną antylopę.
+      </Addax_ltt>
+      <!--gift names-->
+      <Addax_Gift>Pacynka adaksa</Addax_Gift>
+      <Addax_Gift_stt>Pacynka adaksa</Addax_Gift_stt>
+      <Addax_Gift_lower>pacynka adaksa</Addax_Gift_lower>
+      <Addax_Gift_ltt>
+         <color r="255" g="248" b="178">
+            <b>Pacynka adaksa</b>
+         </color>
+         <br/>Goście, którym podoba się adaks, kupią tę pamiątkę.
+      </Addax_Gift_ltt>
+   </entityname>
+   
+   <!--zoopedia entries-->
+   <zoopedia_addax version="2">
+      <entry>Adaks pustynny</entry>
+      <text>
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/Addax/Addax_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>						
+						</cell>
+						<cell width="16">
+							<img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						</cell>
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/Addax/Addax_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>						
+						</cell>						
+						<cell width="16">
+							<img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						</cell>
+						<cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/critical.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Status ochrony:
+                     <br/>
+                        <color r="255" g="0" b="0">
+                     Ginący
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>            
+            
+               <cell width="128">
+                  <color r="255" g="255" b="255">Pustynia<br/></color>
+                  <img src="ui/icon_biomes/icon_desert.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+               </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Północna Afryka<br/></color>
+                  <img src="ui/icon_maplocations/Desert_Africa_North.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">Klasa: Ssaki <i>(Mammalia)</i><br/>Rząd: Parzystokopytne <i>(Artiodactyla)</i><br/>Rodzina: Wołowate <i>(Bovidae)</i><br/>Rodzaj: <i>Addax</i><br/>Gatunek: <i>nasomaculatus</i></color>
+               </cell>
+               <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/desert_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+               </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Ciekawostki o adaksie pustynnym</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Jedną z kluczowych umiejętności dla przetrwania adaksa na rozległym obszarze Sahary jest zdolność do wyczuwania obszarów występowania roślinności z dużej odległości.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Adaks jest największym rodzimym zwierzęciem na Saharze.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Adaks praktycznie nie pije, potrzebną wodę pozyskuje ze zjadanych roślin.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Adaksy często przygotowują schronienia przed słońcem i pustynnym wiatrem wygrzebując zagłębienia w piasku osłonięte skałami.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Umaszczenie adaksa zmienia się od białego w lecie do szarobrązowego w zimie.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Ze względu na swoją masywną sylwetkę adaks nie biega zbyt szybko, przez co łatwo pada ofiarą drapieżników.</color>
+               </cell>
+            </cell>
+         </cell>
+         <cell width="340">
+         <color r="255" g="248" b="178">Aby uzyskać dostęp do adaksa pustynnego w kampaniach i wyzwaniach musisz zdobyć 2 gwiazdki popularności dla swojego zoo.</color>
+         <p/>Adaks to pustynna antylopa, dawniej występująca od zachodniej Sahary i Mauretanii po Egipt i Sudan. Obecnie zamieszkuje południowo-zachodnią część Sahary, niewielkie populacje występują również na Bliskim Wschodzie. Nadmierne polowania, susze i niepokojenie przez turystów spowodowały tak dramatyczny spadek populacji adaksów, że obecnie jest to gatunek zagrożony. Na wolności żyje tylko jedna stabilna populacja, licząca mniej niż 200 zwierząt.
+         <p/>Jest to roślinożerny ssak zaliczany do przeżuwaczy mierzący od 95 do 115 cm w kłębie (37 - 45 cali). Umaszczenie piaskowe z brązową sierścią u podstawy rogów. U przedstawicieli obu płci rosną eleganckie cylindryczne, wygięte ku tyłowi „skręcone” rogi, które osiągają długość do 89 cm (35 cali). Dobrze przystosowany do warunków życia na pustyni, adaks posiada spłaszczone racice ułatwiające chodzenie po piasku. Dzięki zjadaniu sukulentów oraz dzikich arbuzów większość życia może obyć się bez wody. Adaksy chronią się przed południowym słońcem, czasami nawet w jaskiniach.
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Źródło: <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2004.</color></u></a>(C) 1993-2003 Microsoft Corporation. Wszelkie prawa zastrzeżone.
+         </cell>
+      </text>
+   </zoopedia_addax>
+</ZT2Strings>
