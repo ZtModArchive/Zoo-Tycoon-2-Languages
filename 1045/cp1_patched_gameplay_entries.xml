@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<ZT2Strings>
+	<LOC_STRING _locID="zoopedia_rewardobjects" version="2" />
+	<LOC_STRING _locID="zoopedia_rewardobjects:entry" version="2"  >Nagrody</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_rewardobjects:text" version="2"  >
+         <color r="255" g="255" b="255">
+            <cell pady="0" width="1000"/>
+            <p/>
+            <cell width="260"/>
+            <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+               <cell width="600" padx="20" pady="20">
+Pewne obiekty możesz zdobyć w <a href="zoopedia:zoopedia_awards:entry"><u><color r="255" g="231" b="135">nagrodę</color></u></a> za <a href="zoopedia:zoopedia_challenge:entry"><u><color r="255" g="231" b="135">wyzwanie,</color></u></a> wyzwania lub ukończenie <a href="zoopedia:zoopedia_campaign:entry"><u><color r="255" g="231" b="135">kampanii.</color></u></a>
+<p/>
+Ekran nagród dla zoo pokazuje wszystkie zdobyte elementy. By otworzyć ten ekran, kliknij przycisk Popularność zoo i wybierz zakładkę Nagrody dla zoo.
+               </cell>
+            </cell>
+         </color>
+      </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_layingdownroads" version="2" />
+	<LOC_STRING _locID="zoopedia_layingdownroads:entry" version="2"  >Budowa dróg</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_layingdownroads:text" version="2"  >
+         <color r="255" g="255" b="255">
+            <cell pady="0" width="1000"/>
+            <p/>
+            <cell width="260"/>
+            <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+               <cell width="600" padx="20" pady="20">
+By móc używać samochody Jeep&#xAE;, musisz połączyć jedną lub kilka z ich stacji z gotowym systemem dróg. Gdy taki system jest gotowy, stacja, w której kupujesz samochody Jeep, zostanie otwarta. Umieść ścieżki dla gości prowadzące do stacji, by goście mogli swobodnie wejść i wyjść.
+<p/>
+Pamiętaj, że drogi są jednokierunkowe (możesz odwrócić kierunek w stacji Jeep). By stworzyć prawidłowy system dróg, unikaj ślepych zaułków i przerw w drodze.
+               </cell>
+            </cell>
+         </color>
+      </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_tours" version="2" />
+	<LOC_STRING _locID="zoopedia_tours:entry" version="2"  >Trasy widokowe</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_tours:text" version="2"  >
+         <color r="255" g="255" b="255">
+            <cell pady="0" width="1000"/>
+            <p/>
+            <cell width="260"/>
+            <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+               <cell width="600" padx="20" pady="20">
+Goście uwielbiają trasy widokowe. Im bardziej im się spodoba dana trasa, tym większe będzie notowanie dla systemu tras-dzięki temu zbierzesz więcej datków!
+     <p/>
+Podczas korzystania z trasy widokowej goście będą chcieli obejrzeć zwierzęta, ich wybiegi oraz roślinność i tereny stosowne dla danego biomu, a także budynki, fontanny, łuki, kwietniki i inne obiekty (jeśli są dostępne).
+     <p/>
+Goście lubią zróżnicowane trasy i mogą się znudzić, jeśli zbyt długo oglądają te same widoki podczas jednej trasy.                           
+               </cell>
+            </cell>
+         </color>
+      </LOC_STRING>
+</ZT2Strings>

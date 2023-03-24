@@ -1,0 +1,2355 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<ZT2Strings>
+	<LOC_STRING _locID="zoopedia_aardvark:entry"  >Mrównik</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_aardvark:text"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+                        <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+                            <img src="entities/units/animals/aardvark/Aardvark_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+                        </cell>    
+                         <cell width="16">
+                          <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+                         </cell>
+                         <cell width="16">
+                          <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+                         </cell>                         
+                         <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Stopień zagrożenia:
+                     <br/>
+                        <color r="170" g="255" b="0">
+                     Niskie zagrożenie
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+                 <cell width="128">
+                  <color r="255" g="255" b="255">Busz<br/></color>
+                  <img src="ui/icon_biomes/icon_scrub.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+                 </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Afryka</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/Savannah_Africa.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Gromada: Ssaki <i>(Mammalia)</i>
+                  <br/>
+                  Rząd: Słupozębne <i>(Tubulidentata)</i>
+                  <br/>
+                  Rodzina: Mrówniki <i>(Orycteropodidae)</i>
+                  <br/>
+                  Rodzaj: <i>Orycteropus</i>
+                  <br/>
+                  Gatunek: <i>afer</i>
+                  </color>
+               </cell>
+                 <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/scrub_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+                 </cell>                 
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Ciekawostki</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Mrówniki z łatwością adaptują się do różnych klimatów. Mogą żyć zarówno w wilgotnych lasach deszczowych, jak i na suchych sawannach - byleby tylko żyły tam termity!</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Mrówniki z reguły prowadzą nocny tryb życia, lecz czasem można jest spotkać rano, gdy grzeją się w słońcu.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Mrówniki łapią termity na dwa sposoby - za pomocą swojego lepkiego języka, lub po prostu wysysając je przez otwory w kopcach!</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Gdy mrównik zostanie zaatakowany (przez lwa, hienę lub lamparta), szybko chowa się do najbliższej nory, jaką znajdzie, lub próbuje wykopać nową. Jeśli mu się to nie uda, broni się, walcząc wszystkimi czterema łapami i ogonem.</color>
+               </cell>                  
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">By odblokować mrównika w trybie wyzwania lub kampanii, musisz zdobyć status 2 1/2 gwiazdki dla swojego zoo.</color>
+            <p/>Mrównik (inaczej "prosię ziemne") to potoczna nazwa stworzenia żerującego na mrówkach i termitach. Zwierzęta te można spotkać w prawie całej Afryce, od południowych rubieży Egiptu po Przylądek Dobrej Nadziei. Mrówniki to stworzenia nocne, żyjące w norach i żerujące głównie na mrówkach i termitach, choć nie pogardzają też innymi insektami, myszami oraz dzikim ogórkiem ziemnym.
+<p/>Mrówniki osiągają długość do 2.3 m, wliczając w to mięsisty, spiczasty ogon, którego używają do wyrzucania ziemi do tyłu podczas kopania. Mają wygięty grzbiet, rurkowaty pysk i duże, sterczące uszy. Mrówniki używają swych wyspecjalizowanych, ukształtowanych jak dłuta pazurów do rozgrzebywania twardych skorup kopców termitów, po czym wyłapują insekty za pomocą lepkich języków. W odróżnieniu od mrówkojadów, które są bezzębne, mrówniki posiadają 20 słupowatych, pozbawionych korzeni zębów, które rosną nieprzerwanie przez całe życie zwierzęcia.
+<p/>Miot mrównika to zwykle jedno, okazjonalnie dwa młode, które potrafią wykopać własną norkę po osiągnięciu wieku 6 miesięcy. Mimo iż mrównik jest stworzeniem płochliwym, będzie walczył, gdy nie będzie miał możliwości ucieczki; mrówniki bronią się za pomocą potężnych pazurów i ogona.
+
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Informacje pochodzą z <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft&#xAE; Encarta&#xAE; 2006.</color></u></a> &#xA9; 1993&#x96;2005 Microsoft Corporation. Wszystkie prawa zastrzeżone.
+         </cell>         
+      </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_apebarbary:entry"  >Magot</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_apebarbary:text"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+                        <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+                            <img src="entities/units/animals/ApeBarbary/ApeBarbary_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+                        </cell>    
+                         <cell width="16">
+                          <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+                         </cell>
+                         <cell width="16">
+                          <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+                         </cell>                         
+                         <cell width="156"/>
+                  <br/>                   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/vulnerable.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Stopień zagrożenia:
+                     <br/>
+                        <color r="255" g="255" b="0">
+                     Średnie zagrożenie
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+               <cell width="128">
+                  <color r="255" g="255" b="255">Las liściasty<br/></color>
+                  <img src="ui/icon_biomes/icon_temperateforest.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+               </cell>
+                    <cell width="128">
+                        <color r="255" g="255" b="255">Afryka północnozachodnia</color>
+                        <br/>
+                        <img src="ui/icon_maplocations/TemperateForest_Africa_NorthWest.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+                    </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Gromada: Ssaki <i>(Mammalia)</i>
+                  <br/>
+                  Rząd: Naczelne <i>(Primata)</i>
+                  <br/>
+                  Rodzina: Wąskonose <i>(Cercopithecidae)</i>
+                  <br/>
+                  Rodzaj: <i>Macaca</i>
+                  <br/>
+                  Gatunek: <i>sylvanus</i>
+                  </color>
+               </cell>
+               <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/temperateforest_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+               </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Ciekawostki</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Tylko dwa gatunki należące do gromady naczelnych żyją w Europie: magoty i ludzie!</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Magoty są małpami, stworzeniami pozbawionymi ogona, w odróżnieniu od małpiatek!</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Magoty żyją w grupach liczących od 10 do 30 osobników, które są przewodzone przez samice.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Samce magota pomagają w wychowywaniu młodych i spędzają dużo czasu na zabawach z nimi.</color>
+               </cell>                  
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">By odblokować magota w trybie wyzwania lub kampanii, musisz zdobyć status 2 1/2 gwiazdki dla swojego zoo.</color>
+            <p/>Magoty to małpy pozbawione ogona, liczące średnio 61 cm długości i porośnięte zielono-brązową sierścią. To jedyny przedstawiciel makakowatych występujący poza Azją, spotykany głównie w niektórych obszarach Afryki północnej. Magoty żyją w lasach cedrowych i dębowych porastających góry Atlas w Maroko i Algierii. Ich populacja na wolności liczy pomiędzy 14,000 a 23,000 osobników.
+
+<p/>Magoty występowały już w Plejstocenie (od 2.5 miliona do 10 000 lat temu) i są obecnie jedynymi małpami występującymi w Europie na wolności. Ich populacja, żyjąca na Gibraltarze, została tu jednak sprowadzona, i liczy jedynie około 240 osobników; gdy przekroczy ten limit, nadliczbowe zwierzęta są wyłapywane i wysyłane do zoo.
+            
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Informacje pochodzą z <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft&#xAE; Encarta&#xAE; 2006.</color></u></a> &#xA9; 1993&#x96;2005 Microsoft Corporation. Wszystkie prawa zastrzeżone.
+         </cell>         
+      </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_birdsecretary:entry"  >Sekretarz</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_birdsecretary:text"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+                        <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+                            <img src="entities/units/animals/BirdSecretary/BirdSecretary_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+                        </cell>    
+                         <cell width="16">
+                          <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+                         </cell>
+                         <cell width="16">
+                          <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+                         </cell>
+                         <cell width="156"/>                         
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Stopień zagrożenia:
+                     <br/>
+                        <color r="170" g="255" b="0">
+                     Niskie zagrożenie
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+               <cell width="128">
+                  <color r="255" g="255" b="255">Preria<br/></color>
+                  <img src="ui/icon_biomes/icon_grassland.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+               </cell>
+                    <cell width="128">
+                        <color r="255" g="255" b="255">Africa</color>
+                        <br/>
+                        <img src="ui/icon_maplocations/savannah_africa.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+                    </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Gromada: Ptaki <i>(Aves)</i>
+                  <br/>
+                  Rząd: Ptaki drapieżne <i>(Falconiformes)</i>
+                  <br/>
+                  Rodzina: <i>Sagittariidae</i>
+                  <br/>
+                  Rodzaj: <i>Sagittarius</i>
+                  <br/>
+                  Gatunek: <i>serpentarius</i>
+                  </color>
+               </cell>
+               <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/grassland_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+               </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Ciekawostki</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Sekretarz potrafi pokonać pieszo nawet 30 kilometrów dziennie.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Ptaki te są często trzymane jako zwierzęta domowe w Afryce południowej ze względu na to, iż polują na węże i szczury.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Węże to ulubiony pokarm sekretarza. Ptaki łapią swą zdobycz szponami i uderzają nią o ziemię, jednocześnie osłaniając się skrzydłami przed ukąszeniem.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Sekretarze dobierają się w stałe pary. Mimo iż ptaki te prowadzą samotny tryb zycia, partnerzy pozostają w pobliżu siebie przez wiele lat.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>               
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Ptaki te są wyjątkowo ciche - jedynym dźwiękiem, jaki w zasadzie wydają, jest skrzek w okresie godów.</color>
+               </cell>                   
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">By odblokować sekretarza w trybie wyzwania lub kampanii, musisz zdobyć status 3 gwiazdek dla swojego zoo.</color>
+            <p/>Sekretarz to duży ptak drapieżny, żyjący na terenach Afryki na południe od Sahary. Jego ciało jest dłuższe niż 1 m, o długich nogach i ogonie, a głowa zakończona jest mocnym, zakrzywionym dziobem. W wielu książkach można spotkać się z poglądem, że nazwa "sekretarz" pochodzi od podobieństwa ozdobnego pióropusza tego ptaka do zestawu piór do pisania włożonych za ucho - w rzeczywistości jest to przekręcona arabska nazwa tego gatunku. Kolor upierzenia sekretarza to niebiesko-szary, z czarnym ogonem i udami. Sekretarz poluje na małe zwierzęta i gady, zwłaszcza węże. Ptaki te rzadko latają. Sekretarze budują duże, mocne gniazda z gałązek w gałęziach drzew lub zaroślach, i każdorazowo składają 2 jaja.
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Informacje pochodzą z <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft&#xAE; Encarta&#xAE; 2006.</color></u></a> &#xA9; 1993&#x96;2005 Microsoft Corporation. Wszystkie prawa zastrzeżone.
+         </cell>         
+      </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_bongo:entry"  >Bongo</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_bongo:text"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+                        <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+                            <img src="entities/units/animals/Bongo/Bongo_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+                        </cell>    
+                         <cell width="16">
+                          <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+                         </cell>
+                         <cell width="16">
+                          <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+                         </cell>                         
+                         <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Stopień zagrożenia:
+                     <br/>
+                        <color r="170" g="255" b="0">
+                     Niskie zagrożenie
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+               <cell width="128">
+                  <color r="255" g="255" b="255">Tropikalne lasy deszczowe<br/></color>
+                  <img src="ui/icon_biomes/icon_tropicalrainforest.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+               </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Afryka centralna</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/Rainforest_Africa_central.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Gromada: Ssaki <i>(Mammalia)</i>
+                  <br/>
+                  Rząd: Parzystokopytne <i>(Artiodactyla)</i>
+                  <br/>
+                  Rodzina: Krętorogie <i>(Bovidae)</i>
+                  <br/>
+                  Rodzaj: <i>Tragelaphus</i>
+                  <br/>
+                  Gatunek: <i>eurycerus</i>
+                  </color>
+               </cell>
+               <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/tropicalrainforest_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+               </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Ciekawostki</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Bongo to gatunek największych i najbardziej kolorowych afrykańskich antylop.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Głównym drapieżnikiem polującym na bongo jest lampart.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Gdy te antylopy biegną przez las, układają swe poroże wzdłuż grzbietu, by nie zawadzić nim o roślinność. Robią to tak często, że niektóre z nich mają widoczne łyse miejsca na grzbiecie wytarte przez poroże!</color>
+               </cell>                  
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">By odblokować bongo w trybie wyzwania lub kampanii, musisz zdobyć status 1/2 gwiazdki dla swojego zoo.</color>
+            <p/>Bongo to brązowa antylopa żyjąca w lasach Afryki centralnej i zachodniej. Podobnie jak u niektórych innych antylop, ich grzbiet ozdobiony jest białymi, pionowymi paskami. Samce i samice mają podobne, spiralne poroże.
+
+<p/>Antylopy bongo żywią się korzeniami, słodkimi ziemniakami, młodymi gałązkami i pędami. Czasem też zjadają błoto lub spalone drewno, by pozyskać sól i inne minerały. Ich język potrafi owinąć się wokół pokarmu, co ułatwia im zrywanie wyżej rosnącego pokarmu.
+
+<p/>Bongo to jedyna leśna antylopa żyjąca stadnie. To bardzo płochliwe zwierzę, uciekające przy każdej oznace potencjalnego niebezpieczeństwa. Ze względu na to, iż żyją w lasach deszczowych, istnienie antylop bongo jest szczególnie zagrożone przez wyniszczenie środowiska.
+
+         </cell>       
+      </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_buffaloafrican:entry"  >Bawół afrykaśki</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_buffaloafrican:text"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+                        <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+                          <img src="entities/units/animals/BuffaloAfrican/BuffaloAfrican_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+                         </cell>
+                         <cell width="16">
+                          <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+                         </cell>
+                        <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+                            <img src="entities/units/animals/BuffaloAfrican/BuffaloAfrican_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+                        </cell>    
+                         <cell width="16">
+                          <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+                         </cell>
+                         <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Stopień zagrożenia:
+                     <br/>
+                        <color r="170" g="255" b="0">
+                     Niskie zagrożenie
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+               <cell width="128">
+                  <color r="255" g="255" b="255">Tereny podmokłe<br/></color>
+                  <img src="ui/icon_biomes/icon_wetlands.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+               </cell>
+                    <cell width="128">
+                        <color r="255" g="255" b="255">Afryka</color>
+                        <br/>
+                        <img src="ui/icon_maplocations/savannah_africa.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+                    </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Gromada: Ssaki <i>(Mammalia)</i>
+                  <br/>
+                  Rząd: Parzystokopytne <i>(Artiodactyla)</i>
+                  <br/>
+                  Rodzina: Krętorogie <i>(Bovidae)</i>
+                  <br/>
+                  Rodzaj: <i>Syncerus</i>
+                  <br/>
+                  Gatunek: <i>caffer</i>
+                  </color>
+               </cell>
+                     <cell width="256" pady="10">
+                      <img src="UI/zoopedia/biome/wetlands_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+                     </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Ciekawostki</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Bawół afrykański to roślinożerne zwierzę żerujące głównie na trawach.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Lew to główny drapieżnik zagrażający bawołom.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Gdy członek stada jest atakowany przez drapieżnika, inne bawoły przychodzą mu na ratunek.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Kostna tarcza ochronna łącząca rogi występuje jedynie u samców.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>               
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Bawoły afrykańskie to zwierzęta stadne, żyjące w dużych grupach.</color>
+               </cell>                   
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">By odblokować bawoła afrykańskiego w trybie wyzwania lub kampanii, musisz zdobyć status 1/2 gwiazdki dla swojego zoo.</color>
+            <p/>Bawół afrykański to dzikie zwierzęta, które podobnie jak bydło domowe i niektóre inne parzystokopytne są przeżuwaczami, mającymi rozszczepione kopyta i stałe poroże, lecz znacznie silniejszymi i większymi od swych udomowionych kuzynów, wołów.
+            <p/>Zwierzęta te, zamieszkujące większość obszarów południowej i centralnej Afryki, są często wymieniane jako jedne z najniebezpieczniejszych z dużych zwierząt Afryki. Osiągają wagę do 900 kg i wysokość do 1,7 m. Ich poroże jest masywne u podstawy, formujące kostną tarczę na czole, i osiąga długość 1 m.
+            <p/>Bawoły afrykańskie zamieszkują różne środowiska - spieczone sawanny, lasy deszczowe, nizinne bagna i górskie łąki. Wycofały się ze swych naturalnych siedlisk w wyniku polowań, osadnictwa, rolnictwa i choroby zwanej księgosusz, atakującej bydło, lecz ich populacja ciągle liczy ponad milion osobników.
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Informacje pochodzą z <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft&#xAE; Encarta&#xAE; 2006.</color></u></a> &#xA9; 1993&#x96;2005 Microsoft Corporation. Wszystkie prawa zastrzeżone.
+         </cell>         
+      </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_caracal:entry"  >Karakal</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_caracal:text"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+                        <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+                            <img src="entities/units/animals/Caracal/Caracal_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+                        </cell>    
+                         <cell width="16">
+                          <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+                         </cell>
+                         <cell width="16">
+                          <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+                         </cell>                             
+                         <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Stopień zagrożenia:
+                     <br/>
+                        <color r="170" g="255" b="0">
+                     Niskie zagrożenie
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+                 <cell width="128">
+                  <color r="255" g="255" b="255">Busz<br/></color>
+                  <img src="ui/icon_biomes/icon_scrub.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+                 </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Afryka i Azja</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/Scrub_Africa_Asia.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Gromada: Ssaki <i>(Mammalia)</i>
+                  <br/>
+                  Rząd: Mięsożerne <i>(Carnivora)</i>
+                  <br/>
+                  Rodzina: Kotowate <i>(Felidae)</i>
+                  <br/>
+                  Rodzaj: <i>Caracal</i>
+                  <br/>
+                  Gatunek: <i>caracal</i>
+                  </color>
+               </cell>
+                 <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/scrub_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+                 </cell>    
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Ciekawostki</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Karakal to najszybszy z kotów swej wielkości.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Karakale to szybcy myśliwi - potrafią złapać nawet ptaka w locie!</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Choć jest często nazywany "Rysiem perskim", karakal w rzeczywistości ani jest spokrewniony z rysiami, a występuje nie tylko w Persji (czyli Iranie), ale też w Afryce południowej.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Jeśli karakal upoluje zdobycz, której nie jest w stanie zjeść za jednym razem, pozostałą część zaciąga na drzewo, by nie dobrały się do niej inne zwierzęta.</color>
+               </cell>                  
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">By odblokować karakala w trybie wyzwania lub kampanii, musisz zdobyć status 4 1/2 gwiazdki dla swojego zoo.</color>
+            <p/>Karakal zamieszkuje sawannę i suche, skaliste wzgórza Afryki i Azji. Jego ciało osiąga długość do 92 cm, a ogon dodatkowo do 30 cm. Karakal jest wysoki na 50 cm i waży około 18 kg. Jego futro jest barwy czerwono-brązowej, na brzuchu białe, a na czubkach uszu zauważyć można czarne kosmyki (karakal po turecku oznacza "czarne uszy"). Koty te żerują na gryzoniach, ptakach i małych antylopach, nie pogardzają też ptasimi gniazdami w koronach drzew, znane są również doniesienia o ich atakach na orły. W Indiach i Iranie karakale są często oswajane i wykorzystywane do polowań ze względu na swą szybkość i zwinność.  Karakale zostały znacznie wytrzebione przez polowania, ale obecnie gatunek znajduje się pod ochroną.
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Informacje pochodzą z <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft&#xAE; Encarta&#xAE; 2006.</color></u></a> &#xA9; 1993&#x96;2005 Microsoft Corporation. Wszystkie prawa zastrzeżone.
+         </cell>         
+      </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_gelada:entry"  >Dżelada</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_gelada:text"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+                        <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+                          <img src="entities/units/animals/Gelada/Gelada_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+                         </cell>
+                         <cell width="16">
+                          <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+                         </cell>
+                        <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+                            <img src="entities/units/animals/Gelada/Gelada_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+                        </cell>    
+                         <cell width="16">
+                          <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+                         </cell>
+                         <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/vulnerable.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Stopień zagrożenia:
+                     <br/>
+                        <color r="255" g="255" b="0">
+                     Średnie zagrożenie
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+                     <cell width="128">
+                      <color r="255" g="255" b="255">Góry<br/></color>
+                      <img src="ui/icon_biomes/icon_alpine.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+                     </cell>
+                    <cell width="128">
+                        <color r="255" g="255" b="255">Etiopia</color>
+                        <br/>
+                        <img src="ui/icon_maplocations/Alpine_Africa_NorthEast.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+                    </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Gromada: Ssaki <i>(Mammalia)</i>
+                  <br/>
+                  Rząd: Naczelne <i>(Primata)</i>
+                  <br/>
+                  Rodzina: Wąskonose <i>(Cercopithecidae)</i>
+                  <br/>
+                  Rodzaj: <i>Theropithecus</i>
+                  <br/>
+                  Gatunek: <i>gelada</i>
+                  </color>
+               </cell>
+                     <cell width="256" pady="10">
+                      <img src="UI/zoopedia/biome/alpine_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+                     </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Ciekawostki</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Mimo iż stada dżelad zgrupowane są wokół samców, to samice w nich dominują - chociaż są mniejsze, znają swoją siłę w grupie i potrafią ją wykorzystać!</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Gdy w pobliżu znajduje się drapieżnik, samce dżelady wydają z siebie okrzyk brzmiący jak "juhuu!"</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Społeczności dżelad mają złożoną strukturę wymagającą dobrej komunikacji. W "języku" tych małp występuje 27 dźwięków, uzupełnianych gestami i mimiką.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Młode samce dżelad pozostają blisko "haremu", po czym oddzielają się z kilkoma samicami, by założyć własną rodzinę.</color>
+               </cell>                  
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">By odblokować dżeladę w trybie wyzwania lub kampanii, musisz zdobyć status 3 1/2 gwiazdki dla swojego zoo.</color>
+            <p/>Dżelady są blisko spokrewnione z pawianami, lecz można je od nich odróżnić dzięki budowie nozdrzy, bardziej oddalonych od ust. Męskie osobniki posiadają czuprynę opadającą na grzbiet.
+
+<p/>Dżelady żyją na trawiastych terenach górskich, głównie w Etiopii, na wysokościach pomiędzy 1400 a 4400 m n.p.m. Żywią się głównie trawą, korzeniami, bulwami, czasem też szarańczą i innymi insektami. Ich ograniczona dieta powoduje, że znaczną część czasu spędzają na łąkach w poszukiwaniu pokarmu.
+
+<p/>Strukturę społeczną dżelad tworzą grupy skoncentrowane wokół samca, w których znajduje się około 12 samic będących jego partnerkami. Rodziny te zbierają się w liczące kilkaset osobników stada wędrujące razem, okazjonalnie łącząc się z innymi w jeszcze większe grupy.
+            
+         </cell>         
+      </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_gerenuk:entry"  >Gerenuk</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_gerenuk:text"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+                        <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+                          <img src="entities/units/animals/Gerenuk/Gerenuk_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+                         </cell>
+                         <cell width="16">
+                          <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+                         </cell>
+                        <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+                            <img src="entities/units/animals/Gerenuk/Gerenuk_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+                        </cell>    
+                         <cell width="16">
+                          <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+                         </cell>
+                         <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Conservation Status:
+                     <br/>
+                        <color r="170" g="255" b="0">
+                     Low Risk
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+                 <cell width="128">
+                  <color r="255" g="255" b="255">Busz<br/></color>
+                  <img src="ui/icon_biomes/icon_scrub.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+                 </cell>    
+               <cell width="128">
+                  <color r="255" g="255" b="255">Afryka</color>
+                  <br/>
+                        <img src="ui/icon_maplocations/savannah_africa.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Gromada: Ssaki <i>(Mammalia)</i>
+                  <br/>
+                  Rząd: Parzystokopytne <i>(Artiodactyla)</i>
+                  <br/>
+                  Rodzina: Krętorogie <i>(Bovidae)</i>
+                  <br/>
+                  Rodzaj: <i>Litocranius</i>
+                  <br/>
+                  Gatunek: <i>walleri</i>
+                  </color>
+               </cell>
+                 <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/scrub_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+                 </cell>    
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Ciekawostki</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Gerenuk oznacza "żyrafia szyja" w języku Somalijskim.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Antylopy te mogą zrywać roślinność rosnącą nawet na wysokości prawie 2 m.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Ponieważ gerenuki żerują wyłącznie na wysokiej roślinności, utrzymują pokojowe stosunki ze zwierzętami zjadającymi niższe warstwy wegetacji.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Podczas rytuału godowego samiec podchodzi do samicy i delikatnie klepie jej podbrzusze przednią kończyną.</color>
+               </cell>                
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">By odblokować gerenuka w trybie wyzwania lub kampanii, musisz zdobyć status 2 gwiazdek dla swojego zoo.</color>
+            <p/>Gerenuki są spokrewnione z gazelami, choć różni je od nich dłuższa szyja i masywniejsza czaszka. Tylko samce posiadają poroże.
+
+Gerenuki żyją w małych grupach. Niektóre z nich złożone są z samych samic i młodych, inne składają się wyłącznie z samców. Osobniki męskie trzymają się określonego terytorium, natomiast grupy samic często wędrują. Gerenuki nie mają określonego okresu godowego - mogą go odbyć o każdej porze roku ze względu na swe zdolności adaptacyjne do przyswajania różnego pokarmu.
+
+Gerenuki to roślinożercy, mogący, dzięki swym długim szyjom, zrywać wysoko rosnące rośliny. Potrafią również stanąć na zadnich nogach, przednimi przyciągając do siebie gałęzie. Gerenuki padają ofiarą gepardów, lampartów, lwów i szakali.
+         </cell>        
+      </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_giraffemasai:entry"  >Żyrafa, masajska</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_giraffemasai:text"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+                        <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+                            <img src="entities/units/animals/GiraffeMasai/GiraffeMasai_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+                        </cell>    
+                         <cell width="16">
+                          <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+                         </cell>
+                         <cell width="16">
+                          <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+                         </cell>                             
+                         <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Stopień zagrożenia:
+                     <br/>
+                        <color r="170" g="255" b="0">
+                     Niskie zagrożenie
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+                 <cell width="128">
+                  <color r="255" g="255" b="255">Sawanna<br/></color>
+                  <img src="ui/icon_biomes/icon_savannah.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+                 </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">                       Afryka</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/savannah_africa.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Gromada: Ssaki <i>(Mammalia)</i>
+                  <br/>
+                  Rząd: Parzystokopytne <i>(Artiodactyla)</i>
+                  <br/>
+                  Rodzina: Żyrafy <i>(Giraffidae)</i>
+                  <br/>
+                  Rodzaj: <i>Giraffa</i>
+                  <br/>
+                  Gatunek: <i>camelopardalis</i>
+                  <br/>
+                  Podgatunek: <i>tippelskirchi</i>                  
+                  </color>
+               </cell>
+                 <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/savannah_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+                 </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Ciekawostki</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Żyrafa masajska jest najwyższym zwierzęciem lądowym.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Jest także największym zwierzęciem z przeżuwaczy (do tej grupy należą też krowy.)</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">W razie zagrożenia matka staje nad cielęciem i broni je przed lwami i hienami za pomocą ostrych kopyt.</color>
+               </cell>                   
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">By odblokować żyrafę masajską w trybie wyzwania lub kampanii, musisz zdobyć status 1 gwiazdki dla swojego zoo.</color>
+            <p/>Żyrafa masajska to jeden z 9 podgatunków rodziny. Żyrafy posiadają krótką, gęstą sierść, ozdobioną wzorem ciemnych plam - ubarwienie to pozwala im wtopić się w otoczenie drzew i utrudnić wykrycie przez drapieżniki. Chociaż wzory plam są unikalne dla każdego zwierzęcia, w niektórych miejscach wzory mogą się powtarzać - zoolodzy, dzięki specyficznym wzorom plam, mogli zidentyfikować kilka podgatunków tego zwierzęcia. Jednym z najoryginalniejszych z tych gatunków jest camelopardalis reticulata - brązowe plamy na sierści tych osobników są rozdzielone cienkimi, kontrastującymi liniami, dającymi efekt popękanego bruku. Plamy żyrafy masajskiej są z kolei postrzępione. Kolor plam każdego z gatunków żyrafy ciemnieje z wiekiem. Maksymalny wiek, jaki mogą osiągnąć te zwierzęta na wolności, to 25 lat, choć zdarzały się przypadki żyraf dożywających w zoo 35 lat.
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Informacje pochodzą z <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft&#xAE; Encarta&#xAE; 2006.</color></u></a> &#xA9; 1993&#x96;2005 Microsoft Corporation. Wszystkie prawa zastrzeżone.
+         </cell>         
+      </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_hippopotamuspygmy:entry"  >Hipopotam karłowaty</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_hippopotamuspygmy:text"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+                        <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+                            <img src="entities/units/animals/HippopotamusPygmy/HippopotamusPygmy_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+                        </cell>    
+                         <cell width="16">
+                          <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+                         </cell>
+                         <cell width="16">
+                          <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+                         </cell>                             
+                         <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/critical.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Stopień zagrożenia:
+                     <br/>
+                        <color r="255" g="0" b="0">
+                     Ginący
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+               <cell width="128">
+                  <color r="255" g="255" b="255">Tropikalne lasy deszczowe<br/></color>
+                  <img src="ui/icon_biomes/icon_tropicalrainforest.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+               </cell> 
+               <cell width="128">
+                  <color r="255" g="255" b="255">Afryka centralna</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/Rainforest_Africa_central.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Gromada: Ssaki <i>(Mammalia)</i>
+                  <br/>
+                  Rząd: Parzystokopytne <i>(Artiodactyla)</i>
+                  <br/>
+                  Rodzina: Hipopotamy <i>(Hippopotamidae)</i>
+                  <br/>
+                  Rodzaj: <i>Hexaprotodon</i>
+                  <br/>
+                  Gatunek: <i>liberiensis</i>
+                  <br/>
+                  Podgatunek: <i>heslopi</i>                  
+                  
+                  </color>
+               </cell>
+               <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/tropicalrainforest_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+               </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Ciekawostki</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Większość z hipopotamów karłowatych hodowanych w amerykańskich ogrodach zoologicznych pochodzi od osobnika podarowanego prezydentowi Calvinowi Coolidge'owi w 1927.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Hipopotamy karłowate nie rodzą się z umiejętnością pływania - uczą się tego od matki.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Zwierzęta te wydzielają białą, oleistą substancję, chroniącą ich skórę podczas długich okresów spędzanych w wodzie.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Obok swych większych kuzynów, hipopotamy karłowate są blisko spokrewnione ze świniami i pekari.</color>
+               </cell>                 
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">By odblokować hipopotama karłowatego w trybie wyzwania lub kampanii, musisz zdobyć status 4 gwiazdek dla swojego zoo.</color>
+            <p/>Hipopotama karłowatego łatwo odróżnić od jego kuzyna rzecznego dzięki rozmiarom. Zwierzęta te mają wysokość zaledwie 80 cm w kłębie i ważą do 250 kg. Może wydaje się to dużą liczbą, ale pamiętajmy, że ich kuzyni potrafią ważyć nawet 4 tony.
+
+<p/>Niewiele wiadomo o zwyczajach tych zwierząt, gdyż jest to gatunek rzadko występujący, prowadzący nocny tryb życia, a osobniki pędzą samotny tryb życia (spotykają się tylko w celu rozmnażania) - dlatego bardzo trudno obserwować je w ich naturalnym środowisku. W odróżnieniu od hipopotama rzecznego, który występuje praktycznie na całym kontynencie Afrykańskim, hipopotamy karłowate spotykane są jedynie na małym obszarze Afryki zachodniej.
+
+<p/>Hipopotamy karłowate są roślinożerne, żerują na trawach, opadłych owocach i niskopiennej roślinności.
+
+<p/>Podgatunek ten znacznie ucierpiał na skutek działań ludzi, zarówno polowań, jak i wyniszczenia ich naturalnych siedlisk, przez co znajdują się one na granicy wymarcia. Na szczęście w ogrodach zoologicznych żyje znaczna i stabilna populacja.
+         </cell>        
+      </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_hyenastriped:entry"  >Hiena pręgowana</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_hyenastriped:text"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+                        <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+                            <img src="entities/units/animals/HyenaStriped/HyenaStriped_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+                        </cell>    
+                         <cell width="16">
+                          <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+                         </cell>
+                         <cell width="16">
+                          <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+                         </cell>                             
+                         <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Stopień zagrożenia:
+                     <br/>
+                        <color r="170" g="255" b="0">
+                     Niskie zagrożenie
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+               <cell width="128">
+                  <color r="255" g="255" b="255">Pustynia<br/></color>
+                  <img src="ui/icon_biomes/icon_desert.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+               </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">    Afryka północna</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/Desert_Africa_North.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Gromada: Ssaki <i>(Mammalia)</i>
+                  <br/>
+                  Rząd: Drapieżne <i>(Carnivora)</i>
+                  <br/>
+                  Rodzina: Hieny <i>(Hyaenidae)</i>
+                  <br/>
+                  Rodzaj: <i>Hyaena</i>
+                  <br/>
+                  Gatunek: <i>hyaena</i>
+                  </color>
+               </cell>
+               <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/desert_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+               </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Ciekawostki</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Hiena pręgowana potrafi przegnać lamparta czy geparda od swej zdobyczy, ale jej większa kuzynka, hiena cętkowana, zawsze zdoła ukraść jej pożywienie.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">W niektórych afrykańskich wioskach ludzie wystawiają na noc śmiecie, by hieny mogły się pożywić.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Hieny pręgowane rzadko jedzą w grupie - chcą w ten sposób uniknąć konkurencji.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Mimo iż głównym źródłem pożywienia hieny jest padlina, potrafią one też łapać w locie ćmy i inne insekty..</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Hiena pręgowana unika otwartej pustyni i zawsze pozostaje w poblizu źródła wody.</color>
+               </cell>                 
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">By odblokować hienę pręgowaną w trybie wyzwania lub kampanii, musisz zdobyć status 4 gwiazdek dla swojego zoo.</color>
+            <p/>Hiena to podobny do psa padlinożerca. Zwierzęta te mają mocne szczęki, którymi są w stanie łamać kości, niejadalne dla innych drapieżników. Gatunek ten występuje w Afryce, na Bliskim Wschodzie, południowozachodniej Azji i w Indiach. W czasach prehistorycznych hieny zawędrowały też do Europy. Ich środowiskiem z reguły są równiny i stepy, ale można je też spotkać na terenach skalistych, w buszu i lasach.
+
+<p/>Hieny dzielą się na 3 podgatunki: hienę pręgowaną, cętkowaną i brunatną, z których największą jest cętkowana. Hiena pręgowana osiąga długość do 1,5 m i wagę do 55 kilo. Jej sierść jest żółto-brązowa z ciemnymi pręgami, posiadają też grzywę porastającą kark i grzbiet.
+
+<p/>Wszystkie hieny są charakterystycznie pochylone do tyłu - wynika to z masywnej budowy przednich kończyn i karłowatości tylnych. Każda z łap ma 4 palce zakończone pazurami, pomagającymi w biegu. Hieny mają małe czaszki, ale z masywnymi i mocnymi szczękami. U nasady ogona znajduje się woreczek, który wydziela zapach znaczący terytorium.
+
+<p/>Prowadzące nocny tryb życia hieny z reguły żywią się padliną i resztkami pozostawionymi przez inne drapieżniki. Ich szczęki pozwalają im przegryźć się przez grubą skórę oraz miażdżyć kości. Niestrawne części pokarmu, takie jak kopyta, sierść i rogi, są formowane w kulki wewnątrz układu trawiennego i wydalane pyskiem. Hieny potrafią także samodzielnie upolować zdobycz. Osiągając prędkość biegu do 65 km/h są w stanie w pojedynkę zagrozić owcom, kozom, antylopom i innym zwierzętom, a zebrane w watahę mogą nawet obalić zebrę.
+
+<p/>Hieny żyją w terytorialnych klanach, złożonych zwykle z 10 lub 12 samic, około 20 szczeniąt i kilku dorosłych samców. Samice, większe od osobników męskich, same wybierają sobie partnera. Hieny nie mają określonego okresu godowego, a miot, po ciąży trwającej około 100 dni, liczy od 1 do 5 szczeniąt.
+
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Content adapted from <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft&#xAE; Encarta&#xAE; 2006.</color></u></a> &#xA9; 1993&#x96;2005 Microsoft Corporation. All rights reserved.
+         </cell>         
+      </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_mandrill:entry"  >Mandryl</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_mandrill:text"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+                        <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+                          <img src="entities/units/animals/Mandrill/Mandrill_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+                         </cell>
+                         <cell width="16">
+                          <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+                         </cell>
+                        <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+                            <img src="entities/units/animals/Mandrill/Mandrill_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+                        </cell>    
+                         <cell width="16">
+                          <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+                         </cell>
+                         <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/vulnerable.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Stopień zagrożenia:
+                     <br/>
+                        <color r="255" g="255" b="0">
+                     Średnie zagrożenie
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+               <cell width="128">
+                  <color r="255" g="255" b="255">Tropikalne lasy deszczowe<br/></color>
+                  <img src="ui/icon_biomes/icon_tropicalrainforest.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+               </cell> 
+               <cell width="128">
+                  <color r="255" g="255" b="255">Afrzka centralna</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/Rainforest_Africa_central.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Gromada: Ssaki <i>(Mammalia)</i>
+                  <br/>
+                  Rząd: Naczelne <i>(Primata)</i>
+                  <br/>
+                  Rodzina: Wąskonose <i>(Cercopithecidae)</i>
+                  <br/>
+                  Rodzaj: <i>Mandrillus</i>
+                  <br/>
+                  Gatunek: <i>sphinx</i>
+                  </color>
+               </cell>
+               <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/tropicalrainforest_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+               </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Ciekawostki</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Samiec mandryla to najpiękniej ubarwiony ssak na ziemi!</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Mandryle mogą przechowywać znaczne ilości pożywienia w woreczkach po wewnętrznej stronie policzków. Jeśli muszą umykać przed drapieżnikiem i potrzebują uwolnić wszystkie kończyny, chowają zdobycz do pyska i uciekają!</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Mimo iż małpa ta żyje w lasach, jest zwierzęciem naziemnym. Na drzewa chroni się tylko na czas snu lub przed drapieżnikami.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Głównym drapieżnikiem zagrażającym mandrylowi jest lampart.</color>
+               </cell>                  
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">By odblokować mandryla w trybie wyzwania lub kampanii, musisz zdobyć status 4 1/2 gwiazdki dla swojego zoo.</color>
+            <p/>Mandryl to naziemny odpowiednik pawiana w tropikalnej Afryce zachodniej. Umięśnione ciało tego zwierzęcia jest porośnięte miękkim futrem, którego barwy przechodzą od oliwkowego, poprzez szary, na żółtej brodzie skończywszy. Oczodoły mandryla są wystające, a oczy małe, blisko osadzone. Ogromne zęby nadają tej małpie drapieżny wygląd. Na nozdrzach mandryla widoczne są kostne narośla nie porośnięte sierścią. Długość dorosłego osobnika dochodzi do 90 cm, a ogon jest w fazie zaniku. Samice mandryla są mniej ubarwione i mają mniejsze rozmiary.
+
+<p/>Samce wyróżniają się unikalnie ubarwioną skórą twarzy. Nozdrza po bokach są błękitno-czarne, a po środku nosa biegnie szkarłatna linia. Niebieski kolor to efekt faktury skóry, a czerwony to dzieło pigmentu. Małe, spiczaste uszy są czarne, a broda i policzki żółte. Skóra pośladków jest naga, koloru szkarłatnego, przechodzącego w lila, czarny lub niebieski. Osobniki męskie osiągają pełne rozmiary i ubarwienie w wieku około 9 lat.
+
+<p/>Mandryle są gatunkiem zagrożonym, przetrzebionym przez polowania i utratę naturalnych siedlisk.       
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Informacje pochodzą z <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft&#xAE; Encarta&#xAE; 2006.</color></u></a> &#xA9; 1993&#x96;2005 Microsoft Corporation. Wszystkie prawa zastrzeżone.
+         </cell>         
+      </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_meerkat:entry"  >Surykatka</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_meerkat:text"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+                        <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+                            <img src="entities/units/animals/Meerkat/Meerkat_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+                        </cell>    
+                         <cell width="16">
+                          <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+                         </cell>
+                         <cell width="16">
+                          <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+                         </cell>                             
+                         <cell width="156"/>                         
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Stopień zagrożenia:
+                     <br/>
+                        <color r="170" g="255" b="0">
+                     Niskie zagrożenie
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+                 <cell width="128">
+                  <color r="255" g="255" b="255">Busz<br/></color>
+                  <img src="ui/icon_biomes/icon_scrub.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+                 </cell>    
+               <cell width="128">
+                  <color r="255" g="255" b="255">Afryka południowa</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/Savannah_Africa_South.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Gromada: Ssaki <i>(Mammalia)</i>
+                  <br/>
+                  Rząd: Mięsożerne <i>(Carnivora)</i>
+                  <br/>
+                  Rodzina: Mangustowate <i>(Viverridae)</i>
+                  <br/>
+                  Rodzaj: <i>Suricata</i>
+                  <br/>
+                  Gatunek: <i>suricatta</i>
+                  <br/>
+                  Podgatunek: <i>suricata</i>                  
+                  </color>
+               </cell>
+                 <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/scrub_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+                 </cell>    
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Ciekawostki</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Surykatki to społeczne zwierzęta żyjące w grupach, dzielące między siebie obowiązki higieniczne i wychowawcze.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Liczba osobników w grupie surykatek waha się między 5 a 30.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Większość drapieżników uważa surykatki za drobną przekąskę, dlatego zawsze przynajmniej jedna z nich stoi na straży grupy.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Na dietę surykatek składają się żuki, pająki, stonogi, świerszcze i skorpiony (zwierzęta te są odporne na ich jad).</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>               
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Surykatka używa swojego ogona do balansowania i komunikacji z innymi członkami grupy.</color>
+               </cell>                   
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">By odblokować surykatkę w trybie wyzwania lub kampanii, musisz zdobyć status 3 1/2 gwiazdki dla swojego zoo.</color>
+            <p/>Surykatka to niewielki przedstawiciel mangustowatych zamieszkujący południowe tereny Afryki. Zwierzęta te są znane ze swej pionowej postawy i społecznego zachowania.
+
+<p/>Surykatki z reguły zamieszkują suche równiny i sawannę, od południowej Angoli aż po RPA. Są to zwierzęta żyjące w koloniach w okolicach z piaszczystą glebą, w której mogą łatwo wykopywać rozbudowane nory.
+
+<p/>Ich ciała osiągają długość około 30 cm i są smuklejsze niż u innych przedstawicieli tej rodziny. Ich pyski są ostro zakończone, białe, z ciemnymi znakami na uszach i wokół oczu, a futro ma kolor srebrno-brązowy, ze srebrnymi pręgami z tyłu. W odróżnieniu od innych mangustowatych, łapki tych zwierząt mają 4 zamiast 5 palców.
+
+<p/>Surykatki poluj na insekty tylko za dnia, dołączając czasem do diety jaja i korzenie, jeśli mają do nich dostęp. Ich miot zwykle liczy od 2 do 4 młodych, przychodzących na świat zwykle jesienią lub zimą po ciąży trwającej około 11 tygodni. O potomstwo dbają zarówno samice, jak i samce.
+
+<p/>Surykatki często staja na tylnich kończynach, by zbadać zapachy niesione wiatrem lub wypatrzyć atakujące sępy. Mają doskonały wzrok i są zdolne wydawać 10 typów dźwięków, m. in. ostrzegawcze szczeknięcia.
+
+<p/>Zwierzęta te mogą przenosić wściekliznę, dlatego zostały wytrzebione lub przepędzone z rejonów, w których mogły zagrażać ludziom. Nie spowodowało to jednak zmniejszenia ich liczebności. W południowej Afryce często trzyma się je jako zwierzęta domowe.
+
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Informacje pochodzą z <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft&#xAE; Encarta&#xAE; 2006.</color></u></a> &#xA9; 1993&#x96;2005 Microsoft Corporation. Wszystkie prawa zastrzeżone.
+         </cell>         
+      </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_monitornile:entry"  >Waran nilowy</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_monitornile:text"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+                        <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+                            <img src="entities/units/animals/MonitorNile/MonitorNile_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+                        </cell>    
+                         <cell width="16">
+                          <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+                         </cell>
+                         <cell width="16">
+                          <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+                         </cell>                             
+                         <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Stopień zagrożenia:
+                     <br/>
+                        <color r="170" g="255" b="0">
+                     Niskie zagrożenie
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+               <cell width="128">
+                  <color r="255" g="255" b="255">Tereny podmokłe<br/></color>
+                  <img src="ui/icon_biomes/icon_wetlands.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+               </cell>
+                    <cell width="128">
+                        <color r="255" g="255" b="255">Afryka</color>
+                        <br/>
+                        <img src="ui/icon_maplocations/Savannah_Africa.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+                    </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Gromada: Gady <i>(Reptilia)</i>
+                  <br/>
+                  Rząd: Łuskoskóre <i>(Squamata)</i>
+                  <br/>
+                  Rodzina: Warany <i>(Varanidae)</i>
+                  <br/>
+                  Rodzaj: <i>Varanus</i>
+                  <br/>
+                  Gatunek: <i>niloticus</i>
+                  </color>
+               </cell>
+                     <cell width="256" pady="10">
+                      <img src="UI/zoopedia/biome/wetlands_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+                     </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Ciekawostki</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Waran nilowy to największa jaszczurka w Afryce.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Zwierzę to jest spokrewnione z waranem z Komodo, który jest największym żyjącym gadem na świecie.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Warany nilowe są spokrewnione z mezozaurami, olbrzymimi gadami morskimi, które żyły na ziemi miliony lat temu.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Pomimo krótkich kończyn, zwierzęta te są szybkimi biegaczami.</color>
+               </cell>
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">By odblokować warana nilowego w trybie wyzwania lub kampanii, musisz zdobyć status 1 1/2 gwiazdki dla swojego zoo.</color>
+            <p/>Warany nilowe to jedne z największych jaszczurek żyjących obecnie na ziemi. Są agresywne i mają bardzo silne szczęki, ogon i kończyny. Ogona często używają jako broni w walkach pomiędzy osobnikami tego gatunku lub polowań.
+
+<p/>Gady te są mięsożerne i połykają swą zdobycz w całości, tak jak węże. Ich pokarm zwykle stanowią owady, ptaki, ryby, gryzonie i inne gady.
+
+<p/>Warany nilowe żyją w pobliżu strumieni i rzek Afryki na południe od Sahary, osiągając długość ciała do 1,7 m. Zwykle poruszają się po ziemi w pobliżu wody, ale mogą też wspinać się na drzewa i podkradać jaja z gniazd ptaków.
+
+         </cell>
+      </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_ratel:entry"  >Ratel</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_ratel:text"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+                        <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+                            <img src="entities/units/animals/Ratel/Ratel_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+                        </cell>    
+                         <cell width="16">
+                          <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+                         </cell>
+                         <cell width="16">
+                          <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+                         </cell>
+                         <cell width="156"/>                         
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Stopień zagrożenia:
+                     <br/>
+                        <color r="170" g="255" b="0">
+                     Niskie zagrożenie
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+               <cell width="128">
+                  <color r="255" g="255" b="255">Preria<br/></color>
+                  <img src="ui/icon_biomes/icon_grassland.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+               </cell>
+                    <cell width="128">
+                        <color r="255" g="255" b="255">Afryka i Azja</color>
+                        <br/>
+                        <img src="ui/icon_maplocations/Grassland_Africa_Asia.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+                    </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Gromada: Ssaki <i>(Mammalia)</i>
+                  <br/>
+                  Rząd: Mięsożerne <i>(Carnivora)</i>
+                  <br/>
+                  Rodzina: Łasicowate <i>(Mustelidae)</i>
+                  <br/>
+                  Rodzaj: <i>Mellivora</i>
+                  <br/>
+                  Gatunek: <i>capensis</i>
+                  </color>
+               </cell>
+               <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/grassland_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+               </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Ciekawostki</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Ratel ma krótkie łapy, ale jest bardzo wytrzymały, dzięki czemu potrafi gonić większą ofiarę dopóty, dopóki ta nie padnie z wyczerpania.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Ratele potrafią przegonić młode lwy od ich zdobyczy!</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Niewiele drapieżników potrafi zagrozić ratelom - ich skóry nie mogą przegryźć nawet węże!</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Uszy tego zwierzęcia są osłonięte fałdą skóry, dzięki czemu nie dostaje się do nich ziemia podcza skopania nor.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Ratele potrafią też odganiać napastników za pomocą cuchnącej wydzieliny. Używają jej też do wypłaszania pszczół z uli, gdy mają ochotę na miód!</color>
+               </cell>                
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">By odblokować ratela w trybie wyzwania lub kampanii, musisz zdobyć status 2 gwiazdek dla swojego zoo.</color>
+            <p/>Ratel, zwany też miodowym borsukiem, to średniej wielkości stworzenie podobne do skunksa żyjące w Afryce i Azji. Nazwane tak ze względu na swój zwyczaj jadania miodu, zwierzę to jest także zawziętym drapieżnikiem, potrafiącym zaatakować kobrę, bydło, a nawet bawoła.
+
+<p/>Ratele spotkać można na większości obszarów Afryki, a także w Azji południowej i centralnej na wschód od Półwyspu Arabskiego, aż po Indie i Nepal. Zamieszkują zarówno lasy, jak i prerie.
+
+<p/>Ciało tych zwierząt jest muskularne, liczące około 70 cm długości i ważące do 13 kg. Głowa, kark i grzbiet pokryte są srebrnym futrem, a reszta ciała jest czarna. Niektóre osobniki mogą być całkowicie czarne. Ich krótkie łapy, zaopatrzone w mocne pazury, są przystosowane do kopania.
+
+<p/>Ratele są trudną zdobyczą dla innych zwierząt - ich skóra jest niezwykle twarda i luźno umocowana do ciała, co utrudnia schwytanie. Ugryzienia i ukąszenia owadów nie są w stanie przebić się przez jej warstwę. Dodatkową bronią tego stworzenia jest gruczoł wydzielający cuchnącą ciecz.
+
+<p/>Zwierzę to nazywane jest "miodowym borsukiem", gdyż do ich ulubionych pokarmów należy miód pszczeli. W Afryce w odnalezieniu uli pomaga mu w tym pewien gatunek ptaka, również żywiący się miodem - gdy odnajdzie źródło miodu, wydaje z siebie specjalny okrzyk, wabiąc ratela. Drapieżnik rozbija ul za pomocą silnych pazurów, po czym zarówno ptak, jak i ratel mogą zgodnie się posilić. DO diety tego zwierzęcia należą także owady, jaja, ptaki, jaszczurki, węże, rośliny i małe ssaki. Ratel poluje zarówno w dzień, jak i w nocy.
+
+<p/>Drapieżniki te żyją w norach, które wykopują za pomocą silnych pazurów. Żyją zwykle w grupach, ale polują najczęściej samotnie lub parami. Po zapłodnieniu komórka jajowa samicy pozostaje w "uśpieniu" przez kilka miesięcy. Cały okres ciąży wynosi około pół roku. W miocie zwykle rodzi się od 1 do 4 młodych, wychowywanych następnie przez samicę.
+
+<p/>Ratele są niezwykle odważne - potrafią zaatakować większe zwierzęta, na przykład konie i bawoły, jeśli te znajdą się w pobliżu ich nory. Właśnie ze względu na tą agresywność nie polowano na nie w przeszłości, choć, jeśli zostaną złapane za młodu, dają się oswoić, i są niekiedy trzymane jako zwierzęta domowe. Dorosły ratel to jednak silne i energiczne zwierzę, więc może z łatwością zaatakować właściciela lub zniszczyć jego mienie.
+
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Informacje pochodzą z <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft&#xAE; Encarta&#xAE; 2006.</color></u></a> &#xA9; 1993&#x96;2005 Microsoft Corporation. Wszystkie prawa zastrzeżone.
+         </cell>         
+      </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_rhinoceroswhite:entry"  >Nosorożec afrykański</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_rhinoceroswhite:text"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+                        <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+                            <img src="entities/units/animals/RhinocerosWhite/RhinocerosWhite_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+                        </cell>    
+                         <cell width="16">
+                          <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+                         </cell>
+                         <cell width="16">
+                          <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+                         </cell>                             
+                         <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Stopień zagrożenia:
+                     <br/>
+                        <color r="170" g="255" b="0">
+                     Niskie zagrożenie
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                       
+                 <cell width="128">
+                  <color r="255" g="255" b="255">Busz<br/></color>
+                  <img src="ui/icon_biomes/icon_scrub.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+                 </cell>    
+               <cell width="128">
+                  <color r="255" g="255" b="255">Afryka południowa</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/Scrub_Africa_South.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Gromada: Ssaki <i>(Mammalia)</i>
+                  <br/>
+                  Rząd: Nieparzystokopytne <i>(Perissodactyla)</i>
+                  <br/>
+                  Rodzina: Nosorożce <i>(Rhinocerotidae)</i>
+                  <br/>
+                  Rodzaj: <i>Ceratotherium</i>
+                  <br/>
+                  Gatunek: <i>simum</i>
+                  <br/>
+                  Podgatunek: <i>simum</i>                  
+                  </color>
+               </cell>
+                 <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/scrub_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+                 </cell>    
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Ciekawostki</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Nosorożec afrykański to największy przeżuwacz na świecie.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Nosorożec afrykański, zwany też białym, nie jest w rzeczywistości tego koloru. Nazwa ta pochodzi od słowa w języku Afrikaans - "weit" - oznaczającego "szeroki", opisującego pysk zwierzęcia.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Nosorożec biały ma bardzo kiepski wzrok i polega głownie na swym zmyśle węchu. Jego zatoki są w zasadzie większe niż mózg!</color>
+               </cell>                 
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">By odblokować nosorożca afrykańskiego w trybie wyzwania lub kampanii, musisz zdobyć status 2 1/2 gwiazdki dla swojego zoo.</color>
+            <p/>Nosorożec afrykański to jeden z 5 gatunków tej rodziny żyjących obecnie. Trzy z nich występują w Azji, a nosorożce afrykański i zwyczajny w Afryce.
+
+<p/>Nosorożec biały to największy z gatunków, a przy tym najbardziej spokojny. Nosorożec zwyczajny (czarny) jest o połowę mniejszy, ale znacznie bardziej agresywny. Oba afrykańskie gatunki mają dwa rogi na pysku. Nie są to kostne narośla, tak jak poroże krów i antylop, ale twory keratynowe, zrobione z tego samego budulca, co włosy.
+
+<p/>Wszystkie gatunki tej rodziny są roślinożerne. Nosorożec afrykański żywi się wyłącznie trawą, a pochłania jej aż tyle, że nazywany jest czasem "megaroślionżercą".
+         </cell>        
+      </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_tortoiseafricanspurred:entry"  >Żółw pustynny</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_tortoiseafricanspurred:text"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+                        <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+                          <img src="entities/units/animals/TortoiseAfricanSpurred/TortoiseAfricanSpurred_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+                         </cell>
+                         <cell width="16">
+                          <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+                         </cell>
+                        <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+                            <img src="entities/units/animals/TortoiseAfricanSpurred/TortoiseAfricanSpurred_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+                        </cell>    
+                         <cell width="16">
+                          <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+                         </cell>
+                         <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/vulnerable.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Stopień zagrożenia:
+                     <br/>
+                        <color r="255" g="255" b="0">
+                     Średnie zagrożenie
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+               <cell width="128">
+                  <color r="255" g="255" b="255">Pustynia<br/></color>
+                  <img src="ui/icon_biomes/icon_desert.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+               </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Afryka północna</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/Desert_Africa_North.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Gromada: Gady <i>(Reptilia)</i>
+                  <br/>
+                  Rząd: Żółwie <i>(Testudines)</i>
+                  <br/>
+                  Rodzina: Żółwie lądowe <i>(Testudinidae)</i>
+                  <br/>
+                  Rodzaj: <i>Geochelone</i>
+                  <br/>
+                  Gatunek: <i>sulcata</i>
+                  </color>
+               </cell>
+               <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/desert_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+               </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Ciekawostki</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">W trakcie ciężkich upałów żółw pustynny pokrywa śliną przód ciała, by je trochę ochłodzić.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Żółw pustynny potrzebuje roślinnej diety o wysokiej zawartośći włókien, ale nie jada owoców, które zawierają zbyt wiele protein i cukru.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Gad ten jest trzecim co do wielkości gatunkiem żółwi lądowych - ustepuje jedynie żółwiowi słoniowemu z Galapagos i żółwiowi Aldabra.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">W przeciwieństwie do innych przedstawicieli tej rodziny, żółw pustynny nie hibernuje na zimę ze względu na temperatury panujące na Sahelu.</color>
+               </cell>                  
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">By odblokować żółwia pustynnego w trybie wyzwania lub kampanii, musisz zdobyć status 1 gwiazdki dla swojego zoo.</color>
+            <p/>Żółw pustynny to największy przedstawiciel gatunku żyjący na terenie Afryki, osiągający wagę do 105 kg. Gad ten potrzebuje wiele przestrzeni do życia. Są bardzo silne, dlatego ich wybiegi w zoo powinny być bardzo mocne.
+
+<p/>Pokarm tego zwierzęcia składa się z traw, koniczyny i kaktusów. Jego dieta musi być dodatkowo bogata w wapń, a źródłem wody są dla niego rośliny gruboszowate.
+
+<p/>Żółwie te są bardzo agresywne wobec przedstawicieli swojego gatunku - samce często próbują staranować drugiego osobnika i przewrócić go na grzbiet.
+
+<p/>Gdy temperatury rosną do wysokiego poziomu, żółw pustynny zakopuje się w ziemi, by ochłodzić ciało. Jeśli znajdzie gdzieś błotnistą kałużę, gad oblepia się nim całkowicie. By uchronić się przed upałem, są najbardziej aktywne o zmierzchu i o świcie.
+
+         </cell>       
+      </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_warthog:entry"  >Guziec</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_warthog:text"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+                        <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+                          <img src="entities/units/animals/Warthog/Warthog_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+                         </cell>
+                         <cell width="16">
+                          <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+                         </cell>
+                        <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+                            <img src="entities/units/animals/Warthog/Warthog_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+                        </cell>    
+                         <cell width="16">
+                          <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+                         </cell>
+                         <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Stopień zagrożenia:
+                     <br/>
+                        <color r="170" g="255" b="0">
+                     Niskie zagrożenie
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+                 <cell width="128">
+                  <color r="255" g="255" b="255">Sawanna<br/></color>
+                  <img src="ui/icon_biomes/icon_savannah.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+                 </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Afryka</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/savannah_africa.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Gromada: Ssaki <i>(Mammalia)</i>
+                  <br/>
+                  Rząd: Parzystokopytne <i>(Artiodactyla)</i>
+                  <br/>
+                  Rodzina: Świniowate <i>(Suidae)</i>
+                  <br/>
+                  Rodzaj: <i>Phacochoerus</i>
+                  <br/>
+                  Gatunek: <i>africanus</i>
+                  <br/>
+                  Podgatunek: <i>aetheopicus</i>
+                  </color>
+               </cell>
+                 <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/savannah_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+                 </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Ciekawostki</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Guźce sypiają i odpoczywają w jamach, ale nie lubią ich wykopywać - zwykle wykorzystują te, które zrobiły inne zwierzęta.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">W razie zagrożenia guziec zaczyna parskać, chrząkać, kładzie po sobie uszy i chowa się do jamy, wystawiając na zewnątrz tylko szable.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Guźce utrzymują się w czystości dzięki kąpielom piaskowym, ocierają się też o drzewa i kopce termitów, a także pozwalają ptakom wybierać insekty ze swej sierści.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Podczas pożywiania się guźce często klękają, by sięgnąć nisko rosnącej, młodej trawy.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>               
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Głównymi drapieżnikami zagrażającymi tym zwierzętom są lwy i lamparty.</color>
+               </cell>                   
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">By odblokować guźca w trybie wyzwania lub kampanii, musisz zdobyć status 3 gwiazdek dla swojego zoo.</color>
+            <p/>Guziec to dziki gatunek świni, posiadający dwie pary szabel i dwie pary zgrubień na długiej i szerokiej głowie. Ciała guźców są zwarte, o cienkich kończynach i długim, czubatym ogonie. Występują głównie na afrykańskich równinach iw lasach, a ich dieta składa się z trawy, jagód, kory, korzeni i padliny. Zwierzęta te pędzą dzienny tryb życia, na noc chowając się w norach, ale na obszarach o dużej aktywności człowieka niektóre z nich przestawiły się na nocny tryb aktywności. Jedna lub dwie samice z młodymi formują małe grupki, do których dołącza samiec na czas godów. Młode samce tworzą własne stada, odłączając się od grupy matki w wieku 15 miesięcy, a starość spędzają w samotności. Młode samice mogą pozostać w stadzie swojej matki przez całe życie. Potomstwo, niezależnie od płci, jest odpędzane po narodzinach kolejnego miotu, po czym może wrócić do stada. Szable guźca są ostre i służą do obrony przed drapieżnikami - walki między osobnikami tego samego gatunku są zwykle przepychankami.
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Informacje pochodzą z <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft&#xAE; Encarta&#xAE; 2006.</color></u></a> &#xA9; 1993&#x96;2005 Microsoft Corporation. Wszystkie prawa zastrzeżone.
+         </cell>         
+      </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_wildebeest:entry"  >Gnu</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_wildebeest:text"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+                        <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+                          <img src="entities/units/animals/wildebeest/wildebeest_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+                         </cell>
+                         <cell width="16">
+                          <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+                         </cell>                         
+                         <cell width="16">
+                          <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+                         </cell>
+                         <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Stopień zagrożenia:
+                     <br/>
+                        <color r="170" g="255" b="0">
+                     Niskie zagrożenie
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>             
+               
+                    <cell width="128">
+                        <color r="255" g="255" b="255">Sawanna</color>
+                        <br/>
+                        <img src="ui/icon_biomes/icon_savannah.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+                    </cell>
+                    <cell width="128">
+                        <color r="255" g="255" b="255">Afryka</color>
+                        <br/>
+                        <img src="ui/icon_maplocations/Savannah_Africa.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+                    </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Gromada: Ssaki <i>(Mammalia)</i>
+                  <br/>
+                  Rząd: Parzystokopytne <i>(Artiodactyla)</i>
+                  <br/>
+                  Rodzina: Krętorogie <i>(Bovidae)</i>
+                  <br/>
+                  Rodzaj: <i>Connochaetus</i>
+                  <br/>
+                  Gatunek: <i>taurinus</i>
+                  </color>
+               </cell>
+                 <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/savannah_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+                 </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Ciekawostki</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Antylopa gnu żywi się głównie trawą.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Głownymi drapieżnikami polującymi na gnu są lwy i hieny.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Gnu chronią się tworząc duże stada.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Zwierzęta te są bardzo hałaśliwe - bardzo często parskają i wydają inne odgłosy.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>               
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Ich stada potrafią pokonywać do 1500 km rocznie.</color>
+               </cell>                              
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">By odblokować gnu w trybie wyzwania lub kampanii, musisz zdobyć status 1 1/2 gwiazdki dla swojego zoo.</color>
+            <p/>Gnu to duża afrykańska antylopa, częściowo podobna do wołu, z charakterystyczną brodą i końskim ogonem. Istnieją dwa podgatunki tego zwierzęcia - gnu brunatne, obecnie bardzo rzadko spotykane, oraz gnu pręgowane, zamieszkujące równiny od Kenii aż po RPA. Poroże posiadają zarówno samice, jak i samce.
+
+<p/>Gnu pręgowane zamieszkuje sawannę i lasy południowej Afryki i jest jednym z najszybszych zwierząt zamieszkujących te tereny. Osiąga wagę 272 kg i wysokość 137 cm w kłębie. Masywna głowa zwieńczona jest długim na ponad 60 cm porożem, ale zwierzę to woli raczej uciekać, niż się bronić. Gdy wyczuje intruza, odbiega szybko i krąży, wyczekując jego następnego ruchu.
+
+<p/>Stada gnu liczą od 30 do 500 osobników. Na samych tylko Równinach Serengeti można doliczyć się około miliona tych zwierząt. Samice zwykle rodzą jedne młode w miocie, które potrafi biegać od razu po wstaniu na nogi. Mioty w stadzie są "synchronizowane" przez samice, co powoduje, że drapieżniki są oszołomione ilością potencjalnych ofiar - zwiększa to szanse na przeżycie młodych. Potomstwo pada zwykle ofiarą hien, natomiast osobniki dorosłe są ulubionym celem lwów. Pojedyncze samce bronią swego terytorium i strzegą samic. Samce nie posiadające własnego terytorium łączą się w stada. W porze suchej antylopy te migrują w ogromnych grupach.
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Informacje pochodzą z <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft&#xAE; Encarta&#xAE; 2006.</color></u></a> &#xA9; 1993&#x96;2005 Microsoft Corporation. Wszystkie prawa zastrzeżone.
+         </cell>
+      </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_wolfethiopian:entry"  >Wilk etiopski</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_wolfethiopian:text"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+                        <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+                            <img src="entities/units/animals/WolfEthiopian/WolfEthiopian_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+                        </cell>    
+                         <cell width="16">
+                          <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+                         </cell>                        
+                         <cell width="16">
+                          <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+                         </cell>
+                         <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/critical.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Stopień zagrożenia:
+                     <br/>
+                        <color r="255" g="0" b="0">
+                     Ginący
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                       
+                     <cell width="128">
+                      <color r="255" g="255" b="255">Góry<br/></color>
+                      <img src="ui/icon_biomes/icon_alpine.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+                     </cell>
+                    <cell width="128">
+                        <color r="255" g="255" b="255">Etiopia</color>
+                        <br/>
+                        <img src="ui/icon_maplocations/Alpine_Africa_NorthEast.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+                    </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Gromada: Ssaki <i>(Mammalia)</i>
+                  <br/>
+                  Rząd: Mięsożerne <i>(Carnivora)</i>
+                  <br/>
+                  Rodzina: Psowate <i>(Canidae)</i>
+                  <br/>
+                  Rodzaj: <i>Canis</i>
+                  <br/>
+                  Gatunek: <i>simensis</i>
+                  </color>
+               </cell>
+                     <cell width="256" pady="10">
+                      <img src="UI/zoopedia/biome/alpine_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+                     </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Ciekawostki</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Jest to jedyny przedstawiciel wilków w Afryce.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Wilk etiopski prowadzi dzienny tryb życia, ale na obszarach opanowanych przez ludzi przestawia się na aktywność nocną.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">W stadzie rozmnaża się tylko dominujący samiec z dominującą samicą, a reszta osobników pomaga wychowywać młode.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Wilki te znaczą swoje terytorium uryną.</color>
+               </cell>                   
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">By odblokować wilka etiopskiego w trybie wyzwania lub kampanii, musisz zdobyć status 5 gwiazdek dla swojego zoo.</color>
+            <p/>Wilk etiopski jest spokrewniony z szakalami, stąd czasem nazywany jest szakalem syjamskim. To jedyny rodzaj gatunek wilka żyjący w Afryce - w górach Etiopii i Erytrei można spotkać już jednak niewielką populację.
+
+<p/>Wilk etiopski poluje głównie na gryzonie, wykopując je z nor lub podkradając się do zdobyczy. Czasem zdarza się mu też polować stadnie - jest wtedy w stanie upolować antylopę lub owcę.
+
+<p/>Zwierzę to jest zagrożone wyginięciem - na świecie żyje obecnie tylko 400 dorosłych osobników. Wilk etiopski jest pod oficjalną ochroną rządu tego kraju, a w jego ratowaniu pomaga organizacja mająca swą siedzibę na uniwersytecie oksfordzkim.
+         </cell>       
+      </LOC_STRING>
+</ZT2Strings>
