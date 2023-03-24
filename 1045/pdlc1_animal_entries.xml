@@ -1,0 +1,496 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<ZT2Strings>
+	<LOC_STRING _locID="zoopedia_styracosaurus:entry"  >Styrakozaur</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_styracosaurus:text"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/Styracosaurus/Styracosaurus_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/Styracosaurus/Styracosaurus_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/extinct.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Stopień Zagrożenia:
+                     <br/>
+                        <color r="255" g="255" b="255">
+                     Wymarły
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+               <cell width="128">
+                  <color r="255" g="255" b="255">Tropikalny las deszczowy<br/></color>
+                  <img src="ui/icon_biomes/icon_tropicalrainforest.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+               </cell>
+					<cell width="128">
+						<color r="255" g="255" b="255">Ameryka północna</color>
+						<br/>
+						<img src="ui/icon_maplocations/Cretaceous_North_America.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+					</cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Gromada: <i>Archosauria</i>
+                  <br/>
+                  Rząd: <i>Ornithischia</i>
+                  <br/>
+                  Rodzina: <i>Ceratopsidae</i>
+                  <br/>
+                  Rodzaj: <i>Styracosaurus</i>
+                  <br/>
+                  Gatunek: <i>albertensis</i>
+                  </color>
+               </cell>
+					 <cell width="256" pady="10">
+					  <img src="UI/zoopedia/biome/tropicalrainforest_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+					 </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Ciekawostki</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Styrakozaur jest przodkiem bardziej znanego triceratopsa.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Styrakozaur miał róg i kolczasty kołnierz dla ochrony przeciw mięsożernym drapieżcom, takim jak tyranozaur rex czy karnotaur.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Styrakozaur był roślinożercą, który żywił się liśćmi sagowców, takich jak sagowiec odwinięty.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Styrakozaur prawdopodobnie podróżował i poszukiwał żywności w stadach.</color>
+               </cell>                             
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">By odblokować Styrakozaura w trybie wyzwania lub kampanii, musisz uzyskać status co najmniej 1 gwiazdki dla twojego zoo.</color>
+            <p/>Styrakozaur był roślinożercą, żyjącym w kredzie, ponad 65 milionów lat temu. Styrakozaur był mniejszy od swojego następcy - triceratopsa - i żył od niego około 10 milionów lat wcześniej. Dorosły styrakozaur mierzył około 5m długości, 1,8 m wysokości i ważył do trzech ton. Zwierzę to miało jeden wielki róg na swoim pysku, po jednym małym rogu nad każdym okiem i kołnierz szyjny przyozdobiony kilkoma długimi kolcami. Kołnierz szyjny stanowił ochronę przed mięsożernymi drapieżnikami, takimi jak tyranozaur i sprawiał, że styrakozaur wyglądał na większego i groźniejszego (możliwe, że również czynił je bardziej atrakcyjnymi podczas rytuałów godowych). Tak jak triceratops, styrakozaur miał ostry dziób, którego używał do obcinania liści z nisko-rosnącego listowia, jak sagowce, a także potężne szczęki służące do przeżuwania twardych liści. Styrakozaur został odkryty w 1915 roku w Red Deer Valley w okręgu Alberta w Kanadzie. 
+         </cell>
+      </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_triceratops:entry"  >Triceratops</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_triceratops:text"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/triceratops/triceratops_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/triceratops/triceratops_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>						 
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/extinct.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Stopień zagrożenia:
+                     <br/>
+                        <color r="255" g="255" b="255">
+                     Wymarły
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>             
+               
+					<cell width="128">
+						<color r="255" g="255" b="255">Las borealny</color>
+						<br/>
+						<img src="ui/icon_biomes/icon_borealforest.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+					</cell>
+					<cell width="128">
+						<color r="255" g="255" b="255">Ameryka północna</color>
+						<br/>
+						<img src="ui/icon_maplocations/Cretaceous_America_Boreal.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+					</cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Gromada: <i>Archosauria</i>
+                  <br/>
+                  Rząd: <i>Ornithischia</i>
+                  <br/>
+                  Rodzina: <i>Ceratopsidae</i>
+                  <br/>
+                  Rodzaj: <i>Triceratops</i>
+                  <br/>
+                  Gatunek: <i>horridus</i>
+                  </color>
+               </cell>
+				 <cell width="256" pady="10">
+				  <img src="UI/zoopedia/biome/borealforest_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+				 </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Ciekawostki</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Triceratops jest potomkiem Styrakozaura.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Triceratops miał trzy rogi i kostną tarczę szyjną zwaną kryzą.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Triceratops używał swoich rogów i kryzy jako ochrony przed drapieżnikami, takimi jak Tyranozaur rex czy Karnotaur.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Triceratops był roślinożercą, który żywił się liśćmi sagowców, takich jak sagowiec odwinięty.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>               
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Triceratops miał ostry dziób, którego używał do przecinania się przez roślinność, a jego szczęki mogły otwierać się w bok, by zbierać listowie.</color>
+               </cell>                              
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">By odblokować triceratopsa w trybie wyzwania lub kampanii, musisz uzyskać status 4 gwiazdek dla swojego zoo.</color>
+            <p/>Triceratops jest rodzajem czteronogiego, roślinożernego dinozaura, który żył w kredzie, ponad 65 milionów lat temu. Triceratops miał trzy rogi na swojej czaszce - jeden na pysku i po jednym nad każdym okiem. Nazwa pochodzi od greckich słów treis ("trzy"), kerat ("róg") i ops ("twarz"). Triceratops był jednym z największych rogatych dinozaurów. Innymi cechami wyróżnającymi to zwierzę, są dziób i tarcza szyjna lub kryza. Triceratops należał do zróżnicowanej grupy dinozaurów ornithischia ("ptasiomiednicze") zwanej ceratopsami ("rogato-twarze"), które zamieszkiwały Amerykę północną i Azję pod koniec ery dinozaurów. Wiele czaszek zostało odzyskanych z osadów, które osiadły 67 do 65 milionów lat temu na nisko położonej, przybrzeżnej równinie niedaleko drogi morskiej, która zakrywała głębię Stanów Zjednoczonych i Kanady.
+            
+				<p/>Dorosły triceratops mierzył około 8 m długości i ważył do 12 ton. Czaszki dorosłych osobników miały 2,5 m długości i zakończone były wąskim, ptakopodobnym dziobem. Wewnątrz dzioba, jego zęby sprasowane były w rzędy i przypominały olbrzymie nożyce. Zwierzę to mogło otworzyć swoje szczęki w bok, by zbnierać listowie, poprzez obracanie stawów pomiędzy głową a szyją. Gdy jedzenie było już zebrane,  zwierzę to obracało swoją głowę z powrotem i siekało jedzenie pomiędzy swoimi potężnymi szczękami. Spód kryzy szyjnej zawierał gęstą sieć naczyń krwionośnych. Dowody pochodzące ze skamielin wskazują, że ciepło rochodziło się z kryzy poprzez te naczynia krwionośne w podobny sposób jak słonie przekazują krew do swoich uszu, by oprowadzić ciepło. Niektórzy naukowcy wierzą, że triceratopsy potrafiły galopować jak nosorożce, ale inni sugerują, że zwierzęta te były zbyt ciężkie i niezdarne na taki ruch.
+				
+				<p/>Kostne szczątki triceratopsa zostały odnalezione na wielkiej aluwialnej równinie, która przypominała dzisiejsze niziny odgradzające dolną część rzeki Mississippi niedaleko Zatoki Meksykańskiej. Szczęki triceratopsa były dobrze przystosowane do zbierania włóknistych roślin, takich jak pałki i palmiczki, o których wiadomo, że porastały tę równinę. Duże rozmiary tego zwierzęcia sugerują, że triceratops zamieszkiwał bogate w żywność środowisko. Częściowo zaleczone rany punktowe w ich czaszkach wskazują, że zwierzęta te walczyły między sobą, tak jak dzisiejsze rogate ssaki, na przykład kozły czy jelenie. Jednakże, niektórzy paleontolodzy wieżą, że rogi triceratopsa mogły odgrywać rolę w rozróżnieniu pomiędzy samcami i samicami, oraz w innych aspektach zachowań społecznych, a zwłaszcza dominacji w grupie i godach.  
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Informacje pochodzą z <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft&#xAE; Encarta&#xAE; 2006.</color></u></a> &#xA9; 1993&#x96;2005 Microsoft Corporation. Wszelkie prawa zastrzeżone.
+         </cell>
+      </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_tyrannosaurusrex:entry"  >Tyranozaur rex</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_tyrannosaurusrex:text"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/tyrannosaurusrex/tyrannosaurusrex_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/tyrannosaurusrex/tyrannosaurusrex_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/extinct.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Stopień zagrożenia:
+                     <br/>
+                        <color r="255" g="255" b="255">
+                     Wymarły
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>             
+               
+               <cell width="128">
+                  <color r="255" g="255" b="255">Tropikalny las deszczowy<br/></color>
+                  <img src="ui/icon_biomes/icon_tropicalrainforest.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+               </cell>
+					<cell width="128">
+						<color r="255" g="255" b="255">Ameryka północna</color>
+						<br/>
+						<img src="ui/icon_maplocations/Cretaceous_America_TropicalRainForest.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+					</cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Gromada: <i>Archosauria</i>
+                  <br/>
+                  Rząd: <i>Saurischia</i>
+                  <br/>
+                  Rodzina: <i>Tyrannosauridae</i>
+                  <br/>
+                  Rodzaj: <i>Tyrannosaurus</i>
+                  <br/>
+                  Gatunek: <i>rex</i>
+                  </color>
+               </cell>
+				 <cell width="256" pady="10">
+				  <img src="UI/zoopedia/biome/tropicalrainforest_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+				 </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Ciekawostki</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Naukowcy wiedzą więcej o Tyranozaurze niż o jakimkolwiek innym drapieżnym dinozaurze.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Tyranozaur był mięsożercą, który często polował na roślinożerców, takich jak Triceratops i Styrakozaur.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Kryza Triceratopsa została odnaleziona w skamieniałym łajnie Tyranozaura.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Tyranozaur miał kostną kratę, służącą do ochrony brzucha przed odwetemowymi ciosami rogów roślinożerców.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>               
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Żołądek tyranozaura mógł zmieścić ponad pół tony mięsa.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>               
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Naukowcy niedawno odkryli dowody, wskazujące, że młode tyranozaura mogły być pokryte puchowymi piórami, dla zachowania ciepła.</color>
+               </cell>                 
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">By odblokować Tyranozaura rexa w trybie wyzwania lub kampanii, musisz osiągnąć status co najmniej 5 gwiazdek dla twojego zoo.</color>
+          	<p/>Tyranozaur to nazwa rodzaju wielkiego, dwunożnego, mięsożernego dinozaura, który żył w późnej Kredzie, około 65 milionów lat temu. Nazwa Tyranozaur pochodzi od greckich słów tyrannos, "tyran," i sauros, "jaszczurka." Natychmiast rozpoznawalny po jego rozmiarze, pionowej posturze, karbowanych zębach i małych, dwupalczastych kończynach przednich, Tyranozaur był jednym z największych mięsożernych zwierząt jakie kiedykolwiek istniały.
+
+		<p/>Naukowcy wiedzą więcej o tyranozaurze niż o jakimkolwiek innym drapieżnym dinozaurze. Odnaleźli oni dziesiątki szkieletów tych gigantycznych saurischian (dinozaurów gadziomiedniczych) w Mongolii i na terenie zachodnich Stanów Zjednoczonych i Kanady. Szczególnie wielki i kompletny szkielet, nazywany Sue, znajduje się na wystawie w Field Museum w Chicago. Inny skamieniały tyranozaur, odkryty w Montanie, był tak dobrze zachowany, że naczynia krwionośne i inne tkanki miękkie przetrwały w jego kości udowej.
+
+		<p/>Tyranozaur miał miejsce wśród największych mięsożernych zwierząt lądowych, większy od niego były tylko gigantozaur i carcharodontozaur. Tyranozaury mierzyły 12,5 m długości i 5 m wysokości, przy wadze 5 ton. Czaszka tyranozaura była ogromna i elastyczna, wewnątrz znajdował się mózg o rozmiarach podobnych do dzisiejszych gadów. Jego łamiący kości zgryz, był prawdopodobnie silniejszy od jakiegokolwiek mięsożernego dinozaura. Grzbiet nosa zawierał brodawkopodobne guzy i jamy. Zwierzę to miało szerokie pole widzenia, ale mogło skierować oczy bezpośrednio do przodu. Tyranozaur miał krótkie ramiona z nielicznymi nerwami przebiegającymi w nich. Ten ograniczony rozwój nerwów sugeruje, że ruchy ramion musiały być niesprawne i niezdarne. Beczkokształtna klatka piersiowa tych dinozaurów wskazuje, że miały one bardzo duże płuca. Kostna kratownica chroniła żołądek i inne organy wewnętrzne. Nogi tych zwierząt były długie i smukłe.
+
+		<p/>Tyranozaur prawdopodobnie preferował otwarte tereny, takie jak szerokie szlaki zwierzyny łownej i otwarte lasy, gdzie mógł przemieszczać swoje olbrzymie ciało i gdzie zarośla nie przeszkadzały mu w patrzeniu. Naukowcy szacują, że Tyranozaur potrafił szybko chodzić i może nawet był zdolny do biegania z prędkością dochodzącą do 40 km/h, podczas pościgu za swoją ofiarą. Mogły one również urządzać zasadzkę leżąc na silnej końcówce miednicznej, z brodą przy ziemi, wypatrując ofiary swoimi wysoko umieszczonymi oczami. 
+
+		<p/>Naukowcy spierają się, czy tyranozaur był ciepłokrwisty jak dzisiejsze ssaki. Dowody sugerują, że stworzenia te miały stałą temperaturę, co wymagałoby matabolizmu szybszego od pozostałych gadów. Niektórzy badacze sugerowali nawet, że Tyranozaur posiadał pióra, nie do latania, ale do izolacji.
+
+		<p/>Wyższa temperatura ciała wymagałaby od tyranozaura spożywania posiłków częściej od pozostałych gadów. Żołądek tego dinozaura mógł pomieścić ponad pół tony mięsa, które było spożywane raz na kilka tygodni. Naukowcy odkryli dwulitrową bryłkę skamieniałego łajna, która zawiera bezpośrednie dowody na to, czym żywił się tyranozaur: częściowo strawione fragmenty kości młodych roślinożernych dinozaurów. Dalszych dowodów na zawartość ich diety dostarcza miednica triceratopsa, posiadająca głębokie nakłucia i bruzdy - dzieło zębów tyranozaura. Jak większość aktywnych mięsożerców, tyranozaur prawdopodobnie żerował również na rozkładających się ciałach dinozaurów zmarłych z głodu lub wskutek powodzi. Ślady zębów na niektórych czaszkach tyranozaurów wskazują, że zwierzęta te walczyły ze sobą, gryząc się po pysku. 
+
+         </cell>
+
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Informacje pochodzą z <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft&#xAE; Encarta&#xAE; 2006.</color></u></a> &#xA9; 1993&#x96;2005 Microsoft Corporation. Wszelkie prawa zastrzeżone.
+         </cell>
+      </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_carnotaurus:entry"  >Karnotaur</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_carnotaurus:text"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+             <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/carnotaurus/carnotaurus_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/carnotaurus/carnotaurus_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>						 
+						 <cell width="16">						 
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/extinct.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Stopień zagrożenia:
+                     <br/>
+                        <color r="255" g="255" b="255">
+                     Wymarły
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>             
+               
+					<cell width="128">
+						<color r="255" g="255" b="255">Las borealny</color>
+						<br/>
+						<img src="ui/icon_biomes/icon_borealforest.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+					</cell>
+					<cell width="128">
+						<color r="255" g="255" b="255">Ameryka południowa</color>
+						<br/>
+						<img src="ui/icon_maplocations/Cretaceous_South_America.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+					</cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Gromada: <i>Archosauria</i>
+                  <br/>
+                  Rząd: <i>Saurischia</i>
+                  <br/>
+                  Rodzina: <i>Abelisauridae</i>
+                  <br/>
+                  Rodzaj: <i>Carnotaurus</i>
+                  <br/>
+                  Gatunek: <i>sastrei</i>
+                  </color>
+               </cell>
+				 <cell width="256" pady="10">
+				  <img src="UI/zoopedia/biome/borealforest_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+				 </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Ciekawostki</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Nazwa Karnotaur oznacza "mięsożerca z rogami."</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Guzowate rogi nad oczami karnotaura mogły być używane w zmaganiach na tryknięcia głowami lub rytuałach godowych.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Głowa i szczęka karnotaura była tępo ukształtowana (podobnie do buldoga), w przeciwieństwie do większości mięsożerców.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>               
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Pomimo tego, że zwierzę to chodziło wyprostowane, miało krótkie ramiona i wyglądało podobnie do tyranozaura rexa, ta dwójka nie była spokrewniona.</color>
+               </cell>              
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">By odblokować Karnotaura w trybie wyzwania lub kampanii, musisz osiągnąć status 3 gwiazdek dla twojego zoo.</color>
+            <p/>Karnotaur był niezwykłym dinozaurem. Jego nazwa oznacza "mięsożerca z rogami" i odnosi się do guzowatych rogów nad jego brwiami. Podczas gdy większość dinozaurzych skamieniałości została odnaleziona w Ameryce północnej, karnotaur został odkryty w Ameryce południowej. Pojedyncza skamielina została także odnaleziona całkiem niedawno (1984) w Argentynie - skamielina była tak dobrze zachowana, że na skórze widoczne były chropowate guzy.
+
+		<p/>Kartozaur żył w okresie środkowej kredy, od około 113 do 91 milionów lat temu. Mierzył około 7,5 m długości i ważył około 1000 kg (1 tona). Posiadał dwa duże rogi nad oczami, malutkie ramiona (mniejsze nawet niż u tyranozaura) i czteropalczaste "ręce", a każda z "nich" miała skierowany do tyłu kolec. Pomimo tego, że, jak większość mięsożerców, chodził na tylnych łapach, karnotaur nie jest spokrewniony ze znanymi mięsożercami jak gigantozaur, allozaur i tyranozaur rex. Zamiast tego należy on do grupy mięsożerców, wyraźnie związanej z półkulą południową, zwanej abelizaurami.
+
+
+         </cell>
+      </LOC_STRING>
+</ZT2Strings>
