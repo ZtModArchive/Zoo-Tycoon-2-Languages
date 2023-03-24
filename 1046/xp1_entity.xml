@@ -657,7 +657,7 @@
             <b>Banheiro pequeno</b>
          </color>
          <br/>
-         Clique para selecionar e posicionar o banheiro pequeno, que pode conter um visitante de cada vez.
+         Clique para selecionar e posicionar o banheiro pequeno, que pode acomodar um visitante de cada vez.
       </LOC_STRING>
       <LOC_STRING _locID="entityname:bathroomlarge_end">Banheiro familiar</LOC_STRING>
       <LOC_STRING _locID="entityname:bathroomlarge_end_stt">Banheiro familiar</LOC_STRING>
@@ -697,7 +697,7 @@
             <b>Quiosque de saladas</b>
          </color>
          <br/>
-         Clique para selecionar e posicionar o quiosque de salada. Em geral as crianças não gostam muito de salada, mas os adultos adoram.
+         Clique para selecionar e posicionar o quiosque de saladas. Em geral as crianças não gostam muito de saladas, mas os adultos adoram.
       </LOC_STRING>
       <LOC_STRING _locID="entityname:foodstand_soda_end">Quiosque de refrigerante</LOC_STRING>
       <LOC_STRING _locID="entityname:foodstand_soda_end_stt">Quiosque de refrigerante</LOC_STRING>
@@ -747,7 +747,7 @@
             <b>Quiosque de shish-kebab</b>
          </color>
          <br/>
-          Clique para selecionar e posicionar o quiosque de shish-kebab, que oferece alimentos ricos em proteínas a preços razoáveis.
+          Clique para selecionar e posicionar o quiosque de shish-kebab, que oferece um alimento rico em proteína por um preço razoável.
       </LOC_STRING>
       <LOC_STRING _locID="entityname:foodstand_coffee_end">Quiosque de café</LOC_STRING>
       <LOC_STRING _locID="entityname:foodstand_coffee_end_stt">Quiosque de café</LOC_STRING>
@@ -1468,12 +1468,12 @@
          <br/>
          Selecione e posicione uma estação de teleférico. Depois de posicionar a estação e construir um circuito de teleférico, você poderá comprar bondinhos que os visitantes usarão para tours e transporte.
       </LOC_STRING>
-      <LOC_STRING _locID="entityname:SkyTower">Poste para teleférico</LOC_STRING>
-      <LOC_STRING _locID="entityname:SkyTower_stt">Poste para teleférico</LOC_STRING>
+      <LOC_STRING _locID="entityname:SkyTower">Estação de teleférico</LOC_STRING>
+      <LOC_STRING _locID="entityname:SkyTower_stt">Estação de teleférico</LOC_STRING>
       <LOC_STRING _locID="entityname:SkyTower_lower">o poste para teleférico</LOC_STRING>
       <LOC_STRING _locID="entityname:SkyTower_ltt">
          <color r="255" g="248" b="178">
-            <b>Poste para teleférico</b>
+            <b>Estação de teleférico</b>
          </color>
          <br/>
          Clique para selecionar e posicionar um poste para teleférico, usado para a criação de um circuito de teleférico.
@@ -1588,8 +1588,8 @@
          <br/>
          Clique para selecionar e posicionar seções de uma grade para trilha elevada de pedra.
       </LOC_STRING>
-      <LOC_STRING _locID="entityname:Gondola_1Seat_end">Bondinho moderno - 1 lugar</LOC_STRING>
-      <LOC_STRING _locID="entityname:Gondola_1Seat_end_stt">Bondinho moderno - 1 lugar</LOC_STRING>
+      <LOC_STRING _locID="entityname:Gondola_1Seat_end">Bondinho moderno de um lugar</LOC_STRING>
+      <LOC_STRING _locID="entityname:Gondola_1Seat_end_stt">Bondinho moderno de um lugar</LOC_STRING>
       <LOC_STRING _locID="entityname:Gondola_1Seat_end_lower">o bondinho moderno de um lugar</LOC_STRING>
       <LOC_STRING _locID="entityname:Gondola_1Seat_end_ltt">
          <color r="255" g="248" b="178">
@@ -1608,8 +1608,8 @@
          <br/>
          Clique para selecionar e posicionar o bondinho moderno de dois lugares.
       </LOC_STRING>
-      <LOC_STRING _locID="entityname:Gondola_4Seat_end">Bondinho moderno - 4 lugares</LOC_STRING>
-      <LOC_STRING _locID="entityname:Gondola_4Seat_end_stt">Bondinho moderno - 4 lugares</LOC_STRING>
+      <LOC_STRING _locID="entityname:Gondola_4Seat_end">Bondinho moderno de quatro lugares</LOC_STRING>
+      <LOC_STRING _locID="entityname:Gondola_4Seat_end_stt">Bondinho moderno de quatro lugares</LOC_STRING>
       <LOC_STRING _locID="entityname:Gondola_4Seat_end_lower">o bondinho moderno de quatro lugares</LOC_STRING>
       <LOC_STRING _locID="entityname:Gondola_4Seat_end_ltt">
          <color r="255" g="248" b="178">
@@ -1628,8 +1628,8 @@
          <br/>
          Clique para selecionar e posicionar o bondinho aéreo de um lugar.
       </LOC_STRING>
-      <LOC_STRING _locID="entityname:Gondola_basic">Bondinho aéreo - 2 lugares</LOC_STRING>
-      <LOC_STRING _locID="entityname:Gondola_basic_stt">Bondinho aéreo - 2 lugares</LOC_STRING>
+      <LOC_STRING _locID="entityname:Gondola_basic">Bondinho aéreo de dois lugares</LOC_STRING>
+      <LOC_STRING _locID="entityname:Gondola_basic_stt">Bondinho aéreo de dois lugares</LOC_STRING>
       <LOC_STRING _locID="entityname:Gondola_basic_lower">o bondinho aéreo de dois lugares</LOC_STRING>
       <LOC_STRING _locID="entityname:Gondola_basic_ltt">
          <color r="255" g="248" b="178">
@@ -1660,13 +1660,13 @@
       </LOC_STRING>
       <LOC_STRING _locID="entityname:EightSeater_end">Veículo de 8 lugares</LOC_STRING>
       <LOC_STRING _locID="entityname:EightSeater_end_stt">Veículo de 8 lugares</LOC_STRING>
-      <LOC_STRING _locID="entityname:EightSeater_end_lower">o veículo de oito lugares</LOC_STRING>
+      <LOC_STRING _locID="entityname:EightSeater_end_lower">o veículo de 8 lugares</LOC_STRING>
       <LOC_STRING _locID="entityname:EightSeater_end_ltt">
          <color r="255" g="248" b="178">
-            <b>Veículo de oito lugares</b>
+            <b>Veículo de 8 lugares</b>
          </color>
          <br/>
-         Clique para selecionar e posicionar o veículo de oito lugares.
+         Clique para selecionar e posicionar o veículo de 8 lugares.
       </LOC_STRING>
       <LOC_STRING _locID="entityname:FourSeater_end">Jeep® Wrangler</LOC_STRING>
       <LOC_STRING _locID="entityname:FourSeater_end_stt">Jeep® Wrangler</LOC_STRING>
@@ -1688,15 +1688,15 @@
          <br/>
          Clique para selecionar e posicionar o Jeep® Commander decorado.
       </LOC_STRING>
-      <LOC_STRING _locID="entityname:EightSeater_Upgraded_end">Veículo moderno de oito lugares</LOC_STRING>
-      <LOC_STRING _locID="entityname:EightSeater_Upgraded_end_stt">Veículo moderno de oito lugares</LOC_STRING>
-      <LOC_STRING _locID="entityname:EightSeater_Upgraded_end_lower">o veículo moderno de oito lugares</LOC_STRING>
+      <LOC_STRING _locID="entityname:EightSeater_Upgraded_end">Veículo moderno de 8 lugares</LOC_STRING>
+      <LOC_STRING _locID="entityname:EightSeater_Upgraded_end_stt">Veículo moderno de 8 lugares</LOC_STRING>
+      <LOC_STRING _locID="entityname:EightSeater_Upgraded_end_lower">o veículo moderno de 8 lugares</LOC_STRING>
       <LOC_STRING _locID="entityname:EightSeater_Upgraded_end_ltt">
          <color r="255" g="248" b="178">
-            <b>Veículo moderno de oito lugares</b>
+            <b>Veículo moderno de 8 lugares</b>
          </color>
          <br/>
-         Clique para selecionar e posicionar o veículo moderno de oito lugares.
+         Clique para selecionar e posicionar o veículo moderno de 8 lugares.
       </LOC_STRING>
       <LOC_STRING _locID="entityname:FourSeater_Upgraded_end">Jeep® Wrangler decorado</LOC_STRING>
       <LOC_STRING _locID="entityname:FourSeater_Upgraded_end_stt">Jeep® Wrangler decorado</LOC_STRING>

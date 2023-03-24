@@ -1,0 +1,19 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_saltlick" version="2"/>
+      <LOC_STRING _locID="zoopedia_saltlick:entry" version="2">Pedra de sal</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_saltlick:text" version="2">
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities/objects/enrichment/SaltLick_df/SaltLick_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+Os ungulados gostam de pedras de sal porque elas suprem sua necessidade natural por cloreto de sódio. As pedras de sal também contêm oligoelementos, como ferro e iodo, que são essenciais para a saúde dos animais.
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING> 
+ 
+</ZT2Strings>
