@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<ZT2Strings>
+	<LOC_STRING _locID="zoopedia_balloonbouquet" version="9" />
+	<LOC_STRING _locID="zoopedia_balloonbouquet:entry" version="9"  >Bukiet balonów</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_balloonbouquet:text" version="9"  >
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\objects\scenery\MylarBalloons_df\MylarBalloons_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+     <p/>
+Za każdym razem, gdy zagrożone lub wymarłe gatunek ma młode, otrzymujesz upominek w postaci bukietu kolorowych balonów!
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+</ZT2Strings>

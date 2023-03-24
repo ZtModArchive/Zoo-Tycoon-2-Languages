@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<ZT2Strings>
+	<LOC_STRING _locID="zoopedia_extinctfence:entry"  >Prehistoryczne ogrodzenie</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_extinctfence:text"  >
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\objects\fences\extinct_xt\extinct_xt_icon.dds" sx="0" sy="0" sw="64" sh="64"/>   
+      <img src="entities\objects\fences\lowextinct_xt\lowextinct_xt_icon.dds" sx="0" sy="0" sw="64" sh="64"/>     
+      <p/>
+	Prehistoryczne ogrodzenie sprawdza się najlepiej na wybiegach zamieszkałych przez pradawne zwierzęta. Z racji swoich zdobień, oddziaływuje również na pobliskie obszary publiczne. Dostępna jest wersja niska i wysoka.
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_extinctwindowfence:entry"  >Prehistoryczne ogrodzenie z oknem</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_extinctwindowfence:text"  >
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\objects\fences\extinctwindow_xt\extinctwindow_xt_icon.dds" sx="0" sy="0" sw="64" sh="64"/>     
+      <p/>
+	Jest to jedno z ulubionych ogrodzeń gości zoo. Dzięki dużemu oknu, zapewnia doskonałe warunki do obserwacji zwierząt zamieszkujących wybieg.
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_electricfence:entry"  >Ogrodzenie pod napięciem</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_electricfence:text"  >
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\objects\fences\electric_fence\electricfence_icon.dds" sx="0" sy="0" sw="64" sh="64"/>     
+      <p/>
+	To tańsza i słabsza wersja ogrodzenia dla dinozaurów. Doskonale nadaje się do zabezpieczenia wybiegu zamieszkałego przez mniej groźne dinozaury.
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+</ZT2Strings>

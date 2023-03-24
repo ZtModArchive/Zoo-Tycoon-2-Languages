@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<ZT2Strings>
+	<LOC_STRING _locID="confirm:cancel_dl_button_label">
+         <font name="arial" size="18" image="ui\font\color_mainmenu.tga">
+            <color r="255" g="197" b="78">
+               <text>
+                  <br/>
+                  <b>Powrót do menu głównego spowoduje anulowanie wszystkich aktywnych pobrań.</b>
+               </text>
+            </color>
+         </font>
+      </LOC_STRING>
+	<LOC_STRING _locID="confirm:cancel_dl_button_stt">Powrót do menu głównego</LOC_STRING>
+	<LOC_STRING _locID="confirm:cancel_dl_button_ltt">
+         <color r="255" g="248" b="178">
+            <b>Kliknij, aby powrócić do menu głównego</b>
+         </color>
+         <br>Powrót do menu głównego, anulowanie aktywnych pobrań</br>
+      </LOC_STRING>
+	<LOC_STRING _locID="confirm:decline_cancel_dl_button_stt">Kontynuacja pobierania</LOC_STRING>
+	<LOC_STRING _locID="confirm:decline_cancel_dl_button_ltt">
+         <color r="255" g="248" b="178">
+            <b>Kontynuacja pobierania</b>
+         </color>
+         <br>Kliknij, aby kontynuować pobieranie.</br>
+      </LOC_STRING>
+</ZT2Strings>

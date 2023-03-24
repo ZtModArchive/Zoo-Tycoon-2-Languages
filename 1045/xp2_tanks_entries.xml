@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<ZT2Strings>
+	<LOC_STRING _locID="zoopedia_tanks:entry"  >Budowa zbiornika</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_tanks:text"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>
+W Zoo Tycoon 2: Podwodny świat dajemy ci możliwość budowy zbiorników dla zwierząt morskich.
+                  <p/>
+By zobaczyć informacje o obiekcie, kliknij jego nazwę na liście znajdującej się po lewej stronie.  
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_tankwall:entry"  >Akrylowa ściana zbiornika</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_tankwall:text"  >
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\objects\fences\BasicTank\basictank_transparent_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+Akrylowa ściana zbiornika zrobiona jest z przezroczystego tworzywa syntetycznego. Użyj jej, by tworzyć zbiorniki, które pozwolą odwiedzającym łatwo podziwiać zwierzęta morskie.
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_tankwallopaque:entry"  >Nieprzezroczysta ściana zbiornika</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_tankwallopaque:text"  >
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\objects\fences\BasicTank\basictank_opaque_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+Nieprzezroczysta ściana zbiornika zrobiona jest z betonowych paneli. Możesz łączyć te elementy z akrylowymi, by stworzyć zbiornik zapewniający trochę prywatności zwierzętom.
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_marinetankwall:entry"  >Stylizowana ściana zbiornika</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_marinetankwall:text"  >
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\objects\fences\ThemedTank_mm\themedtank_mm_opaque_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <img src="entities\objects\fences\ThemedTank_mm\themedtank_mm_transparent_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+Nieprzezroczysta ściana zbiornika o tematyce marynistycznej dodaje trochę ciepla i kolorow wybiegom zwierząt morskich. Ściany takie mogą być zarówno akrylowe, jak i nieprzezroczyste. Zdobądź nagrodę "Potentat statusu pokazów 3 poziomu", by ją odblokować.    
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_showtankwall:entry"  >Ściana zbiornika pokazowego</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_showtankwall:text"  >
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\objects\fences\ThemedTank_show\themedtank_show_opaque_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <img src="entities\objects\fences\ThemedTank_show\themedtank_show_transparent_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+Użyj tego typu ścian, by uczynić swe pokazy jeszcze ciekawszymi. Jeśli wybudujesz z tych elementow zbiornik wystawowy, będziesz automatycznie poproszony o dodanie do niego platformy pokazowej i śluz.
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_tankentrance:entry"  >Wejście do zbiornika</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_tankentrance:text"  >
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\objects\fences\Tank_Gate\Tank_Gate_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+Opiekunowie nie mogą dostać się do zbiornika i zaopiekować zwierzętami, jeśli nie ma w nim wejścia. Treserzy także nie będą mogli wykonywać swoich obowiązków. Wejścia do zbiorników mogą być umieszczane tylko na ścianach zbiorników.
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_waterfilter:entry"  >Filtr wody</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_waterfilter:text"  >
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\objects\misc\Water_Filter\Water_Filter_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+Filtry usuwają z wody zanieczyszczenia pływające w zbiornikach. Czysty zbiornik pozwala utrzymać zwierzęta w zdrowiu i zadowoleniu. Filtry muszą być regularnie konserwowane przez personel. Możesz także naprawiać je samodzielnie w Trybie Gościa. 
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+</ZT2Strings>

@@ -1,0 +1,200 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<ZT2Strings>
+   <!--entity names-->
+
+   <entityname>
+      <!--scenery object names-->
+
+      <Statue_Gorilla_df>Rzeźba goryla</Statue_Gorilla_df>
+      <Statue_Gorilla_df_stt>Rzeźba goryla</Statue_Gorilla_df_stt>
+      <Statue_Gorilla_df_lower>rzeźba goryla</Statue_Gorilla_df_lower>
+      <Statue_Gorilla_df_ltt>
+         <color r="255" g="248" b="178">
+            <b>Rzeźba goryla</b>
+         </color>
+         <br/>
+         Kliknij, aby umieścić rzeźbę goryla, piękny posąg gorylicy z małym.
+      </Statue_Gorilla_df_ltt>
+      <Statue_Tiger_df>Rzeźba tygrysa</Statue_Tiger_df>
+      <Statue_Tiger_df_stt>Rzeźba tygrysa</Statue_Tiger_df_stt>
+      <Statue_Tiger_df_lower>rzeźba tygrysa</Statue_Tiger_df_lower>
+      <Statue_Tiger_df_ltt>
+         <color r="255" g="248" b="178">
+            <b>Rzeźba tygrysa</b>
+         </color>
+         <br/>
+         Kliknij, aby umieścić rzeźbę tygrysa, piękny posąg tygrysicy z małymi.
+      </Statue_Tiger_df_ltt>
+      <Playground_TortoiseTrampoline_df>Żółwia trampolina</Playground_TortoiseTrampoline_df>
+      <Playground_TortoiseTrampoline_df_stt>Żółwia trampolina</Playground_TortoiseTrampoline_df_stt>
+      <Playground_TortoiseTrampoline_df_lower>żółwia trampolina</Playground_TortoiseTrampoline_df_lower>
+      <Playground_TortoiseTrampoline_df_ltt>
+         <color r="255" g="248" b="178">
+            <b>Żółwia trampolina</b>
+         </color>
+         <br/>
+         Kliknij, aby umieścić żółwią trampolinę, na której uwielbiają skakać dzieci.
+      </Playground_TortoiseTrampoline_df_ltt>
+      <Fountain_Small_df>Mała fontanna</Fountain_Small_df>
+      <Fountain_Small_df_stt>Mała fontanna</Fountain_Small_df_stt>
+      <Fountain_Small_df_lower>mała fontanna</Fountain_Small_df_lower>
+      <Fountain_Small_df_ltt>
+         <color r="255" g="248" b="178">
+            <b>Mała fontanna</b>
+         </color>
+         <br/>
+         Kliknij, aby umieścić małą fontannę, której widokiem będą się delektować zwiedzający.
+      </Fountain_Small_df_ltt>
+      <Fountain_Splash_df>Fontanna dla dzieci</Fountain_Splash_df>
+      <Fountain_Splash_df_stt>Fontanna dla dzieci</Fountain_Splash_df_stt>
+      <Fountain_Splash_df_lower>fontanna dla dzieci</Fountain_Splash_df_lower>
+      <Fountain_Splash_df_ltt>
+         <color r="255" g="248" b="178">
+            <b>Fontanna dla dzieci</b>
+         </color>
+         <br/>
+         Kliknij, aby umieścić fontannę, w której będą się bawić dzieci.
+      </Fountain_Splash_df_ltt>
+      <!--fence names-->
+
+      <brickwindow_df>Ażurowe ceglane ogrodzenie</brickwindow_df>
+      <brickwindow_df_stt>Ażurowe ceglane ogrodzenie</brickwindow_df_stt>
+      <brickwindow_df_lower>ażurowe ceglane ogrodzenie</brickwindow_df_lower>
+      <brickwindow_df_ltt>
+         <color r="255" g="248" b="178">
+            <b>Ażurowe ceglane ogrodzenie</b>
+         </color>
+         <br/>
+         Kliknij, aby umieścić ażurowe ceglane ogrodzenie, które jest silne i zapewnia zwiedzającym dobrą widoczność.
+      </brickwindow_df_ltt>
+      <stonewindow_df>Ażurowe kamienne ogrodzenie</stonewindow_df>
+      <stonewindow_df_stt>Ażurowe kamienne ogrodzenie</stonewindow_df_stt>
+      <stonewindow_df_lower>ażurowe kamienne ogrodzenie</stonewindow_df_lower>
+      <stonewindow_df_ltt>
+         <color r="255" g="248" b="178">
+            <b>Ażurowe kamienne ogrodzenie</b>
+         </color>
+         <br/>
+         Kliknij, aby umieścić ażurowe kamienne ogrodzenie, które jest silne i zapewnia zwiedzającym dobrą widoczność.
+      </stonewindow_df_ltt>
+      <junglewindow>Ażurowe ogrodzenie: dżungla</junglewindow>
+      <junglewindow_stt>Ażurowe ogrodzenie: dżungla</junglewindow_stt>
+      <junglewindow_lower>ażurowe ogrodzenie: dżungla</junglewindow_lower>
+      <junglewindow_ltt>
+         <color r="255" g="248" b="178">
+            <b>Ażurowe ogrodzenie: dżungla</b>
+         </color>
+         <br/>
+         Kliknij, aby umieścić ażurowe ogrodzenie z tematem dżungli, które jest silne i zapewnia zwiedzającym dobrą widoczność.
+      </junglewindow_ltt>
+   </entityname>
+
+   <!--Zoopedia entries-->
+
+   <zoopedia_brickwindow>
+      <entry>Ażurowe ceglane ogrodzenie</entry>
+      <text>
+	         <cell pady="0" width="1000"/>
+	         <p/>
+	         <cell width="260"/>
+	         <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+	            <cell width="600" padx="20" pady="20">
+	               <color r="255" g="255" b="255">
+	                  <img src="entities\objects\fences\brickwindow_df\brickwindow_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+	                  <p/>Ażurowe ceglane ogrodzenie zapewnia zwiedzającym doskonałą widoczność, a jednocześnie skutecznie zapobiega ucieczkom zwierząt.
+	                  <p/>Użyj ażurowego ceglanego ogrodzenia razem ze zwykłym murem z cegły, aby stworzyć atrakcyjną ekspozycję.
+	               </color>
+	            </cell>
+	         </cell>
+	      </text>
+   </zoopedia_brickwindow>
+
+   <zoopedia_stonewindow>
+      <entry>Ażurowe kamienne ogrodzenie</entry>
+      <text>
+		         <cell pady="0" width="1000"/>
+		         <p/>
+		         <cell width="260"/>
+		         <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+		            <cell width="600" padx="20" pady="20">
+		               <color r="255" g="255" b="255">
+		                  <img src="entities\objects\fences\stonewindow_df\stonewindow_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+		                  <p/>Ażurowe kamienne ogrodzenie zapewnia zwiedzającym doskonałą widoczność, a jednocześnie skutecznie zapobiega ucieczkom zwierząt.
+		                  <p/>Użyj ażurowego kamiennego ogrodzenia razem ze zwykłym kamiennym murem, aby stworzyć atrakcyjną ekspozycję.
+		               </color>
+		            </cell>
+		         </cell>
+		      </text>
+   </zoopedia_stonewindow>
+
+   <zoopedia_junglewindow>
+      <entry>Ażurowe ogrodzenie: dżungla</entry>
+      <text>
+		         <cell pady="0" width="1000"/>
+		         <p/>
+		         <cell width="260"/>
+		         <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+		            <cell width="600" padx="20" pady="20">
+		               <color r="255" g="255" b="255">
+		                  <img src="entities\objects\fences\junglewindow_jt\junglewindow_jt_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+		                  <p/>Ażurowe ogrodzenie z tematem dżungli zapewnia zwiedzającym doskonałą widoczność, a jednocześnie skutecznie zapobiega ucieczkom zwierząt.
+		                  <p/>Najlepiej używać ogrodzenia z tematem dżungli na wybiegach zwierząt pochodzących z dżungli i lasów deszczowych, takich jak tygrys, goryl czy szympans. Goście lubią obiekty tematyczne.
+		               </color>
+		            </cell>
+		         </cell>
+		      </text>
+   </zoopedia_junglewindow>
+
+   <zoopedia_tortoisetrampoline>
+      <entry>Żółwia trampolina</entry>
+      <text>
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+               <img src="entities/objects/scenery/Playground_TortoiseTrampoline_df/Playground_TortoiseTrampoline_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>               
+                  <p/>
+                  <p/>Dzieciaki uwielbiają wspinać się na tego kolorowego, nadmuchiwanego żółwia i skakać po jego grzbiecie.
+               </color>
+            </cell>
+         </cell>
+      </text>
+   </zoopedia_tortoisetrampoline>
+
+   <zoopedia_fountainsmall>
+      <entry>Mała fontanna</entry>
+      <text>
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+               <img src="entities\objects\scenery\Fountain_Small_df\Fountain_Small_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>Mała fontanna to doskonały sposób na upiększenie zoo bez poświęcania na ten cel dużych ilości miejsca. Goście lubią widok fontanny.
+               </color>
+            </cell>
+         </cell>
+      </text>
+   </zoopedia_fountainsmall>
+
+   <zoopedia_fountainsplash>
+      <entry>Fontanna dla dzieci</entry>
+      <text>
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities\objects\scenery\Fountain_Splash_df\Fountain_Splash_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>Fontanna dla dzieci jest specjalnie zaprojektowana w taki sposób, aby dzieciaki mogły wchodzić do środka i bawić się w wodzie.
+               </color>
+            </cell>
+         </cell>
+      </text>
+   </zoopedia_fountainsplash>
+
+</ZT2Strings>

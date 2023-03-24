@@ -1,0 +1,190 @@
+<ZT2Strings>
+   <!--entity names-->
+   <entityname>
+      <!--scenery object names-->
+      <Statue_Gorilla_df>Estátua do gorila</Statue_Gorilla_df>
+      <Statue_Gorilla_df_stt>Estátua do gorila</Statue_Gorilla_df_stt>
+      <Statue_Gorilla_df_lower>a estátua do gorila</Statue_Gorilla_df_lower>
+      <Statue_Gorilla_df_ltt>
+         <color r="255" g="248" b="178">
+            <b>Estátua do gorila</b>
+         </color>
+         <br/>
+         Clique para selecionar e posicionar a estátua do gorila, representando uma fêmea e seu filhote.
+      </Statue_Gorilla_df_ltt>
+      <Statue_Tiger_df>Estátua do tigre</Statue_Tiger_df>
+      <Statue_Tiger_df_stt>Estátua do tigre</Statue_Tiger_df_stt>
+      <Statue_Tiger_df_lower>a estátua do tigre</Statue_Tiger_df_lower>
+      <Statue_Tiger_df_ltt>
+         <color r="255" g="248" b="178">
+            <b>Estátua do tigre</b>
+         </color>
+         <br/>
+         Clique para selecionar e posicionar a estátua do tigre, representando uma fêmea e seus filhotes.
+      </Statue_Tiger_df_ltt>
+      <Playground_TortoiseTrampoline_df>Trampolim da tartaruga</Playground_TortoiseTrampoline_df>
+      <Playground_TortoiseTrampoline_df_stt>Trampolim da tartaruga</Playground_TortoiseTrampoline_df_stt>
+      <Playground_TortoiseTrampoline_df_lower>o trampolim da tartaruga</Playground_TortoiseTrampoline_df_lower>
+      <Playground_TortoiseTrampoline_df_ltt>
+         <color r="255" g="248" b="178">
+            <b>Trampolim da tartaruga</b>
+         </color>
+         <br/>
+         Clique para selecionar e posicionar o trampolim da tartaruga, do qual as crianças adoram saltar.
+      </Playground_TortoiseTrampoline_df_ltt>
+      <Fountain_Small_df>Chafariz pequeno</Fountain_Small_df>
+      <Fountain_Small_df_stt>Chafariz pequeno</Fountain_Small_df_stt>
+      <Fountain_Small_df_lower>o chafariz pequeno</Fountain_Small_df_lower>
+      <Fountain_Small_df_ltt>
+         <color r="255" g="248" b="178">
+            <b>Chafariz pequeno</b>
+         </color>
+         <br/>
+         Clique para selecionar e posicionar um chafariz pequeno, que os visitantes adoram contemplar.
+      </Fountain_Small_df_ltt>
+      <Fountain_Splash_df>Chafariz do esguicho</Fountain_Splash_df>
+      <Fountain_Splash_df_stt>Chafariz do esguicho</Fountain_Splash_df_stt>
+      <Fountain_Splash_df_lower>o chafariz do esguicho</Fountain_Splash_df_lower>
+      <Fountain_Splash_df_ltt>
+         <color r="255" g="248" b="178">
+            <b>Chafariz do esguicho</b>
+         </color>
+         <br/>
+         Clique para selecionar e posicionar um chafariz do esguicho, motivo de divertimento para as crianças.
+      </Fountain_Splash_df_ltt>
+      
+      <!--fence names-->      
+      <brickwindow_df>Muro de tijolo com janelas</brickwindow_df>
+      <brickwindow_df_stt>Muro de tijolo com janelas</brickwindow_df_stt>
+      <brickwindow_df_lower>o muro de tijolo com janelas</brickwindow_df_lower>
+      <brickwindow_df_ltt>
+         <color r="255" g="248" b="178">
+            <b>Muro de tijolo com janelas</b>
+         </color>
+         <br/>
+         Clique para selecionar e posicionar seções do muro de tijolo com janelas, que é resistente e oferece uma boa vista.
+      </brickwindow_df_ltt>
+      <stonewindow_df>Muro de pedra com janelas</stonewindow_df>
+      <stonewindow_df_stt>Muro de pedra com janelas</stonewindow_df_stt>
+      <stonewindow_df_lower>o muro de pedra com janelas</stonewindow_df_lower>
+      <stonewindow_df_ltt>
+         <color r="255" g="248" b="178">
+            <b>Muro de pedra com janelas</b>
+         </color>
+         <br/>
+         Clique para selecionar e posicionar seções do muro de pedra com janelas, que é resistente e oferece uma boa vista.
+      </stonewindow_df_ltt>
+      <junglewindow>Muro da selva com janelas</junglewindow>
+      <junglewindow_stt>Muro da selva com janelas</junglewindow_stt>
+      <junglewindow_lower>o muro da selva com janelas</junglewindow_lower>
+      <junglewindow_ltt>
+         <color r="255" g="248" b="178">
+            <b>Muro da selva com janelas</b>
+         </color>
+         <br/>
+         Clique para selecionar e posicionar seções do muro da selva com janelas, que é resistente e oferece uma boa vista.
+      </junglewindow_ltt>            
+   </entityname>
+   
+   <!--Zoopedia entries-->
+   <zoopedia_brickwindow>
+	      <entry>Muro de tijolo com janelas</entry>
+	      <text>
+	         <cell pady="0" width="1000"/>
+	         <p/>
+	         <cell width="260"/>
+	         <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+	            <cell width="600" padx="20" pady="20">
+	               <color r="255" g="255" b="255">
+	                  <img src="entities\objects\fences\brickwindow_df\brickwindow_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+	                  <p/>O muro de tijolo com janelas permite que os visitantes tenham uma excelente visão dos animais, ao mesmo tempo que os protege contra possíveis fugas.
+	                  <p/>Use o muro de tijolo com janelas associado ao muro de tijolo normal para obter um cercado durável e atraente.
+	               </color>
+	            </cell>
+	         </cell>
+	      </text>
+   </zoopedia_brickwindow>
+   <zoopedia_stonewindow>
+		      <entry>Muro de pedra com janelas</entry>
+		      <text>
+		         <cell pady="0" width="1000"/>
+		         <p/>
+		         <cell width="260"/>
+		         <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+		            <cell width="600" padx="20" pady="20">
+		               <color r="255" g="255" b="255">
+		                  <img src="entities\objects\fences\stonewindow_df\stonewindow_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+		                  <p/>O muro de pedra com janelas permite que os visitantes tenham uma excelente visão dos animais, ao mesmo tempo que os protege contra possíveis fugas.
+		                  <p/>Use o muro de pedra com janelas associado ao muro de pedra normal para obter um cercado durável e atraente.
+		               </color>
+		            </cell>
+		         </cell>
+		      </text>
+   </zoopedia_stonewindow>
+   <zoopedia_junglewindow>
+		      <entry>Muro da selva com janelas</entry>
+		      <text>
+		         <cell pady="0" width="1000"/>
+		         <p/>
+		         <cell width="260"/>
+		         <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+		            <cell width="600" padx="20" pady="20">
+		               <color r="255" g="255" b="255">
+		                  <img src="entities\objects\fences\junglewindow_jt\junglewindow_jt_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+		                  <p/>O muro da selva com janelas permite que os visitantes tenham uma excelente visão dos animais, ao mesmo tempo que os protege contra possíveis fugas.
+		                  <p/>Muros com tema de selva são ideais na construção de cercados para animais da selva e da floresta, como tigre, gorila e chimpanzé. Os visitantes apreciam objetos temáticos.
+		               </color>
+		            </cell>
+		         </cell>
+		      </text>
+   </zoopedia_junglewindow> 
+   <zoopedia_tortoisetrampoline>
+      <entry>Trampolim da tartaruga</entry>
+      <text>
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+               <img src="entities/objects/scenery/Playground_TortoiseTrampoline_df/Playground_TortoiseTrampoline_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>               
+                  <p/>
+                  <p/>As crianças adoram subir nas costas dessa tartaruga inflável e pular do alto do trampolim.
+               </color>
+            </cell>
+         </cell>
+      </text>
+   </zoopedia_tortoisetrampoline>
+   <zoopedia_fountainsmall>
+      <entry>Chafariz pequeno</entry>
+      <text>
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+               <img src="entities\objects\scenery\Fountain_Small_df\Fountain_Small_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>O chafariz pequeno é perfeito para embelezar seu zoológico sem ocupar muito espaço. Os visitantes adoram chafarizes.
+               </color>
+            </cell>
+         </cell>
+      </text>
+   </zoopedia_fountainsmall>
+   <zoopedia_fountainsplash>
+      <entry>Chafariz do esguicho</entry>
+      <text>
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities\objects\scenery\Fountain_Splash_df\Fountain_Splash_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>O chafariz do esguicho foi projetado para permitir que as crianças corram dentro dele e brinquem em suas águas refrescantes.
+               </color>
+            </cell>
+         </cell>
+      </text>
+   </zoopedia_fountainsplash>   
+</ZT2Strings>

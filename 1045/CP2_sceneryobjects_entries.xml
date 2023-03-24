@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<ZT2Strings>
+	<LOC_STRING _locID="zoopedia_tarfountain:entry"  >Prehistoryczny dekoracyjny dół z asflatem</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_tarfountain:text"  >
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities\objects\scenery\fountain_xt\fountain_xt_icon.dds" sx="0" sy="0" sw="64" sh="64"/>     
+                  <br/>Ten obiekt przedstawia to, co stało się, gdy Ziemia została zalana przez lawę i inne gorące ciecze przypominające smołę. Niegdyś miejsca takie jak dół z asfaltem były śmiertelną pułapką dla wielu zwierząt. Dziś taplanie się w nich grozi wyłącznie przyklejeniem się do kogoś.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+</ZT2Strings>

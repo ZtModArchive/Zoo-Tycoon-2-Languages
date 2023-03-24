@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<ZT2Strings>
+	<LOC_STRING _locID="tools" version="2" />
+	<LOC_STRING _locID="tools:insert_label" version="2"  >
+         <font name="arial" size="9" shadowx="0" shadowy="0">
+            <b>Umieść węzeł</b>
+         </font>
+      </LOC_STRING>
+	<LOC_STRING _locID="tools:insert_event_label" version="2"  >
+         <font name="arial" size="9" shadowx="0" shadowy="0">
+            <b>Umieść zdarzenie</b>
+         </font>
+      </LOC_STRING>
+	<LOC_STRING _locID="tools:spline_thickness_label" version="2"  >
+         <font name="arial" size="9" shadowx="0" shadowy="0">
+            <b>Rozmiar klina</b>
+         </font>
+      </LOC_STRING>
+	<LOC_STRING _locID="tools:scoring_prox_label" version="2"  >
+         <font name="arial" size="9" shadowx="0" shadowy="0">
+            <b>Sąsiedztwo nacięć</b>
+         </font>
+      </LOC_STRING>
+	<LOC_STRING _locID="tools:visible_stt" version="2"  >Włącz/wyłącz widoczność klina</LOC_STRING>
+	<LOC_STRING _locID="tools:visible_label" version="2"  >
+         <font name="arial" size="9" shadowx="0" shadowy="0">
+            <b>Klin widoczny</b>
+         </font>
+      </LOC_STRING>
+	<LOC_STRING _locID="tools:eventhidden_stt" version="2"  >Włącz/wyłącz zapamiętywanie wydarzenia</LOC_STRING>
+	<LOC_STRING _locID="tools:event_hidden_label" version="2"  >
+         <font name="arial" size="9" shadowx="0" shadowy="0">
+            <b>Zapamiętywanie wydarzenia</b>
+         </font>
+      </LOC_STRING>
+	<LOC_STRING _locID="tools:event_override_stt" version="2"  >Ręczne pominięcie wydarzenia</LOC_STRING>
+	<LOC_STRING _locID="tools:event_score_override_label" version="2"  >
+         <font name="arial" size="9" shadowx="0" shadowy="0">
+            <b>Pominięcie wydarzenia</b>
+         </font>
+      </LOC_STRING>
+	<LOC_STRING _locID="tools:spline_speed_stt" version="2"  >Zmień prędkość namierzania klina</LOC_STRING>
+	<LOC_STRING _locID="tools:spline_tracing_speed_label" version="2"  >
+         <font name="arial" size="9" shadowx="0" shadowy="0">
+            <b>Namierzanie prędkości</b>
+         </font>
+      </LOC_STRING>
+	<LOC_STRING _locID="tools:spline_tracing_speed_display" version="2"  >
+         <font name="arial" size="9" shadowx="0" shadowy="0">
+            <b>%text%</b>
+         </font>
+      </LOC_STRING>
+	<LOC_STRING _locID="tools:spline_speed_label" version="2"  >
+         <font name="arial" size="9" shadowx="-1" shadowy="2">
+            <b>Zmień prędkość namierzania klina</b>
+         </font>
+      </LOC_STRING>
+	<LOC_STRING _locID="tools:event_scale_stt" version="2"  >Zmiana skali wydarzenia</LOC_STRING>
+	<LOC_STRING _locID="tools:event_scale_label" version="2"  >
+         <font name="arial" size="9" shadowx="-1" shadowy="2">
+            <b>Skala wydarzenia</b>
+         </font>
+      </LOC_STRING>
+	<LOC_STRING _locID="tools:event_scale_display" version="2"  >
+         <font name="arial" size="9" shadowx="0" shadowy="0">
+            <b>%text%</b>
+         </font>
+      </LOC_STRING>
+	<LOC_STRING _locID="tools:event_scale_header" version="2"  >
+         <font name="arial" size="9" shadowx="-1" shadowy="2">
+            <b>Zmiana skali wydarzenia</b>
+         </font>
+      </LOC_STRING>
+</ZT2Strings>

@@ -1,0 +1,38 @@
+﻿<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_asphalt:entry">Materiały na ścieżki</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_asphalt:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/paths/asphalt/path_asphalt_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/paths/brick/path_brick_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/paths/concrete/path_concrete_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/paths/dirt/path_dirt_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/paths/sand/path_sand_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/paths/stone/path_stone_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities\objects\paths\jungle\path_jungle_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities\objects\paths\safari\path_safari_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>
+                  
+                  Ścieżki można budować z asfaltu, cegły, betonu, ziemi, piasku i kamienia.
+            
+            
+         
+                  
+                  <p/>
+                  
+                  Sama ścieżka jest ważniejsza niż materiał, z którego jest zbudowana. Materiały przydają się, aby nadać zoo ładny wygląd.
+               
+                  
+                  <p/>
+                  
+                  Możesz odblokować dodatkowe ścieżki tematyczne i inne obiekty, wykonując zadania w trybie "Wyzwanie".
+               
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+</ZT2Strings>

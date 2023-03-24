@@ -1,0 +1,2164 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<ZT2Strings>
+	<LOC_STRING _locID="zoopedia_beluga:entry"  >Białucha</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_beluga:text"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+                        <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+                            <img src="entities/units/animals/Beluga/Beluga_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+                        </cell>    
+                         <cell width="16">
+                          <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+                         </cell>
+                         <cell width="16">
+                          <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+                         </cell>                         
+                         <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/vulnerable.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Stopień zagrożenia:
+                     <br/>
+                        <color r="255" g="255" b="0">
+                     Niskie zagrożenie
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+                 <cell width="128">
+                  <color r="255" g="255" b="255">Tundra<br/></color>
+                  <img src="ui/icon_biomes/icon_tundra.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+                 </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Ocean Arktyczny</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/tundra_arctic_ocean.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Gromada: Ssaki <i>(Mammalia)</i>
+                  <br/>
+                  Rząd: Walenie <i>Cetacea</i>
+                  <br/>
+                  Rodzina: <i>Monodontidae</i>
+                  <br/>
+                  Rodzaj: <i>Delphinapterus</i>
+                  <br/>
+                  Gatunek: <i>leucas</i>
+                  </color>
+               </cell>
+                 <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/tundra_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+                 </cell>                 
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Ciekawostki</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Białuchy zaraz po urodzeniu mają barwę ciemno-szarą, brązową lub czarną. Biały kolor przybierają stopniowo aż do piątego roku życia.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Białucha może pływać zarówno do przodu, jak i do tyłu!</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Białucha nie przeżuwa pożywienia - połyka je w całości.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Białuchy polują na ryby w strefach przydennych płytkich wód.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Giętki kark białuchy pozwala jej swobodnie się poruszać podczas jedzenia. Zwierzę to potrafi też za jego pomocą wytworzyć potężny efekt ssący, by móc wchłonąć stworzenia uciekające mu z pyska!</color>
+               </cell>                
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">By odblokować białuchę w trybie wyzwania lub kampanii, musisz zdobyć status 1/2 gwiazdki dla swojego zoo.</color>
+            <p/>Białucha to uzębiony waleń, mocno spokrewniony z delfinem, z wyraźnie zaznaczoną głową i krótkimi płetwami. Białuchy (których nazwa pochodzi od rosyjskiego słowa "bieluha" - "biały") mają po urodzeniu kolor czarne lub brunatne i nie posiadają płetwy grzbietowej. Biały kolor przyjmują w wieku 5 lat. Samce osiagają długość maksymalną 7 metrów i wagę 1 tony; samice są nieco mniejsze. Białuchy podróżują w stadach liczących kilka tysięcy osobników, żywią się rybami, ośmiornicami, krabami, ślimakami i kalmarami. Są gatunkiem często występującym w Oceanie Arktycznym, ale zapuszczają się w swych wędrówkach aż do wód w okolicach New Jersey w USA lub ujścia Renu.     
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Informacje pochodzą z <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft&#xAE; Encarta&#xAE; 2006.</color></u></a> &#xA9; 1993&#x96;2005 Microsoft Corporation. Wszystkie prawa zastrzeżone.
+         </cell>         
+      </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_dolphinbottlenose:entry"  >Delfin, butlonosy</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_dolphinbottlenose:text"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+                        <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+                            <img src="entities/units/animals/DolphinBottlenose/DolphinBottlenose_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+                        </cell>    
+                         <cell width="16">
+                          <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+                         </cell>
+                         <cell width="16">
+                          <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+                         </cell>                         
+                         <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/vulnerable.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Stopień zagrożenia:
+                     <br/>
+                        <color r="255" g="255" b="0">
+                     Średnie zagrożenie
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+                 <cell width="128">
+                  <color r="255" g="255" b="255">Wody przybrzeżne<br/></color>
+                  <img src="ui/icon_biomes/icon_coastal.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+                 </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Ciepłe oceany świata</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/pelagic_warm_oceans_worldwide.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Gromada: Ssaki <i>(Mammalia)</i>
+                  <br/>
+                  Rząd: Walenie <i>Cetacea</i>
+                  <br/>
+                  Rodzina: <i>Delphinidae</i>
+                  <br/>
+                  Rodzaj: <i>Tursiops</i>
+                  <br/>
+                  Gatunek: <i>truncatus</i>
+                  </color>
+               </cell>
+                 <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/coastal_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+                 </cell>                 
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Ciekawostki</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Delfiny butlonose mają mózg większy od człowieka!</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Butlonosy pochłaniają od 6 do 7 kilogramów ryb dziennie.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Delfiny potrafią niekiedy ogłuszyć ofiarę za pomocą dźwięków o wysokiej częstotliwości.</color>
+               </cell>                 
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">By odblokować białuchę w trybie wyzwania lub kampanii, musisz zdobyć status 3 1/2 gwiazdki dla swojego zoo.</color>
+            <p/>Delfin butlonosy to najlepiej zbadany i najbardziej popularny gatunek delfina. Występuje w rejonach przybrzeżnych wód tropikalnych i ciepłych. Zwierzęta te zwykle żyją w strefie przybrzeżnej w gromadach liczących nie więcej niż 20 osobników, ale mogą łączyć się w grupy liczące do 200 delfinów na pełnym morzu. Niektóre populacje okresowo migrują.
+            <p/>Butlonosy swą nazwę zawdzięczają swemu "dziobowi", który wyraźnie odstaje od głowy, niczym szyjka od butelki. Ich skóra ma kolor czarny lub ciemno-szary na gd=rzbiecie, z nieco jasniejszym podbrzuszem. Dlugość dorosłego osobnika liczy od 2 do 4 metrów. Samce są nieco większe od samic, a osobniki żyjące w wodach chłodniejszych są wieksze od tych zamieszkujących wody tropikalne. Butlonosy mają dużą, zaokragloną płetwę grzbietową o postrzępionym czubku. Indywidualne kształty tych strzepień pozwalały naukowcom śledzić trasy poszczególnych osobników i grup.
+            <p/>Butlonosy żywią się wieloma stworzeniamy, między innymi krewetkami, kalmarami, wieloma stawonogami i rybami. Delfiny te zdobywają pożywienie wynurzając się w poblizu skał, wyganiając ryby na błotniste nabrzeża i łapiąc je już na lądzie, lub stadnie zaganiając ofiary w ciasne ławice w kierunku brzegu lub powierzchni morza. WYkorzystują też działalność rybaków, podążając za statkami poławiającymi krewetki i wyjadając to, co spadnie za burtę.
+            <p/>Butlonosy to zwierzęta towarzyskie i łączą się w pary na całe życie. Samice osiagają pełną zdolność rozrodczą między 5 a 12, a samce między 9 a 13 rokiem życia. Po okresie ciąży, trwającym 12 miesięcy, samica rodzi jedno małe, które znajduje się pod opieką rodziców przez następnych 18 miesięcy. Delfiny komunikują się za pomocą bogatego repertuaru gwizdów i chrząknięć, a niektóre osobniki wydają się mieć swój własny, charakterystyczny gwizd. Butlonosy potrafią zlokalizować nawet małe obiekty za pomocą echolokacji, wysyłając krótkie dwieki o wysokiej częstotliwości, które odbijają się od ofiary lub przeszkód i wracają jako echo.
+            <p/>Butlonosy są uważane za gatunek łatwo adaptujący się do zmian, gdyż zamieszkują ruchliwe obszary portów i ujść kanałów w wielu rejonach świata. Jakiś czas temu stały się obiektem obserwacji i atrakcją turystyczną, są także najczęściej spotykanym gatunkiem w oceanariach. W przeszłości na butlonosy polowano ze względu na ich mięso i tłuszcz, lecz na szczęście ich liczebność nie została przetrzebiona (nie licząc rejonu Morza Czarnego, gdzie zanieczyszczenia oraz nadmierne połowy ryb spowodowały znaczne straty w populacji tych zwierząt).      
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Informacje pochodzą z <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft&#xAE; Encarta&#xAE; 2006.</color></u></a> &#xA9; 1993&#x96;2005 Microsoft Corporation. Wszystkie prawa zastrzeżone.
+         </cell>         
+      </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_manateewestindian:entry"  >Manat, karaibski</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_manateewestindian:text"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+                        <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+                            <img src="entities/units/animals/ManateeWestIndian/ManateeWestIndian_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+                        </cell>    
+                         <cell width="16">
+                          <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+                         </cell>
+                         <cell width="16">
+                          <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+                         </cell>                         
+                         <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/vulnerable.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Stopień zagrożenia:
+                     <br/>
+                        <color r="255" g="255" b="0">
+                     Średnie zagrożenie
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+                 <cell width="128">
+                  <color r="255" g="255" b="255">Wody przybrzeżne<br/></color>
+                  <img src="ui/icon_biomes/icon_coastal.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+                 </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Ocean Atlantycki</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/coastal_carribean_atlantic_ocean.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Gromada: Ssaki <i>(Mammalia)</i>
+                  <br/>
+                  Rząd: Syreny <i>Sirenia</i>
+                  <br/>
+                  Rodzina: <i>Trichechidae</i>
+                  <br/>
+                  Rodzaj: <i>Trichechus</i>
+                  <br/>
+                  Gatunek: <i>manatus</i>
+                  <br/>
+                  Podgatunek: <i>manatus</i>                  
+                  </color>
+               </cell>
+                 <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/coastal_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+                 </cell>                 
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Ciekawostki</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Manaty mają doskonały słuch, dzięki czemu matki i ich potomstwo mogą z łatwością się odszukać poprzez komunikację za pomocą pisków.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Manaty były mylone z mitycznymi syrenami.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Manaty żyją w płytkich wodach i poruszają się powoli, dlatego śruby motorówek są dla nich wielkim zagrożeniem.</color>
+               </cell>                 
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">By odblokować manata karaibskiego w trybie wyzwania lub kampanii, musisz zdobyć status 1 1/2 gwiazdki dla swojego zoo.</color>
+            <p/>Manat jest popularnie zwany krową morską, gdyż żeruje na trawach morskich i innych roślinach wodnych. Manat karaibski jest spotykany w rzekach i wodach przybrzeżnych południowych rejonów USA, Zatoki Meksykańskiej, Morza Karaibskiego i w wodach północnej Brazylii.
+            <p/>Dorosły manat ma zaokrąglone ciało, zabarwione na szaro lub czarno, które przechodzi w spłaszczony, zaookrąglony ogon. Osobniki osiągają długość od 2,5 do 4,5 metra i wagę od 200 do 600 kg. Mała głowa tego zwierzęcia zakończona jest prostym pyskiem o rozszczepionej górnej wardze z odstającymi wąsami. Nozdrza manata, osadzone na górze pyska, są szczelnie zamykane fałdami skóry podczas zanurzenia. Podobne do płetw przednie kończyny umieszczone sa blisko głowy; brak zewnętrznych kończyn tylnych. Masywne kości i długie, wąskie płuca rozciagające się przez całe ciało, pozwalają manatowi utrzymywać poziom zanurzenia. Samica manata rodzi potomstwo (zwykle jedno, różowe  młode) około roku po okresie godowym.
+            <p/>Manaty żyją w małych, rodzinnych grupach, choć czasem łączą się w stada liczące około 15-20 osobników.żyją zarówno w wodach słodkich jak i słonych, przez 6 do 8 godzin dziennie przeszukując dno w poszukiwaniu pożywienia. Dorosły osobnik spożywa dziennie pożywienie o masie równej 5 - 10 procent masy jego ciała. Manaty mają wolniejszy metabolizm od większości ssaków o podobnych rozmiarach, co zmniejsza ich zapotrzebowanie energetyczne. Ta cecha jest szczególnie ważna dla manatów żyjących w ujściu Amazonki, gdy woda cofa się po okresie powodzi, więżąc nieraz kilka osobników w małym jeziorku z ograniczoną ilością pożywienia, z dala od roślinności rosnącej na brzegu rzeki.
+            <p/>Ze względu na swoje rozmiary manaty mają niewielu naturalnych wrogów. Ich populacja została jednak znacznie przetrzebiona w wyniku polowań (ze względu na skórę, tran i mięso), a także w wyniku częstych wypadków poranienia przez śruby łodzi. Próby ratowania tych zwierząt w Afryce i Ameryce Poludniowej często kolidują z tradycją polowań. Argumentem praktycznym stosowanym przy próbach konserwacji gatunku jest to, że pomagają one oczyszczać z roślinności wodnej ujścia rzek, co ułatwia żeglugę transportową.
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Informacje pochodzą z <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft&#xAE; Encarta&#xAE; 2006.</color></u></a> &#xA9; 1993&#x96;2005 Microsoft Corporation. Wszystkie prawa zastrzeżone.
+         </cell>         
+      </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_marlinblue:entry"  >Marlin, niebieski</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_marlinblue:text"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+                        <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+                            <img src="entities/units/animals/MarlinBlue/MarlinBlue_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+                        </cell>    
+                         <cell width="16">
+                          <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+                         </cell>
+                         <cell width="16">
+                          <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+                         </cell>                         
+                         <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Stopień zagrożenia:
+                     <br/>
+                        <color r="170" g="255" b="0">
+                     Niskie zagrożenie
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+                 <cell width="128">
+                  <color r="255" g="255" b="255">Wody pelagialne<br/></color>
+                  <img src="ui/icon_biomes/icon_pelagic.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+                 </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Ocean Atlantycki</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/pelagic_atlantic_ocean.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Gromada: Promieniopłetwe <i>(Actinopterygii)</i>
+                  <br/>
+                  Rząd: Okoniokształtne <i>Perciformes</i>
+                  <br/>
+                  Rodzina: <i>Istiophoridae</i>
+                  <br/>
+                  Rodzaj: <i>Makaira</i>
+                  <br/>
+                  Gatunek: <i>nigricans</i>
+                  </color>
+               </cell>
+                 <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/pelagic_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+                 </cell>                 
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Ciekawostki</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Długi "nos" marlina jest w rzeczywistości jego górną wargą.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Marlin niebieski jest najwiekszym przedstawicielem ryb żaglicowatych.</color>
+               </cell>            
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">By odblokować marlina w trybie wyzwania lub kampanii, musisz zdobyć status 1 gwiazdki dla swojego zoo.</color>
+            <p/>Marlin niebieski jest znany dzięki swojemu długiemu, ostremu pyskowi i smukłemu, półksiężycowatemu ogonowi. Żywi się ośmiornicami, kalmarami, tuńczykami oraz makrelami i zwykle poluje samotnie w ciągu dnia, używając swego ostrego pyska jako broni. 
+            <p/>Marlin to ryba często migrująca, podążająca ku równikowi w czasie zimy i oddalająca się odeń w trakcie lata, poruszająca się po całym obszarze Oceanu Atlantyckiego. Marlin jest jednym z najszybciej pływających mieszkańców oceanu dzięki swojemu opływowemu kształtowi i niezwykłej sile. Niektórzy naukowcy rozgraniczają dwa gatunki - Marlina niebieskiego atlantyckiego (Makaira nigricans) i indo-pacyficznego (Makaira mazara). Inni z kolei uważają, że to jeden gatunek, rozprzestrzeniony na Atlantyku, Pacyfiku i Oceanie Indyjskim.           
+         </cell>        
+      </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_narwhal:entry"  >Narwal</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_narwhal:text"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+                        <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+                            <img src="entities/units/animals/Narwhal/Narwhal_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+                        </cell>    
+                         <cell width="16">
+                          <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+                         </cell>
+                        <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+                            <img src="entities/units/animals/Narwhal/Narwhal_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+                        </cell>                             
+                         <cell width="16">
+                          <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+                         </cell>                         
+                         <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/vulnerable.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Stopień zagrożenia:
+                     <br/>
+                        <color r="255" g="255" b="0">
+                     Średnie zagrożenie
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+                 <cell width="128">
+                  <color r="255" g="255" b="255">Tundra<br/></color>
+                  <img src="ui/icon_biomes/icon_tundra.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+                 </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Ocean Arktyczny</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/tundra_arctic_ocean.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Gromada: Ssaki <i>(Mammalia)</i>
+                  <br/>
+                  Rząd: Walenie <i>Cetacea</i>
+                  <br/>
+                  Rodzina: <i>Monodontidae</i>
+                  <br/>
+                  Rodzaj: <i>Monodon</i>
+                  <br/>
+                  Gatunek: <i>monoceros</i>
+                  </color>
+               </cell>
+                 <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/tundra_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+                 </cell>                 
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Ciekawostki</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Narwale zwykle pozostają na północ od koła podbiegunowego przez cały rok, ale zdarzało się je spotkać nawet tak daleko na południe, jak w Morzu Śródziemnym.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Wikingowie mamili ludzi, że długie zęby narwali są w rzeczywistości rogami jednorożca.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Słowo narwal pochodzi od starego norweskiego słowa oznaczającego "trupi wieloryb."</color>
+               </cell>               
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">By odblokować narwala w trybie wyzwania lub kampanii, musisz zdobyć status 3 gwiazdek dla swojego zoo.</color>
+            <p/>Narwale to uzebione wieloryby o mocnej budowie ciała, żyjące w głębokich wodach Arktyki blisko pól lodowych. Zwierzę to jest blisko spokrewnione z białuchą. Narwale są barwy czarno-białej. Samice osiągają długość 4,2 m, a samce 4,7 m. Ssaki te posiadają tylko 2 zęby, oba wyrastające z górnej szczęki. Lewy ząb samców nieprzerwanie rośnie spiralnie do przodu aż do osiagnięcia długości około 3 metrów, co sprawia, że całkowita długość samców narwala może wynosić 8 metrów.
+            <p/>Narwale żyją zwykle w małych grupach liczących 12 osobników, które z kolei są częściami większego stada. Zwierzęta te migrują okresowo wraz z przesuwającą się krawędzią pól lodowych Arktyki. Na ich dietę składają się ryby, kalmary i krewetki. Członkowie grupy segregują się pod względem płci i wieku, zwłaszcza w okresie migracji. W takich przypadkach łatwo wyróżnić grupy dorosłych samców i młodych ze względu na długość ich zębów.
+            <p/>System społeczny narwali nie jest znany, chociaż badacze sądzą, że samce mogą walczyć lub konkurować między sobą o samice. Widywano już, jak samce toczą pojedynki za pomocą swych zębów tuż przy powierzchni wody, znae są też przypadki osobników ze złamanym zębem lub z widzonymi sladami po ranach odniesionych w walce z innym narwalem. Pojedynki na śmierć i zycie są jedna sporadyczne. Dorosła samica może rodzić raz na 3 lata. CIąża trwa 15 miesięcy, po której przychodzi na świat jedno młode - zwykle w okresie letnim.
+            <p/>Inuici i niektóre kraje europejskie polują na narwale ze względu na mięso, skórę, tran i przede wszystkim ich piękne zęby, które uzywane są w zdobnictwie i medycynie tradycyjnej. Pomimo iż gatunkowi nie grozi wyginięcie, lokalne połowy narwali lub ich źródeł pozywienia mogą zagrozić niektórym populacjom.
+         </cell>            
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Informacje pochodzą z <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft&#xAE; Encarta&#xAE; 2006.</color></u></a> &#xA9; 1993&#x96;2005 Microsoft Corporation. Wszystkie prawa zastrzeżone.            
+         </cell>        
+      </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_ottersea:entry"  >Wydra, morska</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_ottersea:text"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+                        <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+                            <img src="entities/units/animals/OtterSea/OtterSea_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+                        </cell>    
+                         <cell width="16">
+                          <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+                         </cell>                             
+                         <cell width="16">
+                          <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+                         </cell>                         
+                         <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/endangered.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Stopień zagrożenia:
+                     <br/>
+                        <color r="255" g="155" b="0">
+                     Ginący
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+                 <cell width="128">
+                  <color r="255" g="255" b="255">Wody przybrzeżne<br/></color>
+                  <img src="ui/icon_biomes/icon_coastal.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+                 </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Wybrzeża północnego Pacyfiku</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/coastal_north_pacific_coasts.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Gromada: Ssaki <i>(Mammalia)</i>
+                  <br/>
+                  Rząd: Mięsożerne <i>Carnivora</i>
+                  <br/>
+                  Rodzina: <i>Mustelidae</i>
+                  <br/>
+                  Rodzaj: <i>Enhydra</i>
+                  <br/>
+                  Gatunek: <i>lutris</i>                
+                  </color>
+               </cell>
+                 <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/coastal_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+                 </cell>                 
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Ciekawostki</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Wydra jest najmniejszym ssakiem żyjącym w morzu.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Wydry morskie mogą wytrzymać pod wodą do 6 minut.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Czasami można zobaczyć wydry unoszące się na grzbiecie i próbujące za pomocą kamieni rozłupać złowione skorupiaki.</color>
+               </cell>                 
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">By odblokować wydrę morską w trybie wyzwania lub kampanii, musisz zdobyć status 2 1/2 gwiazdki dla swojego zoo.</color>
+            <p/>Wydra morska jest spotykana na amerykańskich i azjatyckich wybrzeżach północnego Pacyfiku. Zwierzę to ma mocną budowę ciała i osiąga długość do 1,2m. Wydry morskie żywią się głównie mięczakami i jeżowcami, które miażdżą swoimi dużymi zębami. Widuje sie także wydry dryfujące na grzbiecie rozłupujące skorupiaki za pomocą kamieni. Samice rodzą jedno młode w każdym miocie, które następnie jest chronione na brzuchu dryfującej na grzbiecie matki. Wydra morska to jedyny ssak morski, który nie ma izolującej warstwy tłuszczowej chroniącej przed wychłodzeniem. Zwierzeta te kompensują sobie ten brak dzięki częstemu czyszczeniu futra, które więzi między włosami izolującą warstwę powietrza. Gdy futro tego ssaka zostanie zabrudzone rozlaną ropą naftową, jego właściwości izolujące znikają i zwierzę może zginąć z wychłodzenia. Dodatkowo może dojść do zatrucia i śmierci w wyniku spozycia ropy w trakcie prób oczyszczenia sierści.
+            <p/>Skórka wydry morskiej to jeden z najbardziej cenionych rodzajów futra. Brązowa podściółka jest miękka, gęsta i wełnista, a obrośnięta jest dłuższym futrem zewnętrznym, o szarych końcówkach. W pierwszej połowie XX wieku zwierzęta te zostały praktycznie wytrzebione w wyniku polowań. Skuteczne działania ochronne spowodowały wzrost ich liczebności na wybrzeżu Kalifornii i Alaski.
+         </cell>
+            <p/>
+         <cell width="260"/>
+         <cell width="620">Informacje pochodzą z <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft&#xAE; Encarta&#xAE; 2006.</color></u></a> &#xA9; 1993&#x96;2005 Microsoft Corporation. Wszystkie prawa zastrzeżone.
+         </cell>                  
+      </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_penguinrockhopper:entry"  >Pingwin, skalny</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_penguinrockhopper:text"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+                        <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+                            <img src="entities/units/animals/PenguinRockhopper/PenguinRockhopper_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+                        </cell>    
+                         <cell width="16">
+                          <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+                         </cell>
+                        <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+                            <img src="entities/units/animals/PenguinRockhopper/PenguinRockhopper_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+                        </cell>                             
+                         <cell width="16">
+                          <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+                         </cell>                         
+                         <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/vulnerable.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Stopień zagrożenia:
+                     <br/>
+                        <color r="255" g="255" b="0">
+                     Średnie zagrożenie
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+                 <cell width="128">
+                  <color r="255" g="255" b="255">Wody przybrzeżne<br/></color>
+                  <img src="ui/icon_biomes/icon_coastal.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+                 </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Wyspy południowych oceanów</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/coastal_southern_ocean_islands.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Gromada: Ptaki <i>Aves</i>
+                  <br/>
+                  Rząd: Pingwiny <i>Sphenisciformes</i>
+                  <br/>
+                  Rodzina: <i>Spheniscidae</i>
+                  <br/>
+                  Rodzaj: <i>Eudyptes</i>
+                  <br/>
+                  Gatunek: <i>chrysocome</i>
+                  </color>
+               </cell>
+                 <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/coastal_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+                 </cell>                 
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Ciekawostki</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Samice tego ptaka składają zwykle dwa jaja w okresie godowym, ale tylko jedno jest wysiadywane.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Pingwiny skalne osiągają wiek 10 lat.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">By przyciagnąć partnerkę, samce pingwina skalnego potrząsają głową, by uwidocznić swoje żółto zabarwione pióropusze.</color>
+               </cell>                 
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">By odblokować pingwina skalnego w trybie wyzwania lub kampanii, musisz zdobyć status 2 gwiazdek dla swojego zoo.</color>
+            <p/>Pingwiny te zyskały swoja nazwę dzięki charakterystycznemu, skokowemu sposobowi poruszania się po skałach wybrzeży, na których żyją. Są one gatunkiem sub-antarktycznym, zamieszkującym przede wszystkim południowe wyspy, na przykład Faklandy, Antypody i wyspę Macquarie.
+            <p/>Posiadające wspaniałe pióropusze, czerwonookie pingwiny skalne są bardzo agresywne. Często walczą między sobą o miejsce na gniazdo. Ptaki te są niewielkich rozmiarów, ale ich mocne stopy wyposażone w błonę pławną i skrzydła czynią z nich wspaniałych myśliwych i pływaków.
+                <p/>Pingwiny skalne polują na ryby i małe kalmary, jedzą także kryl; same zaś stają się ofiarami rekinów i fok, a piskleta i jaja są narażone na ataki mew i innych ptaków.
+                <p/>Ptaki te budują swoje gniazda na skalistych wybrzeżach, dlatego umiejętność wyskoczenia z wody prosto na skałę jest bardzo ważną cechą pozwalającą im przetrwać w środowisku.  
+         </cell>        
+      </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_raymanta:entry"  >Manta</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_raymanta:text"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+                        <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+                            <img src="entities/units/animals/RayManta/RayManta_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+                        </cell>    
+                         <cell width="16">
+                          <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+                         </cell>
+                         <cell width="16">
+                          <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+                         </cell>                         
+                         <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Stopień zagrożenia:
+                     <br/>
+                        <color r="170" g="255" b="0">
+                     Niskie zagrożenie
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+                 <cell width="128">
+                  <color r="255" g="255" b="255">Rafy koralowe<br/></color>
+                  <img src="ui/icon_biomes/icon_reef.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+                 </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Ciepłe oceany świata</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/reef_warm_oceans_worldwide.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Gromada: Chrzęstnoszkieletowe <i>(Chondrichthyes)</i>
+                  <br/>
+                  Rząd: Orleniokształtne <i>Myliobatiformes</i>
+                  <br/>
+                  Rodzina: <i>Mobulidae</i>
+                  <br/>
+                  Rodzaj: <i>Manta</i>
+                  <br/>
+                  Gatunek: <i>birostris</i>
+                  </color>
+               </cell>
+                 <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/reef_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+                 </cell>                 
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Ciekawostki</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Manty, tak jak niektóre wieloryby, odżywiają się filtrując wodę, wyłapując w trakcie pływania drobne organizmy i ryby.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Ze względu na duże rozmiary, manty obawiają się tylko ataków rekinów.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Manta to największy przedstawiciel płaszczkowatych.</color>
+               </cell>                 
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">By odblokować mantę w trybie wyzwania lub kampanii, musisz zdobyć status 1/2 gwiazdki dla swojego zoo.</color>
+            <p/>Manty żyją w ciepłych i tropikalnych wodach w pobliżu wybrzeży kontynentów i wysp wielu oceanów. Ryby te, zwane także diabłami morskimi, mają długie, skrzydlaste pletwy piersiowe. Największa z nich, manta atlantycka, ma rozpiętość płetw osiągającą długość 7 metrów. Para wysunietych do przodu płatów, po jednym z każdej strony głowy, którym manta zawdzięcza porównania do diabła, jest wykorzystywana do zagarniania planktonu i małych skorupiaków do otworu gębowego ryby podczas pływania. Ryba ta jest niegroźna dla ludzi, ale miota się, gdy próbuje się ją zlapać, więc ze względu na swe rozmiary może być niebezpieczna.
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Informacje pochodzą z <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft&#xAE; Encarta&#xAE; 2006.</color></u></a> &#xA9; 1993&#x96;2005 Microsoft Corporation. Wszystkie prawa zastrzeżone.
+         </cell>         
+      </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_sealioncalifornia:entry"  >Uchatka, kalifornijska</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_sealioncalifornia:text"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+                        <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+                            <img src="entities/units/animals/SeaLionCalifornia/SeaLionCalifornia_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+                        </cell>    
+                         <cell width="16">
+                          <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+                         </cell>
+                        <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+                            <img src="entities/units/animals/SeaLionCalifornia/SeaLionCalifornia_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+                        </cell>                             
+                         <cell width="16">
+                          <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+                         </cell>                         
+                         <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Stopień zagrożenia:
+                     <br/>
+                        <color r="170" g="255" b="0">
+                     Niskie zagrożenie
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+                 <cell width="128">
+                  <color r="255" g="255" b="255">Wody przybrzeżne<br/></color>
+                  <img src="ui/icon_biomes/icon_coastal.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+                 </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Wybrzeża wschodniego Pacyfiku</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/coastal_east_pacific_coast.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Gromada: Ssaki <i>(Mammalia)</i>
+                  <br/>
+                  Rząd: Mięsożerne <i>Carnivora</i>
+                  <br/>
+                  Rodzina: <i>Otariidae</i>
+                  <br/>
+                  Rodzaj: <i>Zalophus</i>
+                  <br/>
+                  Gatunek: <i>californianus</i>
+
+                  </color>
+               </cell>
+                 <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/coastal_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+                 </cell>                 
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Ciekawostki</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Uchatki kalifornijskie nie żyją jedynie w Kalifornii! Ich terytoria rozciągają się na wiekszą część wybrzeża pacyficznego Ameryki Północnej, ale spotykano je także w okolicach Japonii.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Wiek uchatki kalifornijskiej można sprawdzić licząc ilość pierścieni na przekroju jej zębów. Najstarsza uchatka w niewoli żyła 31 lat..</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Uchatki z łatwością adaptują się do różnych rodzajów pożywienia. Ich dieta zmienia się w zależności od dostępności danego typu jedzenia w okolicy.</color>
+               </cell>                 
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">By odblokować uchatkę kalifornijską w trybie wyzwania lub kampanii, musisz zdobyć status 1 1/2 gwiazdki dla swojego zoo.</color>
+            <p/>Uchatka kalifornijska to inteligentny, smukły gatunek fok znany szeroko dzięki występom w cyrku i na pokazach w oceanariach. Jest bardzo towarzyska i wykazuje zręczność i szybkość w poruszaniu się po lądzie, a piękne "szczekanie" jest jednym z ulubionych elementów pokazów. Na wolności uchatki zamieszkują wybrzeża, a spotkać je możemy poza zachodnim wybrzeżem Ameryki także na Wyspach Galapagos.
+            <p/>
+            Dorosłe samce, zwane bykami, ważą około 360 kg i osiągają długość 2,1 m. Samce, inaczej krowy, są mniejsze, osiągające wagę do 110 kg i długość 1,8 m. Uchatki kalifornijskie mają barwę czekoladową i podobne do psich pyski. Czoła samców są wypukłe ze względu na łuk kostny, do którego zakotwiczone są bardzo mocne mięśnie żuchwy. Zwierzęta te żywią się kalmarami i ośmiornicami, a także wieloma gatunkami ryb -- sledziami, makrelami, sardynkami i in. Polują w płytkich wodach, w których konkurują ze swymi krewniakami, uchatkami grzywiastymi.
+            <p/>
+            Na początku czerwca byki ustanawiają terytoria godowe, zwane też żłobkami, na skalistych lub piaszczystych wybrzeżach. Każdy z byków ma swój własny harem, liczący od 5 do 20 samic. Samce bronią swego terytorium i samic z niespotykaną energią -- patrolują swój obszar na lądzie i w wodzie, szczekając głośno i odstraszając intruzów, czasem nawet walcząc z innymi samcami.
+            <p/>
+            Każda samica rodzi jedno młode po około rocznej ciąży. Matki i młode szybko uczą się swoich charakterystycznych szczeknięć, a samica zapamiętuje także unikalny zapach swojego dziecka. Młode są bardzo wcześnie po urodzeniu zabierane do morza przez krowy, a okres wychowawczy trwa około 12 miesięcy, w ciągu których wykształca się mocna więź. Młode szyko tworzą swoje grupki, w których się bawią, pożywiają i drzemią w głośnym żłobku. Gdy młode mają 2 lub 3 tygodnie, krowy znów zostają zapłodnione. Samice zwykle pozostają blisko żłobków, często połozonych na odległych plażach wysp, natomiast samce migrują na północ na okres lata i jesieni, zaraz po okresie godowym.
+            <p/>
+            Uchatki, zwierzęta zamieszkujące wody przybrzeżne, są bardzo narażone na zanieczyszczenia i działania ludzi. Stają się także ofiarami rekinów i orek, a niegdyś polowali na nie także ludzie. Od 1972 roku Uchatki są prawnie chronione na terenie USA, jednak jeszcze w latach osiemdziesiątych rocznie ginęło około 1500 tych zwierząt po zaplataniu się w rybackie sieci. Niedawne próby prawnej regulacji limitu połowów w strefie przybrzeżnej spowodowały znaczy snaczny spadek tej statystyki.
+         </cell>
+            <p/>
+         <cell width="260"/>
+         <cell width="620">Informacje pochodzą z <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft&#xAE; Encarta&#xAE; 2006.</color></u></a> &#xA9; 1993&#x96;2005 Microsoft Corporation. Wszystkie prawa zastrzeżone.
+         </cell>                  
+      </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_sharkreefblacktip:entry"  >Czarnoczuby żarłacz rafowy</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_sharkreefblacktip:text"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+                        <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+                            <img src="entities/units/animals/SharkReefBlackTip/SharkReefBlackTip_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+                        </cell>    
+                         <cell width="16">
+                          <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+                         </cell>
+                         <cell width="16">
+                          <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+                         </cell>                         
+                         <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Stopień zagrożenia:
+                     <br/>
+                        <color r="170" g="255" b="0">
+                     Niskie zagrożenie
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+                 <cell width="128">
+                  <color r="255" g="255" b="255">Rafy koralowe<br/></color>
+                  <img src="ui/icon_biomes/icon_reef.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+                 </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Ocean Indyjski i Pacyfik</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/reef_indian_pacific_oceans.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Gromada: Chrzęstnoszkieletowe <i>(Chondrichthyes)</i>
+                  <br/>
+                  Rząd: Żarłaczokształtne <i>Myliobatiformes</i>
+                  <br/>
+                  Rodzina: <i>Carcharhinidae</i>
+                  <br/>
+                  Rodzaj: <i>Carcharhinus</i>
+                  <br/>
+                  Gatunek: <i>melanopterus</i>
+                  </color>
+               </cell>
+                 <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/reef_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+                 </cell>                 
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Ciekawostki</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Rekiny te spotykane są czasem w słodkich wodach ujść rzek.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">SPoradycznie zdarzają się przypadki pogryzień ludzi przez te stworzenia, ale są one raczej wynikiem pomylenia stopy brodzącego człowieka z rybą. Przynajmniej tak utrzymują rekiny.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Rekiny te potrzebują dużej ilości miejsca w niewoli, by mogły swobodnie pływać. Znane są przypadki, gdy rekin wyskoczył z akwarium stojącego w czyimś w salonie!</color>
+               </cell>                 
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">By odblokować czarnoczubego żarłacza rafowego w trybie wyzwania lub kampanii, musisz zdobyć status 3 gwiazdek dla swojego zoo.</color>
+            <p/>Czarnoczuby żarłacz rafowy to mały gatunek rekina, osiągający długość do 2 metrów (średnio 1,6 m). Jego nazwa wzięła się od czarnej kropki na czubku jego przedniej płetwy grzbietowej. Rekin ten żyje przy brzegach i w okolicach raf koralowych.
+            <p/>Dieta tego rekina sklada się głównie z ryb, ale jego zęby pozwalają mu także przeżuwać skorupiaki (kraby i homary) i głowonogi (ośmiornice i kalmary). W wodach w poblizu Australii ryba ta może także polować na rozliczne gatunki węży morskich.
+            <p/>Gatunek ten nie widnieje na liście zagrożonych, to jednak ciągle jest w niebezpieczeństwie ze względu na kombinację długiego okresu wylęgu (16 miesięcy) i małej ilości wydawanego na świat potomstwa (2 do 4) podczas rozmnażania. Są także uznawane za smakołyk w niektórych rejonach świata.            
+         </cell>        
+      </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_sharkgoblin:entry"  >Rekin, chochlik</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_sharkgoblin:text"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+                        <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+                            <img src="entities/units/animals/SharkGoblin/SharkGoblin_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+                        </cell>    
+                         <cell width="16">
+                          <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+                         </cell>
+                         <cell width="16">
+                          <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+                         </cell>                         
+                         <cell width="156"/>
+                  <br/>   
+                      <cell width="32" pady="0">               
+                          <img src="ui/zoopedia/vulnerable.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                      </cell>                 
+                      <cell width="224" padx="10" pady="0">
+                          <color r="255" g="255" b="255">
+                          Stopień zagrożenia:
+                          <br/>
+                              <color r="255" g="255" b="0">
+                          Średnie zagrożenie
+                              </color>
+                          </color>                  
+                    </cell>
+               </cell>                        
+                 <cell width="128">
+                  <color r="255" g="255" b="255">Strefa denna<br/></color>
+                  <img src="ui/icon_biomes/icon_benthic.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+                 </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Ciepłe oceany świata</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/benthic_warm_oceans_worldwide.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Gromada: Chrzęstnoszkieletowe <i>(Chondrichthyes)</i>
+                  <br/>
+                  Rząd: Lamnokształtne <i>Lamniformes</i>
+                  <br/>
+                  Rodzina: <i>Mitsukurinidae</i>
+                  <br/>
+                  Rodzaj: <i>Mitsukurina</i>
+                  <br/>
+                  Gatunek: <i>owstoni</i>
+                  </color>
+               </cell>
+                 <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/benthic_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+                 </cell>                 
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Ciekawostki</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Dlaczego rekin chochlik? Bo na prawdę jest wyjątkowo brzydki.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Nazwa gatunku "owstoni" pochodzi od nazwiska Alana Owstona, brytyjskiego naturalisty z epoki wiktoriańskiej.</color>
+               </cell>               
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">By odblokować rekina chochlika w trybie wyzwania lub kampanii, musisz zdobyć status 4 gwiazdek dla swojego zoo.</color>
+            <p/>Rekin chochlik zamieszkuje głebokie wody i bardzo rzadko jest widywany w obszarach przebrzeżnych i przy powierzchni oceanu. Jego skóra ma barwę bladoróżową, płetwy są niebieskawe, a jego głowa wyróżnia się długim, płaskim nosem i wielkim otworem gębowym. 
+                <p/>
+                Rekin ten soiąga dość duże rozmiary, dorastając do 3,8 m długości. Żywi się stworzeniami zyjącymi na dnie oceanu: krewetkami, ośmiornicami, kalmarami i czasem krabami. Zwykle nie wchodzi w kontakt z człowiekiem w naturze ze względu na to, iż zamieszkuje głębiny.
+                <p/>
+                Rekin chochlik wydaje się być rzoprzestrzeniony po całej kuli ziemskiej - widywano go w Japonii, Australii i Afryce.
+         </cell>                
+      </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_sharkhammerheadscalloped:entry"  >Głowomłot, tropikalny</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_sharkhammerheadscalloped:text"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+                        <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+                            <img src="entities/units/animals/SharkHammerheadScalloped/SharkHammerheadScalloped_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+                        </cell>    
+                         <cell width="16">
+                          <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+                         </cell>
+                         <cell width="16">
+                          <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+                         </cell>                         
+                         <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Stopień zagrożenia:
+                     <br/>
+                        <color r="170" g="255" b="0">
+                     Niskie zagrożenie
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+                 <cell width="128">
+                  <color r="255" g="255" b="255">Wody pelagialne<br/></color>
+                  <img src="ui/icon_biomes/icon_pelagic.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+                 </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Ciepłe oceany świata</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/pelagic_warm_oceans_worldwide.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Gromada: Chrzęstnoszkieletowe <i>(Chondrichthyes)</i>
+                  <br/>
+                  Rząd: Żarłaczokształtne <i>Myliobatiformes</i>
+                  <br/>
+                  Rodzina: <i>Sphyrnidae</i>
+                  <br/>
+                  Rodzaj: <i>Sphyrna</i>
+                  <br/>
+                  Gatunek: <i>lewini</i>
+                  </color>
+               </cell>
+                 <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/pelagic_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+                 </cell>                 
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Ciekawostki</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Największe gatunki głowomłotów potrafią przejawiać zachowania kanibalistyczne!</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Zmysł węchu głowomłota jest tak rozwinięty, że potrafi on wyczuć nawet mikroskopijne (jedna częstka na milion) ślady krwi w wodzie.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Większe gatunki głowomłotów, w tym głowomłot tropikalny, są niebezpieczne dla ludzi.</color>
+               </cell>                 
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">By odblokować głowomłota tropikalnego w trybie wyzwania lub kampanii, musisz zdobyć status 3 1/2 gwiazdki dla swojego zoo.</color>
+            <p/>Głowomłot tropikalny to jeden z 10 gatunków rekinów młotów żyjących w wodach tropikalnych. Szeroka, spłaszczona głowa daje temu zwierzęciu dodatkową powierzchnię nośną, co pozwala wykonywać mu ostrzejsze nawroty od innych rekinów. Oczy i nozdrza, umieszczone na końcach wydłużeń głowy, pozwalają lepiej śledzic ofiary drapieżnika. Największy z głowomłotów, liczący ponad 4 metry długości jest znany ze swoich ataków na nurków. Dwa inne duże gatunki głowomłota, w tym głowomłot tropikalny, są także niebezpieczne. Małe gatunki, takie jak Sphyrna tiburo, osiagajacy tylko 1 m długości i zamieszkujący wybrzeża Florydy, mają głowy o kształcie szpadla.           
+         </cell>
+            <p/>
+         <cell width="260"/>
+         <cell width="620">Informacje pochodzą z <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft&#xAE; Encarta&#xAE; 2006.</color></u></a> &#xA9; 1993&#x96;2005 Microsoft Corporation. Wszystkie prawa zastrzeżone.
+         </cell>                  
+      </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_sharkwhale:entry"  >Rekin, wielorybi</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_sharkwhale:text"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+                        <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+                            <img src="entities/units/animals/SharkWhale/SharkWhale_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+                        </cell>    
+                         <cell width="16">
+                          <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+                         </cell>
+                         <cell width="16">
+                          <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+                         </cell>                         
+                         <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/vulnerable.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Stopień zagrożenia:
+                     <br/>
+                        <color r="255" g="255" b="0">
+                     Średnie zagrożenie
+                        </color>
+                     </color>                  
+                  </cell>                  
+               </cell>                        
+                 <cell width="128">
+                  <color r="255" g="255" b="255">Strefa denna<br/></color>
+                  <img src="ui/icon_biomes/icon_benthic.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+                 </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Ciepłe oceany świata</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/benthic_warm_oceans_worldwide.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Gromada: Chrzęstnoszkieletowe <i>(Chondrichthyes)</i>
+                  <br/>
+                  Rząd: <i>Orectolobiformes</i>
+                  <br/>
+                  Rodzina: <i>Rhiniodontidae</i>
+                  <br/>
+                  Rodzaj: <i>Rhincodon</i>
+                  <br/>
+                  Gatunek: <i>typus</i>
+                  </color>
+               </cell>
+                 <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/benthic_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+                 </cell>                 
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Ciekawostki</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Rekin wielorybi nie jest niebezpieczny dla ludzi, choć może przypadkiem staranować łódź.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Rekin wielorybi odżywia się filtrując wodę i wyłapując plankton oraz małe ryby wypustkami w skrzelach.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Rekiny wielorybie czasem kaszlą, wyrzucając jedzenie, które utkwiło im w skrzelach!</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Rekiny wielorybie, które możesz adoptować w swoim zoo, są osobnikami dorastającymi, co oznacza, że ich rozmiary znacznie się zwiększą. Możesz wypuścić nadmiernie wyrośniętego rekina na wolność lub rozbudować jego zbiornik.</color>
+               </cell>                 
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">By odblokować rekina wielorybiego w trybie wyzwania lub kampanii, musisz zdobyć status 4 1/2 gwiazdki dla swojego zoo.</color>
+            <p/>Rekin wielorybi to największa ryba świata, spotykana w tropikalnych wodach. Jego ciało może osiagnąć długość nawet 15 metrów i wagę ponad 18 ton. Grzbiet tego zwierzęcia ma barwę granatową, udekorowaną białymi plamkami i liniami pionowymi, a podbrzusze jest całkowicie białe. Przez jego głowę i grzbiet przebiega kilka wzdłużnych wybrzuszeń. Pysk rekina wielorybiego jest szeroki i spłaszczony, a otwór gębowy znajduje się z przodu, nie od spodu jak u innych rekinów, i wypełniony jest niezliczonymi maleńkimi zębami. Otwory skrzelowe są bardzo duże. Rekin wielorybi żywi się małymi rybami i planktonem; jest niegroźny dla ludzi. Młode rekiny wielorybie wykluwają się z jaj w ciele matki, następnie dopiero są wydalane na zewnątrz.          
+         </cell>        
+      </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_sharkwhite:entry"  >Żarłacz biały</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_sharkwhite:text"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+                        <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+                            <img src="entities/units/animals/SharkWhite/SharkWhite_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+                        </cell>    
+                         <cell width="16">
+                          <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+                         </cell>
+                         <cell width="16">
+                          <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+                         </cell>                         
+                         <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/vulnerable.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Stopień zagrożenia:
+                     <br/>
+                        <color r="255" g="255" b="0">
+                     Średnie zagrożenie
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+                 <cell width="128">
+                  <color r="255" g="255" b="255">Strefa denna<br/></color>
+                  <img src="ui/icon_biomes/icon_benthic.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+                 </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Wszystkie oceany świata</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/benthic_coasts_worldwide.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Gromada: Chrzęstnoszkieletowe <i>(Chondrichthyes)</i>
+                  <br/>
+                  Rząd: Lamnokształtne <i>Lamniformes</i>
+                  <br/>
+                  Rodzina: <i>Lamnidae</i>
+                  <br/>
+                  Rodzaj: <i>Carcharodon</i>
+                  <br/>
+                  Gatunek: <i>carcharias</i>
+                  </color>
+               </cell>
+                 <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/benthic_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+                 </cell>                 
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Ciekawostki</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Rekin ten w rzeczywistości ma tylko białe podbrzusze, natomiast jego grzbiet jest koloru niebiesko-szarego.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Żarłacze białe znakomicie plywają w pionie, i znane są z atakowania swych ofiar od spodu.</color>
+               </cell>                 
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">By odblokować żarłacza białego w trybie wyzwania lub kampanii, musisz zdobyć status 5 gwiazdek dla swojego zoo.</color>
+            <p/>Rekin ten ma stożkowaty pysk, czarne oczy i duże, ostre zęby w kształcie klina. Górna i dolna część płetwy ogonowej jest prawie identycznej wielkości, a całe ciało ma barwę szaro-niebieską, z białym podbrzuszem.
+                <p/>
+                Chociaż żarłacz biały często "wystepuje" w filmach, bardzo mało wiadomo na temat jego zachowań. Jeden z największych okazów został złapany w Montauk, na Long Island obok Nowego Jorku w 1964 i mierzył 5,34 m długości, osiagając wagę ponad 2 ton. Żarłacz biały połyka ofiary w całości (mogące mierzyć nawet połowę długości drapieżnika), w tym foki, delfiny, żółwie, inne rekiny, ochłapy mięsa wielorybów, ryby, a czasem nawet smieci wyrzucane ze statków. Pomiędzy 1916 a 1969 rokiem odnotowano 32 ataki na ludzi, z których 13 okazało się śmiertelnymi. W trzech przypadkach zanotowano atak rekina na łódź, z których jedna została zatopiona w okolicach Nowej Szkocji. W wodach Australii, gdzie widuje się rekordowo duże okazy, przez 13 lat widywano tą samą samicę, rozpoznawaną po charakterystycznych bliznach, jak powracała w okolice plaż.
+                <p/>
+                Żarłacz biały swoją siłą i wyglądem może przerażać ludzi wchodzących z nim w kontakt, ale wielu naukowców twierdzi, że jego zła reputacja jest niezasłużona. Niektórzy uważają, że jest to gatunek zagrożony ze względu na zbyt duże połowy - szczęka tego rekina to wspaniałe trofeum. Kurczą się także zasoby pozywienia w morzach. 
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Informacje pochodzą z <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft&#xAE; Encarta&#xAE; 2006.</color></u></a> &#xA9; 1993&#x96;2005 Microsoft Corporation. Wszystkie prawa zastrzeżone.
+         </cell>          
+      </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_turtleleatherback:entry"  >Żółw, skórzasty</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_turtleleatherback:text"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+                        <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+                            <img src="entities/units/animals/TurtleLeatherback/TurtleLeatherback_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+                        </cell>    
+                         <cell width="16">
+                          <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+                         </cell>
+                        <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+                            <img src="entities/units/animals/TurtleLeatherback/TurtleLeatherback_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+                        </cell>                     
+                         <cell width="16">
+                          <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+                         </cell>                         
+                         <cell width="156"/>
+                  <br/>
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/critical.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Stopień zagrożenia:
+                     <br/>
+                        <color r="255" g="0" b="0">
+                     Ginący
+                        </color>
+                     </color>                  
+                  </cell>                  
+               </cell>                        
+               <cell width="128">
+                  <color r="255" g="255" b="255">Wody pelagialne<br/></color>
+                  <img src="ui/icon_biomes/icon_pelagic.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+               </cell>
+                    <cell width="128">
+                        <color r="255" g="255" b="255">Ciepłe oceany świata</color>
+                        <br/>
+                        <img src="ui/icon_maplocations/coastal_warm_oceans_worldwide.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+                    </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Gromada: Gady <i>(Reptilia)</i>
+                  <br/>
+                  Rząd: Żółwie <i>Testudines</i>
+                  <br/>
+                  Rodzina: <i>Dermochelyidae</i>
+                  <br/>
+                  Rodzaj: <i>Dermochelys</i>
+                  <br/>
+                  Gatunek: <i>coriacea</i>
+                  </color>
+               </cell>
+               <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/pelagic_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+               </cell>
+            </cell>
+         </cell>         
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Ciekawostki</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Samice żółwia skórzastego można odróżnić dzięki różowej kropce znajdującej się na czubku głowy.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Na te żółwie nie poluje się ze względu na mięso, które uważane jest za toksyczne, jednak zbiera się ich jaja, co grozi gatunkowi wyginięciem.</color>
+               </cell>                 
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">By odblokować żółwia skórzastego w trybie wyzwania lub kampanii, musisz zdobyć status 2 1/2 gwiazdki dla swojego zoo.</color>
+            <p/>Żółw skórzasty jest nawiększym przedstawicielem tego rzędu na ziemi. Jego skorupa może osiagać długość 2,4 m, a waga zwierzęcia dochodzi do 900 kg. Żółwie skórzaste występują dalej na północ i południe niż większość żółwi w Atlantyku, Pacyfiku i Oceanie Indyjskim, czasem pojawiają się też w Morzu śródziemnym. Gad ten może długo przebywać w chłodnych wodach, utrzymując temperaturę wyższą od otoczenia dzięki dużym rozmiarom i aktywności mięśni. W odróżnieniu od innych żółwi skorupa tego zwierzęcia pozbawiona jest łusek, i pokryta jest skórzastą powłoką, w której osadzone są kostne narośla. Na górnej skorupie (karapaksie) można wyróżnić siedem, a na spodniej (plastronie) pięć wzdłużnych wybrzuszeń. Żółw ten jest barwy czarnej lub granatowo-czarnej, pokryty białymi, nieregularnymi plamkami. Kończyny tego zwierzęcia są bardzo mocne i ukształtowane jak wiosła, co pozwala mu sprawnie pokonywać długie dystanse; przednie kończyny są wyraźnie większe od tylnich. Samce spędzają całe swoje życie w morzu, samice natomiast wychodzą na ląd, by złożyć jaja w piaskach plaż. Żółwie te nie są jadalne, a ich mięso ma znaczną zawartość oleju. Gatunek ten zywi się głównie meduzami, wodorostami, kalmarami, mięczakami i jeżowcami.
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Informacje pochodzą z <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft&#xAE; Encarta&#xAE; 2006.</color></u></a> &#xA9; 1993&#x96;2005 Microsoft Corporation. Wszystkie prawa zastrzeżone.
+         </cell>         
+      </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_turtleseagreen:entry"  >Żółw, zielony</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_turtleseagreen:text"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+                        <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+                            <img src="entities/units/animals/TurtleSeaGreen/TurtleSeaGreen_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+                        </cell>    
+                         <cell width="16">
+                          <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+                         </cell>
+                        <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+                            <img src="entities/units/animals/TurtleSeaGreen/TurtleSeaGreen_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+                        </cell>                         
+                         <cell width="16">
+                          <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+                         </cell>
+                         <cell width="156"/>                         
+                  <br/>                   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/endangered.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Stopień zagrożenia:
+                     <br/>
+                        <color r="255" g="155" b="0">
+                     Duże zagrożenie
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+               <cell width="128">
+                  <color r="255" g="255" b="255">Wody przybrzeżne<br/></color>
+                  <img src="ui/icon_biomes/icon_coastal.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+               </cell>
+                    <cell width="128">
+                        <color r="255" g="255" b="255">Ciepłe oceany świata</color>
+                        <br/>
+                        <img src="ui/icon_maplocations/coastal_warm_oceans_worldwide.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+                    </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Gromada: Gady <i>(Reptilia)</i>
+                  <br/>
+                  Rząd: Żółwie <i>Testudines</i>
+                  <br/>
+                  Rodzina: <i>Cheloniidae</i>
+                  <br/>
+                  Rodzaj: <i>Chelonia</i>
+                  <br/>
+                  Gatunek: <i>mydas</i>
+                  </color>
+               </cell>
+               <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/coastal_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+               </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Ciekawostki</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Żółw zielony to największy przedstawiciel tego rzędu o twardej skorupie, ustępujący rozmiarami jedynie żółwiowi skórzastemu.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Młode żółwie pomagają sobie w wykluciu z jaj dzięki specjalnemu żebowi, którym przebijają skorupkę.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Od razu po wykluciu młode żółwie zielone zaczynają poruszać swoimi płetwami, dzieki czemu wydobywają sie na powierzchnię piasku, po czym dopełzają do wody i odplywają od brzegu.</color>
+               </cell>                
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">By odblokować żółwia zielonego w trybie wyzwania lub kampanii, musisz zdobyć status 1 gwiazdki dla swojego zoo.</color>
+            <p/>Żółw zielony to duży gad, który zawdzięcza swoją nazwę kolorowi swojego tłuszczu - jego ciało ma barwę brązową. To najszybciej pływający żółw, osiągający prędkość 32 km/h. Gatunek ten występuje we wszystkich ciepłych morzach, a latem mozna go spotkać nawet na wybrzeżach północnego Atlantyku. Długość skorupy dorosłego osobnika może wynosić 1 m, a waga do 180 kg. Jego głowa zwieńczona jest dwiema charakterystycznymi płytkami kostnymi; skorupa jest relatywnie gładka, pozbawiona wybrzuszeń. Samce nigdy nie opuszczają wody; samice wychodzą na ląd, by złożyć jaja (których liczba może sięgnąć nawet 200) i zakopać je w piasku. Po wykluciu młode od razu zmierzają w kierunku morza. Żółwie zielone są wszystkożerne, ale podstawą ich diety są rośliny. Są cenionym smakołykiem - z ich mięsa, przypominającego w smaku cielęcinę, przyrządza się słynną zupę. Ich liczebność, w wyniku polowań, gwałtownie spada.
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Informacje pochodzą z <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft&#xAE; Encarta&#xAE; 2006.</color></u></a> &#xA9; 1993&#x96;2005 Microsoft Corporation. Wszystkie prawa zastrzeżone.
+         </cell>         
+      </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_walruspacific:entry"  >Mors</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_walruspacific:text"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+                        <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+                            <img src="entities/units/animals/WalrusPacific/WalrusPacific_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+                        </cell>    
+                         <cell width="16">
+                          <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+                         </cell>
+                        <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+                            <img src="entities/units/animals/WalrusPacific/WalrusPacific_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+                        </cell>                         
+                         <cell width="16">
+                          <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+                         </cell>                         
+                         <cell width="156"/>
+                  <br/>                   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/vulnerable.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Stopień zagrożenia:
+                     <br/>
+                        <color r="255" g="255" b="0">
+                     Średnie zagrożenie
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+                 <cell width="128">
+                  <color r="255" g="255" b="255">Tundra<br/></color>
+                  <img src="ui/icon_biomes/icon_tundra.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+                 </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Ocean Arktyczny</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/tundra_arctic_ocean.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Gromada: Ssaki <i>(Mammalia)</i>
+                  <br/>
+                  Rząd: Mięsożerne <i>Carnivora</i>
+                  <br/>
+                  Rodzina: <i>Odobenidae</i>
+                  <br/>
+                  Rodzaj: <i>Odobenus</i>
+                  <br/>
+                  Gatunek: <i>rosmarus</i>
+                  <br/>
+                  SubGatunek: <i>divergens</i>                  
+                  </color>
+               </cell>
+                 <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/tundra_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+                 </cell>                 
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Ciekawostki</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Angielska nazwa morsa, "walrus", pochodzi od norweskiego słowa "hvall-hross" (koń-wieloryb).</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Morsy używają czasami swoich kłów jako haków, pomagających im we wspinaczce po lodowych stokach!</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Ulubionym pokarmem morsów są małże.</color>
+               </cell> 
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Morsy potrafią oderwać małże od dna za pomocą wypuszczanego strumienia wody.</color>
+               </cell>       
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">By odblokować morsa w trybie wyzwania lub kampanii, musisz zdobyć status 4 1/2 gwiazdki dla swojego zoo.</color>
+            <p/>Mors to duży ssak morski spotykany w regionie Arktyki, na granicy wiecznego lodu na północnych wybrzeżach Kanady, Syberii, Kamczatki, Alaski, Grenlandii i Norwegii. Istnieją dwie populacje morsa: atlantycka i pacyficzna.
+            <p/>Morsy mogą przesunąć swoje tylne kończyny ku przodowi, dzieki czemu mogą się poruszać po lądzie za pomocą wszystkich czterech. Długość osobników tego zwierzęcia może wynosić od 2,7 do 3,5 m, a waga waha się od 800 do 1700 kg; samce są większe od samic. Ciała przedstawicieli obu płci są masywne, o grubej, pomarszczonej skórze pokrytej szczeciną, która wraz z wiekiem łysieje. Głowa tego zwierzęcia jest relatywnie mała, pozbawiona małżowin usznych. Pysk morsa jest szeroki, zwieńczony wąsami; wystają z niego przerośnięte górne kły, mogące osiagać długość nawet 1 metra, które są wykorzystywane podczas walk oraz w trakcie wspinaczek po oblodzonych pochyłościach. Kiedyś uważano, że kły służą także do odłupywania małży od dna oceanu, stanowiących podstawę diety morsa, obecnie jednak panuje przekonanie, że zwierzęta te wykorzystują do poszukiwania i wydobywania pożywienia czułych wąsów i miękkiego pyska.
+            <p/>Morsy przejawiają silne zachowania społeczne, zbierając się w stada, liczące niekiedy kilka tysięcy osobników, które osiadają na brzegach kry lodowej. Hałas wytwarzany przez stado morsów słychać z odleglości wielu kilometrów. Zwierzeta te są łagodne, jeśli się ich nie prowokuje - w przypadku ataku na członka stada napastnik może się jednak spodziewać obrony ze strony wszystkich osobników. Głównym worgiem naturalnym morsów są niedźwiedzie polarne, ale poluja na nie także ludzie, którzy cenią ich mięso, tran, a także kły. W wyinku polowań populacja tych zwierząt znacznie zmalała.
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Informacje pochodzą z <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft&#xAE; Encarta&#xAE; 2006.</color></u></a> &#xA9; 1993&#x96;2005 Microsoft Corporation. Wszystkie prawa zastrzeżone.
+         </cell>         
+      </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_whalefalsekiller:entry"  >Orka karłowata</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_whalefalsekiller:text"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+                        <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+                            <img src="entities/units/animals/WhaleFalseKiller/WhaleFalseKiller_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+                        </cell>    
+                         <cell width="16">
+                          <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+                         </cell>
+                         <cell width="16">
+                          <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+                         </cell>                         
+                         <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Stopień zagrożenia:
+                     <br/>
+                        <color r="170" g="255" b="0">
+                     Niskie zagrożenie
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+                 <cell width="128">
+                  <color r="255" g="255" b="255">Wody przybrzeżne<br/></color>
+                  <img src="ui/icon_biomes/icon_coastal.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+                 </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Wybrzeża całego świata</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/coastal_coasts_worldwide.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Gromada: Ssaki <i>(Mammalia)</i>
+                  <br/>
+                  Rząd: Walenie <i>Cetacea</i>
+                  <br/>
+                  Rodzina: <i>Delphinidae</i>
+                  <br/>
+                  Rodzaj: <i>Pseudorca</i>
+                  <br/>
+                  Gatunek: <i>crassidens</i>
+                  </color>
+               </cell>
+                 <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/coastal_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+                 </cell>                 
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Ciekawostki</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Orki są gatunkami należącymi do rodziny delfinów, jednak często są mylnie nazywane wielorybami.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Orka karlowata lub się bawić i często towarzyszy statkom płynącym po oceanie.</color>
+               </cell>                 
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">By odblokować orkę karłowatą w trybie wyzwania lub kampanii, musisz zdobyć status 4 gwiazdek dla swojego zoo.</color>
+            <p/>Orka karłowata jest z zewnatrz podobna do swej większej kuzynki, jednak biologicznie są to gatunki spokrewnione ze sobą w niewielkim stopniu. Ich barwy są podobne, ale mają inny wzór - orka karłowata jest czarna, a białe jest jedynie jej podbrzusze, natomiast jej większa kuzynka ma białe plamy także w innych miejscach.
+            <p/>Orki karłowate można spotkać na całym świecie w wodach tropikalnych i ciepłych, ale nigdzie nie występują one w większej ilości. Podstawą ich diety są ryby takie jak łosoś, tuńczyk, makrela i mahi-mahi.
+            <p/>Orki karlowate to bardzo towarzyskie zwierzęta, podróżujące w dużych grupach. Stada liczące poniżej 100 osobników są uważane za małe i niebezpieczne, gdyż ze względu na grożący im chów wsobny mogą doprowadzić do wymarcia gatunku.
+         </cell>      
+      </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_whaleorca:entry"  >Orka</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_whaleorca:text"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+                        <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+                            <img src="entities/units/animals/WhaleOrca/WhaleOrca_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+                        </cell>    
+                         <cell width="16">
+                          <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+                         </cell>
+                        <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+                            <img src="entities/units/animals/WhaleOrca/WhaleOrca_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+                        </cell>                         
+                         <cell width="16">
+                          <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+                         </cell>                         
+                         <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Stopień zagrożenia:
+                     <br/>
+                        <color r="170" g="255" b="0">
+                     Niskie zagrożenie
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+                 <cell width="128">
+                  <color r="255" g="255" b="255">Tundra<br/></color>
+                  <img src="ui/icon_biomes/icon_tundra.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+                 </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Zimne oceany świata</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/tundra_arctic_antarctic_oceans.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Gromada: Ssaki <i>(Mammalia)</i>
+                  <br/>
+                  Rząd: Walenie <i>Cetacea</i>
+                  <br/>
+                  Rodzina: <i>Delphinidae</i>
+                  <br/>
+                  Rodzaj: <i>Orcinus</i>
+                  <br/>
+                  Gatunek: <i>orca</i>
+                  </color>
+               </cell>
+                 <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/tundra_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+                 </cell>                 
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Ciekawostki</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Orki opiekują się swoimi młodymi, które doglądane są przez grupę samic.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Każde stado orek używa unikalnego "dialektu" dźwięków.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Orki są przezywane "zabójcami" przez to, że polują na wiele zwierząt morskich, w tym na duże walenie. Nie atakuja jednak ludzi.</color>
+               </cell>                 
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">By odblokować orkę w trybie wyzwania lub kampanii, musisz zdobyć status 5 gwiazdek dla swojego zoo.</color>
+            <p/>Orka to największy przedstawiciel rodziny delfinowatych. W krajach anglosaskich nazywana jest, błędnie, wielorybem-zabójcą, ze względu na swój ogromny aptetyt i polowania na ptaki, ryby, żółwie oraz inne ssaki morskie. Pamietajmy jednak, że orka jest delfinem, które są odrębną rodziną waleni od wielorybów.
+            <p/>Orki mają wyraźnie ukształtowany system społeczny - zycie stada jest regulowane przez dominującą samicę. Ssaki te komunikują się i wykrywają swoje ofiary przede wszystkim za pomocą dźwięków - kliknięć, krzyków, gwizdów i pulsujących odgłosów.
+            <p/>Orki występują w większej ilości obszarów wszechoceanu niż inne ssaki morskie. Żyją we wszystkich oceanach, często w pobliżu wybrzeży. Częściej są spotykane w wodach chłodnych, ale można je także zauważyć w okolicach Bahamów, Karaibów i Hawajów. Widywano je nawet w ujściach rzek.
+            <p/>Orki, ze względu na swe widowiskowe i zaciekłe polowania, otaczane były szacunkiem i czcią w wielu dawnych kulturach, zwłaszcza wśród Indian z zachodnich wybrzeży Ameryki Północnej. Plemiona Tlingit, Kwakiutl i Haida wprowadziły wizerunki orek do swyej sztuki totemicznej, pojawiają się one także na maskach, naczyniach, hełmach i tkaninach. Pomimo swej agresywności orki uważane były przez te kultury za strażników oceanu. Wierzono, że obecność orki w okolicy połowów znacznie zwiększa obfitość ryb.
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Informacje pochodzą z <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft&#xAE; Encarta&#xAE; 2006.</color></u></a> &#xA9; 1993&#x96;2005 Microsoft Corporation. Wszystkie prawa zastrzeżone.
+         </cell>         
+      </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_whalepilotshortfinned:entry"  >Pilot</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_whalepilotshortfinned:text"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+                        <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+                            <img src="entities/units/animals/WhalePilotShortFinned/WhalePilotShortFinned_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+                        </cell>    
+                         <cell width="16">
+                          <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+                         </cell>
+                        <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+                            <img src="entities/units/animals/WhalePilotShortFinned/WhalePilotShortFinned_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+                        </cell>
+                         <cell width="16">                        
+                          <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+                         </cell>                         
+                         <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Stopień zagrożenia:
+                     <br/>
+                        <color r="170" g="255" b="0">
+                     Niskie zagrożenie
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+                 <cell width="128">
+                  <color r="255" g="255" b="255">Wody pelagialne<br/></color>
+                  <img src="ui/icon_biomes/icon_pelagic.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+                 </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Ciepłe oceany świata</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/pelagic_warm_oceans_worldwide.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Gromada: Ssaki <i>(Mammalia)</i>
+                  <br/>
+                  Rząd: Walenie <i>Cetacea</i>
+                  <br/>
+                  Rodzina: <i>Delphinidae</i>
+                  <br/>
+                  Rodzaj: <i>Globicephala</i>
+                  <br/>
+                  Gatunek: <i>macrorhynchus</i>
+                  </color>
+               </cell>
+                 <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/pelagic_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+                 </cell>                 
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Ciekawostki</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Piloty są gatunkiem z rodziny delfinów.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Młodymi osobnikami opiekuje się wspólnie całe stado.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Piloty często polują stadnie płynąc w rzędzie. Odpowiednio duża grupa może stworzyć szyk o szerokości 1,5 kilometra!</color>
+               </cell>                 
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">By odblokować pilota w trybie wyzwania lub kampanii, musisz zdobyć status 2 gwiazdek dla swojego zoo.</color>
+            <p/>Piloty to ssaki z rodziny delfinowatych występujące w ciepłych i tropikalnych wodach oceanów świata. Ich pobratymcy, grindwale, które mają dłuższe pletwy, występują w północnych wodach Atlantyku i w obszarach Antarktyki (ich populacja żyjąca w Pacyfiku przestała istnieć). Oba te gatunki występują często w tych samych akwenach, mieszając się zwłaszcza w okolicach Ameryki Poludniowej i północnej części Atlantyku.
+            <p/>Piloty i Grindwale osiągają długość 6 metrów; samce są nieco większe od samic. Grindwale osiagają większe rozmiary od pilotów. Zwierzęta te mają dużą, okrągłą glowę i bardzo dużą płetwę grzbietową. Ich skóra zabarwiona jest na czarno, brunatno lub ciemno-szaro, z jasniejszym obszarem, zwanym czasem siodłem, który umieszczony jest tuż za płetwą grzbietową. Druga jasna plama zwykle pojawia się w okolicach podbródka tych zwierząt. Piloty komunikują się za pomocą skomplikowanego systemu skrzeków, i prawdopodobnie mogą się identyfikować dzięki nieznacznym różnicom dźwięków. Do badania otoczenia wykorzystują echolokację.
+            <p/>Piloty pływają w głębinach, polując głównie na kalmary. Są bardzo towarzyskie, a ich stada liczą nawet kilkaset osobników. Każdy samiec prawdopodobnie parzy się z kilkoma samicami, które rodzą po jednym młodym. Pomimo iz po osiagnięciu wieku 35 lat samice już nie mogą wydawac na świat potomstwa, pomagają w wychowywaniu młodych innych samic przez kolejne lata swojego życia.
+            <p/>Grupy pilotów są częściej znajdywane wyrzucone na plażach niż wśród innych gatunków. Takie masowe "samobójstwa" są znane w Nowej Anglii i na wybrzeżu Nowej Zelandii. Nie wiadomo, czy te zachowania są powodowane błędami w nawigacji, chorobami, czy może innymi czynnikami, ale można wywnioskowac, że jeśli taki los spotka kilku członków danej grupy, inne podążają za nimi.
+            <p/>Stada pilotów podrużują w zwartych grupach, dlatego bardzo łatwo było na nie polować, zwłaszcza zaganiając je na płycizny i zmuszając do wynurzenia się na brzeg. W przeszłości często polowano na te walenie, obecnie połowy prowadzone są tylko w okolicach Grenlandii, Danii i Japonii. Populacje grindwali i pilotów w Atlantyku zostały bardzo przetrzebione.
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Informacje pochodzą z <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft&#xAE; Encarta&#xAE; 2006.</color></u></a> &#xA9; 1993&#x96;2005 Microsoft Corporation. Wszystkie prawa zastrzeżone.
+         </cell>         
+      </LOC_STRING>
+</ZT2Strings>

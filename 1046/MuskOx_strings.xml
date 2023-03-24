@@ -1,0 +1,170 @@
+<ZT2Strings>
+   <entityname>
+      <!--animal names-->
+      <MuskOx>Boi-almiscarado</MuskOx>
+      <MuskOx_stt>Boi-almiscarado</MuskOx_stt>
+      <MuskOx_lower>o boi-almiscarado</MuskOx_lower>
+      <MuskOx_ltt>
+         <color r="255" g="248" b="178">
+            <b>Boi-almiscarado</b>
+         </color>
+         <br/>
+         Clique para selecionar e posicionar um boi-almiscarado, bovídeo do ártico com crina longa.
+      </MuskOx_ltt>
+      <!--gift names-->
+      <MuskOx_Gift>Chapéu do boi-almiscarado</MuskOx_Gift>
+      <MuskOx_Gift_stt>Chapéu do boi-almiscarado</MuskOx_Gift_stt>
+      <MuskOx_Gift_lower>o chapéu do boi-almiscarado</MuskOx_Gift_lower>
+      <MuskOx_Gift_ltt>
+         <color r="255" g="248" b="178">
+            <b>Chapéu do boi-almiscarado</b>
+         </color>
+         <br/>Visitantes que gostem de observar o boi-almiscarado comprarão este presente.
+      </MuskOx_Gift_ltt>
+      <MuskOx_Gift_Adult>Chapéu do boi-almiscarado</MuskOx_Gift_Adult>
+      <MuskOx_Gift_Adult_stt>Chapéu do boi-almiscarado</MuskOx_Gift_Adult_stt>
+      <MuskOx_Gift_Adult_lower>o chapéu do boi-almiscarado</MuskOx_Gift_Adult_lower>
+      <MuskOx_Gift_Adult_ltt>
+         <color r="255" g="248" b="178">
+            <b>Chapéu do boi-almiscarado</b>
+         </color>
+         <br/>Visitantes que gostem de observar o boi-almiscarado comprarão este presente.
+      </MuskOx_Gift_Adult_ltt>
+      <!--foliage names-->
+      <DiamondLeafWillow_Tundra>Salgueiro-folha-de-diamante</DiamondLeafWillow_Tundra>
+      <DiamondLeafWillow_Tundra_stt>Salgueiro-folha-de-diamante</DiamondLeafWillow_Tundra_stt>
+      <DiamondLeafWillow_Tundra_lower>o salgueiro-folha-de-diamante</DiamondLeafWillow_Tundra_lower>
+      <DiamondLeafWillow_Tundra_ltt>
+         <color r="255" g="248" b="178">
+            <b>Salgueiro-folha-de-diamante</b>
+         </color>
+         <br/>Clique para selecionar e posicionar um salgueiro-folha-de-diamante, a comida favorita do boi-almiscarado.
+      </DiamondLeafWillow_Tundra_ltt>
+      <!--guest thoughts-->
+      <AnimalDefend>%2s está se defendendo de %1s!</AnimalDefend>
+      <!--animal actions-->
+      <DefendingAt>Defendendo-se de %s</DefendingAt>
+   </entityname>
+   <zoopedia_muskox>
+      <entry>Boi-almiscarado</entry>
+      <text>
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+                  <img src="entities/units/animals/MuskOx/MuskOx_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+               </cell>
+               <cell width="16">
+                  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+               </cell>
+               <cell width="16">
+                  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+               </cell>
+               <cell width="156"/>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Tundra<br/></color>
+                  <img src="ui/icon_biomes/icon_tundra.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+               </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Ártico<br/></color>
+                  <img src="ui/icon_maplocations/Tundra_Arctic.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284">
+                  <color r="255" g="255" b="255">Classe: Mamíferos <i>(Mammalia)</i><br/>Ordem: Artiodáctilos <i>(Artiodactyla)</i><br/>Família: Bovídeos <i>(Bovidae)</i><br/>Gênero: <i>Ovibos</i><br/>Espécie: <i>moschatus</i><br/>Status de preservação: <color r="255" g="204" b="51">Menor risco</color></color>
+               </cell>
+               <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/tundra_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+               </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Curiosidades sobre o boi-almiscarado</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Os olhos dos bois-almiscarados possuem uma glândula que solta um cheiro de almíscar quando são esfregados em galhos de árvores ou arbustos.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">O boi-almiscarado vive na Terra desde a Era Glacial, tendo sido contemporâneo dos mamutes.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">A camada interna da pele do boi-almiscarado, chamada de qiviut, é tão macia quanto a caxemira e é considerada a fibra mais quente do mundo.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Os esquimós chamam o boi-almiscarado de "oomingmak", que significa "O Barbudo".</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Os bois-almiscarados andam em grupos de 10 a 20 indivíduos e formam círculos em torno dos mais novos quando pressentem algum perigo.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Seus cascos estão preparados para quebrar o gelo em busca de água fresca.</color>
+               </cell>
+            </cell>
+         </cell>
+         <cell width="340">
+         <color r="255" g="248" b="178">Para desbloquear o boi-almiscarado em jogos de campanha ou desafio, você precisa ganhar uma avaliação de uma ou duas estrelas para seu zoológico.</color>
+         <p/>O boi-almiscarado é um ruminante marrom escuro de crina longa, parente dos bodes e dos carneiros. Vive no norte do Canadá e na Groelândia, tendo sido introduzido no Alaska e em outras regiões do norte. Um macho adulto mede cerca de 1,9 a 2,3 m (6,2 a 7,5 pés), sendo 1,2 a 1,5 m (3,9 a 5 pés) até as costas, e tem chifres longos e curvados para baixo, com extremidades afiadas e voltadas para cima. As fêmeas são muito menores. Ambos têm uma camada interna de pele densa e uma camada externa nos tornozelos para se protegerem do frio. O macho emite um cheiro forte de almíscar na época do cio; daí seu nome.
+         <p/>O boi-almiscarado se desloca em manadas de 10 a 100 indivíduos. Sua quantidade foi drasticamente reduzida e seu território foi limitado pelos homens, que o caçaram por causa de sua pele e de sua carne. No entanto, muitos esforços já foram feitos para conservar a espécie. Agora ela é protegida por lei no Canadá. Quando ameaçados, os adultos do bando formam um círculo voltado para fora em torno dos mais novos.
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Conteúdo original fornecido por cortesia da <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2004.</color></u></a>(C) 1993-2003 Microsoft Corporation. Todos os direitos reservados.
+         </cell>
+      </text>
+   </zoopedia_muskox>
+   <zoopedia_diamondleafwillow>
+      <entry>Salgueiro-folha-de-diamante</entry>
+      <text>
+         <color r="255" g="255" b="255">
+            <cell pady="0" width="1000"/>
+            <p/>
+            <cell width="260"/>
+            <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+               <cell width="150">
+                  <img src="entities/objects/foliage/DiamondLeafWillow/DiamondLeafWillow_Tundra_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128"/>
+               </cell>
+               <cell pady="15" width="400">
+               <p/>Salgueiro é o nome comum de uma pequena família de plantas floridas lenhosas e de certas árvores de seu gênero representativo. A família do salgueiro engloba 435 espécies de salgueiros e álamos (consulte Álamo), como os choupos e os choupos-do-canadá. Os membros dessa família costumam viver em hábitats úmidos e em planícies aluviais e margens de rios. São uma espécie que cresce rapidamente, geralmente precursora. Sua madeira é usada de várias formas, e suas folhas servem de alimento para os animais selvagens. Algumas espécies são ornamentais. A família contém dois gêneros: salgueiro e álamo. Ambos estão espalhados no hemisfério norte, mas existem algumas espécies no hemisfério sul. As quase 35 espécies de álamo são árvores, enquanto a maioria das quase 400 espécies de salgueiro são arbustos. Os salgueiros são particularmente abundantes e importantes na tundra ártica, onde são baixos e parecem formar um tapete. Também são encontrados acima do limite de vegetação arbórea nas montanhas.
+               <p/>Os salgueiros e os álamos produzem flores macho e fêmea em plantas separadas. As flores são muito simples, sem pétalas nem sépalas. Aparecem em cachos densos, chamados coroas, antes ou durante o crescimento de novas folhas na primavera. As coroas de álamos são pendentes e não produzem néctar; o vento é o agente de polinização. As coroas de salgueiros, ao contrário, são eretas e produzem néctar em abundância, com um cheiro que atrai insetos, especialmente abelhas e mariposas, que se encarregam da polinização. A polinização por insetos das flores muito simplificadas dos salgueiros é uma exceção à regra no reino vegetal, segundo a qual somente grupos de plantas com flores complexas e vistosas têm seu pólen distribuído por insetos. Contudo, no início da primavera, antes que a maioria das outras flores apareça, é com o néctar das coroas de salgueiros que os insetos contam como fonte de alimento.
+               <p/>Os frutos dos salgueiros e dos álamos são pequenas cápsulas com várias sementes, cada uma contendo filamentos parecidos com algodão que agem como pára-quedas, ajudando na dispersão pelo vento. Se as sementes caírem em solo fértil e úmido, germinarão dentro de um a dois dias. Embora a maioria dos salgueiros e álamos cresça rapidamente, alcançando a idade de florescimento em poucos anos, eles têm vida curta, alguns apenas 20 anos.
+               <p/>A importância econômica da família varia. Gravetos do vimeiro comum são cultivados para uso na cestaria, enquanto a madeira clara mas resistente a pancadas de outros salgueiros é usada na fabricação de membros artificiais, sapatos de madeira e tacos de críquete. A casca do salgueiro contém o composto ativo salicina, usado em muitos remédios populares. A aspirina é um derivado do ácido salicílico, que foi sintetizado inicialmente a partir de derivados da casca do salgueiro. Muitos membros da espécie, como o salgueiro chorão e o salgueiro dos amentos sedosos, são importantes para a horticultura.
+            </cell>
+            </cell>
+            <p/>
+         </color>
+      </text>
+   </zoopedia_diamondleafwillow>
+</ZT2Strings>

@@ -1,0 +1,33 @@
+<ZT2Strings>
+   <entityname>
+      <!--animal names-->
+      <StuffedPrey>Presa de pelúcia</StuffedPrey>
+      <StuffedPrey_stt>Presa de pelúcia</StuffedPrey_stt>
+      <StuffedPrey_lower>a presa de pelúcia</StuffedPrey_lower>
+      <StuffedPrey_ltt>
+         <color r="255" g="248" b="178">
+            <b>Presa de pelúcia</b>
+         </color>
+         <br/>
+         Clique para selecionar e posicionar a presa de pelúcia, um brinquedo para os predadores praticarem o ataque.
+      </StuffedPrey_ltt>
+   </entityname>
+   <zoopedia_stuffedprey>
+      <entry>Presa de pelúcia</entry>
+      <text>
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>
+                  <img src="entities\objects\enrichment\StuffedPrey\StuffedPrey_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>A presa de pelúcia é um boneco na forma de uma gazela feito de palha e montado em uma mola espiral grossa coberta por um tecido resistente.
+                  <p/>Os carnívoros gostam de praticar ataques mordendo ou  dando tapas na presa de pelúcia que balança ao ser atacada.
+               </color>
+            </cell>
+         </cell>
+      </text>
+   </zoopedia_stuffedprey>
+</ZT2Strings>

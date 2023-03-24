@@ -1,0 +1,185 @@
+﻿<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_transportation:entry">Transporte</LOC_STRING> <LOC_STRING _locID="zoopedia_transportation:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>
+O Zoo Tycoon 2: Endangered Species apresenta dois modos diferentes de transporte: veículos Jeep&#xAE; e teleféricos.
+                  <p/>
+Para ver informações sobre um item de transporte específico, clique na opção desejada na lista à esquerda.</color>
+            </cell>
+         </cell>
+      </LOC_STRING> <LOC_STRING _locID="zoopedia_groundstation:entry">Estação de Jeep&#xAE;</LOC_STRING> <LOC_STRING _locID="zoopedia_groundstation:text">
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255"><img src="entities\transportation\stations\GroundStation\GroundStation_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+A estação de Jeep&#xAE; é o local onde os visitantes entram e saem dos <a href="zoopedia:zoopedia_groundvehicle:entry"><u><color r="255" g="231" b="135">veículos Jeep.</color></u></a> Ela fica fechada até ser conectada a um circuito de <a href="zoopedia:zoopedia_groundtrack:entry"><u><color r="255" g="231" b="135">estradas</color></u></a> válido e fechado. Quando o circuito estiver concluído, a estação de Jeep será aberta e você poderá comprar veículos para ela.</color>
+    </cell>
+   </cell>
+  </LOC_STRING> <LOC_STRING _locID="zoopedia_skystation:entry">Estação de teleférico</LOC_STRING> <LOC_STRING _locID="zoopedia_skystation:text">
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255"><img src="entities\transportation\stations\SkyStation\SkyStation_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+A estação de teleférico é o local onde os visitantes entram e saem dos <a href="zoopedia:zoopedia_gondola:entry"><u><color r="255" g="231" b="135">bondinhos</color></u></a>. Ela fica fechada até ser conectada a um circuito válido e completo de cabos para teleférico. Quando o circuito estiver concluído, a estação de teleférico será aberta e você poderá comprar veículos para ela.
+      <p/>
+Para posicionar o cabo do teleférico, compre e posicione <a href="zoopedia:zoopedia_skytrampole:entry"><u><color r="255" g="231" b="135">postes para teleférico</color></u></a>.
+      <p/>
+Dica: para criar um circuito de duas estações no menor espaço possível, conecte a primeira estação à segunda e depois passe um cabo da segunda estação para a primeira. Os veículos farão a volta dentro do prédio da estação.</color>
+    </cell>
+   </cell>
+  </LOC_STRING> <LOC_STRING _locID="zoopedia_skytrampole:entry">Poste para teleférico</LOC_STRING> <LOC_STRING _locID="zoopedia_skytrampole:text">
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255"><img src="entities\transportation\track\skytower\skytower_icon.dds" sx="0" sy="0" sw="64" sh="64"/> <img src="entities\transportation\track\skytower\skytower_T_arm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+Os postes para teleférico são usados para posicionar o cabo do teleférico. Para conectar o cabo de um poste a uma <a href="zoopedia:zoopedia_skystation:entry"><u><color r="255" g="231" b="135">estação de teleférico,</color></u></a> primeiro selecione o poste no painel de compra de transporte. Clique no cursor no local desejado para criar o poste, depois clique na estação para conectar o cabo do poste à estação.
+		<p/>
+Um poste para teleférico comum possui um filamento de cabo, e o cabo se move em apenas uma direção. O poste em T para teleférico possui dois filamentos de cabo, cada um se deslocando em uma direção. Um poste em T pode ser conectado a estações e a outros postes em T, mas não a postes comuns.		
+     <p/>
+Dica: é possível ajustar a altura de um poste para teleférico. Coloque o cursor sobre a ponta de um poste para teleférico até que o cursor assuma a forma de mão, depois clique e mantenha pressionado. Agora arraste para cima e para baixo, para ajustar o poste até a altura desejada.</color>
+    </cell>
+   </cell>
+  </LOC_STRING> <LOC_STRING _locID="zoopedia_groundtrack:entry">Estrada</LOC_STRING> <LOC_STRING _locID="zoopedia_groundtrack:text">
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255"><img src="entities\transportation\track\ground\ground_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+As estradas são usadas para conectar as <a href="zoopedia:zoopedia_groundstation:entry"><u><color r="255" g="231" b="135">estações de Jeep&#xAE;</color></u></a> de modo que os <a href="zoopedia:zoopedia_groundvehicle:entry"><u><color r="255" g="231" b="135">veículos Jeep</color></u></a> possam viajar entre elas. Uma estrada deve formar um circuito válido e fechado para que as estações de Jeep possam ser abertas. Observe que as estradas no Zoo Tycoon 2: Endangered Species são de mão única!</color>
+    </cell>
+   </cell>
+  </LOC_STRING> <LOC_STRING _locID="zoopedia_crossinggate:entry">Cancela</LOC_STRING> <LOC_STRING _locID="zoopedia_crossinggate:text">
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255"><img src="entities\transportation\crossinggate\crossinggate_end\crossinggate_end_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+Coloque uma cancela no ponto onde uma trilha cruza uma estrada, a fim de evitar que os pedestres entrem na estrada quando um Jeep&#xAE; está se aproximando. A cancela abaixa antes que o veículo chegue e levanta depois que ele tiver passado.</color>
+    </cell>
+   </cell>
+  </LOC_STRING> <LOC_STRING _locID="zoopedia_elevatedpath:entry">Trilhas elevadas</LOC_STRING> <LOC_STRING _locID="zoopedia_elevatedpath:text">
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255"><img src="entities\objects\paths\elevatedpaths\ElevatedPath_Stone_end\ElevatedPath_Stone_end_icon.dds" sx="0" sy="0" sw="64" sh="64"/> <img src="entities\objects\paths\elevatedpaths\ElevatedPath_Wood_end\ElevatedPath_Wood_end_icon.dds" sx="0" sy="0" sw="64" sh="64"/>      
+      <p/>
+As trilhas elevadas podem ser usadas para conectar locais de difícil acesso ou oferecer aos visitantes uma visão melhor do zoológico. Use rampas para conectar as trilhas elevadas ao chão ou a outras trilhas elevadas. Construções e outros objetos podem ser colocados no topo de trilhas elevadas planas.
+      <p/>
+Os suportes para trilhas são colocados automaticamente durante a construção das trilhas elevadas, mas podem ser retirados se você quiser.</color>
+    </cell>
+   </cell>
+  </LOC_STRING> <LOC_STRING _locID="zoopedia_elevatedpathrailing:entry">Grade para trilhas elevadas</LOC_STRING> <LOC_STRING _locID="zoopedia_elevatedpathrailing:text">
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255"><img src="entities\objects\paths\elevatedpaths\ElevatedPath_Stone_end\Curb_Stone_end_icon.dds" sx="0" sy="0" sw="64" sh="64"/> <img src="entities\objects\paths\elevatedpaths\ElevatedPath_Stone_end\Curb_Stone_high_end_icon.dds" sx="0" sy="0" sw="64" sh="64"/> <img src="entities\objects\paths\elevatedpaths\ElevatedPath_Wood_end\Curb_Wood_end_icon.dds" sx="0" sy="0" sw="64" sh="64"/> <img src="entities\objects\paths\elevatedpaths\ElevatedPath_Wood_end\Curb_Wood_high_end_icon.dds" sx="0" sy="0" sw="64" sh="64"/>      
+      <p/>
+As grades acrescentam um elemento decorativo às trilhas elevadas, além de impedir que as pessoas caiam. Você pode substituir as grades da sua trilha elevada por outras com aparência diferente.</color>
+    </cell>
+   </cell>
+  </LOC_STRING> <LOC_STRING _locID="zoopedia_groundvehicle:entry">Veículos Jeep&#xAE;</LOC_STRING> <LOC_STRING _locID="zoopedia_groundvehicle:text">
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255"><img src="entities\transportation\vehicles\Jeep_Wrangler\Jeep_Wrangler_icon.dds" sx="0" sy="0" sw="64" sh="64"/> <img src="entities\transportation\vehicles\Jeep_Commander\Jeep_Commander_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+Os veículos Jeep&#xAE; transportam visitantes entre as <a href="zoopedia:zoopedia_groundstation:entry"><u><color r="255" g="231" b="135">estações de Jeep.</color></u></a> O Jeep Wrangler pode levar três visitantes, enquanto o Jeep Commander pode levar seis.</color>
+    </cell>
+   </cell>
+  </LOC_STRING> <LOC_STRING _locID="zoopedia_groundvehicleupgrade:entry">Veículos Jeep&#xAE; decorados</LOC_STRING> <LOC_STRING _locID="zoopedia_groundvehicleupgrade:text">
+    <cell pady="0" width="1000"/>
+    <p/>
+    <cell width="260"/>
+    <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+     <cell width="600" padx="20" pady="20">
+      <color r="255" g="255" b="255"><img src="entities\transportation\vehicles\Jeep_Wrangler\Jeep_Wrangler_Upgraded_icon.dds" sx="0" sy="0" sw="64" sh="64"/> <img src="entities\transportation\vehicles\Jeep_Commander\Jeep_Commander_Upgraded_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+       <p/>
+Os veículos Jeep&#xAE; transportam visitantes entre as <a href="zoopedia:zoopedia_groundstation:entry"><u><color r="255" g="231" b="135">estações de Jeep.</color></u></a> O Jeep Wrangler pode levar três visitantes, enquanto o Jeep Commander pode levar seis. 
+<p/>
+Os Jeeps decorados apresentam designs decorativos. Para recebê-los, é preciso ganhar o Prêmio de Nível Dois para o Tour do Tycoon.</color>
+     </cell>
+    </cell>
+   </LOC_STRING> <LOC_STRING _locID="zoopedia_gondola:entry">Bondinhos</LOC_STRING> <LOC_STRING _locID="zoopedia_gondola:text">
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255"><img src="entities\transportation\vehicles\gondola\Gondola_1Seat_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/> <img src="entities\transportation\vehicles\gondola\Gondola_2Seats_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/> <img src="entities\transportation\vehicles\gondola\Gondola_4Seats_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>      
+      <p/>
+Os bondinhos transportam os visitantes entre as <a href="zoopedia:zoopedia_skystation:entry"><u><color r="255" g="231" b="135">estações de teleférico</color></u></a>. Os diferentes tipos de bondinhos podem carregar números diferentes de visitantes.</color>
+    </cell>
+   </cell>
+  </LOC_STRING> <LOC_STRING _locID="zoopedia_gondolaupgrade:entry">Bondinhos modernos</LOC_STRING> <LOC_STRING _locID="zoopedia_gondolaupgrade:text">
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255"><img src="entities\transportation\vehicles\gondola\Gondola_1Seat_icon.dds" sx="0" sy="0" sw="64" sh="64"/> <img src="entities\transportation\vehicles\gondola\Gondola_2Seats_icon.dds" sx="0" sy="0" sw="64" sh="64"/> <img src="entities\transportation\vehicles\gondola\Gondola_4Seats_icon.dds" sx="0" sy="0" sw="64" sh="64"/>      
+      <p/>
+Os bondinhos transportam os visitantes entre as <a href="zoopedia:zoopedia_skystation:entry"><u><color r="255" g="231" b="135">estações de teleférico</color></u></a>. Os diferentes tipos de bondinhos podem carregar números diferentes de visitantes. 
+		<p/>
+Os bondinhos modernos apresentam designs decorativos. Para recebê-los, é preciso ganhar o Prêmio de Nível Três para o Transporte do Tycoon.</color>
+    </cell>
+   </cell>
+  </LOC_STRING> <LOC_STRING _locID="zoopedia_sixseater:entry">Seis lugares</LOC_STRING> <LOC_STRING _locID="zoopedia_sixseater:text">
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255"><img src="entities\transportation\vehicles\Jeep_Commander\Jeep_Commander_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+      [ADDSTUFF]</color>
+    </cell>
+   </cell>
+  </LOC_STRING> <LOC_STRING _locID="zoopedia_suv:entry">Oito lugares</LOC_STRING> <LOC_STRING _locID="zoopedia_suv:text">
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255"><img src="entities\transportation\stations\SkyStation\SkyStation_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+      [ADDSTUFF]</color>
+    </cell>
+   </cell>
+  </LOC_STRING> <LOC_STRING _locID="zoopedia_truck:entry">Seis lugares</LOC_STRING> <LOC_STRING _locID="zoopedia_truck:text">
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255"><img src="entities\transportation\stations\SkyStation\SkyStation_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+      [ADDSTUFF]</color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+ 
+</ZT2Strings>

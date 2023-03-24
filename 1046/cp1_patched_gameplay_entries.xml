@@ -1,0 +1,53 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_rewardobjects" version="2"/>
+      <LOC_STRING _locID="zoopedia_rewardobjects:entry" version="2">Objetos de prêmio</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_rewardobjects:text" version="2">
+         <color r="255" g="255" b="255">
+            <cell pady="0" width="1000"/>
+            <p/>
+            <cell width="260"/>
+            <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+               <cell width="600" padx="20" pady="20">
+Você ganha objetos de prêmio conquistando <a href="zoopedia:zoopedia_awards:entry"><u><color r="255" g="231" b="135">prêmios,</color></u></a> jogando <a href="zoopedia:zoopedia_challenge:entry"><u><color r="255" g="231" b="135">em modo desafio</color></u></a>ou concluindo <a href="zoopedia:zoopedia_campaign:entry"><u><color r="255" g="231" b="135">campanhas.</color></u></a>
+<p/>
+A tela Prêmios do zoológico exibe todos os objetos de prêmio que você pode ganhar. Para abrir essa tela, clique no botão Exibir reputação do zoológico e selecione a guia Prêmios do zoológico.
+               </cell>
+            </cell>
+         </color>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_layingdownroads" version="2"/>
+      <LOC_STRING _locID="zoopedia_layingdownroads:entry" version="2">Construindo estradas</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_layingdownroads:text" version="2">
+         <color r="255" g="255" b="255">
+            <cell pady="0" width="1000"/>
+            <p/>
+            <cell width="260"/>
+            <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+               <cell width="600" padx="20" pady="20">
+Para usar veículos Jeep®, você precisa ter uma ou mais estações de Jeep conectadas a um circuito de estradas completo. Quando o circuito estiver concluído, a estação de Jeep será aberta e você poderá comprar veículos. Coloque trilhas que levem à entrada da estação para que os visitantes possam entrar e sair.
+<p/>
+Observe que todas as estradas são de mão única (você pode inverter o sentido em uma estação de Jeep). Para criar um circuito válido, evite becos sem saída e interrupções na estrada.
+               </cell>
+            </cell>
+         </color>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_tours" version="2"/>
+      <LOC_STRING _locID="zoopedia_tours:entry" version="2">Tours</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_tours:text" version="2">
+         <color r="255" g="255" b="255">
+            <cell pady="0" width="1000"/>
+            <p/>
+            <cell width="260"/>
+            <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+               <cell width="600" padx="20" pady="20">
+Os visitantes adoram um tour emocionante. Quanto mais eles gostarem do passeio, melhor será a avaliação que farão sobre o circuito de transporte. E quanto melhor for a avaliação, mais generosas serão as doações!
+     <p/>
+Durante o tour, os visitantes gostam de ver principalmente os animais, seus abrigos, as rochas e a folhagem típicas do bioma, além de prédios, chafarizes, arcos, canteiros de flores e objetos de tour temáticos (se disponíveis).
+     <p/>
+Os visitantes gostam de variedade no tour e podem ficar entediados se virem cenários repetidos durante o passeio.                           
+               </cell>
+            </cell>
+         </color>
+      </LOC_STRING>  
+   
+</ZT2Strings>

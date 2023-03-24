@@ -1,0 +1,59 @@
+﻿<ZT2Strings>
+      <LOC_STRING _locID="ZTPhotoMode" version="0"/>
+      <LOC_STRING _locID="ZTPhotoMode:NumPicsFormat">%02d / %02d</LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:photo_challenge_mode_label">
+         <font name="arial" size="16" image="ui\font\color_mainmenu.tga" shadowx="-1" shadowy="1" shadowa="64">
+            <color r="255" g="248" b="178">
+               <b>Fotowyzwanie</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:CameraNotFullFormat">
+         <font name="arial" size="12" shadowx="1" shadowy="1" shadowa="64">
+            <color r="0" g="255" b="0">
+               <b>%text%</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:CameraFullFormat">
+         <font name="arial" size="12" shadowx="1" shadowy="1" shadowa="64">
+            <color r="255" g="8" b="8">
+               <b>%text%</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:go_to_cursor_mode">
+         <font name="arial" size="12" shadowx="0" shadowy="0" shadowa="60">
+            <color r="255" g="255" b="255" a="100">
+               <b>Kliknij prawym przyciskiem myszy, aby wł./wył. kursor.</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:go_to_photo_mode">
+         <font name="arial" size="12" shadowx="0" shadowy="0" shadowa="60">
+            <color r="255" g="255" b="255" a="100">
+               <b>Kliknij prawym przyciskiem myszy, aby wejść w tryb foto.</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:ScoreLabel">Punkty:</LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:Challenge2stt">Zrób zdjęcie słonia skubiącego trawę.</LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:Challenge3stt">Zrób zdjęcie idącemu słoniowi.</LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:Challenge2Completestt">Wyzwanie ukończone (zdjęcie słonia skubiącego trawę).</LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:Challenge3Completestt">Wyzwanie ukończone (zdjęcie idącego słonia).</LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:challengeset_tiger_difficulty1">Tygrysie wyzwanie (poziom trudności: 1)</LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:challenge_tiger_eating_stt">Zrób zdjęcie jedzącego tygrysa.</LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:challenge_tiger_eating_cstt">Wyzwanie ukończone (zdjęcie jedzącego tygrysa).</LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:challenge_tiger_walking_stt">Zrób zdjęcie idącemu tygrysowi.</LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:challenge_tiger_walking_cstt">Wyzwanie ukończone (zdjęcie idącego tygrysa).</LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:challenge_hungry_tiger_stt">Zrób zdjęcie głodnego tygrysa.</LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:challenge_hungry_tiger_cstt">Wyzwanie ukończone (zdjęcie głodnego tygrysa).</LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:challenge_mother_and_young_tiger_stt">Zrób zdjęcie matki tygrysa z młodym.</LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:challenge_mother_and_young_tiger_cstt">Wyzwanie ukończone (zdjęcie matki tygrysa z młodym).</LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:challenge_tiger_and_gorilla_stt">Zrób zdjęcie tygrysa obok goryla.</LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:challenge_tiger_and_gorilla_cstt">Wyzwanie ukończone (zdjęcie tygrysa obok goryla).</LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:UndoneChallengeltt">Aby ukończyć fotowyzwanie, musisz wykonać zdjęcie, które spełni listę wymagań.</LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:SubmitPhotosstt">Wyślij zdjęcia do fotowyzwania.</LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:default_album_name">Mój album</LOC_STRING>
+      <LOC_STRING _locID="ZTPhotoMode:default_photo_caption">Tajemniczy obiekt</LOC_STRING>
+</ZT2Strings>

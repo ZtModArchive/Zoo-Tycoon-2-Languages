@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ZT2Strings>
+	<LOC_STRING _locID="zoopedia_animalcarcass:entry">Sztuczna padlina</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_animalcarcass:text">
+		<cell pady="0" width="1000"/>
+		<p/>
+		<cell width="260"/>
+		<cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+			<cell width="600" padx="20" pady="20">
+				<color r="255" g="255" b="255">
+					<img src="entities/objects/food/Carcass/Carcass_Meat_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+					<img src="entities/objects/food/Carcass/Carcass_Fish_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+					<p/>Martwe ciała zwierząt są często pokarmem dla padlinożerców, dla których potrzeba dostania się do bardziej smakowitych części jest mile widzianym wyzwaniem.<p/>Sztucznie tworzona padlina jest używana jako “pojemniki”, służące do karmienia padlinożerców kawałkami ryb i mięsa. Goście bardzo lubią przyglądać się karmieniu zwierząt z takich pojemników.</color>
+			</cell>
+		</cell>
+	</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_browseholder:entry">Karmnik</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_browseholder:text">
+		<cell pady="0" width="1000"/>
+		<p/>
+		<cell width="260"/>
+		<cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+			<cell width="600" padx="20" pady="20">
+				<color r="255" g="255" b="255">
+					<img src="entities/objects/food/BrowseHolder/BrowseHolder_Branches_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+					<img src="entities/objects/food/BrowseHolder/BrowseHolder_Grass_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+					<img src="entities/objects/food/BrowseHolder/BrowseHolder_Hay_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+					<p/>Karmniki mają wysokość 2,5 do 3 metrów. U góry znajduje się pojemnik przeznaczony do przechowywania trawy, siana i dużych, liściastych gałęzi, dzięki czemu  <a href="zoopedia:zoopedia_giraffe:entry">
+						<u>
+							<color r="255" g="231" b="135">żyrafy</color>
+						</u>
+					</a> i inne wysokie zwierzęta mogą spożywać pokarm w swojej naturalnej pozycji.</color>
+			</cell>
+		</cell>
+	</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_elevateddish:entry">Podniesiony pojemnik z jedzeniem</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_elevateddish:text">
+		<cell pady="0" width="1000"/>
+		<p/>
+		<cell width="260"/>
+		<cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+			<cell width="600" padx="20" pady="20">
+				<color r="255" g="255" b="255">
+					<img src="entities/objects/food/ElevatedDish/ElevatedDish_Branches_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+					<img src="entities/objects/food/ElevatedDish/ElevatedDish_Grass_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+					<img src="entities/objects/food/ElevatedDish/ElevatedDish_Hay_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+					<img src="entities/objects/food/ElevatedDish/ElevatedDish_Lettuce_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+					<img src="entities/objects/food/ElevatedDish/ElevatedDish_Water_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+					<p/>Dzięki podniesionym pojemnikom wysokie zwierzęta, takie jak żyrafy, mogą łatwiej sięgać po pożywienie. Zwierzęta jedzą na stojąco i lepiej trawią.</color>
+			</cell>
+		</cell>
+	</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_fooddish:entry">Pojemnik z jedzeniem</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_fooddish:text">
+		<cell pady="0" width="1000"/>
+		<p/>
+		<cell width="260"/>
+		<cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+			<cell width="600" padx="20" pady="20">
+				<color r="255" g="255" b="255">
+					<img src="entities/objects/food/FoodDish/FoodDish_Bamboo_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+					<img src="entities/objects/food/FoodDish/FoodDish_Bananas_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+					<img src="entities/objects/food/FoodDish/FoodDish_Branches_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+					<img src="entities/objects/food/FoodDish/FoodDish_Fish_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+					<img src="entities/objects/food/FoodDish/FoodDish_Grass_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+					<img src="entities/objects/food/FoodDish/FoodDish_Hay_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+					<img src="entities/objects/food/FoodDish/FoodDish_Lettuce_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+					<img src="entities/objects/food/FoodDish/FoodDish_Meat_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+					<img src="entities/objects/food/FoodDish/FoodDish_Shrimp_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+					<img src="entities/objects/food/FoodDish/FoodDish_Water_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+					<p/>Pojemniki z jedzeniem mogą zawierać paszę i wodę dla wszystkich rodzajów zwierząt. Mieści się w nich jednak mniej jedzenia niż w korytach i muszą być częściej napełniane.</color>
+			</cell>
+		</cell>
+	</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_metaltrough:entry">Metalowe koryto</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_metaltrough:text">
+		<cell pady="0" width="1000"/>
+		<p/>
+		<cell width="260"/>
+		<cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+			<cell width="600" padx="20" pady="20">
+				<color r="255" g="255" b="255">
+					<img src="entities/objects/food/MetalTrough/MetalTrough_Fish_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+					<img src="entities/objects/food/MetalTrough/MetalTrough_Meat_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+					<img src="entities/objects/food/MetalTrough/MetalTrough_Shrimp_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+					<img src="entities/objects/food/MetalTrough/MetalTrough_Water_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+					<p/>Metalowe koryta mogą zawierać paszę i wodę dla wszystkich rodzajów zwierząt. Mieści się w nich więcej jedzenia niż w zwykłych pojemnikach, więc nie trzeba ich zbyt często napełniać.</color>
+			</cell>
+		</cell>
+	</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_trough:entry">Koryto</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_trough:text">
+		<cell pady="0" width="1000"/>
+		<p/>
+		<cell width="260"/>
+		<cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+			<cell width="600" padx="20" pady="20">
+				<color r="255" g="255" b="255">
+					<img src="entities/objects/food/Trough/Trough_Bamboo_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+					<img src="entities/objects/food/Trough/Trough_Bananas_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+					<img src="entities/objects/food/Trough/Trough_Grass_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+					<img src="entities/objects/food/Trough/Trough_Hay_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+					<img src="entities/objects/food/Trough/Trough_Lettuce_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+					<img src="entities/objects/food/Trough/Trough_Water_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+					<img src="entities/objects/food/Trough/Trough_branches_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+					<p/>Koryta mogą zawierać paszę i wodę dla wszystkich rodzajów zwierząt. Mieści się w nich więcej jedzenia niż w zwykłych pojemnikach, więc nie trzeba ich zbyt często napełniać.</color>
+			</cell>
+		</cell>
+	</LOC_STRING>
+</ZT2Strings>

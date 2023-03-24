@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<ZT2Strings>
+	<LOC_STRING _locID="zoopedia_biomedef" version="2" />
+	<LOC_STRING _locID="zoopedia_biomedef:entry" version="2"  >Biom, definicja</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_biomedef:text" version="2"  >
+         <color r="255" g="255" b="255">
+            <cell pady="0" width="1000"/>
+            <p/>
+            <cell width="260"/>
+            <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+               <cell width="600" padx="20" pady="20">
+               Biomy, zwane również strefami życia, określone są przez wszystkie rośliny, zwierzęta i inne organizmy, jak również przez środowisko występujące na danym obszarze. Biom jest opisany przez życie roślinne, które zależy od warunków klimatycznych i położenia geograficznego. Na przykład północny las iglasty rośnie w strefach subarktycznych Ameryki Północnej i Azji, ale dalej na północ warunki są zbyt trudne, a pory roku za krótkie, więc występuje tam niska roślinność tundrowa. Ten sam fenomen obserwuje się na terenach wysokogórskich, gdzie drzewa ustępują niskiej roślinności górskiej.
+                  <br/>
+                  <br/>Biom składa się z wielu ekosystemów - małych skupisk roślin i zwierząt oraz ich siedlisk (fizyczne elementy środowiska). O ile biomy określane są przez klimat, o tyle ekosystemy mają materialne ograniczenia, takie jak grzbiety górskie lub koryta rzek, które oddzielają jedno skupisko od drugiego. Ekosystemy danego biomu posiadają zazwyczaj te same formy roślin i zwierzęta o podobnych zwyczajach żywieniowych.
+                  <p/>Główne biomy ziemi to górski, 
+                  <a href="zoopedia:zoopedia_tropicalrainforest:entry">
+                     <u>
+                        <color r="255" g="231" b="135">las deszczowy</color>
+                     </u>
+                  </a>, las iglasty, las liściasty, tundra, pustynia, step,
+                  <a href="zoopedia:zoopedia_savannah:entry">
+                     <u>
+                        <color r="255" g="231" b="135">sawanna</color>
+                     </u>
+                  </a>     
+         , zarośla i tereny podmokłe. Termin "biom", choć niekoniecznie powiązany ze środowiskiem wodnym, jest czasami używany przez ekologów do opisywania życia wodnego np. w płytkich strefach nadmorskich, strefie pelagialnej na otwartym morzu i strefie bentosu na dnie oceanu.
+
+                  <p/>
+                  <p/>Materiały udostępnione dzięki uprzejmości 
+
+                  <a href="zoopedia:zoopedia_encarta:entry">
+                     <u>
+                        <color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2004.</color>
+                     </u>
+                  </a> 
+                    (C) 1993-2003 Microsoft Corporation. Wszystkie prawa zastrzeżone.
+               </cell>
+            </cell>
+         </color>
+      </LOC_STRING>
+</ZT2Strings>

@@ -1,0 +1,198 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<ZT2Strings>
+	<LOC_STRING _locID="mainmenu" version="9" />
+	<LOC_STRING _locID="mainmenu:legalcopy1" version="9"  >
+         <font name="arial" size="10" shadowx="0" shadowy="0">
+            <b>© &amp; (p) 2007 Microsoft Corporation. Wszelkie prawa zastrzeżone.</b>
+         </font>
+      </LOC_STRING>
+	<LOC_STRING _locID="mainmenu:legalcopy2" version="9"  >
+         <font name="arial" size="10" shadowx="0" shadowy="0">
+            <b>Wyprodukowane przez Blue Fang Games dla Microsoft Corporation.</b>
+         </font>
+      </LOC_STRING>
+	<LOC_STRING _locID="mainmenu:legalcopy3" version="9"  >
+         <font name="arial" size="10" shadowx="0" shadowy="0">
+            <b>Ten program jest chroniony amerykańskimi i międzynarodowymi prawami</b>
+         </font>
+      </LOC_STRING>
+	<LOC_STRING _locID="mainmenu:legalcopy4" version="9"  >
+         <font name="arial" size="10" shadowx="0" shadowy="0">
+            <b>autorskimi, tak jak opisano to w sekcji Pomoc/O programie.</b>
+         </font>
+      </LOC_STRING>
+	<LOC_STRING _locID="mainmenu:cp2_installed_stt" version="9"  >Zainstalowano Wymarłe gatunki</LOC_STRING>
+	<LOC_STRING _locID="mainmenu:cp2_installed_ltt" version="9"  >
+         <color r="255" g="248" b="178">
+            <b>Zainstalowano Wymarłe gatunki</b>
+         </color>
+         <br>Dodatek Wymarłe gatunki jest zainstalowany. </br>
+      </LOC_STRING>
+	<LOC_STRING _locID="mainmenu:tutorial_intro_text_extinct" version="9"  >
+         <font name="arial" size="20" image="ui\font\color_mainmenu.tga">
+            <color r="255" g="197" b="78">
+               <b>Czy chciałbyś się dowiedzieć, jak grać w Zoo Tycoon 2: Wymarłe gatunki?</b>
+            </color>
+         </font>
+      </LOC_STRING>
+	<LOC_STRING _locID="fptranqdisplay:tranqscreen_format1"  >
+         <font name="arial" size="9">
+            <color r="92" g="255" b="64">
+               <b>%tekst%</b>
+            </color>
+         </font>
+      </LOC_STRING>
+	<LOC_STRING _locID="fptranqdisplay:tranqscreen_format2"  >
+         <font name="arial" size="9">
+            <color r="255" g="92" b="64">
+               <b>%tekst%</b>
+            </color>
+         </font>
+      </LOC_STRING>
+	<LOC_STRING _locID="fptranqdisplay:tranqtarget_label_message"  >
+      Cel:
+      </LOC_STRING>
+	<LOC_STRING _locID="fptranqdisplay:tranqscreen_format3"  >
+         <font name="arial" size="12">
+            <color r="210" g="50" b="0">
+               <b>%tekst%</b>
+            </color>
+         </font>
+      </LOC_STRING>
+	<LOC_STRING _locID="fptranqdisplay:tranqdistance_label_message"  >
+      Metrów do celu: 
+      </LOC_STRING>
+	<LOC_STRING _locID="fptranqdisplay:tranqdistance_outofrange_message"  >
+      CEL JEST POZA ZASIĘGIEM! 
+      </LOC_STRING>
+	<LOC_STRING _locID="cloningfeedback:animal_format"  >
+          <font name="arial" size="12">
+            <color r="92" g="255" b="64">
+               <b>%tekst%</b>
+            </color>
+         </font>
+      </LOC_STRING>
+	<LOC_STRING _locID="cloningfeedback:initial_message"  >
+      Kliknij ekran Laboratorium lub wciśnij SPACJĘ, by rozpocząć.
+      </LOC_STRING>
+	<LOC_STRING _locID="cloningfeedback:which_animal_success"  >
+      Dobra robota! To: %s! Superzwierzęta są większe, zdrowsze i żyją dłużej niż zwyczajne zwierzęta.
+      </LOC_STRING>
+	<LOC_STRING _locID="cloningfeedback:which_animal_normal"  >
+      Świetnie! To: %s!
+      </LOC_STRING>
+	<LOC_STRING _locID="cloningfeedback:which_animal_failure"  >
+    Ups, twoja próba się nie powiodła! Próbuj dalej, następnym razem na pewno otrzymasz lepsze zwierzę!
+      </LOC_STRING>
+	<LOC_STRING _locID="cloningfeedback:missing_animal_failure"  >
+      Ojej! Nie odblokowałeś jeszcze żadnych wymarłych gatunków! Na początek spróbuj odnaleźć trochę skamielin.
+      </LOC_STRING>
+	<LOC_STRING _locID="cloningfeedback:no_animal_failure"  >
+      Co się stało? Wciśnij SPACJĘ, by spróbować jeszcze raz lub wciśnij ESC, by opuścić Laboratorium. Kliknij przycisk ? znajdujący się z lewej strony, jeśli potrzebujesz dalszej pomocy.
+      </LOC_STRING>
+	<LOC_STRING _locID="cloningfeedback:no_clicks_failure"  >
+      Zapamiętaj - wciśnij przycisk myszki lub kliknij strzałkę na klawiaturze, kiedy linia skanu dojdzie do ikon na ekranie.
+      </LOC_STRING>
+	<LOC_STRING _locID="puzzlefeedback:animal_format"  >
+          <font name="arial" size="12">
+            <color r="200" g="192" b="168">
+               <b>%tekst%</b>
+            </color>
+         </font>
+      </LOC_STRING>
+	<LOC_STRING _locID="fpfossildisplay:piece_found"  >Odkryłeś skamieniały kawałek. To %1s! (%2s)</LOC_STRING>
+	<LOC_STRING _locID="fpfossildisplay:puzzle_ready"  >Możesz teraz zbudować tę skamielinę (%s) w Laboratorium!</LOC_STRING>
+	<LOC_STRING _locID="fpfossildisplay:placeable_object_found"  >Odnalazłeś: %s.</LOC_STRING>
+	<LOC_STRING _locID="fpfossildisplay:nonplaceable_object_found"  >Otrzymałeś %2m za znalezienie: %1s.</LOC_STRING>
+	<LOC_STRING _locID="fpfossildisplay:next_level_unlocked"  >Twój wykrywacz skamielin został ulepszony. Będziesz mógł teraz odszukać więcej skamielin!</LOC_STRING>
+	<LOC_STRING _locID="fpfossildisplay:next_level_unavailable"  >Popraw status swojego zoo, by ulepszyć twoje urządzenie do wykrywania skamielin!</LOC_STRING>
+	<LOC_STRING _locID="minigameHelp:minigameHelp_format"  >
+         <font name="arial" size="9" shadowx="1" shadowy="1">
+            <color r="250" g="250" b="200">
+               <b>%tekst%</b>
+            </color>
+         </font>
+      </LOC_STRING>
+	<LOC_STRING _locID="minigameHelp:minigameHelp_FossilFinding"  >
+      <u>Sterowanie:</u>
+      <br/>
+      Poruszanie się: Strzałki (Przytrzymaj SHIFT, by biegać)
+      <br/>
+      Odwracanie/Rozglądanie się: Ruchy myszką
+      <br/>
+      Kopanie na terenach ze skamielinami: SPACJA
+      <p/>
+      Witaj w poszukiwaniach skamielin! W tym trybie rozgrywki możesz przemierzać zoo ze swoim ręcznym Wykrywaczem w poszukiwaniu ukrytych skamielin.  
+      <p/>
+      Pionowy słupek pośrodku twojego Wykrywacza skamielin informuje cię o zbliżaniu się do podziemnego obiektu. Gdy podejdziesz naprawdę blisko, automatycznie pojawi się znacznik terenu wykopalisk. Wciśnij SPACJĘ, by kopać na tym terenie lub opuść go i kontynuuj poszukiwania w innym miejscu.   
+      <p/>
+      Wszystkie skamieliny, które zbierzesz, zostaną umieszone w Laboratorium. Gdy zbierzesz wystarczającą liczbę kawałków, by złożyć kompletną skamielinę, udaj się do Laboratorium, wybierz zakładkę Składanie skamielin i rozpocznij grę w Składanie skamielin! 
+      </LOC_STRING>
+	<LOC_STRING _locID="minigameHelp:minigameHelp_FossilBuilding"  >
+      <u>Sterowanie:</u>
+      <br/>
+      Przemieszczanie kawałków: Kliknij i przeciągnij kawałek.
+      <br/>
+      Obracanie kawałków: &lt; i &gt; 
+      <br/>
+      Rozpocznij układankę od nowa: Ctrl-R
+      <br/>
+      UWAGA: Kawałki muszą znajdować się w obrębie zarysu szkieletu, by zablokować je w miejscu.      
+      <p/>
+      Witaj w pokoju składania skamielin Laboratorium.  
+      <p/>
+      Musisz poprawnie ułożyć kawałki, które znalazłeś, by złożyć kompletny skamieniały szkielet. Kliknij i przeciągnij kawałki, by je przemieścić. Gdy kawałek jest umieszczony prawidłowo, zmienia kolor w momencie zwolnienia lewego przycisku myszki. By ci pomóc, jeden kawałek - kawałek bazowy - jest umieszczony na właściwym miejscu, gdy zaczynasz.    
+      <p/>
+      Jeśli chcesz rozpocząć układanie od nowa, wciśnij Ctrl-R. Otrzymasz nowy kawałek początkowy, ale wszystkie pozostałe kawałki trzeba będzie ułożyć od nowa, więc uważaj!
+      </LOC_STRING>
+	<LOC_STRING _locID="minigameHelp:minigameHelp_Cloning"  >
+      <u>Sterowanie:</u>
+      <br/>
+      Rozpoczęcie gry: SPACJA
+      <br/>
+      By grać: Wciśnij odpowiednią strzałkę lub kliknij przycisk myszki, gdy linia skanu przekroczy ikonę. 
+      <p/>
+      Przy zwierzętach z większą liczbą gwiazdek mogą się pojawić ikony ? i zakryć symbole, które musisz wcisnąć. Zapamiętaj wzór, gdy się pojawi, a następnie wciśnij odpowiedni klawisz, gdy linia skanu go przekroczy albo nie osiągniesz doskonałego wyniku!
+      <p/>
+      Witaj w pokoju odtwarzania zwierząt Laboratorium badań nad wymarłymi gatunkami! Jeśli odnalazłeś skamieniałe części zwierzęcia i złożysz je w całość, możesz odtworzyć to zwierzę tu, w Laboratorium! Wybierając zwierzę do odtworzenia, uruchomiłeś tworzącą zwierzęta grę w parowanie wzorów!   
+      <p/>
+      Wciśnięcie SPACJI lub kliknięcie na ekranie komputera rozpoczyna proces. Musisz dopasowywać wzory ikon z ekranu komputera w momencie, gdy linia skanu przebiega nad nimi. 
+      <p/>
+      Jeśli wykonasz doskonałą robotę, stworzysz superwersję zwierzęcia. Te są najszczęśliwszymi, najzdrowszymi i najsilniejszymi ze zwierząt i najbardziej podobają się gościom. Wykonaj zadanie poprawnie, a otrzymasz zwyczajną wersję zwierzęcia.  Niepowodzenie może skutkować otrzymaniem... czegoś z zupełnie innej beczki. 
+      </LOC_STRING>
+	<LOC_STRING _locID="minigameHelp:minigameHelp_DiseaseResearch"  >
+      <u>Sterowanie:</u>
+      <br/>
+      Poruszanie się: Strzałki (Przytrzymaj SHIFT, by biegać)
+      <br/>
+      Pobierz próbkę: SPACJA
+      <p/>
+      Witaj w trybie leczenia chorób. Jeśli twoje zwierzęta złapią jakąś chorobę, możesz przeprowadzić badania, by odnaleźć lekarstwo.  
+      <p/>
+      W tym trybie przemierzasz zoo i używasz SPACJI, by zebrać próbki potencjalnych składników leków. Najpierw musisz pobrać małą próbkę od jednego z twoich chorych zwierząt.  
+      <p/>
+      Gdy twój zespół badawczy przeanalizuje próbkę, otrzymasz swój pierwszy raport badawczy z Laboratorium. Raporty te pomagają w znalezieniu składników potrzebnych do stworzenia leku. Możesz użyć przycisku raportów badawczych, by otrzymać dodatkowe informacje z Laboratorium, ale każda z tych wskazówek sprawia, że otrzymasz mniej pieniędzy, gdy już uda ci się odnaleźć lekarstwo. Pamiętaj, że przedmiotów, których potrzebujesz do lekarstwa, może jeszcze nie być w twoim zoo!
+      <p/>
+      Gdy już stworzysz lekarstwo, wejdź w tryb Gościa Zoo i wylecz swoje zwierzęta, w ten sam sposób, w jaki byś je mył lub leczył ich rany. Możesz również przekazać lekarstwo pracownikom zoo, by mogli wyleczyć twoje zwierzęta za ciebie!
+      </LOC_STRING>
+	<LOC_STRING _locID="minigameHelp:minigameHelp_Tranquilize"  >
+      <u>Sterowanie:</u>
+      <br/>
+      Poruszanie się: Strzałki (Przytrzymaj SHIFT, by biec)
+      <br/>
+      Odwróć/Rozejrzyj się: Ruchy myszką
+      <br/>
+      Naładuj broń uspokajającą: 
+      <br/>
+      Wyśrodkuj swój celownik na siejącym zniszczenie zwierzęciu.
+      <br/>
+      Oddaj strzał z broni uspokajającej: SPACJA
+      <br/>
+      <u>UWAGA:</u> Broń musi być w pełni naładowana, by strzał odniósł jakikolwiek skutek.
+      <p/>
+
+      Mamy problem z rozbrykanym dinozaurem, co? Na szczęście masz odpowiednie narzędzia, by temu zaradzić! Spraw, by dinozaur znalazł się w zasięgu twojego wzroku, wyceluj broń i wciśnij SPACJĘ, by oddać strzał z broni uspokajającej, po tym, jak twoja broń naładuje się do pełna. Czas ładowania broni przy większych dinozaurach jest dłuższy niż przy mniejszych, ponieważ na większe zwierzęta trzeba użyć większych dawek. Trzymaj broń pewnie! Jeśli zadrży ci ramię i twój celownik ześlizgnie się z celu, broń straci część ładunku.  
+      <p/>
+      Jeśli uspokoisz rozbrykanego dinozaura, przysiądzie on i przez chwilę będzie spał. Możesz wtedy go podnieść, umieścić w klatce i przenieść z powrotem do jego ekspozycji. Jeśli zwierzę nie pokaże się w twoim widoku celu, oznacza to, że nie jest to rozbrykany dinozaur.   
+      </LOC_STRING>
+</ZT2Strings>

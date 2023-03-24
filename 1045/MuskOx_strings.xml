@@ -1,0 +1,196 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<ZT2Strings>
+   <entityname>
+      <!--animal names-->
+
+      <MuskOx>Wół piżmowy</MuskOx>
+      <MuskOx_stt>Wół piżmowy</MuskOx_stt>
+      <MuskOx_lower>wół piżmowy</MuskOx_lower>
+      <MuskOx_ltt>
+         <color r="255" g="248" b="178">
+            <b>Wół piżmowy</b>
+         </color>
+         <br/>
+         Kliknij, aby umieścić woła piżmowego, arktycznego pustoroga o długiej sierści.
+      </MuskOx_ltt>
+      <!--gift names-->
+
+      <MuskOx_Gift>Czapeczka z wołem piżmowym</MuskOx_Gift>
+      <MuskOx_Gift_stt>Czapeczka z wołem piżmowym</MuskOx_Gift_stt>
+      <MuskOx_Gift_lower>czapeczka z wołem piżmowym</MuskOx_Gift_lower>
+      <MuskOx_Gift_ltt>
+         <color r="255" g="248" b="178">
+            <b>Czapeczka z wołem piżmowym</b>
+         </color>
+         <br/>Goście, którym spodobał się wół piżmowy, będą zainteresowani tym prezentem.
+      </MuskOx_Gift_ltt>
+      <MuskOx_Gift_Adult>Czapeczka z wołem piżmowym</MuskOx_Gift_Adult>
+      <MuskOx_Gift_Adult_stt>Czapeczka z wołem piżmowym</MuskOx_Gift_Adult_stt>
+      <MuskOx_Gift_Adult_lower>czapeczka z wołem piżmowym</MuskOx_Gift_Adult_lower>
+      <MuskOx_Gift_Adult_ltt>
+         <color r="255" g="248" b="178">
+            <b>Czapeczka z wołem piżmowym</b>
+         </color>
+         <br/>Goście, którym spodobał się wół piżmowy, będą zainteresowani tym prezentem.
+      </MuskOx_Gift_Adult_ltt>
+      <!--foliage names-->
+
+      <DiamondLeafWillow_Tundra>Wierzba rombolistna</DiamondLeafWillow_Tundra>
+      <DiamondLeafWillow_Tundra_stt>Wierzba rombolistna</DiamondLeafWillow_Tundra_stt>
+      <DiamondLeafWillow_Tundra_lower>wierzba rombolistna</DiamondLeafWillow_Tundra_lower>
+      <DiamondLeafWillow_Tundra_ltt>
+         <color r="255" g="248" b="178">
+            <b>Wierzba rombolistna</b>
+         </color>
+         <br/>Kliknij, aby umieścić wierzbę rombolistną, ulubiony przysmak woła piżmowego.
+      </DiamondLeafWillow_Tundra_ltt>
+      <!--guest thoughts-->
+
+      <AnimalDefend>%2s broni się przed: %1s!</AnimalDefend>
+      <!--animal actions-->
+
+      <DefendingAt>Broni się przed: %s</DefendingAt>
+   </entityname>
+
+   <zoopedia_muskox version="2">
+      <entry>Wół piżmowy</entry>
+      <text>
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/MuskOx/MuskOx_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						</cell>
+						<cell width="16">
+							<img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						</cell>
+						<cell width="16">
+							<img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						</cell>
+						<cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Stopień zagrożenia:
+                     <br/>
+                        <color r="170" g="255" b="0">
+                     Niewielkie zagrożenie
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>   
+            
+               <cell width="128">
+                  <color r="255" g="255" b="255">Tundra<br/></color>
+                  <img src="ui/icon_biomes/icon_tundra.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+               </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Arktyka<br/></color>
+                  <img src="ui/icon_maplocations/Tundra_Arctic.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">Typ: Ssaki <i>(Mammalia)</i><br/>Gromada: Parzystokopytne <i>(Artiodactyla)</i><br/>Rodzina: Pustorogie <i>(Bovidae)</i><br/>Rodzaj: <i>Ovibos</i><br/>Gatunek: <i>moschatus</i></color>
+               </cell>
+               <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/tundra_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+               </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Ciekawostki</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Wół piżmowy posiada pod oczami gruczoły wydzielające piżmowy zapach, który pozostawiany jest na drzewach i krzewach w celu oznaczenia terenu.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Wół piżmowy żyje na ziemi od czasów ostatniej epoki lodowcowej, co oznacza, że jest rówieśnikiem wymarłego mamuta.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Sierść woła piżmowego jest tak miękka jak kaszmir i uważana jest za najcieplejszą przędzę na ziemi.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Eskimosi nazywają woła piżmowego "umingmak", co oznacza "brodacz."</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Woły żyją w stadach liczących 10-20 zwierząt, i otaczają kręgiem swoje młode, jeśli wyczują zagrożenie.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Kopyta woła piżmowego są doskonale przystosowane do przebijania lodu w celu zyskania dostępu do wody.</color>
+               </cell>
+            </cell>
+         </cell>
+         <cell width="340">
+         <color r="255" g="248" b="178">Aby uzyskać dostęp do woła piżmowego, musisz posiadać przynajmniej 0,5 gwiazdki popularności.</color>
+         <p/>Wół piżmowy to długowłosy gatunek spokrewniony z kozami i owcami. Występuje w północnej Kanadzie i na Grenlandii, a także na Alasce i innych terenach północnych. Dorosły byk osiąga przeciętnie 1.9-2.3 m długości, wysokość 1.2-1.5 m, i posiada długie, zagięte w dół rogi o skierowanych w górę końcówkach; samice są znacznie mniejsze. Zarówno samce, jak i samice posiadają gęste, długie futro, chroniące je przed zimnem. Samiec wydziela w okresie rui silny zapach piżma, stąd nazwa gatunku.
+         <p/>Stada składają się z 10-100 osobników. Populacja tych zwierząt została znacznie zmniejszona przez myśliwych, zabijających je dla skór i mięsa. Dlatego podjęto kroki zmierzające do ocalenia tego gatunku, a w Kanadzie został on objęty ochroną. Dorosłe osobniki w sytuacji zagrożenia otaczają młode zwartym kręgiem.
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Źródło: <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2004.</color></u></a>(C) 1993-2003 Microsoft Corporation. Wszystkie prawa zastrzeżone.
+         </cell>
+      </text>
+   </zoopedia_muskox>
+
+   <zoopedia_diamondleafwillow>
+      <entry>Wierzba rombolistna, roślina</entry>
+      <text>
+         <color r="255" g="255" b="255">
+            <cell pady="0" width="1000"/>
+            <p/>
+            <cell width="260"/>
+            <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+               <cell width="150">
+                  <img src="entities/objects/foliage/DiamondLeafWillow/DiamondLeafWillow_Tundra_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128"/>
+               </cell>
+               <cell pady="15" width="400">
+               <p/>Wierzba to wspólna nazwa dla niewielkiej rodziny roślin kwitnących, i dla kilku jej przedstawicieli. Rodzina ta zawiera około 435 gatunków wierzb i topoli. Przedstawiciele tej rodziny żyją przeważnie w wilgotnym środowisku, na mokradłach i wybrzeżach rzek; charakteryzuje je szybki wzrost. Drewno tych drzew ma wiele zastosowań, a liście zapewniają pożywienie dla niezliczonej ilości gatunków. Niektóre gatunki pełnią funkcję dekoracyjną. Rodzina zawiera dwa rodzaje: wierzba i topola. Oba występują powszechnie na półkuli północnej; kilka również na południowej. 35 gatunków to drzewa, pozostałe 400 gatunków wierzby to krzewy. Wierzby występują powszechnie w arktycznej tundrze; można je również znaleźć w górach, powyżej linii drzew.
+               <p/>Wierzby i topole posiadają kwiaty męskie i żeńskie na oddzielnych roślinach. Kwiaty są bardzo proste. Rosną w dużych skupiskach zwanych baziami, pojawiających się na wiosnę podczas rozwoju nowych liści. Bazie nie wytwarzają nektaru; pyłek jest przenoszony droga powietrzną. Bazie wierzbowe wyrastają pionowo i wytwarzają nektar, wabiący owady, szczególnie pszczoły i ćmy, które dokonują zapylenia. Zapylanie przez owady rośliny, która posiada proste, niezbyt kolorowe kwiaty, stanowi wyjątek w królestwie roślin. Jednak wczesną wiosną, zanim pojawią się kwiaty innych roślin, dla wielu owadów wierzbowe bazie są jedynym źródłem pokarmu.
+               <p/>Owoce wierz i topoli to niewielkie kapsułki wypełnione licznymi nasionami, z których każda wyposażona jest w kępkę watowatych włókien, dzięki którym unoszą się one na wietrze. Jeśli nasiona znajdą się na odpowiedniej, wilgotnej glebie, kiełkują w ciągu jednego-dwóch dni. Większość gatunków wierzb i topoli rośnie bardzo szybko, osiągając wiek kwitnienia w ciągu kilku lat, jednak żywotność niektórych z nich ograniczona jest do zaledwie 20 lat.
+               <p/>Znaczenie gospodarcze tej rodziny roślin zmienia się. Ich łodyżki wykorzystuje się do wyplatania koszy, a lekkie, lecz mocne drewno służy do produkcji protez, drewnianych butów i kijów krykietowych. Kora zawiera salicylan, dlatego wykorzystywana jest często w medycynie ludowej. Aspiryna jest pochodną kwasu salicylowego, po raz pierwszy uzyskanego właśnie z kory wierzbowej. Niektóre gatunki wierzby są uprawiane.
+            </cell>
+            </cell>
+            <p/>
+         </color>
+      </text>
+   </zoopedia_diamondleafwillow>
+
+</ZT2Strings>

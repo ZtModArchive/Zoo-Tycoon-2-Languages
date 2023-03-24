@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<ZT2Strings>
+   <!--entity names-->
+
+   <entityname>
+      <!--scenery object names-->
+
+      <drinkingfountain_df>Fontanna do picia</drinkingfountain_df>
+      <drinkingfountain_df_stt>Fontanna do picia</drinkingfountain_df_stt>
+      <drinkingfountain_df_lower>fontanna do picia</drinkingfountain_df_lower>
+      <drinkingfountain_df_ltt>
+         <color r="255" g="248" b="178">
+            <b>Fontanna do picia</b>
+         </color>
+         <br/>
+         Kliknij, aby umieścić fontannę z wodą, z której będą pili goście.
+      </drinkingfountain_df_ltt>
+   </entityname>
+
+   <!--Zoopedia entries-->
+
+   <zoopedia_drinkingfountain>
+      <entry>Fontanna do picia</entry>
+      <text>
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities\objects\scenery\drinkingfountain_df\drinkingfountain_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>Chociaż fontanna do picia nie generuje żadnych dochodów, goście zoo będą wdzięczni za możliwość wypicia kilku łyków zimnej wody.
+               </color>
+            </cell>
+         </cell>
+      </text>
+   </zoopedia_drinkingfountain>
+
+   <guestpackactions>
+      <GoToDrinkingFountain>Będzie pić z: %s</GoToDrinkingFountain>
+      <UseDrinkingFountain>Pije z: %s</UseDrinkingFountain>
+   </guestpackactions>
+
+   <guestpackthoughts>
+      <GoToDrinkingFountain>Dobrze, że jest %s. Pić mi się chce.</GoToDrinkingFountain>
+      <UseDrinkingFountain>%s to dobry pomysł.</UseDrinkingFountain>
+   </guestpackthoughts>
+
+</ZT2Strings>

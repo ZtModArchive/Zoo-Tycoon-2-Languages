@@ -1,0 +1,19 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_heatedrock" version="2"/>
+      <LOC_STRING _locID="zoopedia_heatedrock:entry" version="2">Pedra achatada aquecida</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_heatedrock:text" version="2">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>
+                  <img src="entities/objects/enrichment/HeatedRock/HeatedRock_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>As pedras aquecidas são rochas grandes e de aparência natural que são esquentadas artificialmente por dentro para imitar uma pedra aquecida pelo sol. Elas são muito apreciadas pelos animais africanos, principalmente os leões, que estão acostumados com rochas aquecidas pelo sol na savana africana.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+
+</ZT2Strings>

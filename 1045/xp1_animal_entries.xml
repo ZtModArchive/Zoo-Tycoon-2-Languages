@@ -1,0 +1,2640 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<ZT2Strings>
+	<LOC_STRING _locID="zoopedia_foxfennec:entry"  >Fenek</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_foxfennec:text"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/FoxFennec/FoxFennec_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						</cell>
+						<cell width="16">
+							<img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						</cell>
+						<cell width="16">
+							<img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						</cell>
+						<cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Stopień zagrożenia:
+                     <br/>
+                        <color r="170" g="255" b="0">
+                     Niskie zagrożenie
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>             
+               
+               <cell width="128">
+                  <color r="255" g="255" b="255">Pustynia<br/></color>
+                  <img src="ui/icon_biomes/icon_desert.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+               </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Afryka Północna<br/></color>
+                  <img src="ui/icon_maplocations/Desert_Africa_North.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Typ: Ssaki <i>(Mammalia)</i>
+                  <br/>
+                  Gromada: Mięsożerne <i>(Carnivora)</i>
+                  <br/>
+                  Rodzina: Psowate <i>(Canidae)</i>
+                  <br/>
+                  Rodzaj: <i>Vulpes</i>
+                  <br/>
+                  Gatunek: <i>zerda</i>
+                  </color>
+               </cell>
+               <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/desert_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+               </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Ciekawostki</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Fenek jest najmniejszym ze wszystkich psowatych, mniejszym od kota domowego, ale ma największy stosunek wielkości uszu do wielkości ciała.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Uszy fenka są tak czułe, że słyszy on nawet duże owady, takie jak żuki czy szarańcza, chodzące po piasku.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Gęste futro wydaje się niezwykłe jak na zwierzę pustynne, ale przy nocnym trybie życia fenek potrzebuje ochrony przed chłodem.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Fenki spędzają dzień w połączonych ze sobą, podziemnych norach.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>               
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Fenki są zabijane ze względu na futro lub sprzedawane jako zwierzęta domowe.</color>
+               </cell>                              
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">Aby uzyskać dostęp do fenka, musisz posiadać 2 gwiazdki popularności.</color>
+            <p/>Fenek to popularna nazwa mięsożernego zwierzęcia zamieszkującego pustynie Afryki Północnej. Długość ciała fenka wynosi od 35,7 do 40,7 cm, a puszysty ogon ma 17,8-30,5 cm. Umaszczenie fenka waha się pomiędzy jasnobrązowym a niemal białym; zwierzę to przypomina swojego krewniaka - lisa, z wyjątkiem ogromnych uszu, z których każde jest wielkości pyska.
+            <p/>
+            Fenek potrafi kopać nory z niezwykłą szybkością - spłoszony, niemalże nurkuje w piasku. Jego nora wyłożona jest miękkimi materiałami, takimi jak pierze i kłębki futra. Fenki zazwyczaj śpią w dzień, a w nocy wychodzą na polowanie.
+            <p/>
+            Zwierzę to żywi się głównie myszami, niewielkimi ptakami, jaszczurkami i insektami, czasami uzupełniając dietę owocami. Czasami piją wodę, choć naukowcy uważają, że nie jest im to konieczne do przeżycia. Doskonale przystosowane do środowiska pustynnego, mogą się obyć bez wody przez bardzo długi czas.
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Źródło: <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2005.</color></u></a>(C) 1993-2004 Microsoft Corporation. All rights reserved.
+         </cell>
+      </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_bearspectacled:entry"  >Niedźwiedź okularowy</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_bearspectacled:text"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/BearSpectacled/BearSpectacled_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						</cell>
+						<cell width="16">
+							<img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						</cell>
+						<cell width="16">
+							<img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						</cell>
+						<cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/vulnerable.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Stopień zagrożenia:
+                     <br/>
+                        <color r="255" g="255" b="0">
+                     Średnie zagrożenie
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>            
+
+               <cell width="128">
+                  <color r="255" g="255" b="255">Las liściasty<br/></color>
+                  <img src="ui/icon_biomes/icon_temperateforest.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+               </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Ameryka Południowa<br/></color>
+                  <img src="ui/icon_maplocations/Temperateforest_America_South.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">Typ: Ssaki <i>(Mammalia)</i><br/>Gromada: Mięsożerne <i>(Carnivora)</i><br/>Rodzina: Niedźwiedziowate <i>(Ursidae)</i><br/>Rodzaj: <i>Tremarctos</i><br/>Gatunek: <i>ornatus</i>
+                  </color>
+               </cell>
+               <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/temperateforest_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+               </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Ciekawostki</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Niedźwiedzie okularowe zamieszkują Andy w Ameryce Południowej.</color>
+               </cell>
+               <br/>
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Umaszczenie wokół oczu, któremu niedźwiedź ten zawdzięcza swą nazwę, różni się pomiędzy osobnikami i może być użyte do ich identyfikacji.</color>
+               </cell>
+               <br/>
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Niedźwiedź okularowy odgrywa istotną rolę w rozsiewaniu wielu roślin, takich jak wawrzyn, których nasiona wydala w odchodach.</color>
+               </cell>
+               <br/>
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Zatrucie środowiska i kłusownictwo stanowią największe zagrożenia dla tego gatunku.</color>
+               </cell>
+               <br/>
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Podczas międzynarodowego sympozjum w roku 1988 poświęconego temu gatunkowi biologowie i zarządcy ogrodów zoologicznych połączyli siły przy kontroli populacji niedźwiedzi okularowych w Ameryce Południowej.</color>
+               </cell>
+               <br/>               
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">
+               Aby uzyskać dostęp do niedźwiedzia okularowego, musisz posiadać 4 gwiazdki popularności.
+            </color>
+            <p/>
+Niedźwiedź okularowy to popularna nazwa zwierzęcia o ciekawym umaszczeniu zamieszkującego tereny Ameryki Południowej. Czarne lub brązowe futro tego zwierzęcia przechodzi w białe lub kremowe umaszczenie w okolicach klatki piersiowej, szyi i oczu, tworząc dookoła tych ostatnich charakterystyczne pierścienie. Pokrewne gatunki zamieszkiwały niegdyś Amerykę Północną, jednak do dziś zachował się tylko niedźwiedź okularowy. Obecnie zamieszkuje tereny pomiędzy Boliwią a Kolumbią, gdzie występuje na górskich terenach niezdatnych do uprawy.
+            <p/>
+Niedźwiedzie okularowe są relatywnie małe: samce ważą do 154 kg, samice - 62 kg. Stopy wyposażone są w krótkie, ostre i odporne pazury umożliwiające wspinanie się na drzewa. Niedźwiedzie te żywią się głównie owocami (szczególnie figami) - a także liśćmi, niewielkimi zwierzętami, insektami, soczystymi ziołami i trawami. Potrafią przez dłuższy czas nie opuszczać wierzchołków drzew, każdej nocy budując gniazdo do spania. Wydają charakterystyczne, głośne dźwięki, a młode mruczą, kiedy są zadowolone.
+            <p/>
+Niedźwiedzie okularowe nie stanowią zagrożenia dla ludzi, jednak często niszczą uprawy. Są masowo zabijane w celu ograniczenia zniszczeń lub ze względu na jadalne mięso. Z tego powodu ich liczebność zaczęła gwałtownie spadać na całym świecie; tylko w Boliwii są relatywnie bezpieczne.
+            <p/>
+Autor:
+            <br/>
+Charles Joseph Jonkel
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Źródło: <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2005.</color></u></a>(C) 1993-2004 Microsoft Corporation. All rights reserved.
+         </cell>
+      </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_oryxscimitarhorned:entry"  >Oryks szablorogi</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_oryxscimitarhorned:text"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/OryxScimitarHorned/OryxScimitarHorned_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						</cell>
+						<cell width="16">
+							<img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						</cell>
+						<cell width="16">
+							<img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						</cell>
+						<cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/critical.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Stopień zagrożenia:
+                     <br/>
+                        <color r="255" g="0" b="0">
+                     Ginący
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>            
+            
+               <cell width="128">
+                  <color r="255" g="255" b="255">Pustynia<br/></color>
+                  <img src="ui/icon_biomes/icon_desert.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+               </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Afryka Północna<br/></color>
+                  <img src="ui/icon_maplocations/Desert_Africa_North.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">Typ: Ssaki <i>(Mammalia)</i><br/>Gromada: Parzystokopytne <i>(Artiodactyla)</i><br/>Rodzina: Krętorogie <i>(Bovidae)</i><br/>Rodzaj: <i>Oryx</i><br/>Gatunek: <i>dammah</i>
+                  </color>
+               </cell>
+               <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/desert_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+               </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Ciekawostki</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Oryks szablorogi jest wysoce przystosowany do życia w środowisku pustynnym: jego nerki minimalizują straty wody wynikające z wydalania, dzięki czemu potrafi się bez niej obyć przez wiele tygodni.</color>
+               </cell>
+               <br/>
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Oryks szablorogi poci się tylko wtedy, kiedy temperatura przekracza 46 stopni Celsjusza.</color>
+               </cell>
+               <br/>
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Najbardziej charakterystyczną cechą oryksa szablorogiego są rogi w kształcie szabli - bardzo słabe i podatne na złamania, niemniej jednak stanowiące potężną broń: oryks potrafi nimi zabić nawet lwa.</color>
+               </cell>
+               <br/>
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Oryks szablorogi został doszczętnie wytępiony ze względu na swoje piękne rogi. Na wolności praktycznie nie występuje.</color>
+               </cell>
+               <br/>
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Oryks najczęściej pada ofiarą lwa, lamparta, hieny i likaona.</color>
+               </cell>
+               <br/>
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Kiedy na obrzeżach Sahary pojawiły się studnie służące do pojenia bydła, znacznie zmniejszyło to populację oryksów, pozbawionych pożywienia przez zwierzęta hodowlane.</color>
+               </cell>
+               <br/>             
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">
+               Aby uzyskać dostęp do oryksa, musisz mieć 1 gwiazdkę popularności.
+            </color>
+            <p/>
+Oryks to popularna nazwa trzech gatunków rogatych antylop zamieszkujących Afrykę i Środkowy Wschód; najbardziej znany z nich to oryks południowy. Zarówno oryks arabski jak i szablorogi znajdują się na liście najbardziej zagrożonych gatunków. Zwierzę to może ważyć ponad 200 kg, a jego wysokość dochodzi do 1,4 m; jego rogi są prawie tej samej długości.
+            <p/>
+Jedyna całkowicie wytępiona antylopa w historii to południowoafrykański dujker, który zniknął około roku 1800. Od tamtej pory liczebność wszystkich gatunków antylopy systematycznie spada, a niektóre zostały już niemal całkiem wytępione. Najrzadsze gatunki to adaks, oryks szablorogi i oryks arabski - wszystkie są zabijane ze względu na swoje rogi. Te trzy gatunki żyją w suchych miejscach, głównie na pozbawionej roślinności pustyni, gdzie wyposażeni w pojazdy silnikowe myśliwi mogą je łatwo zauważyć. Po wielu latach takich zmotoryzowanych polowań na świecie pozostało już tylko kilkaset adaksów i oryksów amerykańskich żyjących na wolności. Czerwona Lista Zagrożonych Gatunków, stworzona przez World Conservation Union (IUCN) - pozarządową organizację zajmującą się zbieraniem danych o zagrożonych gatunkach, uznała oryksa szablorogiego za gatunek całkowicie wytępiony. Niewielkie populacje przetrwały jedynie w rezerwatach i ogrodach zoologicznych.
+            <p/>
+W ostatnich dekadach dzięki programom ochrony gatunków populacja tych gatunków zaczęła rosnąć. Hodowla oryksa arabskiego, rozpoczęta w latach 60-tych w ogrodach w USA i Europie, zaowocowała wzrostem ich liczebności do 2000. Część z nich została wypuszczona na wolność w chronionych rezerwacie Oman. Podobne programy służą ratowaniu adaksów i oryksa szablorogiego.
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Źródło: <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2005.</color></u></a>(C) 1993-2004 Microsoft Corporation. All rights reserved.
+         </cell>
+      </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_bisonamerican:entry"  >Bizon amerykański</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_bisonamerican:text"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/BisonAmerican/BisonAmerican_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						</cell>
+						<cell width="16">
+							<img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						</cell>
+						<cell width="16">
+							<img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						</cell>
+						<cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Stopień zagrożenia:
+                     <br/>
+                        <color r="170" g="255" b="0">
+                     Niskie zagrożenie
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>            
+            
+               <cell width="128">
+                  <color r="255" g="255" b="255">Preria<br/></color>
+                  <img src="ui/icon_biomes/icon_grassland.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+               </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Ameryka Północna<br/></color>
+                  <img src="ui/icon_maplocations/Grassland_America_North.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">Typ: Ssaki <i>(Mammalia)</i><br/>Gromada: Parzystokopytne <i>(Artiodactyla)</i><br/>Rodzina: Krętorogie <i>(Bovidae)</i><br/>Rodzaj: <i>Bison</i><br/>Gatunek: <i>bison</i>
+                  </color>
+               </cell>
+               <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/grassland_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+               </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Ciekawostki</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Dieta bizona amerykańskiego składa się głównie z traw, wzbogaconych jagodami i porostami.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">W zimie bizon kopie w śniegu w poszukiwaniu pożywienia, używając głowy i kopyt.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Największą aktywność bizony wykazują wczesnym rankiem, późnym popołudniem i w księżycowe noce.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Bizon amerykański posiada taką wyporność, że kiedy pływa, jego głowa, grzbiet i ogon pozostają ponad powierzchnią wody.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Spłoszony bizon rzuca się do ucieczki z prędkością 50 km/h.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>               
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Większość żyjących bizonów to potomkowie niewielkiego stada, umieszczonego przez rząd w Parku Yellowstone w pierwszych latach XX wieku.</color>
+               </cell>               
+               <br/>               
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">
+               Aby uzyskać dostęp do bizona amerykańskiego, musisz mieć 0,5 gwiazdki popularności.
+            </color>
+            <p/>
+Bizon jest największym lądowym zwierzęciem w Ameryce Północnej.
+            <p/>
+Cechą charakterystyczną tego zwierzęcia jest pokaźny "garb", a także krótkie, ostro zakończone rogi (występujące u obu płci) wyrastające po bokach masywnej głowy, i relatywnie niewielki kłąb. Dorosły samiec bizona ma około 2 m wysokości, jest długi na 2,7-3,7 m i waży 850-1100 kg; samica jest nieco mniejsza. Głowę, szyję, przednie nogi i przednią część ciała porasta długie, gęste futro. Tylna część ciała pokryta jest znacznie krótszą sierścią. Dorosły bizon przeważnie posiada czarną brodę długości ok. 30 cm.
+            <p/>
+Bizony przeważnie występują w stadach - poza starymi, samotnymi bykami. Przez większość roku matki z młodymi podróżują w grupie. Dorosłe samce tworzą własne stada. Stada mogą się łączyć na wiosnę lub na jesieni, aby wspólnie poszukiwać pożywienia i wody. Pochrząkiwania bizona są dobrze słyszalne z niewielkiej odległości. Ryk walczących samców, słyszalny z odległości 5 km, rozlega się przeważnie podczas okresu godowego - zwykle od lipca do września, kiedy byki szukają sobie partnerek. W okresie rui byki mają niewiele czasu na poszukiwanie pożywienia, toteż tracą na wadze około 90 kg. Ciąża trwa 8-9 miesięcy; po tym czasie rodzi się jedno, czerwonawo-beżowe cielę. Po kilku dniach młode przyłącza się do stada i podróżuje z matką aż do następnej wiosny.
+            <p/>
+Bizon pochodzi z Eurazji i jest jednym z niewielu członków swojej rodziny, którym udało się przekroczyć Cieśninę Beringa w czasach prehistorycznych; do czasów dzisiejszych w Ameryce Północnej przetrwały dwa podgatunki tego stworzenia. Bizon europejski, wyższy, lecz lżejszy od bizona Amerykańskiego, prawie wyginął; zwierzęta te można spotkać jedynie w parkach i ogrodach zoologicznych.
+				<p/>
+Aż do XIX wieku 60 milionów bizonów zamieszkiwało Wielką Równinę od Meksyku aż po Kanadę, a nieliczne okazy znaleźć można było na wschód od Rzeki Missisipi. Bizon odgrywał ogromną rolę w życiu ludów zamieszkujących te tereny: służył jako pożywienie, źródło skór i kości do wytwarzania narzędzi; suche odchody wykorzystywano do celów opałowych. W latach 1830-1889 biali osadnicy znacznie przetrzebili jego populację - pozostało mniej niż 1000 sztuk. Dzisiaj w rezerwatach i na prywatnych ranczach żyje ponad 200000 tych zwierząt.				
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Źródło: <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2005.</color></u></a>(C) 1993-2004 Microsoft Corporation. All rights reserved.
+         </cell>
+      </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_pantherflorida:entry"  >Puma florydzka</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_pantherflorida:text"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+               <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+                  <img src="entities/units/animals/PantherFlorida/PantherFlorida_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+               </cell>
+               <cell width="16">
+                  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+               </cell>
+               <cell width="16">
+                  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+               </cell>
+               <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/critical.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Stopień zagrożenia:
+                     <br/>
+                        <color r="255" g="0" b="0">
+                     Ginąca
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>            
+            
+               <cell width="128">
+                  <color r="255" g="255" b="255">Tereny podmokłe<br/></color>
+                  <img src="ui/icon_biomes/icon_wetlands.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+               </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Floryda<br/></color>
+                  <img src="ui/icon_maplocations/Wetlands_Florida.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">Typ: Ssaki <i>(Mammalia)</i><br/>Gromada: Mięsożerne <i>(Carnivora)</i><br/>Rodzina: Kotowate <i>(Felidae)</i><br/>Rodzaj: <i>Puma</i><br/>Gatunek: <i>concolor</i>
+                  <br/>
+                  Podgatunek:  <i>coryi</i>
+                  </color>
+               </cell>
+               <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/wetlands_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+               </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Ciekawostki</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Puma florydzka oznacza swoje terytorium w ciekawy sposób - kopczykami ziemi, liśćmi, igłami sosnowymi, czasami wzbogacając je odchodami.</color>
+               </cell>
+               <br/>
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Puma florydzka odżywia się między innymi jeleniami wirginijskimi, dzikami, królikami, szopami praczami, pancernikami i ptakami.</color>
+               </cell>
+               <br/>
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Puma florydzka utrzymuje kontakt z młodymi wydając dźwięki przypominające gwizdanie.</color>
+               </cell>
+               <br/>
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Młode pumy florydzkiej potrafią zachować energię i ciepło przez kilka dni, dzięki czemu matka może je opuścić i udać się na poszukiwanie pożywienia.</color>
+               </cell>
+               <br/>
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Puma florydzka jest zagrożona z powodu wzrostu populacji i deforestację, powodujące spadek powierzchni terenów lesistych, których potrzebuje, aby przeżyć.</color>
+               </cell>
+               <br/>               
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">
+               Aby uzyskać dostęp do pumy florydzkiej, musisz posiadać 5 gwiazdek popularności.
+            </color>
+            <p/>
+Puma florydzka, znana również jako kuguar lub lew górski, jest mięsożernym gatunkiem występującym w Ameryce Północnej, charakteryzującym się gęstym, czerwonobrązowym futrem. Jej boki mają jaśniejsze ubarwienie, a czoło, podgardle, brzuch i wewnętrzne części nóg są niemal białe. Długość ciała tego zwierzęcia osiąga do 1,95 m, nie licząc długiego ogona. Głowa jest relatywnie mała, z czarnymi plamkami nad oczami. Matka wydaje na świat dwa do czterech młodych, charakteryzujących się ciemnobrązowymi cętkami na grzbiecie i paskami na ogonie.
+            <p/>
+Park Everglades i bagna południowej Florydy stanowią jedno z ostatnich schronień dla sporej ilości dzikich zwierząt we wschodniej części USA. Wśród nich jest puma florydzka; jako jedyny kuguar występujący na wschód od Missisipi, gatunek ten został zaklasyfikowany jako ginący i jest chroniony przez prawo.
+            <p/>
+Puma florydzka jest również szczególnie chroniona na Florydzie, gdzie została niemal wytępiona. Chroniona przez prawo stanowe od roku 1958, puma florydzka doczekała się kampanii dla uczniów szkół podstawowych i została oficjalną maskotką stanu w roku 1982.            
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Źródło: <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2005.</color></u></a>(C) 1993-2004 Microsoft Corporation. All rights reserved.
+         </cell>
+      </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_rhinocerosjavan:entry"  >Nosorożec jawajski</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_rhinocerosjavan:text"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/RhinocerosJavan/RhinocerosJavan_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						</cell>
+						<cell width="16">
+							<img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						</cell>
+						<cell width="16">
+							<img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						</cell>
+						<cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/critical.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Stopień zagrożenia:
+                     <br/>
+                        <color r="255" g="0" b="0">
+                     Ginący
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+               <cell width="128">
+                  <color r="255" g="255" b="255">Tropikalne lasy deszczowe<br/></color>
+                  <img src="ui/icon_biomes/icon_tropicalrainforest.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+               </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Azja Południowowschodnia<br/></color>
+                  <img src="ui/icon_maplocations/Rainforest_Asia_SouthEast.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Typ: Ssaki <i>(Mammalia)</i><br/>
+                  Gromada: Nieparzystokopytne <i>(Perissodactyla)</i><br/>
+                  Rodzina: Nosorożce <i>(Rhinocerotidae)</i><br/>
+                  Rodzaj: <i>Rhinoceros</i><br/>
+                  Gatunek: <i>sondaicus</i>
+                  </color>
+               </cell>
+               <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/tropicalrainforest_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+               </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Ciekawostki</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Angielska nazwa nosorożca (rhonoceros) wywodzi się od greckich słów: "rhino," oznaczającego "nos," i "cero," oznaczającego "róg."</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>               
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Wiele samic nosorożca jawajskiego nie posiada rogu; w odróżnieniu od innych gatunków, samice są większe od samców.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>               
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Na wolności żyje mniej niż 60 nosorożców jawajskich.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>               
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Choć żaden nosorożec jawajski nie żyje w niewoli, pięciu do ośmiu przedstawicieli tego gatunku mieszka w rezerwacie Cat Loc w Wietnamie.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>               
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Nosorożce są zabijane przez kłusowników ze względu na cenne rogi, lecz ich populacja przerzedziła się przede wszystkim z powodu masowego wyrębu gęstych lasów, stanowiących ich środowisko naturalne.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>               
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Z powodu niewielkiej liczby żyjących nosorożców i długiego okresu ciąży, naukowcy obawiają się, że nosorożec jawajski ulegnie całkowitej zagładzie.</color>
+               </cell>               
+               <br/>               
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">
+               Aby uzyskać dostęp do nosorożca jawajskiego, musisz posiadać 3,5 gwiazdki popularności.
+            </color>
+            <p/>
+Nosorożec jawajski zamieszkuje gęste lasy tropikalne na wyspie Jawa w południowej Indonezji i w niektórych częściach Wietnamu. Ze względu na masowe polowania (których przyczyną jest głównie jego róg, stosowany w medycynie naturalnej), na wolności pozostało już mniej niż 60 przedstawicieli tego gatunku. Nosorożec jawajski został zaklasyfikowany jako ginący na Czerwonej Liście Zagrożonych Gatunków, stworzonej przez World Conservation Union (IUCN), pozarządową organizację zajmującą się zbieraniem danych o zagrożonych gatunkach.
+            <p/>
+Nosorożec indyjski i jawajski są podobne pod wieloma względami - na przykład, oba posiadają tylko jeden róg. Róg nosorożca indyjskiego osiąga długość do 50 cm, podczas gdy róg nosorożca jawajskiego osiąga jedynie połowę tej długości, a samice bardzo często są go całkowicie pozbawione. Oba gatunki mają szarobrązową, pofałdowaną skórę - co jest szczególnie widoczne w przypadku nosorożca indyjskiego, któremu z wiekiem narastają dodatkowe fałdy wokół szyi. W odróżnieniu od nosorożca sumatrzańskiego, oba gatunki są praktycznie pozbawione sierści, z wyjątkiem uszu i końcówki ogona. 
+            <p/>
+Nosorożec indyjski to największy gatunek występujący w Azji, sięgający 1,8 m. Dorosłe samce mogą ważyć do 2,200 kg, co czyni z nich drugie najcięższe zwierzę w Azji (po słoniu azjatyckim). Nosorożec jawajski osiąga wagę 2000 kg - co ciekawe, samice są większe od samców. Oba gatunki potrzebują dostępu do zbiorników wodnych, lecz nosorożec indyjski to jedyna odmiana, która spędza większość czasu na prerii zamiast w gęstym lesie.            
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Źródło: <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2005.</color></u></a>(C) 1993-2004 Microsoft Corporation. All rights reserved.
+         </cell>
+      </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_tapirbairds:entry"  >Tapir Bairda</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_tapirbairds:text"  >
+  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">
+   
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/TapirBairds/TapirBairds_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/endangered.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Stopień zagrożenia:
+                     <br/>
+                        <color r="255" g="155" b="0">
+                     Zagrożony
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>   
+   
+    <cell width="128">
+     <color r="255" g="255" b="255">Tropikalny las deszczowy<br/></color>
+     <img src="ui/icon_biomes/icon_tropicalrainforest.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+    </cell>
+    <cell width="128">
+     <color r="255" g="255" b="255">Ameryka Środkowa<br/></color> 
+     <img src="ui/icon_maplocations/Rainforest_America_Central.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+    </cell>
+    <br/>
+    <cell width="284" pady="10">
+     <color r="255" g="255" b="255">Typ: Ssaki <i>(Mammalia)</i><br/>Gromada: Nieparzystokopytne <i>(Perissodactyla)</i><br/>Rodzina: Tapiry <i>(Tapiridae)</i><br/>Rodzaj: <i>Tapirus</i><br/>Gatunek: <i>bairdii</i>
+     </color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="UI/zoopedia/biome/tropicalrainforest_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Ciekawostki</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Tapir Bairda to największe zwierzę pochodzące z Ameryki Środkowej.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Narodowe zwierzę w Belize, chronione w większości krajów Ameryki Środkowej.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Miejscowi nazywają go "górską krową," ale tapir Bairda jest spokrewniony z koniem i nosorożcem.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>        
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Tapir Bairda to "żywa skamielina;" budowa jego ciała nie zmieniła się przez ostatnie 35 milionów lat.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Tapir Bairda znany jest ze swojej długiej, ruchomej górnej wargi, przypominającej trąbę słonia.</color>     
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>        
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Spadek populacji tapirów Bairda jest spowodowany głównie przez deforestację.</color>
+    </cell>
+  </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178">
+    Aby uzyskać dostęp do tapira Bairda, musisz posiadać 1,5 gwiazdki popularności.
+   </color>
+   <p/>
+Tapir to nazwa kopytnego zwierzęcia o przysadzistej budowie, krótkich nogach i krótkim ogonie. Na głowie posiada krótki, elastyczny wyrostek, niewielkie oczy i stojące uszy. Zwierzęta te zamieszkują gęste lasy i trawiaste obszary Azji oraz Ameryki Środkowej i Południowej. Zagrożone, tapiry ukrywają się w wodzie lub w gęstym lesie; ich okrzyki służą porozumiewaniu z innymi przedstawicielami tego gatunku. Tapiry żywią się liśćmi, owocami i innymi produktami roślinnymi. Tapir do tego stopnia przypomina odnalezione szczątki zwierzęcia z epoki Pliocenu, że oba zostały zaklasyfikowane jako ten sam gatunek. Jedynym wrogiem tapira, oprócz człowieka, są duże koty. Zanik ich naturalnego środowiska, spowodowany wyrębem lasów, a także polowania, przyczyniły się do niemal całkowitego wyginięcia tego gatunku, występującego w Andach i Panamie.
+  </cell>
+  <p/>
+  <cell width="260"/>
+  <cell width="620">
+   Źródło: <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2005.</color></u></a>(C) 1993-2004 Microsoft Corporation. All rights reserved.
+  </cell>
+ </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_caribou:entry"  >Karibu</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_caribou:text"  >
+  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">
+   
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/Caribou/Caribou_M_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/Caribou/Caribou_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>						 
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>						 
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/vulnerable.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Stopień zagrożenia:
+                     <br/>
+                        <color r="255" g="255" b="0">
+                     Zagrożony
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>   
+   
+    <cell width="128">
+     <color r="255" g="255" b="255">Tundra<br/></color>
+     <img src="ui/icon_biomes/icon_Tundra.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+    </cell>
+    <cell width="128">
+     <color r="255" g="255" b="255">Arktyka<br/></color>
+     <img src="ui/icon_maplocations/Tundra_Arctic.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+    </cell>
+    <br/>
+    <cell width="284" pady="10">
+     <color r="255" g="255" b="255">
+      Typ: Ssaki <i>(Mammalia)</i><br/>
+      Gromada: Parzystokopytne <i>(Artiodactyla)</i><br/>
+      Rodzina: Jeleniowate <i>(Cervidae)</i><br/>
+      Rodzaj: <i>Rangifer</i><br/>
+      Gatunek: <i>tarandus</i><br/>
+      Podgatunek:  <i>groenlandicus</i>
+     </color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="UI/zoopedia/biome/tundra_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Ciekawostki</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Chociaż różnią się nazwą, karibu i renifer uważane są za jeden gatunek.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Młode karibu potrafią biegać już 90 minut po porodzie, aby dotrzymać kroku podróżującemu stadu.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>        
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Sierść karibu zatrzymuje powietrze, zapewniając doskonałą ochronę przed zimnem, a jednocześnie ułatwiając pływanie.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>        
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Karibu są doskonale przystosowane do życia w zimnej arktycznej tundrze, ponieważ w zimie żywią się porostami.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Karibu mają "wbudowany" kompas, podobny do ptaków wędrownych, który pozwala im znaleźć drogę do pożywienia nawet na nieznanym terenie.</color>
+    </cell>
+   <br/> 
+   </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178">
+    Aby uzyskać dostęp do karibu, musisz posiadać 0,5 gwiazdki popularności.
+   </color>
+   <p/>
+   Karibu to północnoamerykański jeleń należący do tego samego gatunku, co renifer występujący w Eurazji. Wzrost karibu osiąga od 87 do 140 cm, a waga - od 60 do 318 kg. Zarówno samce, jak i samice posiadają rogi, lecz poroże samicy jest mniejsze i mniej rozgałęzione. Rozróżnia się dwie podstawowe grupy: karibu arktyczne i tundrowe.
+   <p/>
+   Karibu arktyczne żyją w tundrach Kanady, Grenlandii i Alaski. Życie Eskimosów zamieszkujących te regiony było ściśle związane z tymi zwierzętami: każda część ciała była wykorzystywana jako pożywienie, a także do produkcji narzędzi i ubrań. Karibu żyją zwykle w małych stadach złożonych z samic, młodych i niewielkiej liczby samców. Starsze byki przeważnie tworzą własne stada (poza okresem rui), podróżując jednak w pobliżu migrujących stad. Okres godowy przypada na wrzesień i październik, a młode rodzą się w maju lub czerwcu. W lecie karibu posiadają szarą lub jasnobrązową sierść, w zimie - białą. W zimie zwierzęta te tworzą duże stada i migrują na południe, do cieplejszych lasów Kanady, czasem pokonując dystans 5000 km, a następnie wracają na wiosnę. Podstawową dietę karibu stanowią porosty, żywią się jednak również trawą, krzewami, kłączami i grzybami. Plany budowy rurociągów na Alasce i w Kanadzie zostały zmienione dzięki wysiłkom obrońców środowiska, aby nie kolidowały z trasami migracji karibu.
+   <p/>
+   Karibu tundrowe mają mniejsze znaczenie ekonomiczne. Zwierzęta te są ciemniejsze, bardziej masywne i posiadają cięższe rogi. Niegdyś występowały w dużych ilościach na terenach między Maine i Montaną, lecz zostały niemal wytępione na obszarze USA.
+  </cell>
+  <p/>
+  <cell width="260"/>
+  <cell width="620">
+   Źródło: <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2005.</color></u></a>(C) 1993-2004 Microsoft Corporation. All rights reserved.
+  </cell>
+ </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_antelopesablegiant:entry"  >Antylopa szabloroga</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_antelopesablegiant:text"  >
+  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">   
+
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/AntelopeSableGiant/AntelopeSableGiant_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/AntelopeSableGiant/AntelopeSableGiant_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>						 
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/critical.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Stopień zagrożenia:
+                     <br/>
+                        <color r="255" g="0" b="0">
+                     Ginąca
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>   
+   
+    <cell width="128">
+     <color r="255" g="255" b="255">Sawanna<br/></color>
+     <img src="ui/icon_biomes/icon_savannah.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+    </cell>
+    <cell width="128">
+     <color r="255" g="255" b="255">Afryka Południowa<br/></color>
+     <img src="ui/icon_maplocations/Savannah_Africa_South_GiantSable.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+    </cell>
+    <br/>
+    <cell width="284" pady="10">
+     <color r="255" g="255" b="255">
+      Typ: Ssaki <i>(Mammalia)</i><br/>
+      Gromada: Parzystokopytne <i>(Artiodactyla)</i><br/>
+      Rodzina: Krętorogie <i>(Bovidae)</i><br/>
+      Rodzaj: <i>Hippotragus</i><br/>
+      Gatunek: <i>niger</i><br/>
+      Podgatunek:  <i>variani</i>
+     </color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="UI/zoopedia/biome/savannah_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Ciekawostki</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Imponujące poroże antylopy szablorogiej może osiągać długość nawet 150 cm.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>        
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Jeśli antylopa szabloroga straci poroże, nie odrasta ono już nigdy.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Antylopa szabloroga potrafi osiągać prędkość ponad 50 km/h i utrzymywać ją przez dłuższy czas.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Zanik antylopy szablorogiej spowodowany jest między innymi trwającą 27 lat wojną domową w Angoli.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Na świecie żyje tylko 1000 antylop szablorogich, zamieszkujących środkową Angolę (rezerwaty Luando i Kangandala).</color>
+    </cell>    
+    <br/> 
+   </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178">
+    Aby uzyskać dostęp do antylopy szablorogiej, musisz mieć 2 gwiazdki popularności.
+   </color>
+   <p/>
+Antylopa to nazwa odnosząca się do ogromnej grupy ssaków pustorogich, należących do tej samej rodziny co bydło, kozy i owce. Około 100 gatunków antylopy zamieszkuje tereny Afryki i Azji.
+   <p/>
+Wśród siedmiu gatunków znanych jako antylopy koniowate (Hippotraginae) znajduje się antylopa szabloroga, antylopa końska, oryks i adaks - duże zwierzęta, budową przypominające konie. Zamieszkują Afrykę i Półwysep Arabski. Mimo nazwy, nie sposób pomylić którykolwiek z tych gatunków z koniem, ponieważ każdy posiada ogromne rogi - które, za sprawą kłusowników, przyczyniły się do wytępienia tych zwierząt.
+   <p/>
+W odróżnieniu od jeleni, których rozwidlone rogi są zrzucane co roku, antylopy posiadają proste rogi, które muszą im wystarczyć na całe życie. Ich długość sięga 1,5 m; choć wyglądają na wytrzymałe, w rzeczywistości są kruche i łamliwe. Istnieją udokumentowane przypadki, kiedy antylopy zabijały nimi drapieżców takich jak lew, jednak w sytuacji zagrożenia zwierzęta te przeważnie uciekają.
+   <p/>
+Antylopy zwracają częściowo przetrawione jedzenie i połykają je ponownie. W odróżnieniu od innych podobnych zwierząt bardzo dokładnie przeżuwają pokarm. Zwierzęta te nie mają dolnych siekaczy, dlatego podczas jedzenia trawy lub liści wykorzytują dolne siekacze i stwardniałe podniebienie.
+   <p/>
+Antylopy mają wyjątkowo wrażliwe zmysły, pozwalające im uniknąć niebezpieczeństwa. Ich oczy umieszczone są po bokach głowy, a rozciągnięte poziomo źrenice pozwalają im dostrzec niebezpieczeństwo nadchodzące z każdej strony. Ich słuch i węch są również niezwykle wrażliwe - co niewątpliwie przydaje się szczególnie po zapadnięciu zmroku, kiedy wiele drapieżnych gatunków wychodzi na polowanie.
+   <p/>
+W sytuacji zagrożenia antylopy rzucają się do ucieczki. Pozwala im to uniknąć większości drapieżców, jednak nie chroni przez myśliwymi, dla których mięso, rogi i skóra antylopy stanowią cenny łup, ani przed zmianami zachodzącymi w ich naturalnym środowisku.
+  </cell>
+  <p/>
+  <cell width="260"/>
+  <cell width="620">
+   Źródło: <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2005.</color></u></a>(C) 1993-2004 Microsoft Corporation. All rights reserved.
+  </cell>
+ </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_wolverine:entry"  >Rosomak</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_wolverine:text"  >
+  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">
+   
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/Wolverine/Wolverine_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/vulnerable.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Stopień zagrożenia:
+                     <br/>
+                        <color r="255" g="255" b="0">
+                     Zagrożony
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>   
+   
+				<cell width="128">
+					<color r="255" g="255" b="255">Las iglasty</color>
+					<br/>
+					<img src="ui/icon_biomes/icon_borealforest.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+				</cell>
+				<cell width="128">
+					<color r="255" g="255" b="255">Ameryka Północna</color>
+					<br/>
+					<img src="ui/icon_maplocations/Boreal_America_North.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+				</cell>
+    <br/>
+    <cell width="284" pady="10">
+     <color r="255" g="255" b="255">
+      Typ: Ssaki <i>(Mammalia)</i><br/>
+      Gromada: Mięsożerne <i>(Carnivora)</i><br/>
+      Rodzina: Łasicowate <i>(Mustelidae)</i><br/>
+      Rodzaj: <i>Gulo</i><br/>
+      Gatunek: <i>gulo</i>
+     </color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="UI/zoopedia/biome/borealforest_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Ciekawostki</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Rosomak, największy i najgroźniejszy przedstawiciel rodziny łasicowatych, jest nazywany również diabelskim niedźwiedziem, carcajou i obżartuchem.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>        
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Rosomak ma bardzo silną szczękę i mocne zęby, co pozwala mu pożreć ofiarę w całości, włącznie ze skórą, kopytami i kośćmi.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Gdyby rosomak był wielkości niedźwiedzia, to byłby najsilniejszym zwierzęciem na ziemi.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Rosomak jest bardzo agresywny - potrafi walczyć o łup nawet z kuguarami i wilkami.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Rosomak ma doskonały węch, który pozwala mu wywęszyć łup nawet przez warstwę śniegu.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Rosomaki są zagrożone z powodu zanieczyszczenia środowiska i polowań.</color>
+    </cell>    
+    <br/> 
+   </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178">
+    Aby uzyskać dostęp do rosomaka, musisz posiadać 3 gwiazdki popularności.
+   </color>
+   <p/>
+
+Rosomak to ssak mięsożerny, występujący w północnych rejonach Ameryki Północnej, Europy i Azji, który zwyczajami bardzo przypomina borsuka. Francuskojęzyczni mieszkańcy Kanady nazywają go „carcajou”, a Anglo-kanadyjczycy używają określenia „quickhatch”. W Europie rosomak jest nazywany „obżartuchem”. Ciało rosomaka jest krępe, nogi – krótkie i grube, a pazury długie i zakrzywione. Głowa i ogon są nisko opuszczone, zaś grzbiet wygięty w wysoki łuk. Pysk jest krótki i wydłużony w szpic, a głowa zaokrąglona. Rosomak ma szeroko rozstawione oczy, a jego uszy jedynie nieznacznie wystają ponad poziom futra porastającego głowę. Ogon jest krótki i bardzo puszysty – pojedyncze włosy osiągają długość do 20 cm. Grube futro na ciele rosomaka składa się z długich, lśniących włosów; jest ciemnobrązowe, z wyjątkiem jaśniejszego pasma biegnącego po obu stronach ciała, przez całą jego długość, która (bez ogona) wynosi od 65 do 105 cm.
+
+   <p/>
+
+Rosomaka można spotkać w lasach i na równinach, od Kręgu Polarnego na północy do północnej granicy Stanów Zjednoczonych na południu. Występuje również w górach Sierra Nevada w Kalifornii. Prowadzi nocny tryb życia i nie zapada w sen zimowy. Pomimo pozornie niezdarnych ruchów, rosomak może poruszać się bardzo szybko; zwierzę to zazwyczaj żyje samotnie, z wyjątkiem sezonu godowego. Młode rodzą się w okresie od stycznia do kwietnia, zwykle od dwóch do czterech w miocie. Rosomaki żywią się ptasimi jajami, jagodami i wszystkimi zwierzętami, które są w stanie zabić. Kiedy zabraknie ofiar do upolowania, jedzą padlinę. Rosomaki potrafią zręcznie okradać sidła, które myśliwi zastawiają na inne zwierzęta. Chociaż dawniej często je spotykano, obecnie rosomak jest zwierzęciem rzadkim, ponieważ często jest zabijany ze względu na futro oraz ponieważ wiele ludzi uważa go za szkodnika.
+
+</cell>
+
+  <p/>
+  <cell width="260"/>
+  <cell width="620">
+   Źródło: <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2005.</color></u></a>(C) 1993-2004 Microsoft Corporation. All rights reserved.
+  </cell>
+ </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_koala:entry"  >Koala</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_koala:text"  >
+  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">
+   
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/Koala/Koala_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Stopień zagrożenia:
+                     <br/>
+                        <color r="170" g="255" b="0">
+                     Niskie zagrożenie
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>    
+   
+    <cell width="128">
+     <color r="255" g="255" b="255">Las liściasty<br/></color>
+     <img src="ui/icon_biomes/icon_temperateforest.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+    </cell>
+    <cell width="128">
+     <color r="255" g="255" b="255">Australia<br/></color>
+     <img src="ui/icon_maplocations/Temperateforest_Australia.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+    </cell>
+    <br/>
+    <cell width="284" pady="10">
+     <color r="255" g="255" b="255">
+      Typ: Ssaki <i>(Mammalia)</i><br/>
+      Gromada: Dwuprzodozębowce <i>(Diprotodontia)</i><br/>
+      Rodzina: Koala <i>(Phascolarctidae)</i><br/>
+      Rodzaj: <i>Phascolarctos</i><br/>
+      Gatunek: <i>cinereus</i>
+     </color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="UI/zoopedia/biome/temperateforest_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Ciekawostki</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Nazwa "koala" oznacza "nie pije" w kilku aborygeńskich językach.</color>
+    </cell>
+    <br/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Koala wygląda jak niedźwiedź, ale w rzeczywistości jest torbaczem - ssakiem noszącym swoje dziecko w torbie.</color>
+    </cell>
+    <br/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Młody koala podróżuje w torbie matki; potem matka nosi go przez sześć miesięcy na plecach, aż do osiągnięcia przezeń dojrzałości.</color>
+    </cell>
+    <br/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Koala to nocne zwierzęta; często przesypiają ponad 18 godzin dziennie.</color>
+    </cell>
+    <br/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Koala jest jednym z trzech zwierząt, które mogą odżywiać się eukaliptusem, trującym dla innych gatunków.</color>
+    </cell>
+    <br/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Zwierzęta te zazdrośnie strzegą swojego terytorium. Nawet kiedy koala zdycha, inne koala czekają, aż jego zapach ulotni się z jego terenu (czasami nawet rok), zanim go przejmą.</color>
+    </cell>
+    <br/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Z powodu wyniszczenia ich naturalnego środowiska, koala często występuje na terenach zabudowanych, gdzie zagrażają mu samochody, psy i koty.</color>
+    </cell>
+    <br/>    
+   </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178">
+    Aby uzyskać dostęp do koala, musisz zdobyć 2,5 gwiazdki popularności.
+   </color>
+   <p/>
+Koala jest żyjącym na drzewach torbaczem, którego wyspecjalizowana dieta zawiera niemal wyłącznie liście eukaliptusa. Koala występują w Australii, gdzie czasem nazywa się je misiami koala lub narodowymi misiami, mimo iż w rzeczywistości nie mają z niedźwiedziami nic wspólnego. Niedźwiedzie są ssakami łożyskowymi – ich młode rozwijają się wewnątrz ciała matki, odżywiane za pośrednictwem gąbczastego organu zwanego łożyskiem. Jako torbacze, młode koala rodzą się nie w pełni rozwinięte i osiągają pełen rozwój wewnątrz torby na brzuchu matki.
+   <p/>
+Niewiele dzikich zwierząt jest w stanie rywalizować z koalą w kwestii popularności i uznania. Wygląd tego zwierzęcia, przypominający misia-zabawkę, budzi sympatię ludzi i troskę o przeżycie tego gatunku, w świetle faktu, że coraz więcej gajów eukaliptusowych jest wycinanych, aby pozyskać przestrzeń dla rolnictwa, budownictwa i przemysłu.
+   <p/>
+Koala przypominają małe misie z dużą głową i krępym ciałem, małym ogonkiem i długimi, muskularnymi kończynami. Mają okrągłe pyszczki z prosto osadzonymi oczami, zaokrąglonym, wystającym nosem oraz zaokrąglone uszy na czubku głowy. Rozmiary koali wahają się od 69 do 79 cm długości i od 5 do 12 kg wagi. Samce są przeważnie większe od samic, a koala na południu osiągają zazwyczaj większe rozmiary, niż ich krewniacy na północy.
+   <p/>
+Ciało koali porasta grube, wełniste futro. U większości osobników białe futerko okrywa gardło i klatkę piersiową oraz ich okrągłe uszy, ale w innych miejscach kolor  i długość włosów różnią się w zależności od środowiska, w którym zwierzę żyje. Koala występujące w chłodniejszym, południowym klimacie mają długie futro o barwie szarobrązowej lub cynamonowej. Zwierzęta występujące w północnych rejonach zwrotnikowych mają futro krótsze i srebrnoszare.
+   <p/>
+Łapy koali są dobrze przystosowane do chwytania i wspinania się po drzewach. Przednie łapy są zakończone pięcioma palcami, każdy wyposażony w gruby, zakrzywiony pazur używany do wspinaczki. Pierwsze dwa palce są przeciwstawne do pozostałych trzech, tak jakby koala miały dwa kciuki. Taki kształt łapy umożliwia koala chwytanie gałęzi. Tylne łapy zwierzęcia również mają pięć palców. Szeroki, pozbawiony pazurów pierwszy palec jest przeciwstawny do pozostałych czterech. Drugi i trzeci palec są połączone w jeden palec o dwóch pazurach, który jest używany jak grzebień do pielęgnacji futra.
+   <p/>
+Dorosłe samce koala posiadają brązowy gruczoł zapachowy na środku klatki piersiowej. Gruczoł ten produkuje cuchnącą substancję, która sprawia, że futro wokół gruczołu jest mokre i ciemne. Samce ocierają ten gruczoł o pnie i gałęzie drzew, a pozostawiany w ten sposób zapach może odgrywać rolę w komunikacji koala między sobą. Typowo dla torbaczy, samice koali posiadają na brzuchu kieszeń, gdzie rozwijające się młode żyje przez pierwsze siedem miesięcy po porodzie. Torba otwiera się do góry, mimo że waga rosnącego malucha naciska na otwarcie w dół.
+   <p/>
+Oczy koali są osadzone prosto, co umożliwia zwierzęciu skupienie wzroku na jednym obiekcie. Ta zdolność, znana jako widzenie obuoczne, pozwala koali na dokładną ocenę odległości, co jest ważną umiejętnością dla zwierzęcia, którego tryb życia polega na przemieszczaniu się z gałęzi na gałąź. Koala wydają się mieć dobrze rozwinięty zmysł węchu – wąchają liście, zanim wybiorą ten, który chcą zjeść, co sugeruje, że potrafią wyczuć różnice pomiędzy pojedynczymi liśćmi. Wąchają również wydzieliny pozostawiane przez samce u podstawy drzew i gałęzi. 
+   <p/>
+Samice koali, zarówno te żyjące na wolności, jak i te w niewoli, żyją od 13 do 20 lat, podczas gdy długość życia samca wynosi ok. 12 lat. Jednakże większość koali żyjących w stanie dzikim ginie w młodym wieku padając ofiarą drapieżników, chorób bądź pojazdów mechanicznych.
+  </cell>
+  <p/>
+  <cell width="260"/>
+  <cell width="620">
+   Źródło: <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2005.</color></u></a>(C) 1993-2004 Microsoft Corporation. All rights reserved.
+  </cell>
+ </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_wolfgray:entry"  >Wilk szary</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_wolfgray:text"  >
+  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">
+   
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/WolfGray/WolfGray_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Stopień zagrożenia:
+                     <br/>
+                        <color r="170" g="255" b="0">
+                     Niskie zagrożenie
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>   
+   
+    <cell width="128">
+     <color r="255" g="255" b="255">Las iglasty<br/></color>
+     <img src="ui/icon_biomes/icon_borealforest.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+    </cell>
+    <cell width="128">
+     <color r="255" g="255" b="255">Ameryka Północna<br/></color>
+     <img src="ui/icon_maplocations/Boreal_America_North.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+    </cell>
+    <br/>
+    <cell width="284" pady="10">
+     <color r="255" g="255" b="255">
+      Typ: Ssaki <i>(Mammalia)</i><br/>
+      Gromada: Mięsożerne <i>(Carnivora)</i><br/>
+      Rodzina: Psowate <i>(Canidae)</i><br/>
+      Rodzaj: <i>Canis</i><br/>
+      Gatunek: <i>lupus</i><br/>
+      Podgatunek:  <i>lycaon</i>      
+     </color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="UI/zoopedia/biome/borealforest_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Ciekawostki</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Wilk szary, znany również jako wilk leśny bądź tundrowy, to największy z żyjących dziko psowatych.</color>
+    </cell>
+    <br/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Wilki szare porozumiewają się przez znaczenie swym zapachem określonych miejsc, wokalnie (w tym poprzez wycie), mimikę pyska oraz gesty ciała.</color>
+    </cell>
+    <br/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Wilk szary to zwierzę terytorialne; wszyscy dorośli, męscy członkowie stada patrolują granice swego terytorium i w razie potrzeby ich bronią. Terytoria takie mogą obejmować nawet do 13 tyś. km kwadratowych.</color>
+    </cell>
+    <br/> 
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Wilcze stada potrafią przebyć w ciągu dnia nawet po 32 km w poszukiwaniu żywności w obrębie terytoriów obejmujących ponad 600 mil kwadratowych.</color>
+    </cell>
+    <br/> 
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">W początkach XX wieku wilki szare niemal wyginęły na skutek działań osadników i rządu federalnego sponsorującego programy systematycznej likwidacji drapieżników celem ochrony zwierząt hodowlanych.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>        
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Populacja wilków powoli rośnie dzięki ochronie i edukacji ludności.</color>
+    </cell>    
+    <br/> 
+   </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178">
+    Aby uzyskać dostęp do wilka szarego, musisz zdobyć 2,5 gwiazdki popularności.
+   </color>
+   <p/>
+Wilk szary to największy członek rodziny psowatych i jeden z dwóch znanych nam gatunków wilka (drugim jest wilk rudy zamieszkujący południowo-wschodnie tereny USA). Wilki szare żyjące na bezdrzewnych połaciach Arktyki znane są jako wilki arktyczne, a te z terenów zalesionych, subarktycznych - wilki leśne bądź też wschodnie wilki leśne. Naukowcy wyróżniają jeden tylko podgatunek wilków szarych, określany najczęściej mianem meksykańskiego wilka szarego.
+   <p/>
+Wilk szary stał się symbolem zwierząt zagrożonych wyginięciem. Niegdyś były one najbardziej rozpowszechnionymi na ziemi dużymi ssakami - poza ludźmi - i zamieszkiwały znaczną część północnej półkuli. Dziś pozostało ich sporo jedynie w północnej Europie, Azji i na Alasce. W Europie Środkowej i Wschodniej, na Bliskim Wschodzie i w USA ograniczono zasięg ich występowania do nielicznych enklaw i leśnych ostępów.
+   <p/>
+Wilki szare to potężne zwierzęta o psich pyskach, dużych, puszystych ogonach i długich nogach zakończonych dużymi stopami. Porasta je najczęściej szare futro, które może mieć jednak brązowy lub rudy odcień. Najczęściej pierś i brzuch mają białe, na bokach i grzbietach spotyka się natomiast czarne łaty. Niektóre społeczności tych wilków składają się ze zwierząt wyłącznie białych lub wyłącznie czarnych.
+   <p/>
+Dorosły wilk szary mierzy do 2 m długości (wraz ze stanowiącym mniej niż połowę tej wartości ogonem) i waży do 80 kg. Łopatki unoszą się na wysokości od 0,5 do 1 m nad ziemią. Samice są z zasady mniejsze od samców, a wilki z południa - od swych północnych pobratymców.
+   <p/>
+Wilki szare tworzą stada składające się z nawet 24 członków, w których polują na dużych roślinożerców - jelenie, karibu czy łosie. Członkowie stada współpracują ze sobą w naganianiu zwierzyny w pułapkę, a ich polowania trwają od wczesnego wieczora do poranka. Pojedyncze wilki mogą polować na myszy, króliki, bobry i zwierzęta udomowione.
+   <p/>
+Wilcze stada to społeczności zorganizowane według ustalonej na sztywno hierarchii, w której dominują określone osobniki. Gdy dwóch członków stada się wita, to ten o pozycji dominującej staje wyprostowany, a podległy przykuca. Jednym ze wspólnych zajęć wilczych stad jest wycie - wspólne wydawanie z siebie dźwięków ułatwia utrzymanie jedności stada i wskazuje jego obecność na danym terenie innym wilkom.
+   <p/>
+Wilki szare najczęściej znajdują sobie partnera na całe życie. W jednym stadzie rozmnaża się tylko para dominująca, znana też jako para alfa. Wilki parzą się późną zimą, a samica rodzi miot czterech do siedmiu szczeniąt po ciąży trwającej 61 do 63 dni. Żywność dla szczeniąt przeżuwają zarówno rodzice, jak i inne dorosłe osobniki w stadzie, a szczenięta są chowane w legowiskach takich jak podziemne jamy, jaskinie skalne, wydrążone pnie drzewne czy przewrócone pniaki.
+   <p/>
+Wilki rzadko wchodzą w kontakty z ludźmi, którzy jednak od dawna świadomie niszczyli ich populację. Niektóre dzikie obszary stanowiły naturalne obszary ochronne dla wilków szarych, systematyczne wycinanie lasów prowadziło jednak do ich redukcji. W roku 1973 wilk szary trafił na amerykańską listę gatunków na wymarciu, dzięki czemu objęto je ochroną na terenie 48 kontynentalnych stanów USA. Wzrosła też tym samym publiczna świadomość wartości tych zwierząt.
+   <p/>
+W roku 1987 amerykańska służba ochrony zwierząt rozpoczęła działania mające na celu przywrócenie wilków do ich dawnych terytoriów w Parku Narodowym Yellowstone i obszarach w środkowym Idaho. W celu przezwyciężenia oporu społecznego środowiska zielonych i agencje rządowe zgodziły się płacić ranczerom za wszystkie zabite przez wilki zwierzęta hodowlane. Działania te odniosły spore sukcesy i biolodzy liczą, że status wilka szarego we wszystkich 48 stanach kontynentalnych będzie można wkrótce zmienić z gatunku na wymarciu na gatunek zagrożony wyginięciem.
+   <p/>
+Aktywiści prowadzący kampanię ochrony wilków szarych skupili ostatnio swe działania na meksykańskiej odmianie tego zwierzęcia, która już od prawie 50 lat nie występuje na swych pierwotnych terenach w południowo-zachodniej części USA. W pierwszych miesiącach 1998 roku amerykańska służba ochrony zwierząt przedstawiła plan sprowadzenia wilków meksykańskich do Rezerwatu Lasu Apaczów w Arizonie.
+  </cell>
+  <p/>
+  <cell width="260"/>
+  <cell width="620">
+   Źródło: <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2005.</color></u></a>(C) 1993-2004 Microsoft Corporation. All rights reserved.
+  </cell>
+ </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_orangutan:entry"  >Orangutan</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_orangutan:text"  >
+  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">
+   
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/Orangutan/Orangutan_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/Orangutan/Orangutan_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>						 
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/endangered.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Stopień zagrożenia:
+                     <br/>
+                        <color r="255" g="155" b="0">
+                     Zagrożony
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>   
+   
+    <cell width="128">
+     <color r="255" g="255" b="255">Tropikalny las deszczowy<br/></color>
+     <img src="ui/icon_biomes/icon_tropicalrainforest.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+    </cell>
+    <cell width="128">
+     <color r="255" g="255" b="255">Azja Południowowschodnia<br/></color>
+     <img src="ui/icon_maplocations/Rainforest_Asia_SouthEast.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+    </cell>
+    <br/>
+    <cell width="284" pady="10">
+     <color r="255" g="255" b="255">
+      Typ: Ssaki <i>(Mammalia)</i><br/>
+      Gromada: Naczelne <i>(Primata)</i><br/>
+      Rodzina: Człekokształtne <i>(Pongidae)</i><br/>
+      Rodzaj: <i>Pongo</i><br/>
+      Gatunek: <i>pygmaeus</i>
+     </color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="UI/zoopedia/biome/tropicalrainforest_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Ciekawostki</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Rozpiętość ramion orangutana jest większa niż długość jego ciała - ponad dwa metry.</color>
+    </cell>
+	 <cell width="32" pady="10">
+	 	 <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	 </cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Orangutany poruszają się po drzewach poprzez "zahaczanie" się długimi palcami o gałęzie i huśtanie się na ramionach.</color>
+    </cell>
+	 <cell width="32" pady="10">
+	 	 <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	 </cell> 
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Orangutany to najmniej towarzyskie z małp - dorosłe samce nie tolerują się nawzajem.</color>
+    </cell>
+	 <cell width="32" pady="10">
+	 	 <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	 </cell> 
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Podobnie jak ludzie, orangutany przekazują sobie nabyte zwyczaje; na przykład orangutany w Borneo używają liści do wycierania ust, a orangutany na Sumatrze używają ich jak rękawiczek podczas zwieszania się w ciernistych gałęzi.</color>
+    </cell>
+	 <cell width="32" pady="10">
+	 	 <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	 </cell> 
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Orangutany to bardzo inteligentni obserwatorzy; znane są przypadki, kiedy orangutan, który widział, jak człowiek odcumowuje łódź i wiosłuje w niej na druga stronę rzeki, powtarzał jego zachowanie.</color>
+    </cell>    
+	 <cell width="32" pady="10">
+	 	 <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	 </cell> 
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Największym zagrożeniem orangutanów jest stopniowe wyniszczanie tropikalnych lasów deszczowych.</color>
+    </cell>    
+	 <cell width="32" pady="10">
+	 	 <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	 </cell> 
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Kłusownicy często zabijają orangutany-matki, aby zdobyć młode; szacuje się, że na każdego orangutana, który przeżywa takie polowanie, przypada 6-10 martwych zwierząt.</color>
+    </cell>
+    <br/> 
+   </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178">
+    Aby uzyskać dostęp do orangutana, musisz posiadać 4,5 gwiazdki popularności.
+   </color>
+   <p/>
+  Orangutan to wielka małpa z rejonu Azji Południowowschodniej. Jego nazwa oznacza po malajsku (język austronezyjski) “człowiek z dżungli”. Orangutany żyją wyłącznie na Borneo i na północnym krańcu Sumatry.
+	<p/>
+	Orangutan spędza większość czasu na drzewach, używając swych długich ramion i hakowato ukształtowanych dłoni do chwytania gałęzi i lian. Rzadko schodzi na ziemię, ale jeśli to robi, porusza się na wszystkich czterech kończynach. Przemieszczanie się po wierzchołkach drzew jest trudne, wiec orangutan przemierza dziennie tylko kilkaset metrów. Każdego wieczora buduje nowe gniazdo na drzewie, często zginając w tym celu liście palmy betelowej. Zdarza się jednakże, że starsze samce podróżują i śpią na ziemi.
+   <p/>	
+	Charakterystyczną cechą orangutana jest szorstkie, długie, rudobrązowe futro. Samce orangutana osiągają ok. 95 cm wzrostu i ważą ok. 77 kg. Samice są mniejsze, ich wzrost dochodzi do 78 cm, a waga tylko do ok. 37 kg. Samiec ma policzki, które wyglądają jak opuchnięte, oraz obwisłe, workowate podgardle; mieszczą się w nim worki powietrzne, dzięki którym zwierzę może wydawać zawodzący, bulgoczący dźwięk, słyszalny w promieniu co najmniej 1 km.
+   <p/>	
+	Dieta orangutana składa się przynajmniej w połowie z owoców, ale zwierzęta te jedzą również młode liście, miękką korę, termity, jajka i od czasu do czasu mniejsze małpy. Orangutany gromadzą tłuszcz w okresie zimowym, aby przygotować się na trwającą od kwietnia do października porę monsunową, kiedy możliwości zdobycia pożywienia są bardzo ograniczone.
+   <p/>	
+	Orangutany to stworzenia żyjące samotnie. Z wyjątkiem okresu godowego dorosłe osobniki zwykle przemieszczają się i szukają pożywienia w pojedynkę. Kiedy samica jest gotowa do godów, zaczyna szukać dorosłego samca. Para pozostaje razem przez kilka dni, dopóki samica nie zajdzie w ciążę, po czym oboje powracają do samotniczego trybu życia. Ciąża trwa u orangutanów prawie 9 miesięcy – niemal tyle, co u człowieka. Samica rodzi jedno młode raz na 4 do 8 lat. Przez pierwsze 3 lata, dopóki nie zostanie odzwyczajone od karmienia piersią, młode pozostaje blisko matki. Kolejne 3 do 5 lat spędza na stopniowym uniezależnianiu się od matki, uzyskując ostateczną samodzielność w wieku ok. 8 lat. Zdarza się, że dorosła samica z młodym spotyka drugą podobną parę i spędzają wspólnie do ok. 3 dni, podczas których młode razem się bawią.
+   <p/>	
+	Mimo że zabijanie i wywóz orangutanów są nielegalne, kłusownictwo nadal trwa. Ponadto przestrzeń życiowa orangutanów gwałtownie się kurczy, co jest efektem zakrojonego na szeroką skalę wyrębu i wypalania lasów. Ogromne pożary lasów na Sumatrze i Borneo w 1997 i 1998 r. spowodowały śmierć tysięcy orangutanów, a kolejne tysiące straciły w ich wyniku miejsce do życia, co zagroziło przetrwaniu całego gatunku.  
+  </cell>
+  <p/>
+  <cell width="260"/>
+  <cell width="620">
+   Źródło: <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2005.</color></u></a>(C) 1993-2004 Microsoft Corporation. All rights reserved.
+  </cell>
+ </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_wilddogafrican:entry"  >Likaon</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_wilddogafrican:text"  >
+  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">
+   
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/WildDogAfrican/WildDogAfrican_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/endangered.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Stopień zagrożenia:
+                     <br/>
+                        <color r="255" g="155" b="0">
+                     Zagrożony
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>   
+   
+    <cell width="128">
+     <color r="255" g="255" b="255">Sawanna<br/></color>
+     <img src="ui/icon_biomes/icon_savannah.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+    </cell>
+    <cell width="128">
+     <color r="255" g="255" b="255">Afryka Południowa<br/></color>
+     <img src="ui/icon_maplocations/Savannah_Africa_South.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+    </cell>
+    <br/>
+    <cell width="284" pady="10">
+     <color r="255" g="255" b="255">
+      Typ: Ssaki <i>(Mammalia)</i><br/>
+      Rodzaj: Mięsożerne <i>(Carnivora)</i><br/>
+      Rodzina: Psowate <i>(Canidae)</i><br/>
+      Rodzaj: <i>Lycaon</i><br/>
+      Gatunek: <i>pictus</i>
+     </color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="UI/zoopedia/biome/savannah_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Ciekawostki</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Likaon to niestrudzony, szybki myśliwy, który potrafi ścigać ofiarę przez godzinę, na dystansach do czterech mil.</color>
+    </cell>
+    <br/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Likaony to jedne z najbardziej zagrożonych zwierząt w Afryce.</color>
+    </cell>
+    <br/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Przetrwanie tego gatunku zagrożone jest przez kontakt z psami domowymi, które zarażają likaony chorobami takimi jak panleukopenia i wścieklizna.</color>
+    </cell>
+    <br/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Utrata środowiska naturalnego również stanowi zagrożenie dla likaonów, które potrzebują ogromnych terytoriów, aby być w stanie wyżywić siebie i swoje rodziny.</color>
+    </cell>
+    <br/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Wyniszczenie środowiska jest wyjątkowo szkodliwe dla zwierząt wędrownych, do których należy likaon.</color>
+    </cell>
+    <br/>     
+   </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178">
+    Aby uzyskać dostęp do likaona, musisz posiadać 3,5 gwiazdki popularności.
+   </color>
+   <p/>
+Likaon jest małym, dzikim, mięsożernym psem występującym w Afryce na południu i wschodzie Sahary. Jest znany również jako afrykański pies myśliwski albo przylądkowy pies myśliwski. Ma czarną skórę i długie łapy, waży do 23 kg i jest pokryty krótkim, rzadkim futrem o różnych wzorach czarnego, żółtego i białego. Jego duże uszy są okrągłe, a każda łapa ma tylko 4 palce.
+  <p/>
+Zwierzę to żyje i przemieszcza się w stadach liczących od kilku do ponad 50 osobników. Wiadomo, że potrafią one przemierzyć obszar do 3900 m kw. w poszukiwaniu pożywienia. Likaony wykazują złożone wzory życia społecznego; inaczej niż u większości gatunków stadnych, przeważającą część grupy stanowią samce. W procesie rozmnażania na jednego samca przypada zwykle jedna samica. Oboje rodziców troszczy się o młode, które uczą się od starszych psów w stadzie, jak polować i tropić zwierzynę. Duże stado jest w stanie powalić duże zwierzęta, takie jak np. lwy. Po okresie ciąży, trwającym 79-80 dni, rodzi się od 6 do 16 młodych.
+  </cell>
+  <p/>
+  <cell width="260"/>
+  <cell width="620">
+   Źródło: <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2005.</color></u></a>(C) 1993-2004 Microsoft Corporation. All rights reserved.
+  </cell>
+ </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_horseprzewalskiswild:entry"  >Koń Przewalskiego</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_horseprzewalskiswild:text"  >
+  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">
+   
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/HorsePrzewalskisWild/HorsePrzewalskisWild_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/critical.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Stopień zagrożenia:
+                     <br/>
+                        <color r="255" g="0" b="0">
+                     Ginący
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>   
+   
+    <cell width="128">
+     <color r="255" g="255" b="255">Preria<br/></color>
+     <img src="ui/icon_biomes/icon_grassland.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+    </cell>
+    <cell width="128">
+     <color r="255" g="255" b="255">Azja Środkowa<br/></color>
+     <img src="ui/icon_maplocations/Grassland_Asia_Central.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+    </cell>
+    <br/>
+    <cell width="284" pady="10">
+     <color r="255" g="255" b="255">
+      Typ: Ssaki <i>(Mammalia)</i><br/>
+      Gromada: Nieparzystokopytne <i>(Perissodactyla)</i><br/>
+      Rodzina: Koniowate <i>(Equidae)</i><br/>
+      Rodzaj: <i>Equus</i><br/>
+      Gatunek: <i>ferus</i><br/>
+      Podgatunek: <i>przewalski</i>
+     </color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="UI/zoopedia/biome/grassland_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Ciekawostki</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Jedyny prawdziwy dziki koń - jego nazwa pochodzi od słynnego rosyjskiego badacza, który odkrył ten gatunek w Mongolii w roku 1879.</color>
+    </cell>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Koń Przewalskiego znany jest również jako dziki koń azjatycki, mongolski, oraz takhi.</color>
+    </cell>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Góry Ałtaj, w których niegdyś występował koń Przewalskiego, znane są również pod nazwą "Gór Żółtych Koni."</color>
+    </cell>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Stopa konia Przewalskiego to jeden palec, którego ostatnia kość rozszerza się w kształt kopyta, pozwalając zwierzęciu na niezwykle szybki galop.</color>
+    </cell>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">W odróżnieniu od innych koni, koń Przewalskiego posiada sterczącą pionowo grzywę.</color>
+    </cell>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Konia Przewalskiego nie widziano na wolności od lat 60-tych. Gatunek ten nadal nie występuje w naturalnym środowisku, mimo licznych prób odtworzenia jego populacji.</color>
+    </cell>    
+    <br/> 
+   </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178">
+    Aby uzyskać dostęp do konia Przewalskiego, musisz posiadać 3 gwiazdki popularności.
+   </color>
+   <p/>
+   Koń Przewalskiego, podgatunek konia domowego, jest stosunkowo mały i krępy, z dużą głową i długim ogonem. Pod koniec XIX w. obszar występowania konia Przewalskiego obejmował stepy i pustynie Mongolii, Kazachstan i część Chin. Postępująca utrata przestrzeni życiowej oraz polowania na konia Przewalskiego doprowadziły do tak drastycznego spadku populacji tych zwierząt, że przestały one występować w stanie dzikim i obecnie można je spotkać jedynie w niewoli.
+   <p/>
+Dziki koń Przewalskiego, którego uważa się za jedynego naprawdę dzikiego konia, który przetrwał do czasów nowożytnych, na wolności wyginął prawdopodobnie w Mongolii w latach 60. XX w. Ok. 1100 koni Przewalskiego żyje obecnie w ogrodach zoologicznych i parkach safari.
+  </cell>
+  <p/>
+  <cell width="260"/>
+  <cell width="620">
+   Źródło: <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2005.</color></u></a>(C) 1993-2004 Microsoft Corporation. All rights reserved.
+  </cell>
+ </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_lynxspanish:entry"  >Ryś hiszpański</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_lynxspanish:text"  >
+  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">
+   
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/LynxSpanish/LynxSpanish_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/critical.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Stopień zagrożenia:
+                     <br/>
+                        <color r="255" g="0" b="0">
+                     Ginący
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>   
+   
+    <cell width="128">
+			<color r="255" g="255" b="255">Las liściasty<br/></color>
+			<img src="ui/icon_biomes/icon_temperateforest.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+    </cell>
+    <cell width="128">
+     <color r="255" g="255" b="255">Hiszpania<br/></color>
+     <img src="ui/icon_maplocations/Scrub_Europe_Spain.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+    </cell>
+    <br/>
+    <cell width="284" pady="10">
+     <color r="255" g="255" b="255">
+      Typ: Ssaki <i>(Mammalia)</i><br/>
+      Gromada: Mięsożerne <i>(Carnivora)</i><br/>
+      Rodzina: Kotowate <i>(Felidae)</i><br/>
+      Rodzaj: <i>Lynx</i><br/>
+      Gatunek: <i>pardinus</i>
+     </color>
+    </cell>
+    <cell width="256" pady="10">
+		<img src="UI/zoopedia/biome/temperateforest_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Ciekawostki</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Nazwa rysia pochodzi od greckiego słowa oznaczającego "lśnić," co być może odnosi się do jego błyszczących oczu.</color>
+    </cell>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Ryś hiszpański jest zwierzęciem nocnym, ale jego dzienna aktywność znacznie wzrasta w zimie.</color>
+    </cell>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Ryś hiszpański zakopuje niezjedzone ofiary, aby pożreć je następnego dnia.</color>
+    </cell>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Ryś hiszpański jest jednym z najbardziej zagrożonych kotów na świecie - na wolności pozostaje około tysiąca tych zwierząt.</color>
+    </cell>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Rysie hiszpańskie często wpadają w sidła zastawione na inne zwierzęta.</color>
+    </cell>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">W Europie ocalenie rysia hiszpańskiego stało się częścią programu ratowania dużych zwierząt mięsożernych (Large Carnivore Initiative).</color>
+    </cell>     
+    <br/> 
+   </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178">
+    Aby uzyskać dostęp do rysia hiszpańskiego, musisz posiadać 3,5 gwiazdki popularności.
+   </color>
+   <p/>
+Ryś jest powszechnym określeniem trzech przedstawicieli gatunku dzikich mięsożerców charakteryzujących się nieproporcjonalnie długimi kończynami i dużymi, ciężkimi łapami. Rysia można spotkać na wszystkich obszarach klimatu umiarkowanego i podbiegunowego na północnej półkuli. Zwierzęta te mają mocną budowę ciała, grube, miękkie futro i krótkie ogony; osiągają długość od 65 do 130 cm. Większość gatunków posiada ponad 2-centymetrowy pęczek włosia na koniuszku każdego ucha. Rysie potrafią zręcznie się wspinać i przy sprzyjającej pogodzie spędzają część czasu na konarach drzew, czekając, aż pojawią się pod nimi słabsze ssaki lub żyjące na ziemi ptaki, na które często polują. Nierzadko rysie podkradają się do swoich ofiar. W przypadku niepogody oraz w okresie godowym rysie skrywają się w jaskiniach lub w spróchniałych pniach czy konarach drzew. Miot liczy zazwyczaj od 2 do 4 kociąt. Rysie są wysoko cenione z względu na swoje futro.
+   <p/>
+Istnieją 4 uznane gatunki rysia: ryś hiszpański, zaklasyfikowany jako gatunek zagrożony wyginięciem; ryś amerykański, znany także jako dziki kot, spotykany powszechnie w USA z wyjątkiem stanów w części środkowozachodniej (Iowa, Illinois, Indiana); ryś euroazjatycki, zwany też północnym, oraz ryś kanadyjski. Ten ostatni występuje na terenie północnych USA, w Kanadzie i na Alasce; jest to największy gatunek rysia w Ameryce Północnej. Osiąga ok. 90 cm długości od głowy do nasady ogona, natomiast ogon ma długość od 5 do 14 cm. Grzbiet ma barwę ciemnoszarą z pasmami w kolorze orzecha, a brzuch jest szarobiały, często z czarnymi plamkami. Gatunek ten żywi się przede wszystkim zającami śnieżnymi, sarnami i innymi kopytnymi. W 1998 r. organizacja US Fish and Wildlife Service zaklasyfikowała rysia kanadyjskiego jako gatunek chroniony w lasach dolnych 48 stanów.
+  </cell>
+  <p/>
+  <cell width="260"/>
+  <cell width="620">
+   Źródło: <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2005.</color></u></a>(C) 1993-2004 Microsoft Corporation. All rights reserved.
+  </cell>
+ </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_komododragon:entry"  >Waran z Komodo</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_komododragon:text"  >
+  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">
+   
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/KomodoDragon/KomodoDragon_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/vulnerable.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Stopień zagrożenia:
+                     <br/>
+                        <color r="255" g="255" b="0">
+                     Zagrożony
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>   
+   
+    <cell width="128">
+     <color r="255" g="255" b="255">Busz<br/></color>
+     <img src="ui/icon_biomes/icon_scrub.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+    </cell>
+    <cell width="128">
+     <color r="255" g="255" b="255">Azja Południowowschodnia<br/></color>
+     <img src="ui/icon_maplocations/Scrub_Asia_SouthEast_KomodoIsland.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+    </cell>
+    <br/>
+    <cell width="284" pady="10">
+     <color r="255" g="255" b="255">
+      Typ: Gady <i>(Reptilia)</i><br/>
+      Gromada: Łuskonośne <i>(Squamata)</i><br/>
+      Rodzina: Warany <i>(Varanidae)</i><br/>
+      Rodzaj: <i>Varanus</i><br/>
+      Gatunek: <i>komodoensis</i>
+     </color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="UI/zoopedia/biome/scrub_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Ciekawostki</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Waran z Komodo (znany również jako jaszczur z Komodo) to największy jaszczur na świecie.</color>
+    </cell>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Waran z Komodo potrafi pożreć pokarm w wadze wynoszącej 80 procent wagi jego ciała.</color>
+    </cell>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Ślina warana z Komodo zawiera gatunek bakterii, który powoduje groźne (zwykle śmiertelne) zakażenie.</color>
+    </cell>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Zęby warana z Komodo są bardziej zbliżone do zębów rekina, niż innych jaszczurów.</color>
+    </cell>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Po wykluciu z jaja waran z Komodo jest zdany tylko na siebie - żyje przeważnie na drzewach, gdzie ukrywa się między innymi przed dorosłymi przedstawicielami swojego gatunku, znanymi z kanibalizmu.</color>
+    </cell>    
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Waran z Komodo nie obawia się ludzi, dlatego odnotowano wiele (często śmiertelnych) ataków tego zwierzęcia.</color>
+    </cell>    
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Warany z Komodo zagrożone są przez myśliwych. Egzemplarze schwytane na wolności szybko zdychają, choć wiele waranów urodzonych w zoo żyje i ma się dobrze.</color>
+    </cell>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Środowisko naturalne warana z Komodo było jednym z pierwszych chronionych obszarów w Azji.</color>
+    </cell>    
+    <br/> 
+   </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178">
+    Aby uzyskać dostęp do warana z Komodo, musisz posiadać 2 gwiazdki popularności.
+   </color>
+   <p/>
+Warany to wspólna nazwa dla rodziny, w której zawiera się największy żyjący gatunek jaszczura - waran z Komodo. Warany żyją na terenach tropikalnych i pustynnych w Afryce, Azji, od Chin aż po Malezję, w Indiach Wschodnich i Australii. Rodzina zawiera około 30 gatunków, których wielkość waha się od 20 cm do ponad 3 m. Warany charakteryzują się długim, rozwidlonym językiem; są w stanie połknąć w całości nawet dużą zdobycz. Poruszają się bardzo szybko. Mają podłużne głowy, długie szyje, silne nogi oraz mocne, umięśnione ogony. Warany żywią się insektami, ptakami, gadami, jajami, niewielkimi ssakami i padliną.
+  <p/>
+Warany to jedne z najdłużej żyjących jaszczurów. Są spokrewnione z mozazaurem, morskim gadem zamieszkującym naszą planetę 136-65 milionów lat temu, mierzącym 10 m. Największym przedstawicielem rodziny jest ważący 165 kg waran z Komodo. Zamieszkuje on kilka wysp w Indonezji (w tym, oczywiście, Komodo). Jest groźnym myśliwym i padlinożercą; w jego paszczy znajdują się niebezpieczne bakterie, dlatego samo ugryzienie tego zwierzęcia może mieć fatalne skutki.
+  <p/>
+Chociaż warany są zwierzętami lądowymi, potrafią również pływać i chodzić po drzewach. Gatunek występujący w Indiach Wschodnich spotykany jest czasami w znacznej odległości od lądu. Dwa gatunki, w tym waran z Komodo, zostały wciągnięte na Czerwoną Listę organizacji World Conservation Union.
+  </cell>
+  <p/>
+  <cell width="260"/>
+  <cell width="620">
+   Źródło: <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2005.</color></u></a>(C) 1993-2004 Microsoft Corporation. All rights reserved.
+  </cell>
+ </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_markhor:entry"  >Kozioł śruborogi</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_markhor:text"  >
+  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">
+   
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/Markhor/Markhor_M_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/Markhor/Markhor_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/endangered.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Stopień zagrożenia:
+                     <br/>
+                        <color r="255" g="155" b="0">
+                     Zagrożony
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>   
+   
+    <cell width="128">
+     <color r="255" g="255" b="255">Góry<br/></color>
+     <img src="ui/icon_biomes/icon_alpine.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+    </cell>
+    <cell width="128">
+     <color r="255" g="255" b="255">Azja<br/></color>
+     <img src="ui/icon_maplocations/Alpine_Asia.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+    </cell>
+    <br/>
+    <cell width="284" pady="10">
+     <color r="255" g="255" b="255">
+      Typ: Ssaki <i>(Mammalia)</i><br/>
+      Gromada: Parzystokopytne <i>(Artiodactyla)</i><br/>
+      Rodzina: Krętorogie <i>(Bovidae)</i><br/>
+      Rodzaj: <i>Capra</i><br/>
+      Gatunek: <i>falconeri</i>
+     </color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="UI/zoopedia/biome/alpine_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Ciekawostki</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Kozioł śruborogi to jeden z największych kozłów.</color>
+    </cell>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Kozioł śruborogi zwany jest również markurem; mimo iż jest roślinożerny, nazwa ta wywodzi się od perskich słów "mar" (wąż) i "hor" (jeść).</color>
+    </cell>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Markury są bardzo zręczne i znane ze swojej umiejętności wspinania się na drzewa. Zoo w San Diego doniosło nawet o przypadkach, kiedy markury wędrowały po szczytach ogrodzeń siatkowych.</color>
+    </cell>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Długie, zakręcone rogi dorosłego markura mogą osiągać długość ponad półtora metra.</color>
+    </cell>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Markury stanowią pożywienie leopardów, wilków, rysi, a także ludzi, gotowych zapłacić tysiące dolarów za przywilej polowania na te zwierzęta.</color>
+    </cell>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Kozioł śruborogi został niemal wytępiony ze względu na smaczne mięso i piękne poroże. Do zagłady tego gatunku przyczynia się również zanik jego naturalnego środowiska oraz konkurencja ze strony zwierząt domowych.</color>
+    </cell>    
+    <br/> 
+   </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178">
+    Aby uzyskać dostęp do kozła śruborogiego, musisz posiadać 2 gwiazdki popularności.
+   </color> 
+   <p/>
+   Markur, największy kozioł, należy do rodziny antylop. Zamieszkuje górzyste regiony Pakistanu i Afganistanu, oraz Indie Północne. 
+   <p/>
+   Samce markura posiadają charakterystyczne, spiralnie kręcone rogi, osiągające długość nawet 160 cm. Samice również mają spiralne rogi, jednak są one nieco krótsze - do 25 cm. Samce osiągają wzrost 91-104 i wagę ok. 90 kg. Samice są znacznie mniejsze: ich wzrost wynosi 65-70 cm, a waga waha się w okolicach 40 kg. 
+   <p/>
+   Markur posiada długą, jedwabistą sierść, która w lecie przybiera blady, rudawy kolor, a w zimie staje się rudoszara. Samce płowieją i szarzeją z wiekiem. Samce z regionów najbardziej wysuniętych na północ posiadają długie grzywy i brody sięgające niemal do kolan. 
+   <p/>
+   Podobnie jak inne zwierzęta z tej rodziny, markury są zwierzętami stadnymi. Na początku roku skupiają się głównie w dolinach i osłoniętych kanionach, a w lecie przenoszą się na wyższe tereny, w szczególności na skaliste zbocza górskie. Samce przez większą część roku żyją w stadach liczących 4-5 sztuk, ale późną jesienią przyłączają się do samic. Jak większość rogatych zwierząt, walczą między sobą o względy samic. Okres rui przypada na listopad albo grudzień, a sześć miesięcy później samica rodzi jedno młode (bardzo rzadko rodzą się również bliźniaki).
+   <p/>
+   Markur występuje w kilku odmianach, czasami klasyfikowanych jako odrębne gatunki. Obecnie rozróżnia się dwa podgatunki: północny - z szerokimi rogami, i południowy - z wąskimi rogami.
+   <p/>
+   Myśliwi uważają kozła śruborogiego za idealną zwierzynę łowną. Jednak konkurencja ze strony zwierząt domowych, zanik naturalnego środowiska i intensywne polowania bardzo przerzedziły populację tych zwierząt. Organizacja International Union for the Conservation of Nature zaklasyfikowała markura jako gatunek ginący, a odmiana południowa trafiła na listę zwierząt chronionych.
+  </cell>
+  <p/>
+  <cell width="260"/>
+  <cell width="620">
+   Źródło: <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2005.</color></u></a>(C) 1993-2004 Microsoft Corporation. All rights reserved.
+  </cell>
+ </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_gibboncrested:entry"  >Gibon czarny</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_gibboncrested:text"  >
+  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">
+   
+
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/GibbonCrested/GibbonCrested_M_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/GibbonCrested/GibbonCrested_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>
+						 <cell width="16">						 
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/endangered.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Stopień zagrożenia:
+                     <br/>
+                        <color r="255" g="155" b="0">
+                     Zagrożony
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>   
+   
+    <cell width="128">
+     <color r="255" g="255" b="255">Tropikalny las deszczowy<br/></color>
+     <img src="ui/icon_biomes/icon_tropicalrainforest.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+    </cell>
+    <cell width="128">
+     <color r="255" g="255" b="255">Azja Południowowschodnia<br/></color>
+     <img src="ui/icon_maplocations/Rainforest_Asia_SouthEast.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+    </cell>
+    <br/>
+    <cell width="284" pady="10">
+     <color r="255" g="255" b="255">
+      Klasa: Ssaki <i>(Mammalia)</i><br/>
+      Gromada: Naczelne <i>(Primata)</i><br/>
+      Rodzina: Małpiatki <i>(Hylobatidae)</i><br/>
+      Rodzaj: <i>Hylobates</i><br/>
+      Gatunek: <i>concolor</i>
+     </color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="UI/zoopedia/biome/tropicalrainforest_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Ciekawostki</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Gibon czarny posiada na głowie kępę długiego futra.</color>
+    </cell>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Samce gibona czarnego są czarne; samice mają złotawy kolor i czarny pysk.</color>
+    </cell>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Gibon czarny należy do najbardziej zagrożonych naczelnych.</color>
+    </cell>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Gatunek ten jest zagrożony ze względu na z deforestację, polowania i sprzedaż młodych jako zwierząt domowych.</color>
+    </cell>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Podejmowane są rozpaczliwe próby ratowania tego gatunku.</color>
+    </cell>    
+    <br/> 
+   </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178">
+    Aby uzyskać dostęp do gibona czarnego, musisz zdobyć 4 gwiazdki popularności.
+   </color>
+   <p/>
+Gibon to wspólna nazwa dla małp człekokształtnych żyjących w podrównikowych rejonach Indii, Indochin i Archipelagu Malajskiego. Gibon to szczupłe stworzenie o małej, okrągłej głowie i miękkim, wełnistym futrze. Charakteryzuje się długimi ramionami, na których potrafi bardzo sprawnie zwieszać się z drzew, używając ich jak haków. Duży gibon może mierzyć 75-90 cm; rozpiętość ramion jest prawie dwukrotnie większa. Gibon to jedyna małpa człekokształtna która chodzi wyłącznie na tylnych łapach, używając ramion do balansowania. Gibony są monogamiczne; młode pozostają w grupie aż do osiągnięcia wieku 5-6 lat. Zwierzęta te żywią się liśćmi, owocami, częściami kwiatów, insektami, pająkami, ptakami i jajami. W ciągu dnia są przeważnie bardzo ciche, jednak o wschodzie słońca i późnym popołudniem wydają z siebie głośne wycie. Istnieje około dziewięciu gatunków gibona. Wou-wou, pochodzący z Jawy, jest szary; gibon białoręki, posiada białe dłonie i stopy i znany jest ze swojego melodyjnego wycia.
+   <p/>
+Największy gibon to siamang, zamieszkujący Malezję i Sumatrę. W roku 1979 Grant Park Zoo w Atlantcie w stanie Georgia odkryło, że czteroletnia samica "siabon" jest krzyżówką gibona srebrnego i siamanga; był to pierwszy taki zarejestrowany przypadek. Populacje dziko żyjących gibonów zostały wytępione przez polowanie i deforestację.
+
+  </cell>
+  <p/>
+  <cell width="260"/>
+  <cell width="620">
+   Żródło: <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2005.</color></u></a>(C) 1993-2004 Microsoft Corporation. All rights reserved.
+  </cell>
+ </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_tortoisegalapagos:entry"  >Żółw olbrzymi z Galapagos</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_tortoisegalapagos:text"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities\units\animals\TortoiseGalapagos\TortoiseGalapagos_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						</cell>
+						<cell width="16">
+							<img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						</cell>
+						<cell width="16">
+							<img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						</cell>
+						<cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/endangered.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Stopień zagrożenia:
+                     <br/>
+                        <color r="255" g="155" b="0">
+                     Zagrożony
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>            
+            
+               <cell width="128">
+                  <color r="255" g="255" b="255">Busz<br/></color>
+                  <img src="ui/icon_biomes/icon_scrub.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+               </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Ameryka Południowa<br/></color>
+                  <img src="ui/icon_maplocations/Scrub_America_South_West.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">Typ: Gady <i>(Reptilia)</i><br/>Gromada: Żółwie <i>(Testudines)</i><br/>Rodzina: Żółwie lądowe <i>(Testudinae)</i><br/>Rodzaj: <i>Geochelone</i><br/>Gatunek: <i>nigra</i><br/>Podgatunek:  <i>porteri</i>
+                  </color>
+               </cell>
+               <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/scrub_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+               </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Ciekawostki</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Żółw olbrzymi z Galapagos to największy ze znanych żółwi, ważący często ponad 200 kg i mierzący od głowy do ogona ponad 180 cm.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Żółwie te potrafią doskonale przechowywać żywność i wodę, dzięki czemu mogą przeżyć bez posiłku czy napoju nawet przez rok.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Małe żółwie po urodzeniu przez miesiąc wygrzebują się z gniazda, w którym się wykluły.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Żółwie olbrzymie tworzą społeczność na zasadach dominacji hierarchicznej - osobnikiem alfa zostaje ten, który potrafi najwyżej unieść głowę.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Hiszpańscy odkrywcy nazwali wyspy Galapagos (po hiszpańsku... żółwie) na cześć znalezionych na nich ćwierć miliona okazów tych zwierząt. Dziś żyje ich już ledwie 15 tysięcy.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Żółwie olbrzymie z Galapagos należą do najbardziej zagrożonych żółwi świata. W początkach XIX wieku wielkie ich ilości mordowały załogi statków wielorybniczych.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">W obecnych czasach największe zagrożenie dla żółwi stanowią zwierzęta sprowadzone na Wyspy Galapagos przez człowieka - świnie zjadające żółwie jaja, szczury zjadające młode żółwiki i kozy zjadające rośliny, którymi żółwie się żywią.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Żółwie olbrzymi z Galapagos znajdują się obecnie pod ochroną na mocy praw Ekwadoru.</color>
+               </cell>
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">Aby uzyskać dostęp do żółwia olbrzymiego z Galapagos, musisz posiadać 1,5 gwiazdki popularności.</color>
+            <p/>
+            Żółwie lądowe to rodzina powolnych zwierząt znanych ze swej długowieczności - niektóre okazy dożywają wieku 150 lat. Rozróżniamy 41 gatunków tych stworzeń.
+            <p/>
+            Żółwie lądowe zamieszkują wszystkie kontynenty świata z wyjątkiem Australii i Antarktydy. Najwięcej z nich występuje w tropikalnych regionach Afryki, Ameryki Południowej i Azji. Większość żółwi lądowych osiedla się w środowiskach suchych - takich jak pustynie czy sawanny - niektóre preferują jednak otoczenia wilgotne w rodzaju puszcz czy lasów deszczowych.
+            <p/>
+            Żółwie lądowe bardzo się różnią rozmiarami - najmniejsze okazy z Madagaskaru mierzą ledwie 10 cm długości, a największe żółwie olbrzymie osiągają 1,4 metra długości i ponad 250 kg wagi. Swe ciała chronią ciężkimi skorupami składającymi się z wewnętrznej warstwy kostnej i zewnętrznej, na którą składają się zrogowaciałe płytki. U większości żółwi skorupa ma wypukły, kopulasty kształt, który utrudnia drapieżnikom objęcie jej zębami i strzaskanie. Niektóre gatunki żółwi wykorzystują specjalne elementy skorupy na swego rodzaju zawiasach do ochrony otworów, przez które wystawiają głowę, kończyny i ogon. 
+            <p/>
+            Żółwie lądowe posiadają silne, grube nogi zdolne do uniesienia ciężaru skorup. Jeśli żółw w ogóle się porusza, robi to bardzo wolno - potrafi całymi godzinami trwać w bezruchu, po czym pójść naprzód z prędkością ledwie 0,2 km/h. Niektóre żółwie - na przykład odmiana spotykana na południu USA i w północnym Meksyku - wyróżniają się spłaszczonymi kończynami przednimi, które umożliwiają im wykopywanie podziemnych jam. Skóra na głowie, ogonie i kończynach żółwia lądowego pokryta jest rogowymi łuskami, dzięki którym łatwiej jest stworzeniu nie dopuścić do wyschnięcia tkanek jego organizmu.
+            <p/>
+            Większość żółwi lądowych to stworzenia roślinożerne. Tak jak wszystkie żółwie, również te lądowe nie posiadają zębów, a w ich jamach gębowych znajdują się jedynie kościste wypustki, którymi odgryzają kawałki roślin. Niektóre odmiany żółwi lądowych spożywają także małe zwierzęta w rodzaju owadów czy robaków oraz padlinę większych stworzeń; powolność uniemożliwia im polowanie na żywe ofiary.
+            <p/>
+            Rytuały godowe rozpoczyna najczęściej samiec, który krąży wokół samicy kiwając głową, w niektórych wypadkach podgryzając jej skorupę lub nogi. Samiec następnie wdrapuje się na samicę i przystępuje do parzenia, czasami wydając z siebie w trakcie tego procesu głośne ryki. Samice składają jaja w podziemnych gniazdach; okres wykluwania wynosi w zależności od gatunku od dwóch miesięcy do ponad roku. W przypadku niektórych żółwi lądowych - na przykład birmańskich żółwi brązowych - samice pozostają przez wiele dni w pobliżu gniazda, aby chronić jaja przed drapieżnikami. Po wykluciu młode muszą się jednak troszczyć same o siebie i są pozbawione pomocy rodziców.
+            <p/>
+            Wiele gatunków żółwi lądowych jest zagrożonych wymarciem na skutek działalności człowieka - ludzie jedzą żółwie mięso i jaja oraz niszczą lub zmieniają ich naturalne środowisko. Żółwie olbrzymie z Galapagos należą do najbardziej zagrożonych żółwi świata. W początkach XIX wieku wielkie ich ilości mordowały załogi statków wielorybniczych. W obecnych czasach natomiast największe zagrożenie dla żółwi stanowią zwierzęta sprowadzone na Wyspy Galapagos przez człowieka - świnie zjadające żółwie jaja, szczury zjadające młode żółwiki i kozy zjadające rośliny, którymi żółwie się żywią. Żółwie olbrzymi z Galapagos znajdują się obecnie pod ochroną na mocy praw Ekwadoru.
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Źródło: <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2004.</color></u></a>(C) 1993-2003 Microsoft Corporation. All rights reserved.
+         </cell>
+      </LOC_STRING>
+</ZT2Strings>

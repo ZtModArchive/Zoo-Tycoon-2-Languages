@@ -1,0 +1,201 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<ZT2Strings>
+	<LOC_STRING _locID="zoopedia_cloning:entry"  >Tworzenie wymarłych gatunków</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_cloning:text"  >
+         <color r="255" g="255" b="255">
+            <cell pady="0" width="1000"/>
+            <p/>
+            <cell width="260"/>
+            <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+               <cell width="600" padx="20" pady="20">
+		    <cell width="600">
+			<color r="255" g="255" b="255">
+			  <img src="entities\objects\buildings\CloningCenter\CloningCenter_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+			</color>
+		    </cell>  
+		<p/>    
+			<a href="zoopedia:zoopedia_cloningcenter:entry">
+			       <u>
+				  <color r="255" g="231" b="135">Laboratorium badań nad wymarłymi gatunkami </color>
+			       </u> 
+			</a>
+           	to miejsce, w którym możesz przywrócić od życia wymarłe gatunki.
+		<p/>
+		Po znalezieniu  
+	    <a href="zoopedia:zoopedia_fossilfinding:entry">
+               <u>
+                  <color r="255" g="231" b="135">skamieliny </color>
+               </u>
+            </a>
+ użyj zakładki  
+	    <a href="zoopedia:zoopedia_fossilbuilding:entry">
+               <u>
+                  <color r="255" g="231" b="135">budowy skamielin, </color>
+               </u>
+            </a>
+		aby stworzyć w Laboratorium wymarły gatunek! Zacznij od kliknięcia zakładki. Następnie wybierz zakładkę tworzenia wymarłych gatunków i wskaż interesujące cię zwierzę.  
+		<p/>
+		Na ekranie w Laboratorium pojawi się kombinacja symboli. Musisz ją powtórzyć za pomocą klawiatury i myszy. Zwracaj uwagę na linię skanera i staraj się zrobić to szybko i precyzyjnie. 
+		<p/>
+		    <cell width="600">
+			<color r="255" g="255" b="255">
+			  <img src="UI\fx\traininggestures\cloningcenter_mystery.dds" sx="0" sy="0" sw="0" sh="0" width="64" height="64"/>
+			</color>
+		    </cell>
+		Gdy będziesz tworzył zwierzę wysokogwiazdkowe, może się zdarzyć, iż jeden z klawiszy zakryje znak ?. Postaraj się zapamiętać, jaki klawisz został zakryty i wciśnij go, gdy linia skanera dojdzie do znaku ?. Tworzenie zwierząt wymaga pewnej praktyki, nikt jednak nie mówił, że będzie łatwo! 
+		<p/>
+		Jeśli dobrze się spiszesz, stworzysz superzwierzę. Nie tylko będzie ono bardzo szczęśliwe i całkowicie zdrowe, ale i wyjątkowo dorodne. Stworzenie takiego zwierzęcia wymaga pewnej wprawy, ale goście zoo potrafią godnie odpłacić za taki wysiłek.
+		<p/>
+               </cell>
+            </cell>
+         </color>
+      </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_dinorampage:entry"  >Szał dinozaura</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_dinorampage:text"  >
+         <color r="255" g="255" b="255">
+            <cell pady="0" width="1000"/>
+            <p/>
+            <cell width="260"/>
+            <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+               <cell width="600" padx="20" pady="20">
+		Od czasu do czasu dinozaury ogarnia szał. Nikt nie wie, co jest jego przyczyną. Szalejące dinozaury są bardzo niebezpieczne i wymagają poskromienia nim zdemolują połowę zoo. Aby uśpić rozwścieczonego dinozaura, kliknij duży przycisk wyszukujący rozwścieczone zwierzęta, który znajdziesz w prawym górnym rogu ekranu. Następnie kliknij przycisk Uśpij, który znajdziesz w panelu dinozaura. Zostaniesz przeniesiony do trybu FPP. Twoim zadaniem będzie celowanie w dinozaura, aż celownik zrobi się zielony. Gdy to nastąpi, wciśnij spację. Spowoduje to wystrzelenie strzałki ze środkiem uspokajającym. 
+		<p/>
+		Możesz też wezwać na pomoc 
+			    <a href="zoopedia:zoopedia_dinorecoveryteam:entry">
+			       <u>
+				  <color r="255" g="231" b="135">Oddział do łapania dinozaurów,</color>
+			       </u>
+			    </a>
+		który stacjonuje w 
+				<a href="zoopedia:zoopedia_dinorecoverybuilding:entry">
+			       <u>
+				  <color r="255" g="231" b="135">bunkrze OŁD. </color>
+			       </u> 
+				</a>
+		Pamiętaj jednak, iż przybycie na miejsce akcji zajmuje OŁD dłuższą chwilę. Szybciej i taniej będzie uśpić dinozaura samemu.             	           	
+		<p/>
+               </cell>
+            </cell>
+         </color>
+      </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_diseaseresearch:entry"  >Leczenie choroby</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_diseaseresearch:text"  >
+         <color r="255" g="255" b="255">
+            <cell pady="0" width="1000"/>
+            <p/>
+            <cell width="260"/>
+            <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+               <cell width="600" padx="20" pady="20">
+		    <cell width="600">
+			<color r="255" g="255" b="255">
+			  <img src="entities\objects\buildings\CloningCenter\CloningCenter_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+			</color>
+		    </cell>  
+		<p/>		
+		Czasami twoje zwierzęta chorują. Na szczęście masz 
+				<a href="zoopedia:zoopedia_cloningcenter:entry">
+			       <u>
+				  <color r="255" g="231" b="135">Laboratorium badań nad wymarłymi gatunkami,</color>, 
+			       </u>  
+				</a>
+		w którym możesz opracować lekarstwo. Gdy pojawi się informacja o tym, że jedno ze zwierząt zachorowało, kliknij przycisk 
+				<a href="zoopedia:zoopedia_cloningcenter:entry">
+			       <u>
+				  <color r="255" g="231" b="135">Laboratorium badań nad wymarłymi gatunkami,</color> i 
+			       </u>  
+				</a>
+		wybierz zakładkę leczenia chorób. Następnie kliknij znajdujący się tam przycisk, aby rozpocząć opracowywanie lekarstwa. Możesz też przejść do tej zakładki za pomocą przycisku wyszukiwania chorych zwierząt, gdy klikniesz na wizerunku chorego zwierzęcia z jego panelu informacyjnego.
+		<p/>
+		Proces opracowywania lekarstwa zaczyna się od pobrania próbki od chorego zwierzęcia. Gdy to zrobisz, twoi naukowcy rozpoczną jej badanie. Po zbadaniu próbki, otrzymasz informację o tym, co musisz zrobić, by opracować lekarstwo. Jeśli wciśniesz klawisz H, otrzymasz dodatkowe informacje odnośnie tego, co należy zrobić, by opracować lekarstwo. Pamiętaj o tym, iż każda podpowiedź zmniejsza nagrodę za opracowanie lekarstwa. Staraj się, więc radzić sobie samemu.
+		<p/>
+		Gdy opracujesz lekarstwo, przejdź do trybu gościa i zaaplikuj je zwierzętom. Możesz też wyposażyć w lekarstwo opiekunów zwierząt!
+               </cell>
+            </cell>
+         </color>
+      </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_fossilfinding:entry"  >Wyszukiwanie skamielin</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_fossilfinding:text"  >
+         <color r="255" g="255" b="255">
+            <cell pady="0" width="1000"/>
+            <p/>
+            <cell width="260"/>
+            <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+               <cell width="600" padx="20" pady="20">	
+		    <cell width="600">
+			<color r="255" g="255" b="255">
+			  <img src="entities\objects\buildings\CloningCenter\CloningCenter_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+			</color>
+		    </cell>  
+		<p/>
+		Nim będziesz mógł stworzyć wymarły gatunek, musisz wykopać wszystkie fragmenty skamielin. 
+
+               Aby to zrobić, wybierz  
+		<a href="zoopedia:zoopedia_cloningcenter:entry">
+               <u>
+                  <color r="255" g="231" b="135">Laboratorium badań nad wymarłymi gatunkami</color> 
+               </u>, </a>
+		i kliknij panel wyszukiwania skamielin, a następnie znajdujący się tam przycisk. 
+		      <p/>
+		    W trybie wyszukiwania skamielin będziesz wędrował po zoo z wyszukiwaczem skamielin. Środkowy pasek wyszukiwacza wskazuje jak blisko jesteś skamieliny. Gdy będziesz naprawdę blisko, pojawi się symbol wykopalisk. Wciśnij wtedy spację.   
+		      <p/>
+		      Wszystkie odnalezione skamieliny trafiają do 
+			<a href="zoopedia:zoopedia_cloningcenter:entry">
+		       <u>
+			  <color r="255" g="231" b="135">Laboratorium badań nad wymarłymi gatunkami</color> 
+		       </u>. </a>		      
+		      Gdy zdobędziesz wystarczająco wiele skamielin, wybierz zakładkę budowy skamielin i kliknij przycisk 
+
+			    <a href="zoopedia:zoopedia_fossilbuilding:entry">
+		               <u>
+		                  <color r="255" g="231" b="135">tworzenia skamieliny</color> 
+		               </u>. </a>
+			<p/>
+			Gdy znajdziesz wszystkie skamieliny i zbudujesz szkielet, będziesz mógł 
+			    <a href="zoopedia:zoopedia_cloning:entry">
+			       <u>
+				  <color r="255" g="231" b="135">stworzyć zwierzę</color>
+			       </u>! </a>
+           	
+		</cell>
+            </cell>
+         </color>
+     </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_fossilbuilding:entry"  >Układanie skamieliny</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_fossilbuilding:text"  >
+         <color r="255" g="255" b="255">
+            <cell pady="0" width="1000"/>
+            <p/>
+            <cell width="260"/>
+            <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+               <cell width="600" padx="20" pady="20">
+		    <cell width="600">
+			<color r="255" g="255" b="255">
+			  <img src="entities\objects\buildings\CloningCenter\CloningCenter_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+			</color>
+		    </cell>  
+		<p/>
+		Gdy skończysz  
+			<a href="zoopedia:zoopedia_fossilfinding:entry">
+		       <u>
+			  <color r="255" g="231" b="135">wyszukiwać skamieliny</color>
+			  </u>, 
+			</a>
+
+		będziesz musiał zbudować z nich szkielet. Aby to zrobić, kliknij zakładkę budowy skamielin i wybierz zwierzę, którego szkielet chcesz ułożyć.
+		<p/>
+		Gdy zbudujesz szkielet, będziesz mógł podjąć próbę 
+			    <a href="zoopedia:zoopedia_cloning:entry">
+			       <u>
+				  <color r="255" g="231" b="135">stworzenia zwierzęcia</color>
+			       </u> </a>
+	       w
+				<a href="zoopedia:zoopedia_cloningcenter:entry">
+			       <u>
+				  <color r="255" g="231" b="135">Laboratorium wymarłych gatunków</color>
+			       </u>. </a>
+		<p/>
+               </cell>
+            </cell>
+         </color>
+      </LOC_STRING>
+</ZT2Strings>

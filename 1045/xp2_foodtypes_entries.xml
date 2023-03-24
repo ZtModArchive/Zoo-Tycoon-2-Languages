@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<ZT2Strings>
+	<LOC_STRING _locID="zoopedia_chum:entry"  >Mieszanka rybna</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_chum:text"  >
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/food/BuoyNet/BuoyNet_Chum_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/food/FoodBox/FoodBox_Chum_icon.dds" sx="0" sy="0" sw="64" sh="64"/>                  
+                  <p/>Mieszanka rybna składa się z poszatkowanych części ryb. Morskie drapieżniki, takie jak żarłacz biały i orka, bardzo lubią ten pokarm.    
+                  <p/>Mieszankę rybną możesz umieścić w boi lub skrzynce.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_jellyfish:entry"  >Meduza</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_jellyfish:text"  >
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/food/BuoyLure/BuoyLure_Jellyfish_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/food/ArtificialReef/ArtificialReef_Jellyfish_icon.dds" sx="0" sy="0" sw="64" sh="64"/>                   
+                  <p/>Większość zwierząt unika meduz ze względu na ich parzące macki, jednak stanowią one podstawę diety niektórych gatunków żółwi morskich, które są odporne na jad.
+               </color>   
+            </cell>
+         </cell>
+      </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_plankton:entry"  >Zooplankton</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_plankton:text"  >
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/food/FoodBox/FoodBox_Plankton_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/food/ArtificialReef/ArtificialReef_Plankton_icon.dds" sx="0" sy="0" sw="64" sh="64"/>                  
+                  <p/>Zooplankton to mikroskopijne zwierzęta morskie dryfujące z prądem oceanu. Składa się na niego wiele gatunków, między innymi pierwotniaków oraz malutkich skorupiaków, oraz ikra. Drugim typem planktonu jest fitoplankton, który składa się z organizmów roślinnych.
+                  <p/>Zwierzęta odżywiające się poprzez filtrację wody, takie jak manta czy rekin wielorybi, żywią się wyłącznie planktonem. 
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_shellfish:entry"  >Skorupiaki</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_shellfish:text"  >
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/food/Terrain/Terrain_Shellfish_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/food/BuoyNet/BuoyNet_Shellfish_icon.dds" sx="0" sy="0" sw="64" sh="64"/>                  
+                  <img src="entities/objects/food/SubstratePile/SubstratePile_Shellfish_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/food/ArtificialReef/ArtificialReef_Shellfish_icon.dds" sx="0" sy="0" sw="64" sh="64"/>                  
+                  <p/>Skorupiaki to szeroka gama pożywienia, na którą składają się między innymi kraby, krewetki i ostrygi. Wiele gatunków morskich zwierząt, na przykład delfiny i wydry morskie, uczyniły z nich podstawę diety, mimo iż uwolnienie pożywienia z muszli nastręcza czasem wielu problemów.    
+                  <p/>Skorupiaki możesz położyć bezpośrednio na ziemi, lub umieścić je w boi sieciowej, kopczyku z żywnością albo sztucznej rafie.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_seaweed:entry"  >Wodorosty</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_seaweed:text"  >
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/food/Terrain/Terrain_Seaweed_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/food/FoodBox/FoodBox_Seaweed_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/food/SubstratePile/SubstratePile_Seaweed_icon.dds" sx="0" sy="0" sw="64" sh="64"/>                  
+                  <p/>Wodorostami nazywane są różne gatunki alg. Zwierzęta morskie, takie jak manat czy żółw zielony, bardzo lubią je spożywać.    
+                  <p/>Wodorosty możesz umieścić bezpośrednio na ziemi, w skrzynce na żywność lub w kopczyku z żywnością.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_squid:entry"  >Kalmar</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_squid:text"  >
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/food/BuoyLure/BuoyLure_Squid_icon.dds" sx="0" sy="0" sw="64" sh="64"/>               
+                  <p/>Kalmary są smakołykiem w diecie wielu gatunków morskich zwierząt.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+</ZT2Strings>

@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<ZT2Strings>
+	<LOC_STRING _locID="zoopedia_bluewhalehall_mm:entry"  >Sala płetwala błękitnego</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_bluewhalehall_mm:text"  >
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\objects\buildings\bluewhalehall_mm\bluewhalehall_mm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+Sala płetwala błękitnego to budynek wielkości tego ssaka, w którego wnętrzu można obejrzeć wystawę poświęconą największemu zwierzęciu na ziemi. Służy ona rozrywce i edukacji, a po jej zwiedzeniu odwiedzający chętniej zostawiają datki.
+        <p/>
+By odblokować salę płetwala błękitnego, ukończ kampanię zwierząt morskich.
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_giftcart_mm:entry"  >Marynistyczne stoisko z pamiątkami</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_giftcart_mm:text"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities/objects/buildings/giftcart_mm/giftcart_mm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>
+W stoisku tym można kupić pamiątki związane ze zwierzętami morskimi. Umieść je w pobliżu zbiorników wystawowych i pokazowych, by goście mogli kupić pamiątkę związaną z ich ulubionym zwierzęciem.         
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_sharkphotobooth:entry"  >Budka fotograficzna w kształcie rekina</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_sharkphotobooth:text"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities/objects/buildings/sharkphotobooth_mm/sharkphotobooth_mm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>                 
+W tej budce goście mogą nabyć pamiątkowe zdjęcie z realistycznie wyglądającym rekinem, choć niektórzy z nich mogą się go przestraszyć.             
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_touchpool_mm:entry"  >Sadzawka bliskiego kontaktu</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_touchpool_mm:text"  >
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\objects\buildings\touchpool_mm\touchpool_mm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+Sadzawka ta pozwala odwiedzającym zobaczyć i dotknąć małych zwierząt morskich, takich jak konchy, kraby, rozgwiazdy i ogórki morskie. Goście uwielbiają to miejsce.
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+</ZT2Strings>

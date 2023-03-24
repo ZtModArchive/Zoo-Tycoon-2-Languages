@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<ZT2Strings>
+	<LOC_STRING _locID="zoopedia_entertainer:entry"  >Artysta</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_entertainer:text"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/units/staff/EntertainerExtinct/Entertainer_F_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/units/staff/EntertainerExtinct/Entertainer_M_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/units/staff/EntertainerDinosaur/EntertainerDinosaur_F_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/units/staff/EntertainerDinosaur/EntertainerDinosaur_M_icon.dds" sx="0" sy="0" sw="64" sh="64"/>                  
+                  <p/>
+Artyści odpowiadają za zabawianie gości zoo. Upewnij się, że w zoo jest wystarczająco dużo miejsc, w których mogą występować!  	    
+		<a href="zoopedia:zoopedia_entertainerstage:entry">
+               <u>
+                  <color r="255" g="231" b="135">Scena</color>
+               </u> is 
+           	</a>
+  to główne miejsce pracy każdego artysty.            	
+						<p/>
+Pamiętaj o tym, iż artyści są pracownikami zoo i musisz im co miesiąć płacić.			
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_paleontologist:entry"  >Paleontolog</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_paleontologist:text"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/units/staff/paleontologist/Paleontologist_M_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/units/staff/paleontologist/Paleontologist_F_icon.dds" sx="0" sy="0" sw="64" sh="64"/>                
+                  <p/>
+Paleontolodzy to mózgowcy, którzy wiedzą dosłownie wszystko o dinozaurach i pradawnych zwierzętach. Niektórzy z nich uczą gości, a inni pracują w 
+		<a href="zoopedia:zoopedia_fossileducationcenter:entry">
+               <u>
+                  <color r="255" g="231" b="135">Centrum nauki o wymarłych gatunkach</color>
+               </u>. 
+           	</a>
+		
+<p/>		
+Paleontolodzy mogą również wykopywać skamieliny, z których potem tworzone są zwierzęta w  	    
+		<a href="zoopedia:zoopedia_cloningcenter:entry">
+               <u>
+                  <color r="255" g="231" b="135">Laboratorium badań nad wymarłymi gatunkami</color>
+               </u>. 
+           	</a>
+<p/>
+Pamiętaj o tym, że paleontolodzy są pracownikami zoo i musisz im co miesiąc płacić pensję.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_drt_gun:entry"  >Oddział do Łapania Dinozaurów. Specjalista od usypiania</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_drt_gun:text"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/units/staff/DinoRecoveryTeam/DinoRecoveryTranqTeam_M_icon.dds" sx="0" sy="0" sw="64" sh="64"/>          
+                  <p/>
+		Ten członek OŁZ odpowiada za usypianie szarżujących dinozaurów. Po uśpieniu, dinozaur jest umieszczany w klatce przez specjalistę od klatek.
+		<p/>
+		Oddział rusza do akcji, gdy w 
+		<a href="zoopedia:zoopedia_dinorecoverybuilding:entry">
+               <u>
+                  <color r="255" g="231" b="135">bunkrze OŁD</color>
+               </u>
+           	</a>
+		rozlegnie się alarm.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_drt_crate:entry"  >Oddział do Łapania Dinozaurów: Specjalista od klatek</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_drt_crate:text"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/units/staff/DinoRecoveryTeam/DinoRecoveryCrateTeam_M_icon.dds" sx="0" sy="0" sw="64" sh="64"/>          
+                  <p/>
+		To kapitan OŁZ. Odpowiada za umieszczanie dinozaurów w klatkach. Robi to za pomocą specjalnej broni, gdy dinozaur zostanie uśpiony.  
+		<p/>
+		Oddział rusza do akcji, gdy w 
+		<a href="zoopedia:zoopedia_dinorecoverybuilding:entry">
+               <u>
+                  <color r="255" g="231" b="135">bunkrze OŁD</color>, 
+               </u>
+           	</a>
+		rozlegnie się alarm.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_drt_robot:entry"  >Oddział do Łapania Dinozaurów: Robot odwracający uwagę</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_drt_robot:text"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/units/staff/DinoRecoveryTeam/DinoRecovery_Robot_icon.dds" sx="0" sy="0" sw="64" sh="64"/>          
+                  <p/>
+		Większość dinozaurów ma bardzo słaby wzrok. OŁZ wykorzystuje ten fakt, by odwrócić ich uwagę. Służy do tego specjalny robot, który miga światłami i głośno hałasuje. Gdy dinozaur skupia się na robocie, OŁZ może go uśpić. Robot jest wykonany z organicznych materiałów, które są nieszkodliwe dla dinozaurów.
+		<p/>
+		Oddział rusza do akcji, gdy w 
+		<a href="zoopedia:zoopedia_dinorecoverybuilding:entry">
+               <u>
+                  <color r="255" g="231" b="135">bunkrze OŁD</color>, 
+               </u>
+           	</a>
+		rozlegnie się alarm.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+</ZT2Strings>

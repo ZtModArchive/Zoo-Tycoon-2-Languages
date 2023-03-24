@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<ZT2Strings>
+	<LOC_STRING _locID="zoopedia_antelopesablegiant" version="2" />
+	<LOC_STRING _locID="zoopedia_antelopesablegiant:entry" version="2"  >Antylopa szabloroga</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_antelopesablegiant:text" version="2"  >
+  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">   
+
+               <cell width="284">
+                         <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+                          <img src="entities/units/animals/AntelopeSableGiant/AntelopeSableGiant_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+                         </cell>
+                         <cell width="16">
+                          <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+                         </cell>
+                        <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+                            <img src="entities/units/animals/AntelopeSableGiant/AntelopeSableGiant_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+                        </cell>                         
+                         <cell width="16">
+                          <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+                         </cell>
+                         <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/critical.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Stopień zagrożenia:
+                     <br/>
+                        <color r="255" g="0" b="0">
+                     Ginąca
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>   
+   
+    <cell width="128">
+     <color r="255" g="255" b="255">Sawanna<br/></color>
+     <img src="ui/icon_biomes/icon_savannah.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+    </cell>
+    <cell width="128">
+     <color r="255" g="255" b="255">Afryka Południowa<br/></color>
+     <img src="ui/icon_maplocations/Savannah_Africa_South_GiantSable.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+    </cell>
+    <br/>
+    <cell width="284" pady="10">
+     <color r="255" g="255" b="255">
+      Typ: Ssaki <i>(Mammalia)</i><br/>
+      Gromada: Parzystokopytne <i>(Artiodactyla)</i><br/>
+      Rodzina: Krętorogie <i>(Bovidae)</i><br/>
+      Rodzaj: <i>Hippotragus</i><br/>
+      Gatunek: <i>niger</i><br/>
+      Podgatunek:  <i>variani</i>
+     </color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="UI/zoopedia/biome/savannah_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Ciekawostki</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Imponujące poroże antylopy szablorogiej może osiągać długość nawet 150 cm.</color>
+    </cell>
+    <cell width="32" pady="10">
+        <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>        
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Jeśli antylopa szabloroga straci poroże, nie odrasta ono już nigdy.</color>
+    </cell>
+    <cell width="32" pady="10">
+        <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Antylopa szabloroga potrafi osiągać prędkość ponad 50 km/h i utrzymywać ją przez dłuższy czas.</color>
+    </cell>
+    <cell width="32" pady="10">
+        <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Zanik antylopy szablorogiej spowodowany jest między innymi trwającą 27 lat wojną domową w Angoli.</color>
+    </cell>
+    <cell width="32" pady="10">
+        <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Na świecie żyje tylko 1000 antylop szablorogich, zamieszkujących środkową Angolę (rezerwaty Luando i Kangandala).</color>
+    </cell>    
+    <br/> 
+   </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178">
+    Aby uzyskać dostęp do antylopy szablorogiej, musisz mieć 2 gwiazdki popularności.
+   </color>
+   <p/>
+Antylopa to nazwa odnosząca się do ogromnej grupy ssaków pustorogich, należących do tej samej rodziny co bydło, kozy i owce. Około 100 gatunków antylopy zamieszkuje tereny Afryki i Azji.
+   <p/>
+Wśród siedmiu gatunków znanych jako antylopy koniowate (Hippotraginae) znajduje się antylopa szabloroga, antylopa końska, oryks i adaks - duże zwierzęta, budową przypominające konie. Zamieszkują Afrykę i Półwysep Arabski. Mimo nazwy, nie sposób pomylić którykolwiek z tych gatunków z koniem, ponieważ każdy posiada ogromne rogi - które, za sprawą kłusowników, przyczyniły się do wytępienia tych zwierząt.
+   <p/>
+W odróżnieniu od jeleni, których rozwidlone rogi są zrzucane co roku, antylopy posiadają proste rogi, które muszą im wystarczyć na całe życie. Ich długość sięga 1,5 m; choć wyglądają na wytrzymałe, w rzeczywistości są kruche i łamliwe. Istnieją udokumentowane przypadki, kiedy antylopy zabijały nimi drapieżców takich jak lew, jednak w sytuacji zagrożenia zwierzęta te przeważnie uciekają.
+   <p/>
+Antylopy zwracają częściowo przetrawione jedzenie i połykają je ponownie. W odróżnieniu od innych podobnych zwierząt bardzo dokładnie przeżuwają pokarm. Zwierzęta te nie mają dolnych siekaczy, dlatego podczas jedzenia trawy lub liści wykorzytują dolne siekacze i stwardniałe podniebienie.
+   <p/>
+Antylopy mają wyjątkowo wrażliwe zmysły, pozwalające im uniknąć niebezpieczeństwa. Ich oczy umieszczone są po bokach głowy, a rozciągnięte poziomo źrenice pozwalają im dostrzec niebezpieczeństwo nadchodzące z każdej strony. Ich słuch i węch są również niezwykle wrażliwe - co niewątpliwie przydaje się szczególnie po zapadnięciu zmroku, kiedy wiele drapieżnych gatunków wychodzi na polowanie.
+   <p/>
+W sytuacji zagrożenia antylopy rzucają się do ucieczki. Pozwala im to uniknąć większości drapieżców, jednak nie chroni przez myśliwymi, dla których mięso, rogi i skóra antylopy stanowią cenny łup, ani przed zmianami zachodzącymi w ich naturalnym środowisku.
+  </cell>
+  <p/>
+  <cell width="260"/>
+  <cell width="620">
+   Źródło: <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2005.</color></u></a>(C) 1993-2004 Microsoft Corporation. All rights reserved.
+  </cell>
+ </LOC_STRING>
+</ZT2Strings>

@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<ZT2Strings>
+	<LOC_STRING _locID="diseaseresearch:animal0"  >Pobierz próbkę od chorego zwierzęcia.</LOC_STRING>
+	<LOC_STRING _locID="diseaseresearch:cause0"  >Pobierz próbkę z przedmiotu w swoim zoo.</LOC_STRING>
+	<LOC_STRING _locID="diseaseresearch:cause1"  >Próbka pobrana z wybiegu lub jego okolic może dostarczyć wskazówek co do przyczyny.</LOC_STRING>
+	<LOC_STRING _locID="diseaseresearch:cause2"  >Wyniki badań wskazują, że przyczyną może być %s.</LOC_STRING>
+	<LOC_STRING _locID="diseaseresearch:cure0"  >Pobierz próbkę z innego przedmiotu w swoim zoo.</LOC_STRING>
+	<LOC_STRING _locID="diseaseresearch:cure1"  >Próbka pobrana z wybiegu lub jego okolic może dostarczyć lekarstwa.</LOC_STRING>
+	<LOC_STRING _locID="diseaseresearch:cure2"  >Wyniki badań wskazują, że %s jest skuteczne.</LOC_STRING>
+	<LOC_STRING _locID="diseaseresearch:analyzing"  >Analiza...</LOC_STRING>
+	<LOC_STRING _locID="diseaseresearch:sampleCorrect"  >Dane z tej próbki wskazują, że jesteś o krok bliżej w poszukiwaniu lekarstwa!</LOC_STRING>
+	<LOC_STRING _locID="diseaseresearch:sampleIncorrect"  >Analiza wykazuje, że ten przedmiot nie odblokowuje lekarstwa. Użyj innej próbki lub wciśnij H, aby uzyskać nową wskazówkę w badaniach.</LOC_STRING>
+	<LOC_STRING _locID="diseaseresearch:diseaseGone"  >Twoje zoo pozbyło się choroby, mimo że lekarstwo nie zostało znalezione.</LOC_STRING>
+	<LOC_STRING _locID="diseaseresearch:diseaseTimeout"  >Choroba w twoim zoo ustąpiła, jednak nie znalazłeś lekarstwa. Choroba może powrócić później.</LOC_STRING>
+	<LOC_STRING _locID="poopingdiseaseresearch:animal0"  >Jedno lub więcej twoich zwierząt ma kłopoty z trawieniem. Pobierz od jednego z nich próbkę.</LOC_STRING>
+	<LOC_STRING _locID="poopingdiseaseresearch:cause0"  >Aby zdiagnozować chorobę, zbierz więcej próbek z zoo do analizy.</LOC_STRING>
+	<LOC_STRING _locID="poopingdiseaseresearch:cause1"  >Coś brzydko pachnącego z wybiegu zwierzęcia lub jego okolic może dostarczyć wskazówki.</LOC_STRING>
+	<LOC_STRING _locID="poopingdiseaseresearch:cause2"  >Fuuj, przyczyną może być zbyt duża ilość odchodów na wybiegu! Pobierz próbkę do dalszej analizy. Fuuj!</LOC_STRING>
+	<LOC_STRING _locID="poopingdiseaseresearch:cure0"  >Co mogłoby rozwiązać ten problem? Zbierz więcej próbek z zoo do analizy.</LOC_STRING>
+	<LOC_STRING _locID="poopingdiseaseresearch:cure1"  >Może potrzeba jakiegoś miejsca, gdzie można by trzymać te wszystkie odchody? </LOC_STRING>
+	<LOC_STRING _locID="poopingdiseaseresearch:cure2"  >Wyniki badań wskazują, że proces organiczny może pomóc przetworzyć odchody w coś użytecznego.</LOC_STRING>
+	<LOC_STRING _locID="poopingdiseaseresearch:cure3"  >Pobierz próbkę z budynku kompostowego, żeby twoja ekipa badawcza mogła pracować nad lekarstwem.</LOC_STRING>
+	<LOC_STRING _locID="poopingdiseaseresearch:analyzing"  >Próbka jest analizowana w Laboratorium...</LOC_STRING>
+	<LOC_STRING _locID="poopingdiseaseresearch:sampleCorrect"  >Dane z tej próbki wskazują, że jesteś o krok bliżej znalezienia lekarstwa!</LOC_STRING>
+	<LOC_STRING _locID="poopingdiseaseresearch:sampleIncorrect"  >Analiza wykazuje, że ten przedmiot nie odblokowuje lekarstwa. Użyj innej próbki lub wciśnij H, aby uzyskać nową wskazówkę w badaniach.</LOC_STRING>
+	<LOC_STRING _locID="extinctfluresearch:animal0"  >Pobierz próbkę od chorego zwierzęcia - tego z symbolami zarazków.</LOC_STRING>
+	<LOC_STRING _locID="extinctfluresearch:cause0"  >Przedmiot na wybiegu zwierzęcia (lub w jego pobliżu) może dostarczyć wskazówki co do przyczyny.</LOC_STRING>
+	<LOC_STRING _locID="extinctfluresearch:cause1"  >Wiele z wymarłych gatunków w twoim zoo nie jest odpornych na dzisiejsze bakterie.</LOC_STRING>
+	<LOC_STRING _locID="extinctfluresearch:cause2"  >Być może coś pochodzącego od twoich gości sprawia, że wymarłe gatunki  chorują. Pobierz próbkę z przedmiotu zostawionego przez gościa.</LOC_STRING>
+	<LOC_STRING _locID="extinctfluresearch:cause3"  >Wyniki badań wskazują, że twoje zwierzęta cierpią na chorobę zwaną wirus śmieciowy!</LOC_STRING>
+	<LOC_STRING _locID="extinctfluresearch:cause4"  >Pobierz próbkę ze śmieci lub nawet z samego kosza na śmieci.</LOC_STRING>
+	<LOC_STRING _locID="extinctfluresearch:cure0"  >Czy to w drzewie może się kryć klucz do znalezienia lekarstwa?</LOC_STRING>
+	<LOC_STRING _locID="extinctfluresearch:cure1"  >Pobierz próbki z drzew na wybiegach wymarłych gatunków.</LOC_STRING>
+	<LOC_STRING _locID="extinctfluresearch:cure2"  >Pustynia, obszary trawiaste czy górskie? Jeden z tych biomów posiada drzewo, które odblokowuje lekarstwo.</LOC_STRING>
+	<LOC_STRING _locID="extinctfluresearch:cure3"  >Badania wskazują, że potrzebna jest próbka %s. </LOC_STRING>
+	<LOC_STRING _locID="extinctfluresearch:analyzing"  >Próbka jest analizowana w Laboratorium...</LOC_STRING>
+	<LOC_STRING _locID="extinctfluresearch:sampleCorrect"  >Dzięki tej próbce otrzymaliśmy więcej informacji o lekarstwie!</LOC_STRING>
+	<LOC_STRING _locID="extinctfluresearch:sampleIncorrect"  >Analiza wykazuje, że ten przedmiot nie odblokowuje lekarstwa. Użyj innej próbki lub wciśnij H, aby uzyskać nową wskazówkę w badaniach.</LOC_STRING>
+	<LOC_STRING _locID="slowingsyndromeresearch:animal0"  >Potrzebujemy próbki od zwierzęcia z zespołem powolnego poruszania się. Poszukaj zwierzęcia z literami Z nad nim. </LOC_STRING>
+	<LOC_STRING _locID="slowingsyndromeresearch:cause0"  >O rety! Twoje zwierzęta poruszają się coraz wolniej. Czy możesz się dowiedzieć, czemu tak się dzieje?</LOC_STRING>
+	<LOC_STRING _locID="slowingsyndromeresearch:cause1"  >Dane na temat zespołu szybkiego poruszania się, pochodzące od twojej ekipy badawczej, mogą pomóc. Czy te dwa przypadki mogą być ze sobą jakoś powiązane?</LOC_STRING>
+	<LOC_STRING _locID="slowingsyndromeresearch:cause2"  >Po zjedzeniu hot dogów na lunch twoja ekipa badawcza udaje się na wczesną przerwę.</LOC_STRING>
+	<LOC_STRING _locID="slowingsyndromeresearch:cause3"  >Czy zabrałeś próbkę z hot doga do Laboratorium?</LOC_STRING>
+	<LOC_STRING _locID="slowingsyndromeresearch:cure0"  >Możliwe, że to w roślinie kryje się klucz do znalezienia lekarstwa.</LOC_STRING>
+	<LOC_STRING _locID="slowingsyndromeresearch:cure1"  >Pustynia, obszary trawiaste, górskie czy tundra? Jeden z tych biomów posiada roślinę, która odblokowuje lekarstwo.</LOC_STRING>
+	<LOC_STRING _locID="slowingsyndromeresearch:cure2"  >Badania wskazują, że potrzebna jest próbka %s. </LOC_STRING>
+	<LOC_STRING _locID="slowingsyndromeresearch:analyzing"  >Twoja ekipa badawcza analizuje próbkę...</LOC_STRING>
+	<LOC_STRING _locID="slowingsyndromeresearch:sampleCorrect"  >Jesteś o krok bliżej do wyleczenia choroby!</LOC_STRING>
+	<LOC_STRING _locID="slowingsyndromeresearch:sampleIncorrect"  >Analiza wykazuje, że ten przedmiot nie odblokowuje lekarstwa. Użyj innej próbki lub wciśnij H, aby uzyskać nową wskazówkę w badaniach.</LOC_STRING>
+	<LOC_STRING _locID="speedysyndromeresearch:animal0"  >Potrzebujemy próbki od zwierzęcia z zespołem szybkiego poruszania się.</LOC_STRING>
+	<LOC_STRING _locID="speedysyndromeresearch:cause0"  >Twoje zwierzęta są nadpobudliwe! Co mogło to spowodować?</LOC_STRING>
+	<LOC_STRING _locID="speedysyndromeresearch:cause1"  >Twoja ekipa badawcza udaje się na przerwę na kawę.</LOC_STRING>
+	<LOC_STRING _locID="speedysyndromeresearch:cause2"  >No, nie! Kawa?! Czy to kofeina może być przyczyną?</LOC_STRING>
+	<LOC_STRING _locID="speedysyndromeresearch:cause3"  >Pobierz próbkę ze stanowiska z kawą w swoim zoo.</LOC_STRING>
+	<LOC_STRING _locID="speedysyndromeresearch:cure0"  >Rośliny okazują się zazwyczaj pomocne przy znajdowaniu lekarstw na choroby.</LOC_STRING>
+	<LOC_STRING _locID="speedysyndromeresearch:cure1"  >Pustynia, obszary trawiaste, górskie czy tundra? Jeden z tych biomów posiada roślinę, która odblokowuje lekarstwo.</LOC_STRING>
+	<LOC_STRING _locID="speedysyndromeresearch:cure2"  >Badania wskazują, że potrzebna jest próbka %s. </LOC_STRING>
+	<LOC_STRING _locID="speedysyndromeresearch:analyzing"  >Twoja ekipa badawcza analizuje próbkę...</LOC_STRING>
+	<LOC_STRING _locID="speedysyndromeresearch:sampleCorrect"  >Dobrze! Jesteś bliżej ukończenia przygotowywania lekarstwa!</LOC_STRING>
+	<LOC_STRING _locID="speedysyndromeresearch:sampleIncorrect"  >Analiza wykazuje, że ten przedmiot nie odblokowuje lekarstwa. Użyj innej próbki lub wciśnij H, aby uzyskać nową wskazówkę w badaniach.</LOC_STRING>
+	<LOC_STRING _locID="catscratchfeverresearch:animal0"  >Miau! Twoje wielkie koty mogą mieć gorączkę od kociego drapania. Pobierz próbkę od kota z symbolami 'swędzenia' nad jego głową.</LOC_STRING>
+	<LOC_STRING _locID="catscratchfeverresearch:cause0"  >Co sprawia, że koty tak wszystko swędzi?</LOC_STRING>
+	<LOC_STRING _locID="catscratchfeverresearch:cause1"  >Czy przyczyną może być przedmiot urozmaicenia dla kotów? </LOC_STRING>
+	<LOC_STRING _locID="catscratchfeverresearch:cause2"  >Drap, drap, drap...</LOC_STRING>
+	<LOC_STRING _locID="catscratchfeverresearch:cause3"  >Pobierz próbkę z drapaka. Jeśli wybieg go nie posiada, dodaj jeden.</LOC_STRING>
+	<LOC_STRING _locID="catscratchfeverresearch:cure0"  >Liście określonych roślin często posiadają lecznicze właściwości.</LOC_STRING>
+	<LOC_STRING _locID="catscratchfeverresearch:cure1"  >Czy są tam jakieś rośliny pomagające na swędzącą skórę?</LOC_STRING>
+	<LOC_STRING _locID="catscratchfeverresearch:cure2"  >Może balsam nawilżający ukoiłby swędzącą skórę twoich kotów?</LOC_STRING>
+	<LOC_STRING _locID="catscratchfeverresearch:cure3"  >Spróbuj zebrać próbki z roślin pustynnych, może z Afryki Południowej.</LOC_STRING>
+	<LOC_STRING _locID="catscratchfeverresearch:cure4"  >Twoja ekipa badawcza sądzi, że aloes może być składnikiem, którego szukasz.</LOC_STRING>
+	<LOC_STRING _locID="catscratchfeverresearch:analyzing"  >Twoja ekipa badawcza analizuje próbkę...</LOC_STRING>
+	<LOC_STRING _locID="catscratchfeverresearch:sampleCorrect"  >Dobrze! Jesteś bliżej ukończenia przygotowywania lekarstwa!</LOC_STRING>
+	<LOC_STRING _locID="catscratchfeverresearch:sampleIncorrect"  >Analiza wykazuje, że ten przedmiot nie odblokowuje lekarstwa. Użyj innej próbki lub wciśnij H, aby uzyskać nową wskazówkę w badaniach.</LOC_STRING>
+	<LOC_STRING _locID="pinkelephantdiseaseresearch:animal0"  >Różowe słonie! Ojej! Ekipa badawcza prosi cię o pobranie próbki z jednego z nich.</LOC_STRING>
+	<LOC_STRING _locID="pinkelephantdiseaseresearch:cause0"  >Co sprawia, że kolor słoni zmienia się na różowy?</LOC_STRING>
+	<LOC_STRING _locID="pinkelephantdiseaseresearch:cause1"  >Czy przyczyną może być jeden z przedmiotów urozmaicenia dla słoni? </LOC_STRING>
+	<LOC_STRING _locID="pinkelephantdiseaseresearch:cause2"  >Czy twoje słonie bawią się z czymkolwiek o różowym kolorze?</LOC_STRING>
+	<LOC_STRING _locID="pinkelephantdiseaseresearch:cause3"  >Pobierz próbkę z piłki pościgowej.</LOC_STRING>
+	<LOC_STRING _locID="pinkelephantdiseaseresearch:cure0"  >Twoja ekipa badawcza zastanawia się, czy próbki czegoś różowego mogłyby kryć w sobie klucz do znalezienia lekarstwa - nawet, jeśli nie ma tego w twoim zoo.</LOC_STRING>
+	<LOC_STRING _locID="pinkelephantdiseaseresearch:cure1"  >Poszukaj poza wybiegiem. Może to coś, czego używają goście.</LOC_STRING>
+	<LOC_STRING _locID="pinkelephantdiseaseresearch:cure2"  >Hej! A co z tą puszystą chmurą waty cukrowej? Czy ona czasem nie pochodzi z różowego wózka z jedzeniem? </LOC_STRING>
+	<LOC_STRING _locID="pinkelephantdiseaseresearch:cure3"  >Szybko! Pobierz próbkę z wózka z watą cukrową!</LOC_STRING>
+	<LOC_STRING _locID="pinkelephantdiseaseresearch:analyzing"  >Twoja ekipa badawcza testuje próbkę...</LOC_STRING>
+	<LOC_STRING _locID="pinkelephantdiseaseresearch:sampleCorrect"  >Oczywiście! Jesteś coraz bliżej wyleczenia swoich różowych słoni!</LOC_STRING>
+	<LOC_STRING _locID="pinkelephantdiseaseresearch:sampleIncorrect"  >Analiza wykazuje, że ten przedmiot nie odblokowuje lekarstwa. Użyj innej próbki lub wciśnij H, aby uzyskać nową wskazówkę w badaniach.</LOC_STRING>
+	<LOC_STRING _locID="tutoriallovediseaseresearch:animal0"  >Twój dodo cierpi na chorobę zwaną miłością opiekuńczą. Podejdź do dodo z serduszkami wokół głowy i naciśnij SPACJĘ, aby pobrać próbkę.</LOC_STRING>
+	<LOC_STRING _locID="tutoriallovediseaseresearch:animal1"  >Twój pierwszy raport badawczy! Podejdź do dodo z serduszkami wokół głowy i naciśnij SPACJĘ, aby pobrać próbkę.</LOC_STRING>
+	<LOC_STRING _locID="tutoriallovediseaseresearch:animal2"  >Znajdź dodo z serduszkami wokół głowy. Podejdź do niego i naciśnij SPACJĘ, aby pobrać próbkę.</LOC_STRING>
+	<LOC_STRING _locID="tutoriallovediseaseresearch:cause0"  >Musisz pobrać  próbki do analizy z kilku owoców.</LOC_STRING>
+	<LOC_STRING _locID="tutoriallovediseaseresearch:cause1"  >Spróbuj pobrać próbki z bananów.</LOC_STRING>
+	<LOC_STRING _locID="tutoriallovediseaseresearch:cause2"  >Podejdź do miski z bananami i naciśnij SPACJĘ, aby pobrać próbkę.</LOC_STRING>
+	<LOC_STRING _locID="tutoriallovediseaseresearch:cure0"  >Lekarstwo na chorobę ma kolor jaskraworóżowy.</LOC_STRING>
+	<LOC_STRING _locID="tutoriallovediseaseresearch:cure1"  >Spróbuj zebrać próbkę z piłki pościgowej!</LOC_STRING>
+	<LOC_STRING _locID="tutoriallovediseaseresearch:cure2"  >Podejdź do piłki pościgowej i naciśnij SPACJĘ, aby pobrać próbkę.</LOC_STRING>
+	<LOC_STRING _locID="tutoriallovediseaseresearch:analyzing"  >Twoja ekipa badawcza analizuje próbkę...</LOC_STRING>
+	<LOC_STRING _locID="tutoriallovediseaseresearch:sampleCorrect"  >Tak! Znalazłeś jeden z przedmiotów, aby wyleczyć chorobę!</LOC_STRING>
+	<LOC_STRING _locID="tutoriallovediseaseresearch:sampleIncorrect"  >Analiza wykazuje, że ten przedmiot nie odblokowuje lekarstwa. Użyj innej próbki lub wciśnij H, aby uzyskać nową wskazówkę w badaniach.</LOC_STRING>
+	<LOC_STRING _locID="BoxElder_Grassland:hint0"  >Twoja ekipa badawcza nie jest zainteresowana okrągłym, młodym drzewem. Pobierz próbkę z czegoś starszego.</LOC_STRING>
+	<LOC_STRING _locID="BoxElder_Grassland:hint1"  >Laboratorium prowadzi badania nad spadającymi jak helikoptery nasionami.</LOC_STRING>
+	<LOC_STRING _locID="BoxElder_Grassland:hint2"  >Poszukaj drzewa na obszarze trawiastym z opadającymi z niego nasionami. </LOC_STRING>
+	<LOC_STRING _locID="BoxElder_Grassland:hint3"  >Pobierz próbkę z klonu jesionolistnego. </LOC_STRING>
+	<LOC_STRING _locID="MonkeyPuzzleTree_Alpine:hint0"  >Twoja ekipa badawcza jest zaintrygowana tą chorobą.</LOC_STRING>
+	<LOC_STRING _locID="MonkeyPuzzleTree_Alpine:hint1"  >Większość gatunków małp nie lubi zimnej pogody!</LOC_STRING>
+	<LOC_STRING _locID="MonkeyPuzzleTree_Alpine:hint2"  >To górskie drzewo rośnie w Andach.</LOC_STRING>
+	<LOC_STRING _locID="MonkeyPuzzleTree_Alpine:hint3"  >Pobierz próbkę z drzewa "małpia łamigłówka" (araukaria), aby wyleczyć chorobę</LOC_STRING>
+	<LOC_STRING _locID="SaguaroCactus_Desert:hint0"  >Lekarstwo, którego szukasz, może doprowadzić cię do drzewa z kłującymi, szpiczastymi liśćmi. Uważaj!</LOC_STRING>
+	<LOC_STRING _locID="SaguaroCactus_Desert:hint1"  >Na tym drzewie mieszkają drobne ptaki i malutkie zwierzęta.</LOC_STRING>
+	<LOC_STRING _locID="SaguaroCactus_Desert:hint2"  >Wyniki badań wskazują, że lekarstwem jest duże drzewo pustynne.</LOC_STRING>
+	<LOC_STRING _locID="SaguaroCactus_Desert:hint3"  >Pobierz próbkę z kaktusa saguaro.</LOC_STRING>
+	<LOC_STRING _locID="AgaveCactus_CenturyPlant_Desert:hint0"  >Roślina, której szukasz, ma grube zielone liście.</LOC_STRING>
+	<LOC_STRING _locID="AgaveCactus_CenturyPlant_Desert:hint1"  >Przechowuje znaczne ilości wody.</LOC_STRING>
+	<LOC_STRING _locID="AgaveCactus_CenturyPlant_Desert:hint2"  >Ta roślina pustynna kwitnie raz na 100 lat.</LOC_STRING>
+	<LOC_STRING _locID="AgaveCactus_CenturyPlant_Desert:hint3"  >Twoja ekipa badawcza odkryła, że lekarstwem jest kaktus agawa.</LOC_STRING>
+	<LOC_STRING _locID="AgaveCactus_Desert:hint0"  >Roślina, której szukasz, ma grube zielone liście.</LOC_STRING>
+	<LOC_STRING _locID="AgaveCactus_Desert:hint1"  >Przechowuje znaczne ilości wody.</LOC_STRING>
+	<LOC_STRING _locID="AgaveCactus_Desert:hint2"  >Roślina, która jest kluczem do znalezienia lekarstwa, jest rośliną pustynną.</LOC_STRING>
+	<LOC_STRING _locID="AgaveCactus_Desert:hint3"  >Twoja ekipa badawcza odkryła, że lekarstwem jest kaktus agawa.</LOC_STRING>
+	<LOC_STRING _locID="AloeVera_Desert:hint0"  >Przedmiot ten jest znany ze swoich leczniczych właściwości.</LOC_STRING>
+	<LOC_STRING _locID="AloeVera_Desert:hint1"  >Roślina ta ma mięsiste, szpiczaste liście.</LOC_STRING>
+	<LOC_STRING _locID="AloeVera_Desert:hint2"  >Przeszukaj biomy pustynne, by znaleźć tę roślinę.</LOC_STRING>
+	<LOC_STRING _locID="AloeVera_Desert:hint3"  >Aloes odblokowuje lekarstwo.</LOC_STRING>
+	<LOC_STRING _locID="Daisies_Grassland:hint0"  >Czy ziele mogłoby wyleczyć chorobę?</LOC_STRING>
+	<LOC_STRING _locID="Daisies_Grassland:hint1"  >Ziele to czasami zakwita różowymi kwiatami.</LOC_STRING>
+	<LOC_STRING _locID="Daisies_Grassland:hint2"  >Ta roślina zielna rośnie na całym świecie.</LOC_STRING>
+	<LOC_STRING _locID="Daisies_Grassland:hint3"  >Twoja ekipa badawcza prosi o próbkę ze stokrotek.</LOC_STRING>
+	<LOC_STRING _locID="DwarfAzalea_Tundra:hint0"  >Do wyleczenia tej choroby potrzebne jest lekarstwo z silnej rośliny.</LOC_STRING>
+	<LOC_STRING _locID="DwarfAzalea_Tundra:hint1"  >Roślina ta jest spokrewniona z rododendronem.</LOC_STRING>
+	<LOC_STRING _locID="DwarfAzalea_Tundra:hint2"  >Ta silna roślina, którą można spotkać w tundrze, kryje w sobie klucz do znalezienia lekarstwa.</LOC_STRING>
+	<LOC_STRING _locID="DwarfAzalea_Tundra:hint3"  >Pobierz próbkę z różanecznika karłowatego, aby odkryć lekarstwo.</LOC_STRING>
+	<LOC_STRING _locID="Edelweiss_Alpine:hint0"  >Coś wesołego i kwitnącego mogłoby wyleczyć tę chorobę.</LOC_STRING>
+	<LOC_STRING _locID="Edelweiss_Alpine:hint1"  >Roślina ta jest kwiatowym godłem Szwajcarii.</LOC_STRING>
+	<LOC_STRING _locID="Edelweiss_Alpine:hint2"  >Roślina ta rośnie wysoko w Alpach.</LOC_STRING>
+	<LOC_STRING _locID="Edelweiss_Alpine:hint3"  >Szarotka alpejska jest kluczem do znalezienia lekarstwa. </LOC_STRING>
+	<LOC_STRING _locID="KingSagoPlant_Rainforest:hint0"  >Sagowiec ten pojawił się w raporcie twojej ekipy badawczej.</LOC_STRING>
+	<LOC_STRING _locID="KingSagoPlant_Rainforest:hint1"  >To drzewo sagowca dominowało w krajobrazie okresu jury. </LOC_STRING>
+	<LOC_STRING _locID="KingSagoPlant_Rainforest:hint2"  >Czasem nazywany jest "królem" drzew lasów tropikalnych.</LOC_STRING>
+	<LOC_STRING _locID="KingSagoPlant_Rainforest:hint3"  >Sagowiec wygięty odblokowuje lekarstwo.</LOC_STRING>
+	<LOC_STRING _locID="Speargrass_Alpine:hint0"  >Pierzasta roślina odblokowuje lekarstwo na tę chorobę.</LOC_STRING>
+	<LOC_STRING _locID="Speargrass_Alpine:hint1"  >Rośliny tej, zwanej po łacinie stipa, może jeszcze nie być w twoim zoo.</LOC_STRING>
+	<LOC_STRING _locID="Speargrass_Alpine:hint2"  >Tę wieczniezieloną roślinę można znaleźć w Nowej Zelandii lub w niektórych górskich biomach.</LOC_STRING>
+	<LOC_STRING _locID="Speargrass_Alpine:hint3"  >Źdźbło ostnicy pierzastej jest właśnie tym, co zamówił lekarz.</LOC_STRING>
+	<LOC_STRING _locID="TallGoldenrod_Grassland:hint0"  >Przedmiot, którego szukasz, rośnie na łąkach Ameryki Północnej.</LOC_STRING>
+	<LOC_STRING _locID="TallGoldenrod_Grassland:hint1"  >Kołysząca się na wietrze prerii roślina ma złocisty odcień.</LOC_STRING>
+	<LOC_STRING _locID="TallGoldenrod_Grassland:hint2"  >Ta roślina łąkowa może osiągnąć aż dwa metry wysokości!</LOC_STRING>
+	<LOC_STRING _locID="TallGoldenrod_Grassland:hint3"  >Nawłoć największa kryje w sobie klucz do znalezienia lekarstwa.</LOC_STRING>
+	<LOC_STRING _locID="TrashGround:cause0"  >Jakie przedmioty na wybiegu lub w jego pobliżu mogłyby być przyczyną choroby?</LOC_STRING>
+	<LOC_STRING _locID="TrashGround:cause1"  >Wiele z wymarłych gatunków w twoim zoo nie jest odpornych na dzisiejsze bakterie.</LOC_STRING>
+	<LOC_STRING _locID="TrashGround:cause2"  >Czy to przez gości twoje zwierzęta chorują? Pobierz próbkę z czegoś, co zostawi gość.</LOC_STRING>
+	<LOC_STRING _locID="TrashGround:cause3"  >Twoja ekipa badawcza znalazła nazwę dla tej choroby. Nazywa ją wirusem śmieciowym.</LOC_STRING>
+	<LOC_STRING _locID="TrashGround:cause4"  >Pobierz próbkę ze śmieci lub nawet z samego kosza na śmieci.</LOC_STRING>
+	<LOC_STRING _locID="disease_names:poopingdiseasename"  >
+    Kłopoty z trawieniem
+    </LOC_STRING>
+	<LOC_STRING _locID="disease_names:extinctfluname"  >
+    Wirus śmieciowy
+    </LOC_STRING>
+	<LOC_STRING _locID="disease_names:slowingsyndromename"  >
+    Syndrom powolnego poruszania się
+    </LOC_STRING>
+	<LOC_STRING _locID="disease_names:speedysyndromename"  >
+    Syndrom szybkiego poruszania się
+    </LOC_STRING>
+	<LOC_STRING _locID="disease_names:catscratchfevername"  >
+    Gorączka od kociego drapania
+    </LOC_STRING>
+	<LOC_STRING _locID="disease_names:pinkelephantdiseasename"  >
+    Różowe słonie!
+    </LOC_STRING>
+	<LOC_STRING _locID="disease_names:tutoriallovediseasename"  >
+     Miłość opiekuńcza
+    </LOC_STRING>
+</ZT2Strings>

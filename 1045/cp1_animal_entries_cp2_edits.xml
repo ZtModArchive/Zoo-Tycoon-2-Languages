@@ -1,0 +1,254 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<ZT2Strings>
+	<LOC_STRING _locID="zoopedia_meerkat" version="9" />
+	<LOC_STRING _locID="zoopedia_meerkat:entry" version="9"  >Surykatka</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_meerkat:text" version="9"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/Meerkat/Meerkat_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>							 
+						 <cell width="156"/>						 
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Stopień zagrożenia:
+                     <br/>
+                        <color r="170" g="255" b="0">
+                     Niskie zagrożenie
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+				 <cell width="128">
+				  <color r="255" g="255" b="255">Busz<br/></color>
+				  <img src="ui/icon_biomes/icon_scrub.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+				 </cell>	
+               <cell width="128">
+                  <color r="255" g="255" b="255">Afryka południowa</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/Savannah_Africa_South.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Gromada: Ssaki <i>(Mammalia)</i>
+                  <br/>
+                  Rząd: Mięsożerne <i>(Carnivora)</i>
+                  <br/>
+                  Rodzina: Mangustowate <i>(Viverridae)</i>
+                  <br/>
+                  Rodzaj: <i>Suricata</i>
+                  <br/>
+                  Gatunek: <i>suricatta</i>
+                  <br/>
+                  Podgatunek: <i>suricata</i>                  
+                  </color>
+               </cell>
+				 <cell width="256" pady="10">
+				  <img src="UI/zoopedia/biome/scrub_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+				 </cell>	
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Ciekawostki</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Surykatki to społeczne zwierzęta żyjące w grupach, dzielące między siebie obowiązki higieniczne i wychowawcze.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Liczba osobników w grupie surykatek waha się między 5 a 30.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Większość drapieżników uważa surykatki za drobną przekąskę, dlatego zawsze przynajmniej jedna z nich stoi na straży grupy.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Na dietę surykatek składają się żuki, pająki, stonogi, świerszcze i skorpiony (zwierzęta te są odporne na ich jad).</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>               
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Surykatka używa swego ogona do balansowania i komunikacji z innymi członkami grupy.</color>
+               </cell>                   
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">By odblokować surykatkę w trybie wyzwania lub kampanii, musisz zdobyć status 3 1/2 gwiazdki dla swojego zoo.</color>
+            <p/>Surykatka to niewielki przedstawiciel mangustowatych zamieszkujący południowe tereny Afryki. Zwierzęta te są znane ze swej pionowej postawy i społecznego zachowania.
+
+<p/>Surykatki z reguły zamieszkują suche równiny i sawannę, od południowej Angoli aż po RPA. Są to zwierzęta żyjące w koloniach w okolicach z piaszczystą glebą, w której mogą łatwo wykopywać rozbudowane nory.
+
+<p/>Ich ciała osiągają około 30 cm i są smuklejsze niż u innych przedstawicieli tej rodziny. Ich pyski są ostro zakończone, białe, z ciemnymi znakami na uszach i wokół oczu, a futro ma kolor srebrno-brązowy, ze srebrnymi pręgami z tyłu. W odróżnieniu od innych mangustowatych, łapki tych zwierząt mają 4 zamiast 5 palców.
+
+<p/>Surykatki polują na insekty tylko za dnia, dołączając czasem do diety jaja i korzenie, jeśli mają do nich dostęp. Ich miot zwykle liczy od 2 do 4 młodych, przychodzących na świat zwykle jesienią lub zimą po ciąży trwającej około 11 tygodni. O potomstwo dbają zarówno samice, jak i samce.
+
+<p/>Surykatki często stają na tylnich kończynach, by zbadać zapachy niesione wiatrem lub wypatrzyć atakujące sępy. Mają doskonały wzrok i są zdolne wydawać 10 typów dźwięków, m. in. ostrzegawcze szczeknięcia.
+
+<p/>Zwierzęta te mogą przenosić wściekliznę, dlatego zostały wytrzebione lub przepędzone z rejonów, w których mogły zagrażać ludziom. Nie spowodowało to jednak znacznego zmniejszenia ich liczebności. W południowej Afryce często trzyma się je jako zwierzęta domowe.
+
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Informacje pochodzą z <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft&#xAE; Encarta&#xAE; 2006.</color></u></a> &#xA9; 1993&#x96;2005 Microsoft Corporation. Wszystkie prawa zastrzeżone.
+         </cell>         
+      </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_birdsecretary" version="9" />
+	<LOC_STRING _locID="zoopedia_birdsecretary:entry" version="9"  >Sekretarz</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_birdsecretary:text" version="9"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/BirdSecretary/BirdSecretary_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>						 
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Stan zagrożenia:
+                     <br/>
+                        <color r="170" g="255" b="0">
+                     Niskie zagrożenie
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+               <cell width="128">
+                  <color r="255" g="255" b="255">Preria<br/></color>
+                  <img src="ui/icon_biomes/icon_grassland.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+               </cell>
+					<cell width="128">
+						<color r="255" g="255" b="255">Afryka</color>
+						<br/>
+						<img src="ui/icon_maplocations/Grassland_Africa_Asia.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+					</cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Gromada: Ptaki <i>(Aves)</i>
+                  <br/>
+                  Rząd: Ptaki drapieżne <i>(Falconiformes)</i>
+                  <br/>
+                  Rodzina: <i>Sagittariidae</i>
+                  <br/>
+                  Rodzaj: <i>Sagittarius</i>
+                  <br/>
+                  Gatunek: <i>serpentarius</i>
+                  </color>
+               </cell>
+               <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/grassland_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+               </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Ciekawostki</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Sekretarz potrafi pokonać pieszo nawet 30 kilometrów dziennie.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Ptaki te są często trzymane jako zwierzęta domowe w Afryce południowej ze względu na to, iż polują na węże i szczury.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Węże to ulubiony pokarm sekretarza. Ptaki te łapią swą zdobycz szponami i uderzają nią o ziemię, jednocześnie osłaniając się skrzydłami przed ukąszeniem.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Sekretarze dobierają się w stałe pary. Mimo iż ptaki te prowadzą samotny tryb życia, partnerzy pozostają w pobliżu siebie przez wiele lat.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>               
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Ptaki te są wyjątkowo ciche - jedynym dźwiękiem, jaki w zasadzie wydają, jest skrzek w okresie godów.</color>
+               </cell>                   
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">By odblokować sekretarza w trybie wyzwania lub kampanii, musisz zdobyć status 3 gwiazdek dla swojego zoo.</color>
+            <p/>Sekretarz to duży ptak drapieżny, żyjący na terenach Afryki na południe od Sahary. Jego ciało jest dłuższe niż 1 m, o długich nogach i ogonie, a głowa zakończona jest mocnym, zakrzywionym dziobem. W wielu książkach można spotkać się z poglądem, że nazwa "sekretarz" pochodzi od podobieństwa ozdobnego pióropusza tego ptaka do zestawu piór do pisania włożonych za ucho - w rzeczywistości jest to przekręcona arabska nazwa tego gatunku. Upierzenie sekretarza jest koloru niebiesko-szarego, z czarnym ogonem i udami. Sekretarz poluje na małe zwierzęta i gady, zwłaszcza węże. Ptaki te rzadko latają. Sekretarze budują duże, mocne gniazda z gałązek w gałęziach drzew lub zaroślach, i każdorazowo składają 2 jaja.
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Informacje pochodzą z <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft&#xAE; Encarta&#xAE; 2006.</color></u></a> &#xA9; 1993&#x96;2005 Microsoft Corporation. Wszystkie prawa zastrzeżone.
+         </cell>         
+      </LOC_STRING>
+</ZT2Strings>

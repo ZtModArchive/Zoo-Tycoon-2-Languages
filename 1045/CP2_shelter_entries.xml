@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<ZT2Strings>
+	<LOC_STRING _locID="zoopedia_burrow_grassland:entry"  >Nora, step</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_burrow_grassland:text"  >
+			<cell pady="0" width="1000"/>
+			<p/>
+			<cell width="260"/>
+			<cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+				<cell width="600" padx="20" pady="20">
+					<color r="255" g="255" b="255">
+						<img src="entities/objects/shelters/AnimalBurrows_Shelter/AnimalBurrows_Grasslands_Large_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+						<p/>
+Nora to idealne schronienie dla niewielkich zwierząt w porośniętym trawą stepie. Wprost uwielbiają sypiać w ciemnych, schronieniach pod ziemią. 
+					</color>
+				</cell>
+			</cell>
+		</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_largeextinctshelter_shelter:entry"  >Skalne schronienie</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_largeextinctshelter_shelter:text"  >
+ 			<cell pady="0" width="1000"/>
+ 			<p/>
+ 			<cell width="260"/>
+ 			<cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+ 				<cell width="600" padx="20" pady="20">
+ 					<color r="255" g="255" b="255">
+ 						<img src="entities/objects/shelters/LargeExtinctShelter_Shelter/LargeExtinctShelter_Shelter_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+ 						<p/>
+ 						Skalne schronienie to idealna kryjówka dla zwierząt ceniących sobie chłodne otoczenie i spokój. Aby zapewnić zwierzęciu większy komfort, można wybudować w nim wodospad.
+ 					</color>
+ 				</cell>
+ 			</cell>
+ 		</LOC_STRING>
+</ZT2Strings>

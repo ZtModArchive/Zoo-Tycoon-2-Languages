@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<ZT2Strings>
+	<LOC_STRING _locID="zoopedia_transportation" version="2" />
+	<LOC_STRING _locID="zoopedia_transportation:entry" version="2"  >Transport</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_transportation:text" version="2"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>
+Zoo Tycoon 2 oferuje kilka środków transportu, służących gościom do zwiedzania zoo.
+                  <p/>
+Aby uzyskać informacje na temat konkretnego środka transportu, kliknij jego nazwę na liście po lewej stronie.  
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_groundstation" version="2" />
+	<LOC_STRING _locID="zoopedia_groundstation:entry" version="2"  >Stacja pojazdów Jeep&#xAE;</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_groundstation:text" version="2"  >
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\transportation\stations\GroundStation\GroundStation_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+Stacja samochodów Jeep&#xAE; służy gościom do wsiadania i wysiadania z <a href="zoopedia:zoopedia_groundvehicle:entry"><u><color r="255" g="231" b="135">pojazdów marki Jeep.</color></u></a> Stacja ta jest zamknięta, dopóki nie zbudujesz całej <a href="zoopedia:zoopedia_groundtrack:entry"><u><color r="255" g="231" b="135">drogi</color></u></a>,  po której poruszać się będą pojazdy. Kiedy trasa zostanie ukończona, stacja Jeep&#xAE; zostaje automatycznie otwarta i można w niej kupować pojazdy.
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_groundtrack" version="2" />
+	<LOC_STRING _locID="zoopedia_groundtrack:entry" version="2"  >Droga</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_groundtrack:text" version="2"  >
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\transportation\track\ground\ground_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+Drogi stanowią połączenie pomiędzy <a href="zoopedia:zoopedia_groundstation:entry"><u><color r="255" g="231" b="135">stacjami samochodów Jeep&#xAE;</color></u></a> - dzięki nim<a href="zoopedia:zoopedia_groundvehicle:entry"><u><color r="255" g="231" b="135"> samochody Jeep</color></u></a> mogą podróżować między stacjami. Twoja trasa musi zostać zamknięta, zanim otworzysz stację pojazdów Jeep. Zauważ, że wszystkie drogi w grze są jednokierunkowe!
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_crossinggate" version="2" />
+	<LOC_STRING _locID="zoopedia_crossinggate:entry" version="2"  >Brama przejazdowa</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_crossinggate:text" version="2"  >
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\transportation\crossinggate\crossinggate_end\crossinggate_end_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+Wszędzie, gdzie droga krzyżuje się ze ścieżką dla pieszych, należy umieścić bramę przejazdową, co pomoże uniknąć wypadków. Brama przejazdowa jest opuszczana, kiedy zbliża się samochód Jeep&#xAE;, i podnoszona po jego przejeździe.
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_groundvehicle" version="2" />
+	<LOC_STRING _locID="zoopedia_groundvehicle:entry" version="2"  >Samochody Jeep&#xAE;</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_groundvehicle:text" version="2"  >
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+       <img src="entities\transportation\vehicles\Jeep_Wrangler\Jeep_Wrangler_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+       <img src="entities\transportation\vehicles\Jeep_Liberty\Jeep_Liberty_icon.dds" sx="0" sy="0" sw="64" sh="64"/>        
+       <img src="entities\transportation\vehicles\Jeep_Commander\Jeep_Commander_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      
+      <p/>
+Samochody Jeep&#xAE; służą do transportowania gości pomiędzy <a href="zoopedia:zoopedia_groundstation:entry"><u><color r="255" g="231" b="135">stacjami pojazdów Jeep.</color></u></a> Jeep Wrangler może pomieścić 3 zwiedzających, Jeep Liberty - 4, a Jeep Commander - 6.
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_groundvehicleupgrade" version="2" />
+	<LOC_STRING _locID="zoopedia_groundvehicleupgrade:entry" version="2"  >Ozdobione samochody Jeep&#xAE;</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_groundvehicleupgrade:text" version="2"  >
+    <cell pady="0" width="1000"/>
+    <p/>
+    <cell width="260"/>
+    <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+     <cell width="600" padx="20" pady="20">
+      <color r="255" g="255" b="255">
+       <img src="entities\transportation\vehicles\Jeep_Wrangler\Jeep_Wrangler_Upgraded_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+       <img src="entities\transportation\vehicles\Jeep_Liberty\Jeep_Liberty_Upgraded_icon.dds" sx="0" sy="0" sw="64" sh="64"/>         
+       <img src="entities\transportation\vehicles\Jeep_Commander\Jeep_Commander_Upgraded_icon.dds" sx="0" sy="0" sw="64" sh="64"/>       
+       <p/>
+Samochody Jeep&#xAE; służą do transportowania gości pomiędzy <a href="zoopedia:zoopedia_groundstation:entry"><u><color r="255" g="231" b="135">stacjami pojazdów Jeep.</color></u></a> Jeep Wrangler może pomieścić 3 zwiedzających, Jeep Liberty - 4, a Jeep Commander - 6. 
+<p/>
+Ozdobione samochody Jeep&#xAE; zawierają dodatkowe elementy ozdobne, a dostęp do nich uzyskasz, jeśli wygrasz Nagrodę Potentata Transportu 2 stopnia.
+      </color>
+     </cell>
+    </cell>
+   </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_groundvehicleafrica:entry"  >Afrykańskie samochody Jeep&#xAE;</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_groundvehicleafrica:text"  >
+     <cell pady="0" width="1000"/>
+     <p/>
+     <cell width="260"/>
+     <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+      <cell width="600" padx="20" pady="20">
+       <color r="255" g="255" b="255">
+        <img src="entities\transportation\vehicles\Jeep_Wrangler\Jeep_Wrangler_Africa_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+       <img src="entities\transportation\vehicles\Jeep_Liberty\Jeep_Liberty_Africa_icon.dds" sx="0" sy="0" sw="64" sh="64"/>         
+        <img src="entities\transportation\vehicles\Jeep_Commander\Jeep_Commander_Africa_icon.dds" sx="0" sy="0" sw="64" sh="64"/>        
+        <p/>
+ Samochody Jeep&#xAE; służą do transportowania gości pomiędzy <a href="zoopedia:zoopedia_groundstation:entry"><u><color r="255" g="231" b="135">stacjami pojazdów Jeep.</color></u></a> Jeep Wrangler może pomieścić 3 zwiedzających, Jeep Liberty - 4, a Jeep Commander - 6. 
+ <p/>
+ Afrykańskie samochody Jeep są ozdobione motywami afrykańskimi, a dostęp do nich uzyskasz, jeśli wygrasz Nagrodę Króla Afryki.
+       </color>
+      </cell>
+     </cell>
+    </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_vehiclegate" version="2" />
+	<LOC_STRING _locID="zoopedia_vehiclegate:entry" version="2"  >Brama samochodowa</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_vehiclegate:text" version="2"  >
+      <cell pady="0" width="1000"/>
+      <p/>
+      <cell width="260"/>
+      <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+         <cell width="600" padx="20" pady="20">
+            <color r="255" g="255" b="255">
+               <img src="entities\objects\fences\vehiclegate_end\vehiclegate_end_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+            <p/>
+Brama samochodowa pozwala pojazdom wjeżdżać i wyjeżdżać z terenów, na których trzymane są zwierzęta. By zapobiec ucieczkom zwierząt, brama zamyka się automatycznie, gdy samochód przez nią przejedzie.
+            </color>
+         </cell>
+      </cell>
+   </LOC_STRING>
+</ZT2Strings>

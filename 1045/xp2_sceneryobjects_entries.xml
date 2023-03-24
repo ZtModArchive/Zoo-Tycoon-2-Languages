@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<ZT2Strings>
+	<LOC_STRING _locID="zoopedia_aquarium:entry"  >Akwaria</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_aquarium:text"  >
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities\objects\buildings\Aquarium_Jellyfish\Aquarium_Jellyfish_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities\objects\buildings\Aquarium_Octopus\Aquarium_Octopus_icon.dds" sx="0" sy="0" sw="64" sh="64"/>                  
+                  <img src="entities\objects\buildings\Aquarium_Seahorse\Aquarium_Seahorse_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities\objects\buildings\Aquarium_TropicalFish\Aquarium_TropicalFish_icon.dds" sx="0" sy="0" sw="64" sh="64"/>                  
+                  <br/>Akwaria to doskonałe elementy wystawowe dla mniejszych stworzeń wodnych. Przenośne akwarium nie zajmuje wiele miejsca, więc możesz umieścić je w dowolnym miejscu zoo. Odwiedzający uwielbiają oglądać zwierzęta z bliska.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_cannon:entry"  >Armata piratów</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_cannon:text"  >
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities/objects/scenery/Cannon/Cannon_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>Ten antyk doda smaczku twojemu zoo. Gdy umieścisz armatę w zbiorniku, będzie produkować bąbelki. Na lądzie stanie się doskonałym elementem dekoracyjnym.    
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_koi:entry"  >Kolorowe rybki</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_koi:text"  >
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities\units\animals\Koi\Koi_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>Kolorowe rybki (znane pod japońską nazwą koi lub nishikigoi) to różne, kolorowe gatunki karpia hodowane specjalnie ze względu na swe ubarwienie i wzory. Koi są atrakcyjnym dodatkiem do zbiorników -- pamiętaj tylko, by nie umieszczać ich tam, gdzie żyją rekiny i inne drapieżniki!
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_drinkingfountain_mm:entry"  >Fontanna z wodą pitną - Nautilus</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_drinkingfountain_mm:text"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities\objects\scenery\drinkingfountain_mm\drinkingfountain_mm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>Ten element nie przynosi zysku zoo, ale goście są zadowleni, gdy mogą się orzeźwić wodą z fontanny.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_fountain_splash_mm:entry"  >Pryskająca fontanna w kształcie białuchy</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_fountain_splash_mm:text"  >
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities/objects/scenery/FountainSplash_mm/FountainSplash_mm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>Fontanna w kształcie białuchy pryskająca wodą. Dzieci uwielbiają się w niej pluskać. Umieść ją na alejce, by uformowała łuk.    
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_pirate_mast:entry"  >Maszt piracki</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_pirate_mast:text"  >
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities/objects/scenery/PirateMast/PirateMast_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>Ten zniszczony masz może funkcjonować jako podwodna lub naziemna dekoracja.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_pirate_ship:entry"  >Statek piratów</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_pirate_ship:text"  >
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities/objects/scenery/PirateShip/PirateShip_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>Ten zniszczony wrak może służyć jako atrakcyjna dekoracja.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_seahorseride:entry"  >Podskakujący konik morski</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_seahorseride:text"  >
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities/objects/scenery/Playground_BouncyRide_Seahorse_mm/BouncyRide_Seahorse_mm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>Dzieci lubią udawać, że pływają w oceanie na grzbiecie konika morskiego.    By go odblokować w swoim zoo, zdobądź nagrodę "Potentat zwierząt morskich 2 poziomu".
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_treasure_chest:entry"  >Bąbelkownica - skrzynia skarbów</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_treasure_chest:text"  >
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities/objects/scenery/TreasureChest/TreasureChest_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>Ta skrzynia pełna złota służy jako świetna dekoracja zbiornika lub obszarów publicznych.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_gazebo_mm:entry"  >Altana w kształcie latarni morskiej</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_gazebo_mm:text"  >
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities/objects/scenery/gazebo_mm/gazebo_mm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>             
+               Goście uwielbiają odpoczywać w altanie w kształcie latarni morskiej, która nadaje twojemu zoo morskiego klimatu.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_marinetrainingstatue:entry"  >Posąg, mistrza tresury</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_marinetrainingstatue:text"  >
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities\objects\scenery\Statue_Training_mm\Statue_Training_mm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>
+Goście bardzo lubią wszelkie rzeźby i posągi. By go odblokować, uzyskaj sto 100% wyników tresury zwierząt morskich. 
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+</ZT2Strings>
