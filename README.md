@@ -50,7 +50,7 @@ Archives of all official localised versions of the series
 - Japanese - defunct Microsoft Japanese Zoo Tycoon 2 site (archive)
 - Korean - judy962 (archive)
 - Dutch - Thom
-- Polish -
+- Polish - MatikTheSeventh
 - Portuguese (Brazil) - Games&Cigarettes (archive), ???
 - Swedish - GrimReaper (Scene ISO Collection, archive)
 - Portuguese (Portugal)
