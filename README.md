@@ -51,7 +51,7 @@ Archives of all official localised versions of the series
 - Korean - judy962 (archive)
 - Dutch - Thom
 - Polish -
-- Portuguese (Brazil) - Brazil site
+- Portuguese (Brazil) - Games&Cigarettes (archive), ???
 - Swedish - GrimReaper (Scene ISO Collection, archive)
 - Portuguese (Portugal)
 - Spanish - Lgcfm
