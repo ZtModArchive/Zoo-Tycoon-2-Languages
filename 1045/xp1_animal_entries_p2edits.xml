@@ -2,7 +2,8 @@
 <ZT2Strings>
 	<LOC_STRING _locID="zoopedia_antelopesablegiant" version="2" />
 	<LOC_STRING _locID="zoopedia_antelopesablegiant:entry" version="2"  >Antylopa szabloroga</LOC_STRING>
-	<LOC_STRING _locID="zoopedia_antelopesablegiant:text" version="2"  >  <cell pady="0" width="1000"/>
+	<LOC_STRING _locID="zoopedia_antelopesablegiant:text" version="2"  >
+  <cell pady="0" width="1000"/>
   <p/>
   <cell width="260"/>
   <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
@@ -28,10 +29,10 @@
                   </cell>                 
                   <cell width="224" padx="10" pady="0">
                      <color r="255" g="255" b="255">
-                     Status ochronny:
+                     Stopień zagrożenia:
                      <br/>
                         <color r="255" g="0" b="0">
-                     Zagrożenie krytyczne
+                     Ginąca
                         </color>
                      </color>                  
                   </cell>
@@ -42,14 +43,14 @@
      <img src="ui/icon_biomes/icon_savannah.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
     </cell>
     <cell width="128">
-     <color r="255" g="255" b="255">Południowa Afryka<br/></color>
+     <color r="255" g="255" b="255">Afryka Południowa<br/></color>
      <img src="ui/icon_maplocations/Savannah_Africa_South_GiantSable.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
     </cell>
     <br/>
     <cell width="284" pady="10">
      <color r="255" g="255" b="255">
-      Gromada: Ssaki <i>(Mammalia)</i><br/>
-      Rząd: Parzystokopytne <i>(Artiodactyla)</i><br/>
+      Typ: Ssaki <i>(Mammalia)</i><br/>
+      Gromada: Parzystokopytne <i>(Artiodactyla)</i><br/>
       Rodzina: Krętorogie <i>(Bovidae)</i><br/>
       Rodzaj: <i>Hippotragus</i><br/>
       Gatunek: <i>niger</i><br/>
@@ -70,7 +71,7 @@
    </cell>
    <cell width="176">
     <color r="255" g="255" b="255">
-     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Interesujące wiadomości o antylopie szablorogiej</font>
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Ciekawostki</font>
     </color>
    </cell>
    <p/>
@@ -80,54 +81,56 @@
      <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
     </cell>
     <cell width="202" pady="10">
-     <color r="255" g="255" b="255">Zakrzywione rogi antylopy mogą osiągać półtora metra długości.</color>
+     <color r="255" g="255" b="255">Imponujące poroże antylopy szablorogiej może osiągać długość nawet 150 cm.</color>
     </cell>
     <cell width="32" pady="10">
         <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
     </cell>        
     <cell width="202" pady="10">
-     <color r="255" g="255" b="255">Jeśli antylopa utraci swoje rogi na ich miejsce nie urosną nowe.</color>
+     <color r="255" g="255" b="255">Jeśli antylopa szabloroga straci poroże, nie odrasta ono już nigdy.</color>
     </cell>
     <cell width="32" pady="10">
         <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
     </cell>    
     <cell width="202" pady="10">
-     <color r="255" g="255" b="255">Antylopa szabloroga potrafi osiągać prędkość 55 kmh i utrzymywać ją na pewnym dystansie.</color>
+     <color r="255" g="255" b="255">Antylopa szabloroga potrafi osiągać prędkość ponad 50 km/h i utrzymywać ją przez dłuższy czas.</color>
     </cell>
     <cell width="32" pady="10">
         <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
     </cell>    
     <cell width="202" pady="10">
-     <color r="255" g="255" b="255">Przetrwanie gatunku zagrożone jest trwającą 27 lat wojną domową w Angoli, na terenie naturlnego występowania antylopy szablorogiej.</color>
+     <color r="255" g="255" b="255">Zanik antylopy szablorogiej spowodowany jest między innymi trwającą 27 lat wojną domową w Angoli.</color>
     </cell>
     <cell width="32" pady="10">
         <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
     </cell>    
     <cell width="202" pady="10">
-     <color r="255" g="255" b="255">Do naszych czasów przetrwało jedynie 1000 egzemplarzy gatunku, wszystkie żyją w rezerwacie Luando w centralnej Angoli oraz w parku narodowym Kangandala.</color>
+     <color r="255" g="255" b="255">Na świecie żyje tylko 1000 antylop szablorogich, zamieszkujących środkową Angolę (rezerwaty Luando i Kangandala).</color>
     </cell>    
     <br/> 
    </cell>
   </cell>
   <cell width="340">
    <color r="255" g="248" b="178">
-    Aby odblokować antylopę szablorogą w wyzwaniu lub w kampanii musisz otrzymać kategorię dwóch gwiazdek dla swojego zoo.
+    Aby uzyskać dostęp do antylopy szablorogiej, musisz mieć 2 gwiazdki popularności.
    </color>
    <p/>
-Antylopy - nazwa potoczna grupy kilkudziesięciu gatunków parzystokopytnych z rodziny krętorogich. Małe antylopy nazywa się potocznie gazelami. Zamieszkują Afrykę i Azję. Są zwierzętami roślinożernymi. Są szybkimi biegaczami i często żyją w stadach, które uciekają zauważywszy najmniejsze zagrożenie. Najbardziej znane gatunki to: gnu, impala, eland i antylopa karłowata, która jest niewiele większa od zająca. Łowcy trofeów cenią sobie poroża antylop, co doprowadziło wiele gatuków tego zwierzęcia na skraj wyginięcia.
+Antylopa to nazwa odnosząca się do ogromnej grupy ssaków pustorogich, należących do tej samej rodziny co bydło, kozy i owce. Około 100 gatunków antylopy zamieszkuje tereny Afryki i Azji.
    <p/>
-Antylopy z wyglądu przypominają jelenie, w rzeczywistości jednak są spokrewnione z kozami i z wołem. W odróżnieniu od jeleni mających rozgałęzione poroża, które gubią co roku, antylopy mają spiczaste rogi, które wyrastają raz na całe życie. Rogi antylop mogą osiągać półtora metra długości i mimo swojego groźnego wyglądu stanowią kiepską broń. Zdarzają się co prawda udokumentowane przypadki antylop, które potrafią przebić, a w efekcie nawet zabić drapieżnika o rozmiarach lwa, jednak o wiele częściej antylopa w obliczu niebezpieczeństwa najzwyczajniej ucieka.
+Wśród siedmiu gatunków znanych jako antylopy koniowate (Hippotraginae) znajduje się antylopa szabloroga, antylopa końska, oryks i adaks - duże zwierzęta, budową przypominające konie. Zamieszkują Afrykę i Półwysep Arabski. Mimo nazwy, nie sposób pomylić którykolwiek z tych gatunków z koniem, ponieważ każdy posiada ogromne rogi - które, za sprawą kłusowników, przyczyniły się do wytępienia tych zwierząt.
    <p/>
-Antylopy są zwierzętami przeżuwającymi pokarm. Podobnie jak bydło czy owce, antylopy mają dobrze rozwinięte trzonowce, którymi mielą pożywienie do postaci strawnej papki. Nie posiadają górnych siekaczy i do odrywania liści lub łodyg traw używają dolnych siekaczy przyciśniętych do górnej warstwy dziąseł.
+W odróżnieniu od jeleni, których rozwidlone rogi są zrzucane co roku, antylopy posiadają proste rogi, które muszą im wystarczyć na całe życie. Ich długość sięga 1,5 m; choć wyglądają na wytrzymałe, w rzeczywistości są kruche i łamliwe. Istnieją udokumentowane przypadki, kiedy antylopy zabijały nimi drapieżców takich jak lew, jednak w sytuacji zagrożenia zwierzęta te przeważnie uciekają.
    <p/>
-W trakcie posiłku czy odpoczynku, aby uniknąć niebezpieczeństwa antylopy nie przestają polegać na swoich wyostrzonych zmysłach. Ich oczy umieszczone są po obu stronach głowy, dodatkowo dzięki horyzontalnemu wydłużeniu źrenic zwierzęta te potrafią doskonale dostrzec niebezpieczeństwo czyhające zarówno z przodu, jak i z tyłu. Słuch i zmysł powonienia są równie wrażliwe - wszystkie te cechy są niezastąpione u zwierzęcia żyjącego w środowisku pełnym czających się w ukryciu drapieżników.
+Antylopy zwracają częściowo przetrawione jedzenie i połykają je ponownie. W odróżnieniu od innych podobnych zwierząt bardzo dokładnie przeżuwają pokarm. Zwierzęta te nie mają dolnych siekaczy, dlatego podczas jedzenia trawy lub liści wykorzytują dolne siekacze i stwardniałe podniebienie.
    <p/>
-Aby przeżyć, antylopy muszą polegać na swej zdolności do błyskawicznego dostrzegania zagrożenia i szybkiej ucieczki. Ten system ochronny doskonale sprawdza się w przypadku naturalnych przeciwników antylop, jednak stanowi słabe zabezpieczenie wobec myśliwego w ludzkiej skórze, zainteresowanego antylopią skórą, porożem lub mięsem. Zmysły antylopy nie stanowią także żadnej ochrony przed zmianami, które czyni człowiek w ich naturalnym środowisku.
+Antylopy mają wyjątkowo wrażliwe zmysły, pozwalające im uniknąć niebezpieczeństwa. Ich oczy umieszczone są po bokach głowy, a rozciągnięte poziomo źrenice pozwalają im dostrzec niebezpieczeństwo nadchodzące z każdej strony. Ich słuch i węch są również niezwykle wrażliwe - co niewątpliwie przydaje się szczególnie po zapadnięciu zmroku, kiedy wiele drapieżnych gatunków wychodzi na polowanie.
+   <p/>
+W sytuacji zagrożenia antylopy rzucają się do ucieczki. Pozwala im to uniknąć większości drapieżców, jednak nie chroni przez myśliwymi, dla których mięso, rogi i skóra antylopy stanowią cenny łup, ani przed zmianami zachodzącymi w ich naturalnym środowisku.
   </cell>
   <p/>
   <cell width="260"/>
   <cell width="620">
-   Zawartość udostępniona przez <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2005.</color></u></a>(C) 1993-2004 Microsoft Corporation. Wszelkie prawa zastrzeżone.
+   Źródło: <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2005.</color></u></a>(C) 1993-2004 Microsoft Corporation. All rights reserved.
   </cell>
  </LOC_STRING>
 </ZT2Strings>

@@ -1,18 +1,20 @@
-﻿<ZT2Strings>
-      <LOC_STRING _locID="locale:month_year">MMM',' 'Rok' y</LOC_STRING>
-      <LOC_STRING _locID="locale:day_date">ddd'.' MMM d</LOC_STRING>
-      <LOC_STRING _locID="locale:month_day_year">MMM d', Rok' y</LOC_STRING>
-      <LOC_STRING _locID="locale:currency_symbol">$</LOC_STRING>
-      <LOC_STRING _locID="locale:january">Sty</LOC_STRING>
-      <LOC_STRING _locID="locale:february">Lut</LOC_STRING>
-      <LOC_STRING _locID="locale:march">Mar</LOC_STRING>
-      <LOC_STRING _locID="locale:april">Kwi</LOC_STRING>
-      <LOC_STRING _locID="locale:may">Maj</LOC_STRING>
-      <LOC_STRING _locID="locale:june">Cze</LOC_STRING>
-      <LOC_STRING _locID="locale:july">Lip</LOC_STRING>
-      <LOC_STRING _locID="locale:august">Sie</LOC_STRING>
-      <LOC_STRING _locID="locale:september">Wrz</LOC_STRING>
-      <LOC_STRING _locID="locale:october">Paź</LOC_STRING>
-      <LOC_STRING _locID="locale:november">Lis</LOC_STRING>
-      <LOC_STRING _locID="locale:december">Gru</LOC_STRING>
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<ZT2Strings>
+	<LOC_STRING _locID="locale:month_year"  >MMM',' 'Year' y</LOC_STRING>
+	<LOC_STRING _locID="locale:day_date"  >ddd'.' MMM d</LOC_STRING>
+	<LOC_STRING _locID="locale:month_day_year"  >MMM d', Year' y</LOC_STRING>
+	<LOC_STRING _locID="locale:minutes_seconds"  >m':'ss</LOC_STRING>
+	<LOC_STRING _locID="locale:currency_symbol"  >$</LOC_STRING>
+	<LOC_STRING _locID="locale:january"  >Jan</LOC_STRING>
+	<LOC_STRING _locID="locale:february"  >Feb</LOC_STRING>
+	<LOC_STRING _locID="locale:march"  >Mar</LOC_STRING>
+	<LOC_STRING _locID="locale:april"  >Apr</LOC_STRING>
+	<LOC_STRING _locID="locale:may"  >May</LOC_STRING>
+	<LOC_STRING _locID="locale:june"  >Jun</LOC_STRING>
+	<LOC_STRING _locID="locale:july"  >Jul</LOC_STRING>
+	<LOC_STRING _locID="locale:august"  >Aug</LOC_STRING>
+	<LOC_STRING _locID="locale:september"  >Sep</LOC_STRING>
+	<LOC_STRING _locID="locale:october"  >Oct</LOC_STRING>
+	<LOC_STRING _locID="locale:november"  >Nov</LOC_STRING>
+	<LOC_STRING _locID="locale:december"  >Dec</LOC_STRING>
 </ZT2Strings>

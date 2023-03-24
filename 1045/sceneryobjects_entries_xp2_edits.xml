@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<ZT2Strings>
+	<LOC_STRING _locID="zoopedia_themedtrashcan" version="6" />
+	<LOC_STRING _locID="zoopedia_themedtrashcan:entry" version="6"  >Stylizowany kosz na śmieci</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_themedtrashcan:text" version="6"  >
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities\objects\scenery\trashcan_jt\trashcan_jt_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities\objects\scenery\trashcan_st\trashcan_st_icon.dds" sx="0" sy="0" sw="64" sh="64"/>                  
+                  <br/>Goście wyrzucają śmieci do koszy, które regularnie powinni opróżniać dozorcy. Jeżeli gość nie będzie mógł znaleźć kosza, 
+            wyrzuci odpadki na ziemię. Odwiedzający lubią, kiedy obiekty scenerii są utrzymane w stylu wybiegu, który im się najbardziej podobał.          
+                  <p/>Aby uzyskać dostęp do obiektów tematycznych, musisz ukończyć pięć wyzwań fotosafari i pięć wyzwań w trybie „Wyzwanie”.     
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_themedviewingareas" version="6" />
+	<LOC_STRING _locID="zoopedia_themedviewingareas:entry" version="6"  >Stylizowane daszki</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_themedviewingareas:text" version="6"  >
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities\objects\scenery\ViewingArea_Jt\ViewingArea_Jt_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities\objects\scenery\ViewingArea_St\ViewingArea_St_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>
+               Stylizowany daszek zapewnia osłonięte miejsce, z którego odwiedzający mogą oglądać zwierzęta. Odwiedzający lubią, kiedy obiekty scenerii są utrzymane w stylu wybiegu, który im się najbardziej podobał.
+                  <p/>Aby uzyskać dostęp do obiektów tematycznych, musisz ukończyć pięć wyzwań fotosafari i pięć wyzwań w trybie „Wyzwanie”. 
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_themedumbrellatable" version="6" />
+	<LOC_STRING _locID="zoopedia_themedumbrellatable:entry" version="6"  >Stylizowany stolik pod parasolem</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_themedumbrellatable:text" version="6"  >
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <br/>
+                  <img src="entities\objects\scenery\umbrellatable_jt\umbrellatable_jt_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities\objects\scenery\umbrellatable_St\umbrellatable_St_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <br/>
+               Przy stole goście mogą usiąść i w spokoju zjeść, i wypić to, co właśnie kupili.  
+Odwiedzający są zadowoleni, kiedy nie muszą jeść na stojąco. Goście lubią, kiedy obiekty scenerii są utrzymane w stylu wybiegu, który im się najbardziej podobał.
+                  <p/>Aby uzyskać dostęp do obiektów tematycznych, musisz ukończyć pięć wyzwań fotosafari i pięć wyzwań w trybie „Wyzwanie”.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+</ZT2Strings>

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<ZT2Strings>
+	<LOC_STRING _locID="zoopedia_paths" version="2" />
+	<LOC_STRING _locID="zoopedia_paths:entry" version="2"  >Ścieżki</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_paths:text" version="2"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>Dobrze wytyczone ścieżki odgrywają ważną rolę w utrzymaniu zadowolenia gości i kontrolowaniu ruchu w zoo.
+                  <p/>Aby przejrzeć informacje na temat danego typu ścieżki z Zoo Tycoon 2, kliknij na jego nazwie na liście po lewej stronie.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_staff" version="3" />
+	<LOC_STRING _locID="zoopedia_staff:entry" version="3"  >Personel</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_staff:text" version="3"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>Możesz zatrudnić różne grupy personelu, który pomoże ci prowadzić zoo.
+                  <p/>Aby przejrzeć informacje na temat danej grupy personelu z Zoo Tycoon 2, kliknij na jej nazwie na liście po lewej stronie.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+</ZT2Strings>

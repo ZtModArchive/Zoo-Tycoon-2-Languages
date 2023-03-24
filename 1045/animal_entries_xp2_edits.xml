@@ -1,0 +1,265 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<ZT2Strings>
+	<LOC_STRING _locID="zoopedia_moose" version="6" />
+	<LOC_STRING _locID="zoopedia_moose:entry" version="6"  >Łoś</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_moose:text" version="6"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+               <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+                  <img src="entities/units/animals/Moose/Moose_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+               </cell>
+               <cell width="16">
+                  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+               </cell>
+               <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+                  <img src="entities/units/animals/Moose/Moose_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+               </cell>
+               <cell width="16">
+                  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+               </cell>
+               <cell width="60"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Stopień zagrożenia:
+                     <br/>
+                        <color r="170" g="255" b="0">
+                     Niskie zagrożenie
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>             
+            
+               <cell width="128">
+                  <color r="255" g="255" b="255">Las iglasty</color>
+                  <br/>
+                  <img src="ui/icon_biomes/icon_borealforest.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+               </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Ameryka Północna</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/Boreal_America_North.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+Gromada:  Ssaki                                                                            
+                     <i>(Mammalia)</i>
+                     <br/>
+Rząd:    Parzystokopytne                                                        
+                     <i>(Artiodactyla)</i>
+                     <br/>
+Rodzina:    Jeleniowate                                                          
+                     <i>(Cervidae)</i>
+                     <br/>
+Rodzaj:                                                               
+                     <i>Alces  </i>
+                     <br/>
+Gatunek:                                                           
+                     <i>alces</i>
+                     <br/>
+Podgatunek:                                                           
+                     <i>americana</i>
+                  </color>
+               </cell>
+               <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/borealforest_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+               </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Ciekawostki</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Samica łosia potrafi ochronić swoje młode przez wilkami, zaganiając małego łosia do płytkiej wody, a następnie stając pomiędzy nim i wilkami, które zazwyczaj rezygnują.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">W ucieczce przed wilkami łosie często kierują się do jezior i na moczary, gdzie są bezpieczne, chyba że woda jest zamarznięta, co umożliwia wilkom dalszą pogoń.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Łoś potrafi zanurzyć się na głębokość 5,5 metra i pozostać pod wodą przez 30 sekund w poszukiwaniu roślin i korzeni.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Łoś osiąga wysokość do 2,5 m w kłębie.</color>
+               </cell>
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">Aby uzyskać dostęp do łosia w kampaniach i wyzwaniach, musisz zdobyć status pół gwiazdki dla swojego zoo.
+            </color>
+            <p/>Łoś to powszechna nazwa największego przedstawiciela rodziny jeleniowatych. Amerykańska nazwa łosia, „moose”, pochodzi z języka Indian Algonquin z Ameryki Północnej i oznacza „pożeracza gałązek”, co charakteryzuje jego dietę składającą się głównie z liści i gałązek. Łosie zamieszkują też lasy Azji Północnej i Europy od Syberii po wschodnią Norwegię, rejon Bałtyku i północ Chin. W Ameryce Północnej można je spotkać na zalesionych obszarach Kanady i północy USA. W Ameryce Północnej żyje też łosiowaty jeleń zwany wapiti. Łosie to ogromne zwierzęta, a ich samce (byki) osiągają do 2,5 m wysokości w kłębie. Niektóre byki ważą ponad 726 kg. Ich charakterystyczne, długie nogi pozwalają im żerować zarówno pośród krzewów, jak i małych drzewek, oraz brodzić w jeziorach i stawach w poszukiwaniu roślin wodnych. W wodzie łosie poruszają się z łatwością i są doskonałymi pływakami.                                    
+            <p/>Głowa łosia jest duża i posiada on zwisającą górną wargę. Pod łbem znajduje się narośl tłuszczowa pokryta długim włosiem, zwana „brodą”. Duże, ciągle poruszające się uszy łosia działają jak radar,             zapewniając mu doskonały słuch. Duży garb na kłębie zwierzęcia to łukowato wygięte wyrostki kręgowe, do których przymocowane są silne wiązadła, trzymające ogromną głowę.             Suknia łosia jest jednolicie ciemnobrązowa, z jaśniejszym odcieniem na pysku w czasie lata.             Pysk byków jest prawie czarny w trakcie okresu godowego.                       
+            <p/>Niezwykłą cechą łosi jest ich ogromne łopatowate poroże (rosochy) zakończone „zębami” lub „kolcami”. Może ono przekraczać 1,5 m szerokości i ważyć 22,7 kg. Poroża pokryte są miękką, tłustą tkanką skórną zwaną             scypułem, która jest zrzucana na początku września i często zjadana przez byka. Poroża są z kolei zrzucane każdego roku             po okresie godowym, czyli zazwyczaj pod koniec września. Starsze byki zrzucają poroża od grudnia             i już pod koniec stycznia wszystkie łosie są ich pozbawione. Zdarza się jednak, że młode łosie noszą poroża             aż do lutego. Nowe rosochy zaczynają rosnąć na początku kwietnia.                       
+            <p/>Łosie to zwierzęta żyjące samotnie, choć zdarza się - szczególnie w Kanadzie na terytorium Jukonu i na Alasce - że w trakcie okresu godowego łączą się w małe grupy tuzina lub więcej osobników. Zarówno samice (klępy, łosze), jak i samce mogą             się rozmnażać już od drugiego roku życia. W trakcie okresu godowego byki walczą między sobą o klępy (łosze) z użyciem             poroży. Później zaczyna się ciąża, która trwa około 230 dni, a większość młodych rodzi się             pod koniec maja. Klępy rodzą zazwyczaj jedno młode, choć często spotykane są bliźniaki, a zdarzały się też trojaczki             i czworaczki. Klępy mają rudawobrązowe suknie i ważą od 11 do 16 kg (przy porodzie).                       
+            <p/>Średnia życia łosia to 5 do 6 lat, choć niektóre z nich dożywają 20. Wiek             zwierzęcia sprawdza się, oglądając część korzeniową kła, która tworzy pierścieniowaty             wzór. Tak jak wiek drzew ocenia się po słojach, tak ciemny pierścień na kle             na tle jaśniejszych oznacza jeden rok życia.                        
+            <p/>Zwyczaje żywieniowe łosia zależą od pory roku. Jesienią, zimą i wiosną żywią się one młodymi odrostami osik, czarnych topól, wierzb, brzóz, leszczyn, dereni i jodeł balsamicznych. Późną wiosną i wczesnym latem łosie zlizują naturalne nagromadzenia wypłukanej soli, aby odnowić             swoje zapasy minerałów stracone w trakcie zimy. W lecie łosie wolą rośliny wodne i potrafią wstrzymać oddech nawet do 40 sekund, gdy poszukują pożywienia pod wodą.            Pomimo swoich rozmiarów i prędkości do 58 km/h na krótkich dystansach             łosie padają łupem wilków i                             
+        
+            <a href="zoopedia:zoopedia_grizzly:entry">
+               <u>
+                  <color r="255" g="231" b="135">niedźwiedzi grizzly.</color>
+               </u>
+            </a> Badania wykazały, że w trakcie pierwszych 8 tygodni niedźwiedzie potrafią zabić do 75 procent narodzonych młodych łosi. Innym zagrożeniem dla tych zwierząt jest kleszcz, który podrażnia ich skórę, co sprawia, że ścierają one swoją długą sierść dającą im ochronę przed chłodnymi zimami. Ostre zimy i plaga kleszczy potrafią zmniejszyć populację łosi nawet o 50 procent.                          
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Autor: Vince Crichton                                       
+            <br/>Informacje pochodzą z                         
+            <a href="zoopedia:zoopedia_encarta:entry">
+               <u>
+                  <color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2004.</color>
+               </u>
+            </a>(C) 1993-2003 Microsoft Corporation. Wszystkie prawa zastrzeżone.                           
+         </cell>
+      </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_peafowl" version="6" />
+	<LOC_STRING _locID="zoopedia_peafowl:entry" version="6"  >Paw</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_peafowl:text" version="6"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+                        <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+                            <img src="entities/units/animals/PeafowlCommon/PeafowlCommon_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+                        </cell>
+                        <cell width="16">
+                            <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+                        </cell>
+                        <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+                            <img src="entities/units/animals/PeafowlCommon/PeafowlCommon_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+                        </cell>
+                        <cell width="16">
+                            <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+                        </cell>
+                        <cell width="60"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Stopień zagrożenia:
+                     <br/>
+                        <color r="170" g="255" b="0">
+                     Niskie zagrożenie
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>             
+
+               <cell width="128">
+                  <color r="255" g="255" b="255">Las strefy umiarkowanej</color>
+                  <br/>
+                  <img src="ui/icon_biomes/icon_temperateforest.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+               </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Azja Południowo-Wschodnia</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/temperateforest_Asia.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                     Gromada: Ptaki                                                        
+                     <i>(Aves)</i>
+                     <br/>
+                     Rząd: Kuraki                                                       
+                     <i>(Galliformes)</i>
+                     <br/>
+                     Rodzina: przepióry, perlice, głuszcowate, nogale, czubale,                                                            
+                     <br/>
+                     kurowate, indyki                                                        
+                     <i>(Phasianidae)</i>
+                     <br/>
+                     Rodzaj: <i>Pavo  </i>
+                     <br/>
+                     Gatunek:                                                           
+                     <i>cristatus</i>
+                  </color>   
+               </cell>
+               <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/temperateforest_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+               </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Ciekawostki</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Pawie (samce) i pawice (samice) jako wszystkożercy żywią się robakami, owadami, małymi wężami oraz nasionami.</color>
+               </cell>
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">
+            Aby uzyskać dostęp do pawia w kampaniach i wyzwaniach, musisz zdobyć status pół gwiazdki dla swojego zoo.
+            </color>
+            <p/>Paw to powszechna nazwa trzech członków rodziny bażantowatych. Samiec pawia to paw, a samica to pawica. Dwa gatunki pochodzą z Azji: paw indyjski oraz paw złocisty zwany też zielonym. Trzeci gatunek, paw kongijski, żyje jedynie w lasach Demokratycznej Republiki Konga (kiedyś Zairu). Samce pawi azjatyckich posiadają wspaniały, rozkładany wachlarzowato ogon. Pióra są zazwyczaj opalizująco zielone lub złote i mienią się „pawimi okami” w tzw. kolorze pawio-niebieskim. Ten sam kolor występuje na głowie, szyi, piersi oraz czubie z piór u pawia domowego; u pawi złocistych głowa, szyja oraz niższe części są zielone. Pawice nie posiadają ogonów i są mniej ubarwione niż samce. Pawie budują gniazda na ziemi lub na niskich gałęziach drzew. Ptaki są wszystkożerne i żywią się robakami, owadami, małymi wężami oraz ziarnami.                                    
+            <p/>Paw domowy jest hodowany w wielu częściach świata, istnieją też dzikie odmiany żyjące na Hawajach. Biała odmiana została wyhodowana poprzez selekcję i krzyżowanie.                           
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">
+         Informacje pochodzą z 
+            <a href="zoopedia:zoopedia_encarta:entry">
+               <u>
+                  <color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2004.</color>
+               </u>
+            </a>
+            C) 1993-2003 Microsoft Corporation. Wszystkie prawa zastrzeżone.                           
+         </cell>
+      </LOC_STRING>
+</ZT2Strings>
