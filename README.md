@@ -39,3 +39,20 @@ Archives of all official localised versions of the series
 | Swedish               | 1053 | x      | x  | x      | x   | x  | x              | x   | x   | x     | x   |
 | Portuguese (Portugal) | 2070 | ?      | ?  | ?      | ?   | ?  | ?              | ?   | ?   | ?     | ?   |
 | Spanish               | 3082 | x      | x  | x      | x   | x  | x              | x   | x   | x     | x   |
+
+### Credits
+
+- Chinese - Chinese site
+- German - HENDRIX
+- English - Mjmanella, LoliJuicy
+- French - Hugo7
+- Italian - Games from arena 80 (archive)
+- Japanese - defunct Microsoft Japanese Zoo Tycoon 2 site (archive)
+- Korean - judy962 (archive)
+- Dutch - Thom
+- Polish -
+- Portuguese (Brazil) - Brazil site
+- Swedish - GrimReaper (Scene ISO Collection, archive)
+- Portuguese (Portugal)
+- Spanish - Lgcfm
+
