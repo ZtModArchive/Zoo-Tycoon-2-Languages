@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ZT2Strings>
+	<LOC_STRING _locID="zoopedia_animaleducator:entry">Przewodnik</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_animaleducator:text">
+		<cell pady="0" width="1000"/>
+		<p/>
+		<cell width="260"/>
+		<cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+			<cell width="600" padx="20" pady="20">
+				<color r="255" g="255" b="255">
+					<img src="entities/units/staff/Educator/Educator_F_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+					<img src="entities/units/staff/Educator/Educator_M_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+					<p/>
+					<p>Zadaniem przewodników jest informowanie gości zoo o zwierzętach, które w nim przebywają. Zwiększają oni zadowolenie zwiedzających twój ogród zoologiczny, dostarczając im ciekawych informacji na temat okazów, które można w nim oglądać. </p>
+					<p>Przewodnicy prowadzą swoje wykłady, stojąc na podiach, które kupujesz i umieszczasz w różnych miejscach w swoim zoo. Każdy zatrudniony przewodnik będzie opowiadał zwiedzającym o pobliskich wybiegach. </p>
+					<p>Jeśli przewodnik nie znajdzie sobie podium, uda się do centrali personelu. Jeśli do niej nie dotrze, będzie się bez celu włóczył po terenie zoo. </p>Przewodnicy otrzymują wynagrodzenie, które każdego pierwszego dnia miesiąca jest odliczane z konta twojego zoo. Mogą również mieć pozytywny wpływ na wysokość datków, które otrzymujesz od gości zadowolonych z wizyty w twoim ogrodzie zoologicznym.</color>
+			</cell>
+		</cell>
+	</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_maintworker:entry">Pracownik porządkowy</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_maintworker:text">
+		<cell pady="0" width="1000"/>
+		<p/>
+		<cell width="260"/>
+		<cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+			<cell width="600" padx="20" pady="20">
+				<color r="255" g="255" b="255">
+					<img src="entities/units/staff/Worker/Worker_F_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+					<img src="entities/units/staff/Worker/Worker_M_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+					<p/>
+					<p>Pracownicy porządkowi odpowiadają za utrzymanie porządku w zoo. Ich główne obowiązki to zamiatanie alejek i opróżnianie koszów na śmieci. Wykonują je automatycznie, ale możesz też przypisać im konkretne zadania. </p>Pracownicy porządkowi są ważni, ponieważ ludzie dobrze czują się w czystym zoo. Jeśli stanie się ono brudne (papierki na alejkach, pełne kosze na śmieci etc.), twoi goście będą w nim krócej przebywać. Pracownicy porządkowi otrzymują wynagrodzenie, które każdego pierwszego dnia miesiąca jest odliczane z konta twojego zoo. </color>
+			</cell>
+		</cell>
+	</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_zookeeper:entry">Opiekun zoo</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_zookeeper:text">
+		<cell pady="0" width="1000"/>
+		<p/>
+		<cell width="260"/>
+		<cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+			<cell width="600" padx="20" pady="20">
+				<color r="255" g="255" b="255">
+					<img src="entities/units/staff/Keeper/Keeper_F_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+					<img src="entities/units/staff/Keeper/Keeper_M_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+					<p/>Opiekunowie są najważniejszymi pracownikami twojego zoo. Znają potrzeby wszystkich zwierząt, które się w nim znajdują, potrafią je leczyć, żywić i sprzątać ich wybiegi. Opiekunowie otrzymują najwyższą pensję ze wszystkich twoich pracowników, która każdego pierwszego dnia miesiąca jest odliczana z konta zoo. Pamiętaj jednak, że obowiązki opiekunów możesz wykonywać sam, za darmo, w trybie Wizyta w zoo.</color>
+			</cell>
+		</cell>
+	</LOC_STRING>
+</ZT2Strings>

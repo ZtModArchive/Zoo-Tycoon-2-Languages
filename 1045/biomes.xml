@@ -1,0 +1,305 @@
+﻿<ZT2Strings>
+      <LOC_STRING _locID="biometype:format">
+         <font name="arial" size="10" shadowx="1" shadowy="1" shadowa="32">%text%</font>
+      </LOC_STRING>
+      <LOC_STRING _locID="biometype:alpine">Góry</LOC_STRING>
+      <LOC_STRING _locID="biometype:alpine_ltt">
+         <color r="255" g="248" b="178">
+            <b>Góry</b>
+         </color>
+         <br/>
+      </LOC_STRING>
+      <LOC_STRING _locID="biometype:borealforest">Las iglasty</LOC_STRING>
+      <LOC_STRING _locID="biometype:borealforest_ltt">
+         <color r="255" g="248" b="178">
+            <b>Las iglasty</b>
+         </color>
+         <br/>
+      </LOC_STRING>
+      <LOC_STRING _locID="biometype:temperateforest">Las liściasty</LOC_STRING>
+      <LOC_STRING _locID="biometype:temperateforest_ltt">
+         <color r="255" g="248" b="178">
+            <b>Las liściasty</b>
+         </color>
+         <br/>
+      </LOC_STRING>
+      <LOC_STRING _locID="biometype:desert">Pustynia</LOC_STRING>
+      <LOC_STRING _locID="biometype:desert_ltt">
+         <color r="255" g="248" b="178">
+            <b>Pustynia</b>
+         </color>
+         <br/>
+      </LOC_STRING>
+      <LOC_STRING _locID="biometype:grassland">Step</LOC_STRING>
+      <LOC_STRING _locID="biometype:grassland_ltt">
+         <color r="255" g="248" b="178">
+            <b>Step</b>
+         </color>
+         <br/>
+      </LOC_STRING>
+      <LOC_STRING _locID="biometype:gridland">Siatka</LOC_STRING>
+      <LOC_STRING _locID="biometype:gridland_ltt">
+         <color r="255" g="248" b="178">
+            <b>Siatka</b>
+         </color>
+         <br/>
+      </LOC_STRING>
+      <LOC_STRING _locID="biometype:tropicalrainforest">Las deszczowy</LOC_STRING>
+      <LOC_STRING _locID="biometype:tropicalrainforest_ltt">
+         <color r="255" g="248" b="178">
+            <b>Las deszczowy</b>
+         </color>
+         <br/>
+      </LOC_STRING>
+      <LOC_STRING _locID="biometype:savannah">Sawanna</LOC_STRING>
+      <LOC_STRING _locID="biometype:savannah_ltt">
+         <color r="255" g="248" b="178">
+            <b>Sawanna</b>
+         </color>
+         <br/>
+      </LOC_STRING>
+      <LOC_STRING _locID="biometype:scrub">Busz</LOC_STRING>
+      <LOC_STRING _locID="biometype:scrub_ltt">
+         <color r="255" g="248" b="178">
+            <b>Busz</b>
+         </color>
+         <br/>
+      </LOC_STRING>
+      <LOC_STRING _locID="biometype:tundra">Tundra</LOC_STRING>
+      <LOC_STRING _locID="biometype:tundra_ltt">
+         <color r="255" g="248" b="178">
+            <b>Tundra</b>
+         </color>
+         <br/>
+      </LOC_STRING>
+      <LOC_STRING _locID="biometype:wetlands">Tereny podmokłe</LOC_STRING>
+      <LOC_STRING _locID="biometype:wetlands_ltt">
+         <color r="255" g="248" b="178">
+            <b>Tereny podmokłe</b>
+         </color>
+         <br/>
+      </LOC_STRING>
+      <LOC_STRING _locID="alpine:icon_stt">Góry</LOC_STRING>
+      <LOC_STRING _locID="alpine:deepwater">Głęboka woda</LOC_STRING>
+      <LOC_STRING _locID="alpine:deepwater_stt">Głęboka woda</LOC_STRING>
+      <LOC_STRING _locID="alpine:deepwater_ltt">Kliknij, aby wybrać głęboką wodę. Umieść kursor nad obszarem i kliknij lewym przyciskiem, aby utworzyć głęboką wodę.</LOC_STRING>
+      <LOC_STRING _locID="alpine:shallowwater">Płytka woda</LOC_STRING>
+      <LOC_STRING _locID="alpine:shallowwater_stt">Płytka woda</LOC_STRING>
+      <LOC_STRING _locID="alpine:shallowwater_ltt">Kliknij, aby wybrać płytką wodę. Umieść kursor nad obszarem i kliknij lewym przyciskiem, aby utworzyć płytką wodę.</LOC_STRING>
+      <LOC_STRING _locID="alpine:ground">Skały</LOC_STRING>
+      <LOC_STRING _locID="alpine:ground_stt">Skały</LOC_STRING>
+      <LOC_STRING _locID="alpine:ground_ltt">Kliknij, aby wybrać skały. Umieść kursor nad obszarem i kliknij lewym przyciskiem, aby utworzyć skały.</LOC_STRING>
+      <LOC_STRING _locID="alpine:ground-cover">Trawa</LOC_STRING>
+      <LOC_STRING _locID="alpine:ground-cover_stt">Trawa</LOC_STRING>
+      <LOC_STRING _locID="alpine:ground-cover_ltt">Kliknij, aby wybrać trawę. Umieść kursor nad obszarem i kliknij lewym przyciskiem, aby utworzyć trawę.</LOC_STRING>
+      <LOC_STRING _locID="alpine:mix">Trawa i skały</LOC_STRING>
+      <LOC_STRING _locID="alpine:mix_stt">Trawa i skały</LOC_STRING>
+      <LOC_STRING _locID="alpine:mix_ltt">Kliknij, aby wybrać trawę i skały. Umieść kursor nad obszarem i kliknij lewym przyciskiem, aby utworzyć trawę i skały.</LOC_STRING>
+      <LOC_STRING _locID="alpine:foliage-mix">Jałowa ziemia</LOC_STRING>
+      <LOC_STRING _locID="alpine:foliage-mix_stt">Jałowa ziemia</LOC_STRING>
+      <LOC_STRING _locID="alpine:foliage-mix_ltt">Kliknij, aby wybrać jałową ziemię. Umieść kursor nad obszarem i kliknij lewym przyciskiem, aby utworzyć jałową ziemię.</LOC_STRING>
+      <LOC_STRING _locID="alpine:foliage-mix-terrain">Zamglony las</LOC_STRING>
+      <LOC_STRING _locID="alpine:foliage-mix-terrain_stt">Zamglony las</LOC_STRING>
+      <LOC_STRING _locID="alpine:foliage-mix-terrain_ltt">Kliknij, aby wybrać zamglony las. Umieść kursor nad obszarem i kliknij lewym przyciskiem, aby utworzyć las.</LOC_STRING>
+      <LOC_STRING _locID="borealforest:icon_stt">Las iglasty</LOC_STRING>
+      <LOC_STRING _locID="borealforest:deepwater">Głęboka woda</LOC_STRING>
+      <LOC_STRING _locID="borealforest:deepwater_stt">Głęboka woda</LOC_STRING>
+      <LOC_STRING _locID="borealforest:deepwater_ltt">Kliknij, aby wybrać głęboką wodę. Umieść kursor nad obszarem i kliknij lewym przyciskiem, aby utworzyć głęboką wodę.</LOC_STRING>
+      <LOC_STRING _locID="borealforest:shallowwater">Płytka woda</LOC_STRING>
+      <LOC_STRING _locID="borealforest:shallowwater_stt">Płytka woda</LOC_STRING>
+      <LOC_STRING _locID="borealforest:shallowwater_ltt">Kliknij, aby wybrać płytką wodę. Umieść kursor nad obszarem i kliknij lewym przyciskiem, aby utworzyć płytką wodę.</LOC_STRING>
+      <LOC_STRING _locID="borealforest:ground">Błoto</LOC_STRING>
+      <LOC_STRING _locID="borealforest:ground_stt">Błoto</LOC_STRING>
+      <LOC_STRING _locID="borealforest:ground_ltt">Kliknij, aby wybrać błoto. Umieść kursor nad obszarem i kliknij lewym przyciskiem, aby utworzyć błoto.</LOC_STRING>
+      <LOC_STRING _locID="borealforest:ground-cover">Ściółka leśna</LOC_STRING>
+      <LOC_STRING _locID="borealforest:ground-cover_stt">Ściółka leśna</LOC_STRING>
+      <LOC_STRING _locID="borealforest:ground-cover_ltt">Kliknij, aby wybrać ściółkę leśną. Umieść kursor nad obszarem i kliknij lewym przyciskiem, aby utworzyć ściółkę leśną pokrytą igiełkami sosny.</LOC_STRING>
+      <LOC_STRING _locID="borealforest:mix">Ściółka leśna i błoto</LOC_STRING>
+      <LOC_STRING _locID="borealforest:mix_stt">Ściółka leśna i błoto</LOC_STRING>
+      <LOC_STRING _locID="borealforest:mix_ltt">Kliknij, aby wybrać ściółkę leśną i błoto. Umieść kursor nad obszarem i kliknij lewym przyciskiem, aby utworzyć ściółkę leśną pokrytą igiełkami sosny i błotem.</LOC_STRING>
+      <LOC_STRING _locID="borealforest:foliage-mix">Rzadki las</LOC_STRING>
+      <LOC_STRING _locID="borealforest:foliage-mix_stt">Rzadki las</LOC_STRING>
+      <LOC_STRING _locID="borealforest:foliage-mix_ltt">Kliknij, aby wybrać rzadki las. Umieść kursor nad obszarem i kliknij lewym przyciskiem, aby utworzyć rzadki las.</LOC_STRING>
+      <LOC_STRING _locID="borealforest:foliage-mix-terrain">Gęsty las</LOC_STRING>
+      <LOC_STRING _locID="borealforest:foliage-mix-terrain_stt">Gęsty las</LOC_STRING>
+      <LOC_STRING _locID="borealforest:foliage-mix-terrain_ltt">Kliknij, aby wybrać gęsty las. Umieść kursor nad obszarem i kliknij lewym przyciskiem, aby utworzyć gęsty las.</LOC_STRING>
+      <LOC_STRING _locID="temperateforest:icon_stt">Las liściasty</LOC_STRING>
+      <LOC_STRING _locID="temperateforest:deepwater">Głęboka woda</LOC_STRING>
+      <LOC_STRING _locID="temperateforest:deepwater_stt">Głęboka woda</LOC_STRING>
+      <LOC_STRING _locID="temperateforest:deepwater_ltt">Kliknij, aby wybrać głęboką wodę. Umieść kursor nad obszarem i kliknij lewym przyciskiem, aby utworzyć głęboką wodę.</LOC_STRING>
+      <LOC_STRING _locID="temperateforest:shallowwater">Płytka woda</LOC_STRING>
+      <LOC_STRING _locID="temperateforest:shallowwater_stt">Płytka woda</LOC_STRING>
+      <LOC_STRING _locID="temperateforest:shallowwater_ltt">Kliknij, aby wybrać płytką wodę. Umieść kursor nad obszarem i kliknij lewym przyciskiem, aby utworzyć płytką wodę.</LOC_STRING>
+      <LOC_STRING _locID="temperateforest:ground">Błoto</LOC_STRING>
+      <LOC_STRING _locID="temperateforest:ground_stt">Błoto</LOC_STRING>
+      <LOC_STRING _locID="temperateforest:ground_ltt">Kliknij, aby wybrać błoto. Umieść kursor nad obszarem i kliknij lewym przyciskiem, aby utworzyć błoto.</LOC_STRING>
+      <LOC_STRING _locID="temperateforest:ground-cover">Ściółka leśna</LOC_STRING>
+      <LOC_STRING _locID="temperateforest:ground-cover_stt">Ściółka leśna</LOC_STRING>
+      <LOC_STRING _locID="temperateforest:ground-cover_ltt">Kliknij, aby wybrać ściółkę leśną. Umieść kursor nad obszarem i kliknij lewym przyciskiem, aby utworzyć ściółkę leśną pokrytą opadłymi liśćmi.</LOC_STRING>
+      <LOC_STRING _locID="temperateforest:mix">Ściółka leśna i błoto</LOC_STRING>
+      <LOC_STRING _locID="temperateforest:mix_stt">Ściółka leśna i błoto</LOC_STRING>
+      <LOC_STRING _locID="temperateforest:mix_ltt">Kliknij, aby wybrać ściółkę leśną i błoto. Umieść kursor nad obszarem i kliknij lewym przyciskiem, aby utworzyć ściółkę leśną pokrytą opadłymi liśćmi i błotem.</LOC_STRING>
+      <LOC_STRING _locID="temperateforest:foliage-mix">Rzadki las</LOC_STRING>
+      <LOC_STRING _locID="temperateforest:foliage-mix_stt">Rzadki las</LOC_STRING>
+      <LOC_STRING _locID="temperateforest:foliage-mix_ltt">Kliknij, aby wybrać rzadki las. Umieść kursor nad obszarem i kliknij lewym przyciskiem, aby utworzyć rzadki las.</LOC_STRING>
+      <LOC_STRING _locID="temperateforest:foliage-mix-terrain">Gęsty las</LOC_STRING>
+      <LOC_STRING _locID="temperateforest:foliage-mix-terrain_stt">Gęsty las</LOC_STRING>
+      <LOC_STRING _locID="temperateforest:foliage-mix-terrain_ltt">Kliknij, aby wybrać gęsty las. Umieść kursor nad obszarem i kliknij lewym przyciskiem, aby utworzyć gęsty las.</LOC_STRING>
+      <LOC_STRING _locID="desert:icon_stt">Pustynia</LOC_STRING>
+      <LOC_STRING _locID="desert:deepwater">Głęboka woda</LOC_STRING>
+      <LOC_STRING _locID="desert:deepwater_stt">Głęboka woda</LOC_STRING>
+      <LOC_STRING _locID="desert:deepwater_ltt">Kliknij, aby wybrać głęboką wodę. Umieść kursor nad obszarem i kliknij lewym przyciskiem, aby utworzyć głęboką wodę.</LOC_STRING>
+      <LOC_STRING _locID="desert:shallowwater">Płytka woda</LOC_STRING>
+      <LOC_STRING _locID="desert:shallowwater_stt">Płytka woda</LOC_STRING>
+      <LOC_STRING _locID="desert:shallowwater_ltt">Kliknij, aby wybrać płytką wodę. Umieść kursor nad obszarem i kliknij lewym przyciskiem, aby utworzyć płytką wodę.</LOC_STRING>
+      <LOC_STRING _locID="desert:ground">Skały</LOC_STRING>
+      <LOC_STRING _locID="desert:ground_stt">Skały</LOC_STRING>
+      <LOC_STRING _locID="desert:ground_ltt">Kliknij, aby wybrać skały. Umieść kursor nad obszarem i kliknij lewym przyciskiem, aby utworzyć skały.</LOC_STRING>
+      <LOC_STRING _locID="desert:ground-cover"> Piasek</LOC_STRING>
+      <LOC_STRING _locID="desert:ground-cover_stt"> Piasek</LOC_STRING>
+      <LOC_STRING _locID="desert:ground-cover_ltt">Kliknij, aby wybrać piasek. Umieść kursor nad obszarem i kliknij lewym przyciskiem, aby utworzyć piasek.</LOC_STRING>
+      <LOC_STRING _locID="desert:mix">Piasek i skały</LOC_STRING>
+      <LOC_STRING _locID="desert:mix_stt">Piasek i skały</LOC_STRING>
+      <LOC_STRING _locID="desert:mix_ltt">Kliknij, aby wybrać piasek i skały. Umieść kursor nad obszarem i kliknij lewym przyciskiem, aby utworzyć piasek i skały.</LOC_STRING>
+      <LOC_STRING _locID="desert:foliage-mix">Rzadkie zarośla</LOC_STRING>
+      <LOC_STRING _locID="desert:foliage-mix_stt">Rzadkie zarośla</LOC_STRING>
+      <LOC_STRING _locID="desert:foliage-mix_ltt">Kliknij, aby wybrać rzadkie zarośla. Umieść kursor nad obszarem i kliknij lewym przyciskiem, aby utworzyć pustynię pokrytą skałami i małymi roślinami.</LOC_STRING>
+      <LOC_STRING _locID="desert:foliage-mix-terrain">Wydmy</LOC_STRING>
+      <LOC_STRING _locID="desert:foliage-mix-terrain_stt">Wydmy</LOC_STRING>
+      <LOC_STRING _locID="desert:foliage-mix-terrain_ltt">Kliknij, aby wybrać wydmy. Umieść kursor nad obszarem i kliknij lewym przyciskiem, aby utworzyć pustynię pokrytą nieporośniętymi wydmami.</LOC_STRING>
+      <LOC_STRING _locID="grassland:icon_stt">Step </LOC_STRING>
+      <LOC_STRING _locID="grassland:deepwater">Głęboka woda</LOC_STRING>
+      <LOC_STRING _locID="grassland:deepwater_stt">Głęboka woda</LOC_STRING>
+      <LOC_STRING _locID="grassland:deepwater_ltt">Kliknij, aby wybrać głęboką wodę. Umieść kursor nad obszarem i kliknij lewym przyciskiem, aby utworzyć głęboką wodę.</LOC_STRING>
+      <LOC_STRING _locID="grassland:shallowwater">Płytka woda</LOC_STRING>
+      <LOC_STRING _locID="grassland:shallowwater_stt">Płytka woda</LOC_STRING>
+      <LOC_STRING _locID="grassland:shallowwater_ltt">Kliknij, aby wybrać płytką wodę. Umieść kursor nad obszarem i kliknij lewym przyciskiem, aby utworzyć płytką wodę.</LOC_STRING>
+      <LOC_STRING _locID="grassland:ground">Błoto</LOC_STRING>
+      <LOC_STRING _locID="grassland:ground_stt">Błoto</LOC_STRING>
+      <LOC_STRING _locID="grassland:ground_ltt">Kliknij, aby wybrać błoto. Umieść kursor nad obszarem i kliknij lewym przyciskiem, aby utworzyć błoto.</LOC_STRING>
+      <LOC_STRING _locID="grassland:ground-cover">Trawa</LOC_STRING>
+      <LOC_STRING _locID="grassland:ground-cover_stt">Trawa</LOC_STRING>
+      <LOC_STRING _locID="grassland:ground-cover_ltt">Kliknij, aby wybrać trawę. Umieść kursor nad obszarem i kliknij lewym przyciskiem, aby utworzyć trawę.</LOC_STRING>
+      <LOC_STRING _locID="grassland:mix">Trawa i błoto</LOC_STRING>
+      <LOC_STRING _locID="grassland:mix_stt">Trawa i błoto</LOC_STRING>
+      <LOC_STRING _locID="grassland:mix_ltt">Kliknij, aby wybrać trawę i błoto. Umieść kursor nad obszarem i kliknij lewym przyciskiem, aby utworzyć teren pokryty trawą i błotem.</LOC_STRING>
+      <LOC_STRING _locID="grassland:foliage-mix">Wysoka trawa</LOC_STRING>
+      <LOC_STRING _locID="grassland:foliage-mix_stt">Wysoka trawa</LOC_STRING>
+      <LOC_STRING _locID="grassland:foliage-mix_ltt">Kliknij, aby wybrać wysoką trawę. Umieść kursor nad obszarem i kliknij lewym przyciskiem, aby utworzyć teren pokryty wysoką trawą.</LOC_STRING>
+      <LOC_STRING _locID="grassland:foliage-mix-terrain">Rzadki las</LOC_STRING>
+      <LOC_STRING _locID="grassland:foliage-mix-terrain_stt">Rzadki las</LOC_STRING>
+      <LOC_STRING _locID="grassland:foliage-mix-terrain_ltt">Kliknij, aby wybrać rzadki las. Umieść kursor nad obszarem i kliknij lewym przyciskiem, aby utworzyć rzadki las.</LOC_STRING>
+      <LOC_STRING _locID="gridland:ground">Siatka kwadratów (z przekątnymi)</LOC_STRING>
+      <LOC_STRING _locID="gridland:ground-cover">Siatka kwadratów (bez przekątnych)</LOC_STRING>
+      <LOC_STRING _locID="gridland:mix">Siatka mieszana</LOC_STRING>
+      <LOC_STRING _locID="tropicalrainforest:icon_stt">Las deszczowy</LOC_STRING>
+      <LOC_STRING _locID="tropicalrainforest:deepwater">Głęboka woda</LOC_STRING>
+      <LOC_STRING _locID="tropicalrainforest:deepwater_stt">Głęboka woda</LOC_STRING>
+      <LOC_STRING _locID="tropicalrainforest:deepwater_ltt">Kliknij, aby wybrać głęboką wodę. Umieść kursor nad obszarem i kliknij lewym przyciskiem, aby utworzyć głęboką wodę.</LOC_STRING>
+      <LOC_STRING _locID="tropicalrainforest:shallowwater">Płytka woda</LOC_STRING>
+      <LOC_STRING _locID="tropicalrainforest:shallowwater_stt">Płytka woda</LOC_STRING>
+      <LOC_STRING _locID="tropicalrainforest:shallowwater_ltt">Kliknij, aby wybrać płytką wodę. Umieść kursor nad obszarem i kliknij lewym przyciskiem, aby utworzyć płytką wodę.</LOC_STRING>
+      <LOC_STRING _locID="tropicalrainforest:ground">Błoto</LOC_STRING>
+      <LOC_STRING _locID="tropicalrainforest:ground_stt">Błoto</LOC_STRING>
+      <LOC_STRING _locID="tropicalrainforest:ground_ltt">Kliknij, aby wybrać błoto. Umieść kursor nad obszarem i kliknij lewym przyciskiem, aby utworzyć błoto.</LOC_STRING>
+      <LOC_STRING _locID="tropicalrainforest:ground-cover">Trawa</LOC_STRING>
+      <LOC_STRING _locID="tropicalrainforest:ground-cover_stt">Trawa</LOC_STRING>
+      <LOC_STRING _locID="tropicalrainforest:ground-cover_ltt">Kliknij, aby wybrać trawę. Umieść kursor nad obszarem i kliknij lewym przyciskiem, aby utworzyć trawę.</LOC_STRING>
+      <LOC_STRING _locID="tropicalrainforest:mix">Trawa i błoto</LOC_STRING>
+      <LOC_STRING _locID="tropicalrainforest:mix_stt">Trawa i błoto</LOC_STRING>
+      <LOC_STRING _locID="tropicalrainforest:mix_ltt">Kliknij, aby wybrać trawę i błoto. Umieść kursor nad obszarem i kliknij lewym przyciskiem, aby utworzyć teren pokryty trawą i błotem.</LOC_STRING>
+      <LOC_STRING _locID="tropicalrainforest:foliage-mix">Rzadki las deszczowy</LOC_STRING>
+      <LOC_STRING _locID="tropicalrainforest:foliage-mix_stt">Rzadki las deszczowy</LOC_STRING>
+      <LOC_STRING _locID="tropicalrainforest:foliage-mix_ltt">Kliknij, aby wybrać rzadki las deszczowy. Umieść kursor nad obszarem i kliknij lewym przyciskiem, aby utworzyć rzadki las deszczowy.</LOC_STRING>
+      <LOC_STRING _locID="tropicalrainforest:foliage-mix-terrain">Gęsty las deszczowy</LOC_STRING>
+      <LOC_STRING _locID="tropicalrainforest:foliage-mix-terrain_stt">Gęsty las deszczowy</LOC_STRING>
+      <LOC_STRING _locID="tropicalrainforest:foliage-mix-terrain_ltt">Kliknij, aby wybrać gęsty las deszczowy. Umieść kursor nad obszarem i kliknij lewym przyciskiem, aby utworzyć gęsty las deszczowy.</LOC_STRING>
+      <LOC_STRING _locID="savannah:icon_stt">Sawanna</LOC_STRING>
+      <LOC_STRING _locID="savannah:deepwater">Głęboka woda</LOC_STRING>
+      <LOC_STRING _locID="savannah:deepwater_stt">Głęboka woda</LOC_STRING>
+      <LOC_STRING _locID="savannah:deepwater_ltt">Kliknij, aby wybrać głęboką wodę. Umieść kursor nad obszarem i kliknij lewym przyciskiem, aby utworzyć głęboką wodę.</LOC_STRING>
+      <LOC_STRING _locID="savannah:shallowwater">Płytka woda</LOC_STRING>
+      <LOC_STRING _locID="savannah:shallowwater_stt">Płytka woda</LOC_STRING>
+      <LOC_STRING _locID="savannah:shallowwater_ltt">Kliknij, aby wybrać płytką wodę. Umieść kursor nad obszarem i kliknij lewym przyciskiem, aby utworzyć płytką wodę.</LOC_STRING>
+      <LOC_STRING _locID="savannah:ground">Błoto</LOC_STRING>
+      <LOC_STRING _locID="savannah:ground_stt">Błoto</LOC_STRING>
+      <LOC_STRING _locID="savannah:ground_ltt">Kliknij, aby wybrać błoto. Umieść kursor nad obszarem i kliknij lewym przyciskiem, aby utworzyć błoto.</LOC_STRING>
+      <LOC_STRING _locID="savannah:ground-cover">Trawa</LOC_STRING>
+      <LOC_STRING _locID="savannah:ground-cover_stt">Trawa</LOC_STRING>
+      <LOC_STRING _locID="savannah:ground-cover_ltt">Kliknij, aby wybrać trawę. Umieść kursor nad obszarem i kliknij lewym przyciskiem, aby utworzyć trawę.</LOC_STRING>
+      <LOC_STRING _locID="savannah:mix">Trawa i błoto</LOC_STRING>
+      <LOC_STRING _locID="savannah:mix_stt">Trawa i błoto</LOC_STRING>
+      <LOC_STRING _locID="savannah:mix_ltt">Kliknij, aby wybrać trawę i błoto. Umieść kursor nad obszarem i kliknij lewym przyciskiem, aby utworzyć teren pokryty trawą i błotem.</LOC_STRING>
+      <LOC_STRING _locID="savannah:foliage-mix">Wysoka trawa</LOC_STRING>
+      <LOC_STRING _locID="savannah:foliage-mix_stt">Wysoka trawa</LOC_STRING>
+      <LOC_STRING _locID="savannah:foliage-mix_ltt">Kliknij, aby wybrać wysoką trawę. Umieść kursor nad obszarem i kliknij lewym przyciskiem, aby utworzyć teren pokryty wysoką trawą.</LOC_STRING>
+      <LOC_STRING _locID="savannah:foliage-mix-terrain">Rzadki las</LOC_STRING>
+      <LOC_STRING _locID="savannah:foliage-mix-terrain_stt">Rzadki las</LOC_STRING>
+      <LOC_STRING _locID="savannah:foliage-mix-terrain_ltt">Kliknij, aby wybrać rzadki las. Umieść kursor nad obszarem i kliknij lewym przyciskiem, aby utworzyć rzadki las.</LOC_STRING>
+      <LOC_STRING _locID="scrub:icon_stt">Busz</LOC_STRING>
+      <LOC_STRING _locID="scrub:deepwater">Głęboka woda</LOC_STRING>
+      <LOC_STRING _locID="scrub:deepwater_stt">Głęboka woda</LOC_STRING>
+      <LOC_STRING _locID="scrub:deepwater_ltt">Kliknij, aby wybrać głęboką wodę. Umieść kursor nad obszarem i kliknij lewym przyciskiem, aby utworzyć głęboką wodę.</LOC_STRING>
+      <LOC_STRING _locID="scrub:shallowwater">Płytka woda</LOC_STRING>
+      <LOC_STRING _locID="scrub:shallowwater_stt">Płytka woda</LOC_STRING>
+      <LOC_STRING _locID="scrub:shallowwater_ltt">Kliknij, aby wybrać płytką wodę. Umieść kursor nad obszarem i kliknij lewym przyciskiem, aby utworzyć płytką wodę.</LOC_STRING>
+      <LOC_STRING _locID="scrub:ground">Błoto</LOC_STRING>
+      <LOC_STRING _locID="scrub:ground_stt">Błoto</LOC_STRING>
+      <LOC_STRING _locID="scrub:ground_ltt">Kliknij, aby wybrać błoto. Umieść kursor nad obszarem i kliknij lewym przyciskiem, aby utworzyć błoto.</LOC_STRING>
+      <LOC_STRING _locID="scrub:ground-cover">Trawa</LOC_STRING>
+      <LOC_STRING _locID="scrub:ground-cover_stt">Trawa</LOC_STRING>
+      <LOC_STRING _locID="scrub:ground-cover_ltt">Kliknij, aby wybrać trawę. Umieść kursor nad obszarem i kliknij lewym przyciskiem, aby utworzyć trawę.</LOC_STRING>
+      <LOC_STRING _locID="scrub:mix">Trawa i błoto</LOC_STRING>
+      <LOC_STRING _locID="scrub:mix_stt">Trawa i błoto</LOC_STRING>
+      <LOC_STRING _locID="scrub:mix_ltt">Kliknij, aby wybrać trawę i błoto. Umieść kursor nad obszarem i kliknij lewym przyciskiem, aby utworzyć teren pokryty trawą i błotem.</LOC_STRING>
+      <LOC_STRING _locID="scrub:foliage-mix">Nierówny teren</LOC_STRING>
+      <LOC_STRING _locID="scrub:foliage-mix_stt">Nierówny teren</LOC_STRING>
+      <LOC_STRING _locID="scrub:foliage-mix_ltt">Kliknij, aby wybrać nierówny teren. Umieść kursor nad obszarem i kliknij lewym przyciskiem, aby utworzyć nisko rosnące rośliny i skały.</LOC_STRING>
+      <LOC_STRING _locID="scrub:foliage-mix-terrain">Rzadkie zarośla</LOC_STRING>
+      <LOC_STRING _locID="scrub:foliage-mix-terrain_stt">Rzadkie zarośla</LOC_STRING>
+      <LOC_STRING _locID="scrub:foliage-mix-terrain_ltt">Kliknij, aby wybrać rzadkie zarośla. Umieść kursor nad obszarem i kliknij lewym przyciskiem, aby utworzyć skały, drzewa i nisko rosnące rośliny.</LOC_STRING>
+      <LOC_STRING _locID="tundra:icon_stt">Tundra</LOC_STRING>
+      <LOC_STRING _locID="tundra:deepwater">Głęboka woda</LOC_STRING>
+      <LOC_STRING _locID="tundra:deepwater_stt">Głęboka woda</LOC_STRING>
+      <LOC_STRING _locID="tundra:deepwater_ltt">Kliknij, aby wybrać głęboką wodę. Umieść kursor nad obszarem i kliknij lewym przyciskiem, aby utworzyć głęboką wodę.</LOC_STRING>
+      <LOC_STRING _locID="tundra:shallowwater">Płytka woda</LOC_STRING>
+      <LOC_STRING _locID="tundra:shallowwater_stt">Płytka woda</LOC_STRING>
+      <LOC_STRING _locID="tundra:shallowwater_ltt">Kliknij, aby wybrać płytką wodę. Umieść kursor nad obszarem i kliknij lewym przyciskiem, aby utworzyć płytką wodę.</LOC_STRING>
+      <LOC_STRING _locID="tundra:ground">Skały</LOC_STRING>
+      <LOC_STRING _locID="tundra:ground_stt">Skały</LOC_STRING>
+      <LOC_STRING _locID="tundra:ground_ltt">Kliknij, aby wybrać skały. Umieść kursor nad obszarem i kliknij lewym przyciskiem, aby utworzyć skały.</LOC_STRING>
+      <LOC_STRING _locID="tundra:ground-cover">Śnieg</LOC_STRING>
+      <LOC_STRING _locID="tundra:ground-cover_stt">Śnieg</LOC_STRING>
+      <LOC_STRING _locID="tundra:ground-cover_ltt">Kliknij, aby wybrać śnieg. Umieść kursor nad obszarem i kliknij lewym przyciskiem, aby utworzyć śnieg.</LOC_STRING>
+      <LOC_STRING _locID="tundra:mix">Śnieg i skały</LOC_STRING>
+      <LOC_STRING _locID="tundra:mix_stt">Śnieg i skały</LOC_STRING>
+      <LOC_STRING _locID="tundra:mix_ltt">Kliknij, aby wybrać śnieg i skały. Umieść kursor nad obszarem i kliknij lewym przyciskiem, aby utworzyć teren pokryty skałami i śniegiem.</LOC_STRING>
+      <LOC_STRING _locID="tundra:foliage-mix">Kamienista tundra</LOC_STRING>
+      <LOC_STRING _locID="tundra:foliage-mix_stt">Kamienista tundra</LOC_STRING>
+      <LOC_STRING _locID="tundra:foliage-mix_ltt">Kliknij, aby wybrać kamienistą tundrę. Umieść kursor nad obszarem i kliknij lewym przyciskiem, aby utworzyć teren pokryty dużymi skałami, lodem i śniegiem.</LOC_STRING>
+      <LOC_STRING _locID="tundra:foliage-mix-terrain">Otwarta tundra</LOC_STRING>
+      <LOC_STRING _locID="tundra:foliage-mix-terrain_stt">Otwarta tundra</LOC_STRING>
+      <LOC_STRING _locID="tundra:foliage-mix-terrain_ltt">Kliknij, aby wybrać otwartą tundrę. Umieść kursor nad obszarem i kliknij lewym przyciskiem, aby utworzyć tundrę pokrytą skałami i wzgórzami.</LOC_STRING>
+      <LOC_STRING _locID="wetlands:icon_stt">Tereny podmokłe</LOC_STRING>
+      <LOC_STRING _locID="wetlands:deepwater">Głęboka woda</LOC_STRING>
+      <LOC_STRING _locID="wetlands:deepwater_stt">Głęboka woda</LOC_STRING>
+      <LOC_STRING _locID="wetlands:deepwater_ltt">Kliknij, aby wybrać głęboką wodę. Umieść kursor nad obszarem i kliknij lewym przyciskiem, aby utworzyć głęboką wodę.</LOC_STRING>
+      <LOC_STRING _locID="wetlands:shallowwater">Płytka woda</LOC_STRING>
+      <LOC_STRING _locID="wetlands:shallowwater_stt">Płytka woda</LOC_STRING>
+      <LOC_STRING _locID="wetlands:shallowwater_ltt">Kliknij, aby wybrać płytką wodę. Umieść kursor nad obszarem i kliknij lewym przyciskiem, aby utworzyć płytką wodę.</LOC_STRING>
+      <LOC_STRING _locID="wetlands:ground">Błoto</LOC_STRING>
+      <LOC_STRING _locID="wetlands:ground_stt">Błoto</LOC_STRING>
+      <LOC_STRING _locID="wetlands:ground_ltt">Kliknij, aby wybrać błoto. Umieść kursor nad obszarem i kliknij lewym przyciskiem, aby utworzyć błoto.</LOC_STRING>
+      <LOC_STRING _locID="wetlands:ground-cover">Trawa</LOC_STRING>
+      <LOC_STRING _locID="wetlands:ground-cover_stt">Trawa</LOC_STRING>
+      <LOC_STRING _locID="wetlands:ground-cover_ltt">Kliknij, aby wybrać trawę. Umieść kursor nad obszarem i kliknij lewym przyciskiem, aby utworzyć trawę.</LOC_STRING>
+      <LOC_STRING _locID="wetlands:mix">Trawa i błoto</LOC_STRING>
+      <LOC_STRING _locID="wetlands:mix_stt">Trawa i błoto</LOC_STRING>
+      <LOC_STRING _locID="wetlands:mix_ltt">Kliknij, aby wybrać trawę i błoto. Umieść kursor nad obszarem i kliknij lewym przyciskiem, aby utworzyć teren pokryty trawą i błotem.</LOC_STRING>
+      <LOC_STRING _locID="wetlands:foliage-mix">Moczary</LOC_STRING>
+      <LOC_STRING _locID="wetlands:foliage-mix_stt">Moczary</LOC_STRING>
+      <LOC_STRING _locID="wetlands:foliage-mix_ltt">Kliknij, aby wybrać moczary. Umieść kursor nad obszarem i kliknij lewym przyciskiem, aby utworzyć skały i rośliny powiązane z biomem moczarów.</LOC_STRING>
+      <LOC_STRING _locID="wetlands:foliage-mix-terrain">Bagno</LOC_STRING>
+      <LOC_STRING _locID="wetlands:foliage-mix-terrain_stt">Bagno</LOC_STRING>
+      <LOC_STRING _locID="wetlands:foliage-mix-terrain_ltt">Kliknij, aby wybrać bagno. Umieść kursor nad obszarem i kliknij lewym przyciskiem, aby utworzyć bagienny teren pokryty skałami, roślinami, drzewami i wysoką trawą.</LOC_STRING>
+</ZT2Strings>
