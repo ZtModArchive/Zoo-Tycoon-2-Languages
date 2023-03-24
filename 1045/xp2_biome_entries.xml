@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<ZT2Strings>
+	<LOC_STRING _locID="zoopedia_benthic:entry"  >Biom strefy dennej</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_benthic:text"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" bgimg="ui/zoopedia/topCellBg.dds" pady="15" padx="15">
+            <color r="255" g="255" b="255">
+               <cell width="600">
+                  <img src="UI/zoopedia/biome/benthic_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+                  <p/>Biom strefy dennej to obszar wód przydennych oceanu poniżej strefy pelagialnej. W jego zakres nie wchodzą jednak najgłębsze, ciemne części oceanu, znanych jako głębia.
+                  <p/>Dno tego biomu wyścieła piasek, muł i martwe organizmy. Niektóre ze zwierząt i organizmów dobrze prosperują w tym bogatym w składniki odżywcze środowisku - między innymi grzyby, bakterie, gąbki, ukwiały, robaki, rozgwiazdy i ryby. Rosną to także wodorosty.
+               </cell>
+            </color>
+         </cell>
+      </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_coastal:entry"  >Biom wód przybrzeżnych</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_coastal:text"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" bgimg="ui/zoopedia/topCellBg.dds" pady="15" padx="15">
+            <color r="255" g="255" b="255">
+               <cell width="600">
+                  <img src="UI/zoopedia/biome/coastal_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+                  <p/>Biom wód przybrzeżnych to rejon szelfu, w którym ocean spotyka się z lądem, często poddany pływom, co powoduje, iż fauna i flora musi zaadaptować się zarówno do środowiska lądowego, jak i wodnego.
+                  <p/>Na obszarach lądu, gdzie docierają tylko największe fale pływów, występują jedynie nieliczne gatunki alg i mięczaków. W najniżej położonej strefie biomu, który wyłania się spod wody tylko w okresach bardzo niskiego odpływu, żyje wiele gatunków stawonogów, ryb i roślin. Wszystkie te gatunki muszą zaadaptować się do ciągłego ruchu piaszczystego dna. W obszarach, gdzie spotykamy wybrzeża klifowe, które także zaliczają się do tego biomu, organizmy nie mają aż takich trudności związanych ze zmianami środowiska.
+   
+               </cell>
+            </color>
+         </cell>
+      </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_pelagic:entry"  >Biom wód pelagialnych</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_pelagic:text"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" bgimg="ui/zoopedia/topCellBg.dds" pady="15" padx="15">
+            <color r="255" g="255" b="255">
+               <cell width="600">
+                  <img src="UI/zoopedia/biome/pelagic_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+                  <p/>Biom wód pelagialnych to otwarty ocean. Zwykle chłodne wody przejawiają różnice w temperaturach wynikające z przenikania się warstw i mieszania prądów oceanicznych. Spotkać tu możemy wiele gatunków roślinności powierzchniowej, ryby i ssaki.  
+               </cell>
+            </color>
+         </cell>
+      </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_reef:entry"  >Biom raf koralowych</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_reef:text"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" bgimg="ui/zoopedia/topCellBg.dds" pady="15" padx="15">
+            <color r="255" g="255" b="255">
+               <cell width="600">
+                  <img src="UI/zoopedia/biome/reef_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+                  <p/>Biom raf koralowych to środowisko przybżeżne i oceaniczne, jeden z najbardziej zróżnicowanych biologicznie ekosystemów na ziemi pełen niezwykłych form życia. Rafa koralowa tworzona jest przez małe organizmy zwane koralami, żyjącymi w ogromnych koloniach, których wapienne szkielety na przestrzeni wielu setek lat potrafią rozbudować ją do ogromnych rozmiarów. Środowisko to jest domem dla ogromnej ilości gatunków fauny i flory.   
+               </cell>
+            </color>
+         </cell>
+      </LOC_STRING>
+</ZT2Strings>

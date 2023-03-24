@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<ZT2Strings>
+	<LOC_STRING _locID="zoopedia_kelpbed:entry"  >Legowisko z wodorostów</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_kelpbed:text"  >
+            <cell pady="0" width="1000"/>
+            <p/>
+            <cell width="260"/>
+            <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+                <cell width="600" padx="20" pady="20">
+                    <color r="255" g="255" b="255">
+                        <img src="entities/objects/shelters/KelpBed_Shelter/KelpBed_Shelter_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                        <p/>Wydry morskie odpoczywają w kępach wodorostów. Woijają się liśććmi przed zaśnięciem, by nie podryftować!
+                    </color>
+                </cell>
+            </cell>
+        </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_desertisland:entry"  >Piaszczysta wysepka</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_desertisland:text"  >
+            <cell pady="0" width="1000"/>
+            <p/>
+            <cell width="260"/>
+            <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+                <cell width="600" padx="20" pady="20">
+                    <color r="255" g="255" b="255">
+                        <img src="entities/objects/shelters/DesertIsland/DesertIsland_Shelter_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                        <p/>Piaszczysta wysepka jest ozdobą zbiornika, a także miejscem, gdzie żółw zielony odpoczywa i składa jaja.
+                    </color>
+                </cell>
+            </cell>
+        </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_rockisland:entry"  >Skalista wysepka</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_rockisland:text"  >
+            <cell pady="0" width="1000"/>
+            <p/>
+            <cell width="260"/>
+            <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+                <cell width="600" padx="20" pady="20">
+                    <color r="255" g="255" b="255">
+                        <img src="entities/objects/shelters/RockIsland/RockIsland_Shelter_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                        <p/>Skalista wysepka, zrobiona ze styropianu, daje schronienie uchatkom kalifornijskim, morsom, wydrom morskim i pingwinom skalnym.
+                    </color>
+                </cell>
+            </cell>
+        </LOC_STRING>
+</ZT2Strings>

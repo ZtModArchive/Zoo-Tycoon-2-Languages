@@ -1,0 +1,1636 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<ZT2Strings>
+	<LOC_STRING _locID="tricknames:Add"  >Dodaj nową sztuczkę</LOC_STRING>
+	<LOC_STRING _locID="tricknames:Wait"  >Zaczekaj</LOC_STRING>
+	<LOC_STRING _locID="tricknames:Delete"  >Usuń</LOC_STRING>
+	<LOC_STRING _locID="tricknames:Jump"  >Skok w: %1s</LOC_STRING>
+	<LOC_STRING _locID="tricknames:StraightUpJump"  >Skok pionowy w: %1s</LOC_STRING>
+	<LOC_STRING _locID="tricknames:JumpFallSide"  >Opad na bok w: %1s</LOC_STRING>
+	<LOC_STRING _locID="tricknames:DiveJump"  >Skok z zanurzeniem w %1s</LOC_STRING>
+	<LOC_STRING _locID="tricknames:FlipForward"  >Salto do przodu w: %1s</LOC_STRING>
+	<LOC_STRING _locID="tricknames:FlipBack"  >Salto do tyłu w: %1s</LOC_STRING>
+	<LOC_STRING _locID="tricknames:FlipperSplash"  >Chlapnięcie płetwą w: %1s</LOC_STRING>
+	<LOC_STRING _locID="tricknames:Spyhop"  >Stanie pionowe w: %1s</LOC_STRING>
+	<LOC_STRING _locID="tricknames:TailSplash"  >Chlapnięcie ogonem w: %1s</LOC_STRING>
+	<LOC_STRING _locID="tricknames:CorkscrewTwist"  >Korkociąg w: %1s</LOC_STRING>
+	<LOC_STRING _locID="tricknames:WaterWalk"  >Chód na ogonie w: %1s</LOC_STRING>
+	<LOC_STRING _locID="tricknames:Squirt"  >Gejzer w: %1s</LOC_STRING>
+	<LOC_STRING _locID="tricknames:JumpOver"  >Skok przez: %1s</LOC_STRING>
+	<LOC_STRING _locID="tricknames:JumpOn"  >Skok na: %1s</LOC_STRING>
+	<LOC_STRING _locID="tricknames:JumpSwipeAt"  >Odbicie: %1s</LOC_STRING>
+	<LOC_STRING _locID="tricknames:RamAt"  >Uderzenie w: %1s</LOC_STRING>
+	<LOC_STRING _locID="tricknames:SlideOn"  >Ślizg na: %1s</LOC_STRING>
+	<LOC_STRING _locID="tricknames:SwingOn"  >Bujanie na: %1s</LOC_STRING>
+	<LOC_STRING _locID="tricknames:SeatOn"  >Siad na: %1s</LOC_STRING>
+	<LOC_STRING _locID="tricknames:Playing"  >Zabawa z: %1s</LOC_STRING>
+	<LOC_STRING _locID="tricknames:BalanceOnNose"  >Balansowanie z: %1s</LOC_STRING>
+	<LOC_STRING _locID="tricknames:PlayingBasketball"  >Gra w koszykówkę z: %1s</LOC_STRING>
+	<LOC_STRING _locID="tricknames:BellowOn"  >Ryczenie na: %1s</LOC_STRING>
+	<LOC_STRING _locID="tricknames:OpenUp"  >Otwieranie: %1s</LOC_STRING>
+	<LOC_STRING _locID="tricknames:ForageIn"  >Szukanie żywności w: %1s</LOC_STRING>
+	<LOC_STRING _locID="tricknames:LookCuteOn"  >Słodki wygląd</LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:DolphinJump_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Skok w obszarze sztuczek</b>
+         </color>
+         <br/>
+         Kliknij, by nauczyć delfina skoku w obszarze sztuczek. Ukończenie treningu odblokowuje następną sztuczkę.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:DolphinJump_complete_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Skok w obszarze sztuczek</b>
+         </color>
+         <br/>
+            <b>    Tresura zakończona</b>
+         <br/>
+         Tresura zakończona. Zwierzę nauczyło się tej sztuczki.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:DolphinJumpFallSide_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Opad na bok w obszarze sztuczek</b>
+         </color>
+         <br/>
+         Kliknij, by nauczyć delfina opadu na bok w obszarze sztuczek.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:DolphinJumpFallSide_locked_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Opad na bok w obszarze sztuczek</b>
+         </color>
+         <br/>
+            <b>    Sztuczka zablokowana</b>
+         <br/>
+         Sztuczka opadu na bok jest zablokowana. By odblokować tą sztuczkę, ukończ trening poprzedniej.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:DolphinJumpFallSide_complete_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Opad na bok w obszarze sztuczek</b>
+         </color>
+         <br/>
+            <b>    Tresura zakończona</b>
+         <br/>
+         Tresura zakończona. Zwierzę nauczyło się tej sztuczki.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:DolphinStraightUpJump_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Skok pionowy w obszarze sztuczek</b>
+         </color>
+         <br/>
+         Kliknij, by nauczyć delfina skoku pionowego w obszarze sztuczek. Ukończenie treningu odblokowuje następną sztuczkę.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:DolphinStraightUpJump_locked_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Skok pionowy w obszarze sztuczek</b>
+         </color>
+         <br/>
+            <b>    Sztuczka zablokowana</b>
+         <br/>
+         Sztuczka skoku w pionie jest zablokowana. By odblokować tą sztuczkę, ukończ trening poprzedniej.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:DolphinStraightUpJump_complete_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Skok pionowy w obszarze sztuczek</b>
+         </color>
+         <br/>
+            <b>    Tresura zakończona</b>
+         <br/>
+         Tresura zakończona. Zwierzę nauczyło się tej sztuczki.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:DolphinDiveJump_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Skok z zanurzeniem w obszarze sztuczek</b>
+         </color>
+         <br/>
+         Kliknij, by nauczyć delfina skoku z zanurzeniem w obszarze sztuczek.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:DolphinDiveJump_locked_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Skok z zanurzeniem w obszarze sztuczek</b>
+         </color>
+         <br/>
+            <b>    Sztuczka zablokowana</b>
+         <br/>
+         Sztuczka skoku z zanurzeniem jest zablokowana. By odblokować tą sztuczkę, ukończ trening poprzedniej.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:DolphinDiveJump_complete_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Skok z zanurzeniem w obszarze sztuczek</b>
+         </color>
+         <br/>
+            <b>    Tresura zakończona</b>
+         <br/>
+         Tresura zakończona. Zwierzę nauczyło się tej sztuczki.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:DolphinFlipForward_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Salto do przodu w obszarze sztuczek</b>
+         </color>
+         <br/>
+         Kliknij, by nauczyć delfina salta do przodu w obszarze sztuczek. Ukończenie treningu odblokowuje następną sztuczkę.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:DolphinFlipForward_locked_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Salto do przodu w obszarze sztuczek</b>
+         </color>
+         <br/>
+            <b>    Sztuczka zablokowana</b>
+         <br/>
+         Sztuczka salta do przodu jest zablokowana. By odblokować tą sztuczkę, ukończ trening poprzedniej.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:DolphinFlipForward_complete_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Salto do przodu w obszarze sztuczek</b>
+         </color>
+         <br/>
+            <b>    Tresura zakończona</b>
+         <br/>
+         Tresura zakończona. Zwierzę nauczyło się tej sztuczki.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:DolphinFlipBack_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Salto do tyłu w obszarze sztuczek</b>
+         </color>
+         <br/>
+         Kliknij, by nauczyć delfina salta do tyłu w obszarze sztuczek.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:DolphinFlipBack_locked_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Salto do tyłu w obszarze sztuczek</b>
+         </color>
+         <br/>
+            <b>    Sztuczka zablokowana</b>
+         <br/>
+         Sztuczka z saltem do tyłu jest zablokowana. By odblokować tą sztuczkę, ukończ trening poprzedniej.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:DolphinFlipBack_complete_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Salto do tyłu w obszarze sztuczek</b>
+         </color>
+         <br/>
+            <b>    Tresura zakończona</b>
+         <br/>
+         Tresura zakończona. Zwierzę nauczyło się tej sztuczki.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:DolphinFlipperSplash_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Chlapnięcie płetwą w obszarze sztuczek</b>
+         </color>
+         <br/>
+         Kliknij, by nauczyć delfina chlapnięcia płetwą w obszarze sztuczek. Ukończenie treningu odblokowuje następną sztuczkę.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:DolphinFlipperSplash_locked_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Chlapnięcie płetwą w obszarze sztuczek</b>
+         </color>
+         <br/>
+            <b>    Sztuczka zablokowana</b>
+         <br/>
+         Sztuczka chlapnięcia płetwą jest zablokowana. By odblokować tą sztuczkę, ukończ trening poprzedniej.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:DolphinFlipperSplash_complete_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Chlapnięcie płetwą w obszarze sztuczek</b>
+         </color>
+         <br/>
+            <b>    Tresura zakończona</b>
+         <br/>
+         Tresura zakończona. Zwierzę nauczyło się tej sztuczki.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:DolphinSpyhop_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Stanie pionowe w obszarze sztuczek</b>
+         </color>
+         <br/>
+         Kliknij, by nauczyć delfina stania pionowego w obszarze sztuczek.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:DolphinSpyhop_locked_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Stanie pionowe w obszarze sztuczek</b>
+         </color>
+         <br/>
+            <b>    Sztuczka zablokowana</b>
+         <br/>
+         Sztuczka stania pionowego jest zablokowana. By odblokować tą sztuczkę, ukończ trening poprzedniej.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:DolphinSpyhop_complete_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Stanie pionowe w obszarze sztuczek</b>
+         </color>
+         <br/>
+            <b>    Tresura zakończona</b>
+         <br/>
+         Tresura zakończona. Zwierzę nauczyło się tej sztuczki.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:DolphinTailSplash_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Chlapnięcie ogonem w obszarze sztuczek</b>
+         </color>
+         <br/>
+         Kliknij, by nauczyć delfina chlapnięcia ogonem w obszarze sztuczek.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:DolphinTailSplash_locked_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Chlapnięcie ogonem w obszarze sztuczek</b>
+         </color>
+         <br/>
+            <b>    Sztuczka zablokowana</b>
+         <br/>
+         Sztuczka chlapnięcia ogonem jest zablokowana. By odblokować tą sztuczkę, ukończ trening poprzedniej.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:DolphinTailSplash_complete_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Chlapnięcie ogonem w obszarze sztuczek</b>
+         </color>
+         <br/>
+            <b>    Tresura zakończona</b>
+         <br/>
+         Tresura zakończona. Zwierzę nauczyło się tej sztuczki.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:DolphinCorkscrewTwist_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Korkociąg w obszarze sztuczek</b>
+         </color>
+         <br/>
+         Kliknij, by nauczyć delfina korkociągu w obszarze sztuczek. Ukończenie treningu odblokowuje następną sztuczkę.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:DolphinCorkscrewTwist_locked_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Korkociąg w obszarze sztuczek</b>
+         </color>
+         <br/>
+            <b>    Sztuczka zablokowana</b>
+         <br/>
+         Sztukczka korkociągu jest zablokowana. By odblokować tą sztuczkę, ukończ trening poprzedniej.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:DolphinCorkscrewTwist_complete_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Korkociąg w obszarze sztuczek</b>
+         </color>
+         <br/>
+            <b>    Tresura zakończona</b>
+         <br/>
+         Tresura zakończona. Zwierzę nauczyło się tej sztuczki.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:DolphinWaterWalk_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Chód na ogonie w obszarze sztuczek</b>
+         </color>
+         <br/>
+         Kliknij, by nauczyć delfina chodu na ogonie w obszarze sztuczek. Ukończenie treningu odblokowuje następną sztuczkę.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:DolphinWaterWalk_complete_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Chód na ogonie w obszarze sztuczek</b>
+         </color>
+         <br/>
+            <b>    Tresura zakończona</b>
+         <br/>
+         Tresura zakończona. Zwierzę nauczyło się tej sztuczki.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:DolphinJumpHoop_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Skok przez obręcz</b>
+         </color>
+         <br/>
+         Kliknij, by nauczyć delfina skoku przez obręcz. Ukończenie treningu odblokowuje następną sztuczkę.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:DolphinJumpHoop_complete_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Skok przez obręcz</b>
+         </color>
+         <br/>
+            <b>    Tresura zakończona</b>
+         <br/>
+         Tresura zakończona. Zwierzę nauczyło się tej sztuczki.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:DolphinJumpBar_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Skok przez poprzeczkę</b>
+         </color>
+         <br/>
+         Kliknij, by nauczyć delfina skoku przez poprzeczkę. Ukończenie treningu odblokowuje następną sztuczkę.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:DolphinJumpBar_complete_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Skok przez poprzeczkę</b>
+         </color>
+         <br/>
+            <b>    Tresura zakończona</b>
+         <br/>
+         Tresura zakończona. Zwierzę nauczyło się tej sztuczki.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:DolphinFlukeSwipeBall_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Odbicie piłki</b>
+         </color>
+         <br/>
+         Kliknij, by nauczyć delfina odbicia piłki. Ukończenie treningu odblokowuje następną sztuczkę.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:DolphinFlukeSwipeBall_locked_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Odbicie piłki</b>
+         </color>
+         <br/>
+            <b>    Sztuczka zablokowana</b>
+         <br/>
+         Sztuczka odbicia piłki jest zablokowana. By odblokować tą sztuczkę, ukończ trening poprzedniej.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:DolphinFlukeSwipeBall_complete_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Odbicie piłki</b>
+         </color>
+         <br/>
+            <b>    Tresura zakończona</b>
+         <br/>
+         Tresura zakończona. Zwierzę nauczyło się tej sztuczki.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:DolphinRamBallOutOfWater_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Uderzenie piłki</b>
+         </color>
+         <br/>
+         Kliknij, by nauczyć delfina uderzenia piłki.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:DolphinRamBallOutOfWater_locked_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Uderzenie piłki</b>
+         </color>
+         <br/>
+            <b>    Sztuczka zablokowana</b>
+         <br/>
+         Sztuczka uderzenia piłki jest zablokowana. By odblokować tą sztuczkę, ukończ trening poprzedniej.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:DolphinRamBallOutOfWater_complete_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Uderzenie piłki</b>
+         </color>
+         <br/>
+            <b>    Tresura zakończona</b>
+         <br/>
+         Tresura zakończona. Zwierzę nauczyło się tej sztuczki.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:DolphinFlukeSwipeTetherBall_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Odbicie piłki na uwięzi</b>
+         </color>
+         <br/>
+         Kliknij, by nauczyć delfina odbicia piłki na uwięzi. Ukończenie treningu odblokowuje następną sztuczkę.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:DolphinFlukeSwipeTetherBall_locked_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Odbicie piłki na uwięzi</b>
+         </color>
+         <br/>
+            <b>    Sztuczka zablokowana</b>
+         <br/>
+         Sztuczka odbicia piłki na uwięzi jest zablokowana. By odblokować tą sztuczkę, ukończ trening poprzedniej.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:DolphinFlukeSwipeTetherBall_complete_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Odbicie piłki na uwięzi</b>
+         </color>
+         <br/>
+            <b>    Tresura zakończona</b>
+         <br/>
+         Tresura zakończona. Zwierzę nauczyło się tej sztuczki.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:DolphinRamTetherBall_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Uderzenie piłki na uwięzi</b>
+         </color>
+         <br/>
+         Kliknij, by nauczyć delfina uderzenia piłki na uwięzi.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:DolphinRamTetherBall_locked_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Uderzenie piłki na uwięzi</b>
+         </color>
+         <br/>
+            <b>    Sztuczka zablokowana</b>
+         <br/>
+         Sztuczka uderzenia piłki na uwięzi jest zablokowana. By odblokować tą sztuczkę, ukończ trening poprzedniej.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:DolphinRamTetherBall_complete_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Uderzenie piłki na uwięzi</b>
+         </color>
+         <br/>
+            <b>    Tresura zakończona</b>
+         <br/>
+         Tresura zakończona. Zwierzę nauczyło się tej sztuczki.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:DolphinBeachSlidingPlatform_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Ślizg na rampie</b>
+         </color>
+         <br/>
+         Kliknij, by nauczyć delfina ślizgu po rampie.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:DolphinBeachSlidingPlatform_complete_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Ślizg na rampie</b>
+         </color>
+         <br/>
+            <b>    Tresura zakończona</b>
+         <br/>
+         Tresura zakończona. Zwierzę nauczyło się tej sztuczki.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:BelugaJump_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Skok w obszarze sztuczek</b>
+         </color>
+         <br/>
+         Kliknij, by nauczyć białuchę skoku w obszarze sztuczek. Ukończenie treningu odblokowuje następną sztuczkę.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:BelugaJump_complete_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Skok w obszarze sztuczek</b>
+         </color>
+         <br/>
+            <b>    Tresura zakończona</b>
+         <br/>
+         Tresura zakończona. Zwierzę nauczyło się tej sztuczki.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:BelugaFlipperSplash_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Chlapnięcie płetwą w obszarze sztuczek</b>
+         </color>
+         <br/>
+         Kliknij, by nauczyć białuchę chlapnięcia płetwą w obszarze sztuczek. Ukończenie treningu odblokowuje następną sztuczkę.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:BelugaFlipperSplash_locked_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Chlapnięcie płetwą w obszarze sztuczek</b>
+         </color>
+         <br/>
+            <b>    Sztuczka zablokowana</b>
+         <br/>
+         Sztuczka chlapnięcia płetwą jest zablokowana. By odblokować tą sztuczkę, ukończ trening poprzedniej.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:BelugaFlipperSplash_complete_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Chlapnięcie płetwą w obszarze sztuczek</b>
+         </color>
+         <br/>
+            <b>    Tresura zakończona</b>
+         <br/>
+         Tresura zakończona. Zwierzę nauczyło się tej sztuczki.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:BelugaSpyhop_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Stanie pionowe w obszarze sztuczek</b>
+         </color>
+         <br/>
+         Kliknij, by nauczyć białuchę stania pionowego w obszarze sztuczek. Ukończenie treningu odblokowuje następną sztuczkę.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:BelugaSpyhop_locked_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Stanie pionowe w obszarze sztuczek</b>
+         </color>
+         <br/>
+            <b>    Sztuczka zablokowana</b>
+         <br/>
+         Sztuczka stania pionowego jest zablokowana. By odblokować tą sztuczkę, ukończ trening poprzedniej.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:BelugaSpyhop_complete_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Stanie pionowe w obszarze sztuczek</b>
+         </color>
+         <br/>
+            <b>    Tresura zakończona</b>
+         <br/>
+         Tresura zakończona. Zwierzę nauczyło się tej sztuczki.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:BelugaTailSplash_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Chlapnięcie ogonem w obszarze sztuczek</b>
+         </color>
+         <br/>
+         Kliknij, by nauczyć białuchę chlapnięcia ogonem w obszarze sztuczek.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:BelugaTailSplash_locked_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Chlapnięcie ogonem w obszarze sztuczek</b>
+         </color>
+         <br/>
+            <b>    Sztuczka zablokowana</b>
+         <br/>
+         Sztuczka chlapnięcia ogonem jest zablokowana. By odblokować tą sztuczkę, ukończ trening poprzedniej.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:BelugaTailSplash_complete_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Chlapnięcie ogonem w obszarze sztuczek</b>
+         </color>
+         <br/>
+            <b>    Tresura zakończona</b>
+         <br/>
+         Tresura zakończona. Zwierzę nauczyło się tej sztuczki.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:BelugaSquirt_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Gejzer w obszarze sztuczek</b>
+         </color>
+         <br/>
+         Kliknij, by nauczyć białuchę gejzera w obszarze sztuczek.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:BelugaSquirt_locked_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Gejzer w obszarze sztuczek</b>
+         </color>
+         <br/>
+            <b>    Sztuczka zablokowana</b>
+         <br/>
+         Sztuczka gejzera jest zablokowana. By odblokować tą sztuczkę, ukończ trening poprzedniej.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:BelugaSquirt_complete_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Gejzer w obszarze sztuczek</b>
+         </color>
+         <br/>
+            <b>    Tresura zakończona</b>
+         <br/>
+         Tresura zakończona. Zwierzę nauczyło się tej sztuczki.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:BelugaFlukeSwipeBall_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Odbicie piłki</b>
+         </color>
+         <br/>
+         Kliknij, by nauczyć białuchę odbicia piłki.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:BelugaFlukeSwipeBall_complete_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Odbicie piłki</b>
+         </color>
+         <br/>
+            <b>    Tresura zakończona</b>
+         <br/>
+         Tresura zakończona. Zwierzę nauczyło się tej sztuczki.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:BelugaRamBallOutOfWater_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Uderzenie piłki</b>
+         </color>
+         <br/>
+         Kliknij, by nauczyć białuchę uderzenia piłki.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:BelugaRamBallOutOfWater_locked_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Uderzenie piłki</b>
+         </color>
+         <br/>
+            <b>    Sztuczka zablokowana</b>
+         <br/>
+         Sztuczka uderzenia piłki jest zablokowana. By odblokować tą sztuczkę, ukończ trening poprzedniej.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:BelugaRamBallOutOfWater_complete_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Uderzenie piłki</b>
+         </color>
+         <br/>
+            <b>    Tresura zakończona</b>
+         <br/>
+         Tresura zakończona. Zwierzę nauczyło się tej sztuczki.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:WhaleOrcaJump_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Skok w obszarze sztuczek</b>
+         </color>
+         <br/>
+         Kliknij, by nauczyć orkę skoku w obszarze sztuczek. Ukończenie treningu odblokowuje następną sztuczkę.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:WhaleOrcaJump_complete_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Skok w obszarze sztuczek</b>
+         </color>
+         <br/>
+            <b>    Tresura zakończona</b>
+         <br/>
+         Tresura zakończona. Zwierzę nauczyło się tej sztuczki.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:WhaleOrcaJumpFallSide_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Opad na bok w obszarze sztuczek</b>
+         </color>
+         <br/>
+         Kliknij, by nauczyć orkę opadu na bok w obszarze sztuczek. Ukończenie treningu odblokowuje następną sztuczkę.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:WhaleOrcaJumpFallSide_locked_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Opad na bok w obszarze sztuczek</b>
+         </color>
+         <br/>
+            <b>    Sztuczka zablokowana</b>
+         <br/>
+         Sztuczka opadu na bok jest zablokowana. By odblokować tą sztuczkę, ukończ trening poprzedniej.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:WhaleOrcaJumpFallSide_complete_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Opad na bok w obszarze sztuczek</b>
+         </color>
+         <br/>
+            <b>    Tresura zakończona</b>
+         <br/>
+         Tresura zakończona. Zwierzę nauczyło się tej sztuczki.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:WhaleOrcaStraightUpJump_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Skok pionowy w obszarze sztuczek</b>
+         </color>
+         <br/>
+         Kliknij, by nauczyć orkę skoku pionowego w obszarze sztuczek.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:WhaleOrcaStraightUpJump_locked_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Skok pionowy w obszarze sztuczek</b>
+         </color>
+         <br/>
+            <b>    Sztuczka zablokowana</b>
+         <br/>
+         Sztuczka skoku w pionie jest zablokowana. By odblokować tą sztuczkę, ukończ trening poprzedniej.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:WhaleOrcaStraightUpJump_complete_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Skok pionowy w obszarze sztuczek</b>
+         </color>
+         <br/>
+            <b>    Tresura zakończona</b>
+         <br/>
+         Tresura zakończona. Zwierzę nauczyło się tej sztuczki.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:WhaleOrcaFlipForward_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Salto do przodu w obszarze sztuczek</b>
+         </color>
+         <br/>
+         Kliknij, by nauczyć orkę salta do przodu w obszarze sztuczek.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:WhaleOrcaFlipForward_locked_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Salto do przodu w obszarze sztuczek</b>
+         </color>
+         <br/>
+            <b>    Sztuczka zablokowana</b>
+         <br/>
+         Sztuczka salta do przodu jest zablokowana. By odblokować tą sztuczkę, ukończ trening poprzedniej.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:WhaleOrcaFlipForward_complete_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Salto do przodu w obszarze sztuczek</b>
+         </color>
+         <br/>
+            <b>    Tresura zakończona</b>
+         <br/>
+         Tresura zakończona. Zwierzę nauczyło się tej sztuczki.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:WhaleOrcaFlipperSplash_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Chlapnięcie płetwą w obszarze sztuczek</b>
+         </color>
+         <br/>
+         Kliknij, by nauczyć orkę chlapnięcia płetwą w obszarze sztuczek. Ukończenie treningu odblokowuje następną sztuczkę.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:WhaleOrcaFlipperSplash_locked_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Chlapnięcie płetwą w obszarze sztuczek</b>
+         </color>
+         <br/>
+            <b>    Sztuczka zablokowana</b>
+         <br/>
+         Sztuczka chlapnięcia płetwą jest zablokowana. By odblokować tą sztuczkę, ukończ trening poprzedniej.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:WhaleOrcaFlipperSplash_complete_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Chlapnięcie płetwą w obszarze sztuczek</b>
+         </color>
+         <br/>
+            <b>    Tresura zakończona</b>
+         <br/>
+         Tresura zakończona. Zwierzę nauczyło się tej sztuczki.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:WhaleOrcaSpyhop_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Stanie pionowe w obszarze sztuczek</b>
+         </color>
+         <br/>
+         Kliknij, by nauczyć orkę stania pionowego w obszarze sztuczek. Ukończenie treningu odblokowuje następną sztuczkę.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:WhaleOrcaSpyhop_locked_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Stanie pionowe w obszarze sztuczek</b>
+         </color>
+         <br/>
+            <b>    Sztuczka zablokowana</b>
+         <br/>
+         Sztuczka stania pionowego jest zablokowana. By odblokować tą sztuczkę, ukończ trening poprzedniej.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:WhaleOrcaSpyhop_complete_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Stanie pionowe w obszarze sztuczek</b>
+         </color>
+         <br/>
+            <b>    Tresura zakończona</b>
+         <br/>
+         Tresura zakończona. Zwierzę nauczyło się tej sztuczki.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:WhaleOrcaTailSplash_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Chlapnięcie ogonem w obszarze sztuczek</b>
+         </color>
+         <br/>
+         Kliknij, by nauczyć orkę chlapnięcia ogonem w obszarze sztuczek.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:WhaleOrcaTailSplash_locked_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Chlapnięcie ogonem w obszarze sztuczek</b>
+         </color>
+         <br/>
+            <b>    Sztuczka zablokowana</b>
+         <br/>
+         Sztuczka chlapnięcia ogonem jest zablokowana. By odblokować tą sztuczkę, ukończ trening poprzedniej.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:WhaleOrcaTailSplash_complete_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Chlapnięcie ogonem w obszarze sztuczek</b>
+         </color>
+         <br/>
+            <b>    Tresura zakończona</b>
+         <br/>
+         Tresura zakończona. Zwierzę nauczyło się tej sztuczki.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:WhaleOrcaFlukeSwipeBall_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Odbicie piłki</b>
+         </color>
+         <br/>
+         Kliknij, by nauczyć orkę odbicia piłki. Ukończenie treningu odblokowuje następną sztuczkę.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:WhaleOrcaFlukeSwipeBall_complete_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Odbicie piłki</b>
+         </color>
+         <br/>
+            <b>    Tresura zakończona</b>
+         <br/>
+         Tresura zakończona. Zwierzę nauczyło się tej sztuczki.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:WhaleOrcaRamBallOutOfWater_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Uderzenie piłki</b>
+         </color>
+         <br/>
+         Kliknij, by nauczyć orkę uderzenia piłki.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:WhaleOrcaRamBallOutOfWater_locked_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Uderzenie piłki</b>
+         </color>
+         <br/>
+            <b>    Sztuczka zablokowana</b>
+         <br/>
+         Sztuczka uderzenia piłki jest zablokowana. By odblokować tą sztuczkę, ukończ trening poprzedniej.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:WhaleOrcaRamBallOutOfWater_complete_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Uderzenie piłki</b>
+         </color>
+         <br/>
+            <b>    Tresura zakończona</b>
+         <br/>
+         Tresura zakończona. Zwierzę nauczyło się tej sztuczki.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:WhaleOrcaBeachSlidingPlatform_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Ślizg na rampie</b>
+         </color>
+         <br/>
+         Kliknij, by nauczyć orkę ślizgu po rampie.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:WhaleOrcaBeachSlidingPlatform_complete_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Ślizg na rampie</b>
+         </color>
+         <br/>
+            <b>    Tresura zakończona</b>
+         <br/>
+         Tresura zakończona. Zwierzę nauczyło się tej sztuczki.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:WhaleFalseKillerJump_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Skok w obszarze sztuczek</b>
+         </color>
+         <br/>
+         Kliknij, by nauczyć orkę karłowatą skoku w obszarze sztuczek. Ukończenie treningu odblokowuje następną sztuczkę.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:WhaleFalseKillerJump_complete_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Skok w obszarze sztuczek</b>
+         </color>
+         <br/>
+            <b>    Tresura zakończona</b>
+         <br/>
+         Tresura zakończona. Zwierzę nauczyło się tej sztuczki.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:WhaleFalseKillerJumpFallSide_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Opad na bok w obszarze sztuczek</b>
+         </color>
+         <br/>
+         Kliknij, by nauczyć orkę karłowatą opadu na bok w obszarze sztuczek.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:WhaleFalseKillerJumpFallSide_locked_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Opad na bok w obszarze sztuczek</b>
+         </color>
+         <br/>
+            <b>    Sztuczka zablokowana</b>
+         <br/>
+         Sztuczka opadu na bok jest zablokowana. By odblokować tą sztuczkę, ukończ trening poprzedniej.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:WhaleFalseKillerJumpFallSide_complete_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Opad na bok w obszarze sztuczek</b>
+         </color>
+         <br/>
+            <b>    Tresura zakończona</b>
+         <br/>
+         Tresura zakończona. Zwierzę nauczyło się tej sztuczki.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:WhaleFalseKillerStraightUpJump_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Skok pionowy w obszarze sztuczek</b>
+         </color>
+         <br/>
+         Kliknij, by nauczyć orkę karłowatą skoku pionowego w obszarze sztuczek. Ukończenie treningu odblokowuje następną sztuczkę.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:WhaleFalseKillerStraightUpJump_locked_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Skok pionowy w obszarze sztuczek</b>
+         </color>
+         <br/>
+            <b>    Sztuczka zablokowana</b>
+         <br/>
+         Sztuczka skoku w pionie jest zablokowana. By odblokować tą sztuczkę, ukończ trening poprzedniej.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:WhaleFalseKillerStraightUpJump_complete_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Skok pionowy w obszarze sztuczek</b>
+         </color>
+         <br/>
+            <b>    Tresura zakończona</b>
+         <br/>
+         Tresura zakończona. Zwierzę nauczyło się tej sztuczki.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:WhaleFalseKillerDiveJump_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Skok z zanurzeniem w obszarze sztuczek</b>
+         </color>
+         <br/>
+         Kliknij, by nauczyć orkę karłowatą skoku z zanurzeniem w obszarze sztuczek.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:WhaleFalseKillerDiveJump_locked_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Skok z zanurzeniem w obszarze sztuczek</b>
+         </color>
+         <br/>
+            <b>    Sztuczka zablokowana</b>
+         <br/>
+         Sztuczka skoku z zanurzeniem jest zablokowana. By odblokować tą sztuczkę, ukończ trening poprzedniej.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:WhaleFalseKillerDiveJump_complete_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Skok z zanurzeniem w obszarze sztuczek</b>
+         </color>
+         <br/>
+            <b>    Tresura zakończona</b>
+         <br/>
+         Tresura zakończona. Zwierzę nauczyło się tej sztuczki.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:WhaleFalseKillerFlipperSplash_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Chlapnięcie płetwą w obszarze sztuczek</b>
+         </color>
+         <br/>
+         Kliknij, by nauczyć orkę karłowatą chlapnięcia płetwą w obszarze sztuczek. Ukończenie treningu odblokowuje następną sztuczkę.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:WhaleFalseKillerFlipperSplash_locked_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Chlapnięcie płetwą w obszarze sztuczek</b>
+         </color>
+         <br/>
+            <b>    Sztuczka zablokowana</b>
+         <br/>
+         Sztuczka chlapnięcia płetwą jest zablokowana. By odblokować tą sztuczkę, ukończ trening poprzedniej.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:WhaleFalseKillerFlipperSplash_complete_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Chlapnięcie płetwą w obszarze sztuczek</b>
+         </color>
+         <br/>
+            <b>    Tresura zakończona</b>
+         <br/>
+         Tresura zakończona. Zwierzę nauczyło się tej sztuczki.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:WhaleFalseKillerSpyhop_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Stanie pionowe w obszarze sztuczek</b>
+         </color>
+         <br/>
+         Kliknij, by nauczyć orkę karłowatą stania pionowego w obszarze sztuczek. Ukończenie treningu odblokowuje następną sztuczkę.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:WhaleFalseKillerSpyhop_locked_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Stanie pionowe w obszarze sztuczek</b>
+         </color>
+         <br/>
+            <b>    Sztuczka zablokowana</b>
+         <br/>
+         Sztuczka stania pionowego jest zablokowana. By odblokować tą sztuczkę, ukończ trening poprzedniej.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:WhaleFalseKillerSpyhop_complete_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Stanie pionowe w obszarze sztuczek</b>
+         </color>
+         <br/>
+            <b>    Tresura zakończona</b>
+         <br/>
+         Tresura zakończona. Zwierzę nauczyło się tej sztuczki.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:WhaleFalseKillerTailSplash_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Chlapnięcie ogonem w obszarze sztuczek</b>
+         </color>
+         <br/>
+         Kliknij, by nauczyć orkę karłowatą chlapnięcia ogonem w obszarze sztuczek.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:WhaleFalseKillerTailSplash_locked_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Chlapnięcie ogonem w obszarze sztuczek</b>
+         </color>
+         <br/>
+            <b>    Sztuczka zablokowana</b>
+         <br/>
+         Sztuczka chlapnięcia ogonem jest zablokowana. By odblokować tą sztuczkę, ukończ trening poprzedniej.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:WhaleFalseKillerTailSplash_complete_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Chlapnięcie ogonem w obszarze sztuczek</b>
+         </color>
+         <br/>
+            <b>    Tresura zakończona</b>
+         <br/>
+         Tresura zakończona. Zwierzę nauczyło się tej sztuczki.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:WhaleFalseKillerJumpHoop_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Skok przez obręcz</b>
+         </color>
+         <br/>
+         Kliknij, by nauczyć orkę karłowatą skoku przez obręcz. Ukończenie treningu odblokowuje następną sztuczkę.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:WhaleFalseKillerJumpHoop_complete_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Skok przez obręcz</b>
+         </color>
+         <br/>
+            <b>    Tresura zakończona</b>
+         <br/>
+         Tresura zakończona. Zwierzę nauczyło się tej sztuczki.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:WhaleFalseKillerJumpBar_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Skok przez poprzeczkę</b>
+         </color>
+         <br/>
+         Kliknij, by nauczyć orkę karłowatą skoku przez poprzeczkę.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:WhaleFalseKillerJumpBar_complete_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Skok przez poprzeczkę</b>
+         </color>
+         <br/>
+            <b>    Tresura zakończona</b>
+         <br/>
+         Tresura zakończona. Zwierzę nauczyło się tej sztuczki.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:WhaleFalseKillerFlukeSwipeBall_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Odbicie piłki</b>
+         </color>
+         <br/>
+         Kliknij, by nauczyć orkę karłowatą odbicia piłki.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:WhaleFalseKillerFlukeSwipeBall_complete_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Odbicie piłki</b>
+         </color>
+         <br/>
+            <b>    Tresura zakończona</b>
+         <br/>
+         Tresura zakończona. Zwierzę nauczyło się tej sztuczki.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:WhaleFalseKillerRamBallOutOfWater_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Uderzenie piłki</b>
+         </color>
+         <br/>
+         Kliknij, by nauczyć orkę karłowatą uderzenia piłki.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:WhaleFalseKillerRamBallOutOfWater_locked_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Uderzenie piłki</b>
+         </color>
+         <br/>
+            <b>    Sztuczka zablokowana</b>
+         <br/>
+         Sztuczka uderzenia piłki jest zablokowana. By odblokować tą sztuczkę, ukończ trening poprzedniej.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:WhaleFalseKillerRamBallOutOfWater_complete_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Uderzenie piłki</b>
+         </color>
+         <br/>
+            <b>    Tresura zakończona</b>
+         <br/>
+         Tresura zakończona. Zwierzę nauczyło się tej sztuczki.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:WhaleFalseKillerBeachSlidingPlatform_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Ślizg na rampie</b>
+         </color>
+         <br/>
+         Kliknij, by nauczyć orkę karłowatą ślizgu po rampie.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:WhaleFalseKillerBeachSlidingPlatform_complete_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Ślizg na rampie</b>
+         </color>
+         <br/>
+            <b>    Tresura zakończona</b>
+         <br/>
+         Tresura zakończona. Zwierzę nauczyło się tej sztuczki.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:WhalePilotShortFinnedJump_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Skok w obszarze sztuczek</b>
+         </color>
+         <br/>
+         Kliknij, by nauczyć pilota skoku w obszarze sztuczek. Ukończenie treningu odblokowuje następną sztuczkę.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:WhalePilotShortFinnedJump_complete_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Skok w obszarze sztuczek</b>
+         </color>
+         <br/>
+            <b>    Tresura zakończona</b>
+         <br/>
+         Tresura zakończona. Zwierzę nauczyło się tej sztuczki.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:WhalePilotShortFinnedJumpFallSide_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Opad na bok w obszarze sztuczek</b>
+         </color>
+         <br/>
+         Kliknij, by nauczyć pilota opadu na bok w obszarze sztuczek.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:WhalePilotShortFinnedJumpFallSide_locked_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Opad na bok w obszarze sztuczek</b>
+         </color>
+         <br/>
+            <b>    Sztuczka zablokowana</b>
+         <br/>
+         Sztuczka opadu na bok jest zablokowana. By odblokować tą sztuczkę, ukończ trening poprzedniej.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:WhalePilotShortFinnedJumpFallSide_complete_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Opad na bok w obszarze sztuczek</b>
+         </color>
+         <br/>
+            <b>    Tresura zakończona</b>
+         <br/>
+         Tresura zakończona. Zwierzę nauczyło się tej sztuczki.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:WhalePilotShortFinnedStraightUpJump_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Skok pionowy w obszarze sztuczek</b>
+         </color>
+         <br/>
+         Kliknij, by nauczyć pilota skoku pionowego w obszarze sztuczek.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:WhalePilotShortFinnedStraightUpJump_locked_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Skok pionowy w obszarze sztuczek</b>
+         </color>
+         <br/>
+            <b>    Sztuczka zablokowana</b>
+         <br/>
+         Sztuczka skoku w pionie jest zablokowana. By odblokować tą sztuczkę, ukończ trening poprzedniej.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:WhalePilotShortFinnedStraightUpJump_complete_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Skok pionowy w obszarze sztuczek</b>
+         </color>
+         <br/>
+            <b>    Tresura zakończona</b>
+         <br/>
+         Tresura zakończona. Zwierzę nauczyło się tej sztuczki.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:WhalePilotShortFinnedFlipperSplash_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Chlapnięcie płetwą w obszarze sztuczek</b>
+         </color>
+         <br/>
+         Kliknij, by nauczyć pilota chlapnięcia płetwą w obszarze sztuczek. Ukończenie treningu odblokowuje następną sztuczkę.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:WhalePilotShortFinnedFlipperSplash_locked_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Chlapnięcie płetwą w obszarze sztuczek</b>
+         </color>
+         <br/>
+            <b>    Sztuczka zablokowana</b>
+         <br/>
+         Sztuczka chlapnięcia płetwą jest zablokowana. By odblokować tą sztuczkę, ukończ trening poprzedniej.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:WhalePilotShortFinnedFlipperSplash_complete_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Chlapnięcie płetwą w obszarze sztuczek</b>
+         </color>
+         <br/>
+            <b>    Tresura zakończona</b>
+         <br/>
+         Tresura zakończona. Zwierzę nauczyło się tej sztuczki.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:WhalePilotShortFinnedSpyhop_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Stanie pionowe w obszarze sztuczek</b>
+         </color>
+         <br/>
+         Kliknij, by nauczyć pilota stania pionowego w obszarze sztuczek. Ukończenie treningu odblokowuje następną sztuczkę.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:WhalePilotShortFinnedSpyhop_locked_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Stanie pionowe w obszarze sztuczek</b>
+         </color>
+         <br/>
+            <b>    Sztuczka zablokowana</b>
+         <br/>
+         Sztuczka stania pionowego jest zablokowana. By odblokować tą sztuczkę, ukończ trening poprzedniej.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:WhalePilotShortFinnedSpyhop_complete_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Stanie pionowe w obszarze sztuczek</b>
+         </color>
+         <br/>
+            <b>    Tresura zakończona</b>
+         <br/>
+         Tresura zakończona. Zwierzę nauczyło się tej sztuczki.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:WhalePilotShortFinnedTailSplash_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Chlapnięcie ogonem w obszarze sztuczek</b>
+         </color>
+         <br/>
+         Kliknij, by nauczyć pilota chlapnięcia ogonem w obszarze sztuczek.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:WhalePilotShortFinnedTailSplash_locked_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Chlapnięcie ogonem w obszarze sztuczek</b>
+         </color>
+         <br/>
+            <b>    Sztuczka zablokowana</b>
+         <br/>
+         Sztuczka chlapnięcia ogonem jest zablokowana. By odblokować tą sztuczkę, ukończ trening poprzedniej.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:WhalePilotShortFinnedTailSplash_complete_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Chlapnięcie ogonem w obszarze sztuczek</b>
+         </color>
+         <br/>
+            <b>    Tresura zakończona</b>
+         <br/>
+         Tresura zakończona. Zwierzę nauczyło się tej sztuczki.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:WhalePilotShortFinnedJumpHoop_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Skok przez obręcz</b>
+         </color>
+         <br/>
+         Kliknij, by nauczyć pilota skoku przez obręcz. Ukończenie treningu odblokowuje następną sztuczkę.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:WhalePilotShortFinnedJumpHoop_complete_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Skok przez obręcz</b>
+         </color>
+         <br/>
+            <b>    Tresura zakończona</b>
+         <br/>
+         Tresura zakończona. Zwierzę nauczyło się tej sztuczki.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:WhalePilotShortFinnedJumpBar_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Skok przez poprzeczkę</b>
+         </color>
+         <br/>
+         Kliknij, by nauczyć pilota skoku przez poprzeczkę.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:WhalePilotShortFinnedJumpBar_complete_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Skok przez poprzeczkę</b>
+         </color>
+         <br/>
+            <b>    Tresura zakończona</b>
+         <br/>
+         Tresura zakończona. Zwierzę nauczyło się tej sztuczki.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:WhalePilotShortFinnedFlukeSwipeBall_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Odbicie piłki</b>
+         </color>
+         <br/>
+         Kliknij, by nauczyć pilota odbicia piłki. Ukończenie treningu odblokowuje następną sztuczkę.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:WhalePilotShortFinnedFlukeSwipeBall_complete_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Odbicie piłki</b>
+         </color>
+         <br/>
+            <b>    Tresura zakończona</b>
+         <br/>
+         Tresura zakończona. Zwierzę nauczyło się tej sztuczki.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:WhalePilotShortFinnedRamBallOutOfWater_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Uderzenie piłki</b>
+         </color>
+         <br/>
+         Kliknij, by nauczyć pilota uderzenia piłki.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:WhalePilotShortFinnedRamBallOutOfWater_locked_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Uderzenie piłki</b>
+         </color>
+         <br/>
+            <b>    Sztuczka zablokowana</b>
+         <br/>
+         Sztuczka uderzenia piłki jest zablokowana. By odblokować tą sztuczkę, ukończ trening poprzedniej.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:WhalePilotShortFinnedRamBallOutOfWater_complete_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Uderzenie piłki</b>
+         </color>
+         <br/>
+            <b>    Tresura zakończona</b>
+         <br/>
+         Tresura zakończona. Zwierzę nauczyło się tej sztuczki.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:SeaLionCaliforniaJump_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Skok w obszarze sztuczek</b>
+         </color>
+         <br/>
+         Kliknij, by nauczyć uchatkę kalifornijską skoku w obszarze sztuczek.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:SeaLionCaliforniaJump_complete_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Skok w obszarze sztuczek</b>
+         </color>
+         <br/>
+            <b>    Tresura zakończona</b>
+         <br/>
+         Tresura zakończona. Zwierzę nauczyło się tej sztuczki.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:SeaLionCaliforniaSlide_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Zjazd na zjeżdżalni</b>
+         </color>
+         <br/>
+         Kliknij, by nauczyć uchatkę kalifornijską zjazdu na zjeżdżalni.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:SeaLionCaliforniaSlide_complete_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Zjazd na zjeżdżalni</b>
+         </color>
+         <br/>
+            <b>    Tresura zakończona</b>
+         <br/>
+         Tresura zakończona. Zwierzę nauczyło się tej sztuczki.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:SeaLionCaliforniaSwing_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Bujanie na chuśtawce</b>
+         </color>
+         <br/>
+         Kliknij, by nauczyć uchatkę kalifornijską bujania na chuśtawce.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:SeaLionCaliforniaSwing_locked_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Bujanie na chuśtawce</b>
+         </color>
+         <br/>
+            <b>    Sztuczka zablokowana</b>
+         <br/>
+         Sztuczka bujania na chuśtawce jest zablokowana. By odblokować tą sztuczkę, ukończ trening poprzedniej.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:SeaLionCaliforniaSwing_complete_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Bujanie na chuśtawce</b>
+         </color>
+         <br/>
+            <b>    Tresura zakończona</b>
+         <br/>
+         Tresura zakończona. Zwierzę nauczyło się tej sztuczki.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:SeaLionCaliforniaSeat_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Siedzenie na stołku</b>
+         </color>
+         <br/>
+         Kliknij, by nauczyć uchatkę kalifornijską siedzenia na stołku
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:SeaLionCaliforniaSeat_complete_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Siedzenie na stołku</b>
+         </color>
+         <br/>
+            <b>    Tresura zakończona</b>
+         <br/>
+         Tresura zakończona. Zwierzę nauczyło się tej sztuczki.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:SeaLionCaliforniaHorns_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Gra na trąbce</b>
+         </color>
+         <br/>
+         Kliknij, by nauczyć uchatkę kalifornijską gry na trąbce.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:SeaLionCaliforniaHorns_locked_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Gra na trąbce</b>
+         </color>
+         <br/>
+            <b>    Sztuczka zablokowana</b>
+         <br/>
+         Sztuczka gry na trąbce jest zablokowana. By odblokować tą sztuczkę, ukończ trening poprzedniej.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:SeaLionCaliforniaHorns_complete_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Gra na trąbce</b>
+         </color>
+         <br/>
+            <b>    Tresura zakończona</b>
+         <br/>
+         Tresura zakończona. Zwierzę nauczyło się tej sztuczki.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:SeaLionCaliforniaBall_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Balansowanie piłką</b>
+         </color>
+         <br/>
+         Kliknij, by nauczyć uchatkę kalifornijską balansowania piłką
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:SeaLionCaliforniaBall_complete_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Balansowanie piłką</b>
+         </color>
+         <br/>
+            <b>    Tresura zakończona</b>
+         <br/>
+         Tresura zakończona. Zwierzę nauczyło się tej sztuczki.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:SeaLionCaliforniaTrampoline_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Skok na trampolinie</b>
+         </color>
+         <br/>
+         Kliknij, by nauczyć uchatkę kalifornijską skoku na trampolinie.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:SeaLionCaliforniaTrampoline_locked_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Skok na trampolinie</b>
+         </color>
+         <br/>
+            <b>    Sztuczka zablokowana</b>
+         <br/>
+         Sztuczka skoku na trampolinie jest zablokowana. By odblokować tą sztuczkę, ukończ trening poprzedniej.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:SeaLionCaliforniaTrampoline_complete_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Skok na trampolinie</b>
+         </color>
+         <br/>
+            <b>    Tresura zakończona</b>
+         <br/>
+         Tresura zakończona. Zwierzę nauczyło się tej sztuczki.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:SeaLionCaliforniaBasketball_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Gra w koszykówkę z tablicą</b>
+         </color>
+         <br/>
+         Kliknij, by nauczyć uchatkę kalifornijską gry w koszykówkę z tablicą.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:SeaLionCaliforniaBasketball_locked_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Gra w koszykówkę</b>
+         </color>
+         <br/>
+            <b>    Sztuczka zablokowana</b>
+         <br/>
+         Sztuczka gry w koszykówkę jest zablokowana. By odblokować tą sztuczkę, ukończ trening poprzedniej.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:SeaLionCaliforniaBasketball_complete_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Gra w koszykówkę z tablicą</b>
+         </color>
+         <br/>
+            <b>    Tresura zakończona</b>
+         <br/>
+         Tresura zakończona. Zwierzę nauczyło się tej sztuczki.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:WalrusPacificJump_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Skok w obszarze sztuczek</b>
+         </color>
+         <br/>
+         Kliknij, by nauczyć morsa skoku w obszarze sztuczek.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:WalrusPacificJump_complete_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Skok w obszarze sztuczek</b>
+         </color>
+         <br/>
+            <b>    Tresura zakończona</b>
+         <br/>
+         Tresura zakończona. Zwierzę nauczyło się tej sztuczki.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:WalrusPacificSeat_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Siedzenie na stołku</b>
+         </color>
+         <br/>
+         Kliknij, by nauczyć morsa siedzenia na stołku
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:WalrusPacificSeat_locked_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Siedzenie na stołku</b>
+         </color>
+         <br/>
+            <b>    Sztuczka zablokowana</b>
+         <br/>
+         Sztuczka siedzenia na stołku jest zablokowana. By odblokować tą sztuczkę, ukończ trening poprzedniej.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:WalrusPacificSeat_complete_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Siedzenie na stołku</b>
+         </color>
+         <br/>
+            <b>    Tresura zakończona</b>
+         <br/>
+         Tresura zakończona. Zwierzę nauczyło się tej sztuczki.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:WalrusPacificBellow_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Ryczenie w obszarze sztuczek</b>
+         </color>
+         <br/>
+         Kliknij, by nauczyć morsa ryczenia w obszarze sztuczek
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:WalrusPacificBellow_locked_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Ryczenie w obszarze sztuczek</b>
+         </color>
+         <br/>
+            <b>    Sztuczka zablokowana</b>
+         <br/>
+         Sztuczka ryczenia jest zablokowana. By odblokować tą sztuczkę, ukończ trening poprzedniej.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:WalrusPacificBellow_complete_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Ryczenie w obszarze sztuczek</b>
+         </color>
+         <br/>
+            <b>    Tresura zakończona</b>
+         <br/>
+         Tresura zakończona. Zwierzę nauczyło się tej sztuczki.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:OtterSeaJump_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Skok w obszarze sztuczek</b>
+         </color>
+         <br/>
+         Kliknij, by nauczyć wydrę morską skoku w obszarze sztuczek.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:OtterSeaJump_complete_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Skok w obszarze sztuczek</b>
+         </color>
+         <br/>
+            <b>    Tresura zakończona</b>
+         <br/>
+         Tresura zakończona. Zwierzę nauczyło się tej sztuczki.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:OtterSeaShakerToy_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Otwarcie grzechotki</b>
+         </color>
+         <br/>
+         Kliknij, by nauczyć wydrę morską otwierania grzechotki.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:OtterSeaShakerToy_locked_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Otwarcie grzechotki</b>
+         </color>
+         <br/>
+            <b>    Sztuczka zablokowana</b>
+         <br/>
+         Sztuczka otwarcia grzechotki jest zablokowana. By odblokować tą sztuczkę, ukończ trening poprzedniej.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:OtterSeaShakerToy_complete_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Otwarcie grzechotki</b>
+         </color>
+         <br/>
+            <b>    Tresura zakończona</b>
+         <br/>
+         Tresura zakończona. Zwierzę nauczyło się tej sztuczki.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:OtterSeaForage_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Szukanie żywności w stercie kamieni</b>
+         </color>
+         <br/>
+         Kliknij, by nauczyć wydrę morską szukania żywności w stercie kamieni.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:OtterSeaForage_locked_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Szukanie żywności w stercie kamieni</b>
+         </color>
+         <br/>
+            <b>    Sztuczka zablokowana</b>
+         <br/>
+         Sztuczka szukania żywności jest zablokowana. By odblokować tą sztuczkę, ukończ trening poprzedniej.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:OtterSeaForage_complete_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Szukanie żywności w stercie kamieni</b>
+         </color>
+         <br/>
+            <b>    Tresura zakończona</b>
+         <br/>
+         Tresura zakończona. Zwierzę nauczyło się tej sztuczki.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:OtterSeaSeat_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Słodki wygląd</b>
+         </color>
+         <br/>
+         Kliknij, by nauczyć wydrę morską słodkiego wyglądu.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:OtterSeaSeat_complete_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Słodki wygląd</b>
+         </color>
+         <br/>
+            <b>    Tresura zakończona</b>
+         <br/>
+         Tresura zakończona. Zwierzę nauczyło się tej sztuczki.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:OtterSeaBasketball_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Gra w koszykówkę z tablicą</b>
+         </color>
+         <br/>
+         Kliknij, by nauczyć wydrę morską gry w koszykówkę z tablicą.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:OtterSeaBasketball_locked_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Gra w koszykówkę z tablicą</b>
+         </color>
+         <br/>
+            <b>    Sztuczka zablokowana</b>
+         <br/>
+         Sztuczka gry w koszykówkę jest zablokowana. By odblokować tą sztuczkę, ukończ trening poprzedniej.
+      </LOC_STRING>
+	<LOC_STRING _locID="tricktooltips:OtterSeaBasketball_complete_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Gra w koszykówkę z tablicą</b>
+         </color>
+         <br/>
+            <b>    Tresura zakończona</b>
+         <br/>
+         Tresura zakończona. Zwierzę nauczyło się tej sztuczki.
+      </LOC_STRING>
+	<LOC_STRING _locID="trickmarkup:CreateNewProp"  >Wybierz nowy rekwizyt dla: %1s</LOC_STRING>
+	<LOC_STRING _locID="trickmarkup:ReuseProp"  >Użyj ponownie rekwizytu dla: %1s</LOC_STRING>
+	<LOC_STRING _locID="trickmarkup:AppendPopularityMarkup"  >%1s - %2s</LOC_STRING>
+	<LOC_STRING _locID="trickmarkup:trick_popularity_05"  >Popularność: 1/2 gwiazdki</LOC_STRING>
+	<LOC_STRING _locID="trickmarkup:trick_popularity_10"  >Popularność: 1 gwiazdka</LOC_STRING>
+	<LOC_STRING _locID="trickmarkup:trick_popularity_15"  >Popularność: 1 1/2 gwiazdki</LOC_STRING>
+	<LOC_STRING _locID="trickmarkup:trick_popularity_20"  >Popularność: 2 gwiazdki</LOC_STRING>
+	<LOC_STRING _locID="trickmarkup:trick_popularity_25"  >Popularność: 2 1/2 gwiazdki</LOC_STRING>
+	<LOC_STRING _locID="trickmarkup:trick_popularity_30"  >Popularność: 3 gwiazdki</LOC_STRING>
+	<LOC_STRING _locID="trickmarkup:trick_popularity_35"  >Popularność: 3 1/2 gwiazdki</LOC_STRING>
+	<LOC_STRING _locID="trickmarkup:trick_popularity_40"  >Popularność: 4 gwiazdki</LOC_STRING>
+	<LOC_STRING _locID="trickmarkup:trick_popularity_45"  >Popularność: 4 1/2 gwiazdki</LOC_STRING>
+	<LOC_STRING _locID="trickmarkup:trick_popularity_50"  >Popularność: 5 gwiazdek</LOC_STRING>
+</ZT2Strings>

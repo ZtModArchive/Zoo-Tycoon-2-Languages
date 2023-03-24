@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<ZT2Strings>
+	<LOC_STRING _locID="zoopedia_shows:entry"  >Elementy zbiornika i pokazów</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_shows:text"  >
+        <cell pady="0" width="1000"/>
+        <p/>
+        <cell width="260"/>
+        <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+         <cell width="600" padx="20" pady="20">
+          <color r="255" g="255" b="255">
+            <p/>By zbudować zbiornik pokazowy, umieść platformę pokazową w zbiorniku, który jest połączony za pomocą śluzy ze zbiornikiem wystawowym. Umieść trybuny przodem do akwenu, po czym rozpocznij ustalanie programu pokazu!
+            <p/>By wyświetlić informacje o danym elemencie, wybierz jego nazwę z listy po lewej stronie.      
+          </color>
+         </cell>
+        </cell>
+      </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_showplatform:entry"  >Platforma pokazowa</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_showplatform:text"  >
+        <cell pady="0" width="1000"/>
+        <p/>
+        <cell width="260"/>
+        <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+         <cell width="600" padx="20" pady="20">
+          <color r="255" g="255" b="255">
+            <img src="entities/objects/buildings/Platform_Show_mm/Platform_Show_mm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+            <p/>Na tej platformie stoi konferansjer, który prowadzi pokaz. Z jej pomocą możesz tworzyć pokazy. Umieść platformę w pustym zbiorniku połączonym ze zbiornikiem wystawowym za pomocą śluzy, po czym kliknij na niej, by otworzyć harmonogram pokazów.
+            <p/>Ukończ dwa wyzwania pokazów w trybie wyzwań, by odblokować wielki ekran, który możesz umieścić na platformie pokazowej. Ukończ kampanię pokazów, by odblokować kolorową ulepszoną platformę z baldachimem.
+          </color>
+         </cell>
+        </cell>
+      </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_grandstand_mm:entry"  >Trybuny</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_grandstand_mm:text"  >
+        <cell pady="0" width="1000"/>
+        <p/>
+        <cell width="260"/>
+        <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+         <cell width="600" padx="20" pady="20">
+          <color r="255" g="255" b="255">
+            <img src="entities/objects/scenery/Grandstand_I_mm/Grandstand_I_mm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+            <img src="entities/objects/scenery/Grandstand_II_mm/Grandstand_II_mm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+            <img src="entities/objects/scenery/Grandstand_III_mm/Grandstand_III_mm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>            
+            <p/>Trybuny to wygodne miejsce, z którego goście podziwiają pokazy. Odwiedzającym, którzy korzystają z trybun, widowiska bardziej się podobają.
+            <p/>Mala trybuna ma 2 miejsca, srednia 4 a duża 6.
+          </color>
+         </cell>
+        </cell>
+      </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_grandstand_upgraded_mm:entry"  >Trybuny, Ulepszone</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_grandstand_upgraded_mm:text"  >
+        <cell pady="0" width="1000"/>
+        <p/>
+        <cell width="260"/>
+        <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+         <cell width="600" padx="20" pady="20">
+          <color r="255" g="255" b="255">
+            <img src="entities/objects/scenery/Upgraded_Grandstand_I_mm/Upgraded_Grandstand_I_mm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+            <img src="entities/objects/scenery/Upgraded_Grandstand_II_mm/Upgraded_Grandstand_II_mm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+            <img src="entities/objects/scenery/Upgraded_Grandstand_III_mm/Upgraded_Grandstand_III_mm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+            <p/>Ulepszone trybuny dodają komofortu i kolorystyki. Zdobądź nagrodę "Potentat pokazów 1 poziomu", by odblokować ulepszoną średnia trybunę, oraz nagrodę "Potentat pokazów 2 poziomu", by odblokować ulepszoną dużą trybunę.
+          </color>
+         </cell>
+        </cell>
+      </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_light_mm:entry"  >Oświetlenie zbiornika</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_light_mm:text"  >
+        <cell pady="0" width="1000"/>
+        <p/>
+        <cell width="260"/>
+        <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+         <cell width="600" padx="20" pady="20">
+          <color r="255" g="255" b="255">
+            <img src="entities/objects/scenery/light_mm/light_mm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+            <p/>Oświetlenie rozjaśnia wodę w zbiornikach wodnych, co jest przydatne na przykład na wybiegach biomu strefy dennej i terenów podmokłych.
+            <p/>Oświetlenie zbiornika jest dostępne po wygraniu nagrody "Potentat statusu pokazów 1 poziomu".
+          </color>
+         </cell>
+        </cell>
+      </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_tankportal:entry"  >Śluza</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_tankportal:text"  >
+        <cell pady="0" width="1000"/>
+        <p/>
+        <cell width="260"/>
+        <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+         <cell width="600" padx="20" pady="20">
+          <color r="255" g="255" b="255">
+            <img src="entities/objects/fences/AnimalTank_Gate/AnimalTank_Gate_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+            <p/>Śluzy łączą zbiorniki pokazowe z wystawowymi. Zwierzęta nie mogą przebywać na stałe w zbiornikach pokazowych. Musisz stworzyć im także wybieg, umieszczony blisko zbiornika pokazowego i połączony z nim śluzą, którą będą przepływać zwierzęta.
+          </color>
+         </cell>
+        </cell>
+      </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_trainingarea:entry"  >Obszar tresury</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_trainingarea:text"  >
+        <cell pady="0" width="1000"/>
+        <p/>
+        <cell width="260"/>
+        <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+         <cell width="600" padx="20" pady="20">
+          <color r="255" g="255" b="255">
+            <img src="entities/objects/props/TrainingArea/TrainingArea_mm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+            <p/>W tym miejscu zwierzęta są tresowane w wykonywaniu sztuczek na potrzeby pokazów. W zbiorniku musi się znajdować obszar tresury i wejście, byś mógł w nim tresować zwierzęta.
+          </color>
+         </cell>
+        </cell>
+      </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_trickarea_mm:entry"  >Obszar sztuczek</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_trickarea_mm:text"  >
+        <cell pady="0" width="1000"/>
+        <p/>
+        <cell width="260"/>
+        <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+         <cell width="600" padx="20" pady="20">
+          <color r="255" g="255" b="255">
+            <img src="entities/objects/props/TrickArea_mm/TrickArea_mm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+            <p/>Zwierzęta wykonują sztuczki w wyznaczonych obszarach. By przesunąć ten obszar, zaznacz go i przesuń w wybranie miejsce.
+          </color>
+         </cell>
+        </cell>
+      </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_trickplatform:entry"  >Platforma do sztuczek</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_trickplatform:text"  >
+        <cell pady="0" width="1000"/>
+        <p/>
+        <cell width="260"/>
+        <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+         <cell width="600" padx="20" pady="20">
+          <color r="255" g="255" b="255">
+            <img src="entities/objects/props/Platform_Trick/Platform_Trick_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+            <p/>Zwierzęta takie jak mors lub uchatka kalifornijska wykonują sztuczki na platformach. By przesunąć ten element, zaznacz go, po czym przenieś w wybrane miejsce.
+          </color>
+         </cell>
+        </cell>
+      </LOC_STRING>
+</ZT2Strings>

@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<ZT2Strings>
+	<LOC_STRING _locID="zoopedia_bubbleemitter:entry"  >Bąbelkownica - małż</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_bubbleemitter:text"  >
+        <cell pady="0" width="1000"/>
+        <p/>
+        <cell width="260"/>
+        <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+         <cell width="600" padx="20" pady="20">
+          <color r="255" g="255" b="255">
+            <img src="entities/objects/enrichment/BubbleEmitter/BubbleEmitter_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+            <p/>Zwierzęta morskie, zwłaszcza manta, uwielbiają pływać pośród bąbelków wytworzonych przez tego sztucznego małża.
+          </color>
+         </cell>
+        </cell>
+      </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_jarwithfish:entry"  >Słoik z rybami</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_jarwithfish:text"  >
+        <cell pady="0" width="1000"/>
+        <p/>
+        <cell width="260"/>
+        <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+         <cell width="600" padx="20" pady="20">
+          <color r="255" g="255" b="255">
+            <img src="entities/objects/enrichment/JarWithFish/JarWithFish_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+            <p/>Wydry morskie uwielbiają wyciągać ryby z tego zamkniętego słoika -- a goście lubią na to patrzeć!
+          </color>
+         </cell>
+        </cell>
+      </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_livetunayellowfin:entry"  >Żywy pokarm - tuńczyk</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_livetunayellowfin:text"  >
+        <cell pady="0" width="1000"/>
+        <p/>
+        <cell width="260"/>
+        <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+         <cell width="600" padx="20" pady="20">
+          <color r="255" g="255" b="255">
+            <img src="entities/units/animals/TunaYellowfin/TunaYellowfin_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+            <p/>Morskie drapieżniki lubią samodzielnie złapać swoje pożywienie! WIele ogrodów zoologicznych posiada zasoby żywego pokarmu.
+            <p/>By odblokować żywego tunczyka, ukończ dwa wyzwania zwierząt morskich.
+          </color>
+         </cell>
+        </cell>
+      </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_livecodarctic:entry"  >Żywy pokarm - dorsz</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_livecodarctic:text"  >
+        <cell pady="0" width="1000"/>
+        <p/>
+        <cell width="260"/>
+        <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+         <cell width="600" padx="20" pady="20">
+          <color r="255" g="255" b="255">
+            <img src="entities/units/animals/CodArctic/CodArctic_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+            <p/>Morskie drapieżniki lubią samodzielnie złapać swoje pożywienie! WIele ogrodów zoologicznych posiada zasoby żywego pokarmu.
+          </color>
+         </cell>
+        </cell>
+      </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_sealpreydummy:entry"  >Wypchana kukła foki</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_sealpreydummy:text"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>
+                  <img src="entities\objects\enrichment\Seal_Prey_Dummy\SealPreyDummy_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>Ta pływająca kukła została stworzona dla dużych morskich drapieżników, takich jak żarłacz biały lub orka. Zwierzęta uwielbiają bawić się tym obiektem.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+</ZT2Strings>

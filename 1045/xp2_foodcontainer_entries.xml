@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<ZT2Strings>
+	<LOC_STRING _locID="zoopedia_buoynet:entry"  >Boja, sieciowa</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_buoynet:text"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/food/BuoyNet/BuoyNet_Chum_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/food/BuoyNet/BuoyNet_Shellfish_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>Sieć przyczepiona do tej boi zawiera pożywienie.
+            </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_buoylure:entry"  >Boja, wabiąca</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_buoylure:text"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/food/BuoyLure/BuoyLure_Fish_icon.dds" sx="0" sy="0" sw="64" sh="64"/>                   
+                  <img src="entities/objects/food/BuoyLure/BuoyLure_Jellyfish_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/food/BuoyLure/BuoyLure_Plankton_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/food/BuoyLure/BuoyLure_Squid_icon.dds" sx="0" sy="0" sw="64" sh="64"/>                  
+                  <p/>Boja ta posiada specjalny wabik, który przyciąga żywy pokarm. Opiekunowie zawsze pilnują, by w jej okolicy znajdowało się coś do zjedzenia.
+            </color>            
+            </cell>
+         </cell>
+      </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_foodbox:entry"  >Skrzynka</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_foodbox:text"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/food/FoodBox/FoodBox_Chum_icon.dds" sx="0" sy="0" sw="64" sh="64"/>                   
+                  <img src="entities/objects/food/FoodBox/FoodBox_Fish_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/food/FoodBox/FoodBox_Plankton_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/food/FoodBox/FoodBox_Seaweed_icon.dds" sx="0" sy="0" sw="64" sh="64"/>                  
+                  <img src="entities/objects/food/FoodBox/Foodbox_Squid_icon.dds" sx="0" sy="0" sw="64" sh="64"/>                  
+                  <p/>Skrzynka jest umieszczana na dnie zbiornika. Jedzenie swobodnie unosi się w jej środku.
+            </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_marinecarcass:entry"  >Sztuczna padlina morska</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_marinecarcass:text"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/food/Carcass_mm/Carcass_Chum_mm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/food/Carcass_mm/Carcass_Fish_mm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>Ten sztuczny pojemnik o wyglądzie śniętej ryby używany jest do karmienia dużych ilości ryb lub drapieżników morskich. Goście lubią oglądać, jak zwierzęta się pożywiają z tego pojemnika.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_artificialreef:entry"  >Sztuczna rafa</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_artificialreef:text"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/food/ArtificialReef/ArtificialReef_Fish_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/food/ArtificialReef/ArtificialReef_Jellyfish_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/food/ArtificialReef/ArtificialReef_Plankton_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/food/ArtificialReef/ArtificialReef_Shellfish_icon.dds" sx="0" sy="0" sw="64" sh="64"/>                 
+                  <p/>Duże zwierzęta uwielbiają wyszukiwać swoje ofiary w pobliżu tej sztucznej rafy. Opiekunowie zawsze pilnują, by w jej okolicy znajdowało się coś do zjedzenia.
+              </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+</ZT2Strings>
