@@ -4,14 +4,14 @@
          <font name="arial" size="10">%test%</font>
       </LOC_STRING>
 	<LOC_STRING _locID="awards:example"  >
-		<font name="arial" size="12" shadowx="-1" shadowy="1" shadowa="32">
-			<b>Gratulacje! Twoje zoo otrzymało </b>
-			<color r="255" g="255" b="0" a="255">
-				<b>"Złoty dyplom za najwyższej jakości wybiegi dla zwierząt"</b>
-			</color>
-			<b>.</b>
-		</font>
-	</LOC_STRING>
+        <font name="arial" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            <b>Gratulacje! Twoje zoo otrzymało </b>
+            <color r="255" g="255" b="0" a="255">
+                <b>"Złoty dyplom za najwyższej jakości wybiegi dla zwierząt"</b>
+            </color>
+            <b>.</b>
+        </font>
+    </LOC_STRING>
 	<LOC_STRING _locID="awards:CrueltyPrevention_name"  >
          <font name="arial" size="10" shadowx="-1" shadowy="1" shadowa="32">
             <b>Wciągnięto cię na Złotą Listę Stowarzyszenia Zapobiegania Przemocy! Otrzymujesz </b>
@@ -238,6 +238,259 @@
             <color r="255" g="255" b="0" a="255">
                <b>Akt Urodzenia Zagrożonego Gatunku i Pęk Balonów.</b>
             </color>
+         </font>
+      </LOC_STRING>
+	<LOC_STRING _locID="awards:AnimalBirthKangaroo_name"  >
+         <font name="arial" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            <b>Metryka zagrożonego gatunku</b>
+         </font>
+      </LOC_STRING>
+	<LOC_STRING _locID="awards:AnimalBirthKangaroo_pre_ltt"  >
+         <font name="arial" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            <b>Młode kangura rudego ma otrzymać </b>
+            <color r="255" g="255" b="0" a="255">
+               <b>metrykę zagrożonego gatunku</b>
+            </color>
+            <b>.</b>
+         </font>
+      </LOC_STRING>
+	<LOC_STRING _locID="awards:AnimalBirthKangaroo_post_ltt"  >
+         <font name="arial" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            <b>Gratulacje z okazji narodzin kangura rudego! Otrzymujesz </b>
+            <color r="255" g="255" b="0" a="255">
+               <b>metrykę zagrożonego gatunku</b>
+            </color>
+            <b>.</b>
+         </font>
+      </LOC_STRING>
+	<LOC_STRING _locID="awards:AnimalBirthOkapi_name"  >
+         <font name="arial" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            <b>Metryka zagrożonego gatunku</b>
+         </font>
+      </LOC_STRING>
+	<LOC_STRING _locID="awards:AnimalBirthOkapi_pre_ltt"  >
+         <font name="arial" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            <b>Młode okapi ma otrzymać </b>
+            <color r="255" g="255" b="0" a="255">
+               <b>metrykę zagrożonego gatunku</b>
+            </color>
+            <b>.</b>
+         </font>
+      </LOC_STRING>
+	<LOC_STRING _locID="awards:AnimalBirthOkapi_post_ltt"  >
+         <font name="arial" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            <b>Gratulacje z okazji narodzin okapi! Otrzymujesz </b>
+            <color r="255" g="255" b="0" a="255">
+               <b>metrykę zagrożonego gatunku</b>
+            </color>
+            <b>.</b>
+         </font>
+      </LOC_STRING>
+	<LOC_STRING _locID="awards:AnimalBirthRhino_name"  >
+         <font name="arial" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            <b>Metryka zagrożonego gatunku</b>
+         </font>
+      </LOC_STRING>
+	<LOC_STRING _locID="awards:AnimalBirthRhino_pre_ltt"  >
+         <font name="arial" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            <b>Młode nosorożca czarnego ma otrzymać </b>
+            <color r="255" g="255" b="0" a="255">
+               <b>metrykę zagrożonego gatunku</b>
+            </color>
+            <b>.</b>
+         </font>
+      </LOC_STRING>
+	<LOC_STRING _locID="awards:AnimalBirthRhino_post_ltt"  >
+         <font name="arial" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            <b>Gratulacje z okazji narodzin nosorożca czarnego! Otrzymujesz </b>
+            <color r="255" g="255" b="0" a="255">
+               <b>metrykę zagrożonego gatunku</b>
+            </color>
+            <b>.</b>
+         </font>
+      </LOC_STRING>
+	<LOC_STRING _locID="awards:AnimalBirthTiger_name"  >
+         <font name="arial" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            <b>Metryka zagrożonego gatunku</b>
+         </font>
+      </LOC_STRING>
+	<LOC_STRING _locID="awards:AnimalBirthTiger_pre_ltt"  >
+         <font name="arial" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            <b>Młode tygrysa bengalskiego ma otrzymać </b>
+            <color r="255" g="255" b="0" a="255">
+               <b>metrykę zagrożonego gatunku</b>
+            </color>
+            <b>.</b>
+         </font>
+      </LOC_STRING>
+	<LOC_STRING _locID="awards:AnimalBirthTiger_post_ltt"  >
+         <font name="arial" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            <b>Gratulacje z okazji narodzin tygrysa bengalskiego! Otrzymujesz </b>
+            <color r="255" g="255" b="0" a="255">
+               <b>metrykę zagrożonego gatunku</b>
+            </color>
+            <b>.</b>
+         </font>
+      </LOC_STRING>
+	<LOC_STRING _locID="awards:AnimalBirthChimp_name"  >
+         <font name="arial" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            <b>Metryka zagrożonego gatunku</b>
+         </font>
+      </LOC_STRING>
+	<LOC_STRING _locID="awards:AnimalBirthChimp_pre_ltt"  >
+         <font name="arial" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            <b>Młode szympansa ma otrzymać </b>
+            <color r="255" g="255" b="0" a="255">
+               <b>metrykę zagrożonego gatunku</b>
+            </color>
+            <b>.</b>
+         </font>
+      </LOC_STRING>
+	<LOC_STRING _locID="awards:AnimalBirthChimp_post_ltt"  >
+         <font name="arial" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            <b>Gratulacje z okazji narodzin szympansa! Otrzymujesz </b>
+            <color r="255" g="255" b="0" a="255">
+               <b>metrykę zagrożonego gatunku</b>
+            </color>
+            <b>.</b>
+         </font>
+      </LOC_STRING>
+	<LOC_STRING _locID="awards:AnimalBirthGrizzly_name"  >
+         <font name="arial" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            <b>Metryka zagrożonego gatunku</b>
+         </font>
+      </LOC_STRING>
+	<LOC_STRING _locID="awards:AnimalBirthGrizzly_pre_ltt"  >
+         <font name="arial" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            <b>Młode niedźwiedzia grizzly ma otrzymać </b>
+            <color r="255" g="255" b="0" a="255">
+               <b>metrykę zagrożonego gatunku</b>
+            </color>
+            <b>.</b>
+         </font>
+      </LOC_STRING>
+	<LOC_STRING _locID="awards:AnimalBirthGrizzly_post_ltt"  >
+         <font name="arial" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            <b>Gratulacje z okazji narodzin niedźwiedzia grizzly! Otrzymujesz </b>
+            <color r="255" g="255" b="0" a="255">
+               <b>metrykę zagrożonego gatunku</b>
+            </color>
+            <b>.</b>
+         </font>
+      </LOC_STRING>
+	<LOC_STRING _locID="awards:AnimalBirthElephant_name"  >
+         <font name="arial" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            <b>Metryka zagrożonego gatunku</b>
+         </font>
+      </LOC_STRING>
+	<LOC_STRING _locID="awards:AnimalBirthElephant_pre_ltt"  >
+         <font name="arial" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            <b>Młode słonia afrykańskiego ma otrzymać </b>
+            <color r="255" g="255" b="0" a="255">
+               <b>metrykę zagrożonego gatunku</b>
+            </color>
+            <b>.</b>
+         </font>
+      </LOC_STRING>
+	<LOC_STRING _locID="awards:AnimalBirthElephant_post_ltt"  >
+         <font name="arial" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            <b>Gratulacje z okazji narodzin słonia afrykańskiego! Otrzymujesz </b>
+            <color r="255" g="255" b="0" a="255">
+               <b>metrykę zagrożonego gatunku</b>
+            </color>
+            <b>.</b>
+         </font>
+      </LOC_STRING>
+	<LOC_STRING _locID="awards:AnimalBirthGorilla_name"  >
+         <font name="arial" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            <b>Metryka zagrożonego gatunku</b>
+         </font>
+      </LOC_STRING>
+	<LOC_STRING _locID="awards:AnimalBirthGorilla_pre_ltt"  >
+         <font name="arial" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            <b>Młode goryla górskiego ma otrzymać </b>
+            <color r="255" g="255" b="0" a="255">
+               <b>metrykę zagrożonego gatunku</b>
+            </color>
+            <b>.</b>
+         </font>
+      </LOC_STRING>
+	<LOC_STRING _locID="awards:AnimalBirthGorilla_post_ltt"  >
+         <font name="arial" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            <b>Gratulacje z okazji narodzin goryla górskiego! Otrzymujesz </b>
+            <color r="255" g="255" b="0" a="255">
+               <b>metrykę zagrożonego gatunku</b>
+            </color>
+            <b>.</b>
+         </font>
+      </LOC_STRING>
+	<LOC_STRING _locID="awards:AnimalBirthSnowLeopard_name"  >
+         <font name="arial" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            <b>Metryka zagrożonego gatunku</b>
+         </font>
+      </LOC_STRING>
+	<LOC_STRING _locID="awards:AnimalBirthSnowLeopard_pre_ltt"  >
+         <font name="arial" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            <b>Młode pantery śnieżnej ma otrzymać </b>
+            <color r="255" g="255" b="0" a="255">
+               <b>metrykę zagrożonego gatunku</b>
+            </color>
+            <b>.</b>
+         </font>
+      </LOC_STRING>
+	<LOC_STRING _locID="awards:AnimalBirthSnowLeopard_post_ltt"  >
+         <font name="arial" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            <b>Gratulacje z okazji narodzin pantery śnieżnej! Otrzymujesz </b>
+            <color r="255" g="255" b="0" a="255">
+               <b>metrykę zagrożonego gatunku</b>
+            </color>
+            <b>.</b>
+         </font>
+      </LOC_STRING>
+	<LOC_STRING _locID="awards:AnimalBirthRedPanda_name"  >
+         <font name="arial" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            <b>Metryka zagrożonego gatunku</b>
+         </font>
+      </LOC_STRING>
+	<LOC_STRING _locID="awards:AnimalBirthRedPanda_pre_ltt"  >
+         <font name="arial" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            <b>Młode pandy małej ma otrzymać </b>
+            <color r="255" g="255" b="0" a="255">
+               <b>metrykę zagrożonego gatunku</b>
+            </color>
+            <b>.</b>
+         </font>
+      </LOC_STRING>
+	<LOC_STRING _locID="awards:AnimalBirthRedPanda_post_ltt"  >
+         <font name="arial" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            <b>Gratulacje z okazji narodzin pandy małej! Otrzymujesz </b>
+            <color r="255" g="255" b="0" a="255">
+               <b>metrykę zagrożonego gatunku</b>
+            </color>
+            <b>.</b>
+         </font>
+      </LOC_STRING>
+	<LOC_STRING _locID="awards:AnimalBirthGiantPanda_name"  >
+         <font name="arial" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            <b>Metryka zagrożonego gatunku</b>
+         </font>
+      </LOC_STRING>
+	<LOC_STRING _locID="awards:AnimalBirthGiantPanda_pre_ltt"  >
+         <font name="arial" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            <b>Młode pandy wielkiej ma otrzymać </b>
+            <color r="255" g="255" b="0" a="255">
+               <b>metrykę zagrożonego gatunku</b>
+            </color>
+            <b>.</b>
+         </font>
+      </LOC_STRING>
+	<LOC_STRING _locID="awards:AnimalBirthGiantPanda_post_ltt"  >
+         <font name="arial" size="10" shadowx="-1" shadowy="1" shadowa="32">
+            <b>Gratulacje z okazji narodzin pandy wielkiej! Otrzymujesz </b>
+            <color r="255" g="255" b="0" a="255">
+               <b>metrykę zagrożonego gatunku</b>
+            </color>
+            <b>.</b>
          </font>
       </LOC_STRING>
 	<LOC_STRING _locID="awards:ZooAttendance100_name"  >
@@ -520,7 +773,7 @@
       </LOC_STRING>
 	<LOC_STRING _locID="awards:ConservationEffort_name"  >
          <font name="arial" size="10" shadowx="-1" shadowy="1" shadowa="32">
-            <b>Nagroda za Przedłużanie Gatunków</b>
+            <b>Nagroda za Podtrzymanie Gatunków</b>
          </font>
       </LOC_STRING>
 	<LOC_STRING _locID="awards:ConservationEffort_pre_ltt"  >
@@ -528,7 +781,7 @@
             <b>Musisz uwolnić przynajmniej jedno zwierzę, aby otrzymać </b>
             <b/>
             <color r="255" g="255" b="0" a="255">
-               <b>Nagrodę za Przedłużanie Gatunków.</b>
+               <b>Nagrodę za Podtrzymanie Gatunków.</b>
             </color>
          </font>
       </LOC_STRING>
@@ -536,7 +789,7 @@
          <font name="arial" size="10" shadowx="-1" shadowy="1" shadowa="32">
             <b>Gratulacje! Otrzymujesz </b>
             <color r="255" g="255" b="0" a="255">
-               <b>Nagrodę za Przedłużanie Gatunków</b>
+               <b>Nagrodę za Podtrzymanie Gatunków</b>
             </color>
             <b> za wypuszczenie pierwszego zwierzęcia na wolność.</b>
          </font>
@@ -804,12 +1057,12 @@
       </LOC_STRING>
 	<LOC_STRING _locID="awards:itemdelivery"  >%s - oto co otrzymało twoje zoo! Skrzynia znajduje się przy bramie wejściowej.</LOC_STRING>
 	<LOC_STRING _locID="moneygrants:speciesgrant"  >Twoje postępy we wzbogacaniu zoo o nowe gatunki zagwarantowały ci dotację! Dostajesz: </LOC_STRING>
-	<LOC_STRING _locID="moneygrants:endangeredgrant"  >	
-   		Wzbogacenie kolekcji o zagrożony gatunek pozwoliło ci uzyskać dotację! Dostajesz:
-   	</LOC_STRING>
-	<LOC_STRING _locID="moneygrants:releasegrant"  >	
-   		Uwolnienie pierwszego zwierzęcia pozwoliło ci uzyskać dotację! Dostajesz:
-   	</LOC_STRING>
+	<LOC_STRING _locID="moneygrants:endangeredgrant"  >    
+           Wzbogacenie kolekcji o zagrożony gatunek pozwoliło ci uzyskać dotację! Dostajesz:
+       </LOC_STRING>
+	<LOC_STRING _locID="moneygrants:releasegrant"  >    
+           Uwolnienie pierwszego zwierzęcia pozwoliło ci uzyskać dotację! Dostajesz:
+       </LOC_STRING>
 	<LOC_STRING _locID="itemunlock:newitemsafari"  >Gratulacje! Udało ci się uzyskać dostęp do budynków i obiektów tematycznych: safari!</LOC_STRING>
 	<LOC_STRING _locID="itemunlock:newitemjungle"  >Gratulacje! Udało ci się uzyskać dostęp do budynków i obiektów tematycznych: dżungla!</LOC_STRING>
 	<LOC_STRING _locID="itemunlock:newitemgeneral"  >Gratulacje! Udostępniono nowy element krajobrazu: </LOC_STRING>

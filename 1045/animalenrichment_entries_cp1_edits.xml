@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<ZT2Strings>
+	<LOC_STRING _locID="zoopedia_heatedrock" version="2" />
+	<LOC_STRING _locID="zoopedia_heatedrock:entry" version="2"  >Podgrzewana skała</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_heatedrock:text" version="2"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>
+                  <img src="entities/objects/enrichment/HeatedRock/HeatedRock_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>Podgrzewana skała to wielka, naturalnie wyglądajaca skała podgrzewana sztucznie od środka, która ma zastępować skałę rozgrzaną przez słońce. Jest szczególnie ulubiona przez zwierzęta afrykańskie, głównie lwy, które przyzwyczajone są do wylegiwania sie na nagrzanych skałach sawanny.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+</ZT2Strings>

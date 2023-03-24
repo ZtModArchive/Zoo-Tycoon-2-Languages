@@ -1,23 +1,23 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
 <ZT2Strings>
 	<LOC_STRING _locID="alert:sttformat"  >
-		<font name="arial" size="10">%text%</font>
-	</LOC_STRING>
+        <font name="arial" size="10">%text%</font>
+    </LOC_STRING>
 	<LOC_STRING _locID="alert:lttformat"  >
-		<font name="arial" size="10">%text%</font>
-	</LOC_STRING>
+        <font name="arial" size="10">%text%</font>
+    </LOC_STRING>
 	<LOC_STRING _locID="alert:save_game_message"  >
-		<font name="arial" size="20">
-			<b>Gra zapisana</b>
-		</font>
-	</LOC_STRING>
+        <font name="arial" size="20">
+            <b>Gra zapisana</b>
+        </font>
+    </LOC_STRING>
 	<LOC_STRING _locID="alert:alert"  >
-		<font name="arial" size="16">
-			<color r="255" g="197" b="78">
-				<b>%text%</b>
-			</color>
-		</font>
-	</LOC_STRING>
+        <font name="arial" size="16">
+            <color r="255" g="197" b="78">
+                <b>%text%</b>
+            </color>
+        </font>
+    </LOC_STRING>
 	<LOC_STRING _locID="alert:save_failed"  >Brak miejsca na dysku. Nie udało się zapisać gry.</LOC_STRING>
 	<LOC_STRING _locID="alert:photo_save_failed"  >Brak miejsca na dysku. Nie udało się zapisać zdjęcia.</LOC_STRING>
 	<LOC_STRING _locID="alert:download_save_failed"  >Brak miejsca na dysku. Nie udało się ukończyć pobierania.</LOC_STRING>

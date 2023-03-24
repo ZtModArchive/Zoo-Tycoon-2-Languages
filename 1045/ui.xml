@@ -77,17 +77,24 @@
          </font>
       </LOC_STRING>
 	<LOC_STRING _locID="buyinfo:biome_label"  >
-         <font name="arial" size="10">
-            <b>Biom:</b>
+         <font name="arial" size="9" shadowx="-1" shadowy="1" shadowa="164">
+            <color r="255" g="248" b="178">
+               <b>Biom:</b>
+            </color>
          </font>
       </LOC_STRING>
 	<LOC_STRING _locID="buyinfo:location_label"  >
-         <font name="arial" size="8">
-            <b>Wyst.:</b>
+         <font name="arial" size="9" shadowx="-1" shadowy="1" shadowa="164">
+            <color r="255" g="248" b="178">
+               <b>Wyst.:</b>
+            </color>
+         </font>
+         <font name="arial" size="10">
+            <b/>
          </font>
       </LOC_STRING>
 	<LOC_STRING _locID="buyinfo:gender_label"  >
-         <font name="arial" size="8">
+         <font name="arial" size="10">
             <b>Płeć:</b>
          </font>
       </LOC_STRING>
@@ -395,7 +402,7 @@
 	<LOC_STRING _locID="confirm:return_mainmenu_label"  >
          <font name="arial" size="20" image="ui\font\color_mainmenu.tga">
             <color r="255" g="197" b="78">
-               <b>Zapisać stan gry przed </b>
+               <b>Czy chcesz zapisać stan gry przed powrotem do Menu głównego?</b>
             </color>
          </font>
       </LOC_STRING>
@@ -774,7 +781,7 @@
          <color r="255" g="248" b="178">
             <b>Wypuść zwierzę</b>
          </color>
-         <br>Aby móc wypuścić zwierzę na wolność, musisz najpierw zaspokoić wszystkie jego podstawowe i zaawansowane potrzeby.</br>
+         <br>Aby móc wypuścić zwierzę na wolność, musisz najpierw zaspokoić wszystkie jego podstawowe i wyższe potrzeby.</br>
       </LOC_STRING>
 	<LOC_STRING _locID="entityinfo:pickup_animal_button_stt"  >Podnieś zwierzę</LOC_STRING>
 	<LOC_STRING _locID="entityinfo:pickup_animal_button_ltt"  >
@@ -955,7 +962,7 @@
 	<LOC_STRING _locID="entityinfo:price_label"  >
          <font name="arial" size="9" shadowx="-1" shadowy="1" shadowa="64">
             <color r="255" g="248" b="178">
-               <b>Cena:</b>
+               <b>Ceny:</b>
             </color>
          </font>
       </LOC_STRING>
@@ -1320,21 +1327,21 @@
 	<LOC_STRING _locID="entityinfo:sweep_label"  >
          <font name="arial" size="9" shadowx="-1" shadowy="1" shadowa="64">
             <color r="255" g="248" b="178">
-               <b>Zbieraj śmieci</b>
+               <b>Zbiera śmieci</b>
             </color>
          </font>
       </LOC_STRING>
 	<LOC_STRING _locID="entityinfo:empty_label"  >
          <font name="arial" size="9" shadowx="-1" shadowy="1" shadowa="64">
             <color r="255" g="248" b="178">
-               <b>Opróżniaj kosze na śmieci</b>
+               <b>Opróżnia kosze na śmieci</b>
             </color>
          </font>
       </LOC_STRING>
 	<LOC_STRING _locID="entityinfo:rake_label"  >
          <font name="arial" size="9" shadowx="-1" shadowy="1" shadowa="64">
             <color r="255" g="248" b="178">
-               <b>Sprzątaj odchody</b>
+               <b>Sprząta odchody</b>
             </color>
          </font>
       </LOC_STRING>
@@ -1666,7 +1673,7 @@
          <color r="255" g="248" b="178">
             <b>Zakup wybranego pojazdu</b>
          </color>
-         <br>Kliknij, aby zakupić wybrany pojazd, który zostanie zbudowany na stacji.</br>
+         <br>Kliknij, aby zakupić wybrany pojazd, który zostanie umieszczony na stacji.</br>
       </LOC_STRING>
 	<LOC_STRING _locID="entityinfo:transportation_buy_vehicle_tab_stt"  >Zakup pojazdu</LOC_STRING>
 	<LOC_STRING _locID="entityinfo:transportation_buy_vehicle_tab_ltt"  >
@@ -2595,7 +2602,7 @@
          <color r="255" g="248" b="178">
             <b>Wysoka szczegółowość</b>
          </color>
-         <br>Kliknij, aby grać w Zoo Tycoon 2 na najwyższym poziomie szczegółowości grafiki. Zobaczysz więcej szczegółów, ale może wpłynąć to negatywnie na płynność gry.</br>
+         <br>Kliknij, aby grać w Zoo Tycoon 2 na najwyższym poziomie szczegółowości grafiki. Wybór ten może wpłynąć to negatywnie na płynność gry.</br>
       </LOC_STRING>
 	<LOC_STRING _locID="options:high_detail_button_stt"  >Wysoka szczegółowość</LOC_STRING>
 	<LOC_STRING _locID="options:medium_preset"  >
@@ -3721,7 +3728,7 @@
          <color r="255" g="248" b="178">
             <b>Taśmowy tryb wznoszenia ogrodzenia</b>
          </color>
-         <br>Kliknij, aby rozpocząć wznoszenie ogrodzenia. Kolejne kliknięca spowodują wznioszenie kolejnych odcinków ogrodzenia. Naciśnij lewy przycisk myszki, aby zakończyć.</br>
+         <br>Kliknij, aby rozpocząć wznoszenie ogrodzenia. Kolejne kliknięcia spowodują wznoszenie kolejnych odcinków ogrodzenia. Naciśnij lewy przycisk myszki, aby zakończyć.</br>
       </LOC_STRING>
 	<LOC_STRING _locID="shell:construction_fenceplacement_rubberband_mode_display_label"  >
          <font name="arial" size="10" shadowx="1" shadowy="1" shadowa="32">
@@ -4173,7 +4180,7 @@
          <color r="255" g="248" b="178">
             <b>Usuń obiekty i budynki</b>
          </color>
-         <br>Kliknij, aby zmienić kursor w buldożer. Kliknij na obiekcie, aby go usunąć. Otrzymasz też zwrot części pieniędzy.</br>
+         <br>Kliknij, aby zmienić kursor w buldożer. Kliknij obiekt, aby go usunąć. Otrzymasz też zwrot części pieniędzy.</br>
       </LOC_STRING>
 	<LOC_STRING _locID="shell:scenario_goals_button_stt"  >Wyświetl cele i wyzwania</LOC_STRING>
 	<LOC_STRING _locID="shell:scenario_goals_button_ltt"  >
@@ -4288,8 +4295,12 @@
          <br>Kliknij, aby włączyć i wyłączyć pauzę.</br>
       </LOC_STRING>
 	<LOC_STRING _locID="shell:pause_game_label"  >
-         <font name="arial" size="24" shadowx="-1" shadowy="1">
-            <b>GRA ZATRZYMANA</b>
+         <font name="arial" size="24" image="ui\font\color_mainmenu.tga" shadowx="-1" shadowy="1">
+            <color r="255" g="100" b="0">
+               <text>
+                  <b>GRA ZATRZYMANA</b>
+               </text>
+            </color>
          </font>
       </LOC_STRING>
 	<LOC_STRING _locID="shell:filter_all"  >
@@ -4673,14 +4684,14 @@
          <color r="255" g="248" b="178">
             <b>Nieukończona droga</b>
          </color>
-         <br>Ta trasa jest nieukończona. Kliknij na ikonie, aby dalej budować drogę.</br>
+         <br>Ta trasa jest nieukończona. Kliknij ikonę, aby dalej budować drogę.</br>
       </LOC_STRING>
 	<LOC_STRING _locID="transportation:skycircuit_incomplete_stt"  >Kliknij, aby zbudować tor kolejki linowej</LOC_STRING>
 	<LOC_STRING _locID="transportation:skycircuit_incomplete_ltt"  >
          <color r="255" g="248" b="178">
             <b>Nieukończona trasa kolejki linowej</b>
          </color>
-         <br>Ta trasa kolejki linowej jest nieukończona. Kliknij na ikonie, aby kontynuować budowę trasy.</br>
+         <br>Ta trasa kolejki linowej jest nieukończona. Kliknij ikonę, aby kontynuować budowę trasy.</br>
       </LOC_STRING>
 	<LOC_STRING _locID="uigraph:posformat"  >
          <font name="arial" size="10" shadowx="-1" shadowy="1" shadowa="255">
@@ -5242,7 +5253,7 @@
 	<LOC_STRING _locID="zoostatus:donation_box_list_average_profit"  >
          <font name="arial" size="10" shadowx="-1" shadowy="1" shadowa="255">
             <color r="255" g="248" b="178">
-               <b>Średnia datków:</b>
+               <b>Średnia:</b>
             </color>
          </font>
       </LOC_STRING>
