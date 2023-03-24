@@ -1,28 +1,28 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
 <ZT2Strings>
 	<LOC_STRING _locID="credits:headingxtralarge"  >
-         <font name="arial" image="ui/font/color_mainmenu.tga" size="28">
+         <font name="arial" image="ui/font/color_mainmenu.tga" size="40">
             <color r="255" g="187" b="68" a="255">
                <b>%text%</b>
             </color>
          </font>
       </LOC_STRING>
 	<LOC_STRING _locID="credits:headinglarge"  >
-         <font name="arial" image="ui/font/color_mainmenu.tga" size="24">
+         <font name="arial" image="ui/font/color_mainmenu.tga" size="36">
             <color r="255" g="197" b="78" a="255">
                <b>%text%</b>
             </color>
          </font>
       </LOC_STRING>
 	<LOC_STRING _locID="credits:headingmedium"  >
-         <font name="arial" image="ui/font/color_mainmenu.tga" size="16">
+         <font name="arial" image="ui/font/color_mainmenu.tga" size="28">
             <color r="255" g="197" b="78" a="255">
                <b>%text%</b>
             </color>
          </font>
       </LOC_STRING>
 	<LOC_STRING _locID="credits:headingsmall"  >
-         <font name="arial" image="ui/font/color_mainmenu.tga" size="10">
+         <font name="arial" image="ui/font/color_mainmenu.tga" size="20">
             <color r="255" g="197" b="78" a="255">
                <b>%text%</b>
             </color>
@@ -100,10 +100,10 @@
       </LOC_STRING>
 	<LOC_STRING _locID="credits:zoo2"  >ZOO TYCOON 2</LOC_STRING>
 	<LOC_STRING _locID="credits:devteam"  >ZESPÓŁ PRODUKCYJNY</LOC_STRING>
-	<LOC_STRING _locID="credits:management"  >ZARZĄD BLUE FANG</LOC_STRING>
+	<LOC_STRING _locID="credits:management"  >BLUE FANG MANAGEMENT</LOC_STRING>
 	<LOC_STRING _locID="credits:additional"  >DODATKOWE WSPARCIE</LOC_STRING>
 	<LOC_STRING _locID="credits:microsoftdevteam"  >ZESPÓŁ PRODUKCYJNY MICROSOFT</LOC_STRING>
-	<LOC_STRING _locID="credits:executiveproducer"  >Producent wykonawczy</LOC_STRING>
+	<LOC_STRING _locID="credits:executiveproducer"  >Producent</LOC_STRING>
 	<LOC_STRING _locID="credits:producer"  >Producent</LOC_STRING>
 	<LOC_STRING _locID="credits:leaddesigner"  >Główny projektant</LOC_STRING>
 	<LOC_STRING _locID="credits:projectmanager"  >Menedżer projektu</LOC_STRING>
@@ -116,6 +116,7 @@
 	<LOC_STRING _locID="credits:technicaldesigner"  >Kierownik techniczny projektu</LOC_STRING>
 	<LOC_STRING _locID="credits:leadprogrammer"  >Główny programista/architekt</LOC_STRING>
 	<LOC_STRING _locID="credits:engineeringleads"  >Wsparcie techniczne</LOC_STRING>
+	<LOC_STRING _locID="credits:engineeringlead"  >Koordynacja techniczna</LOC_STRING>
 	<LOC_STRING _locID="credits:artmanager"  >Menedżer artystyczny</LOC_STRING>
 	<LOC_STRING _locID="credits:artdirector"  >Kierownik artystyczny</LOC_STRING>
 	<LOC_STRING _locID="credits:engineeringdirector"  >Kierownik techniczny</LOC_STRING>
@@ -152,7 +153,7 @@
 	<LOC_STRING _locID="credits:ceo"  >Prezes &amp; Dyrektor kreatywny</LOC_STRING>
 	<LOC_STRING _locID="credits:coo"  >Główny kierownik operacyjny</LOC_STRING>
 	<LOC_STRING _locID="credits:president"  >Dyrektor</LOC_STRING>
-	<LOC_STRING _locID="credits:vpsoftware"  >Wiceprezes ds. zaawansowanych technologii</LOC_STRING>
+	<LOC_STRING _locID="credits:vpsoftware"  >Wiceprezes ds. technologii</LOC_STRING>
 	<LOC_STRING _locID="credits:additionalweb"  >Dodatkowe zarządzanie zasobami sieciowymi</LOC_STRING>
 	<LOC_STRING _locID="credits:additionalanimation"  >Dodatkowa produkcja animacji i grafiki</LOC_STRING>
 	<LOC_STRING _locID="credits:movies"  >Wprowadzenie do Zoo Tycoon 2 i filmy z logo Blue Fang</LOC_STRING>
@@ -163,7 +164,7 @@
 	<LOC_STRING _locID="credits:devmanager"  >Kierownik ds. rozwoju</LOC_STRING>
 	<LOC_STRING _locID="credits:addprogram"  >Dodatkowe programowanie</LOC_STRING>
 	<LOC_STRING _locID="credits:gamedesignmanager"  >Kierownik projektu gry</LOC_STRING>
-	<LOC_STRING _locID="credits:adddesignsupport"  >Dodatkowe wsparcie przy projektowaniu gry</LOC_STRING>
+	<LOC_STRING _locID="credits:adddesignsupport"  >Dodatkowe wsparcie</LOC_STRING>
 	<LOC_STRING _locID="credits:businessmanagement"  >Kierownik ds. przedsięwzięć</LOC_STRING>
 	<LOC_STRING _locID="credits:userexpteam"  >Zespół User Experience (UX)</LOC_STRING>
 	<LOC_STRING _locID="credits:contentcoordination"  >Koordynacja treści</LOC_STRING>
@@ -175,7 +176,7 @@
 	<LOC_STRING _locID="credits:projecttestlead"  >Główny tester projektu</LOC_STRING>
 	<LOC_STRING _locID="credits:testteam"  >Zespół testujący</LOC_STRING>
 	<LOC_STRING _locID="credits:test_temp"  >Tymczasowi testerzy zapewnienia jakości</LOC_STRING>
-	<LOC_STRING _locID="credits:windowscompteam"  >Zespół ds. kompatybilności z Windows</LOC_STRING>
+	<LOC_STRING _locID="credits:windowscompteam"  >Kompatybilność z Windows</LOC_STRING>
 	<LOC_STRING _locID="credits:reconteam"  >Zespół rozpoznania</LOC_STRING>
 	<LOC_STRING _locID="credits:setupteam"  >Zespół instalatora</LOC_STRING>
 	<LOC_STRING _locID="credits:studioleads"  >Kierownictwo studia</LOC_STRING>
@@ -187,17 +188,21 @@
 	<LOC_STRING _locID="credits:taiwanteam"  >Zespół tajwański</LOC_STRING>
 	<LOC_STRING _locID="credits:sbsi"  >(Siemens Business Services Inc)</LOC_STRING>
 	<LOC_STRING _locID="credits:rad"  >MPEG Layer-3 dostarczono razem z Miles Sound System od RAD Game Tools, Inc. Technologia kompresji audio MPEG Layer-3 na licencji Fraunhofer IIS i THOMSON multimedia.</LOC_STRING>
-	<LOC_STRING _locID="credits:miles"  >Wykorzystuje Miles Sound System, Copyright 1991 - 2002 by RAD Game Tools, Inc.</LOC_STRING>
-	<LOC_STRING _locID="credits:bink"  >Wykorzystuje Bink Video Copyright © 1997 - 2004 by RAD Game Tools, Inc.</LOC_STRING>
+	<LOC_STRING _locID="credits:miles"  >Wykorzystuje Miles Sound System, Copyright 1991-2002 by RAD Game Tools, Inc.</LOC_STRING>
+	<LOC_STRING _locID="credits:bink"  >Wykorzystuje Bink Video Copyright © 1997-2004 by RAD Game Tools, Inc.</LOC_STRING>
 	<LOC_STRING _locID="credits:gamebryo"  >Elementy tego programu są zawarte na licencji © 1997-2004 Numerical Design, Ltd. Wszystkie prawa zastrzeżone. Gamebryo® jest zastrzeżonym znakiem towarowym Numerical Design, Ltd.</LOC_STRING>
 	<LOC_STRING _locID="credits:rapan"  >Dodatkowa produkcja animacji i grafiki: Rapan - www.rapan.com</LOC_STRING>
 	<LOC_STRING _locID="credits:liquid_dev"  >Dodatkowa produkcja animacji i grafiki: Liquid Development - www.liquiddevelopment.com</LOC_STRING>
 	<LOC_STRING _locID="credits:new_pencil"  >Wprowadzenie do Zoo Tycoon 2 i filmy z logo Blue Fang: New Pencil - www.newpencil.com</LOC_STRING>
 	<LOC_STRING _locID="credits:dsonic"  >Muzyka i efekty dźwiękowe: dSonic - www.dsonicaudio.com</LOC_STRING>
+	<LOC_STRING _locID="credits:heavymelody"  >Heavy Melody - www.heavymelodymusic.com</LOC_STRING>
+	<LOC_STRING _locID="credits:additionalsound"  >Dodatkowy dźwięk</LOC_STRING>
 	<LOC_STRING _locID="credits:additionalanimationandart"  >Dodatkowe animacje i grafika</LOC_STRING>
+	<LOC_STRING _locID="credits:bluefangthanks"  >Blue Fang - podziękowania</LOC_STRING>
+	<LOC_STRING _locID="credits:friendsfamily1"  >Dla naszych rodzin i przyjaciół -</LOC_STRING>
+	<LOC_STRING _locID="credits:friendsfamily2"  >wszyscy byliście niezwykle pomocni!</LOC_STRING>
 	<LOC_STRING _locID="credits:soundeffects"  >Efekty dźwiękowe</LOC_STRING>
 	<LOC_STRING _locID="credits:jeeptrademark"  >Jeep&#xAE; jest zarejestrowanym znakiem handlowym firmy DaimlerChrysler Corporation.</LOC_STRING>
-	<LOC_STRING _locID="credits:bluefangthanks"  >Blue Fang - podziękowania</LOC_STRING>
 	<LOC_STRING _locID="credits:zrmanagement"  >Zarząd Studio ZR</LOC_STRING>
 	<LOC_STRING _locID="credits:msprojectteam"  >Zespół koordynacyjny Microsoft</LOC_STRING>
 	<LOC_STRING _locID="credits:businessdev"  >Rozwój biznesowy</LOC_STRING>
@@ -222,7 +227,7 @@
 	<LOC_STRING _locID="credits:artintern"  >Praktykant działu graficznego</LOC_STRING>
 	<LOC_STRING _locID="credits:appengineeringlead"  >Główna inżynieria aplikacji</LOC_STRING>
 	<LOC_STRING _locID="credits:coreengineeringlead"  >Główna inżynieria kodu</LOC_STRING>
-	<LOC_STRING _locID="credits:xp2miles"  >Zoo Tycoon 2: Podwodny świat używa technologii Miles Sound System, copyright 1991 - 2006 RAD Game Tools, Inc.</LOC_STRING>
+	<LOC_STRING _locID="credits:xp2miles"  >Zoo Tycoon 2: Podwodny świat używa technologii Miles Sound System, Copyright 1991-2006 RAD Game Tools, Inc.</LOC_STRING>
 	<LOC_STRING _locID="devteamnames:jr_surprenant"  >JR Surprenant</LOC_STRING>
 	<LOC_STRING _locID="devteamnames:adam_levesque"  >Adam Levesque</LOC_STRING>
 	<LOC_STRING _locID="devteamnames:jason_barlow"  >Jason Barlow</LOC_STRING>
@@ -263,7 +268,7 @@
 	<LOC_STRING _locID="devteamnames:jennifer_lesser"  >Jennifer Hrabota Lesser</LOC_STRING>
 	<LOC_STRING _locID="devteamnames:michael_clark"  >Michael Clarke</LOC_STRING>
 	<LOC_STRING _locID="devteamnames:brian_labore"  >Brian Labore</LOC_STRING>
-	<LOC_STRING _locID="devteamnames:robert_jerauld"  >Robert Jerauld - Główny kierownik programowy</LOC_STRING>
+	<LOC_STRING _locID="devteamnames:robert_jerauld"  >Robert Jerauld - Główny kierownik</LOC_STRING>
 	<LOC_STRING _locID="devteamnames:deanna_hearns"  >Deanna Hearns - Kierownik programowy</LOC_STRING>
 	<LOC_STRING _locID="devteamnames:deanna_hearns_producer"  >Deanna Hearns - Producent</LOC_STRING>
 	<LOC_STRING _locID="devteamnames:jennifer_christensen"  >Jennifer Christensen - Kierownik programowy</LOC_STRING>
@@ -277,7 +282,7 @@
 	<LOC_STRING _locID="devteamnames:thomas_zuccotti"  >Thomas Zuccotti - Kierownik ds. projektu gry</LOC_STRING>
 	<LOC_STRING _locID="devteamnames:thomas_zuccotti_director"  >Thomas Zuccotti - Kierownik ds. projektowania</LOC_STRING>
 	<LOC_STRING _locID="devteamnames:howard_philips"  >Howard Philips - projektant gry</LOC_STRING>
-	<LOC_STRING _locID="devteamnames:james_spahn"  >James Spahn - Kierownik biznesu</LOC_STRING>
+	<LOC_STRING _locID="devteamnames:james_spahn"  >James Spahn - Kierownik ds. interesów</LOC_STRING>
 	<LOC_STRING _locID="devteamnames:dana_fos"  >Dana Fos - Kierownik ds. UX</LOC_STRING>
 	<LOC_STRING _locID="devteamnames:kiki_mcmillan"  >Kiki McMillan - Kierownik UX, Starszy autor</LOC_STRING>
 	<LOC_STRING _locID="devteamnames:kiki_mcmillan_senior_writer"  >Kiki McMillan - Starszy autor</LOC_STRING>
@@ -304,29 +309,29 @@
 	<LOC_STRING _locID="devteamnames:jen_martin"  >Jen Martin - Kierownik ds. public relations</LOC_STRING>
 	<LOC_STRING _locID="devteamnames:humberto_castaneda"  >Humberto Castaneda - Kierownik ds. testów</LOC_STRING>
 	<LOC_STRING _locID="devteamnames:korey_krauskopf"  >Korey Krauskopf - Kierownik ds. testów</LOC_STRING>
-	<LOC_STRING _locID="devteamnames:andrew_binder"  >M. Andrew Binder - Kierownik testowania oprogramowania</LOC_STRING>
+	<LOC_STRING _locID="devteamnames:andrew_binder"  >M. Andrew Binder - Kierownik testowania</LOC_STRING>
 	<LOC_STRING _locID="devteamnames:andrew_binder_project"  >Andrew Binder - Kierownik ds. testowania projektu</LOC_STRING>
 	<LOC_STRING _locID="devteamnames:bill_metters"  >Bill Metters - Starszy inżynier testujący</LOC_STRING>
-	<LOC_STRING _locID="devteamnames:brandon_baker"  >Brandon Baker (Volt) - współpraca przy testach</LOC_STRING>
-	<LOC_STRING _locID="devteamnames:brishan_merrillbrown"  >Brishan Merrill-Brown (Volt) - współpraca przy testach</LOC_STRING>
-	<LOC_STRING _locID="devteamnames:bryce_jones"  >Bryce Jones - Inżynier projektu oprogramowania/testowania</LOC_STRING>
-	<LOC_STRING _locID="devteamnames:bryce_jones_test"  >Bryce Jones - Starszy inżynier projektu oprogramowania i testowania</LOC_STRING>
-	<LOC_STRING _locID="devteamnames:chris_lee"  >Chris Lee - Inżynier projektu oprogramowania/testowania</LOC_STRING>
-	<LOC_STRING _locID="devteamnames:chris_lee_test"  >Chris Lee - Inżynier projektu oprogramowania i testowania</LOC_STRING>
+	<LOC_STRING _locID="devteamnames:brandon_baker"  >Brandon Baker (Volt) - współpraca</LOC_STRING>
+	<LOC_STRING _locID="devteamnames:brishan_merrillbrown"  >Brishan Merrill-Brown (Volt) - współpraca</LOC_STRING>
+	<LOC_STRING _locID="devteamnames:bryce_jones"  >Bryce Jones - Inżynier projektu oprogramowania</LOC_STRING>
+	<LOC_STRING _locID="devteamnames:bryce_jones_test"  >Bryce Jones - Starszy inżynier projektu oprogramowania</LOC_STRING>
+	<LOC_STRING _locID="devteamnames:chris_lee"  >Chris Lee - Inżynier projektu oprogramowania</LOC_STRING>
+	<LOC_STRING _locID="devteamnames:chris_lee_test"  >Chris Lee - Inżynier projektu oprogramowania</LOC_STRING>
 	<LOC_STRING _locID="devteamnames:christopher_singleton"  >Christopher Singleton (Volt) - Inżynier testujący</LOC_STRING>
 	<LOC_STRING _locID="devteamnames:clint_kreider"  >Clint Kreider (Volt) - współpraca przy testach</LOC_STRING>
 	<LOC_STRING _locID="devteamnames:david_alenick"  >David Alenick (Volt) - Inżynier testujący</LOC_STRING>
 	<LOC_STRING _locID="devteamnames:david_eim"  >David Eim (Volt) - Inżynier testujący</LOC_STRING>
 	<LOC_STRING _locID="devteamnames:jennifer_tunnell"  >Jennifer Tunnell (Volt) - Inżynier testujący</LOC_STRING>
 	<LOC_STRING _locID="devteamnames:jeremy_williams"  >Jeremy Williams (Volt) - współpraca przy testach</LOC_STRING>
-	<LOC_STRING _locID="devteamnames:jon_burns"  >Jon Burns - Inżynier projektu oprogramowania/testowania</LOC_STRING>
-	<LOC_STRING _locID="devteamnames:jon_burns_test"  >Jon Burns - Inżynier projektu oprogramowania i testowania</LOC_STRING>
+	<LOC_STRING _locID="devteamnames:jon_burns"  >Jon Burns - Inżynier projektu oprogramowania</LOC_STRING>
+	<LOC_STRING _locID="devteamnames:jon_burns_test"  >Jon Burns - Inżynier projektu oprogramowania</LOC_STRING>
 	<LOC_STRING _locID="devteamnames:jon_heeren"  >Jon Heeren (Volt) - Inżynier testujący</LOC_STRING>
-	<LOC_STRING _locID="devteamnames:keith_harris"  >Keith Harris - Kierownik testowania oprogramowania</LOC_STRING>
+	<LOC_STRING _locID="devteamnames:keith_harris"  >Keith Harris - Kierownik testowania </LOC_STRING>
 	<LOC_STRING _locID="devteamnames:marwan_jubran"  >Marwan Jubran -</LOC_STRING>
-	<LOC_STRING _locID="devteamnames:software_design_engineer_test"  >Inżynier projektu oprogramowania/testowania</LOC_STRING>
+	<LOC_STRING _locID="devteamnames:software_design_engineer_test"  >Inżynier projektu oprogramowania</LOC_STRING>
 	<LOC_STRING _locID="devteamnames:marwan_jubran_software"  >Marwan Jubran - Inżynier projektu oprogramowania</LOC_STRING>
-	<LOC_STRING _locID="devteamnames:paul_gradwohl"  >Paul H. Gradwohl - Inżynier testów oprogramowania</LOC_STRING>
+	<LOC_STRING _locID="devteamnames:paul_gradwohl"  >Paul H. Gradwohl - Inżynier testów</LOC_STRING>
 	<LOC_STRING _locID="devteamnames:paul_gradwohl_senior"  >Paul Gradwohl - Starszy inżynier testów</LOC_STRING>
 	<LOC_STRING _locID="devteamnames:ty_roberts"  >Ty Roberts (Volt) - Inżynier testujący</LOC_STRING>
 	<LOC_STRING _locID="devteamnames:val_miller"  >Val Miller (Volt) - Inżynier testujący</LOC_STRING>
@@ -369,9 +374,9 @@
 	<LOC_STRING _locID="devteamnames:kaoru_ito"  >Kaoru Ito - Kierownik programu lokalizacji</LOC_STRING>
 	<LOC_STRING _locID="devteamnames:yutaka_hasegawa"  >Yutaka Hasegawa -</LOC_STRING>
 	<LOC_STRING _locID="devteamnames:lead_software_design_engineer"  >Główny inżynier projektu oprogramowania</LOC_STRING>
-	<LOC_STRING _locID="devteamnames:yuji_yoneshige"  >Yuji Yoneshige - Główny inżynier testów oprogramowania</LOC_STRING>
-	<LOC_STRING _locID="devteamnames:munetaka_fuse"  >Munetaka Fuse - Inżynier projektu oprogramowania</LOC_STRING>
-	<LOC_STRING _locID="devteamnames:sachiko_nagasawa"  >Sachiko Nagasawa - Inżynier testów oprogramowania</LOC_STRING>
+	<LOC_STRING _locID="devteamnames:yuji_yoneshige"  >Yuji Yoneshige - Główny inżynier testów</LOC_STRING>
+	<LOC_STRING _locID="devteamnames:munetaka_fuse"  >Munetaka Fuse - Inżynier projektu</LOC_STRING>
+	<LOC_STRING _locID="devteamnames:sachiko_nagasawa"  >Sachiko Nagasawa - Inżynier testów</LOC_STRING>
 	<LOC_STRING _locID="devteamnames:kenichi_akiyama"  >Kenichi Akiyama - Inżynier testów</LOC_STRING>
 	<LOC_STRING _locID="devteamnames:miyuki_nouguchi"  >Miyuki Nouguchi - Edukacja użytkownika</LOC_STRING>
 	<LOC_STRING _locID="devteamnames:mariko_kikuchi"  >Mariko Kikuchi - Inżynier testów oprogramowania</LOC_STRING>
@@ -380,7 +385,7 @@
 	<LOC_STRING _locID="devteamnames:kazuya_kakizaki"  >Kazuya Kakizaki - Inżynier testów oprogramowania</LOC_STRING>
 	<LOC_STRING _locID="devteamnames:masayo_ohara"  >Masayo Ohara - Asystent kierownika programowego</LOC_STRING>
 	<LOC_STRING _locID="devteamnames:yumiko_furukawa"  >Yumiko Furukawa - Asystent zarządzający</LOC_STRING>
-	<LOC_STRING _locID="devteamnames:atsushi_hori"  >Atsushi Hori - Menedżer IP</LOC_STRING>
+	<LOC_STRING _locID="devteamnames:atsushi_hori"  >Atsushi Hori - IP Manager</LOC_STRING>
 	<LOC_STRING _locID="devteamnames:aya_kazama"  >Aya Kazama - Marketing</LOC_STRING>
 	<LOC_STRING _locID="devteamnames:yoko_muto"  >Yoko Muto</LOC_STRING>
 	<LOC_STRING _locID="devteamnames:junichi_taya"  >Junichi Taya</LOC_STRING>
@@ -397,7 +402,7 @@
 	<LOC_STRING _locID="devteamnames:jae_youn_kim"  >Jae Youn Kim - Kierownik programowy</LOC_STRING>
 	<LOC_STRING _locID="devteamnames:whi_young_yoon"  >Whi Young Yoon (Wise SerTech) -</LOC_STRING>
 	<LOC_STRING _locID="devteamnames:localization_program_manager"  >Kierownik programu lokalizacji</LOC_STRING>
-	<LOC_STRING _locID="devteamnames:byung_soo_kim"  >Byung Soo Kim - Kierownik ds. marketingu produktów</LOC_STRING>
+	<LOC_STRING _locID="devteamnames:byung_soo_kim"  >Byung Soo Kim - Kierownik marketingu produktów</LOC_STRING>
 	<LOC_STRING _locID="devteamnames:carole_lin"  >Carole Lin (104) -</LOC_STRING>
 	<LOC_STRING _locID="devteamnames:lana_peng"  >Lana Peng - Główny kierownik programowy</LOC_STRING>
 	<LOC_STRING _locID="devteamnames:lana_peng_program_manager"  >Lana Peng - Menedżer projektu</LOC_STRING>
@@ -461,7 +466,7 @@
 	<LOC_STRING _locID="devteamnames:ryan_mcmahon"  >Ryan McMahon</LOC_STRING>
 	<LOC_STRING _locID="devteamnames:michael_ramsey"  >Michael Ramsey</LOC_STRING>
 	<LOC_STRING _locID="devteamnames:bernie_rissmiller"  >Bernie Rissmiller</LOC_STRING>
-	<LOC_STRING _locID="devteamnames:bj_johnson"  >B.J. Johnson</LOC_STRING>
+	<LOC_STRING _locID="devteamnames:bj_johnson"  >B. J. Johnson</LOC_STRING>
 	<LOC_STRING _locID="devteamnames:leonardo_montenegro"  >Leonardo Montenegro</LOC_STRING>
 	<LOC_STRING _locID="devteamnames:keith_carpentier"  >Keith Carpentier</LOC_STRING>
 	<LOC_STRING _locID="devteamnames:rich_vanderscoff"  >Rich Vanderscoff</LOC_STRING>
@@ -476,7 +481,7 @@
 	<LOC_STRING _locID="devteamnames:dsonic"  >dSonic - www.dsonicaudio.com</LOC_STRING>
 	<LOC_STRING _locID="devteamnames:zoo_new_england"  >Zoo New England</LOC_STRING>
 	<LOC_STRING _locID="devteamnames:franklin_park_zoo"  >Franklin Park Zoo</LOC_STRING>
-	<LOC_STRING _locID="devteamnames:corporate_catering"  >Zaopatrzenie</LOC_STRING>
+	<LOC_STRING _locID="devteamnames:corporate_catering"  >Corporate Catering</LOC_STRING>
 	<LOC_STRING _locID="devteamnames:brandon_stander"  >Brandon Stander - Menedżer produktu</LOC_STRING>
 	<LOC_STRING _locID="devteamnames:jim_hawk"  >Jim Hawk - Menedżer biznesowy</LOC_STRING>
 	<LOC_STRING _locID="devteamnames:jason_major"  >Jason Major - Nadzór rozwoju produktu</LOC_STRING>
@@ -521,6 +526,13 @@
 	<LOC_STRING _locID="devteamnames:dan_higgins"  >Dan Higgins</LOC_STRING>
 	<LOC_STRING _locID="devteamnames:chris_tohline"  >Chris Tohline</LOC_STRING>
 	<LOC_STRING _locID="devteamnames:calvin_barreto"  >Calvin Barreto</LOC_STRING>
+	<LOC_STRING _locID="devteamnames:troy_annichiarico"  >Troy Annichiarico</LOC_STRING>
+	<LOC_STRING _locID="devteamnames:dylan_decoster"  >Dylan DeCoster</LOC_STRING>
+	<LOC_STRING _locID="devteamnames:vlad_paul"  >Vlad Paul</LOC_STRING>
+	<LOC_STRING _locID="devteamnames:andy_bouchard"  >Andy Bouchard</LOC_STRING>
+	<LOC_STRING _locID="devteamnames:evan_goncalo"  >Evan Goncalo</LOC_STRING>
+	<LOC_STRING _locID="devteamnames:bill_schofield"  >Bill Schofield</LOC_STRING>
+	<LOC_STRING _locID="devteamnames:justin_jones_2"  >Justin Jones</LOC_STRING>
 	<LOC_STRING _locID="xp2MSteamnames:Microsoft_Project_Team"  >Zespół Microsoft</LOC_STRING>
 	<LOC_STRING _locID="xp2MSteamnames:Production"  >Produkcja</LOC_STRING>
 	<LOC_STRING _locID="xp2MSteamnames:Deanna_Hearns"  >Deanna Hearns - Producent</LOC_STRING>
@@ -555,7 +567,7 @@
 	<LOC_STRING _locID="xp2MSteamnames:Microsoft_Quality_Assurance_Team"  >Zespół zapewnienia jakości Microsoft</LOC_STRING>
 	<LOC_STRING _locID="xp2MSteamnames:Greg_B_Jones"  >Greg B. Jones - Menedżer ds. testów grupowych</LOC_STRING>
 	<LOC_STRING _locID="xp2MSteamnames:Kyle_Shannon"  >Kyle Shannon - Menedżer testów</LOC_STRING>
-	<LOC_STRING _locID="xp2MSteamnames:Daland_Davis"  >Daland Davis - Kierownik rozowju oprogramowania testowego</LOC_STRING>
+	<LOC_STRING _locID="xp2MSteamnames:Daland_Davis"  >Daland Davis - Kierownik rozwoju oprogramowania testowego</LOC_STRING>
 	<LOC_STRING _locID="xp2MSteamnames:Andrew_Binder"  >Andrew Binder - Kierownik ds. testowania projektu</LOC_STRING>
 	<LOC_STRING _locID="xp2MSteamnames:Tim_Duzmal"  >Tim Duzmal - Inżynier ds. testów oprogramowania</LOC_STRING>
 	<LOC_STRING _locID="xp2MSteamnames:Paul_Gradwohl"  >Paul Gradwohl - Inżynier ds. testów oprogramowania</LOC_STRING>
@@ -585,7 +597,7 @@
 	<LOC_STRING _locID="xp2MSteamnames:Configuration_Testing"  >Testy konfiguracji</LOC_STRING>
 	<LOC_STRING _locID="xp2MSteamnames:Patrick_Ascolese"  >Patrick Ascolese - Kierownik ds. testów kompatybilności</LOC_STRING>
 	<LOC_STRING _locID="xp2MSteamnames:Jon_Burns"  >Jon Burns - Kierownik ds. testów kompatybilności</LOC_STRING>
-	<LOC_STRING _locID="xp2MSteamnames:Mike_Grodin"  >Mike Grodin - Inżynier ds. testów oprogramowania</LOC_STRING>
+	<LOC_STRING _locID="xp2MSteamnames:Mike_Grodin_TnT"  >Mike Grodin - Inżynier ds. testów oprogramowania</LOC_STRING>
 	<LOC_STRING _locID="xp2MSteamnames:Ernest_Wu"  >Ernest Wu (Excell Data Corporation) - Inżynier ds. testów oprogramowania</LOC_STRING>
 	<LOC_STRING _locID="xp2MSteamnames:Kyle_OBrien"  >Kyle O'Brien (Volt) - Inżynier ds. testów oprogramowania</LOC_STRING>
 	<LOC_STRING _locID="xp2MSteamnames:Setup_Team"  >Zespół ds. konfiguracji</LOC_STRING>
@@ -610,7 +622,7 @@
 	<LOC_STRING _locID="xp2MSteamnames:Tom_McManamon"  >Tom McManamon - Kierownik programowy</LOC_STRING>
 	<LOC_STRING _locID="xp2MSteamnames:Enda_Kelly"  >Enda Kelly - Zarządzanie zespołem testującym</LOC_STRING>
 	<LOC_STRING _locID="xp2MSteamnames:Steven_Garrad"  >Steven Garrad - Inżynier rozwoju oprogramowania</LOC_STRING>
-	<LOC_STRING _locID="xp2MSteamnames:Barry_OSullivan"  >Barry O’Sullivan - Analiza doświadczeń użytkowników</LOC_STRING>
+	<LOC_STRING _locID="xp2MSteamnames:Barry_OSullivan"  >Barry O'Sullivan - Analiza doświadczeń użytkowników</LOC_STRING>
 	<LOC_STRING _locID="xp2MSteamnames:Website_Production"  >Strona internetowa</LOC_STRING>
 	<LOC_STRING _locID="xp2MSteamnames:Dave_Pierot"  >Dave Pierot - Główny menedżer ds. strony internetowej</LOC_STRING>
 	<LOC_STRING _locID="xp2MSteamnames:John_Peoples"  >John Peoples - Menedżer ds. strony internetowej</LOC_STRING>
@@ -632,4 +644,110 @@
 	<LOC_STRING _locID="xp2MSteamnames:Guy_Whitmore"  >Guy Whitmore - Kierownik ds. dźwięku</LOC_STRING>
 	<LOC_STRING _locID="xp2MSteamnames:Todd_Stevens"  >Todd Stevens - Menedżer biznesowy grupy</LOC_STRING>
 	<LOC_STRING _locID="xp2MSteamnames:Frank_Pape"  >Frank Pape - Starszy kierownik ds. rozwoju biznesowego</LOC_STRING>
+	<LOC_STRING _locID="cp2MSteamnames:Production"  >Produkcja</LOC_STRING>
+	<LOC_STRING _locID="cp2MSteamnames:Tanya_Erwin"  >Tanya Erwin - Producent</LOC_STRING>
+	<LOC_STRING _locID="cp2MSteamnames:Deanna_Hearns"  >Deanna Hearns - Producent</LOC_STRING>
+	<LOC_STRING _locID="cp2MSteamnames:Marketing"  >Marketing</LOC_STRING>
+	<LOC_STRING _locID="cp2MSteamnames:Jason_Ing"  >Jason Ing - Kierownik ds. produktu</LOC_STRING>
+	<LOC_STRING _locID="cp2MSteamnames:Business_Development"  >Rozwój biznesowy</LOC_STRING>
+	<LOC_STRING _locID="cp2MSteamnames:Jim_Hawk"  >Jim Hawk - Menedżer biznesowy</LOC_STRING>
+	<LOC_STRING _locID="cp2MSteamnames:Microsoft_Development"  >Zespół produkcyjny Microsoft</LOC_STRING>
+	<LOC_STRING _locID="cp2MSteamnames:Frank_Klier"  >Frank Klier - Kierownik ds. rozwoju oprogramowania</LOC_STRING>
+	<LOC_STRING _locID="cp2MSteamnames:Microsoft_Design"  >Zespół projektowy Microsoft</LOC_STRING>
+	<LOC_STRING _locID="cp2MSteamnames:Thomas_Zuccotti"  >Thomas Zuccotti - Kierownik ds. projektu</LOC_STRING>
+	<LOC_STRING _locID="cp2MSteamnames:Bob_Settles"  >Bob Settles - Prowadzący ds. projektu</LOC_STRING>
+	<LOC_STRING _locID="cp2MSteamnames:Microsoft_Audio"  >Zespół Microsoft ds. udźwiękowienia</LOC_STRING>
+	<LOC_STRING _locID="cp2MSteamnames:Caesar_Filori"  >Caesar Filori - Kierownik dźwięku</LOC_STRING>
+	<LOC_STRING _locID="cp2MSteamnames:Mike_Cody"  >Mike Cody - Prowadzący ds. dźwięku</LOC_STRING>
+	<LOC_STRING _locID="cp2MSteamnames:Microsoft_Art"  >Zespół Microsoft ds. grafiki</LOC_STRING>
+	<LOC_STRING _locID="cp2MSteamnames:Kevin_Brown"  >Kevin Brown - Kierownik artystyczny</LOC_STRING>
+	<LOC_STRING _locID="cp2MSteamnames:Doug_McBride"  >Doug McBride - Kierownik artystyczny</LOC_STRING>
+	<LOC_STRING _locID="cp2MSteamnames:User_Research"  >Dział badania rynku</LOC_STRING>
+	<LOC_STRING _locID="cp2MSteamnames:Kevin_Goebel"  >Kevin Goebel - Główny inżynier</LOC_STRING>
+	<LOC_STRING _locID="cp2MSteamnames:Kevin_Keeker"  >Kevin Keeker - Prowadzący UR</LOC_STRING>
+	<LOC_STRING _locID="cp2MSteamnames:User_Experience"  >Dział badania doświadczeń użytkownika</LOC_STRING>
+	<LOC_STRING _locID="cp2MSteamnames:Kelly_Bell"  >Kelly Bell - Menedżer UX </LOC_STRING>
+	<LOC_STRING _locID="cp2MSteamnames:Heidi_Hendricks"  >Heidi Hendricks - Prowadzący UX </LOC_STRING>
+	<LOC_STRING _locID="cp2MSteamnames:Jon_Seal"  >Jon Seal - Tekst</LOC_STRING>
+	<LOC_STRING _locID="cp2MSteamnames:Christine_Clifton"  >Christine Clifton-Thornton (Sakson &amp; Taylor) - Tekst i redakcja</LOC_STRING>
+	<LOC_STRING _locID="cp2MSteamnames:Print_Production"  >Produkcja druku</LOC_STRING>
+	<LOC_STRING _locID="cp2MSteamnames:Chris_Lassen"  >Chris Lassen - Prowadzący ds. projektu dokumentacji</LOC_STRING>
+	<LOC_STRING _locID="cp2MSteamnames:Doug_Startzel"  >Doug Startzel (Lux Group Inc) - Projekt dokumentacji</LOC_STRING>
+	<LOC_STRING _locID="cp2MSteamnames:Microsoft_Quality"  >Zespół Microsoft QA</LOC_STRING>
+	<LOC_STRING _locID="cp2MSteamnames:Greg_B"  >Greg B. Jones - Menedżer ds. testów grupowych</LOC_STRING>
+	<LOC_STRING _locID="cp2MSteamnames:Kyle_Shannon"  >Kyle Shannon - Kierownik testów</LOC_STRING>
+	<LOC_STRING _locID="cp2MSteamnames:Daland_Davis"  >Daland "Dalvanor" Davis - Inżynier prowadzący ds. testów oprogramowania</LOC_STRING>
+	<LOC_STRING _locID="cp2MSteamnames:Mark_Amos"  >Mark Amos - Inżynier ds. testów oprogramowania</LOC_STRING>
+	<LOC_STRING _locID="cp2MSteamnames:Carolyn_Gold"  >Carolyn Gold - Inżynier ds. testów oprogramowania</LOC_STRING>
+	<LOC_STRING _locID="cp2MSteamnames:Brian_Yu"  >Brian Yu - Inżynier ds. testów oprogramowania</LOC_STRING>
+	<LOC_STRING _locID="cp2MSteamnames:Derek_Mantey"  >Derek Mantey - Inżynier ds. testów oprogramowania</LOC_STRING>
+	<LOC_STRING _locID="cp2MSteamnames:Steve_Robinson"  >Steve Robinson - Inżynier ds. testów oprogramowania</LOC_STRING>
+	<LOC_STRING _locID="cp2MSteamnames:Michael_McCormack"  >Michael McCormack - Inżynier ds. testów oprogramowania</LOC_STRING>
+	<LOC_STRING _locID="cp2MSteamnames:Greg_Hjertager"  >Greg Hjertager - Inżynier ds. testów oprogramowania</LOC_STRING>
+	<LOC_STRING _locID="cp2MSteamnames:Mike_Grodin"  >Mike Grodin - Inżynier ds. testów oprogramowania</LOC_STRING>
+	<LOC_STRING _locID="cp2MSteamnames:Alison_Burkley"  >Alison Burkley (Excell Data Corporation) - Współpracownik</LOC_STRING>
+	<LOC_STRING _locID="cp2MSteamnames:Brett_Dupree"  >Brett Dupree (Volt) - Inżynier ds. testów oprogramowania</LOC_STRING>
+	<LOC_STRING _locID="cp2MSteamnames:John_Thomas"  >John Thomas (Volt) - Inżynier ds. testów oprogramowania</LOC_STRING>
+	<LOC_STRING _locID="cp2MSteamnames:Sarah_Bowman"  >Sarah Bowman (Volt) - Współpracownik</LOC_STRING>
+	<LOC_STRING _locID="cp2MSteamnames:Craig_Marshall"  >Craig Marshall - Zastępczy inżynier prowadzący ds. testów oprogramowania</LOC_STRING>
+	<LOC_STRING _locID="cp2MSteamnames:Mark_McAllister"  >Mark McAllister - Inżynier prowadzący testów oprogramowania</LOC_STRING>
+	<LOC_STRING _locID="cp2MSteamnames:Colin_Forbes"  >Colin Forbes (Volt) - Współpracownik</LOC_STRING>
+	<LOC_STRING _locID="cp2MSteamnames:Grayson_Nootenboom"  >Grayson Nootenboom (Volt) - Współpracownik</LOC_STRING>
+	<LOC_STRING _locID="cp2MSteamnames:Nicholas_Roth"  >Nicholas Roth  (Volt) - Współpracownik</LOC_STRING>
+	<LOC_STRING _locID="cp2MSteamnames:Benjamin_Folden"  >Benjamin Folden (Volt)  - Współpracownik</LOC_STRING>
+	<LOC_STRING _locID="cp2MSteamnames:Donnie_Taylor"  >Donnie Taylor (Volt) - Współpracownik</LOC_STRING>
+	<LOC_STRING _locID="cp2MSteamnames:Ann_Thomas"  >Ann Thomas (Volt) - Współpracownik</LOC_STRING>
+	<LOC_STRING _locID="cp2MSteamnames:Chad_Hale"  >Chad Hale (Volt) - Współpracownik</LOC_STRING>
+	<LOC_STRING _locID="cp2MSteamnames:Kevin_Sherard"  >Kevin Sherard (Volt) - Współpracownik</LOC_STRING>
+	<LOC_STRING _locID="cp2MSteamnames:Ross_Little"  >Ross Little (Excell Data Corporation) - Współpracownik</LOC_STRING>
+	<LOC_STRING _locID="cp2MSteamnames:Stephen_Bonikowsky"  >Stephen Bonikowsky (Excell Data Corporation) - Współpracownik</LOC_STRING>
+	<LOC_STRING _locID="cp2MSteamnames:XNA_Game"  >XNA Rozszerzenia platformy gry</LOC_STRING>
+	<LOC_STRING _locID="cp2MSteamnames:Chris_Lee"  >Chris Lee - Inżynier prowadzący ds. testów oprogramowania</LOC_STRING>
+	<LOC_STRING _locID="cp2MSteamnames:Jon_Burns_Test"  >Jon Burns - Inżynier projektu oprogramowania i testowania</LOC_STRING>
+	<LOC_STRING _locID="cp2MSteamnames:Marwan_Jubran"  >Marwan Jubran - Inżynier ds. rozwoju oprogramowania</LOC_STRING>
+	<LOC_STRING _locID="cp2MSteamnames:Mike_Ruete"  >Mike Ruete - Inżynier ds. rozwoju oprogramowania</LOC_STRING>
+	<LOC_STRING _locID="cp2MSteamnames:Kazuyuki_Shibuya"  >Kazuyuki Shibuya - Inżynier ds. rozwoju oprogramowania</LOC_STRING>
+	<LOC_STRING _locID="cp2MSteamnames:Configuration_Testing"  >Testy konfiguracji</LOC_STRING>
+	<LOC_STRING _locID="cp2MSteamnames:Patrick_Ascolese"  >Patrick Ascolese - Kierownik testów kompatybilności</LOC_STRING>
+	<LOC_STRING _locID="cp2MSteamnames:Jon_Burns"  >Jon Burns - Kierownik testów kompatybilności</LOC_STRING>
+	<LOC_STRING _locID="cp2MSteamnames:Mike_Grodin_Config"  >Mike Grodin - Inżynier ds. testów oprogramowania</LOC_STRING>
+	<LOC_STRING _locID="cp2MSteamnames:Ernest_Wu"  >Ernest Wu (Excell Data Corporation) - Inżynier ds. testów oprogramowania</LOC_STRING>
+	<LOC_STRING _locID="cp2MSteamnames:Kyle_OBrien"  >Kyle O'Brien (Volt) - Inżynier ds. testów oprogramowania</LOC_STRING>
+	<LOC_STRING _locID="cp2MSteamnames:Setup_Team"  >Zespół instalatora</LOC_STRING>
+	<LOC_STRING _locID="cp2MSteamnames:Brandon_Burlison"  >Brandon Burlison - Inżynier ds. rozwoju oprogramowania</LOC_STRING>
+	<LOC_STRING _locID="cp2MSteamnames:Gabriel_Sipos"  >Gabriel Sipos (Siemens Business Services Inc) - Inżynier rozwoju oprogramowania</LOC_STRING>
+	<LOC_STRING _locID="cp2MSteamnames:Product_Support"  >Wsparcie produktu</LOC_STRING>
+	<LOC_STRING _locID="cp2MSteamnames:Greg_Frankovic"  >Greg Frankovic - Starszy kierownik programowy</LOC_STRING>
+	<LOC_STRING _locID="cp2MSteamnames:Diana_Leon"  >Diana Leon - Główny technik</LOC_STRING>
+	<LOC_STRING _locID="cp2MSteamnames:Microsoft_Globalization"  >Zespoły globalizacyjne Microsoft</LOC_STRING>
+	<LOC_STRING _locID="cp2MSteamnames:Yasmine_Nelson"  >Yasmine Nelson - Międzynarodowy menedżer prowadzący ds. programu</LOC_STRING>
+	<LOC_STRING _locID="cp2MSteamnames:Tina_Lin"  >Tina Lin - Międzynarodowy menedżer ds. programu</LOC_STRING>
+	<LOC_STRING _locID="cp2MSteamnames:Dublin"  >Dublin</LOC_STRING>
+	<LOC_STRING _locID="cp2MSteamnames:Gary_Smith"  >Gary Smith - Kierownik projektu</LOC_STRING>
+	<LOC_STRING _locID="cp2MSteamnames:Enda_Kelly"  >Enda Kelly - Zarządzanie zespołem testującym</LOC_STRING>
+	<LOC_STRING _locID="cp2MSteamnames:Steven_Garrad"  >Steven Garrad - Inżynier</LOC_STRING>
+	<LOC_STRING _locID="cp2MSteamnames:Francesco_Sansone"  >Francesco Sansone - Tester</LOC_STRING>
+	<LOC_STRING _locID="cp2MSteamnames:Ben_Cahill"  >Ben Cahill - Międzynarodowy menedżer ds. projektu</LOC_STRING>
+	<LOC_STRING _locID="cp2MSteamnames:Website_Production"  >Strona internetowa</LOC_STRING>
+	<LOC_STRING _locID="cp2MSteamnames:Dave_Pierot"  >Dave Pierot - Główny menedżer ds. strony internetowej</LOC_STRING>
+	<LOC_STRING _locID="cp2MSteamnames:John_Peoples"  >John Peoples - Menedżer ds. strony internetowej</LOC_STRING>
+	<LOC_STRING _locID="cp2MSteamnames:Jeannie_Voirin"  >Jeannie Voirin-Gerde - Główny projektant</LOC_STRING>
+	<LOC_STRING _locID="cp2MSteamnames:Matt_Sokolowski"  >Matt Sokolowski (Bullvision Communications) - Projektant WWW</LOC_STRING>
+	<LOC_STRING _locID="cp2MSteamnames:Daniel_Hailemariam"  >Daniel Hailemariam (LUX Group Inc) - Produkcja WWW</LOC_STRING>
+	<LOC_STRING _locID="cp2MSteamnames:Jason_Graf"  >Jason Graf - Główny inżynier ds. rozwoju oprogramowania</LOC_STRING>
+	<LOC_STRING _locID="cp2MSteamnames:Chris_Barney"  >Chris Barney (Siemens Business Services Inc) - Inżynier ds. rozwoju oprogramowania</LOC_STRING>
+	<LOC_STRING _locID="cp2MSteamnames:Susan_Clark"  >Susan Clark (Volt) - Kierownik projektu</LOC_STRING>
+	<LOC_STRING _locID="cp2MSteamnames:Tina_Lin_Website"  >Tina Lin - Międzynarodowy kierownik ds. programu</LOC_STRING>
+	<LOC_STRING _locID="cp2MSteamnames:Publishing_Management"  >Działalność wydawnicza</LOC_STRING>
+	<LOC_STRING _locID="cp2MSteamnames:Bonnie_Ross"  >Bonnie Ross - Dyrektor generalny</LOC_STRING>
+	<LOC_STRING _locID="cp2MSteamnames:Phil_Spencer"  >Phil Spencer - Dyrektor generalny</LOC_STRING>
+	<LOC_STRING _locID="cp2MSteamnames:Ken_Lobb"  >Ken Lobb - Kierownik kreatywny</LOC_STRING>
+	<LOC_STRING _locID="cp2MSteamnames:Laura_Fryer"  >Laura Fryer - Producent wykonawczy</LOC_STRING>
+	<LOC_STRING _locID="cp2MSteamnames:Tony_Cox"  >Tony Cox - Kierownik ds. rozwoju</LOC_STRING>
+	<LOC_STRING _locID="cp2MSteamnames:Kiki_Wolfkill"  >Kiki Wolfkill - Kierownik ds. grafiki</LOC_STRING>
+	<LOC_STRING _locID="cp2MSteamnames:Josh_Atkins"  >Josh Atkins - Kierownik ds. projektu</LOC_STRING>
+	<LOC_STRING _locID="cp2MSteamnames:Guy_Whitmore"  >Guy Whitmore - Kierownik ds. dźwięku</LOC_STRING>
+	<LOC_STRING _locID="cp2MSteamnames:Todd_Stevens"  >Todd Stevens - Menedżer biznesowy grupy</LOC_STRING>
+	<LOC_STRING _locID="cp2MSteamnames:Nick_Dimitrov"  >Nick Dimitrov - Menedżer biznesowy grupy</LOC_STRING>
+	<LOC_STRING _locID="cp2MSteamnames:Frank_Pape"  >Frank Pape - Starszy kierownik ds. rozwoju biznesowego</LOC_STRING>
 </ZT2Strings>

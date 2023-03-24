@@ -1,0 +1,231 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<ZT2Strings>
+	<LOC_STRING _locID="zoopedia_beluga" version="9" />
+	<LOC_STRING _locID="zoopedia_beluga:entry" version="9"  >Białucha</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_beluga:text" version="9"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/Beluga/Beluga_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>						 
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/vulnerable.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Stopień zagrożenia:
+                     <br/>
+                        <color r="255" g="255" b="0">
+                     Średnie zagrożenie
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+				 <cell width="128">
+				  <color r="255" g="255" b="255">Tundra<br/></color>
+				  <img src="ui/icon_biomes/icon_tundra.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+				 </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Ocean Arktyczny</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/tundra_arctic_ocean.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Gromada: Ssaki <i>(Mammalia)</i>
+                  <br/>
+                  Rząd: Walenie <i>Cetacea</i>
+                  <br/>
+                  Rodzina: <i>Monodontidae</i>
+                  <br/>
+                  Rodzaj: <i>Delphinapterus</i>
+                  <br/>
+                  Gatunek: <i>leucas</i>
+                  </color>
+               </cell>
+				 <cell width="256" pady="10">
+				  <img src="UI/zoopedia/biome/tundra_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+				 </cell>				 
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Ciekawostki</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Białuchy zaraz po urodzeniu mają barwę ciemno-szarą, brązową lub czarną. Biały kolor przybierają stopniowo aż do piątego roku życia.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Białuchy mogą pływać zarówno do przodu, jak i do tyłu!</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Białuchy nie przeżuwają pożywienia - połykają je w całości.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Białuchy polują na ryby w strefach przydennych płytkich wód.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Giętki kark białuchy pozwala jej swobodnie się poruszać podczas jedzenia. Zwierzę to potrafi też za jego pomocą wytworzyć potężny efekt ssący, by móc wchłonąć stworzenia uciekające mu z pyska!</color>
+               </cell>                
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">By odblokować białuchę w trybie wyzwania lub kampanii, musisz zdobyć status 1/2 gwiazdki dla swojego zoo.</color>
+            <p/>Białucha to uzębiony waleń, mocno spokrewniony z delfinem, z wyraźnie zaznaczoną głową i krótkimi płetwami. Białuchy (których nazwa pochodzi od rosyjskiego słowa "bieluha" - "biały") mają po urodzeniu kolor czarny lub brunatny i nie posiadają płetwy grzbietowej. Biały kolor przyjmują w wieku 5 lat. Samce osiągają długość maksymalną 7 metrów; samice są nieco mniejsze. Białuchy podróżują w stadach liczących kilka tysięcy osobników, żywią się rybami, ośmiornicami, krabami, ślimakami i kalmarami. Są gatunkiem powszechnie występującym w Oceania Arktycznym, ale zapuszczają się w swych wędrówkach aż do wód w okolicach New Jersey w USA lub ujścia Renu w Europie.     
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Informacje pochodzą z <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft&#xAE; Encarta&#xAE; 2006.</color></u></a> &#xA9; 1993&#x96;2005 Microsoft Corporation. Wszystkie prawa zastrzeżone.
+         </cell>         
+      </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_penguinrockhopper" version="9" />
+	<LOC_STRING _locID="zoopedia_penguinrockhopper:entry" version="9"  >Pingwin, skalny</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_penguinrockhopper:text" version="9"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/PenguinRockhopper/PenguinRockhopper_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/PenguinRockhopper/PenguinRockhopper_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>							 
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>						 
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/vulnerable.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Stopień zagrożenia:
+                     <br/>
+                        <color r="255" g="255" b="0">
+                     Średnie zagrożenie
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+				 <cell width="128">
+				  <color r="255" g="255" b="255">Wody przybrzeżne<br/></color>
+				  <img src="ui/icon_biomes/icon_coastal.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+				 </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Wyspy południowych oceanów</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/coastal_southern_ocean_islands.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Gromada: Ptaki <i>Aves</i>
+                  <br/>
+                  Rząd: Pingwiny <i>Sphenisciformes</i>
+                  <br/>
+                  Rodzina: <i>Spheniscidae</i>
+                  <br/>
+                  Rodzaj: <i>Eudyptes</i>
+                  <br/>
+                  Gatunek: <i>chrysocome</i>
+                  </color>
+               </cell>
+				 <cell width="256" pady="10">
+				  <img src="UI/zoopedia/biome/coastal_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+				 </cell>				 
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Ciekawostki</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Samice tego ptaka składają zwykle dwa jaja w okresie godowym, ale tylko jedno jest wysiadywane.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Pingwiny skalne osiągają wiek około 10 lat.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">By przyciągnąć partnerkę, samce pingwina skalnego potrząsają głową, by uwidocznić swoje żółto zabarwione pióropusze.</color>
+               </cell>                 
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">By odblokować pingwina skalnego w trybie wyzwania lub kampanii, musisz zdobyć status 2 gwiazdek dla swojego zoo.</color>
+            <p/>Pingwiny te zyskały swoją nazwę dzięki charakterystycznemu, skokowemu sposobowi poruszania się po skałach wybrzeży, na których żyją. Są one gatunkiem sub-antarktycznym, zamieszkującym przede wszystkim południowe wyspy, na przykład Falklandy, Antypody i wyspę Macquarie.
+            <p/>Posiadające wspaniałe pióropusze, czerwonookie pingwiny skalne są bardzo agresywne. Często walczą między sobą o najlepsze miejsca na gniazdo na skalistym terenie, który zamieszkują. Ptaki te są niewielkich rozmiarów, ale ich mocne stopy wyposażone są w błonę pławną i skrzydła czynią z nich wspaniałych myśliwych i pływaków.
+				<p/>Pingwiny skalne polują na ryby z rodziny świetlikowatych, kryl i czasami małe kalmary; same zaś stają się ofiarami rekinów błękitnych i fok, a pisklęta i jaja są narażone na ataki mew i innych ptaków.
+				<p/>Ptaki te budują swoje gniazda na skalistych wybrzeżach, dlatego umiejętność wyskoczenia z wody prosto na skałę jest bardzo ważną cechą pozwalającą im przetrwać w środowisku.  
+         </cell>        
+      </LOC_STRING>
+</ZT2Strings>
