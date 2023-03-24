@@ -1,0 +1,136 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_antelopesablegiant" version="2"/>
+      <LOC_STRING _locID="zoopedia_antelopesablegiant:entry" version="2">Palanca negra gigante</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_antelopesablegiant:text" version="2">
+  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">   
+
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/AntelopeSableGiant/AntelopeSableGiant_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/AntelopeSableGiant/AntelopeSableGiant_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>						 
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/critical.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Status de preservação:
+                     <br/>
+                        <color r="255" g="0" b="0">
+                     Em vias de extinção
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>   
+   
+    <cell width="128">
+     <color r="255" g="255" b="255">Savana<br/></color>
+     <img src="ui/icon_biomes/icon_savannah.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+    </cell>
+    <cell width="128">
+     <color r="255" g="255" b="255">África do Sul<br/></color>
+     <img src="ui/icon_maplocations/Savannah_Africa_South_GiantSable.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+    </cell>
+    <br/>
+    <cell width="284" pady="10">
+     <color r="255" g="255" b="255">
+      Classe: Mamíferos <i>(Mammalia)</i><br/>
+      Ordem: Artiodáctilos <i>(Artiodactyla)</i><br/>
+      Família: Bovídeos <i>(Bovidae)</i><br/>
+      Gênero: <i>Hippotragus</i><br/>
+      Espécie: <i>niger</i><br/>
+      Subespécie:  <i>variani</i>
+     </color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="UI/zoopedia/biome/savannah_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Fatos interessantes sobre a palanca negra gigante</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Os incríveis chifres curvos da palanca negra gigante podem atingir até 1,5 metro de comprimento.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>        
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Se uma palanca negra gigante perder seus chifres, eles não crescerão novamente.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Esse animal pode atingir velocidades de até 56 km/h e sustentá-las por uma certa distância.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">A sobrevivência da palanca negra gigante tem sido ameaçada por 27 anos de guerra civil em Angola, seu território nativo.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Somente 1.000 palancas negras gigantes sobrevivem no mundo, todas na região central de Angola, na Reserva de Luando e no Parque Nacional de Cangandala.</color>
+    </cell>    
+    <br/> 
+   </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178">
+    Para receber a palanca negra gigante em jogos de desafio ou campanha, você deve ganhar uma reputação de 2 estrelas para o seu zoológico.
+   </color>
+   <p/>
+Antílope é o nome comum aplicado a um grupo diverso de mamíferos de chifres ocos, que pertencem à mesma família dos bovídeos, caprídeos e ovídeos. Cerca de 100 espécies de antílopes vivem na África e na Ásia, incluindo alguns dos mamíferos ungulados mais velozes e mais elegantes do mundo, bem como alguns dos mais ameaçados de extinção.
+   <p/>
+Palanca é o nome comum para antílopes corpulentos de constituição eqüina (subfamília Hippotraginae), mas que não podem ser confundidos com cavalos de verdade, por possuírem chifres muito grandes. São conhecidas sete espécies, entre as quais podemos citar a palanca negra, a palanca vermelha, o órix e o ádax. Vivem na África e na Península Arábica, em diversos hábitats, de florestas a desertos. Caçadores de troféus apreciam os chifres das palancas, um fato que tem levado alguns desses animais à beira da extinção.
+   <p/>
+Ao contrário do veado, que tem chifres ramificados que são trocados anualmente, as palancas possuem chifres pontiagudos que mantêm durante toda a vida. Os chifres da palanca podem crescer até 1,5 m de comprimento; eles têm uma aparência assustadora, mas seu poder como arma é limitado. Existem registros de palancas empalando (atravessando com o chifre) e matando predadores do tamanho de leões, mas quando estão em perigo, geralmente, as palancas fogem.
+   <p/>
+As palancas são ruminantes, animais que regurgitam o alimento parcialmente digerido, chamado de bolo alimentar dos ruminantes, e o mastigam novamente. Como outros ruminantes, incluindo os bovinos e ovinos, as palancas têm dentes molares bem desenvolvidos, que trituram o bolo alimentar até formar uma polpa. Como eles não têm incisos superiores, para cortar hastes de grama ou folhas, pressionam os incisos inferiores contra uma almofada dura da gengiva superior, ao morderem.
+   <p/>
+Ao comer ou descansar, as palancas confiam em seus sentidos aguçados para evitar perigos. Seus olhos são laterais, e as pupilas são alongadas horizontalmente, o que oferece a esses animais uma boa visão de perigo atrás e na frente. A audição e o olfato também são sensíveis, constituindo recursos valiosos para a sobrevivência em campo aberto, onde muitos predadores rondam à noite.
+   <p/>
+Para sobreviver, as palancas confiam em sua habilidade de reconhecer o perigo e fugir rapidamente. Esse sistema de defesa permite que elas escapem da maioria dos predadores do ambiente selvagem, mas oferece apenas proteção parcial contra os caçadores humanos interessados na pele, nos chifres ou na carne desses animais, e não oferece nenhuma proteção contra todas as alterações em seu hábitat.
+  </cell>
+  <p/>
+  <cell width="260"/>
+  <cell width="620">
+   Conteúdo original fornecido por cortesia da <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2005.</color></u></a>(C) 1993-2004 Microsoft Corporation. Todos os direitos reservados.
+  </cell>
+ </LOC_STRING>
+
+</ZT2Strings>

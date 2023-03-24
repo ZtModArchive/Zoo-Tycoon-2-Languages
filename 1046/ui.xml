@@ -294,7 +294,7 @@
          <color r="255" g="248" b="178">
             <b>Excluir todas as fotos da câmera</b>
          </color>
-         <br>Clique para excluir todas as fotos da câmera. As fotos que estão no álbum não serão excluídas.</br>
+         <br>Clique para excluir todas as fotos da câmera. As fotos que estão em álbuns não serão excluídas.</br>
       </LOC_STRING>
       <LOC_STRING _locID="confirm:delete_camera_pics_cancel_button_stt">Cancelar</LOC_STRING>
       <LOC_STRING _locID="confirm:delete_camera_pics_cancel_button_ltt">
@@ -1538,11 +1538,11 @@
             </color>
          </font>
       </LOC_STRING>
-      <LOC_STRING _locID="entityinfo:conservation_critical_stt">Crítica</LOC_STRING>
+      <LOC_STRING _locID="entityinfo:conservation_critical_stt">Em vias de extinção</LOC_STRING>
       <LOC_STRING _locID="entityinfo:conservation_critical">
          <font name="arial" size="9" shadowx="-1" shadowy="1" shadowa="64">
             <color r="255" g="255" b="255">
-               <b>Crítica</b>
+               <b>Em vias de extinção</b>
             </color>
          </font>
       </LOC_STRING>
@@ -1668,7 +1668,7 @@
          </color>
          <br>Clique para abrir a estação para os visitantes fazerem tours ou passeios.</br>
       </LOC_STRING>
-      <LOC_STRING _locID="entityinfo:close_station_stt">Fechar a estação</LOC_STRING>
+      <LOC_STRING _locID="entityinfo:close_station_stt">Fechar estação</LOC_STRING>
       <LOC_STRING _locID="entityinfo:close_station_ltt">
          <color r="255" g="248" b="178">
             <b>Fechar estação</b>
@@ -1863,7 +1863,7 @@
          <color r="255" g="248" b="178">
             <b>Mostrar ou ocultar área de observação para visitantes</b>
          </color>
-         <br>Clique para mostrar o modo de filtro de visitantes e saber como os visitantes vêem o seu zoológico.</br>
+         <br>Clique para mostrar o filtro de observação para visitantes e saber se eles podem ver bem o seu zoológico.</br>
       </LOC_STRING>
       <LOC_STRING _locID="filter:elevated_path_opaque_button_stt">Mostrar trilha elevada</LOC_STRING>
       <LOC_STRING _locID="filter:elevated_path_opaque_button_ltt">
@@ -2082,7 +2082,7 @@
          <color r="255" g="248" b="178">
             <b>Gerenciador de perfis</b>
          </color>
-         <br>Clique para gerenciar seus perfis de jogador. Você pode adicionar novos perfis, além de carregar ou excluir perfis existentes.</br>
+         <br>Clique para gerenciar seus perfis de jogadores. Você pode adicionar novos perfis, além de carregar ou excluir perfis existentes.</br>
       </LOC_STRING>
       <LOC_STRING _locID="mainmenu:profile_manger_close_button_stt">Fechar Gerenciador de perfis</LOC_STRING>
       <LOC_STRING _locID="mainmenu:profile_manger_close_button_ltt">
@@ -2116,7 +2116,7 @@
       </LOC_STRING>
       <LOC_STRING _locID="mainmenu:legalcopy2">
          <font name="arial" size="10" shadowx="0" shadowy="0">
-            <b>Desenvolvido pela Blue Fang Games™ para Microsoft Corporation.</b>
+            <b>Desenvolvido pela Blue Fang Games para a Microsoft Corporation.</b>
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="mainmenu:legalcopy3">
@@ -2378,10 +2378,10 @@
             </color>
          </font>
       </LOC_STRING>
-      <LOC_STRING _locID="multilist:guest_sort_type_stt">Classif. por gênero/idade</LOC_STRING>
+      <LOC_STRING _locID="multilist:guest_sort_type_stt">Classif. por sexo/idade</LOC_STRING>
       <LOC_STRING _locID="multilist:guest_sort_type_ltt">
          <color r="255" g="248" b="178">
-            <b>Classif. por gênero/idade</b>
+            <b>Classif. por sexo/idade</b>
          </color>
          <br>Clique para classificar a lista de visitantes por sexo e idade.</br>
       </LOC_STRING>
@@ -2397,7 +2397,7 @@
          <color r="255" g="248" b="178">
             <b>Classif. por animal favorito</b>
          </color>
-         <br>Clique para classificar a lista de visitantes com base em seu animal favorito.</br>
+         <br>Clique para classificar a lista de visitantes com base em seus animais favoritos.</br>
       </LOC_STRING>
       <LOC_STRING _locID="multilist:guest_sort_hunger_stt">Classificar por fome</LOC_STRING>
       <LOC_STRING _locID="multilist:guest_sort_hunger_ltt">
@@ -2843,17 +2843,17 @@
       </LOC_STRING>
       <LOC_STRING _locID="options:highres">
          <font name="arial" size="10">
-            <b>1280x1024</b>
+            <b>1280 x 1024</b>
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="options:mediumres">
          <font name="arial" size="10">
-            <b>1024x768</b>
+            <b>1024 x 768</b>
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="options:lowres">
          <font name="arial" size="10">
-            <b>800x600</b>
+            <b>800 x 600</b>
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="options:soundoptions">
@@ -3828,14 +3828,14 @@
          <color r="255" g="248" b="178">
             <b>Benefícios do animal</b>
          </color>
-         <br>Clique para exibir os brinquedos e outros benefícios que podem ser comprados para os animais.</br>
+         <br>Clique para exibir os brinquedos e outros benefícios que você pode comprar para os animais.</br>
       </LOC_STRING>
       <LOC_STRING _locID="shell:animal_food_tab_stt">Alimentos</LOC_STRING>
       <LOC_STRING _locID="shell:animal_food_tab_ltt">
          <color r="255" g="248" b="178">
             <b>Alimentos</b>
          </color>
-         <br>Clique para exibir os tipos de comida que podem ser comprados para os animais.</br>
+         <br>Clique para exibir os tipos de comida que você pode comprar para os animais. </br>
       </LOC_STRING>
       <LOC_STRING _locID="shell:animal_food_buy_area_label">
          <font name="arial" size="10" shadowx="1" shadowy="1" shadowa="32">
@@ -3849,7 +3849,7 @@
          <color r="255" g="248" b="178">
             <b>Abrigos de animais</b>
          </color>
-         <br>Clique para exibir os tipos de abrigos que você pode comprar para seus animais. </br>
+         <br>Clique para exibir os tipos de abrigos que você pode comprar para os animais. </br>
       </LOC_STRING>
       <LOC_STRING _locID="shell:animal_shelter_buy_area_label">
          <font name="arial" size="10" shadowx="1" shadowy="1" shadowa="32">
@@ -3898,7 +3898,7 @@
          <color r="255" g="248" b="178">
             <b>Objetos para o cenário</b>
          </color>
-         <br>Clique para exibir os objetos para o cenário que você pode comprar para o zoológico, incluindo bancos, lixeiras, arcos decorativos, chafarizes e estátuas.</br>
+         <br>Clique para exibir os objetos que você pode comprar para o cenário do zoológico, incluindo bancos, lixeiras, arcos decorativos, chafarizes e estátuas.</br>
       </LOC_STRING>
       <LOC_STRING _locID="shell:structures_building_tab_stt">Construções</LOC_STRING>
       <LOC_STRING _locID="shell:structures_building_tab_ltt">
@@ -3970,7 +3970,7 @@
          <color r="255" g="248" b="178">
             <b>Uniformizar terreno</b>
          </color>
-         <br>Selecione Uniformizar terreno. Clique ou clique e mantenha pressionado no terreno para torná-lo acidentado uniforme ou criar colinas uniformes.</br>
+         <br>Selecione o pincel Uniformizar terreno. Clique ou clique e mantenha pressionado no terreno para uniformizá-lo ou para criar colinas uniformes.</br>
       </LOC_STRING>
       <LOC_STRING _locID="shell:cliff_brush_button_stt">Criar penhasco</LOC_STRING>
       <LOC_STRING _locID="shell:cliff_brush_button_ltt">
@@ -4340,7 +4340,7 @@
          </color>
          <br>Clique para alternar entre jogo ativado e pausa.</br>
          <br/>
-         <color r="255" g="248" b="178">(Tecla de acesso: P ou Pausar)</color>
+         <color r="255" g="248" b="178">(Tecla de acesso: P ou Pause)</color>
       </LOC_STRING>
       <LOC_STRING _locID="shell:pause_game_label">
          <font name="arial" size="24" image="ui\font\color_mainmenu.tga" shadowx="-1" shadowy="1">
@@ -5079,7 +5079,7 @@
          <color r="255" g="248" b="178">
             <b>Animais interessantes</b>
          </color>
-         <br>Os visitantes gostam de ver animais saudáveis, satisfeitos e ativos. Além disso, apreciam animais raros e exóticos. Para garantir isso, certifique-se de que os animais estão satisfeitos e têm muitas atividades com que se ocupar, e que os visitantes podem vê-los de perto.</br>
+         <br>Os visitantes gostam de ver animais saudáveis, satisfeitos e ativos. Além disso, apreciam animais raros e exóticos. Para garantir isso, certifique-se de que os animais estão satisfeitos e têm muitas atividades com que se ocupar, e de que os visitantes podem vê-los de perto.</br>
       </LOC_STRING>
       <LOC_STRING _locID="zoostatus:zoo_fame_guest_average_happiness_label">Satisfação do visitante</LOC_STRING>
       <LOC_STRING _locID="zoostatus:zoo_fame_guest_average_happiness_ltt">
@@ -5107,7 +5107,7 @@
          <color r="255" g="248" b="178">
             <b>Devolver ao hábitat natural</b>
          </color>
-         <br>A devolução de animais ao hábitat natural aumenta a reputação do zoológico. Você não vai querer perder essa reputação.</br>
+         <br>A devolução de animais ao hábitat natural aumenta a reputação do zoológico. Não vacile.</br>
       </LOC_STRING>
       <LOC_STRING _locID="zoostatus:graph_value_tab_stt">Valor do zoológico</LOC_STRING>
       <LOC_STRING _locID="zoostatus:graph_value_tab_ltt">Clique para ver o valor do zoológico no decorrer do tempo.</LOC_STRING>
