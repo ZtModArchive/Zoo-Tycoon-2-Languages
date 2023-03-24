@@ -1,0 +1,72 @@
+﻿<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_endangeredanimalsfence:entry">Cerca para espécies ameaçadas</LOC_STRING> <LOC_STRING _locID="zoopedia_endangeredanimalsfence:text">
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255"><img src="entities\objects\fences\mosaic_end\mosaic_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+A cerca com o tema de espécies ameaçadas é mais adequada às jaulas para animais ameaçados de extinção, como o cavalo selvagem de Przewalski ou o órix cimitarra. Também é possível usar essa cerca para a criação de áreas públicas temáticas atraentes próximas às jaulas dos animais.</color>
+    </cell>
+   </cell>
+  </LOC_STRING> <LOC_STRING _locID="zoopedia_conservationfences:entry">Cercas de conservação</LOC_STRING> <LOC_STRING _locID="zoopedia_conservationfences:text">
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255"><img src="entities\objects\fences\conservation_df\conservation_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+As cercas de conservação são usadas para conter <a href="zoopedia:zoopedia_conservationarea:entry"><u><color r="255" g="231" b="135">áreas de conservação protegidas especiais.</color></u></a> Não é possível vender ou reciclar essas cercas.</color>
+    </cell>
+   </cell>
+  </LOC_STRING> <LOC_STRING _locID="zoopedia_mosaicwindow:entry">Cerca com janelas para espécies ameaçadas</LOC_STRING> <LOC_STRING _locID="zoopedia_mosaicwindow:text">
+      <cell pady="0" width="1000"/>
+      <p/>
+      <cell width="260"/>
+      <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+         <cell width="600" padx="20" pady="20">
+            <color r="255" g="255" b="255"><img src="entities\objects\fences\mosaicwindow_end\mosaicwindow_end_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+            <p/>
+A cerca com janelas para espécies ameaçadas combina a segurança de uma cerca alta com uma vista sem obstruções para o visitante. A cerca com o tema de espécies ameaçadas é mais adequada às jaulas para espécies ameaçadas de extinção, como o cavalo selvagem de Przewalski ou o órix cimitarra.</color>
+         </cell>
+      </cell>
+   </LOC_STRING> <LOC_STRING _locID="zoopedia_vehiclegate:entry">Portão de veículos</LOC_STRING> <LOC_STRING _locID="zoopedia_vehiclegate:text">
+      <cell pady="0" width="1000"/>
+      <p/>
+      <cell width="260"/>
+      <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+         <cell width="600" padx="20" pady="20">
+            <color r="255" g="255" b="255"><img src="entities\objects\fences\vehiclegate_end\vehiclegate_end_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+            <p/>
+Os portões de veículos permitem a entrada dos veículos terrestres e a saída das jaulas dos animais. Para impedir a fuga dos animais, esse portão mecânico é fechado automaticamente após a passagem do veículo.</color>
+         </cell>
+      </cell>
+   </LOC_STRING> <LOC_STRING _locID="zoopedia_vehiclegate_reward:entry">Portão de veículos decorado</LOC_STRING> <LOC_STRING _locID="zoopedia_vehiclegate_reward:text">
+      <cell pady="0" width="1000"/>
+      <p/>
+      <cell width="260"/>
+      <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+         <cell width="600" padx="20" pady="20">
+            <color r="255" g="255" b="255"><img src="entities\objects\fences\vehiclegate_reward_end\vehiclegate_end_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+            <p/>
+Os portões de veículos permitem a entrada dos veículos terrestres e a saída das jaulas dos animais. Para impedir a fuga dos animais, esse portão mecânico é fechado automaticamente após a passagem do veículo.
+            <p/>
+É necessário concluir a campanha de Transporte para desbloquear o portão decorado de veículos.</color>
+         </cell>
+      </cell>
+   </LOC_STRING> <LOC_STRING _locID="zoopedia_wroughtiron:entry">Cercas baixas de ferro batido</LOC_STRING> <LOC_STRING _locID="zoopedia_wroughtiron:text">
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255"><img src="entities\objects\fences\wroughtiron_df\wroughtiron_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+O ferro batido é um material sólido que pode ser transformado em formas decorativas elegantes. A cerca de ferro batido é atraente e eficaz na contenção de animais robustos que podem golpear cercas mais baixas. Essa cerca também permite que os visitantes tenham uma visão clara dos animais.</color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+ 
+</ZT2Strings>

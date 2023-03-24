@@ -1,4 +1,41 @@
 <ZT2Strings>
+      <LOC_STRING _locID="adopt:sttformat">
+         <font name="arial" size="10">%text%</font>
+      </LOC_STRING>
+      <LOC_STRING _locID="adopt:lttformat">
+         <font name="arial" size="10">%text%</font>
+      </LOC_STRING>
+      <LOC_STRING _locID="adopt:adoptslot_stt">Espaço para adoção bloqueado</LOC_STRING>
+      <LOC_STRING _locID="adopt:adoptslot1_ltt">
+         <color r="255" g="248" b="178">
+            <b>Espaço para adoção bloqueado</b>
+         </color>
+         <br>Você precisa ter pelo menos 1 estrela de reputação para liberar este espaço.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="adopt:adoptslot2_ltt">
+         <color r="255" g="248" b="178">
+            <b>Espaço para adoção bloqueado</b>
+         </color>
+         <br>Você precisa ter pelo menos 2 estrelas de reputação para liberar este espaço.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="adopt:adoptslot3_ltt">
+         <color r="255" g="248" b="178">
+            <b>Espaço para adoção bloqueado</b>
+         </color>
+         <br>Você precisa ter pelo menos 3 estrelas de reputação para liberar este espaço.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="adopt:adoptslot4_ltt">
+         <color r="255" g="248" b="178">
+            <b>Espaço para adoção bloqueado</b>
+         </color>
+         <br>Você precisa ter pelo menos 4 estrelas de reputação para liberar este espaço.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="adopt:adoptslot5_ltt">
+         <color r="255" g="248" b="178">
+            <b>Espaço para adoção bloqueado</b>
+         </color>
+         <br>Você precisa ter pelo menos 5 estrelas de reputação para liberar este espaço.</br>
+      </LOC_STRING>
       <LOC_STRING _locID="buyinfo:sttformat">
          <font name="arial" size="10">%text%</font>
       </LOC_STRING>
@@ -16,13 +53,8 @@
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="buyinfo:researching_label">
-         <font name="arial" size="8">
+         <font name="arial" size="9">
             <b>Pesquisas atuais...</b>
-         </font>
-      </LOC_STRING>
-      <LOC_STRING _locID="buyinfo:biome_label">
-         <font name="arial" size="10">
-            <b>Bioma:</b>
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="buyinfo:brush_size_label">
@@ -43,9 +75,21 @@
             <b>%text%</b>
          </font>
       </LOC_STRING>
+      <LOC_STRING _locID="buyinfo:biome_label">
+         <font name="arial" size="9" shadowx="-1" shadowy="1" shadowa="164">
+            <color r="255" g="248" b="178">
+               <b>Bioma:</b>
+            </color>
+         </font>
+      </LOC_STRING>
       <LOC_STRING _locID="buyinfo:location_label">
+         <font name="arial" size="9" shadowx="-1" shadowy="1" shadowa="164">
+            <color r="255" g="248" b="178">
+               <b>Local:</b>
+            </color>
+         </font>
          <font name="arial" size="10">
-            <b>Local:</b>
+            <b/>
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="buyinfo:gender_label">
@@ -99,7 +143,7 @@
       </LOC_STRING>
       <LOC_STRING _locID="buyinfo:upkeep_label">
          <font name="arial" size="10">
-            <b>Manutenção:</b>
+            <b>Manut.:</b>
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="buyareafilter:sttformat">
@@ -120,28 +164,28 @@
          <color r="255" g="248" b="178">
             <b>Filtrar objetos do terreno</b>
          </color>
-         <br>Clique para exibir objetos do terreno neste painel com base em seu bioma associado.</br>
+         <br>Clique para exibir objetos do terreno com base no respectivo bioma associado.</br>
       </LOC_STRING>
       <LOC_STRING _locID="buyareafilter:animal_filter_button_stt">Filtrar animais</LOC_STRING>
       <LOC_STRING _locID="buyareafilter:animal_filter_button_ltt">
          <color r="255" g="248" b="178">
             <b>Filtrar animais</b>
          </color>
-         <br>Clique para exibir animais neste painel com base em seu bioma associado.</br>
+         <br>Clique para exibir animais com base no respectivo bioma associado.</br>
       </LOC_STRING>
       <LOC_STRING _locID="buyareafilter:animal_objects_filter_button_stt">Filtrar objetos específicos de animais</LOC_STRING>
       <LOC_STRING _locID="buyareafilter:animal_objects_filter_button_ltt">
          <color r="255" g="248" b="178">
             <b>Filtrar objetos específicos de animais</b>
          </color>
-         <br>Clique para exibir objetos específicos de animais neste painel com base em seu status de pesquisa.</br>
+         <br>Clique para exibir objetos específicos de animais com base no respectivo status de pesquisa.</br>
       </LOC_STRING>
       <LOC_STRING _locID="buyareafilter:construction_filter_button_stt">Filtrar objetos para construção</LOC_STRING>
       <LOC_STRING _locID="buyareafilter:construction_filter_button_ltt">
          <color r="255" g="248" b="178">
             <b>Filtrar objetos para construção</b>
          </color>
-         <br>Clique para exibir objetos neste painel com base em seu status de pesquisa ou tema.</br>
+         <br>Clique para exibir objetos com base no respectivo status de pesquisa ou tema.</br>
       </LOC_STRING>
       <LOC_STRING _locID="cameraset:sttformat">
          <font name="arial" size="10">%text%</font>
@@ -155,20 +199,26 @@
             <b>Mapa de visão geral</b>
          </color>
          <br>Clique para alternar para o mapa de visão geral, que permite ir diretamente para uma jaula ou área específica do zoológico.</br>
+         <br/>
+         <color r="255" g="248" b="178">(Tecla de acesso: Tab)</color>
       </LOC_STRING>
       <LOC_STRING _locID="cameraset:buildingcameramode_stt">Alternar para vista aérea</LOC_STRING>
       <LOC_STRING _locID="cameraset:buildingcameramode_ltt">
          <color r="255" g="248" b="178">
-            <b>Vista aérea</b>
+            <b>Modo de vista aérea</b>
          </color>
          <br>Clique para alternar para uma vista aérea que permite a criação de jaulas e a colocação de animais e objetos no zoológico.</br>
+         <br/>
+         <color r="255" g="248" b="178">(Tecla de acesso: Tab)</color>
       </LOC_STRING>
       <LOC_STRING _locID="cameraset:firstpersoncameramode_stt">Alternar para modo de visitante do zôo</LOC_STRING>
       <LOC_STRING _locID="cameraset:firstpersoncameramode_ltt">
          <color r="255" g="248" b="178">
-            <b>Modo Visitante zôo</b>
+            <b>Modo visit. do zôo</b>
          </color>
-         <br>Clique para alternar para uma visão em 1ª pessoa a fim de andar pelo parque como visitante e desempenhar tarefas de manutenção e tratador de animais.</br>
+         <br>Clique para alternar para visão em primeira pessoa a fim de andar pelo parque como visitante e desempenhar tarefas de manutenção e do tratador.</br>
+         <br/>
+         <color r="255" g="248" b="178">(Tecla de acesso: G)</color>
       </LOC_STRING>
       <LOC_STRING _locID="cameraset:photocameramode_stt">Alternar para modo de safári fotográfico</LOC_STRING>
       <LOC_STRING _locID="cameraset:photocameramode_ltt">
@@ -176,6 +226,8 @@
             <b>Modo de safári fotográfico</b>
          </color>
          <br>Clique para passar para o modo de safári fotográfico, no qual você pode tirar fotos dos animais e objetos do zoológico.</br>
+         <br/>
+         <color r="255" g="248" b="178">(Tecla de acesso: C)</color>
       </LOC_STRING>
       <LOC_STRING _locID="confirm:sttformat">
          <font name="arial" size="10">%text%</font>
@@ -188,17 +240,8 @@
             <color r="255" g="197" b="78">
                <text>
                   <br/>
-                  <b>Tem certeza de que deseja       </b>
+                  <b>Tem certeza de que deseja sair do Zoo Tycoon 2?</b>
                </text>
-            </color>
-         </font>
-      </LOC_STRING>
-      <LOC_STRING _locID="confirm:exit_app_2_label">
-         <font name="arial" size="20" image="ui\font\color_mainmenu.tga">
-            <color r="255" g="197" b="78">
-               <br/>
-               <b>Sair do Zoo Tycoon 2?
-       </b>
             </color>
          </font>
       </LOC_STRING>
@@ -207,7 +250,7 @@
          <color r="255" g="248" b="178">
             <b>Retornar ao Zoo Tycoon 2</b>
          </color>
-         <br>Clique para cancelar a saída do jogo e retornar ao Zoo Tycoon 2.</br>
+         <br>Clique para cancelar e retornar ao jogo.</br>
       </LOC_STRING>
       <LOC_STRING _locID="confirm:exit_zoo_stt">Sair do Zoo Tycoon 2</LOC_STRING>
       <LOC_STRING _locID="confirm:exit_zoo_ltt">
@@ -270,7 +313,7 @@
       <LOC_STRING _locID="confirm:create_profile_label">
          <font name="arial" size="20" image="ui\font\color_mainmenu.tga" shadowx="-1" shadowy="1" shadowa="255">
             <color r="255" g="197" b="78">
-               <b>Digite um novo perfil de usuário.</b>
+               <b>Digite um novo perfil de usuário</b>
             </color>
          </font>
       </LOC_STRING>
@@ -279,12 +322,12 @@
             <b>%text%</b>
          </font>
       </LOC_STRING>
-      <LOC_STRING _locID="confirm:new_profile_cancel_button_stt">Cancelar </LOC_STRING>
+      <LOC_STRING _locID="confirm:new_profile_cancel_button_stt">Cancelar</LOC_STRING>
       <LOC_STRING _locID="confirm:new_profile_cancel_button_ltt">
          <color r="255" g="248" b="178">
             <b>Cancelar novo perfil</b>
          </color>
-         <br>Clique para cancelar a criação de um novo perfil e retornar ao Gerenciador de Perfis.</br>
+         <br>Clique para cancelar a criação de um novo perfil e retornar ao Gerenciador de perfis.</br>
       </LOC_STRING>
       <LOC_STRING _locID="confirm:profile_create_button_stt">Criar novo perfil de jogador</LOC_STRING>
       <LOC_STRING _locID="confirm:profile_create_button_ltt">
@@ -319,7 +362,7 @@
          <color r="255" g="248" b="178">
             <b>Cancelar Excluir perfil de jogador</b>
          </color>
-         <br>Clique para cancelar a exclusão do perfil de jogador selecionado e retornar ao Gerenciador de Perfis.</br>
+         <br>Clique para cancelar a exclusão do perfil de jogador selecionado e retornar ao Gerenciador de perfis.</br>
       </LOC_STRING>
       <LOC_STRING _locID="confirm:create_new_album">
          <font name="arial" size="20" image="ui\font\color_mainmenu.tga">
@@ -340,7 +383,7 @@
          <color r="255" g="248" b="178">
             <b>Cancelar Criar novo álbum de fotos</b>
          </color>
-         <br>Clique para cancelar a criação de um novo álbum de fotos e retornar ao Gerenciador de Álbuns de Fotos.</br>
+         <br>Clique para cancelar a criação de um novo álbum de fotos e retornar ao Gerenciador de álbuns de fotos.</br>
       </LOC_STRING>
       <LOC_STRING _locID="confirm:delete_album_confirmation">
          <font name="arial" size="20" image="ui\font\color_mainmenu.tga">
@@ -361,19 +404,12 @@
          <color r="255" g="248" b="178">
             <b>Cancelar Excluir álbum de fotos</b>
          </color>
-         <br>Clique para cancelar a exclusão do álbum de fotos selecionado e retornar ao Gerenciador de Álbuns de Fotos.</br>
+         <br>Clique para cancelar a exclusão do álbum de fotos selecionado e retornar ao Gerenciador de álbuns de fotos.</br>
       </LOC_STRING>
       <LOC_STRING _locID="confirm:return_mainmenu_label">
          <font name="arial" size="20" image="ui\font\color_mainmenu.tga">
             <color r="255" g="197" b="78">
-               <b>Salvar o jogo antes de </b>
-            </color>
-         </font>
-      </LOC_STRING>
-      <LOC_STRING _locID="confirm:return_mainmenu_label2">
-         <font name="arial" size="20" image="ui\font\color_mainmenu.tga">
-            <color r="255" g="197" b="78">
-               <b>retornar ao menu principal?</b>
+               <b>Salvar o jogo antes de retornar ao menu principal?</b>
             </color>
          </font>
       </LOC_STRING>
@@ -405,14 +441,14 @@
          </color>
          <br>Clique para vender o objeto selecionado. O lucro obtido será adicionado automaticamente à sua conta bancária.</br>
       </LOC_STRING>
-      <LOC_STRING _locID="confirm:no_sell_object_button_stt">Cancelar </LOC_STRING>
+      <LOC_STRING _locID="confirm:no_sell_object_button_stt">Cancelar</LOC_STRING>
       <LOC_STRING _locID="confirm:no_sell_object_button_ltt">
          <color r="255" g="248" b="178">
             <b>Cancelar venda</b>
          </color>
          <br>Clique para cancelar a venda deste objeto.</br>
       </LOC_STRING>
-      <LOC_STRING _locID="confirm:sell_selected_item">Quer vender %s?</LOC_STRING>
+      <LOC_STRING _locID="confirm:sell_selected_item">Vender %s?</LOC_STRING>
       <LOC_STRING _locID="confirm:sell_selected_item_format">
          <font name="arial" size="20" image="ui\font\color_mainmenu.tga">
             <color r="255" g="197" b="78">
@@ -456,7 +492,7 @@
          </color>
          <br>Clique para demitir o funcionário selecionado.</br>
       </LOC_STRING>
-      <LOC_STRING _locID="confirm:no_fire_staff_button_stt">Cancelar </LOC_STRING>
+      <LOC_STRING _locID="confirm:no_fire_staff_button_stt">Cancelar</LOC_STRING>
       <LOC_STRING _locID="confirm:no_fire_staff_button_ltt">
          <color r="255" g="248" b="178">
             <b>Cancelar Demitir funcionário</b>
@@ -466,7 +502,7 @@
       <LOC_STRING _locID="confirm:confimation_delete_game_label">
          <font name="arial" size="15" image="ui\font\color_mainmenu.tga" shadowx="-1" shadowy="1" shadowa="255">
             <color r="255" g="248" b="178">
-               <b>Excluir Jogo</b>
+               <b>Excluir jogo</b>
             </color>
          </font>
       </LOC_STRING>
@@ -496,17 +532,7 @@
             <color r="255" g="197" b="78">
                <text>
                   <br/>
-                  <b>  Você deve reiniciar</b>
-               </text>
-            </color>
-         </font>
-      </LOC_STRING>
-      <LOC_STRING _locID="confirm:restart_game_ok_label2">
-         <font name="arial" size="20" image="ui\font\color_mainmenu.tga">
-            <color r="255" g="197" b="78">
-               <text>
-                  <br/>
-                  <b>Zoo Tycoon 2</b>
+                  <b>  Você deve reiniciar o Zoo Tycoon 2</b>
                </text>
             </color>
          </font>
@@ -523,7 +549,7 @@
             <color r="255" g="197" b="78">
                <text>
                   <br/>
-                  <b> Deseja salvar e sair?</b>
+                  <b>Deseja salvar e sair?</b>
                </text>
             </color>
          </font>
@@ -554,14 +580,14 @@
          <color r="255" g="248" b="178">
             <b>Fechar</b>
          </color>
-         <br>Clique para fechar esta caixa de diálogo e continuar o desafio fotográfico. </br>
+         <br>Clique para fechar esta caixa de diálogo e continuar o desafio fotográfico.</br>
       </LOC_STRING>
       <LOC_STRING _locID="confirm:decline_photochallenge_button_stt">Recusar</LOC_STRING>
       <LOC_STRING _locID="confirm:decline_photochallenge_button_ltt">
          <color r="255" g="248" b="178">
             <b>Recusar</b>
          </color>
-         <br>Clique para fechar esta caixa de diálogo e recusar o desafio fotográfico. </br>
+         <br>Clique para fechar esta caixa de diálogo e recusar o desafio fotográfico.</br>
       </LOC_STRING>
       <LOC_STRING _locID="confirm:save_current_game_label">
          <font name="arial" size="18" image="ui\font\color_mainmenu.tga">
@@ -578,7 +604,7 @@
          <color r="255" g="248" b="178">
             <b>Salvar e continuar </b>
          </color>
-         <br>Clique para salvar e continuar, carregando um jogo salvo. </br>
+         <br>Clique para salvar e continuar, carregando um jogo salvo.</br>
       </LOC_STRING>
       <LOC_STRING _locID="confirm:decline_save_button_stt">Não salvar </LOC_STRING>
       <LOC_STRING _locID="confirm:decline_save_button_ltt">
@@ -618,6 +644,53 @@
          </color>
          <br>Clique para fechar esta caixa de diálogo.</br>
       </LOC_STRING>
+      <LOC_STRING _locID="confirm:graphic_settings_confirmation_format">
+         <font name="arial" size="18" image="ui\font\color_mainmenu.tga">
+            <color r="255" g="197" b="78">
+               <text>
+                  <b>%text%</b>
+               </text>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="confirm:graphic_settings_confirmation_label">Deseja manter estas novas configurações gráficas? Revertendo em %s segundos.</LOC_STRING>
+      <LOC_STRING _locID="confirm:graphic_settings_confirmation_ok_button_stt">Aceitar configurações</LOC_STRING>
+      <LOC_STRING _locID="confirm:graphic_settings_confirmation_ok_button_ltt">
+         <color r="255" g="248" b="178">
+            <b>Aceitar configurações</b>
+         </color>
+         <br>Clique para aceitar as novas configurações gráficas.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="confirm:graphic_settings_confirmation_close_button_stt">Rejeitar configurações</LOC_STRING>
+      <LOC_STRING _locID="confirm:graphic_settings_confirmation_close_button_ltt">
+         <color r="255" g="248" b="178">
+            <b>Rejeitar configurações</b>
+         </color>
+         <br>Clique para voltar para as últimas configurações.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="confirm:tranporation_confirmation_label">
+         <font name="arial" size="18" image="ui\font\color_mainmenu.tga">
+            <color r="255" g="197" b="78">
+               <text>
+                  <b>Aviso: esta ação poderá ejetar os visitantes dos veículos!</b>
+               </text>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="confirm:tranporation_confirmation_ok_button_stt">Cancelar</LOC_STRING>
+      <LOC_STRING _locID="confirm:tranporation_confirmation_ok_button_ltt">
+         <color r="255" g="248" b="178">
+            <b>Cancelar</b>
+         </color>
+         <br>Clique para cancelar esta ação.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="confirm:tranporation_confirmation_close_button_stt">Continuar</LOC_STRING>
+      <LOC_STRING _locID="confirm:tranporation_confirmation_close_button_ltt">
+         <color r="255" g="248" b="178">
+            <b>Continuar</b>
+         </color>
+         <br>Clique para continuar com esta ação.</br>
+      </LOC_STRING>
       <LOC_STRING _locID="economy:unlimitedcash">Ilimitado</LOC_STRING>
       <LOC_STRING _locID="entityinfo:sttformat">
          <font name="arial" size="10">%text%</font>
@@ -635,7 +708,7 @@
       <LOC_STRING _locID="entityinfo:status_label">
          <font name="arial" size="9" shadowx="-1" shadowy="1" shadowa="64">
             <color r="255" g="248" b="178">
-               <b>Status das necessidades básicas:</b>
+               <b>Status: necessidades básicas:</b>
             </color>
          </font>
       </LOC_STRING>
@@ -736,7 +809,7 @@
          <color r="255" g="248" b="178">
             <b>Encaixotar animal</b>
          </color>
-         <br>Clique para colocar o animal selecionado em um engradado, que é útil quando se tem um fugitivo nas mãos.</br>
+         <br>Clique para colocar o animal selecionado em um engradado, o que é útil quando se tem um fugitivo nas mãos.</br>
       </LOC_STRING>
       <LOC_STRING _locID="entityinfo:basic_needs_ok_label">
          <font name="arial" size="9" shadowx="-1" shadowy="1" shadowa="64">
@@ -762,7 +835,7 @@
       <LOC_STRING _locID="entityinfo:cratedanimal">
          <font name="arial" size="12" shadowx="-1" shadowy="1" shadowa="64">
             <color r="255" g="248" b="178">
-               <b>Animal no caixote</b>
+               <b>Animal em engradado</b>
             </color>
          </font>
       </LOC_STRING>
@@ -771,7 +844,7 @@
          <color r="255" g="248" b="178">
             <b>Pegar engradado</b>
          </color>
-         <br>Clique para pegar o animal selecionado onde quer que se encontre no zoológico.</br>
+         <br>Clique para pegar o engradado com o animal selecionado, onde quer que se encontre no zoológico.</br>
       </LOC_STRING>
       <LOC_STRING _locID="entityinfo:uncrate_button_stt">Desencaixotar animal</LOC_STRING>
       <LOC_STRING _locID="entityinfo:uncrate_button_ltt">
@@ -1050,7 +1123,7 @@
       <LOC_STRING _locID="entityinfo:upkeep_label">
          <font name="arial" size="10" shadowx="-1" shadowy="1" shadowa="64">
             <color r="255" g="248" b="178">
-               <b>Manutenção:</b>
+               <b>Manut.:</b>
             </color>
          </font>
       </LOC_STRING>
@@ -1086,6 +1159,13 @@
          <font name="arial" size="10" shadowx="-1" shadowy="1" shadowa="64">
             <color r="255" g="248" b="178">
                <b>Lucro permanente:</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:total_births_label">
+         <font name="arial" size="10" shadowx="-1" shadowy="1" shadowa="64">
+            <color r="255" g="248" b="178">
+               <b>Nasc.de espéc. ameaç.:</b>
             </color>
          </font>
       </LOC_STRING>
@@ -1272,6 +1352,13 @@
             </color>
          </font>
       </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:staff_assignment">
+         <font name="arial" size="10" shadowx="-1" shadowy="1" shadowa="64">
+            <color r="255" g="255" b="255">
+               <b>%text%</b>
+            </color>
+         </font>
+      </LOC_STRING>
       <LOC_STRING _locID="entityinfo:quantity_label">
          <font name="arial" size="9" shadowx="-1" shadowy="1" shadowa="64">
             <color r="255" g="248" b="178">
@@ -1345,8 +1432,7 @@
       <LOC_STRING _locID="entityinfo:donation_number_label">
          <font name="arial" size="9" shadowx="-1" shadowy="1" shadowa="64">
             <color r="255" g="248" b="178">
-               <b>
-Nº de doações:</b>
+               <b>Nº de doações:</b>
             </color>
          </font>
       </LOC_STRING>
@@ -1425,7 +1511,7 @@ Nº de doações:</b>
          <color r="255" g="248" b="178">
             <b>Bioma</b>
          </color>
-         <br>Este objeto origina-se neste tipo de bioma e contribui para formar uma hábitat satisfatório para os animais que vivem ali.</br>
+         <br>Este objeto origina-se neste tipo de bioma e contribui para formar um hábitat satisfatório para os animais que vivem ali.</br>
       </LOC_STRING>
       <LOC_STRING _locID="entityinfo:animal_biome_icon_ltt">
          <color r="255" g="248" b="178">
@@ -1444,6 +1530,278 @@ Nº de doações:</b>
             <b>Local</b>
          </color>
          <br>Este animal origina-se desta parte do mundo.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:conservation_label">
+         <font name="arial" size="9" shadowx="-1" shadowy="1" shadowa="164">
+            <color r="255" g="248" b="178">
+               <b>Status:</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:conservation_critical_stt">Crítica</LOC_STRING>
+      <LOC_STRING _locID="entityinfo:conservation_critical">
+         <font name="arial" size="9" shadowx="-1" shadowy="1" shadowa="64">
+            <color r="255" g="255" b="255">
+               <b>Crítica</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:conservation_endangered_stt">Ameaçado</LOC_STRING>
+      <LOC_STRING _locID="entityinfo:conservation_endangered">
+         <font name="arial" size="9" shadowx="-1" shadowy="1" shadowa="64">
+            <color r="255" g="255" b="255">
+               <b>Ameaçado</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:conservation_lowrisk_stt">Baixo risco</LOC_STRING>
+      <LOC_STRING _locID="entityinfo:conservation_lowrisk">
+         <font name="arial" size="9" shadowx="-1" shadowy="1" shadowa="64">
+            <color r="255" g="255" b="255">
+               <b>Baixo risco</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:conservation_vulnerable_stt">Vulnerável</LOC_STRING>
+      <LOC_STRING _locID="entityinfo:conservation_vulnerable">
+         <font name="arial" size="9" shadowx="-1" shadowy="1" shadowa="64">
+            <color r="255" g="255" b="255">
+               <b>Vulnerável</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:text_format">
+         <font name="arial" size="9" shadowx="-1" shadowy="1" shadowa="64">
+            <color r="255" g="255" b="255">
+               <b>%text%</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:station_upkeep_label">
+         <font name="arial" size="10" shadowx="-1" shadowy="1" shadowa="64">
+            <color r="255" g="248" b="178">
+               <b>Manut. estação:</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:vehicle_upkeep_label">
+         <font name="arial" size="10" shadowx="-1" shadowy="1" shadowa="64">
+            <color r="255" g="248" b="178">
+               <b>Manut. veículos:</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:tour_rating_label">
+         <font name="arial" size="10" shadowx="-1" shadowy="1" shadowa="64">
+            <color r="255" g="248" b="178">
+               <b>Avaliação do tour:</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:vehiclesoncircut_label">
+         <font name="arial" size="10" shadowx="-1" shadowy="1" shadowa="64">
+            <color r="255" g="248" b="178">
+               <b>Veículos:</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:guestsoncircut_label">
+         <font name="arial" size="10" shadowx="-1" shadowy="1" shadowa="64">
+            <color r="255" g="248" b="178">
+               <b>Visitantes:</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:lifeguestsoncircut_label">
+         <font name="arial" size="10" shadowx="-1" shadowy="1" shadowa="64">
+            <color r="255" g="248" b="178">
+               <b>Visitantes permanentes:</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:transportation_cost_label">
+         <font name="arial" size="10" shadowx="-1" shadowy="1" shadowa="64">
+            <color r="255" g="248" b="178">
+               <b>Custo:</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:transportation_upkeep_label">
+         <font name="arial" size="10" shadowx="-1" shadowy="1" shadowa="64">
+            <color r="255" g="248" b="178">
+               <b>Manut.:</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:transportation_capacity_label">
+         <font name="arial" size="10" shadowx="-1" shadowy="1" shadowa="64">
+            <color r="255" g="248" b="178">
+               <b>Capacid.:</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:transportation_capacity_number_format">
+         <font name="arial" size="10" shadowx="-1" shadowy="1" shadowa="64">
+            <color r="255" g="255" b="255">
+               <b>%text%</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:transportation_format">
+         <font name="arial" size="11" shadowx="-1" shadowy="1" shadowa="64">
+            <color r="255" g="248" b="178">
+               <b>%text%</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:total_capacity_label">
+         <font name="arial" size="10" shadowx="-1" shadowy="1" shadowa="64">
+            <color r="255" g="248" b="178">
+               <b>Capacidade total:</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:open_station_stt">Abrir estação</LOC_STRING>
+      <LOC_STRING _locID="entityinfo:open_station_ltt">
+         <color r="255" g="248" b="178">
+            <b>Abrir estação</b>
+         </color>
+         <br>Clique para abrir a estação para os visitantes fazerem tours ou passeios.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:close_station_stt">Fechar a estação</LOC_STRING>
+      <LOC_STRING _locID="entityinfo:close_station_ltt">
+         <color r="255" g="248" b="178">
+            <b>Fechar estação</b>
+         </color>
+         <br>Clique para fechar a estação. Nenhum visitante poderá entrar quando a estação estiver fechada.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:buy_vehicle_stt">Comprar veículo selecionado</LOC_STRING>
+      <LOC_STRING _locID="entityinfo:buy_vehicle_ltt">
+         <color r="255" g="248" b="178">
+            <b>Comprar veículo selecionado</b>
+         </color>
+         <br>Clique para comprar o veículo selecionado, que será criado na estação.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:transportation_buy_vehicle_tab_stt">Compra de veículos</LOC_STRING>
+      <LOC_STRING _locID="entityinfo:transportation_buy_vehicle_tab_ltt">
+         <color r="255" g="248" b="178">
+            <b>Compra de veículos</b>
+         </color>
+         <br>Clique para ver e comprar veículos.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:transportation_donation_tab_stt">Exibir doações</LOC_STRING>
+      <LOC_STRING _locID="entityinfo:transportation_donation_tab_ltt">
+         <color r="255" g="248" b="178">
+            <b>Exibir doações</b>
+         </color>
+         <br>Clique para ver as doações feitas pelos visitantes que gostaram de um tour ou passeio.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:vehicle_status_tab_stt">Status dos veículos</LOC_STRING>
+      <LOC_STRING _locID="entityinfo:vehicle_status_tab_ltt">
+         <color r="255" g="248" b="178">
+            <b>Status dos veículos</b>
+         </color>
+         <br>Clique para ver as estatísticas dos veículos.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:vehicle_track_button_stt">Monitorar veículo</LOC_STRING>
+      <LOC_STRING _locID="entityinfo:vehicle_track_button_ltt">
+         <color r="255" g="248" b="178">
+            <b>Monitorar veículo</b>
+         </color>
+         <br>Clique para monitorar o veículo selecionado onde quer que se encontre no zoológico.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:vehicle_ride_in_button_stt">Passear no veículo</LOC_STRING>
+      <LOC_STRING _locID="entityinfo:vehicle_ride_in_button_ltt">
+         <color r="255" g="248" b="178">
+            <b>Passear no veículo</b>
+         </color>
+         <br>Clique para passear neste veículo.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:vehicle_capacity_label">
+         <font name="arial" size="10" shadowx="-1" shadowy="1" shadowa="64">
+            <color r="255" g="248" b="178">
+               <b>Capacidade do veículo:</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:vehicle_occupied_label">
+         <font name="arial" size="10" shadowx="-1" shadowy="1" shadowa="64">
+            <color r="255" g="248" b="178">
+               <b>Ocupantes:</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:yes_label">
+         <font name="arial" size="10" shadowx="-1" shadowy="1" shadowa="64">
+            <b>Sim</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:no_label">
+         <font name="arial" size="10" shadowx="-1" shadowy="1" shadowa="64">
+            <b>não</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:familytree_tab_stt">Exibir árvore da família</LOC_STRING>
+      <LOC_STRING _locID="entityinfo:familytree_tab_ltt">
+         <color r="255" g="248" b="178">
+            <b>Exibir árvore da família</b>
+         </color>
+         <br>Clique para ver a árvore da família deste animal.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:familytree_label">
+         <font name="arial" size="10" shadowx="-1" shadowy="1" shadowa="64">
+            <color r="255" g="248" b="178">
+               <b>Árvore da família:</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:mother">Mãe</LOC_STRING>
+      <LOC_STRING _locID="entityinfo:father">Pai</LOC_STRING>
+      <LOC_STRING _locID="entityinfo:grandMM">Avó</LOC_STRING>
+      <LOC_STRING _locID="entityinfo:grandMF">Avô</LOC_STRING>
+      <LOC_STRING _locID="entityinfo:grandFM">Avó</LOC_STRING>
+      <LOC_STRING _locID="entityinfo:grandFF">Avô</LOC_STRING>
+      <LOC_STRING _locID="entityinfo:sibling">Irmão</LOC_STRING>
+      <LOC_STRING _locID="entityinfo:child">Filho</LOC_STRING>
+      <LOC_STRING _locID="entityinfo:mate">Companheiro</LOC_STRING>
+      <LOC_STRING _locID="entityinfo:circuitA_tab_stt">Exibir informações do circuito A</LOC_STRING>
+      <LOC_STRING _locID="entityinfo:circuitA_tab_ltt">
+         <color r="255" g="248" b="178">
+            <b>Exibir informações do circuito A</b>
+         </color>
+         <br>Clique para ver informações sobre o circuito A.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:circuitB_tab_stt">Exibir informações do circuito B</LOC_STRING>
+      <LOC_STRING _locID="entityinfo:circuitB_tab_ltt">
+         <color r="255" g="248" b="178">
+            <b>Exibir informações do circuito B</b>
+         </color>
+         <br>Clique para ver informações sobre o circuito B.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:circuit_change_direction_stt">Clique para alterar a direção do circuito</LOC_STRING>
+      <LOC_STRING _locID="entityinfo:circuit_change_direction_ltt">
+         <color r="255" g="248" b="178">
+            <b>Clique para alterar a direção do circuito</b>
+         </color>
+         <br>Clique para alterar a direção do veículo no circuito.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:protected_area_label_2">
+         <font name="arial" size="11" image="ui\font\color_mainmenu.tga" shadowx="-1" shadowy="1">
+            <color r="255" g="197" b="78">
+               <text>
+                  <b>Objeto de preservação</b>
+               </text>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="entityinfo:incomplete_circuit">
+         <font name="arial" size="18" image="ui\font\color_mainmenu.tga" shadowx="-1" shadowy="1">
+            <color r="255" g="255" b="0">
+               <text>
+                  <b>Circuito incompleto</b>
+               </text>
+            </color>
+         </font>
       </LOC_STRING>
       <LOC_STRING _locID="filter:sttformat">
          <font name="arial" size="10">%text%</font>
@@ -1491,10 +1849,59 @@ Nº de doações:</b>
          <color r="255" g="248" b="178">
             <b>Mostrar ou ocultar folhagem</b>
          </color>
-         <br>Clique para mostrar ou ocultar plantas, árvores, arbustos e gramas colocados no zoológico.</br>
+         <br>Clique para mostrar ou ocultar plantas, árvores, arbustos e gramíneas colocados no zoológico.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="filter:emote_toggle_button_stt">Mostrar ou ocultar emoticons</LOC_STRING>
+      <LOC_STRING _locID="filter:emote_toggle_button_ltt">
+         <color r="255" g="248" b="178">
+            <b>Mostrar ou ocultar emoticons</b>
+         </color>
+         <br>Clique para mostrar ou ocultar emoticons de animais e visitantes no zoológico.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="filter:guest_view_toggle_button_stt">Mostrar ou ocultar área de observação para visitantes</LOC_STRING>
+      <LOC_STRING _locID="filter:guest_view_toggle_button_ltt">
+         <color r="255" g="248" b="178">
+            <b>Mostrar ou ocultar área de observação para visitantes</b>
+         </color>
+         <br>Clique para mostrar o modo de filtro de visitantes e saber como os visitantes vêem o seu zoológico.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="filter:elevated_path_opaque_button_stt">Mostrar trilha elevada</LOC_STRING>
+      <LOC_STRING _locID="filter:elevated_path_opaque_button_ltt">
+         <color r="255" g="248" b="178">
+            <b>Mostrar trilha elevada</b>
+         </color>
+         <br>Clique para mostrar a trilha elevada que você colocou no zoológico.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="filter:elevated_path_not_opaque_button_stt">Ocultar trilha elevada</LOC_STRING>
+      <LOC_STRING _locID="filter:elevated_path_not_opaque_button_ltt">
+         <color r="255" g="248" b="178">
+            <b>Ocultar trilha elevada</b>
+         </color>
+         <br>Clique para ocultar a trilha elevada que você colocou no zoológico.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="filter:elevated_path_increace_opaque_button_stt">Aumentar altura da transparência</LOC_STRING>
+      <LOC_STRING _locID="filter:elevated_path_increace_opaque_button_ltt">
+         <color r="255" g="248" b="178">
+            <b>Aumentar altura da transparência</b>
+         </color>
+         <br>Clique para aumentar a altura à qual as trilhas elevadas ficam transparentes.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="filter:elevated_path_decreace_opaque_button_stt">Diminuir altura da transparência</LOC_STRING>
+      <LOC_STRING _locID="filter:elevated_path_decreace_opaque_button_ltt">
+         <color r="255" g="248" b="178">
+            <b>Diminuir altura da transparência</b>
+         </color>
+         <br>Clique para diminuir a altura à qual as trilhas elevadas ficam transparentes.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="filter:elevated_path_opaque_slider_stt">Aumentar ou diminuir altura da transparência</LOC_STRING>
+      <LOC_STRING _locID="filter:elevated_path_opaque_slider_ltt">
+         <color r="255" g="248" b="178">
+            <b>Aumentar ou diminuir altura da transparência</b>
+         </color>
+         <br>Clique para aumentar ou diminuir a altura à qual as trilhas elevadas ficam transparentes.</br>
       </LOC_STRING>
       <LOC_STRING _locID="firstperson:staffmode">
-         <font name="arial" size="12">Clique com o botão direito para habilitar o cursor.</font>
+         <font name="arial" size="12">Clique com o botão direito do mouse para habilitar o cursor.</font>
       </LOC_STRING>
       <LOC_STRING _locID="guestthoughtformat:thought_format">
          <font name="arial" size="9" shadowx="-1" shadowy="1" shadowa="32">
@@ -1600,7 +2007,7 @@ Nº de doações:</b>
       <LOC_STRING _locID="mainmenu:gameoptions_name">Opções de jogo</LOC_STRING>
       <LOC_STRING _locID="mainmenu:gameoptions_ltt">
          <color r="255" g="248" b="178">
-            <b>Configurações do jogo</b>
+            <b>Opções de jogo</b>
          </color>
          <br>Clique para alterar as opções de vídeo, som e outras.</br>
       </LOC_STRING>
@@ -1666,32 +2073,27 @@ Nº de doações:</b>
       <LOC_STRING _locID="mainmenu:profile_manager_label">
          <font name="arial" size="15" image="ui\font\color_mainmenu.tga" shadowx="-1" shadowy="1" shadowa="255">
             <color r="255" g="248" b="178">
-               <b>Gerenciador de Perfis</b>
+               <b>Gerenciador de perfis</b>
             </color>
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="mainmenu:profile_manger_button_stt">Gerenciar perfis de jogadores</LOC_STRING>
       <LOC_STRING _locID="mainmenu:profile_manger_button_ltt">
          <color r="255" g="248" b="178">
-            <b>Gerenciador de Perfis</b>
+            <b>Gerenciador de perfis</b>
          </color>
          <br>Clique para gerenciar seus perfis de jogador. Você pode adicionar novos perfis, além de carregar ou excluir perfis existentes.</br>
       </LOC_STRING>
-      <LOC_STRING _locID="mainmenu:profile_manger_close_button_stt">Fechar Gerenciador de Perfis</LOC_STRING>
+      <LOC_STRING _locID="mainmenu:profile_manger_close_button_stt">Fechar Gerenciador de perfis</LOC_STRING>
       <LOC_STRING _locID="mainmenu:profile_manger_close_button_ltt">
          <color r="255" g="248" b="178">
-            <b>Fechar Gerenciador de Perfis</b>
+            <b>Fechar Gerenciador de perfis</b>
          </color>
-         <br>Clique para fechar o Gerenciador de Perfis.</br>
+         <br>Clique para fechar o Gerenciador de perfis.</br>
       </LOC_STRING>
       <LOC_STRING _locID="mainmenu:selected_profile_label">
          <font name="arial" size="12">
             <b>Perfil selecionado:</b>
-         </font>
-      </LOC_STRING>
-      <LOC_STRING _locID="mainmenu:guitool">
-         <font name="arial" size="14">
-            <b>Executar ferramenta de interface</b>
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="mainmenu:credits">
@@ -1709,22 +2111,22 @@ Nº de doações:</b>
       </LOC_STRING>
       <LOC_STRING _locID="mainmenu:legalcopy1">
          <font name="arial" size="10" shadowx="0" shadowy="0">
-            <b>© &amp; (p) 2004 Microsoft Corporation. Todos os direitos reservados.</b>
+            <b>© &amp; (p) 2005 Microsoft Corporation. Todos os direitos reservados.</b>
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="mainmenu:legalcopy2">
          <font name="arial" size="10" shadowx="0" shadowy="0">
-            <b>Programa protegido por leis de direitos autorais dos EUA e internacionais.</b>
+            <b>Desenvolvido pela Blue Fang Games™ para Microsoft Corporation.</b>
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="mainmenu:legalcopy3">
          <font name="arial" size="10" shadowx="0" shadowy="0">
-            <b>Desenvolvido pela Blue Fang Games, LLC</b>
+            <b>Este programa é protegido por leis de direitos autorais e tratados</b>
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="mainmenu:legalcopy4">
          <font name="arial" size="10" shadowx="0" shadowy="0">
-            <b>© 2001-2004 Blue Fang Games, LLC</b>
+            <b>internacionais conforme descrito em Ajuda/Sobre.</b>
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="mainmenu:click_to_continue">
@@ -1744,7 +2146,7 @@ Nº de doações:</b>
          <color r="255" g="248" b="178">
             <b>Ignorar tutorial</b>
          </color>
-         <br>Clique para ignorar os tutoriais do Zoo Tycoon 2 e ir direto para o jogo.</br>
+         <br>Clique para ignorar os tutoriais e ir direto para o jogo.</br>
       </LOC_STRING>
       <LOC_STRING _locID="mainmenu:tutorial_play_label">
          <font name="arial" size="18" image="ui\font\color_mainmenu.tga">
@@ -1760,6 +2162,20 @@ Nº de doações:</b>
             </color>
          </font>
       </LOC_STRING>
+      <LOC_STRING _locID="mainmenu:tutorial_intro_text_endangered">
+         <font name="arial" size="20" image="ui\font\color_mainmenu.tga">
+            <color r="255" g="197" b="78">
+               <b>Quer aprender como jogar o Zoo Tycoon 2: Endangered Species?</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="mainmenu:es_installed_stt">Endangered Species instalado</LOC_STRING>
+      <LOC_STRING _locID="mainmenu:es_installed_ltt">
+         <color r="255" g="248" b="178">
+            <b>Endangered Species instalado</b>
+         </color>
+         <br>A expansão Endangered Species foi instalada. </br>
+      </LOC_STRING>
       <LOC_STRING _locID="messages:lttformat">
          <font name="arial" size="10">%text%</font>
       </LOC_STRING>
@@ -1767,17 +2183,17 @@ Nº de doações:</b>
          <font name="arial" size="10">%text%</font>
       </LOC_STRING>
       <LOC_STRING _locID="messages:normal_format">
-         <font name="arial" size="8" shadowx="-1" shadowy="1" shadowa="32">
+         <font name="arial" size="9" shadowx="-1" shadowy="1" shadowa="32">
             <b>%text%</b>
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="messages:good_format">
-         <font name="arial" size="8" shadowx="-1" shadowy="1" shadowa="32">
+         <font name="arial" size="9" shadowx="-1" shadowy="1" shadowa="32">
             <b>%text%</b>
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="messages:bad_format">
-         <font name="arial" size="8" shadowx="-1" shadowy="1" shadowa="32">
+         <font name="arial" size="9" shadowx="-1" shadowy="1" shadowa="32">
             <b>%text%</b>
          </font>
       </LOC_STRING>
@@ -1795,6 +2211,13 @@ Nº de doações:</b>
       <LOC_STRING _locID="messages:land_collision">Você não pode colocar %s na terra.</LOC_STRING>
       <LOC_STRING _locID="messages:cannot_afford">Você não pode custear %s.</LOC_STRING>
       <LOC_STRING _locID="messages:unresearched">Você deve pesquisar %s.</LOC_STRING>
+      <LOC_STRING _locID="messages:invalid_for_crossinggate">Coloque %s em um trecho reto de estrada.</LOC_STRING>
+      <LOC_STRING _locID="messages:no_elevated_tile">Você não pode colocar %s em uma trilha elevada.</LOC_STRING>
+      <LOC_STRING _locID="messages:no_empty_elevated_tile">Você não pode colocar %s de modo que fique suspenso(a).</LOC_STRING>
+      <LOC_STRING _locID="messages:no_ramp">Você não pode colocar %s em uma rampa.</LOC_STRING>
+      <LOC_STRING _locID="messages:no_headroom">Não há altura livre suficiente para colocar %s.</LOC_STRING>
+      <LOC_STRING _locID="messages:no_placement_in_protected_area">Você não pode colocar %s em uma área de preservação.</LOC_STRING>
+      <LOC_STRING _locID="messages:no_headroom_path">Não há altura livre suficiente para colocar a trilha elevada.</LOC_STRING>
       <LOC_STRING _locID="multilist:sttformat">
          <font name="arial" size="10">%text%</font>
       </LOC_STRING>
@@ -1846,7 +2269,7 @@ Nº de doações:</b>
       <LOC_STRING _locID="multilist:animal_name_label">
          <font name="arial" size="11" shadowx="-1" shadowy="1" shadowa="128">
             <color r="255" g="248" b="178">
-               <b>Lista anim.:</b>
+               <b>Lista animais:</b>
             </color>
          </font>
       </LOC_STRING>
@@ -1860,7 +2283,7 @@ Nº de doações:</b>
       <LOC_STRING _locID="multilist:animal_info_tab_label">
          <font name="arial" size="11" shadowx="-1" shadowy="1" shadowa="255">
             <color r="255" g="248" b="178">
-               <b>Lista anim.</b>
+               <b>Lista animais</b>
             </color>
          </font>
       </LOC_STRING>
@@ -1892,10 +2315,10 @@ Nº de doações:</b>
          </color>
          <br>Clique para classificar a lista de animais com base em como suas necessidades alimentares estão sendo atendidas.</br>
       </LOC_STRING>
-      <LOC_STRING _locID="multilist:animal_sort_thirst_stt">Classificar por água</LOC_STRING>
+      <LOC_STRING _locID="multilist:animal_sort_thirst_stt">Classificar por sede</LOC_STRING>
       <LOC_STRING _locID="multilist:animal_sort_thirst_ltt">
          <color r="255" g="248" b="178">
-            <b>Classificar por água</b>
+            <b>Classificar por sede</b>
          </color>
          <br>Clique para classificar a lista de animais com base em como suas necessidades de água estão sendo atendidas.</br>
       </LOC_STRING>
@@ -1941,7 +2364,7 @@ Nº de doações:</b>
             </color>
          </font>
       </LOC_STRING>
-      <LOC_STRING _locID="multilist:guest_info_tab_stt">Informações sobre os visitantes </LOC_STRING>
+      <LOC_STRING _locID="multilist:guest_info_tab_stt">Informações sobre os visitantes</LOC_STRING>
       <LOC_STRING _locID="multilist:guest_info_tab_ltt">
          <color r="255" g="248" b="178">
             <b>Informações sobre os visitantes</b>
@@ -1960,7 +2383,7 @@ Nº de doações:</b>
          <color r="255" g="248" b="178">
             <b>Classif. por gênero/idade</b>
          </color>
-         <br>Clique para classificar a lista de visitantes por gênero e idade.</br>
+         <br>Clique para classificar a lista de visitantes por sexo e idade.</br>
       </LOC_STRING>
       <LOC_STRING _locID="multilist:guest_sort_happy_stt">Classificar por satisfação</LOC_STRING>
       <LOC_STRING _locID="multilist:guest_sort_happy_ltt">
@@ -1990,10 +2413,10 @@ Nº de doações:</b>
          </color>
          <br>Clique para classificar a lista de visitantes com base em como suas necessidades de sede estão sendo atendidas.</br>
       </LOC_STRING>
-      <LOC_STRING _locID="multilist:guest_sort_rest_stt">Classificar por descanso</LOC_STRING>
+      <LOC_STRING _locID="multilist:guest_sort_rest_stt">Classificar por neces. descanso</LOC_STRING>
       <LOC_STRING _locID="multilist:guest_sort_rest_ltt">
          <color r="255" g="248" b="178">
-            <b>Classificar por descanso</b>
+            <b>Classificar por neces. descanso</b>
          </color>
          <br>Clique para classificar a lista de visitantes com base em como suas necessidades de descanso estão sendo atendidas.</br>
       </LOC_STRING>
@@ -2007,7 +2430,7 @@ Nº de doações:</b>
       <LOC_STRING _locID="multilist:guest_sort_bathroom_stt">Classif. por nec. banheiro</LOC_STRING>
       <LOC_STRING _locID="multilist:guest_sort_bathroom_ltt">
          <color r="255" g="248" b="178">
-            <b>Classificar por necessidade de banheiro do visitante</b>
+            <b>Classif. por nec. banheiro do visitante</b>
          </color>
          <br>Clique para classificar a lista de visitantes com base nas pessoas que querem ou não ir ao banheiro.</br>
       </LOC_STRING>
@@ -2028,7 +2451,7 @@ Nº de doações:</b>
       <LOC_STRING _locID="multilist:staff_name_label">
          <font name="arial" size="11" shadowx="-1" shadowy="1" shadowa="128">
             <color r="255" g="248" b="178">
-               <b>Funcionários:</b>
+               <b>Lista de func.:</b>
             </color>
          </font>
       </LOC_STRING>
@@ -2059,6 +2482,74 @@ Nº de doações:</b>
             <b>Informações sobre os funcionários</b>
          </color>
          <br>Clique para ver uma lista de todos os funcionários que trabalham no zoológico.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="multilist:vehicle_parked">Estacionado</LOC_STRING>
+      <LOC_STRING _locID="multilist:vehicle_unloading">Desemb. passageiros</LOC_STRING>
+      <LOC_STRING _locID="multilist:vehicle_loading">Embarcando passageiros</LOC_STRING>
+      <LOC_STRING _locID="multilist:vehicle_driving">Dirigindo</LOC_STRING>
+      <LOC_STRING _locID="multilist:vehicle_departing">Indo embora</LOC_STRING>
+      <LOC_STRING _locID="multilist:vehicle_info_tab_stt">Informações sobre os veículos </LOC_STRING>
+      <LOC_STRING _locID="multilist:vehicle_info_tab_ltt">
+         <color r="255" g="248" b="178">
+            <b>Informações sobre os veículos </b>
+         </color>
+         <br>Clique para ver uma lista de todos os veículos no zoológico.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="multilist:vehicle_number_label">
+         <font name="arial" size="11" shadowx="-1" shadowy="1" shadowa="128">
+            <color r="255" g="248" b="178">
+               <b>Nº de veículos:</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="multilist:vehicle_info_tab_label">
+         <font name="arial" size="11" shadowx="-1" shadowy="1" shadowa="255">
+            <color r="255" g="248" b="178">
+               <b>Lista de veículos:</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="multilist:vehicle_name_label">
+         <font name="arial" size="11" shadowx="-1" shadowy="1" shadowa="128">
+            <color r="255" g="248" b="178">
+               <b>Lista veículos:</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="multilist:vehicle_sort_type_stt">Classificar por tipo</LOC_STRING>
+      <LOC_STRING _locID="multilist:vehicle_sort_type_ltt">
+         <color r="255" g="248" b="178">
+            <b>Classificar por tipo de veículo</b>
+         </color>
+         <br>Clique para ver uma lista de veículos por tipo.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="multilist:vehicle_sort_current_capacity_stt">Classificar por capacidade atual</LOC_STRING>
+      <LOC_STRING _locID="multilist:vehicle_sort_current_capacity_ltt">
+         <color r="255" g="248" b="178">
+            <b>Classificar por capacidade atual</b>
+         </color>
+         <br>Clique para classificar a lista de veículos com base em sua capacidade atual.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="multilist:vehicle_sort_total_capacity_stt">Classificar por capacidade total</LOC_STRING>
+      <LOC_STRING _locID="multilist:vehicle_sort_total_capacity_ltt">
+         <color r="255" g="248" b="178">
+            <b>Classificar por capacidade total</b>
+         </color>
+         <br>Clique para classificar a lista de veículos com base em sua capacidade total.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="multilist:vehicle_sort_status_stt">Classificar por status</LOC_STRING>
+      <LOC_STRING _locID="multilist:vehicle_sort_status_ltt">
+         <color r="255" g="248" b="178">
+            <b>Classificar por status</b>
+         </color>
+         <br>Clique para classificar a lista de veículos com base em seu status atual.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="multilist:species_label">
+         <font name="arial" size="11" shadowx="-1" shadowy="1" shadowa="128">
+            <color r="255" g="248" b="178">
+               <b>Nº de espécies:</b>
+            </color>
+         </font>
       </LOC_STRING>
       <LOC_STRING _locID="options:sttformat">
          <font name="arial" size="10">%text%</font>
@@ -2106,7 +2597,7 @@ Nº de doações:</b>
          <color r="255" g="248" b="178">
             <b>Modo de janela</b>
          </color>
-         <br>Selecione para executar o Zoo Tycoon 2 em uma janela, com a área de trabalho ainda visível.</br>
+         <br>Selecione para jogar o Zoo Tycoon 2 em uma janela, com a área de trabalho ainda visível.</br>
       </LOC_STRING>
       <LOC_STRING _locID="options:windowed_screen_button_stt">Modo de janela</LOC_STRING>
       <LOC_STRING _locID="options:videoquality">
@@ -2123,7 +2614,7 @@ Nº de doações:</b>
          <color r="255" g="248" b="178">
             <b>Nível alto de detalhe</b>
          </color>
-         <br>Selecione para jogar o Zoo Tycoon 2 com a qualidade de vídeo mais alta. Você poderá ver mais detalhes, mas o desempenho do jogo será mais lento.</br>
+         <br>Selecione para jogar com a qualidade de vídeo mais alta. Você poderá ver mais detalhes, mas o desempenho do jogo será mais lento.</br>
       </LOC_STRING>
       <LOC_STRING _locID="options:high_detail_button_stt">Nível alto de detalhe</LOC_STRING>
       <LOC_STRING _locID="options:medium_preset">
@@ -2135,7 +2626,7 @@ Nº de doações:</b>
          <color r="255" g="248" b="178">
             <b>Nível médio de detalhe</b>
          </color>
-         <br>Selecione para jogar o Zoo Tycoon 2 com qualidade de vídeo média, na qual há um equilíbrio entre os detalhes de vídeo e o desempenho do jogo.</br>
+         <br>Selecione para jogar com qualidade de vídeo média, na qual há um equilíbrio entre os detalhes de vídeo e o desempenho do jogo.</br>
       </LOC_STRING>
       <LOC_STRING _locID="options:medium_detail_button_stt">Nível médio de detalhe</LOC_STRING>
       <LOC_STRING _locID="options:low_preset">
@@ -2147,7 +2638,7 @@ Nº de doações:</b>
          <color r="255" g="248" b="178">
             <b>Nível baixo de detalhe</b>
          </color>
-         <br>Selecione para jogar o Zoo Tycoon 2 com a qualidade de vídeo mais baixa. Você verá menos detalhes, mas o desempenho do jogo será melhor.</br>
+         <br>Selecione para jogar com a qualidade de vídeo mais baixa. Você verá menos detalhes, mas o desempenho do jogo será melhor.</br>
       </LOC_STRING>
       <LOC_STRING _locID="options:low_detail_button_stt">Nível baixo de detalhe</LOC_STRING>
       <LOC_STRING _locID="options:custom_preset">
@@ -2187,19 +2678,24 @@ Nº de doações:</b>
             <b>Desabilit.</b>
          </font>
       </LOC_STRING>
+      <LOC_STRING _locID="options:ultra">
+         <font name="arial" size="10">
+            <b>Muito alto</b>
+         </font>
+      </LOC_STRING>
       <LOC_STRING _locID="options:high">
          <font name="arial" size="10">
-            <b>Alta</b>
+            <b>Alto</b>
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="options:medium">
          <font name="arial" size="10">
-            <b>Média</b>
+            <b>Médio</b>
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="options:low">
          <font name="arial" size="10">
-            <b>Barato</b>
+            <b>Baixo</b>
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="options:environmentdetail">
@@ -2212,13 +2708,13 @@ Nº de doações:</b>
             <color r="255" g="248" b="178">
                <b>Alterar nível de detalhe do ambiente</b>
             </color>
-            <br>Deslize esta barra para ajustar o nível de detalhe do ambiente no mapa do zoológico. O ambiente detalhado pode tornar o desempenho do jogo mais lento.</br>
+            <br>Deslize esta barra para ajustar o nível de detalhe do ambiente no mapa do zoológico. Um ambiente detalhado pode tornar o desempenho do jogo mais lento.</br>
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="options:environment_detail_button_stt">Alterar nível de detalhe do ambiente</LOC_STRING>
       <LOC_STRING _locID="options:enableshadows">
          <font name="arial" size="10" shadowx="1" shadowy="1" shadowa="64">
-            <b>Detalhe da sombra</b>
+            <b>Detalhe das sombras</b>
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="options:shadow_detail_button_ltt">
@@ -2226,7 +2722,7 @@ Nº de doações:</b>
             <color r="255" g="248" b="178">
                <b>Alterar nível de detalhe da sombra</b>
             </color>
-            <br>Deslize esta barra para ajustar o nível de detalhe das sombras no mapa do zoológico. As sombras detalhadas podem tornar o desempenho do jogo mais lento.</br>
+            <br>Deslize esta barra para ajustar o nível de detalhe das sombras no mapa do zoológico. Sombras detalhadas podem tornar o desempenho do jogo mais lento.</br>
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="options:shadow_detail_button_stt">Alterar nível de detalhe da sombra</LOC_STRING>
@@ -2238,7 +2734,7 @@ Nº de doações:</b>
       <LOC_STRING _locID="options:detail_objects_detail_button_ltt">
          <font name="arial" size="10">
             <color r="255" g="248" b="178">
-               <b>Alterar nível de detalhe dos objetos do terreno </b>
+               <b>Alterar nível de detalhe dos objetos do terreno</b>
             </color>
             <br>Deslize esta barra para alterar o nível de detalhe dos objetos exibidos no terreno, incluindo pequenos tufos de grama e pedras que são apropriados para o tipo de bioma do terreno.</br>
          </font>
@@ -2250,7 +2746,7 @@ Nº de doações:</b>
       </LOC_STRING>
       <LOC_STRING _locID="options:terraintexturesize">
          <font name="arial" size="10" shadowx="1" shadowy="1" shadowa="64">
-            <b>Tamanho da textura terreno</b>
+            <b>Tamanho textura terreno</b>
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="options:terrainblending">
@@ -2300,7 +2796,7 @@ Nº de doações:</b>
       </LOC_STRING>
       <LOC_STRING _locID="options:speculareffects">
          <font name="arial" size="10" shadowx="1" shadowy="1" shadowa="64">
-            <b>Detalhe efeitos especulares </b>
+            <b>Detalhe efeitos especulares</b>
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="options:fontshadows">
@@ -2316,7 +2812,7 @@ Nº de doações:</b>
       <LOC_STRING _locID="options:back">
          <font name="arial" size="14">Sair</font>
       </LOC_STRING>
-      <LOC_STRING _locID="options:exit_download_button_stt">Sair da tela de downloads</LOC_STRING>
+      <LOC_STRING _locID="options:exit_dowload_button_stt">Sair da tela de downloads</LOC_STRING>
       <LOC_STRING _locID="options:exit_dowload_button_ltt">
          <color r="255" g="248" b="178">
             <b>Sair da tela de downloads</b>
@@ -2347,7 +2843,7 @@ Nº de doações:</b>
       </LOC_STRING>
       <LOC_STRING _locID="options:highres">
          <font name="arial" size="10">
-            <b>1280X1024</b>
+            <b>1280x1024</b>
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="options:mediumres">
@@ -2376,21 +2872,21 @@ Nº de doações:</b>
          <color r="255" g="248" b="178">
             <b>Aumentar volume master</b>
          </color>
-         <br>Clique para aumentar o volume master, que inclui os efeitos sonoros dos animais e do ambiente.</br>
+         <br>Clique para aumentar o volume master, que inclui efeitos sonoros de animais e do ambiente.</br>
       </LOC_STRING>
       <LOC_STRING _locID="options:master_audio_higher_button_stt">Aumentar volume master</LOC_STRING>
       <LOC_STRING _locID="options:master_audio_lower_button_ltt">
          <color r="255" g="248" b="178">
             <b>Diminuir volume master</b>
          </color>
-         <br>Clique para diminuir o volume master, que inclui os efeitos sonoros dos animais e do ambiente.</br>
+         <br>Clique para diminuir o volume master, que inclui efeitos sonoros de animais e do ambiente.</br>
       </LOC_STRING>
       <LOC_STRING _locID="options:master_audio_lower_button_stt">Diminuir volume master</LOC_STRING>
       <LOC_STRING _locID="options:master_audio_thumb_button_ltt">
          <color r="255" g="248" b="178">
             <b>Alterar volume master</b>
          </color>
-         <br>Deslize esta barra para a esquerda ou para a direita a fim de alterar o volume master, que inclui os efeitos sonoros dos animais e do ambiente.</br>
+         <br>Deslize para alterar o volume master, que inclui efeitos sonoros de animais e do ambiente.</br>
       </LOC_STRING>
       <LOC_STRING _locID="options:master_audio_thumb_button_stt">Alterar volume master</LOC_STRING>
       <LOC_STRING _locID="options:musicvolume">
@@ -2409,14 +2905,14 @@ Nº de doações:</b>
          <color r="255" g="248" b="178">
             <b>Diminuir volume da música dos menus</b>
          </color>
-         <br>Clique para aumentar o volume da música que toca quando os menus são exibidos.</br>
+         <br>Clique para diminuir o volume da música que toca quando os menus são exibidos.</br>
       </LOC_STRING>
       <LOC_STRING _locID="options:music_audio_lower_button_stt">Diminuir volume da música dos menus</LOC_STRING>
       <LOC_STRING _locID="options:music_audio_thumb_button_ltt">
          <color r="255" g="248" b="178">
             <b>Alterar volume da música dos menus</b>
          </color>
-         <br>Deslize a barra para a esquerda ou direita a fim de alterar o volume da música que toca quando os menus são exibidos.</br>
+         <br>Deslize para alterar o volume da música que toca quando os menus são exibidos.</br>
       </LOC_STRING>
       <LOC_STRING _locID="options:music_audio_thumb_button_stt">Alterar volume da música dos menus</LOC_STRING>
       <LOC_STRING _locID="options:number">
@@ -2445,7 +2941,7 @@ Nº de doações:</b>
       </LOC_STRING>
       <LOC_STRING _locID="options:firstpersonmode">
          <font name="arial" size="10" shadowx="1" shadowy="1" shadowa="64">
-            <b>Modo Visitante zôo</b>
+            <b>Modo visit. do zôo</b>
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="options:enablemouselook">
@@ -2480,7 +2976,7 @@ Nº de doações:</b>
          <color r="255" g="248" b="178">
             <b>Mensagem do dia</b>
          </color>
-         <br>Selecione para permitir que o Zoo Tycoon 2 estabeleça conexão com a Internet, baixe novas mensagens e as exiba no menu principal.</br>
+         <br>Selecione para permitir que o jogo estabeleça conexão com a Internet, baixe novas mensagens e as exiba no menu principal.</br>
       </LOC_STRING>
       <LOC_STRING _locID="options:misc_motd_button_stt">Mensagem do dia</LOC_STRING>
       <LOC_STRING _locID="options:downloadlabel">
@@ -2495,7 +2991,7 @@ Nº de doações:</b>
          <color r="255" g="248" b="178">
             <b>Habilitar ou desabilitar conteúdo</b>
          </color>
-         <br>Selecione para habilitar ou desabilitar o conteúdo baixado da Internet para uso no Zoo Tycoon 2.</br>
+         <br>Selecione para habilitar ou desabilitar conteúdo baixado da Internet para uso no jogo.</br>
       </LOC_STRING>
       <LOC_STRING _locID="options:show_content_stt">Localizar novo conteúdo</LOC_STRING>
       <LOC_STRING _locID="options:show_content_ltt">
@@ -2509,7 +3005,7 @@ Nº de doações:</b>
          <color r="255" g="248" b="178">
             <b>Alterar configuração</b>
          </color>
-         <br>Deslize esta barra para a esquerda ou a direita a fim de alterar a configuração de detalhes de vídeo.</br>
+         <br>Deslize para alterar a configuração de detalhes de vídeo.</br>
       </LOC_STRING>
       <LOC_STRING _locID="options:setting_slider_higher_stt">Aumentar configuração</LOC_STRING>
       <LOC_STRING _locID="options:setting_slider_higher_ltt">
@@ -2524,6 +3020,99 @@ Nº de doações:</b>
             <b>Diminuir configuração</b>
          </color>
          <br>Clique para diminuir a configuração de detalhes de vídeo.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="options:soundmode">
+         <font name="arial" size="10" shadowx="1" shadowy="1" shadowa="64">
+            <b>Qualidade do som</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="options:soundmode_16bit">
+         <font name="arial" size="10">
+            <b>Modo de 16 bits</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="options:soundmode_16bit_stt">Modo de 16 bits</LOC_STRING>
+      <LOC_STRING _locID="options:soundmode_16bit_ltt">
+         <color r="255" g="248" b="178">
+            <b>Modo de 16 bits</b>
+         </color>
+         <br>Selecione para tocar sons no modo de 16 bits.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="options:soundmode_8bit">
+         <font name="arial" size="10">
+            <b>Modo de 8 bits</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="options:soundmode_8bit_ltt">
+         <color r="255" g="248" b="178">
+            <b>Modo de 8 bits</b>
+         </color>
+         <br>Selecione para tocar sons no modo de 8 bits.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="options:soundmode_8bit_stt">Modo de 8 bits</LOC_STRING>
+      <LOC_STRING _locID="options:twodvolume">
+         <font name="arial" size="10" shadowx="1" shadowy="1" shadowa="64">
+            <b>Volume de SFX 2D</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="options:twod_audio_lower_button_stt">Diminuir volume de SFX 2D</LOC_STRING>
+      <LOC_STRING _locID="options:twod_audio_lower_button_ltt">
+         <color r="255" g="248" b="178">
+            <b>Diminuir volume de SFX 2D</b>
+         </color>
+         <br>Clique para diminuir o volume de SFX 2D, que inclui efeitos sonoros do ambiente.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="options:twod_audio_higher_button_stt">Aumentar volume de SFX 2D</LOC_STRING>
+      <LOC_STRING _locID="options:twod_audio_higher_button_ltt">
+         <color r="255" g="248" b="178">
+            <b>Aumentar volume de SFX 2D</b>
+         </color>
+         <br>Clique para aumentar o volume de SFX 2D, que inclui efeitos sonoros do ambiente.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="options:twod_audio_thumb_button_stt">Alterar volume de SFX 2D</LOC_STRING>
+      <LOC_STRING _locID="options:twod_audio_thumb_button_ltt">
+         <color r="255" g="248" b="178">
+            <b>Alterar volume de SFX 2D</b>
+         </color>
+         <br>Deslize para alterar o volume de SFX 2D, que inclui efeitos sonoros do ambiente.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="options:threedvolume">
+         <font name="arial" size="10" shadowx="1" shadowy="1" shadowa="64">
+            <b>Volume de SFX 3D</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="options:threed_audio_higher_button_stt">Aumentar volume de SFX 3D</LOC_STRING>
+      <LOC_STRING _locID="options:threed_audio_higher_button_ltt">
+         <color r="255" g="248" b="178">
+            <b>Aumentar volume de SFX 3D</b>
+         </color>
+         <br>Clique para aumentar o volume de SFX 3D, que inclui efeitos sonoros do ambiente.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="options:threed_audio_lower_button_stt">Diminuir volume de SFX 3D</LOC_STRING>
+      <LOC_STRING _locID="options:threed_audio_lower_button_ltt">
+         <color r="255" g="248" b="178">
+            <b>Diminuir volume de SFX 3D</b>
+         </color>
+         <br>Clique para diminuir o volume de SFX 3D, que inclui efeitos sonoros do ambiente.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="options:threed_audio_thumb_button_stt">Alterar volume de SFX 3D</LOC_STRING>
+      <LOC_STRING _locID="options:threed_audio_thumb_button_ltt">
+         <color r="255" g="248" b="178">
+            <b>Alterar volume de SFX 3D</b>
+         </color>
+         <br>Deslize para alterar o volume de SFX 3D, que inclui efeitos sonoros do ambiente.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="options:shaderdetail">
+         <font name="arial" size="10" shadowx="1" shadowy="1" shadowa="64">
+            <b>Detalhe do shader</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="options:download_cancel_button_stt">Baixar ou cancelar</LOC_STRING>
+      <LOC_STRING _locID="options:download_cancel_button_ltt">
+         <color r="255" g="248" b="178">
+            <b>Baixar ou cancelar</b>
+         </color>
+         <br>Clique para começar a baixar este item ou clique durante o download para cancelar.</br>
       </LOC_STRING>
       <LOC_STRING _locID="photoalbum:filmcount">
          <font name="comic sans ms" size="12">%text%</font>
@@ -2651,7 +3240,7 @@ Nº de doações:</b>
       <LOC_STRING _locID="photoalbum:photo_safari_label">
          <font name="arial" size="16" image="ui\font\color_mainmenu.tga">
             <color r="255" g="248" b="178">
-               <b>Safári fotográfico </b>
+               <b>Safári fotográfico</b>
             </color>
          </font>
       </LOC_STRING>
@@ -2660,12 +3249,12 @@ Nº de doações:</b>
          <color r="255" g="248" b="178">
             <b>Selecionar/ampliar foto</b>
          </color>
-         <br>Clique para selecionar uma foto ou clique duas vezes para ampliar a foto. Depois de selecioná-la, é possível mover a foto para um álbum ou excluí-la.</br>
+         <br>Clique para selecionar uma foto ou clique duas vezes para ampliá-la. Uma vez selecionada, a foto pode ser transferida para um álbum ou excluída.</br>
       </LOC_STRING>
       <LOC_STRING _locID="photoalbum:photo_album_manager_label">
          <font name="arial" size="14" image="ui\font\color_mainmenu.tga">
             <color r="255" g="248" b="178">
-               <b>Gerenciador de Álbuns de Fotos</b>
+               <b>Gerenciador de álbuns de fotos</b>
             </color>
          </font>
       </LOC_STRING>
@@ -2797,7 +3386,7 @@ Nº de doações:</b>
       <LOC_STRING _locID="photochal:challenge_won_label">
          <font name="arial" size="18" image="ui\font\color_mainmenu.tga">
             <color r="255" g="248" b="178">
-               <b>Desafio cumprido com êxito!</b>
+               <b>Desafio superado com êxito!</b>
             </color>
          </font>
       </LOC_STRING>
@@ -2862,7 +3451,7 @@ Nº de doações:</b>
       </LOC_STRING>
       <LOC_STRING _locID="photom:spacebarmessage">
          <font name="arial" size="12">
-            <b>Pressione a barra de espaço para tirar uma foto</b>
+            <b>Pressione a BARRA DE ESPAÇO para tirar uma foto</b>
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="photom:photo_zoopedia_button_stt">Exibir tópico da Zoopédia</LOC_STRING>
@@ -2896,7 +3485,7 @@ Nº de doações:</b>
       <LOC_STRING _locID="photom:photo_right_click_message">
          <font name="arial" size="9" shadowx="-1" shadowy="1" shadowa="64">
             <color r="255" g="255" b="178">
-               <b>Clique com o botão direito do mouse para "ativar o cursor".</b>
+               <b>Clique com o botão direito do mouse para ativar o cursor.</b>
             </color>
          </font>
       </LOC_STRING>
@@ -2917,7 +3506,7 @@ Nº de doações:</b>
       <LOC_STRING _locID="photom:spacebar_take_photo">
          <font name="arial" size="12" shadowx="-1" shadowy="1" shadowa="64">
             <color r="255" g="248" b="178">
-               <b>Pressione a BARRA DE ESPAÇO para tirar uma foto.</b>
+               <b>Pressione a BARRA DE ESPAÇO para tirar uma foto</b>
             </color>
          </font>
       </LOC_STRING>
@@ -3061,6 +3650,20 @@ Nº de doações:</b>
             </color>
          </font>
       </LOC_STRING>
+      <LOC_STRING _locID="shell:posmovingformat">
+         <font name="arial" size="14">
+            <color r="0" g="255" b="0">
+               <b>%text%</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="shell:negmovingformat">
+         <font name="arial" size="14">
+            <color r="255" g="0" b="0">
+               <b>%text%</b>
+            </color>
+         </font>
+      </LOC_STRING>
       <LOC_STRING _locID="shell:adoption_number">
          <font name="arial" size="10" shadowx="1" shadowy="1" shadowa="64">
             <color r="25" g="25" b="255">
@@ -3068,7 +3671,7 @@ Nº de doações:</b>
             </color>
          </font>
       </LOC_STRING>
-      <LOC_STRING _locID="shell:pgb_construction_stt">Construção </LOC_STRING>
+      <LOC_STRING _locID="shell:pgb_construction_stt">Construção</LOC_STRING>
       <LOC_STRING _locID="shell:pgb_pointer_construction">
          <font name="arial" size="10" shadowx="1" shadowy="1" shadowa="32">
             <color r="59" g="84" b="65">
@@ -3081,6 +3684,8 @@ Nº de doações:</b>
             <b>Construção</b>
          </color>
          <br>Clique para exibir o painel Construção, onde você pode comprar cercas, trilhas, construções, bancos, chafarizes, lixeiras e outros materiais.</br>
+         <br/>
+         <color r="255" g="248" b="178">(Tecla de acesso: CTRL-C)</color>
       </LOC_STRING>
       <LOC_STRING _locID="shell:construction_fence_tab_stt">Cercas</LOC_STRING>
       <LOC_STRING _locID="shell:construction_fence_tab_ltt">
@@ -3160,12 +3765,14 @@ Nº de doações:</b>
          </color>
          <br>Clique para exibir a guia Trilhas, que mostra os diferentes tipos de trilha que você pode comprar.</br>
       </LOC_STRING>
-      <LOC_STRING _locID="shell:pgb_animal_stt">Animais </LOC_STRING>
+      <LOC_STRING _locID="shell:pgb_animal_stt">Animais</LOC_STRING>
       <LOC_STRING _locID="shell:pgb_animal_ltt">
          <color r="255" g="248" b="178">
             <b>Animais</b>
          </color>
          <br>Clique para exibir o painel Animais, onde você pode adotar animais ou comprar benefícios, abrigos e alimentos.</br>
+         <br/>
+         <color r="255" g="248" b="178">(Tecla de acesso: CTRL-M)</color>
       </LOC_STRING>
       <LOC_STRING _locID="shell:pgb_pointer_animal">
          <font name="arial" size="10" shadowx="1" shadowy="1" shadowa="32">
@@ -3179,7 +3786,7 @@ Nº de doações:</b>
          <color r="255" g="248" b="178">
             <b>Recusar adoção</b>
          </color>
-         <br>Clique para recusar o animal selecionado para adoção.</br>
+         <br>Clique para recusar o animal adotável selecionado e trocá-lo por outro.</br>
       </LOC_STRING>
       <LOC_STRING _locID="shell:female_button_stt">Fêmea</LOC_STRING>
       <LOC_STRING _locID="shell:female_button_ltt">
@@ -3213,7 +3820,7 @@ Nº de doações:</b>
       <LOC_STRING _locID="shell:animal_enrichment_buy_area_label">
          <font name="arial" size="10" shadowx="1" shadowy="1" shadowa="32">
             <color r="59" g="84" b="65">
-               <b>Benefícios do animal </b>
+               <b>Benefícios do animal</b>
             </color>
          </font>
       </LOC_STRING>
@@ -3223,12 +3830,12 @@ Nº de doações:</b>
          </color>
          <br>Clique para exibir os brinquedos e outros benefícios que podem ser comprados para os animais.</br>
       </LOC_STRING>
-      <LOC_STRING _locID="shell:animal_food_tab_stt">Alimentos </LOC_STRING>
+      <LOC_STRING _locID="shell:animal_food_tab_stt">Alimentos</LOC_STRING>
       <LOC_STRING _locID="shell:animal_food_tab_ltt">
          <color r="255" g="248" b="178">
             <b>Alimentos</b>
          </color>
-         <br>Clique para exibir os tipos de comida que podem ser comprados para os animais. </br>
+         <br>Clique para exibir os tipos de comida que podem ser comprados para os animais.</br>
       </LOC_STRING>
       <LOC_STRING _locID="shell:animal_food_buy_area_label">
          <font name="arial" size="10" shadowx="1" shadowy="1" shadowa="32">
@@ -3312,7 +3919,9 @@ Nº de doações:</b>
          <color r="255" g="248" b="178">
             <b>Paisagem</b>
          </color>
-         <br>Clique para exibir as ferramentas de paisagem, que permitem a colocação de árvores, plantas e pedras, além de criar colinas, vales e lagos. </br>
+         <br>Clique para exibir as ferramentas de paisagem, que permitem a colocação de árvores, plantas e pedras, além de criar colinas, vales e lagos.</br>
+         <br/>
+         <color r="255" g="248" b="178">(Tecla de acesso: CTRL-T)</color>
       </LOC_STRING>
       <LOC_STRING _locID="shell:pgb_pointer_terrain">
          <font name="arial" size="10" shadowx="1" shadowy="1" shadowa="32">
@@ -3391,7 +4000,7 @@ Nº de doações:</b>
          </color>
          <br>Nesta guia, você pode escolher um tipo de bioma e depois usar o mouse para pintar o terreno com plantas e árvores apropriadas para o bioma selecionado.</br>
       </LOC_STRING>
-      <LOC_STRING _locID="shell:previousbiome_stt">Bioma anterior</LOC_STRING>
+      <LOC_STRING _locID="shell:previousbiome_stt">Bioma anterior </LOC_STRING>
       <LOC_STRING _locID="shell:previousbiome_ltt">
          <color r="255" g="248" b="178">
             <b>Bioma anterior </b>
@@ -3411,6 +4020,8 @@ Nº de doações:</b>
             <b> Aumentar tamanho do pincel</b>
          </color>
          <br>Clique para aumentar o tamanho da área pintada pelo pincel de bioma ou pela ferramenta de modificação de terreno cada vez que você clica com o mouse.</br>
+         <br/>
+         <color r="255" g="248" b="178">(Tecla de acesso: ] )</color>
       </LOC_STRING>
       <LOC_STRING _locID="shell:brushdecrease_stt">Diminuir tamanho do pincel</LOC_STRING>
       <LOC_STRING _locID="shell:brushdecrease_ltt">
@@ -3418,6 +4029,8 @@ Nº de doações:</b>
             <b>Diminuir tamanho do pincel</b>
          </color>
          <br>Clique para diminuir o tamanho da área pintada pelo pincel de bioma ou pela ferramenta de modificação de terreno cada vez que você clica com o mouse.</br>
+         <br/>
+         <color r="255" g="248" b="178">(Tecla de acesso: [ )</color>
       </LOC_STRING>
       <LOC_STRING _locID="shell:terrain_tree_tab_stt">Árvores</LOC_STRING>
       <LOC_STRING _locID="shell:terrain_tree_buy_area_label">
@@ -3473,7 +4086,9 @@ Nº de doações:</b>
          <color r="255" g="248" b="178">
             <b>Funcionários</b>
          </color>
-         <br>Clique para exibir o painel Funcionários, para contratar a equipe, incluindo tratadores, funcionários da manutenção e monitores.</br>
+         <br>Clique para exibir o painel Funcionários e contratar sua equipe, incluindo tratadores, funcionários da manutenção e monitores.</br>
+         <br/>
+         <color r="255" g="248" b="178">(Tecla de acesso: CTRL-H)</color>
       </LOC_STRING>
       <LOC_STRING _locID="shell:staff_buy_area_label">
          <font name="arial" size="10" shadowx="1" shadowy="1" shadowa="32">
@@ -3536,7 +4151,9 @@ Nº de doações:</b>
          <color r="255" g="248" b="178">
             <b>Mais zoom</b>
          </color>
-         <br>Clique para aumentar o zoom e ver o seu zoológico mais perto. Você também pode usar a roda do mouse para aumentar o zoom.</br>
+         <br>Clique para aumentar o zoom e ver o seu zoológico mais de perto. Você também pode usar a roda do mouse para aumentar o zoom.</br>
+         <br/>
+         <color r="255" g="248" b="178">(Tecla de acesso: + no teclado numérico)</color>
       </LOC_STRING>
       <LOC_STRING _locID="shell:zoom_out_button_stt">Menos zoom</LOC_STRING>
       <LOC_STRING _locID="shell:zoom_out_button_ltt">
@@ -3544,6 +4161,8 @@ Nº de doações:</b>
             <b>Menos zoom</b>
          </color>
          <br>Clique para diminuir o zoom e ver o seu zoológico do alto. Você também pode usar a roda do mouse para diminuir o zoom.</br>
+         <br/>
+         <color r="255" g="248" b="178">(Tecla de acesso: - no teclado numérico)</color>
       </LOC_STRING>
       <LOC_STRING _locID="shell:rotate_counter_clockwise_button_stt">Girar exibição no sentido anti-horário</LOC_STRING>
       <LOC_STRING _locID="shell:rotate_counter_clockwise_button_ltt">
@@ -3551,6 +4170,8 @@ Nº de doações:</b>
             <b>Girar exibição no sentido anti-horário</b>
          </color>
          <br>Clique para girar a imagem do zoológico no sentido contrário ao dos ponteiros do relógio.</br>
+         <br/>
+         <color r="255" g="248" b="178">(Tecla de acesso: CTRL-tecla de seta para a esquerda)</color>
       </LOC_STRING>
       <LOC_STRING _locID="shell:rotate_clockwise_button_stt">Girar exibição no sentido horário</LOC_STRING>
       <LOC_STRING _locID="shell:rotate_clockwise_button_ltt">
@@ -3558,6 +4179,8 @@ Nº de doações:</b>
             <b>Girar exibição no sentido horário</b>
          </color>
          <br>Clique para girar a imagem do zoológico no sentido dos ponteiros do relógio.</br>
+         <br/>
+         <color r="255" g="248" b="178">(Tecla de acesso: CTRL-tecla de seta para a direita)</color>
       </LOC_STRING>
       <LOC_STRING _locID="shell:multiinfo_button_stt">Estatísticas rápidas do zoológico</LOC_STRING>
       <LOC_STRING _locID="shell:multiinfo_button_ltt">
@@ -3565,6 +4188,8 @@ Nº de doações:</b>
             <b>Estatísticas rápidas do zoológico</b>
          </color>
          <br>Clique para acessar informações sobre animais, visitantes e funcionários.</br>
+         <br/>
+         <color r="255" g="248" b="178">(Tecla de acesso: CTRL-Q)</color>
       </LOC_STRING>
       <LOC_STRING _locID="shell:undo_button_stt">Desfazer</LOC_STRING>
       <LOC_STRING _locID="shell:undo_button_ltt">
@@ -3572,6 +4197,8 @@ Nº de doações:</b>
             <b>Desfazer</b>
          </color>
          <br>Clique para desfazer a última ação executada.</br>
+         <br/>
+         <color r="255" g="248" b="178">(Tecla de acesso: CTRL-Z)</color>
       </LOC_STRING>
       <LOC_STRING _locID="shell:zoo_fame_button_stt">Exibir reputação do zoológico</LOC_STRING>
       <LOC_STRING _locID="shell:zoo_fame_button_ltt">
@@ -3586,6 +4213,8 @@ Nº de doações:</b>
             <b>Reciclar objetos e construções</b>
          </color>
          <br>Clique para transformar o cursor em um buldôzer e clique em qualquer objeto do zôo para excluí-lo. Você será pago para reciclar a maioria dos objetos.</br>
+         <br/>
+         <color r="255" g="248" b="178">(Tecla de acesso: Delete)</color>
       </LOC_STRING>
       <LOC_STRING _locID="shell:scenario_goals_button_stt">Exibir metas e desafios</LOC_STRING>
       <LOC_STRING _locID="shell:scenario_goals_button_ltt">
@@ -3593,13 +4222,17 @@ Nº de doações:</b>
             <b>Exibir metas e desafios</b>
          </color>
          <br>Clique para exibir informações sobre metas e desafios atuais.</br>
+         <br/>
+         <color r="255" g="248" b="178">(Tecla de acesso: CTRL-G)</color>
       </LOC_STRING>
       <LOC_STRING _locID="shell:options_button_stt">Exibir opções de jogo</LOC_STRING>
       <LOC_STRING _locID="shell:options_button_ltt">
          <color r="255" g="248" b="178">
             <b>Opções de jogo</b>
          </color>
-         <br>Clique para exibir o menu Opções de jogo, onde você pode salvar e carregar jogos, retornar ao menu principal ou sair do Zoo Tycoon 2.</br>
+         <br>Clique para exibir o menu Opções de jogo, onde você pode salvar e carregar jogos, retornar ao menu principal ou sair do jogo.</br>
+         <br/>
+         <color r="255" g="248" b="178">(Tecla de acesso: Esc)</color>
       </LOC_STRING>
       <LOC_STRING _locID="shell:zoo_finance_button_stt">Exibir status do zoológico</LOC_STRING>
       <LOC_STRING _locID="shell:zoo_finance_button_ltt">
@@ -3607,6 +4240,8 @@ Nº de doações:</b>
             <b>Exibir finanças do zoológico</b>
          </color>
          <br>Clique para exibir informações sobre o zoológico, incluindo receita, despesas, construções, prêmios, doações e gráficos informativos.</br>
+         <br/>
+         <color r="255" g="248" b="178">(Tecla de acesso: CTRL-F)</color>
       </LOC_STRING>
       <LOC_STRING _locID="shell:photo_album_button_stt">Exibir álbum de fotos</LOC_STRING>
       <LOC_STRING _locID="shell:photo_album_button_ltt">
@@ -3614,6 +4249,8 @@ Nº de doações:</b>
             <b>Exibir álbum de fotos</b>
          </color>
          <br>Clique para ver e organizar fotos tiradas no modo de safári fotográfico.</br>
+         <br/>
+         <color r="255" g="248" b="178">(Tecla de acesso: CTRL-P)</color>
       </LOC_STRING>
       <LOC_STRING _locID="shell:ingameoptions_label">
          <font name="arial" size="14" image="ui\font\color_mainmenu.tga">
@@ -3658,6 +4295,8 @@ Nº de doações:</b>
             <b>Girar objeto no sentido horário</b>
          </color>
          <br>Clique para girar o objeto selecionado no sentido horário antes de posicioná-lo.</br>
+         <br/>
+         <color r="255" g="248" b="178">(Tecla de acesso: ponto)</color>
       </LOC_STRING>
       <LOC_STRING _locID="shell:rotate_counter-clock_stt">Girar objeto no sentido anti-horário</LOC_STRING>
       <LOC_STRING _locID="shell:rotate_counter-clock_ltt">
@@ -3665,6 +4304,8 @@ Nº de doações:</b>
             <b>Girar objeto no sentido anti-horário</b>
          </color>
          <br>Clique para girar o objeto selecionado no sentido anti-horário antes de posicioná-lo.</br>
+         <br/>
+         <color r="255" g="248" b="178">(Tecla de acesso: vírgula)</color>
       </LOC_STRING>
       <LOC_STRING _locID="shell:devmodedisplay">
          <font name="arial" size="24" shadowx="2" shadowy="2" shadowa="32">
@@ -3698,10 +4339,16 @@ Nº de doações:</b>
             <b>Jogar e pausar</b>
          </color>
          <br>Clique para alternar entre jogo ativado e pausa.</br>
+         <br/>
+         <color r="255" g="248" b="178">(Tecla de acesso: P ou Pausar)</color>
       </LOC_STRING>
       <LOC_STRING _locID="shell:pause_game_label">
-         <font name="arial" size="24" shadowx="-1" shadowy="1">
-            <b>JOGO INTERROMPIDO</b>
+         <font name="arial" size="24" image="ui\font\color_mainmenu.tga" shadowx="-1" shadowy="1">
+            <color r="255" g="100" b="0">
+               <text>
+                  <b>JOGO EM PAUSA</b>
+               </text>
+            </color>
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="shell:filter_all">
@@ -3783,6 +4430,145 @@ Nº de doações:</b>
          <font name="arial" size="10" shadowx="-1" shadowy="1">
             <b>%text%</b>
          </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="shell:structures_transportation_tab_stt">Transporte</LOC_STRING>
+      <LOC_STRING _locID="shell:structures_transportation_tab_ltt">
+         <color r="255" g="248" b="178">
+            <b>Transporte</b>
+         </color>
+         <br>Clique para ver os sistemas de transporte que podem ser utilizados pelos visitantes para fazer tours e passeios pelo zoológico.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="shell:structures_transportation_buy_area_label">
+         <font name="arial" size="10" shadowx="1" shadowy="1" shadowa="32">
+            <color r="59" g="84" b="65">
+               <b>Transporte</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="shell:structures_elevatedpath_tab_stt">Trilhas elevadas</LOC_STRING>
+      <LOC_STRING _locID="shell:structures_elevatedpath_tab_ltt">
+         <color r="255" g="248" b="178">
+            <b>Trilhas elevadas</b>
+         </color>
+         <br>Clique para ver as opções de trilha elevada que você pode comprar para o zoológico.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="shell:structures_elevatedpath_buy_area_label">
+         <font name="arial" size="10" shadowx="1" shadowy="1" shadowa="32">
+            <color r="59" g="84" b="65">
+               <b>Trilhas elevadas</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="shell:structures_elevatedpathplacement_rampup_mode_stt">Modo de colocação de trilha elevada em rampa de subida</LOC_STRING>
+      <LOC_STRING _locID="shell:structures_elevatedpathplacement_rampup_mode_label">
+         <font name="arial" size="10" shadowx="1" shadowy="1" shadowa="32">
+            <color r="59" g="84" b="65">
+               <b>Rampa de subida</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="shell:structures_elevatedpathplacement_rampup_mode_ltt">
+         <color r="255" g="248" b="178">
+            <b>Modo de colocação de trilha elevada em rampa de subida</b>
+         </color>
+         <br>Clique para iniciar o modo de rampa de subida. Comece do chão ou de qualquer trilha elevada. Use o botão direito do mouse para concluir.</br>
+         <br/>
+         <color r="255" g="248" b="178">(Tecla de acesso: R)</color>
+      </LOC_STRING>
+      <LOC_STRING _locID="shell:structures_elevatedpathplacement_flat_mode_stt">Modo de colocação de trilha elevada em nível</LOC_STRING>
+      <LOC_STRING _locID="shell:structures_elevatedpathplacement_flat_mode_label">
+         <font name="arial" size="10" shadowx="1" shadowy="1" shadowa="32">
+            <color r="59" g="84" b="65">
+               <b>Modo de nível</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="shell:structures_elevatedpathplacement_flat_mode_ltt">
+         <color r="255" g="248" b="178">
+            <b>Modo de colocação de trilha elevada em nível</b>
+         </color>
+         <br>Clique para colocar a trilha elevada. Cliques subseqüentes adicionarão novas seções. Use o botão direito do mouse para concluir.</br>
+         <br/>
+         <color r="255" g="248" b="178">(Tecla de acesso: F)</color>
+      </LOC_STRING>
+      <LOC_STRING _locID="shell:structures_elevatedpathplacement_rampdown_mode_stt">Modo de colocação de trilha elevada em rampa de descida</LOC_STRING>
+      <LOC_STRING _locID="shell:structures_elevatedpathplacement_rampdown_mode_label">
+         <font name="arial" size="10" shadowx="1" shadowy="1" shadowa="32">
+            <color r="59" g="84" b="65">
+               <b>Rampa de descida</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="shell:structures_elevatedpathplacement_rampdown_mode_ltt">
+         <color r="255" g="248" b="178">
+            <b>Modo de colocação de trilha elevada em rampa de descida</b>
+         </color>
+         <br>Clique para iniciar o modo de rampa de descida. Comece do chão ou de qualquer trilha elevada. Use o botão direito do mouse para concluir.</br>
+         <br/>
+         <color r="255" g="248" b="178">(Tecla de acesso: V)</color>
+      </LOC_STRING>
+      <LOC_STRING _locID="shell:structures_elevatedpathplacement_raise_stt">Aumentar altura de trilha elevada</LOC_STRING>
+      <LOC_STRING _locID="shell:structures_elevatedpathplacement_raise_ltt">
+         <color r="255" g="248" b="178">
+            <b>Aumentar altura de trilha elevada</b>
+         </color>
+         <br>Clique para aumentar a altura de colocação da trilha elevada.</br>
+         <br/>
+         <color r="255" g="248" b="178">(Tecla de acesso: T)</color>
+      </LOC_STRING>
+      <LOC_STRING _locID="shell:structures_elevatedpathplacement_lower_stt">Diminuir altura de trilha elevada</LOC_STRING>
+      <LOC_STRING _locID="shell:structures_elevatedpathplacement_lower_ltt">
+         <color r="255" g="248" b="178">
+            <b>Diminuir altura de trilha elevada</b>
+         </color>
+         <br>Clique para diminuir a altura de colocação da trilha elevada.</br>
+         <br/>
+         <color r="255" g="248" b="178">(Tecla de acesso: B)</color>
+      </LOC_STRING>
+      <LOC_STRING _locID="shell:protected_area_label">
+         <font name="arial" size="20" image="ui\font\color_mainmenu.tga" shadowx="-1" shadowy="1">
+            <color r="255" g="197" b="78">
+               <text>
+                  <b>Área de preservação    </b>
+               </text>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="shell:traversability_calculation_label">
+         <font name="arial" size="16" image="ui\font\color_mainmenu.tga" shadowx="-1" shadowy="1">
+            <color r="240" g="64" b="48">
+               <text>
+                  <b>Calculando exibição...   </b>
+               </text>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="shell:influence_calculation_label">
+         <font name="arial" size="16" image="ui\font\color_mainmenu.tga" shadowx="-1" shadowy="1">
+            <color r="240" g="64" b="48">
+               <text>
+                  <b>Calculando influência...   </b>
+               </text>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="shell:structures_skypoleplacement_raise_stt">Aumentar altura de poste</LOC_STRING>
+      <LOC_STRING _locID="shell:structures_skypoleplacement_raise_ltt">
+         <color r="255" g="248" b="178">
+            <b>Aumentar altura de poste</b>
+         </color>
+         <br>Clique para aumentar a altura de um poste não colocado do teleférico.</br>
+         <br/>
+         <color r="255" g="248" b="178">(Tecla de acesso: T)</color>
+      </LOC_STRING>
+      <LOC_STRING _locID="shell:structures_skypoleplacement_lower_stt">Diminuir altura de poste</LOC_STRING>
+      <LOC_STRING _locID="shell:structures_skypoleplacement_lower_ltt">
+         <color r="255" g="248" b="178">
+            <b>Diminuir altura de poste</b>
+         </color>
+         <br>Clique para diminuir a altura de um poste não colocado do teleférico.</br>
+         <br/>
+         <color r="255" g="248" b="178">(Tecla de acesso: B)</color>
       </LOC_STRING>
       <LOC_STRING _locID="sort:sttformat">
          <font name="arial" size="10">%text%</font>
@@ -3915,6 +4701,13 @@ Nº de doações:</b>
             </color>
          </font>
       </LOC_STRING>
+      <LOC_STRING _locID="scenario:instant_format">
+         <font name="arial" size="12" shadowx="-1" shadowy="1" shadowa="128">
+            <color r="255" g="248" b="178">
+               <b>%text%</b>
+            </color>
+         </font>
+      </LOC_STRING>
       <LOC_STRING _locID="tutorial:sttformat">
          <font name="arial" size="10">%text%</font>
       </LOC_STRING>
@@ -3927,6 +4720,26 @@ Nº de doações:</b>
             <b>Continuar</b>
          </color>
          <br>Clique para continuar na próxima etapa do tutorial.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="transportation:sttformat">
+         <font name="arial" size="10">%text%</font>
+      </LOC_STRING>
+      <LOC_STRING _locID="transportation:lttformat">
+         <font name="arial" size="10">%text%</font>
+      </LOC_STRING>
+      <LOC_STRING _locID="transportation:roadcircuit_incomplete_stt">Clique para colocar estrada</LOC_STRING>
+      <LOC_STRING _locID="transportation:roadcircuit_incomplete_ltt">
+         <color r="255" g="248" b="178">
+            <b>Circuito de estradas incompleto</b>
+         </color>
+         <br>Este circuito de estradas está incompleto. Clique no ícone para continuar colocando estrada.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="transportation:skycircuit_incomplete_stt">Clique para colocar cabo</LOC_STRING>
+      <LOC_STRING _locID="transportation:skycircuit_incomplete_ltt">
+         <color r="255" g="248" b="178">
+            <b>Circuito de teleférico incompleto</b>
+         </color>
+         <br>Este circuito de teleférico está incompleto. Clique para continuar colocando cabo.</br>
       </LOC_STRING>
       <LOC_STRING _locID="uigraph:posformat">
          <font name="arial" size="10" shadowx="-1" shadowy="1" shadowa="255">
@@ -3955,19 +4768,19 @@ Nº de doações:</b>
          </color>
          <br>Clique para fechar a Zoopédia e retornar ao jogo.</br>
       </LOC_STRING>
-      <LOC_STRING _locID="zoopedia:next_topic_button_stt">Exibir próximo tópico</LOC_STRING>
+      <LOC_STRING _locID="zoopedia:next_topic_button_stt">Avançar</LOC_STRING>
       <LOC_STRING _locID="zoopedia:next_topic_button_ltt">
          <color r="255" g="248" b="178">
-            <b>Exibir próximo tópico</b>
+            <b>Avançar</b>
          </color>
-         <br>Clique para ver o próximo tópico da Zoopédia.</br>
+         <br>Clique para avançar para um tópico da Zoopédia visualizado anteriormente.</br>
       </LOC_STRING>
-      <LOC_STRING _locID="zoopedia:prev_topic_button_stt">Exibir tópico anterior</LOC_STRING>
+      <LOC_STRING _locID="zoopedia:prev_topic_button_stt">Voltar</LOC_STRING>
       <LOC_STRING _locID="zoopedia:prev_topic_button_ltt">
          <color r="255" g="248" b="178">
-            <b>Exibir tópico anterior</b>
+            <b>Voltar</b>
          </color>
-         <br>Clique para ver o tópico anterior da Zoopédia.</br>
+         <br>Clique para voltar a um tópico da Zoopédia visualizado anteriormente.</br>
       </LOC_STRING>
       <LOC_STRING _locID="zoopedia:toc_button_stt">Sumário</LOC_STRING>
       <LOC_STRING _locID="zoopedia:toc_button_ltt">
@@ -3983,12 +4796,15 @@ Nº de doações:</b>
       <LOC_STRING _locID="zoomap:foliagelabel">Folhagem</LOC_STRING>
       <LOC_STRING _locID="zoomap:youareherelabel">Você está aqui</LOC_STRING>
       <LOC_STRING _locID="zoomap:waterlabel">Água</LOC_STRING>
+      <LOC_STRING _locID="zoomap:elevatedpathlabel">Trilha elevada</LOC_STRING>
+      <LOC_STRING _locID="zoomap:groundtracklabel">Estrada</LOC_STRING>
+      <LOC_STRING _locID="zoomap:skytracklabel">Cabo do teleférico</LOC_STRING>
       <LOC_STRING _locID="zoomap:export_map_button_stt">Exportar mapa</LOC_STRING>
       <LOC_STRING _locID="zoomap:export_map_button_ltt">
          <color r="255" g="248" b="178">
             <b>Exportar mapa</b>
          </color>
-         <br>Clique para exportar uma cópia em HTML deste mapa para poder compartilhá-lo com outros usuários do Zoo Tycoon.</br>
+         <br>Clique para exportar uma cópia deste mapa em HTML para poder compartilhá-lo com outros usuários do Zoo Tycoon.</br>
       </LOC_STRING>
       <LOC_STRING _locID="zoomap:exit_button_stt">Retornar ao jogo</LOC_STRING>
       <LOC_STRING _locID="zoomap:exit_button_ltt">
@@ -3996,6 +4812,8 @@ Nº de doações:</b>
             <b>Retornar ao jogo</b>
          </color>
          <br>Clique para fechar o mapa de visão geral do zoológico e retornar ao jogo.</br>
+         <br/>
+         <color r="255" g="248" b="178">(Tecla de acesso: Tab)</color>
       </LOC_STRING>
       <LOC_STRING _locID="zoomap:legend_item_stt">Mostrar/ocultar itens</LOC_STRING>
       <LOC_STRING _locID="zoomap:legend_item_ltt">
@@ -4038,7 +4856,7 @@ Nº de doações:</b>
             </color>
          </font>
       </LOC_STRING>
-      <LOC_STRING _locID="zoostatus:money_format">$ %d</LOC_STRING>
+      <LOC_STRING _locID="zoostatus:money_format">$%d</LOC_STRING>
       <LOC_STRING _locID="zoostatus:number_format">%d</LOC_STRING>
       <LOC_STRING _locID="zoostatus:info_tab_label">
          <font name="arial" size="14" shadowx="-1" shadowy="1" shadowa="255">
@@ -4047,7 +4865,6 @@ Nº de doações:</b>
             </color>
          </font>
       </LOC_STRING>
-      <LOC_STRING _locID="zoostatus:info_tab_stt">Exibir informações sobre o zoológico</LOC_STRING>
       <LOC_STRING _locID="zoostatus:info_tab_ltt">
          <color r="255" g="248" b="178">
             <b>Informações sobre o zoológico</b>
@@ -4059,14 +4876,14 @@ Nº de doações:</b>
          <color r="255" g="248" b="178">
             <b>Aumentar preço do ingresso</b>
          </color>
-         <br>Clique para aumentar o preço do ingresso do zoológico. Um preço mais alto pode levar a menores expectativas por parte dos visitantes. </br>
+         <br>Clique para aumentar o preço do ingresso, o que pode levar a um número menor de visitantes com expectativas maiores. </br>
       </LOC_STRING>
       <LOC_STRING _locID="zoostatus:info_price_down_button_stt">Reduzir preço do ingresso</LOC_STRING>
       <LOC_STRING _locID="zoostatus:info_price_down_button_ltt">
          <color r="255" g="248" b="178">
             <b>Reduzir preço do ingresso</b>
          </color>
-         <br>Clique para reduzir preço do ingresso, que pode resultar no aumento da visitação ao zoológico.</br>
+         <br>Clique para reduzir o preço do ingresso, o que pode resultar no aumento da visitação ao zoológico.</br>
       </LOC_STRING>
       <LOC_STRING _locID="zoostatus:close_stt">Fechar</LOC_STRING>
       <LOC_STRING _locID="zoostatus:close_ltt">
@@ -4086,7 +4903,7 @@ Nº de doações:</b>
       <LOC_STRING _locID="zoostatus:balance_sheet_tab_ltt">
          <marketing_tab_ltt>
             <color r="255" g="248" b="178">
-               <b>Exibir relatório de receita e despesas</b>
+               <b>Relatório de receita e despesas</b>
             </color>
             <br>Clique para ver o relatório de receita e despesas do zoológico.</br>
          </marketing_tab_ltt>
@@ -4101,7 +4918,7 @@ Nº de doações:</b>
       <LOC_STRING _locID="zoostatus:graphs_tab_stt">Gráficos do zoológico</LOC_STRING>
       <LOC_STRING _locID="zoostatus:graphs_tab_ltt">
          <color r="255" g="248" b="178">
-            <b>Exibir gráficos do zoológico</b>
+            <b>Gráficos do zoológico</b>
          </color>
          <br>Clique para ver gráficos que mostram o progresso do zoológico em diversas categorias no decorrer do tempo.</br>
       </LOC_STRING>
@@ -4175,24 +4992,22 @@ Nº de doações:</b>
             </color>
          </font>
       </LOC_STRING>
-      <LOC_STRING _locID="zoostatus:donations_tab_stt">Exibir resumo de doações ao zôo</LOC_STRING>
       <LOC_STRING _locID="zoostatus:donations_tab_ltt">
          <color r="255" g="248" b="178">
             <b>Resumo de doações ao zôo</b>
          </color>
-         <br>Clique para ver um resumo de doações recebidas pelo zoológico.</br>
+         <br>Clique para ver um resumo das doações recebidas pelo zoológico.</br>
       </LOC_STRING>
-      <LOC_STRING _locID="zoostatus:donations_summary_filter_button_stt">Exibir resumo de doações ao zôo</LOC_STRING>
       <LOC_STRING _locID="zoostatus:donations_summary_filter_button_ltt">
          <color r="255" g="248" b="178">
-            <b>Exibir resumo de doações ao zôo</b>
+            <b>Resumo de doações ao zôo</b>
          </color>
          <br>Clique para ver um resumo das doações recebidas pelo zoológico.</br>
       </LOC_STRING>
-      <LOC_STRING _locID="zoostatus:donations_species_filter_button_stt">Exibir doações ao zoológico por espécie</LOC_STRING>
+      <LOC_STRING _locID="zoostatus:donations_species_filter_button_stt">Doações ao zoológico por espécie</LOC_STRING>
       <LOC_STRING _locID="zoostatus:donations_species_filter_button_ltt">
          <color r="255" g="248" b="178">
-            <b>Exibir doações ao zoológico por espécie</b>
+            <b>Doações ao zoológico por espécie</b>
          </color>
          <br>Clique para ver um resumo das doações recebidas por espécie pelo zoológico.</br>
       </LOC_STRING>
@@ -4243,7 +5058,7 @@ Nº de doações:</b>
          <color r="255" g="248" b="178">
             <b>Satisfação do animal</b>
          </color>
-         <br>Não basta ter muitos animais de diversas espécies: se eles não estiverem satisfeitos, o zoológico não ficará famoso. Mantenha os animais satisfeitos atendendo às suas necessidades.</br>
+         <br>Mesmo que você tenha muitos animais de diversas espécies diferentes, se eles não estiverem satisfeitos, seu zoológico não será famoso. Mantenha-os satisfeitos atendendo às necessidades deles.</br>
       </LOC_STRING>
       <LOC_STRING _locID="zoostatus:zoo_fame_guest_label">
          <font name="arial" size="10" shadowx="-1" shadowy="1" shadowa="255">
@@ -4257,21 +5072,21 @@ Nº de doações:</b>
          <color r="255" g="248" b="178">
             <b>Hábitats educacionais</b>
          </color>
-         <br>Os visitantes aumentam sua cultura quando vêem os animais em seus hábitats naturais. Se você se preocupar com o hábitat apropriado de cada animal, seu zoológico será considerado mais educacional, o que o tornará mais famoso.</br>
+         <br>Os zoológicos educativos são mais famosos. Os visitantes aumentam sua cultura ao ver os animais em seus hábitats naturais, junto a rochas e folhagens desse hábitat. Duas boas idéias: contratar monitores e agrupar biomas compatíveis.</br>
       </LOC_STRING>
       <LOC_STRING _locID="zoostatus:zoo_fame_guest_entertained_by_animals">Animais interessantes</LOC_STRING>
       <LOC_STRING _locID="zoostatus:zoo_fame_guest_entertained_by_animals_ltt">
          <color r="255" g="248" b="178">
             <b>Animais interessantes</b>
          </color>
-         <br>Os visitantes gostam de ver animais saudáveis, satisfeitos e ativos. Além disso, apreciam animais raros e exóticos. Para garantir isso, certifique-se de que os animais estão satisfeitos e têm muitas atividades para se ocupar, e que os visitantes podem vê-los de perto.</br>
+         <br>Os visitantes gostam de ver animais saudáveis, satisfeitos e ativos. Além disso, apreciam animais raros e exóticos. Para garantir isso, certifique-se de que os animais estão satisfeitos e têm muitas atividades com que se ocupar, e que os visitantes podem vê-los de perto.</br>
       </LOC_STRING>
       <LOC_STRING _locID="zoostatus:zoo_fame_guest_average_happiness_label">Satisfação do visitante</LOC_STRING>
       <LOC_STRING _locID="zoostatus:zoo_fame_guest_average_happiness_ltt">
          <color r="255" g="248" b="178">
             <b>Satisfação do visitante</b>
          </color>
-         <br>Não basta ter um zoológico educacional e animais interessantes: se os visitantes não estiverem satisfeitos, o zoológico não ficará famoso. Mantenha os visitantes satisfeitos atendendo às suas necessidades.</br>
+         <br>Mesmo que o seu zoológico seja educativo e os animais sejam muito interessantes, se os visitantes não estiverem satisfeitos, seu zoológico não será famoso. Mantenha-os satisfeitos atendendo às necessidades deles.</br>
       </LOC_STRING>
       <LOC_STRING _locID="zoostatus:zoo_fame_zoo_label">
          <font name="arial" size="10" shadowx="-1" shadowy="1" shadowa="255">
@@ -4292,25 +5107,25 @@ Nº de doações:</b>
          <color r="255" g="248" b="178">
             <b>Devolver ao hábitat natural</b>
          </color>
-         <br>Aumente a reputação do zoológico devolvendo animais ao seu hábitat natural. Não vacile.</br>
+         <br>A devolução de animais ao hábitat natural aumenta a reputação do zoológico. Você não vai querer perder essa reputação.</br>
       </LOC_STRING>
       <LOC_STRING _locID="zoostatus:graph_value_tab_stt">Valor do zoológico</LOC_STRING>
-      <LOC_STRING _locID="zoostatus:graph_value_tab_ltt">Clique para ver o valor do zoológico no decorrer do tempo. </LOC_STRING>
-      <LOC_STRING _locID="zoostatus:graph_profit_tab_stt">Lucro mensal </LOC_STRING>
+      <LOC_STRING _locID="zoostatus:graph_value_tab_ltt">Clique para ver o valor do zoológico no decorrer do tempo.</LOC_STRING>
+      <LOC_STRING _locID="zoostatus:graph_profit_tab_stt">Lucro mensal</LOC_STRING>
       <LOC_STRING _locID="zoostatus:graph_profit_tab_ltt">
          <color r="255" g="248" b="178">
             <b>Gráfico de lucro mensal</b>
          </color>
          <br>Clique para ver um gráfico do lucro mensal do zoológico no decorrer do tempo.</br>
       </LOC_STRING>
-      <LOC_STRING _locID="zoostatus:graph_donations_tab_stt">Doações mensais </LOC_STRING>
+      <LOC_STRING _locID="zoostatus:graph_donations_tab_stt">Doações mensais</LOC_STRING>
       <LOC_STRING _locID="zoostatus:graph_donations_tab_ltt">
          <color r="255" g="248" b="178">
             <b>Gráfico de doações mensais</b>
          </color>
          <br>Clique para ver um gráfico das doações mensais ao zoológico no decorrer do tempo.</br>
       </LOC_STRING>
-      <LOC_STRING _locID="zoostatus:graph_attendance_tab_stt">Número mensal de visitantes </LOC_STRING>
+      <LOC_STRING _locID="zoostatus:graph_attendance_tab_stt">Número mensal de visitantes</LOC_STRING>
       <LOC_STRING _locID="zoostatus:graph_attendance_tab_ltt">
          <color r="255" g="248" b="178">
             <b>Gráfico de número mensal de visitantes</b>
@@ -4324,10 +5139,10 @@ Nº de doações:</b>
          </color>
          <br>Clique para ver um gráfico do nível de reputação e reconhecimento conquistado pelo zoológico no decorrer do tempo.</br>
       </LOC_STRING>
-      <LOC_STRING _locID="zoostatus:graph_members_tab_stt">Funcionários do zoológico </LOC_STRING>
+      <LOC_STRING _locID="zoostatus:graph_members_tab_stt">Funcionários do zoológico</LOC_STRING>
       <LOC_STRING _locID="zoostatus:graph_members_tab_ltt">
          <color r="255" g="248" b="178">
-            <b>Funcionários do zoológico </b>
+            <b>Funcionários do zoológico</b>
          </color>
          <br>Clique para ver um gráfico que mostra o número de funcionários contratados pelo zoológico no decorrer do tempo.</br>
       </LOC_STRING>
@@ -4351,12 +5166,12 @@ Nº de doações:</b>
       <LOC_STRING _locID="zoostatus:econ_category_animal">Adoção de animais:</LOC_STRING>
       <LOC_STRING _locID="zoostatus:econ_category_animal_upkeep">Manutenção dos animais:</LOC_STRING>
       <LOC_STRING _locID="zoostatus:econ_category_concessions_gifts">Vendas da loja:</LOC_STRING>
-      <LOC_STRING _locID="zoostatus:econ_category_concessions_food_drink">Vendas de alimento e bebida:</LOC_STRING>
+      <LOC_STRING _locID="zoostatus:econ_category_concessions_food_drink">Vendas de alimentos/bebidas:</LOC_STRING>
       <LOC_STRING _locID="zoostatus:econ_category_staff_salaries">Salários dos funcionários:</LOC_STRING>
       <LOC_STRING _locID="zoostatus:econ_category_research">Pesquisa:</LOC_STRING>
       <LOC_STRING _locID="zoostatus:econ_category_donations_income">Doações:</LOC_STRING>
       <LOC_STRING _locID="zoostatus:econ_category_cash_grants">Subsídios em dinheiro:</LOC_STRING>
-      <LOC_STRING _locID="zoostatus:econ_category_upkeep">Manutenção:</LOC_STRING>
+      <LOC_STRING _locID="zoostatus:econ_category_upkeep">Manut.:</LOC_STRING>
       <LOC_STRING _locID="zoostatus:econ_category_recycling">Reciclagem:</LOC_STRING>
       <LOC_STRING _locID="zoostatus:econ_category_Zoo">Total:</LOC_STRING>
       <LOC_STRING _locID="zoostatus:zoo_is_label">
@@ -4453,14 +5268,14 @@ Nº de doações:</b>
       <LOC_STRING _locID="zoostatus:building_list_average_profit">
          <font name="arial" size="10" shadowx="-1" shadowy="1" shadowa="255">
             <color r="255" g="248" b="178">
-               <b>Lucro médio:</b>
+               <b>Lucro méd.:</b>
             </color>
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="zoostatus:donation_box_list_name">
          <font name="arial" size="10" shadowx="-1" shadowy="1" shadowa="255">
             <color r="255" g="248" b="178">
-               <b>Nome da caixa doações:</b>
+               <b>Caixa para doações:</b>
             </color>
          </font>
       </LOC_STRING>
@@ -4474,21 +5289,21 @@ Nº de doações:</b>
       <LOC_STRING _locID="zoostatus:donation_box_list_users">
          <font name="arial" size="10" shadowx="-1" shadowy="1" shadowa="255">
             <color r="255" g="248" b="178">
-               <b>Doações de visitantes:</b>
+               <b>Doações de visit.:</b>
             </color>
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="zoostatus:donation_box_list_profit">
          <font name="arial" size="10" shadowx="-1" shadowy="1" shadowa="255">
             <color r="255" g="248" b="178">
-               <b>Total:</b>
+               <b>Total caixas:</b>
             </color>
          </font>
       </LOC_STRING>
       <LOC_STRING _locID="zoostatus:donation_box_list_average_profit">
          <font name="arial" size="10" shadowx="-1" shadowy="1" shadowa="255">
             <color r="255" g="248" b="178">
-               <b>Média:</b>
+               <b>Doação média:</b>
             </color>
          </font>
       </LOC_STRING>
@@ -4572,7 +5387,7 @@ Nº de doações:</b>
       <LOC_STRING _locID="zoostatus:zoo_name_label">
          <font name="arial" size="12" shadowx="-1" shadowy="1" shadowa="255">
             <color r="254" g="219" b="89">
-               <b>Nome:</b>
+               <b>Nome do zôo:</b>
             </color>
          </font>
       </LOC_STRING>
@@ -4682,6 +5497,79 @@ Nº de doações:</b>
             <b>Definir preços altos</b>
          </color>
          <br>Clique para definir ingressos com preços altos.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoostatus:awards_persistent_label">
+         <font name="arial" size="12" shadowx="-1" shadowy="1" shadowa="255">
+            <color r="255" g="248" b="178">
+               <b>Exibindo: prêmios permanentes</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoostatus:awards_persistent_button_stt">Prêmios permanentes</LOC_STRING>
+      <LOC_STRING _locID="zoostatus:awards_persistent_button_ltt">
+         <color r="255" g="248" b="178">
+            <b>Prêmios permanentes</b>
+         </color>
+         <br>Clique para ver os prêmios permanentes.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoostatus:awards_current_label">
+         <font name="arial" size="12" shadowx="-1" shadowy="1" shadowa="255">
+            <color r="255" g="248" b="178">
+               <b>Exibindo: prêmios atuais</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoostatus:awards_current_button_stt">Prêmios atuais</LOC_STRING>
+      <LOC_STRING _locID="zoostatus:awards_current_button_ltt">
+         <color r="255" g="248" b="178">
+            <b>Prêmios atuais</b>
+         </color>
+         <br>Clique para ver os prêmios atuais.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoostatus:donation_tour_list_name">
+         <font name="arial" size="10" shadowx="-1" shadowy="1" shadowa="255">
+            <color r="255" g="248" b="178">
+               <b>Nome da estação:</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoostatus:donation_tour_list_profit">
+         <font name="arial" size="10" shadowx="-1" shadowy="1" shadowa="255">
+            <color r="255" g="248" b="178">
+               <b>Total estações:</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoostatus:donation_tour_label">
+         <font name="arial" size="10" shadowx="-1" shadowy="1" shadowa="255">
+            <color r="255" g="248" b="178">
+               <b>Doações para tours:</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoostatus:donations_tab_stt">Resumo de doações ao zôo</LOC_STRING>
+      <LOC_STRING _locID="zoostatus:donations_summary_filter_button_stt">Resumo de doações ao zôo</LOC_STRING>
+      <LOC_STRING _locID="zoostatus:info_tab_stt">Informações sobre o zoológico</LOC_STRING>
+      <LOC_STRING _locID="zoostatus:tour_donations_button_stt">Doações ao zoológico por tour</LOC_STRING>
+      <LOC_STRING _locID="zoostatus:tour_donations_button_ltt">
+         <color r="255" g="248" b="178">
+            <b>Doações ao zoológico por tour</b>
+         </color>
+         <br>Clique para ver um resumo das doações recebidas pelo zoológico durante os tours.</br>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoostatus:zoo_is_open_alt">
+         <font name="arial" size="9" shadowx="-1" shadowy="1" shadowa="255">
+            <color r="0" g="248" b="0">
+               <b>ABERTO!</b>
+            </color>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoostatus:zoo_is_closed_alt">
+         <font name="arial" size="9" shadowx="-1" shadowy="1" shadowa="255">
+            <color r="255" g="0" b="0">
+               <b>FECHADO.</b>
+            </color>
+         </font>
       </LOC_STRING>
       <LOC_STRING _locID="devpanel:smallformat">
          <font name="arial" size="10">%text%</font>
