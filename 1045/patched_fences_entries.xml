@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<ZT2Strings>
+	<LOC_STRING _locID="zoopedia_safarifence" version="2" />
+	<LOC_STRING _locID="zoopedia_safarifence:entry" version="2"  >Ogrodzenie tematyczne: safari</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_safarifence:text" version="2"  >
+		<cell pady="0" width="1000"/>
+		<p/>
+		<cell width="260"/>
+		<cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+			<cell width="600" padx="20" pady="20">
+				<color r="255" g="255" b="255">
+					<img src="entities/objects/fences/bamboo_st/bamboo_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+					<p/>To ogrodzenie najlepiej nadaje się do ogradzania wybiegów dla zwierząt mieszkających na sawannie, czyli zebr, żyraf i lwów. Można go też używać do tworzenia obszarów tematycznych na terenie zoo, sąsiadujących z wybiegami. Goście bardzo lubią odwiedzać takie miejsca. </color>
+			</cell>
+		</cell>
+	</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_junglefence" version="2" />
+	<LOC_STRING _locID="zoopedia_junglefence:entry" version="2"  >Ogrodzenie tematyczne: dżungla</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_junglefence:text" version="2"  >
+		<cell pady="0" width="1000"/>
+		<p/>
+		<cell width="260"/>
+		<cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+			<cell width="600" padx="20" pady="20">
+				<color r="255" g="255" b="255">
+					<img src="entities/objects/fences/junglefence_jt/junglefence_jt_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+					<p/>To ogrodzenie najlepiej nadaje się do ogradzania wybiegów dla zwierząt mieszkających w dżungli i lasach tropikalnych, czyli tygrysów, goryli i szympansów. Można go też używać do tworzenia obszarów tematycznych na terenie zoo, sąsiadujących z wybiegami. Goście bardzo lubią odwiedzać takie miejsca.</color>
+			</cell>
+		</cell>
+	</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_fencegate" version="2" />
+	<LOC_STRING _locID="zoopedia_fencegate:entry" version="2"  >Wejście dla pracowników</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_fencegate:text" version="2"  >
+		<cell pady="0" width="1000"/>
+		<p/>
+		<cell width="260"/>
+		<cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+			<cell width="600" padx="20" pady="20">
+				<color r="255" g="255" b="255">
+					<img src="entities/objects/fences/staffgate_df/staffgate_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+					<p/>Każdy wybieg powinien być w nie zaopatrzony. Wejścia dla pracowników przydają się również do utrudniania gościom dostępu do pewnych terenów. Jedynie pracownicy zoo mogą przez nie przechodzić. </color>
+			</cell>
+		</cell>
+	</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_brick" version="2" />
+	<LOC_STRING _locID="zoopedia_brick:entry" version="2"  >Ceglany mur</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_brick:text" version="2"  >
+		<cell pady="0" width="1000"/>
+		<p/>
+		<cell width="260"/>
+		<cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+			<cell width="600" padx="20" pady="20">
+				<color r="255" g="255" b="255">
+					<img src="entities/objects/fences/brickwall_df/brickwall_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+					<img src="entities/objects/fences/lowbrickwall_df/lowbrickwall_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+					<p/>Zarówno standardowa, jak i niska wersja tego ogrodzenia dość dobrze spełniają swoje zadanie. Wyglądają też bardzo atrakcyjnie. </color>
+			</cell>
+		</cell>
+	</LOC_STRING>
+</ZT2Strings>

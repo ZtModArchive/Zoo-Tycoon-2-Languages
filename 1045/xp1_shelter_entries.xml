@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<ZT2Strings>
+	<LOC_STRING _locID="zoopedia_burrow_boreal:entry"  >Nora, las iglasty</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_burrow_boreal:text"  >
+			<cell pady="0" width="1000"/>
+			<p/>
+			<cell width="260"/>
+			<cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+				<cell width="600" padx="20" pady="20">
+					<color r="255" g="255" b="255">
+						<img src="entities/objects/shelters/AnimalBurrows_Shelter/AnimalBurrows_Boreal_Small_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+						<img src="entities/objects/shelters/AnimalBurrows_Shelter/AnimalBurrows_Boreal_Large_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+						<p/>
+Niektóre zwierzęta zamieszkujące las iglasty lubią ciemne, podziemne nory - ta spodoba się na przykład rosomakowi. Małą norę może zamieszkiwać jedno zwierzę, dużą - dwa.
+					</color>
+				</cell>
+			</cell>
+		</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_burrow_desert:entry"  >Nora, pustynia</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_burrow_desert:text"  >
+			<cell pady="0" width="1000"/>
+			<p/>
+			<cell width="260"/>
+			<cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+				<cell width="600" padx="20" pady="20">
+					<color r="255" g="255" b="255">
+						<img src="entities/objects/shelters/AnimalBurrows_Shelter/AnimalBurrows_Desert_Small_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+						<img src="entities/objects/shelters/AnimalBurrows_Shelter/AnimalBurrows_Desert_Large_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+						<p/>
+Pustynna nora doskonale nadaje się dla zwierząt takich jak fenek - niewielkie pustynne zwierzę lubiące ciemne, podziemne nory. Małą norę może zamieszkiwać jedno zwierzę, dużą - dwa.
+					</color>
+				</cell>
+			</cell>
+		</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_burrow_scrub:entry"  >Nora, busz</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_burrow_scrub:text"  >
+			<cell pady="0" width="1000"/>
+			<p/>
+			<cell width="260"/>
+			<cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+				<cell width="600" padx="20" pady="20">
+					<color r="255" g="255" b="255">
+						<img src="entities/objects/shelters/AnimalBurrows_Shelter/AnimalBurrows_Scrub_Small_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+						<img src="entities/objects/shelters/AnimalBurrows_Shelter/AnimalBurrows_Scrub_Large_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+						<p/>
+Nora ta idealna jest dla zwierząt takich jak waran z Komodo, zwierzę lubiące ciemne, podziemne nory. Małą norę może zamieszkiwać jedno zwierzę, dużą - dwa.
+					</color>
+				</cell>
+			</cell>
+		</LOC_STRING>
+</ZT2Strings>

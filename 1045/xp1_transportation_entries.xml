@@ -1,0 +1,254 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<ZT2Strings>
+	<LOC_STRING _locID="zoopedia_transportation:entry"  >Transport</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_transportation:text"  >
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>
+Zoo Tycoon 2: Zagrożone Gatunki oferuje dwa środki transportu: samochody marki Jeep&#xAE; i kolejkę linową.
+                  <p/>
+Aby uzyskać informacje na temat konkretnego środka transportu, kliknij na jego nazwie na liście po lewej stronie.  
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_groundstation:entry"  >Stacja pojazdów Jeep&#xAE;</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_groundstation:text"  >
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\transportation\stations\GroundStation\GroundStation_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+Stacja samochodowa Jeep&#xAE; służy gościom do wsiadania i wysiadania z <a href="zoopedia:zoopedia_groundvehicle:entry"><u><color r="255" g="231" b="135">pojazdów Jeep.</color></u></a> Stacja ta jest zamknięta, dopóki nie zbudujesz całej <a href="zoopedia:zoopedia_groundtrack:entry"><u><color r="255" g="231" b="135">drogi</color></u></a>, po której poruszać się będą pojazdy. Kiedy trasa zostanie ukończona, stacja Jeep&#xAE; zostaje automatycznie otwarta i można w niej kupować pojazdy.
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_skystation:entry"  >Stacja kolejki linowej</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_skystation:text"  >
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\transportation\stations\SkyStation\SkyStation_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+Stacja kolejki linowej służy gościom do wsiadania i wysiadania do <a href="zoopedia:zoopedia_gondola:entry"><u><color r="255" g="231" b="135">wagoników.</color></u></a> Stacja ta jest zamknięta, dopóki nie zbudujesz całej trasy. Kiedy trasa zostaje ukończona, stacja jest automatycznie otwierana i można na niej kupować pojazdy.
+      <p/>
+Aby zbudować trasę kolejki linowej, musisz ustawić <a href="zoopedia:zoopedia_skytrampole:entry"><u><color r="255" g="231" b="135">wsporniki.</color></u></a>
+      <p/>
+Wskazówka: Aby stworzyć trasę zajmującą niewiele miejsca, połącz pierwszą trasę z drugą, a następnie poprowadź linę z powrotem do pierwszej stacji. Wagoniki będą zawracać wewnątrz stacji.
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_skytrampole:entry"  >Wspornik kolejki linowej</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_skytrampole:text"  >
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\transportation\track\skytower\skytower_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <img src="entities\transportation\track\skytower\skytower_T_arm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+Wsporniki kolejki linowej służą do podtrzymywania całej konstrukcji toru. Aby doprowadzić trasę od wspornika do <a href="zoopedia:zoopedia_skystation:entry"><u><color r="255" g="231" b="135">stacji,</color></u></a> musisz najpierw wybrać wspornik w panelu zakupu środków transportu. Kliknij na miejscu, w którym chcesz ustawić wspornik, a następnie na stacji, z którą ma być połączony.
+		<p/>
+Normalny wspornik obsługuje tylko jedną trasę i umożliwia wagonikom poruszanie się w jednym kierunku. Możesz jednak zastosować dwójnik kolejki linowej, który umożliwi wagonikom podróżowanie w dwóch kierunkach. Dwójnik można połączyć ze stacjami lub innymi dwójnikami, lecz nigdy z normalnymi wspornikami.		
+     <p/>
+Wskazówka: Możesz regulować wysokość wspornika. W tym celu wskaż wierzchołek wspornika kursorem, a kiedy ten ostatni zamieni się w symbol dłoni, kliknij i przytrzymaj przycisk myszy. Wysokość wspornika zmienisz poruszając myszą w górę i w dół.
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_groundtrack:entry"  >Droga</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_groundtrack:text"  >
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\transportation\track\ground\ground_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+Drogi stanowią połączenie pomiędzy <a href="zoopedia:zoopedia_groundstation:entry"><u><color r="255" g="231" b="135">stacjami pojazdów Jeep&#xAE;</color></u></a> - dzięki nim <a href="zoopedia:zoopedia_groundvehicle:entry"><u><color r="255" g="231" b="135"> samochody Jeep</color></u></a> mogą podróżować między stacjami. Twoja trasa musi zostać zamknięta, zanim otworzysz stację pojazdów Jeep. Zauważ, że wszystkie drogi w grze Zoo Tycoon 2: Zagrożone Gatunki są jednokierunkowe!
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_crossinggate:entry"  >Brama przejazdowa</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_crossinggate:text"  >
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\transportation\crossinggate\crossinggate_end\crossinggate_end_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+Wszędzie, gdzie droga krzyżuje się ze ścieżką dla pieszych, należy umieścić bramę przejazdową, co pomoże uniknąć wypadków. Brama przejazdowa jest opuszczana, kiedy zbliża się samochód Jeep&#xAE;, i podnoszona po jego przejeździe.
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_elevatedpath:entry"  >Kładki</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_elevatedpath:text"  >
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\objects\paths\elevatedpaths\ElevatedPath_Stone_end\ElevatedPath_Stone_end_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <img src="entities\objects\paths\elevatedpaths\ElevatedPath_Wood_end\ElevatedPath_Wood_end_icon.dds" sx="0" sy="0" sw="64" sh="64"/>      
+      <p/>
+Kładek można używać, aby umożliwić zwiedzającym dotarcie do trudno dostępnych miejsc, lub aby zapewnić im lepszy widok zoo. Użyj ramp, aby stworzyć wejście na kładkę lub stworzyć połączenie między dwoma kładkami. Na kładkach można umieszczać budynki i inne obiekty.
+      <p/>
+Kiedy budujesz kładkę, automatycznie zostają stworzone podtrzymujące ją wsporniki. Jeśli chcesz, możesz je usunąć.
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_elevatedpathrailing:entry"  >Barierki</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_elevatedpathrailing:text"  >
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\objects\paths\elevatedpaths\ElevatedPath_Stone_end\Curb_Stone_end_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <img src="entities\objects\paths\elevatedpaths\ElevatedPath_Stone_end\Curb_Stone_high_end_icon.dds" sx="0" sy="0" sw="64" sh="64"/>      
+      <img src="entities\objects\paths\elevatedpaths\ElevatedPath_Wood_end\Curb_Wood_end_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <img src="entities\objects\paths\elevatedpaths\ElevatedPath_Wood_end\Curb_Wood_high_end_icon.dds" sx="0" sy="0" sw="64" sh="64"/>      
+      <p/>
+Barierki nie tylko stanowią element dekoracyjny kładek, ale także zabezpieczają zwiedzających przed upadkiem! Jeśli chcesz, możesz zmienić ich wygląd.
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_groundvehicle:entry"  >Pojazdy Jeep&#xAE;</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_groundvehicle:text"  >
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+       <img src="entities\transportation\vehicles\Jeep_Wrangler\Jeep_Wrangler_icon.dds" sx="0" sy="0" sw="64" sh="64"/>      
+       <img src="entities\transportation\vehicles\Jeep_Commander\Jeep_Commander_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+Pojazdy Jeep&#xAE; służą do transportowania gości pomiędzy <a href="zoopedia:zoopedia_groundstation:entry"><u><color r="255" g="231" b="135">stacjami pojazdów Jeep.</color></u></a> Jeep&#xAE; Wrangler może przewozić trzech zwiedzających, a Jeep&#xAE; Commander - sześciu.
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_groundvehicleupgrade:entry"  >Ozdobione samochody Jeep&#xAE;</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_groundvehicleupgrade:text"  >
+    <cell pady="0" width="1000"/>
+    <p/>
+    <cell width="260"/>
+    <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+     <cell width="600" padx="20" pady="20">
+      <color r="255" g="255" b="255">
+       <img src="entities\transportation\vehicles\Jeep_Wrangler\Jeep_Wrangler_Upgraded_icon.dds" sx="0" sy="0" sw="64" sh="64"/>      
+       <img src="entities\transportation\vehicles\Jeep_Commander\Jeep_Commander_Upgraded_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+       <p/>
+Pojazdy Jeep&#xAE; służą do transportowania gości pomiędzy <a href="zoopedia:zoopedia_groundstation:entry"><u><color r="255" g="231" b="135">stacjami pojazdów Jeep.</color></u></a> Jeep&#xAE; Wrangler może przewozić tzech zwiedzających, a Jeep&#xAE; Commander - sześciu. 
+<p/>
+Ozdobione samochody Jeep&#xAE; zawierają dodatkowe elementy ozdobne, a dostęp do nich uzyskasz, jeśli wygrasz Nagrodę Potentata Transportu 2 stopnia.
+      </color>
+     </cell>
+    </cell>
+   </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_gondola:entry"  >Wagoniki kolejki linowej</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_gondola:text"  >
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\transportation\vehicles\gondola\Gondola_1Seat_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>     
+      <img src="entities\transportation\vehicles\gondola\Gondola_2Seats_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <img src="entities\transportation\vehicles\gondola\Gondola_4Seats_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>      
+      <p/>
+Wagoniki kolejki linowej przewożą gości pomiędzy <a href="zoopedia:zoopedia_skystation:entry"><u><color r="255" g="231" b="135">stacjami.</color></u></a> Różne rodzaje wagoników mogą przewozić różną liczbę zwiedzających.
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_gondolaupgrade:entry"  >Ulepszone wagoniki kolejki linowej</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_gondolaupgrade:text"  >
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\transportation\vehicles\gondola\Gondola_1Seat_icon.dds" sx="0" sy="0" sw="64" sh="64"/>     
+      <img src="entities\transportation\vehicles\gondola\Gondola_2Seats_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <img src="entities\transportation\vehicles\gondola\Gondola_4Seats_icon.dds" sx="0" sy="0" sw="64" sh="64"/>      
+      <p/>
+Wagoniki kolejki linowej przewożą gości pomiędzy <a href="zoopedia:zoopedia_skystation:entry"><u><color r="255" g="231" b="135">stacjami.</color></u></a> Różne rodzaje wagoników mogą przewozić różną liczbę zwiedzających. 
+		<p/>
+Ozdobione wagoniki kolejki linowej zawierają dodatkowe elementy ozdobne, a dostęp do nich uzyskasz, jeśli wygrasz Nagrodę Potentata Transportu 3 stopnia.
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_sixseater:entry"  >Sześciosiedzeniowiec</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_sixseater:text"  >
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\transportation\vehicles\Jeep_Commander\Jeep_Commander_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+      [ADDSTUFF]
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_suv:entry"  >Ośmiosiedzeniowiec</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_suv:text"  >
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\transportation\stations\SkyStation\SkyStation_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+      [ADDSTUFF]
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_truck:entry"  >Sześciosiedzeniowiec</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_truck:text"  >
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\transportation\stations\SkyStation\SkyStation_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+      [ADDSTUFF]
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+</ZT2Strings>

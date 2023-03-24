@@ -1,6 +1,7 @@
-﻿<ZT2Strings>
-      <LOC_STRING _locID="zoopedia_blackthorn:entry">Krzew, tarnina</LOC_STRING>
-      <LOC_STRING _locID="zoopedia_blackthorn:text">
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<ZT2Strings>
+	<LOC_STRING _locID="zoopedia_blackthorn:entry"  >Krzew, tarnina</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_blackthorn:text"  >
          <color r="255" g="255" b="255">
             <cell pady="0" width="1000"/>
             <p/>
@@ -10,7 +11,7 @@
                   <img src="entities/objects/foliage/BlackThornBush/BlackThornBush_Savannah_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128"/>
                </cell>
                <cell pady="15" width="400">
-            		Tarnina, gatunek śliwy, występuje na półkuli zachodniej, jest także znana jako tarnia bądź śliwa tarnina. Posiada krótkie, twarde i bardzo kolczaste gałęzie licznie porośnięte małymi listkami. Jej małe, białe kwiaty wydają ciemne owoce o przekroju ok. 1,3 cm. Tarnina osiąga 3 do 4 m wysokości.
+            		Tarnina, gatunek śliwy, występuje na półkuli wschodniej, jest także znana jako tarnia bądź śliwa tarnina. Posiada krótkie, twarde i bardzo kolczaste gałęzie licznie porośnięte małymi listkami. Jej małe, białe kwiaty wydają ciemne owoce o przekroju ok. 1,3 cm. Tarnina osiąga 3 do 4 m wysokości.
 		</cell>
             </cell>
             <p/>
@@ -86,8 +87,8 @@
             </cell>
          </color>
       </LOC_STRING>
-      <LOC_STRING _locID="zoopedia_bananaleaf:entry">Roślina, strelicja Mikołaja </LOC_STRING>
-      <LOC_STRING _locID="zoopedia_bananaleaf:text">
+	<LOC_STRING _locID="zoopedia_bananaleaf:entry"  >Roślina, strelicja Mikołaja </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_bananaleaf:text"  >
          <color r="255" g="255" b="255">
             <cell pady="0" width="1000"/>
             <p/>
@@ -173,8 +174,8 @@
             </cell>
          </color>
       </LOC_STRING>
-      <LOC_STRING _locID="zoopedia_gambagrass:entry">Trawa, gamba</LOC_STRING>
-      <LOC_STRING _locID="zoopedia_gambagrass:text">
+	<LOC_STRING _locID="zoopedia_gambagrass:entry"  >Trawa, gamba</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_gambagrass:text"  >
          <color r="255" g="255" b="255">
             <cell pady="0" width="1000"/>
             <p/>
@@ -354,8 +355,8 @@
             </cell>
          </color>
       </LOC_STRING>
-      <LOC_STRING _locID="zoopedia_papyrus:entry">Papirus</LOC_STRING>
-      <LOC_STRING _locID="zoopedia_papyrus:text">
+	<LOC_STRING _locID="zoopedia_papyrus:entry"  >Roślina, papirus</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_papyrus:text"  >
          <color r="255" g="255" b="255">
             <cell pady="0" width="1000"/>
             <p/>
@@ -398,7 +399,7 @@
                   
                   <a href="zoopedia:zoopedia_sedge:entry">
                      <u>
-                        <color r="255" g="231" b="135">roślin dwupiennych </color>
+                        <color r="255" g="231" b="135">roślin dwupiennych</color>
                      </u>
                   </a>
                   
@@ -603,8 +604,8 @@
             </cell>
          </color>
       </LOC_STRING>
-      <LOC_STRING _locID="zoopedia_cattails:entry">Pałka wodna</LOC_STRING>
-      <LOC_STRING _locID="zoopedia_cattails:text">
+	<LOC_STRING _locID="zoopedia_cattails:entry"  >Roślina, pałka wodna</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_cattails:text"  >
          <color r="255" g="255" b="255">
             <cell pady="0" width="1000"/>
             <p/>
@@ -614,7 +615,7 @@
                   <img src="entities/objects/foliage/Cattails/Cattails_Wetlands_icon.dds" sx="0" sy="0" sw="64" sh="64" height="128" width="128"/>
                </cell>
                <cell pady="15" width="400">
-               Pałka wodna to popularna nazwa wysokiej byliny. Charakteryzuje się ona pnącym się kłączem; długimi, płaskimi liśćmi; kwiatami w gęstych wałkowatych iglicach na końcu; i brązowym, walcowatym owocem o aksamitnej powierzchni. Roślina rośnie na słodkowodnych bagnach, zarówno w klimacie umiarkowanym, jak i tropikalnym i czasami jest uprawiana na brzegach stawów i sadzawkach ogrodowych. Rośnie i rozprzestrzenia się gwałtownie, gdy gleba jest wystarczająco nawodniona. Najpopularniejszy gatunek, pałka szerokolistna, osiąga od 1 do 2 m (około 5 do 9 stóp) wysokości. Inny szeroko rozprzestrzeniony na północnej półkuli gatunek, pałka wąskolistna, osiąga wysokość 3 m (10 stóp), a gatunki kalifornijski, teksański, meksykański i argentyński osiągają wysokość 5 m (około 18 stóp) i kwiatostan na 1 m (3 stopy). Liście wykorzystywane są często do wyrobu oparć do siedzeń, mat i koszy.
+               Pałka wodna to popularna nazwa wysokiej byliny. Charakteryzuje się ona pnącym się kłączem, długimi, płaskimi liśćmi, kwiatami w gęstych wałkowatych iglicach na końcu i brązowym, walcowatym owocem o aksamitnej powierzchni. Roślina rośnie na słodkowodnych bagnach, zarówno w klimacie umiarkowanym, jak i tropikalnym, czasami jest uprawiana na brzegach stawów i sadzawkach ogrodowych. Rośnie i rozprzestrzenia się gwałtownie, gdy gleba jest wystarczająco nawodniona. Najpopularniejszy gatunek, pałka szerokolistna, osiąga od 1 do 2 m (około 5 do 9 stóp) wysokości. Inny szeroko rozprzestrzeniony na północnej półkuli gatunek, pałka wąskolistna, osiąga wysokość 3 m (10 stóp), a gatunki kalifornijski, teksański, meksykański i argentyński osiągają wysokość 5 m (około 18 stóp) i kwiatostan na 1 m (3 stopy). Liście wykorzystywane są często do wyrobu oparć do siedzeń, mat i koszy.
          </cell>
             </cell>
             <p/>
@@ -690,8 +691,8 @@
             </cell>
          </color>
       </LOC_STRING>
-      <LOC_STRING _locID="zoopedia_bluebush:entry">Komosa</LOC_STRING>
-      <LOC_STRING _locID="zoopedia_bluebush:text">
+	<LOC_STRING _locID="zoopedia_bluebush:entry"  >Krzew, komosa</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_bluebush:text"  >
          <color r="255" g="255" b="255">
             <cell pady="0" width="1000"/>
             <p/>
@@ -839,8 +840,8 @@
             </cell>
          </color>
       </LOC_STRING>
-      <LOC_STRING _locID="zoopedia_sedge:entry">Turzyca</LOC_STRING>
-      <LOC_STRING _locID="zoopedia_sedge:text">
+	<LOC_STRING _locID="zoopedia_sedge:entry"  >Trawa, turzyca</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_sedge:text"  >
          <color r="255" g="255" b="255">
             <cell pady="0" width="1000"/>
             <p/>
@@ -929,7 +930,7 @@
                   
                   
                   
-	       Rodzina ta ma znaczenie ekonomiczne. Łodygi i liście wielu rodzajów wykorzystywane są do wytwarzania tkanych mat, koszy i kapeluszy, a także w przemyśle papierniczym. Cibora papirusowa była tez w starożytnym Egipcie źródłem 
+	       Rodzina ta ma znaczenie ekonomiczne. Łodygi i liście wielu rodzajów wykorzystywane są do wytwarzania tkanych mat, koszy i kapeluszy, a także w przemyśle papierniczym. Cibora papirusowa była też w starożytnym Egipcie źródłem 
          
                   
                   
@@ -1056,8 +1057,8 @@
             </cell>
          </color>
       </LOC_STRING>
-      <LOC_STRING _locID="zoopedia_spinosa:entry">Krzew, kapary</LOC_STRING>
-      <LOC_STRING _locID="zoopedia_spinosa:text">
+	<LOC_STRING _locID="zoopedia_spinosa:entry"  >Krzew, kapary</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_spinosa:text"  >
          <color r="255" g="255" b="255">
             <cell pady="0" width="1000"/>
             <p/>
@@ -1074,8 +1075,8 @@
             <p/>
          </color>
       </LOC_STRING>
-      <LOC_STRING _locID="zoopedia_flowerbed:entry">Kwietniki</LOC_STRING>
-      <LOC_STRING _locID="zoopedia_flowerbed:text">
+	<LOC_STRING _locID="zoopedia_flowerbed:entry"  >Kwietniki</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_flowerbed:text"  >
          <cell pady="0" width="1000"/>
          <p/>
          <cell width="260"/>
@@ -1105,8 +1106,8 @@
             </cell>
          </cell>
       </LOC_STRING>
-      <LOC_STRING _locID="zoopedia_desertgrass:entry">Trawa, pustynna</LOC_STRING>
-      <LOC_STRING _locID="zoopedia_desertgrass:text">
+	<LOC_STRING _locID="zoopedia_desertgrass:entry"  >Trawa, pustynna</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_desertgrass:text"  >
          <color r="255" g="255" b="255">
             <cell pady="0" width="1000"/>
             <p/>
@@ -1121,8 +1122,8 @@
             <p/>
          </color>
       </LOC_STRING>
-      <LOC_STRING _locID="zoopedia_elephantgrass:entry">Trawa, słoniowa</LOC_STRING>
-      <LOC_STRING _locID="zoopedia_elephantgrass:text">
+	<LOC_STRING _locID="zoopedia_elephantgrass:entry"  >Trawa, słoniowa</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_elephantgrass:text"  >
          <color r="255" g="255" b="255">
             <cell pady="0" width="1000"/>
             <p/>
@@ -1200,8 +1201,8 @@
             <p/>
          </color>
       </LOC_STRING>
-      <LOC_STRING _locID="zoopedia_toadstools:entry">Grzyby blaszkowe</LOC_STRING>
-      <LOC_STRING _locID="zoopedia_toadstools:text">
+	<LOC_STRING _locID="zoopedia_toadstools:entry"  >Grzyby blaszkowe</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_toadstools:text"  >
          <color r="255" g="255" b="255">
             <cell pady="0" width="1000"/>
             <p/>
@@ -1294,8 +1295,8 @@
             </cell>
          </color>
       </LOC_STRING>
-      <LOC_STRING _locID="zoopedia_reindeerlichen:entry">Chrobotek, reniferowy</LOC_STRING>
-      <LOC_STRING _locID="zoopedia_reindeerlichen:text">
+	<LOC_STRING _locID="zoopedia_reindeerlichen:entry"  >Chrobotek reniferowy</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_reindeerlichen:text"  >
          <color r="255" g="255" b="255">
             <cell pady="0" width="1000"/>
             <p/>
@@ -1381,8 +1382,8 @@
             </cell>
          </color>
       </LOC_STRING>
-      <LOC_STRING _locID="zoopedia_waterlily:entry">Lilia, wodna</LOC_STRING>
-      <LOC_STRING _locID="zoopedia_waterlily:text">
+	<LOC_STRING _locID="zoopedia_waterlily:entry"  >Roślina, lilia wodna</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_waterlily:text"  >
          <color r="255" g="255" b="255">
             <cell pady="0" width="1000"/>
             <p/>
@@ -1503,7 +1504,7 @@
                   
                   
                   
-	       Rodzina lotosów zawiera jeden rodzaj, który zawiera dwa gatunki:  lotos orzechodajny, święty kwiat buddystów i hindusów oraz lotos żółty. Nasiona i kłącza tych lotosów są jadalne; liście znajdują się nad wodą na długich łodygach. Dwa gatunki składające się na rodzinę rogatkowatych są często hodowane w domowych akwariach. Rosną całkiem w toni wody, czasami wypuszczając pod wodą owoce i kwiaty. Są całkowicie pozbawione korzeni. Liście są równo podzielone na wąskie segmenty i rosną w okółkach przy każdym kolanku, co daje roślinie wygląd podobny do ogona szopa. Rodzina kabombowatych zawiera dwa rodzaje i osiem gatunków roślin; niektóre używane, jako rośliny akwariowe.
+	       Rodzina lotosów zawiera jeden rodzaj, który zawiera dwa gatunki:  lotos orzechodajny, święty kwiat buddystów i hindusów oraz lotos żółty. Nasiona i kłącza tych lotosów są jadalne; liście znajdują się nad wodą na długich łodygach. Dwa gatunki składające się na rodzinę rogatkowatych są często hodowane w domowych akwariach. Rosną całkiem w toni wody, czasami wypuszczając pod wodą owoce i kwiaty. Są całkowicie pozbawione korzeni. Liście są równo podzielone na wąskie segmenty i rosną w okółkach przy każdym kolanku, co daje roślinie wygląd podobny do ogona szopa. Rodzina kabombowatych zawiera dwa rodzaje i osiem gatunków roślin - niektóre używane jako rośliny akwariowe.
          
                   
                   
@@ -1628,8 +1629,8 @@
             </cell>
          </color>
       </LOC_STRING>
-      <LOC_STRING _locID="zoopedia_junegrass:entry">Trawy, wiechlinowate</LOC_STRING>
-      <LOC_STRING _locID="zoopedia_junegrass:text">
+	<LOC_STRING _locID="zoopedia_junegrass:entry"  >Trawa, wiechlinowata</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_junegrass:text"  >
          <color r="255" g="255" b="255">
             <cell pady="0" width="1000"/>
             <p/>
@@ -1686,7 +1687,7 @@
                   
                   
                   
-	       Trawy to podstawowe źródło pożywienia dla domowych i dzikich zwierząt pasących się, żywiących się na pastwiskach i stepach, i żywionych sianem oraz kiszonką pochodzącymi stamtąd. Całkowity obszar tych pól uprawnych jest większy niż obszar jakichkolwiek pól uprawnych razem wziętych.
+	       Trawy to podstawowe źródło pożywienia dla domowych i dzikich zwierząt. Całkowity obszar tych pól uprawnych jest większy niż obszar jakichkolwiek pól uprawnych razem wziętych.
          
                   
                   
@@ -1778,8 +1779,8 @@
             </cell>
          </color>
       </LOC_STRING>
-      <LOC_STRING _locID="zoopedia_dandelions:entry">Mlecze</LOC_STRING>
-      <LOC_STRING _locID="zoopedia_dandelions:text">
+	<LOC_STRING _locID="zoopedia_dandelions:entry"  >Roślina, mlecz</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_dandelions:text"  >
          <color r="255" g="255" b="255">
             <cell pady="0" width="1000"/>
             <p/>
@@ -1897,8 +1898,8 @@
             </cell>
          </color>
       </LOC_STRING>
-      <LOC_STRING _locID="zoopedia_arcticmoss:entry">Mech, arktyczny</LOC_STRING>
-      <LOC_STRING _locID="zoopedia_arcticmoss:text">
+	<LOC_STRING _locID="zoopedia_arcticmoss:entry"  >Roślina, mech arktyczny</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_arcticmoss:text"  >
          <color r="255" g="255" b="255">
             <cell pady="0" width="1000"/>
             <p/>
@@ -1955,8 +1956,8 @@
                   
                   
                   
-	       Mech to popularna nazwa członków roślinnej gromady mchów, występujących na terenach na całym świecie. Mchy rosną na glebie, skałach i korze drzew oraz na moczarach i w płytkich strumieniach. Mchy składają się z małych, smukłych łodyżek i liści; nie posiadają tkanki naczyniowej. Nie posiadają korzenia, a funkcje tę spełniają włókniste struktury zwane chwytnikami. Organy płciowe, zwane plemnią i anterydium, zawierają odpowiednio plemniki i komórki jajowe i rosną na gametoficie, niezależnej ulistnionej roślinie. Zapłodnienie odbywa się tylko, gdy roślina jest mokra; po nim komórki jajowe wrastają w sporofit. Sporofit składa się ze stopy, trzonka i zarodni wrastających w gametofit; długą łodyżkę; i zamkniętą otoczkę. Otoczkę, która u większości gatunków pokryta jest ząbkowanym wieczkiem zawierającym liczne zarodniki. Zarodniki są albo rozsiewane poprzez wysyp albo przez ząbki. 
-	       W dogodnych warunkach kiełkują one w podziemny,  nitkowaty lub wstęgowy splątek, na którym wyrastają gametofity. Mchy produkują też gametofity z takich wyspecjalizowanych organów wegetatywnych, jak cebulki produkowane przez chwytniki; kubeczki rosnące na liściach i łodyżce; i drugi splątek, rosnący na splątku lub na pędzie. Klasa dzieli się na trzy podklasy : torfowce, naleźliny i prątniki.
+	       Mech to popularna nazwa członków roślinnej gromady mchów, występujących na terenach na całym świecie. Mchy rosną na glebie, skałach i korze drzew oraz na moczarach i w płytkich strumieniach. Mchy składają się z małych, smukłych łodyżek i liści; nie posiadają tkanki naczyniowej. Nie posiadają korzenia, a funkcje tę spełniają włókniste struktury zwane chwytnikami. Organy płciowe, zwane plemnią i anterydium, zawierają odpowiednio plemniki i komórki jajowe i rosną na gametoficie, niezależnej ulistnionej roślinie. Zapłodnienie odbywa się tylko, gdy roślina jest mokra; po nim komórki jajowe wrastają w sporofit. Sporofit składa się ze stopy, trzonka i zarodni wrastających w gametofit, długą łodyżkę i zamkniętą otoczkę. Otoczkę, która u większości gatunków pokryta jest ząbkowanym wieczkiem zawierającym liczne zarodniki. Zarodniki są albo rozsiewane poprzez wysyp albo przez ząbki. 
+	       W dogodnych warunkach kiełkują one w podziemny, nitkowaty lub wstęgowy splątek, na którym wyrastają gametofity. Mchy produkują też gametofity z takich wyspecjalizowanych organów wegetatywnych, jak cebulki produkowane przez chwytniki, kubeczki rosnące na liściach i łodyżce, oraz drugi splątek rosnący na splątku lub na pędzie. Klasa dzieli się na trzy podklasy: torfowce, naleźliny i prątniki.
          
                   
                   
@@ -1988,7 +1989,7 @@
                   
                   
                   
-	       Wiele mszaków, niezwiązanych z mchami powszechnie nazywa się mchami. W tym alg morskich, krasnorostów , które są czerwonymi glonami. Mech islandzki to powszechna nazwa granicznika płucnika oraz kwitnącej rośliny zwanej płucnicą islandzką. Mech naskalny to popularne imię kilku porostów, rosnących na skałach, strzechw. Rośliny znane, jako widłaki są spokrewnione z paprociami. Mech hiszpański, lub mech długi to kwitnąca roślina, rośnie jako porośle na pniach drzew w południowych regionach USA i Indiach zachodnich.
+	       Wiele mszaków, niezwiązanych z mchami powszechnie nazywa się mchami. W tym alg morskich, krasnorostów, które są czerwonymi glonami. Mech islandzki to powszechna nazwa granicznika płucnika oraz kwitnącej rośliny zwanej płucnicą islandzką. Mech naskalny to popularne imię kilku porostów, rosnących na skałach, strzechw. Rośliny znane, jako widłaki są spokrewnione z paprociami. Mech hiszpański, lub mech długi to kwitnąca roślina, rośnie jako porośle na pniach drzew w południowych regionach USA i Indiach zachodnich.
          
                   
                   
@@ -2080,8 +2081,8 @@
             </cell>
          </color>
       </LOC_STRING>
-      <LOC_STRING _locID="zoopedia_whitelillies:entry">Lilia, biała</LOC_STRING>
-      <LOC_STRING _locID="zoopedia_whitelillies:text">
+	<LOC_STRING _locID="zoopedia_whitelillies:entry"  >Roślina, lilia biała</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_whitelillies:text"  >
          <color r="255" g="255" b="255">
             <cell pady="0" width="1000"/>
             <p/>
@@ -2098,8 +2099,8 @@
             <p/>
          </color>
       </LOC_STRING>
-      <LOC_STRING _locID="zoopedia_larkspur:entry">Ostróżka</LOC_STRING>
-      <LOC_STRING _locID="zoopedia_larkspur:text">
+	<LOC_STRING _locID="zoopedia_larkspur:entry"  >Roślina, ostróżka</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_larkspur:text"  >
          <color r="255" g="255" b="255">
             <cell pady="0" width="1000"/>
             <p/>
@@ -2204,8 +2205,8 @@
             </cell>
          </color>
       </LOC_STRING>
-      <LOC_STRING _locID="zoopedia_africandaisy:entry">Dimorfoteka, szafranek </LOC_STRING>
-      <LOC_STRING _locID="zoopedia_africandaisy:text">
+	<LOC_STRING _locID="zoopedia_africandaisy:entry"  >Roślina, Dimorfoteka</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_africandaisy:text"  >
          <color r="255" g="255" b="255">
             <cell pady="0" width="1000"/>
             <p/>
@@ -2323,8 +2324,8 @@
             </cell>
          </color>
       </LOC_STRING>
-      <LOC_STRING _locID="zoopedia_africanviolet:entry">Fiołek, afrykański</LOC_STRING>
-      <LOC_STRING _locID="zoopedia_africanviolet:text">
+	<LOC_STRING _locID="zoopedia_africanviolet:entry"  >Roślina, fiołek afrykański</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_africanviolet:text"  >
          <color r="255" g="255" b="255">
             <cell pady="0" width="1000"/>
             <p/>
@@ -2442,8 +2443,8 @@
             </cell>
          </color>
       </LOC_STRING>
-      <LOC_STRING _locID="zoopedia_junglelillies:entry">Lilie, tropikalne</LOC_STRING>
-      <LOC_STRING _locID="zoopedia_junglelillies:text">
+	<LOC_STRING _locID="zoopedia_junglelillies:entry"  >Roślina, lilia tropikalna</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_junglelillies:text"  >
          <color r="255" g="255" b="255">
             <cell pady="0" width="1000"/>
             <p/>
@@ -2459,8 +2460,8 @@
             <p/>
          </color>
       </LOC_STRING>
-      <LOC_STRING _locID="zoopedia_lilyofvalley:entry">Konwalia majowa</LOC_STRING>
-      <LOC_STRING _locID="zoopedia_lilyofvalley:text">
+	<LOC_STRING _locID="zoopedia_lilyofvalley:entry"  >Roślina, konwalia majowa</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_lilyofvalley:text"  >
          <color r="255" g="255" b="255">
             <cell pady="0" width="1000"/>
             <p/>
@@ -2577,8 +2578,8 @@
             </cell>
          </color>
       </LOC_STRING>
-      <LOC_STRING _locID="zoopedia_fringedpolygala:entry">Krzyżownica, ostroskrzydełkowa</LOC_STRING>
-      <LOC_STRING _locID="zoopedia_fringedpolygala:text">
+	<LOC_STRING _locID="zoopedia_fringedpolygala:entry"  >Roślina, krzyżownica</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_fringedpolygala:text"  >
          <color r="255" g="255" b="255">
             <cell pady="0" width="1000"/>
             <p/>
@@ -2695,8 +2696,8 @@
             </cell>
          </color>
       </LOC_STRING>
-      <LOC_STRING _locID="zoopedia_proteawildflowers:entry">Zawilec gajowy</LOC_STRING>
-      <LOC_STRING _locID="zoopedia_proteawildflowers:text">
+	<LOC_STRING _locID="zoopedia_proteawildflowers:entry"  >Krzew, zawilec gajowy</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_proteawildflowers:text"  >
          <color r="255" g="255" b="255">
             <cell pady="0" width="1000"/>
             <p/>
@@ -2813,8 +2814,8 @@
             </cell>
          </color>
       </LOC_STRING>
-      <LOC_STRING _locID="zoopedia_baobab:entry">Drzewo, baobab</LOC_STRING>
-      <LOC_STRING _locID="zoopedia_baobab:text">
+	<LOC_STRING _locID="zoopedia_baobab:entry"  >Drzewo, baobab</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_baobab:text"  >
          <color r="255" g="255" b="255">
             <cell pady="0" width="1000"/>
             <p/>
@@ -3064,8 +3065,8 @@
             </cell>
          </color>
       </LOC_STRING>
-      <LOC_STRING _locID="zoopedia_umbrellaacacia:entry">Drzewo, akacja afrykańska</LOC_STRING>
-      <LOC_STRING _locID="zoopedia_umbrellaacacia:text">
+	<LOC_STRING _locID="zoopedia_umbrellaacacia:entry"  >Drzewo, akacja afrykańska</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_umbrellaacacia:text"  >
          <color r="255" g="255" b="255">
             <cell pady="0" width="1000"/>
             <p/>
@@ -3182,8 +3183,8 @@
             </cell>
          </color>
       </LOC_STRING>
-      <LOC_STRING _locID="zoopedia_acaciacaffra:entry">Drzewo, akacja kaffra</LOC_STRING>
-      <LOC_STRING _locID="zoopedia_acaciacaffra:text">
+	<LOC_STRING _locID="zoopedia_acaciacaffra:entry"  >Drzewo, akacja kaffra</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_acaciacaffra:text"  >
          <color r="255" g="255" b="255">
             <cell pady="0" width="1000"/>
             <p/>
@@ -3300,8 +3301,8 @@
             </cell>
          </color>
       </LOC_STRING>
-      <LOC_STRING _locID="zoopedia_orchid:entry">Drzewo, bauhinia</LOC_STRING>
-      <LOC_STRING _locID="zoopedia_orchid:text">
+	<LOC_STRING _locID="zoopedia_orchid:entry"  >Drzewo, bauhinia</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_orchid:text"  >
          <color r="255" g="255" b="255">
             <cell pady="0" width="1000"/>
             <p/>
@@ -3420,8 +3421,8 @@
             </cell>
          </color>
       </LOC_STRING>
-      <LOC_STRING _locID="zoopedia_elephantear:entry">Alokazja</LOC_STRING>
-      <LOC_STRING _locID="zoopedia_elephantear:text">
+	<LOC_STRING _locID="zoopedia_elephantear:entry"  >Roślina, alokazja</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_elephantear:text"  >
          <color r="255" g="255" b="255">
             <cell pady="0" width="1000"/>
             <p/>
@@ -3530,8 +3531,8 @@
             </cell>
          </color>
       </LOC_STRING>
-      <LOC_STRING _locID="zoopedia_kily:entry">Drzewo, tamaryndowiec</LOC_STRING>
-      <LOC_STRING _locID="zoopedia_kily:text">
+	<LOC_STRING _locID="zoopedia_kily:entry"  >Drzewo, tamaryndowiec</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_kily:text"  >
          <color r="255" g="255" b="255">
             <cell pady="0" width="1000"/>
             <p/>
@@ -3556,7 +3557,7 @@
                   
                   
                   
-               Tamaryndowie indyjski, zwany także tamaryndą, to zwyczajowa nazwa wiecznie zielonego drzewa tropikalnego z rodziny brezylkowatych, pochodzącego z żyznych obszarów w całej tropikalnej Afryce i południowej Azji. Tamarynda to duże drzewo osiągające wysokość 24 m (80 stóp). Niezwykle twarde drewno, które potrafi produkować iskry, gdy uderza się w nie toporem, używane jest w stolarstwie.
+               Tamaryndowiec indyjski, zwany także tamaryndą, to zwyczajowa nazwa wiecznie zielonego drzewa tropikalnego z rodziny brezylkowatych, pochodzącego z żyznych obszarów w całej tropikalnej Afryce i południowej Azji. Tamarynda to duże drzewo osiągające wysokość 24 m (80 stóp). Niezwykle twarde drewno, które potrafi produkować iskry, gdy uderza się w nie toporem, używane jest w stolarstwie.
          
                   
                   
@@ -3588,7 +3589,7 @@
                   
                   
                   
-	       Lemury katta uwielbiają owoce, nasiona i strąki tamaryndy, która jest szeroko uprawiana w rejonach tropikalnych wschodniej i zachodniej półkuli, jako drzewo ozdobne i dla jej kwaskowatych owoców. Bladożółte kwiaty, ułożone luźno w gronach posiadają czterodzielne kielichy, pięć płatków, trzy płodne pręciki i pojedynczy słupek. Owoc to szpiczasty, zamknięty, wielonasienny strąk. Sok z tamaryndy zmieszany z cukrem i wodą to popularny napój w Ameryce Łacińskiej.
+	       Lemury katta uwielbiają owoce, nasiona i strąki tamaryndy, która jest szeroko uprawiana w rejonach tropikalnych, jako drzewo ozdobne i dla jej kwaskowatych owoców. Bladożółte kwiaty, ułożone luźno w gronach posiadają czterodzielne kielichy, pięć płatków, trzy płodne pręciki i pojedynczy słupek. Owoc to szpiczasty, zamknięty, wielonasienny strąk. Sok z tamaryndy zmieszany z cukrem i wodą to popularny napój w Ameryce Łacińskiej.
          
                   
                   
@@ -3680,8 +3681,8 @@
             </cell>
          </color>
       </LOC_STRING>
-      <LOC_STRING _locID="zoopedia_bananatree:entry">Drzewo, banan</LOC_STRING>
-      <LOC_STRING _locID="zoopedia_bananatree:text">
+	<LOC_STRING _locID="zoopedia_bananatree:entry"  >Drzewo, banan</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_bananatree:text"  >
          <color r="255" g="255" b="255">
             <cell pady="0" width="1000"/>
             <p/>
@@ -3896,8 +3897,8 @@
             </cell>
          </color>
       </LOC_STRING>
-      <LOC_STRING _locID="zoopedia_kapok:entry">Drzewo, kapokowe</LOC_STRING>
-      <LOC_STRING _locID="zoopedia_kapok:text">
+	<LOC_STRING _locID="zoopedia_kapok:entry"  >Drzewo, kapokowe</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_kapok:text"  >
          <color r="255" g="255" b="255">
             <cell pady="0" width="1000"/>
             <p/>
@@ -3954,7 +3955,7 @@
                   
                   
                   
-	       Drzewo kapokowe, drzewo ceiba, lub puchowiec, jest szeroko uprawiany w rejonach tropikalnych ze względu na jego włókno, zwane kapokiem. Z powodu krótkości, elastyczności i łamliwości włókno nie nadaje się do przedzenia, jak bawełna, ale jest szeroko używane w tapicerstwie i wyrobie nici. Z powodu lekkości i właściwości wodoodpornych, kapok używany jest do wyrobu kamizelek ratunkowych, a także jako wypełnienie i izolator. Główne zasoby kapoku pochodzą z Jawy. Nasiona drzewa zawierają też olej kapokowy, używany do wyrobu mydła. Miękkie, gąbczaste drewno gatunków afrykańskich, zwane bentangiem, używane jest do wyrobu canoe. Okrągłe nasiona rozmiarów groszku są pożywieniem na Indonezyjskiej wyspie Sulawesi (Celebes).
+	       Drzewo kapokowe, drzewo ceiba lub puchowiec, jest szeroko uprawiany w rejonach tropikalnych ze względu na jego włókno, zwane kapokiem. Z powodu krótkości, elastyczności i łamliwości włókno nie nadaje się do przedzenia, jak bawełna, ale jest szeroko używane w tapicerstwie i wyrobie nici. Z powodu lekkości i właściwości wodoodpornych, kapok używany jest do wyrobu kamizelek ratunkowych, a także jako wypełnienie i izolator. Główne zasoby kapoku pochodzą z Jawy. Nasiona drzewa zawierają też olej kapokowy, używany do wyrobu mydła. Miękkie, gąbczaste drewno gatunków afrykańskich, zwane bentangiem, używane jest do wyrobu canoe. Okrągłe nasiona rozmiarów groszku są pożywieniem na Indonezyjskiej wyspie Sulawesi (Celebes).
          
                   
                   
@@ -4046,8 +4047,8 @@
             </cell>
          </color>
       </LOC_STRING>
-      <LOC_STRING _locID="zoopedia_redcedar:entry">Drzewo, jałowiec wirginijski</LOC_STRING>
-      <LOC_STRING _locID="zoopedia_redcedar:text">
+	<LOC_STRING _locID="zoopedia_redcedar:entry"  >Drzewo, jałowiec wirginijski</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_redcedar:text"  >
          <color r="255" g="255" b="255">
             <cell pady="0" width="1000"/>
             <p/>
@@ -4201,8 +4202,8 @@
             </cell>
          </color>
       </LOC_STRING>
-      <LOC_STRING _locID="zoopedia_foxtailpalm:entry">Drzewo, palma lisioogoniasta</LOC_STRING>
-      <LOC_STRING _locID="zoopedia_foxtailpalm:text">
+	<LOC_STRING _locID="zoopedia_foxtailpalm:entry"  >Drzewo, palma lisioogoniasta</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_foxtailpalm:text"  >
          <color r="255" g="255" b="255">
             <cell pady="0" width="1000"/>
             <p/>
@@ -4265,8 +4266,8 @@ bifurcata) pochodzi z południowej Azji. Najlepiej rośnie w klimatach tropikaln
             </cell>
          </color>
       </LOC_STRING>
-      <LOC_STRING _locID="zoopedia_treefern:entry">Paproć drzewiasta</LOC_STRING>
-      <LOC_STRING _locID="zoopedia_treefern:text">
+	<LOC_STRING _locID="zoopedia_treefern:entry"  >Drzewo, paproć drzewiasta</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_treefern:text"  >
          <color r="255" g="255" b="255">
             <cell pady="0" width="1000"/>
             <p/>
@@ -4287,7 +4288,7 @@ bifurcata) pochodzi z południowej Azji. Najlepiej rośnie w klimatach tropikaln
                   
                   
                   
-               Paproć drzewiasta to wysoka paproć przypominająca drzewo. Występuje w ciepłych rejonach na całym świecie. Paproć drzewiasta ma drzewiasty pień, zwany caudexem (klocem drzewnym), który u niektórych gatunków jest wysoki i wiotki, a u innych mocny. Na szczycie pnia jest rozeta dużych, przepięknych i równych liści, osiągających do 3 m (10 stóp) długości. Wiele paproci drzewiastych osiąga wysokość od 4.9 aż do 9 m (15 do 30 stóp). Gatunki z rodzaju Cyathea mogą osiągać ponad 15 m (50 stóp). Paprocie drzewiaste są niezwykłą ozdobą roślinności tropikalnej, a kilka ich gatunków jest hodowanych w cieplarniach. 
+               Paproć drzewiasta to wysoka paproć przypominająca drzewo. Występuje w ciepłych rejonach na całym świecie. Paproć drzewiasta ma drzewiasty pień, zwany caudexem (klocem drzewnym), który u niektórych gatunków jest wysoki i wiotki, a u innych mocny. Na szczycie pnia jest rozeta dużych, przepięknych i równych liści, osiągających do 3 m (10 stóp) długości. Wiele paproci drzewiastych osiąga wysokość od 4,9 aż do 9 m (15 do 30 stóp). Gatunki z rodzaju Cyathea mogą osiągać ponad 15 m (50 stóp). Paprocie drzewiaste są niezwykłą ozdobą roślinności tropikalnej, a kilka ich gatunków jest hodowanych w cieplarniach. 
                   
                   
                   
@@ -4375,8 +4376,8 @@ bifurcata) pochodzi z południowej Azji. Najlepiej rośnie w klimatach tropikaln
             </cell>
          </color>
       </LOC_STRING>
-      <LOC_STRING _locID="zoopedia_birch:entry">Drzewo, brzoza</LOC_STRING>
-      <LOC_STRING _locID="zoopedia_birch:text">
+	<LOC_STRING _locID="zoopedia_birch:entry"  >Drzewo, brzoza</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_birch:text"  >
          <color r="255" g="255" b="255">
             <cell pady="0" width="1000"/>
             <p/>
@@ -4591,8 +4592,8 @@ bifurcata) pochodzi z południowej Azji. Najlepiej rośnie w klimatach tropikaln
             </cell>
          </color>
       </LOC_STRING>
-      <LOC_STRING _locID="zoopedia_maple:entry">Drzewo, klon</LOC_STRING>
-      <LOC_STRING _locID="zoopedia_maple:text">
+	<LOC_STRING _locID="zoopedia_maple:entry"  >Drzewo, klon</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_maple:text"  >
          <color r="255" g="255" b="255">
             <cell pady="0" width="1000"/>
             <p/>
@@ -4774,8 +4775,8 @@ bifurcata) pochodzi z południowej Azji. Najlepiej rośnie w klimatach tropikaln
             </cell>
          </color>
       </LOC_STRING>
-      <LOC_STRING _locID="zoopedia_fountainbamboo:entry">Bambus, fontannowy</LOC_STRING>
-      <LOC_STRING _locID="zoopedia_fountainbamboo:text">
+	<LOC_STRING _locID="zoopedia_fountainbamboo:entry"  >Trawa, bambus fontannowy</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_fountainbamboo:text"  >
          <color r="255" g="255" b="255">
             <cell pady="0" width="1000"/>
             <p/>
@@ -4892,8 +4893,8 @@ bifurcata) pochodzi z południowej Azji. Najlepiej rośnie w klimatach tropikaln
             </cell>
          </color>
       </LOC_STRING>
-      <LOC_STRING _locID="zoopedia_waterbamboo:entry">Dracena, sandera</LOC_STRING>
-      <LOC_STRING _locID="zoopedia_waterbamboo:text">
+	<LOC_STRING _locID="zoopedia_waterbamboo:entry"  >Roślina, dracena sandera</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_waterbamboo:text"  >
          <color r="255" g="255" b="255">
             <cell pady="0" width="1000"/>
             <p/>
@@ -4971,8 +4972,8 @@ bifurcata) pochodzi z południowej Azji. Najlepiej rośnie w klimatach tropikaln
             <p/>
          </color>
       </LOC_STRING>
-      <LOC_STRING _locID="zoopedia_himalayanbirch:entry">Drzewo, brzoza pożyteczna</LOC_STRING>
-      <LOC_STRING _locID="zoopedia_himalayanbirch:text">
+	<LOC_STRING _locID="zoopedia_himalayanbirch:entry"  >Drzewo, brzoza pożyteczna</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_himalayanbirch:text"  >
          <color r="255" g="255" b="255">
             <cell pady="0" width="1000"/>
             <p/>
@@ -4987,8 +4988,8 @@ bifurcata) pochodzi z południowej Azji. Najlepiej rośnie w klimatach tropikaln
             </cell>
          </color>
       </LOC_STRING>
-      <LOC_STRING _locID="zoopedia_blackspruce:entry">Drzewo, świerk czarny</LOC_STRING>
-      <LOC_STRING _locID="zoopedia_blackspruce:text">
+	<LOC_STRING _locID="zoopedia_blackspruce:entry"  >Drzewo, świerk czarny</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_blackspruce:text"  >
          <color r="255" g="255" b="255">
             <cell pady="0" width="1000"/>
             <p/>
@@ -5045,7 +5046,7 @@ bifurcata) pochodzi z południowej Azji. Najlepiej rośnie w klimatach tropikaln
                   
                   
                   
-	       Świerk czarny z rodziny sosen był początkowo kojarzony z rodzajem jodeł, od których różnią go zwisające szyszki, wytrzymałe, drzewiaste łodyżki liści i czterokątne liście, rozproszone i wskazujące we wszystkich kierunkach. Świerki występują dalej na północ niż jakiekolwiek inne drzewa, tworząc lasy w kręgu polarnym i sięgają na południe, szczególnie w górach, aż do Pirenejów w Europie i Himalajów w Azji; w USA występują na południu aż w Północnej Karolinie i Arizonie. Świerki białe i czarne pokrywają tak obszerne regiony w Kanadzie, tak, że nie występują tam prawie żadne inne drzewa. W Europie podobnie rozprzestrzeniony jest świerk norweski; drewno jest cennym źródłem opału i materiału na budowę domów i jest eksportowane z Norwegii i Szwecji na drewniane części omasztowania statków.
+	       Świerk czarny z rodziny sosen był początkowo kojarzony z rodzajem jodeł, od których różnią go zwisające szyszki, wytrzymałe, drzewiaste łodyżki liści i czterokątne liście, rozproszone i wskazujące we wszystkich kierunkach. Świerki występują dalej na północ niż jakiekolwiek inne drzewa, tworząc lasy w kręgu polarnym i sięgają na południe, szczególnie w górach, aż do Pirenejów w Europie i Himalajów w Azji; w USA występują na południu aż w Północnej Karolinie i Arizonie. Świerki białe i czarne pokrywają obszerne regiony w Kanadzie, tak, że nie występują tam prawie żadne inne drzewa. W Europie podobnie rozprzestrzeniony jest świerk norweski; drewno jest cennym źródłem opału i materiału na budowę domów i jest eksportowane z Norwegii i Szwecji na drewniane części omasztowania statków.
          
                   
                   
@@ -5078,7 +5079,7 @@ bifurcata) pochodzi z południowej Azji. Najlepiej rośnie w klimatach tropikaln
                   
                   
 	       W Ameryce Północnej dominującym gatunkiem na większości obszarów jest świerk biały i czarny, choć przy wycinaniu lasów rzadko rozróżnia się te dwa gatunki. Pierwszy rośnie na obszarze od Nowego Jorku po Kolumbię Brytyjską i dalej na północ w Nowej Fundlandii i Labradorze, Zatoce Hudsona i na Alasce. 
-	       Białe drewno jest lekkie, miękkie, zbite i prawie bezwonne i o trudno rozróżnianym bielu. Używane jest w celach budowlanych, a także zawiera żywicę, którą się handluje.
+	       Białe drewno jest lekkie, miękkie, zbite a prawie bezwonne i o trudno rozróżnianym bielu. Używane jest w celach budowlanych, a także zawiera żywicę, którą się handluje.
          
                   
                   
@@ -5203,8 +5204,8 @@ bifurcata) pochodzi z południowej Azji. Najlepiej rośnie w klimatach tropikaln
             </cell>
          </color>
       </LOC_STRING>
-      <LOC_STRING _locID="zoopedia_balsamfir:entry">Drzewo, jodła balsamiczna</LOC_STRING>
-      <LOC_STRING _locID="zoopedia_balsamfir:text">
+	<LOC_STRING _locID="zoopedia_balsamfir:entry"  >Drzewo, jodła balsamiczna</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_balsamfir:text"  >
          <color r="255" g="255" b="255">
             <cell pady="0" width="1000"/>
             <p/>
@@ -5353,8 +5354,8 @@ bifurcata) pochodzi z południowej Azji. Najlepiej rośnie w klimatach tropikaln
             </cell>
          </color>
       </LOC_STRING>
-      <LOC_STRING _locID="zoopedia_tamarack:entry">Drzewo, modrzew</LOC_STRING>
-      <LOC_STRING _locID="zoopedia_tamarack:text">
+	<LOC_STRING _locID="zoopedia_tamarack:entry"  >Drzewo, modrzew</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_tamarack:text"  >
          <color r="255" g="255" b="255">
             <cell pady="0" width="1000"/>
             <p/>
@@ -5379,9 +5380,9 @@ bifurcata) pochodzi z południowej Azji. Najlepiej rośnie w klimatach tropikaln
                   
                   
                   
-               Modrzew zwany też modrzewiem amerykańskim występuje w Nowej Fundlandii i od Labradoru po Alaskę. Silne i wytrzymałe drewno wykorzystywane jest na budowach oraz jako słupy, pale i podkłady kolejowe. 
+               Modrzew, zwany też modrzewiem amerykańskim, występuje w Nowej Fundlandii i od Labradoru po Alaskę. Silne i wytrzymałe drewno wykorzystywane jest na budowach oraz jako słupy, pale i podkłady kolejowe. 
                Modrzew zachodni występuje w północno-zachodnich Stanach i południowo-wschodniej Kanadzie. Jego zbite, 
-               Wytrzymałe drewno wykorzystywane jest do wyrobu podłóg. Modrzew podalpejski występuje w tych samych rejonach, co modrzew zachodni, ale zazwyczaj na większych wysokościach. Modrzew europejski jest ważnym źródłem drewna w Europie, gdzie sadzi się go na wielkich obszarach. W Ameryce Północnej jest drzewem ozdobnym.
+               wytrzymałe drewno wykorzystywane jest do wyrobu podłóg. Modrzew podalpejski występuje w tych samych rejonach, co modrzew zachodni, ale zazwyczaj na większych wysokościach. Modrzew europejski jest ważnym źródłem drewna w Europie, gdzie sadzi się go na wielkich obszarach. W Ameryce Północnej jest drzewem ozdobnym.
          
                   
                   
@@ -5505,8 +5506,8 @@ bifurcata) pochodzi z południowej Azji. Najlepiej rośnie w klimatach tropikaln
             </cell>
          </color>
       </LOC_STRING>
-      <LOC_STRING _locID="zoopedia_himalayanpine:entry">Drzewo, sosna himalajska</LOC_STRING>
-      <LOC_STRING _locID="zoopedia_himalayanpine:text">
+	<LOC_STRING _locID="zoopedia_himalayanpine:entry"  >Drzewo, sosna himalajska</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_himalayanpine:text"  >
          <color r="255" g="255" b="255">
             <cell pady="0" width="1000"/>
             <p/>
@@ -5563,7 +5564,7 @@ bifurcata) pochodzi z południowej Azji. Najlepiej rośnie w klimatach tropikaln
                   
                   
                   
-	       Sosna to zwyczajowa nazwa średnich rozmiarów drzew (i ich reprezentatywnego rodzaju), generalnie wiecznie zielonych powszechnie występujących w strefach umiarkowanych półkuli północnej. Rodzina, która składa się z 210 gatunków w 10 rodzajach, posiada ogromne znaczenie ekonomiczne, jako źródło drewna i papierówki i wielu innych produktów. Członkowie rodziny mają charakterystyczne, spiralnie ułożone, igiełkowate liście. Kilka rodzajów - np. sosna, cedr i modrzew - posiada liście rosnące w pękach, które są tak naprawdę krótkimi gałązkami, na których są liście ułożone w ciasnych spiralach.
+	       Sosna to zwyczajowa nazwa średnich rozmiarów drzew (i ich reprezentatywnego rodzaju), generalnie wiecznie zielonych powszechnie występujących w strefach umiarkowanych półkuli północnej. Rodzina, która składa się z 210 gatunków w 10 rodzajach, posiada ogromne znaczenie ekonomiczne, jako źródło drewna, papierówki i wielu innych produktów. Członkowie rodziny mają charakterystyczne, spiralnie ułożone, igiełkowate liście. Kilka rodzajów - np. sosna, cedr i modrzew - posiada liście rosnące w pękach, które są tak naprawdę krótkimi gałązkami, na których są liście ułożone w ciasnych spiralach.
          
                   
                   
@@ -5660,7 +5661,7 @@ bifurcata) pochodzi z południowej Azji. Najlepiej rośnie w klimatach tropikaln
                   
                   
                   
-	       Sosny dzielą się na dwie grupy, w zależności od łusek i innych charakterystyk. Miękkie sosny mają liście w pękach po 5, a łuski u podstawy opadają z dorosłych pęków. Ich drewno jest miękkie i szorstkie. Najbardziej znane miękkie sosny to wschodnia sosna wejmutka z Ameryki Północnej; pinion z południowego zachodu, który posiada jadalne nasiona; sosna sędziwa, gatunek z Gór Skalistych; oraz sosna sędziwa, która może żyć ponad 5000 lat i jest uznawana za najstarszą znaną nam żyjącą rzecz na świecie. Poprzez analizę słojów sosny sędziwej naukowcy mogą stwierdzić, jaki klimat panował 10000 lat temu. Twarde sosny mają liście w pękach po 2 lub 3, a łuski u podstawy pozostają w dojrzałych pękach. Drewno jest twarde i zbite. Najbardziej znane gatunki to sosna wydmowa, rosnąca od Alaski po półwysep kalifornijski; sosna błotna z południowo-wschodnich wybrzeży nizinnych; oraz sosna żółta z amerykańskiego wschodu. Obie grupy sosen mają duże znaczenie ekonomiczne z powodu ich drewna, masy celulozowej, dziegciu oraz terpentyny. Są też drzewami ozdobnymi. Przedstawiciele rodziny sosen uważanych za wymarłe przed 50 milionami lat odkryto w lesie deszczowym blisko Sydney w Australii w roku 1994. Inni przedstawiciele rodziny sosen to daglezja zielona, pietrasznik plamisty oraz świerk.
+	       Sosny dzielą się na dwie grupy, w zależności od łusek i innych charakterystyk. Miękkie sosny mają liście w pękach po 5, a łuski u podstawy opadają z dorosłych pęków. Ich drewno jest miękkie i szorstkie. Najbardziej znane miękkie sosny to wschodnia sosna wejmutka z Ameryki Północnej; pinion z południowego zachodu, który posiada jadalne nasiona; sosna gatunek z Gór Skalistych, oraz sosna sędziwa, która może żyć ponad 5000 lat i jest uznawana za najstarszą znaną nam żyjącą rzecz na świecie. Poprzez analizę słojów sosny sędziwej naukowcy mogą stwierdzić, jaki klimat panował 10000 lat temu. Twarde sosny mają liście w pękach po 2 lub 3, a łuski u podstawy pozostają w dojrzałych pękach. Drewno jest twarde i zbite. Najbardziej znane gatunki to sosna wydmowa, rosnąca od Alaski po półwysep kalifornijski; sosna błotna z południowo-wschodnich wybrzeży nizinnych; oraz sosna żółta z amerykańskiego wschodu. Obie grupy sosen mają duże znaczenie ekonomiczne z powodu ich drewna, masy celulozowej, dziegciu oraz terpentyny. Są też drzewami ozdobnymi. Przedstawiciele rodziny sosen uważanych za wymarłe przed 50 milionami lat odkryto w lesie deszczowym blisko Sydney w Australii w roku 1994. Inni przedstawiciele rodziny sosen to daglezja zielona, pietrasznik plamisty oraz świerk.
          
                   
                   
@@ -5752,8 +5753,8 @@ bifurcata) pochodzi z południowej Azji. Najlepiej rośnie w klimatach tropikaln
             </cell>
          </color>
       </LOC_STRING>
-      <LOC_STRING _locID="zoopedia_yellowcedar:entry">Drzewo, cyprysik nutkajski</LOC_STRING>
-      <LOC_STRING _locID="zoopedia_yellowcedar:text">
+	<LOC_STRING _locID="zoopedia_yellowcedar:entry"  >Drzewo, cyprysik nutkajski</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_yellowcedar:text"  >
          <color r="255" g="255" b="255">
             <cell pady="0" width="1000"/>
             <p/>
@@ -5796,7 +5797,7 @@ bifurcata) pochodzi z południowej Azji. Najlepiej rośnie w klimatach tropikaln
                   
                   <a href="zoopedia:zoopedia_cypress:entry">
                      <u>
-                        <color r="255" g="231" b="135">cyprysu </color>
+                        <color r="255" g="231" b="135">cyprysu</color>
                      </u>
                   </a>
                   
@@ -5906,8 +5907,8 @@ bifurcata) pochodzi z południowej Azji. Najlepiej rośnie w klimatach tropikaln
             </cell>
          </color>
       </LOC_STRING>
-      <LOC_STRING _locID="zoopedia_datepalm:entry">Drzewo, palma daktylowa</LOC_STRING>
-      <LOC_STRING _locID="zoopedia_datepalm:text">
+	<LOC_STRING _locID="zoopedia_datepalm:entry"  >Drzewo, palma daktylowa</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_datepalm:text"  >
          <color r="255" g="255" b="255">
             <cell pady="0" width="1000"/>
             <p/>
@@ -6120,8 +6121,8 @@ bifurcata) pochodzi z południowej Azji. Najlepiej rośnie w klimatach tropikaln
             </cell>
          </color>
       </LOC_STRING>
-      <LOC_STRING _locID="zoopedia_camelthornacacia:entry">Drzewo, akacja kolcolistna</LOC_STRING>
-      <LOC_STRING _locID="zoopedia_camelthornacacia:text">
+	<LOC_STRING _locID="zoopedia_camelthornacacia:entry"  >Drzewo, akacja kolcolistna</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_camelthornacacia:text"  >
          <color r="255" g="255" b="255">
             <cell pady="0" width="1000"/>
             <p/>
@@ -6146,7 +6147,7 @@ bifurcata) pochodzi z południowej Azji. Najlepiej rośnie w klimatach tropikaln
                   
                   
                   
-               Akacja kolcolistna to duże, drzewo w kształcie parasola z pióropuszowym listowiem, które jest powszechnym widokiem zarówno w Afryce, jak i Australii. Liście akacji kolcolistnej stanowią pokarm dla 
+               Akacja kolcolistna to duże, drzewo w kształcie parasola z pióropuszowym listowiem, które jest powszechnym widokiem zarówno w Afryce jak i Australii. Liście akacji kolcolistnej stanowią pokarm dla 
          
                   
                   
@@ -6200,7 +6201,7 @@ bifurcata) pochodzi z południowej Azji. Najlepiej rośnie w klimatach tropikaln
                   
                   <a href="zoopedia:zoopedia_giraffe:entry">
                      <u>
-                        <color r="255" g="231" b="135">żyraf</color>
+                        <color r="255" g="231" b="135">żyraf </color>
                      </u>
                   </a>
                   
@@ -6218,7 +6219,7 @@ bifurcata) pochodzi z południowej Azji. Najlepiej rośnie w klimatach tropikaln
                   
                   
                   
-                i łosi, a jej nasiona są przez ludzi często używane, jako substytut kawy.
+                  i łosi, a jej nasiona są przez ludzi często używane, jako substytut kawy.
          
                   
                   
@@ -6310,8 +6311,8 @@ bifurcata) pochodzi z południowej Azji. Najlepiej rośnie w klimatach tropikaln
             </cell>
          </color>
       </LOC_STRING>
-      <LOC_STRING _locID="zoopedia_mangrove:entry">Drzewo, mangrowiec</LOC_STRING>
-      <LOC_STRING _locID="zoopedia_mangrove:text">
+	<LOC_STRING _locID="zoopedia_mangrove:entry"  >Drzewo, mangrowiec</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_mangrove:text"  >
          <color r="255" g="255" b="255">
             <cell pady="0" width="1000"/>
             <p/>
@@ -6336,7 +6337,7 @@ bifurcata) pochodzi z południowej Azji. Najlepiej rośnie w klimatach tropikaln
                   
                   
                   
-               Mangrowiec to zwyczajowa nazwa kilku gatunków tropikalnych roślin kwitnących, które są przedstawicielami trzech różnych rodzin. Mangrowce to drzewa lub krzewy, których cechą wspólną jest to, że rosną w płytkiej i mętnej słonej lub półsłonej wodzie, szczególnie wzdłuż spokojnych brzegów i u ujść. Zazwyczaj wytwarzają poplątane skupisko łukowatych korzeni, które są odkryte  w trakcie odpływów. Niektóre z korzeni mangrowca wystają ponad wodę. Te wyspecjalizowane pionowe gałęzie, zwane pneumatoforami służą jako organy napowietrzające. Najpopularniejsze i najważniejsze gatunki to mangowiec czerwony, nazwany tak z powodu czerwonawego drewna. Jest wykorzystywany, jako źródło węgla drzewnego i garbnika, wykorzystywanych w garbowaniu skóry. Jego nasiona są nietypowe ponieważ kiełkują gdy wciąż jeszcze rosną na drzewie, wypuszczając sadzonki osiągające 30 cm (12 cali) długości. Sadzonki są w kształcie cygar i cięższe przy części korzeniowej niż przy listnej. Po odpadnięciu zazwyczaj sadzą się w błocie pod drzewem rodzicielskim. Czerwone, białe i wyprostowane występują na południowej Florydzie w innych strefach tropikalnych. Czarny mangrowiec to przedstawiciel rodziny verbena.
+               Mangrowiec to zwyczajowa nazwa kilku gatunków tropikalnych roślin kwitnących, które są przedstawicielami trzech różnych rodzin. Mangrowce to drzewa lub krzewy, których cechą wspólną jest to, że rosną w płytkiej i mętnej słonej lub półsłonej wodzie, szczególnie wzdłuż spokojnych brzegów i u ujść. Zazwyczaj wytwarzają poplątane skupisko łukowatych korzeni, które są odkryte  w trakcie odpływów. Niektóre z korzeni mangrowca wystają ponad wodę. Te wyspecjalizowane pionowe gałęzie, zwane pneumatoforami służą jako organy napowietrzające. Najpopularniejsze i najważniejsze gatunki to mangrowiec czerwony, nazwany tak z powodu czerwonawego drewna. Jest wykorzystywany, jako źródło węgla drzewnego i garbnika, wykorzystywanych w garbowaniu skóry. Jego nasiona są nietypowe ponieważ kiełkują gdy wciąż jeszcze rosną na drzewie, wypuszczając sadzonki osiągające 30 cm (12 cali) długości. Sadzonki są w kształcie cygar i cięższe przy części korzeniowej niż przy listnej. Po odpadnięciu zazwyczaj sadzą się w błocie pod drzewem rodzicielskim. Czerwone, białe i wyprostowane występują na południowej Florydzie w innych strefach tropikalnych. Czarny mangrowiec to przedstawiciel rodziny verbena.
          
                   
                   
@@ -6428,8 +6429,8 @@ bifurcata) pochodzi z południowej Azji. Najlepiej rośnie w klimatach tropikaln
             </cell>
          </color>
       </LOC_STRING>
-      <LOC_STRING _locID="zoopedia_cypress:entry">Drzewo, cyprys</LOC_STRING>
-      <LOC_STRING _locID="zoopedia_cypress:text">
+	<LOC_STRING _locID="zoopedia_cypress:entry"  >Drzewo, cyprys</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_cypress:text"  >
          <color r="255" g="255" b="255">
             <cell pady="0" width="1000"/>
             <p/>
@@ -6615,8 +6616,8 @@ bifurcata) pochodzi z południowej Azji. Najlepiej rośnie w klimatach tropikaln
             </cell>
          </color>
       </LOC_STRING>
-      <LOC_STRING _locID="zoopedia_weepingmyall:entry">Drzewo, akacja płacząca</LOC_STRING>
-      <LOC_STRING _locID="zoopedia_weepingmyall:text">
+	<LOC_STRING _locID="zoopedia_weepingmyall:entry"  >Drzewo, akacja płacząca</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_weepingmyall:text"  >
          <color r="255" g="255" b="255">
             <cell pady="0" width="1000"/>
             <p/>
@@ -6735,8 +6736,8 @@ bifurcata) pochodzi z południowej Azji. Najlepiej rośnie w klimatach tropikaln
             </cell>
          </color>
       </LOC_STRING>
-      <LOC_STRING _locID="zoopedia_yellowfeveracacia:entry">Drzewo, akacja febrowa</LOC_STRING>
-      <LOC_STRING _locID="zoopedia_yellowfeveracacia:text">
+	<LOC_STRING _locID="zoopedia_yellowfeveracacia:entry"  >Drzewo, akacja febrowa</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_yellowfeveracacia:text"  >
          <color r="255" g="255" b="255">
             <cell pady="0" width="1000"/>
             <p/>
@@ -6855,8 +6856,8 @@ bifurcata) pochodzi z południowej Azji. Najlepiej rośnie w klimatach tropikaln
             </cell>
          </color>
       </LOC_STRING>
-      <LOC_STRING _locID="zoopedia_tremblingaspen:entry">Drzewo, osika amerykańska</LOC_STRING>
-      <LOC_STRING _locID="zoopedia_tremblingaspen:text">
+	<LOC_STRING _locID="zoopedia_tremblingaspen:entry"  >Drzewo, osika amerykańska</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_tremblingaspen:text"  >
          <color r="255" g="255" b="255">
             <cell pady="0" width="1000"/>
             <p/>
@@ -7005,8 +7006,8 @@ bifurcata) pochodzi z południowej Azji. Najlepiej rośnie w klimatach tropikaln
             </cell>
          </color>
       </LOC_STRING>
-      <LOC_STRING _locID="zoopedia_wetlandlog:entry">Kłoda z mokradeł</LOC_STRING>
-      <LOC_STRING _locID="zoopedia_wetlandlog:text">
+	<LOC_STRING _locID="zoopedia_wetlandlog:entry"  >Kłoda z mokradeł</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_wetlandlog:text"  >
          <color r="255" g="255" b="255">
             <cell pady="0" width="1000"/>
             <p/>

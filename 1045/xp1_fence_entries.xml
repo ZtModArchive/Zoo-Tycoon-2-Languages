@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<ZT2Strings>
+	<LOC_STRING _locID="zoopedia_endangeredanimalsfence:entry"  >Ogrodzenie: zagrożone gatunki</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_endangeredanimalsfence:text"  >
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\objects\fences\mosaic_end\mosaic_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+Ogrodzenie z motywem zagrożonych gatunków najlepiej łączy się z wystawami obejmującymi zagrożone gatunki, takie jak koń Przewalskiego lub oryks szablorogi. Możesz również użyć tego ogrodzenia, aby stworzyć atrakcyjne strefy publiczne w pobliżu ekspozycji.
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_conservationfences:entry"  >Ogrodzenia rezerwatów</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_conservationfences:text"  >
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\objects\fences\conservation_df\conservation_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+Ogrodzenia rezerwatów ustawiane są dookoła <a href="zoopedia:zoopedia_conservationarea:entry"><u><color r="255" g="231" b="135">terenów chronionych.</color></u></a> Nie można ich sprzedać ani wprowadzić do wtórnego obiegu.
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_mosaicwindow:entry"  >Ażurowe ogrodzenie: zagrożone gatunki</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_mosaicwindow:text"  >
+      <cell pady="0" width="1000"/>
+      <p/>
+      <cell width="260"/>
+      <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+         <cell width="600" padx="20" pady="20">
+            <color r="255" g="255" b="255">
+               <img src="entities\objects\fences\mosaicwindow_end\mosaicwindow_end_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+            <p/>
+Ażurowe ogrodzenie stanowi połączenie bezpieczeństwa zapewnianego przez wysoki płot z nieograniczoną swobodą oglądania ekspozycji. Ogrodzenie z motywem zagrożonych gatunków najlepiej łączy się z wystawami obejmującymi zagrożone gatunki, takimi jak koń Przewalskiego lub oryks szablorogi.
+            </color>
+         </cell>
+      </cell>
+   </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_vehiclegate:entry"  >Brama dla pojazdów</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_vehiclegate:text"  >
+      <cell pady="0" width="1000"/>
+      <p/>
+      <cell width="260"/>
+      <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+         <cell width="600" padx="20" pady="20">
+            <color r="255" g="255" b="255">
+               <img src="entities\objects\fences\vehiclegate_end\vehiclegate_end_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+            <p/>
+Brama dla pojazdu pozwala pojazdowi na wjechanie lub wyjechanie z terenu ekspozycji. Aby zapobiec ucieczkom zwierząt, brama jest automatycznie zamykana po przejeździe wehikułu.
+            </color>
+         </cell>
+      </cell>
+   </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_vehiclegate_reward:entry"  >Brama dla pojazdów</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_vehiclegate_reward:text"  >
+      <cell pady="0" width="1000"/>
+      <p/>
+      <cell width="260"/>
+      <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+         <cell width="600" padx="20" pady="20">
+            <color r="255" g="255" b="255">
+               <img src="entities\objects\fences\vehiclegate_reward_end\vehiclegate_end_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+            <p/>
+Brama dla pojazdu pozwala pojazdowi na wjechanie lub wyjechanie z terenu ekspozycji. Aby zapobiec ucieczkom zwierząt, brama jest automatycznie zamykana po przejeździe wehikułu.
+            <p/>
+Musisz ukończyć kampanię transportową, aby uzyskać dostęp do ozdobnej bramy dla pojazdów.            
+            </color>
+         </cell>
+      </cell>
+   </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_wroughtiron:entry"  >Ogrodzenie z kutego żelaza</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_wroughtiron:text"  >
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\objects\fences\wroughtiron_df\wroughtiron_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+Kute żelazo to odporny materiał, który można ukształtować w dekoracyjne wzory. Dlatego ogrodzenie takie zapewnia doznania estetyczne, jednocześnie gwarantując bezpieczeństwo w przypadku zwierząt, które mogłyby sforsować ogrodzenie wykonane ze słabszego materiału. Ogrodzenie z kutego żelaza pozwala również zwiedzającym na niczym nie zakłóconą obserwację zwierząt.
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+</ZT2Strings>

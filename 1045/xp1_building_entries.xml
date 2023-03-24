@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<ZT2Strings>
+	<LOC_STRING _locID="zoopedia_discoverykiosk:entry"  >Budka informacyjna</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_discoverykiosk:text"  >
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\objects\buildings\DiscoveryKiosk_df\DiscoveryKiosk_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+Dzięki budce informacyjnej goście twojego zoo mają dostęp do fascynujących informacji o zwierzętach i ich środowisku. Po odwiedzeniu budki informacyjnej przez gościa zoo, jego datki na cele edukacyjne zwiększają się na jakiś czas.
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_tropicalbouncehouse:entry"  >Tropikalna trampolina</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_tropicalbouncehouse:text"  >
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\objects\buildings\rainforest_bounce_house\RainforestBounceHouse_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+Dzieci uwielbiają skakać na tropikalnej trampolinie! Ten duży, nadmuchiwany obiekt może pomieścić jednocześnie czworo dzieci.
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_breedingcenter:entry"  >Centrum Rozmnażania Zagrożonych Gatunków</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_breedingcenter:text"  >
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\objects\buildings\ConservationBreedingCenter_end\ConservationBreedingCenter_end_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+Centrum Rozmnażania Zagrożonych Gatunków to ośrodek badawczy zajmujący się rozmnażaniem zagrożonych i ginących gatunków zwierząt. Dzięki niemu rozmnażanie tych gatunków w twoim zoo staje się łatwiejsze.
+		<p/>
+Aby Centrum Rozmnażania stało się dostępne, musisz ukończyć kampanię zagrożonych gatunków.
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_facepaintingkiosk:entry"  >Budka z malowaniem twarzy</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_facepaintingkiosk:text"  >
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\objects\buildings\Face_Painting_Kiosk_end\FacePaintingKiosk_end_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+Najmłodsi goście twojego zoo uwielbiają malowanie twarzy - dzięki tej budce będą wyglądać jak prawdziwe tygrysy, pandy i inne zwierzęta.
+<p/>
+Aby uzyskać dostęp do budki z malowaniem twarzy, musisz wygrać Nagrodę za Datki na Rozrywkę.
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_headphonekiosk:entry"  >Budka z zestawami słuchawkowymi</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_headphonekiosk:text"  >
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\objects\buildings\HeadphoneKiosk_end\HeadphoneKiosk_end_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+Goście chętnie zwiedzają zoo nosząc bezprzewodowe zestawy słuchawkowe, które pozwalają im na uzyskanie wielu interesujących informacji o zwierzętach.
+		<p/>
+Aby budka z zestawami słuchawkowymi była dostępna, musisz wygrać Nagrodę za Datki na Edukację.
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_photokiosk:entry"  >Budka fotograficzna</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_photokiosk:text"  >
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\objects\buildings\PhotoExhibitStand_df\PhotoExhibitStand_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+Dzięki budce fotograficznej goście twojego zoo mogą obejrzeć wszystkie zrobione przez ciebie zdjęcia zoo.
+		<p/>
+Jeśli chcesz mieć dostęp do budki fotograficznej, musisz wygrać Nagrodę Fotograficzną Zagrożonych Gatunków.		
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+	<LOC_STRING _locID="zoopedia_skytower:entry"  >Wieża widokowa</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_skytower:text"  >
+    <cell pady="0" width="1000"/>
+    <p/>
+    <cell width="260"/>
+    <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+     <cell width="600" padx="20" pady="20">
+      <color r="255" g="255" b="255">
+       <img src="entities\objects\buildings\skytower_df\skytower_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+       <p/>
+Dzięki wieży widokowej goście mogą podziwiać wspaniałą panoramę twojego zoo.
+		 <p/>
+Jeśli chcesz, aby wieża widokowa była dostępna, musisz wygrać Nagrodę za Ocenę Tras Widokowych.
+      </color>
+     </cell>
+    </cell>
+   </LOC_STRING>
+</ZT2Strings>
