@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<ZT2Strings>
+   <entityname>
+      <!--animal names-->
+
+      <StuffedPrey>Sztuczna zwierzyna</StuffedPrey>
+      <StuffedPrey_stt>Sztuczna zwierzyna</StuffedPrey_stt>
+      <StuffedPrey_lower>sztuczna zwierzyna</StuffedPrey_lower>
+      <StuffedPrey_ltt>
+         <color r="255" g="248" b="178">
+            <b>Sztuczna zwierzyna</b>
+         </color>
+         <br/>
+         Kliknij, aby umieścić sztuczną zwierzynę, zabawkę, na której zwierzęta mogą wyładować swój instynkt polowania.
+      </StuffedPrey_ltt>
+   </entityname>
+
+   <zoopedia_stuffedprey>
+      <entry>Sztuczna zwierzyna</entry>
+      <text>
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>
+                  <img src="entities\objects\enrichment\StuffedPrey\StuffedPrey_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>Sztuczna zwierzyna to wypchana kukła w kształcie gazeli, zamontowana na grubej sprężynie.
+                  <p/>Drapieżcy lubią rzucać się na sztuczną gazelę, ponieważ dzięki sprężynie reaguje na ich ataki.
+               </color>
+            </cell>
+         </cell>
+      </text>
+   </zoopedia_stuffedprey>
+
+</ZT2Strings>

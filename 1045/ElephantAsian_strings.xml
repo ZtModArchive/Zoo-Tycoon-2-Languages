@@ -1,0 +1,185 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<ZT2Strings>
+   <entityname>
+      <!--animal names-->
+
+      <ElephantAsian>Słoń indyjski</ElephantAsian>
+      <ElephantAsian_stt>Słoń indyjski</ElephantAsian_stt>
+      <ElephantAsian_lower>słoń indyjski</ElephantAsian_lower>
+      <ElephantAsian_ltt>
+         <color r="255" g="248" b="178">
+            <b>Słoń indyjski</b>
+         </color>
+         <br/>
+         Kliknij, aby umieścić słonia indyjskiego, silnego słonia o uszach mniejszych od swojego afrykańskiego kuzyna.
+      </ElephantAsian_ltt>
+      <!--gift names-->
+
+      <ElephantAsian_Gift>Pluszowy słoń indyjski</ElephantAsian_Gift>
+      <ElephantAsian_Gift_stt>Pluszowy słoń indyjski</ElephantAsian_Gift_stt>
+      <ElephantAsian_Gift_lower>pluszowy słoń indyjski</ElephantAsian_Gift_lower>
+      <ElephantAsian_Gift_ltt>
+         <color r="255" g="248" b="178">
+            <b>Pluszowy słoń indyjski</b>
+         </color>
+         <br/>Goście, którym spodobał się słoń indyjski, będą zainteresowani zakupem tej maskotki.
+      </ElephantAsian_Gift_ltt>
+   </entityname>
+
+   <zoopedia_elephantasian version="2">
+      <entry>Słoń indyjski</entry>
+      <text>
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/ElephantAsian/ElephantAsian_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/ElephantAsian/ElephantAsian_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>						 
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>	
+						<cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/endangered.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Stopień zagrożenia:
+                     <br/>
+                        <color r="255" g="155" b="0">
+                     Zagrożony
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>            
+            
+               <cell width="128">
+                  <color r="255" g="255" b="255">Busz<br/></color>
+                  <img src="ui/icon_biomes/icon_scrub.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+               </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Azja Południowowschodnia<br/></color>
+                  <img src="ui/icon_maplocations/Scrub_Asia_Southeast.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284">
+                  <color r="255" g="255" b="255">Typ: Ssaki <i>(Mammalia)</i><br/>Gromada: Trąbowce <i>(Proboscidea)</i><br/>Rodzina: Słoniowate <i>(Elephantidae)</i><br/>Rodzaj: <i>Elephas</i><br/>Gatunek:<i>maximus</i></color>
+               </cell>
+               <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/scrub_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+               </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Ciekawostki</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Nowonarodzonym słoniem indyjskim zajmuje się matka i inne samice w stadzie (nazywane "ciotkami").</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Słoń indyjski jest niczym buldożer - przetarte przez niego szlaki są często wykorzystywane przez inne zwierzęta.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Słonie porozumiewają się z członkami stada i innymi słoniami za pomocą dźwięków niskiej częstotliwości, słyszalnych z odległości nawet 10 mil.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Słoń indyjski jest czasem nazywany słoniem azjatyckim.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Słoń indyjski używa kłów do rycia i wykopywania drzew; wabi nimi również samicę w okresie godowym.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Przewodnikiem stada jest samica - jest to zazwyczaj największa, najstarsza lub najbardziej doświadczona członkini stada.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Podobny do palca wyrostek na końcu trąby jest na tyle wrażliwy, że słoń może nim podnosić nawet małe obiekty, jak orzeszki ziemne.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Podczas jedzenia słonie indyjskie mruczą.</color>
+               </cell>
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">Aby uzyskać dostęp do słonia indyjskiego, musisz mieć przynajmniej 3,5 gwiazdki popularności.</color>
+            <p/>Słoń jest wielkim ssakiem, posiadającym charakterystyczną trąbę i dwa kły. Inteligentne i silne, słonie są największymi zwierzętami lądowymi, a długość ich życia może przekraczać 60 lat. Zdrowe, dorosłe słonie nie mają żadnych naturalnych wrogów.
+            <p/>Ludzie od wieków cenili słonie za ich siłę i rozmiary. W czasie bitwy służyły do tratowania przeciwników i siania paniki w ich szeregach. Szkolono je również do transportowania dużych ładunków i przenoszenia ogromnych kłód.
+            <p/>Słonie był podziwiane i czczone - w Tajlandii, Indiach i innych krajach Azji Południowowschodniej pięknie przystrojone słonie nadal pełnią ważną rolę w obrzędach religijnych. Zgodnie z buddyjską tradycją, sam Budda przybrał postać białego słonia w jednym ze swoich ziemskich wcieleń, a rzadkie pojawienie się białego słonia wciąż jest uznawane za boskie objawienie.
+            <p/>Szczątki znalezione przez naukowców wskazują, że kiedyś zwierzęta te zamieszkiwały wszystkie kontynenty poza Australią i Antarktyką, lecz dziś pozostały jedynie w Afryce i niektórych częściach Azji Południowowschodniej. Zamieszkują stepy, bagna, lasy, pustynie i góry. Słonie są roślinożerne i potrzebują ogromnych ilości pożywienia ze względu na swoją masę. Potrzebują również dużych ilości wody.
+            <p/>Nawet niewielkie stado słoni potrafi dość szybko ogołocić spory obszar z roślinności i wyczerpać zapasy wody, co zmusza zwierzęta do wędrówki. Stado słoni migruje okresowo, zataczając ogromne koło, poszukując nowych zasobów na obszarze nawet do 1500 km kwadratowych. W poszukiwaniu pożywienia słonie podróżują od 5000 do 10,000 km rocznie, co stanowi rekord w świecie zwierząt.
+            <p/>Słoń indyjski różni się od afrykańskiego rozmiarami, kolorem i innymi cechami. Słoń afrykański jest potężniejszy i ma większe uszy, opadające na barki. Samce osiągają wysokość 4 m i mogą ważyć do 7000 kg. Samice są mniejsze - osiągają wzrost do 2.8 m, i ważą prawie o połowę mniej - do 3600 kg. Słonie afrykańskie są jasnoszare, choć z powodu częstych kąpieli błotnych mogą wydawać się ciemnoszare, rude lub brązowe. Mają niskie, płaskie czoło i niewielkie garby. Długość uszu sięga 1.5 m, a szerokość - 1.2 m. Zarówno samce, jak i samice mają długie, zagięte kły. 
+            <p/>Słonie indyjskie są mniejsze od swoich afrykańskich krewniaków, a ich uszy nie dosięgają barków. Wysokość przeciętnego samca nie przekracza 3 m, a waga - 2300 kg co stanowi zaledwie połowę wagi słonia afrykańskiego. Samice osiągają 2.4 m i ważą 3000 kg. Słonie indyjskie mają ciemnoszarą skórę, wybrzuszone czoło i zaokrąglone plecy. Rozmiary uszu osiągają długość 0.75 m i szerokość 0.6 m. U samicy kły są bardzo małe lub w zupełnym zaniku. 
+            <p/>Pomimo ogromnej wagi, słonie przemieszczają się niemal bezgłośnie i poruszają się z dużym wdziękiem, a ich grube nogi pozwalają na przemieszczanie wagi ciała w stałym, równym rytmie. Na spodzie stopy posiadają elastyczne poduszki, amortyzujące obciążenie. Palce pomagają w utrzymaniu równowagi. Słonie przeważnie poruszają się z prędkością 6 km/h, lecz potrafią rozpędzić się do 40 km/h. Nie potrafią galopować i przeskakiwać rozpadlin, lecz chętnie pływają w rzekach i jeziorach, a dzięki dużej wyporności prawie w ogóle się nie męczą.
+            <p/>Kły, czyli przekształcone górne zęby, są największymi zębami, jakie posiada jakiekolwiek zwierzę. Są one używane do rycia w poszukiwaniu wody i pożywienia, odzierania kory z drzew, walk podczas okresu godowego, a u samic słonia afrykańskiego służą do obrony młodych przed drapieżcami, takimi jak lwy i tygrysy. U samicy zęby mleczne wypadają w 6-12 miesiącu życia, a zęby stałe, które przekształcą się w kły, rosną przez całe życie z prędkością ok. 17 cm rocznie. Tempo ich wzrostu jest uwarunkowane genetycznie, a także od odżywiania, a z upływem lat podlegają naturalnemu zużyciu, które ogranicza ich długość. Kły słonia afrykańskiego ważą 20-45 kg i mierzą 1.8-2.4 m. Kły słonia indyjskiego osiągają długość 1.5 m i wagę 30 kg. Ponieważ słoń afrykański posiada większe kły, występujące zarówno u samców, jak i u samic, kłusownicy i myśliwi polują najczęściej na ten właśnie gatunek.
+            <p/>Słonie posiadają cztery zęby (wszystkie trzonowe) posiadające faliste krawędzie, ułatwiające rozdrabnianie korzonków, łodyg i liści. Pojedynczy ząb może ważyć ponad 5 kg i mierzyć ponad 30 cm. Pierwsza para zębów znajduje się w przedniej części jamy gębowej; kiedy się zużywają, zastępowane są przez drugą parę, która przesuwa się do przodu. W tylnej części jamy gębowej wyrasta tymczasem następna para. Może się to zdarzyć nawet sześć razy. Kiedy słoń zużyje ostatnią parę zębów, co następuje przeważnie w wieku 40-60 lat, słoń nie może przyjmować pożywienia i zdycha z głodu.
+            <p/>Słonie nie posiadają gruczołów potowych, wypromieniowując ciepło przez uszy. Machając uszami, słoń ochładza krew przepływającą przez liczne naczynia krwionośne znajdujące się w uszach, zanim ta trafi ponownie do krwiobiegu. Mechanizm ten może stanowić uzasadnienie faktu, że słoń afrykański, żyjący w cieplejszym klimacie, posiada większe uszy. Ogon słonia jest pozbawiony sierści, poza niewielką jej kępką na samym końcu, służącą do odganiania natrętnych much. Przeciętny ogon waży do 10 kilogramów.
+            <p/>Słonie mają bardzo kiepski wzrok, a ich oczy są bardzo małe w porównaniu z rozmiarami głowy, która może wykonać jedynie bardzo ograniczony obrót. Z tego powodu ich pole widzenia jest ograniczone, dlatego jeśli słoń chce się obejrzeć, musi obrócić całe ciało. Pozostałe zmysły - węch, smak, dotyk - są bardzo wyczulone. Trąba jest najbardziej unerwionym organem, dzięki któremu słoń bez trudu wyczuwa zapach pożywienia. Słonie wyczuwają wodę z ogromnej odległości i słyszą dźwięki ze źródła oddalonego o ponad milę. 
+            <p/>Słonie żyją w zorganizowanej społeczności, w zamkniętych matriarchalnych grupach, prowadzonych przez najstarsze samice. Rodziny składają się z sióstr, kuzynek, ciotek, i siostrzenic wraz z ich potomstwem, a ich liczebność waha się od 2 do 29 sztuk. Słonie często pozostają razem przez całe życie. Jeśli rodzina staje się zbyt liczna, niektóre samice opuszczają ją, aby założyć nowe stada. Członkowie rodziny razem się kąpią, poszukują pożywienia i podróżują. Członkowie rodziny zazwyczaj nie oddalają się od przewodniczki stada na odległość większą niż 46 m, cały czas utrzymując kontakt dźwiękowy. Jeśli rozdzielą się nawet na kilka godzin, powracające słonie witane są z wielką pompą - bieganiem, trąbieniem, defekacją, uderzaniem kłami, i ocieraniem się nawzajem o swoje ciała. Rodzina troszczy się o młode, chore, stare, i kalekie słonie, broniąc ich przed drapieżnikami. Kiedy zdycha najstarsza samica, zastępowana jest przeważnie przez następną.
+            <p/>Słonie porozumiewają się poprzez dotyk, dźwięki, zapachy, a także mimikę ciała. Dotykanie odbywa się głównie za pomocą trąby - matka może nią pieścić małe, lecz potrafi również wymierzyć cios nieposłusznemu samcowi. Popychanie, kopanie i ocieranie się to inne sposoby komunikacji.
+            <p/>Słonie porozumiewają się również za pomocą trąbienia, służącego do witania lub ostrzegania innych stad. Wydawane przez nie dźwięki o niskiej częstotliwości odbierane są przez słonie znajdujące się w odległości nawet kilku kilometrów. Najnowsze badania wskazują, że słonie komunikują się również przy pomocy infradźwięków, niesłyszalnych dla ludzkiego ucha.
+            <p/>Jeszcze innym sposobem komunikacji są feromony zawarte w odchodach i urynie. Są one wyczuwane przez pobliskie słonie, a czasem wiatr niesie je do bardzo odległych stad. Co więcej, różne pozycje ciała również służą do przekazywania informacji. Na przykład słoń afrykański rozkłada uszy i macha nimi, jednocześnie przyciskając trąbę do ciała, aby zasygnalizować, że będzie szarżował. 
+            <p/>Wiele napisano na temat życia emocjonalnego słoni. Obserwacje wskazują, że potrafią one być lojalne i czułe, czasem ryzykując życiem w obronie innych członków stada. Słonie żyjące na wolności cieszą się z narodzin nowego potomka, potrafią też - dosłownie - opłakiwać śmierć swojej rodziny. W niewoli słonie często przywiązują się do konkretnego opiekuna i odmawiają współpracy z kimkolwiek innym.
+            <p/>Autor:<br/>David George Gordon
+            <p/>Redaktor:<br/>Russ Roach
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Źródło: <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2004.</color></u></a>(C) 1993-2003 Microsoft Corporation. Wszystkie prawa zastrzeżone.
+         </cell>
+      </text>
+   </zoopedia_elephantasian>
+
+</ZT2Strings>

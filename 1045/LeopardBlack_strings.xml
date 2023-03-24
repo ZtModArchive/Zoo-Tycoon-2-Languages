@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<ZT2Strings>
+   <entityname>
+      <!--animal names-->
+
+      <LeopardBlack>Pantera</LeopardBlack>
+      <LeopardBlack_stt>Pantera</LeopardBlack_stt>
+      <LeopardBlack_lower>pantera</LeopardBlack_lower>
+      <LeopardBlack_ltt>
+         <color r="255" g="248" b="178">
+            <b>Pantera</b>
+         </color>
+         <br/>
+         Kliknij, aby umieścić panterę, czarną wersję leoparda.
+      </LeopardBlack_ltt>
+      <!--gift names-->
+
+      <LeopardBlack_Gift>Plecak z panterą</LeopardBlack_Gift>
+      <LeopardBlack_Gift_stt>Plecak z panterą</LeopardBlack_Gift_stt>
+      <LeopardBlack_Gift_lower>plecak z panterą</LeopardBlack_Gift_lower>
+      <LeopardBlack_Gift_ltt>
+         <color r="255" g="248" b="178">
+            <b>Plecak z panterą</b>
+         </color>
+         <br/>Goście, którym spodobała się pantera, będą zainteresowani tą pamiątką.
+      </LeopardBlack_Gift_ltt>
+      <LeopardBlack_Gift_Adult>Plecak z panterą</LeopardBlack_Gift_Adult>
+      <LeopardBlack_Gift_Adult_stt>Plecak z panterą</LeopardBlack_Gift_Adult_stt>
+      <LeopardBlack_Gift_Adult_lower>plecak z panterą</LeopardBlack_Gift_Adult_lower>
+      <LeopardBlack_Gift_Adult_ltt>
+         <color r="255" g="248" b="178">
+            <b>Plecak z panterą</b>
+         </color>
+         <br/>Goście, którym spodobała się pantera, będą zainteresowani tą pamiątką.
+      </LeopardBlack_Gift_Adult_ltt>
+   </entityname>
+
+   <zoopedia_leopardblack version="2">
+      <entry>Pantera</entry>
+      <text>
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/LeopardBlack/LeopardBlack_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						</cell>
+						<cell width="16">
+							<img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						</cell>
+						<cell width="16">
+							<img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						</cell>
+						<cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Stopień zagrożenia:
+                     <br/>
+                        <color r="170" g="255" b="0">
+                     Niewielkie zagrożenie
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>             
+            
+               <cell width="128">
+                  <color r="255" g="255" b="255">Tropikalne lasy deszczowe<br/></color>
+                  <img src="ui/icon_biomes/icon_tropicalrainforest.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+               </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Afryka<br/></color>
+                  <img src="ui/icon_maplocations/Rainforest_Africa.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">Typ: Ssaki <i>(Mammalia)</i><br/>Gromada: Mięsożerne <i>(Carnivora)</i><br/>Rodzina: Kotowate <i>(Felidae)</i><br/>Rodzaj: <i>Panthera</i><br/>Gatunek:<i>pardus</i></color>
+               </cell>
+               <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/tropicalrainforest_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+               </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Ciekawostki</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Pantera jest czarną wersją leoparda.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Pantera posiada cętki, które widoczne są we właściwym świetle i pod odpowiednim kątem.</color>
+               </cell>
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">Aby uzyskać dostęp do pantery, musisz posiadać przynajmniej 3 gwiazdki popularności.</color>
+<p/>Podobnie jak leopard, pantera posiada cętki - są one jednak trudne do zauważenia.
+<p/>Leopard to wspólna nazwa dla dużego przedstawiciela kociej rodziny, zamieszkującego zróżnicowane środowisko - jest to najpowszechniej występujący gatunek dzikiego kota na większości obszarów Afryki i Azji. Ciało dorosłego leoparda osiąga długość od 0.91 do 1.91 m, nie licząc metrowego ogona. Umaszczenie przeważnie jest bladego koloru, i na całym ciele występują czarne cętki ułożone w kręgi. W odróżnieniu od jaguara amerykańskiego, kręgi te nie mają centralnego punktu. Zdarzają się okazy o ciemniejszym umaszczeniu podstawowym, a niektóre leopardy są zupełnie czarne - określane są wtedy mianem panter.
+<p/>Czarny leopard doskonale się wspina i często pożera małpy zamieszkujące drzewa. Poluje głównie w nocy. W okresach, kiedy trudno jest o pożywienie, żywi się myszami, owocami, pawianami i stawonogami. Samica rodzi do sześciu młodych w jednym miocie.
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Źródło: <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2004.</color></u></a>(C) 1993-2003 Microsoft Corporation. Wszystkie prawa zastrzeżone.
+         </cell>
+      </text>
+   </zoopedia_leopardblack>
+
+</ZT2Strings>
