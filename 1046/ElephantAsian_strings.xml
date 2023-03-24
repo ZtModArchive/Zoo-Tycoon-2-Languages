@@ -1,0 +1,160 @@
+<ZT2Strings>
+	<entityname>
+		<!--animal names-->
+		<ElephantAsian>Elefante asiático</ElephantAsian>
+		<ElephantAsian_stt>Elefante asiático</ElephantAsian_stt>
+		<ElephantAsian_lower>o elefante asiático</ElephantAsian_lower>
+		<ElephantAsian_ltt>
+			<color r="255" g="248" b="178">
+				<b>Elefante asiático</b>
+			</color>
+			<br/>
+         Clique para selecionar e posicionar um elefante asiático, um elefante forte com orelhas menores que o elefante africano.
+      </ElephantAsian_ltt>
+		<!--gift names-->
+		<ElephantAsian_Gift>Elefante asiático de pelúcia</ElephantAsian_Gift>
+		<ElephantAsian_Gift_stt>Elefante asiático de pelúcia</ElephantAsian_Gift_stt>
+		<ElephantAsian_Gift_lower>o elefante asiático de pelúcia</ElephantAsian_Gift_lower>
+		<ElephantAsian_Gift_ltt>
+			<color r="255" g="248" b="178">
+				<b>Elefante asiático de pelúcia</b>
+			</color>
+			<br/>Visitantes que gostem de observar o elefante asiático comprarão este presente.
+      </ElephantAsian_Gift_ltt>
+	</entityname>
+	<zoopedia_elephantasian>
+		<entry>Elefante, asiático</entry>
+		<text>
+			<cell pady="0" width="1000"/>
+			<p/>
+			<cell width="260"/>
+			<cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+				<cell width="600" padx="20" pady="20">
+					<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						<img src="entities/units/animals/ElephantAsian/ElephantAsian_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+					</cell>
+					<cell width="16">
+						<img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+					</cell>
+					<cell width="16">
+						<img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+					</cell>
+					<cell width="156"/>
+					<cell width="128">
+						<color r="255" g="255" b="255">Cerrado<br/></color>
+						<img src="ui/icon_biomes/icon_scrub.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+					</cell>
+					<cell width="128">
+						<color r="255" g="255" b="255">Sudeste da Ásia<br/></color>
+						<img src="ui/icon_maplocations/Scrub_Asia_Southeast.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+					</cell>
+					<br/>
+					<cell width="284">
+						<color r="255" g="255" b="255">Classe: Mamíferos <i>(Mammalia)</i><br/>Ordem: Proboscídeos <i>(Proboscidea)</i><br/>Família: Elefantídeos <i>(Elephantidae)</i><br/>Gênero: <i>Elephas</i><br/>Espécie:<i>maximus</i><br/>Status de preservação: <color r="255" g="204" b="51">Ameaçado</color></color>
+					</cell>
+					<cell width="256" pady="10">
+						<img src="UI/zoopedia/biome/scrub_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+					</cell>
+				</cell>
+			</cell>
+			<p/>
+			<p/>
+			<cell width="260"/>
+			<cell width="300">
+				<cell width="64">
+					<img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+				</cell>
+				<cell width="176">
+					<color r="255" g="255" b="255">
+						<font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Curiosidades do elefante asiático</font>
+					</color>
+				</cell>
+				<p/>
+				<cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+					<p/>
+					<cell width="32" pady="10">
+						<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+					</cell>
+					<cell width="202" pady="10">
+						<color r="255" g="255" b="255">Quem toma conta do filhote de elefante asiático é a mãe, ajudada pelas outras fêmeas da manada (conhecidas como "tias").</color>
+					</cell>
+					<br/>
+					<cell width="32" pady="10">
+						<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+					</cell>
+					<cell width="202" pady="10">
+						<color r="255" g="255" b="255">Os elefantes asiáticos são verdadeiros desbravadores para outros animais, que freqüentemente utilizam suas trilhas abertas na floresta.</color>
+					</cell>
+					<br/>
+					<cell width="32" pady="10">
+						<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+					</cell>
+					<cell width="202" pady="10">
+						<color r="255" g="255" b="255">Os elefantes usam ondas de som de baixa freqüência para a comunicação interna e externa da manada. Essas ondas de som podem percorrer uma distância de até 16 km.</color>
+					</cell>
+					<br/>
+					<cell width="32" pady="10">
+						<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+					</cell>
+					<cell width="202" pady="10">
+						<color r="255" g="255" b="255">Às vezes, o elefante asiático é chamado de elefante indiano.</color>
+					</cell>
+					<br/>
+					<cell width="32" pady="10">
+						<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+					</cell>
+					<cell width="202" pady="10">
+						<color r="255" g="255" b="255">O elefante asiático usa suas presas de marfim para cavar, arrancar árvores pela raiz e se exibir durante o acasalamento.</color>
+					</cell>
+					<br/>
+					<cell width="32" pady="10">
+						<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+					</cell>
+					<cell width="202" pady="10">
+						<color r="255" g="255" b="255">O elefante dominante na manada é uma fêmea, a matriarca, que geralmente é a maior, a mais velha ou a mais experiente do grupo.</color>
+					</cell>
+					<br/>
+					<cell width="32" pady="10">
+						<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+					</cell>
+					<cell width="202" pady="10">
+						<color r="255" g="255" b="255">O prolongamento em forma de dedo na ponta da tromba do elefante é sensível o suficiente para pegar pequenos objetos como amendoins.</color>
+					</cell>
+					<br/>
+					<cell width="32" pady="10">
+						<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+					</cell>
+					<cell width="202" pady="10">
+						<color r="255" g="255" b="255">Enquanto se alimentam, os elefantes asiáticos emitem ronronados.</color>
+					</cell>
+				</cell>
+			</cell>
+			<cell width="340">
+				<color r="255" g="248" b="178">Para desbloquear o elefante asiático em jogos de campanha ou desafio, você precisa ganhar uma avaliação de três estrelas e meia para seu zoológico.</color>
+				<p/>O elefante é um mamífero gigantesco, caracterizado por uma tromba alongada e duas presas curvas e longas. Extremamente inteligentes e fortes, os elefantes são os maiores animais terrestres e estão entre os que mais vivem, com expectativa em torno de 60 anos. Sadio, o elefante adulto não tem inimigos naturais a não ser o homem.
+            <p/>Através dos tempos, os homens têm exaltado os elefantes por seu tamanho e força. No campo de batalha, soldados montados em elefantes têm esmagado e aterrorizado inimigos. Os elefantes também foram treinados para carregar suprimentos pesados através da selva e arrastar troncos enormes pelas florestas onde antes moravam.
+            <p/>Os elefantes foram reverenciados e respeitados durante muito tempo. Na Tailândia, na Índia e em outros países do sudeste da Ásia, elefantes belamente decorados ainda têm um papel significativo nas cerimônias religiosas tradicionais. De acordo com a tradição budista, Buda escolheu a forma de um elefante branco em uma de suas muitas encarnações terrenas. A rara aparição de um elefante branco ainda é festejada como uma manifestação dos deuses.
+            <p/>Fósseis de ancestrais dos elefantes indicam que eles viveram em todos os continentes, exceto na Austrália e na Antártica. Hoje em dia, porém, seu hábitat restringe-se à África e a trechos do Sudeste da Ásia. Os elefantes ocupam uma série de ambientes na África e no Sudeste da Ásia: pradarias, pântanos, florestas, desertos e montanhas. São herbívoros (ou seja, alimentam-se de plantas) e precisam de grande quantidade de comida para sustentar seu tamanho. Eles também precisam beber muita água, por isso ficam restritos a áreas com vegetação ampla e água em abundância.
+            <p/>Até manadas pequenas com apenas alguns elefantes podem esgotar os recursos de água e comida de uma área, forçando-os a continuarem se deslocando. Uma manada de elefantes migra periodicamente em um circuito prolongado, procurando recursos dentro de seu hábitat original, que pode se estender por 1.500 km2 (600 mi2). Em sua busca por comida, um elefante pode percorrer de 5.000 a 10.000 km (3.100 a 6.200 mi) em um ano, a mais longa migração de mamíferos registrada.
+            <p/>Os elefantes africanos diferem dos asiáticos em tamanho, cor e outras características físicas. O elefante africano pode ser reconhecido pelo tamanho maior e pelas orelhas mais largas, que caem em dobras sobre os ombros. Os machos podem chegar a 4 m (13 pés) de altura e 7.000 kg (15.400 lb) de peso. As fêmeas são menores; em média, medem 2,8 m (9 pés) e pesam 3.600 kg (7.900 lb). A cor dos elefantes africanos é cinza claro, embora possa variar conforme a lama em que se banham para cinza escuro, vermelho ou marrom. Têm a testa baixa, plana e um pouco inclinada para trás. Suas orelhas têm cerca de 1,5 m (5 pés) de comprimento e 1,2 m (4 pés) de largura. Tanto os machos como as fêmeas têm presas curvas e longas. 
+            <p/>Os elefantes asiáticos são mais baixos e mais troncudos que os primos africanos, com orelhas que não chegam aos ombros. O macho asiático normal mede 3 m (10 pés) e pesa 2.300 kg (5.100 lb), a metade do peso dos elefantes africanos. Em média, as fêmeas medem 2,4 m (7,8 pés) e pesam 3.000 kg (6.600 lb). De cor cinza escuro, os elefantes asiáticos têm a testa bolbosa e as costas arredondadas. O tamanho médio das orelhas é 0,75 m (2,5 pés) de altura e 0,6 m (2 pés) de largura. As presas da fêmea pode não existir ou serem pouco desenvolvidas. 
+            <p/>Apesar do peso, os elefantes caminham praticamente em silêncio, com as pernas colunares fazendo o corpanzil avançar a passos largos, suaves e ritmados. Uma camada espessa de tecido elástico na base de cada pata absorve o impacto do peso. Os dedos ajudam a equilibrar o peso ao caminhar. Normalmente, os elefantes se deslocam a uma velocidade média de 6 km/h (4 mph), mas podem chegar a 40 km/h (25 mph). Embora não sejam capazes de galopar ou saltar sobre fossos, usam os rios e os lagos, onde a água suporta seu peso, para nadar longas distâncias sem se cansarem.
+            <p/>As presas do elefante - os incisivos superiores alongados - são os maiores e mais pesados dentes de qualquer animal vivo. Elas servem para cavar à procura de raízes e água, arranhar a casca das árvores em busca de comida, lutar entre si durante a temporada de acasalamento e, nas fêmeas do elefante africano, rechaçar predadores como leões e tigres. No filhote, os primeiros incisivos caem entre 6 e 12 meses; o segundo par, que formará as presas, cresce a uma média de 17 cm (7 pol.) por ano durante a vida. O crescimento das presas é determinado pela genética e pela alimentação. Com o passar dos anos, o desgaste normal pelo uso diminui seu comprimento. Geralmente, um macho africano pesa de 20 a 45 kg (50 a 100 lb) e tem 1,8 a 2,4 m (6 a 8 pés) de comprimento. As presas de um macho asiático adulto têm cerca de 1,5 m (5 pés) de comprimento e pesam 30 kg (70 lb). Pelo fato de tanto machos como fêmeas terem presas e elas serem mais pesadas, o elefante africano é mais visado por caçadores de marfim do que o asiático.
+            <p/>No total, os elefantes têm quatro dentes, todos molares, com pontas irregulares para triturar folhas, raízes e troncos. Um único dente pode pesar mais de 5 kg (11 lb) e medir 30 cm (12 pol.). O primeiro par de molares está localizado na frente da boca; quando esses se desgastam, quebram-se em pedaços e os dois molares traseiros avançam. Dois novos molares então nascem na parte de trás da boca para substituir os que foram para a parte da frente. Essa troca ocorre seis vezes durante a vida do elefante. Quando o último par de molares se desgasta, lá pelos 40 e até os 60 anos de idade, o elefante não pode mais mastigar comida e morre de inanição, uma morte comum entre eles.
+            <p/>Como os elefantes não possuem glândulas sudoríparas na pele, suas orelhas funcionam como radiadores para liberar o calor do corpo. Ao abaná-las, o elefante coloca os vasos sangüíneos em contato com o ar. Isso resfria o sangue antes que ele circule novamente pelo corpo. Esse mecanismo de resfriamento explica por que o elefante africano, que se desenvolveu em um clima quente, tem as orelhas maiores que as do primo asiático, que se desenvolveu em uma área mais fria. O rabo do elefante não tem pelos, apenas uma espécie de escova na ponta, que serve para afastar moscas incômodas. Geralmente, o rabo pesa 10 kg (22 lb).
+            <p/>A visão do elefante é fraca, e os olhos são pequenos em relação à cabeça enorme, que vira só um pouco para um lado e para o outro. Essa limitação de movimentos restringe a visão lateral do elefante, obrigando-o a mover o corpo inteiro para ampliar o campo de visão. Os outros sentidos - audição, paladar, olfato e tato - são apurados. O órgão mais sensível é a tromba, que pode captar o cheiro de comida e de perigo na terra e no ar. Os elefantes podem farejar água à distância e são capazes de ouvir determinados sons a quase 2 km de distância. 
+            <p/>Os elefantes apresentam um comportamento social complexo, vivendo em famílias muito unidas, lideradas pelas fêmeas mais velhas. As famílias são formadas por irmãs, primas, tias, sobrinhas e a prole, variando de 2 a 29 indivíduos. Esses animais podem ficar juntos durante a vida inteira. Se uma família ficar muito grande, algumas fêmeas formam um novo grupo. Os membros de uma família tomam banho, coletam alimentos e se deslocam em grupo. Costumam permanecer a uma distância de 46 m (150 pés) da matriarca, mantendo contato através de gritos. Se forem separados, ainda que por algumas horas, seu encontro é marcado por uma elaborada cerimônia de cumprimentos, que inclui correr, fazer barulhos, girar, trombetear, defecar, urinar, bater com as presas e esfregar a cabeça no corpo de outro. A família também defende os jovens, os doentes, os velhos e os deficientes contra predadores. Quando a fêmea mais velha da família morre, a seguinte na hierarquia a substitui como líder.
+            <p/>Os elefantes se comunicam entre si pelo tato, som, cheiro e a linguagem do corpo. O toque é realizado basicamente com a tromba e pode variar desde um carinho de uma fêmea em seu filhote até um tapa disciplinar dado pela matriarca em um macho jovem desobediente. Empurrões, chutes e esfregões são outras formas de comunicação entre os elefantes.
+            <p/>Os elefantes elevam a voz para se comunicar, trombeteando para avisar ou cumprimentar outros elefantes próximos. Também produzem sons de baixa freqüência, que podem se deslocar por grandes distâncias, chegando aos ouvidos de outros elefantes a quilômetros de distância. Uma pesquisa recente indica que os elefantes também se comunicam por infrasom, sons imperceptíveis aos ouvidos humanos.
+            <p/>A comunicação entre os elefantes inclui a secreção de diferentes feromônios na urina ou nas fezes. Esses sinais olfativos químicos podem ser detectados pelos elefantes próximos ou carregados pelo vento para outros elefantes distantes. As secreções das glândulas durante o cio também transmitem mensagens olfativas. Além disso, a informação é compartilhada por várias posições do corpo. Um elefante africano, por exemplo, abre as orelhas e as abana enquanto prende a tromba contra o corpo para sinalizar que está prestes a atacar. 
+            <p/>Muito já foi escrito sobre a vida emocional dos elefantes. A observação de elefantes selvagens comprovou que eles são leais e afetuosos, arriscando a vida pelos membros da família. Os elefantes selvagens são famosos por celebrar o nascimento de filhotes e por sofrer, e até chorar, pela morte de um membro da família. No cativeiro, os elefantes podem se afeiçoar a um certo tratador de circo ou de zoológico, recusando-se a cooperar com qualquer outra pessoa.
+            <p/>Contribuição de:<br/>David George Gordon
+            <p/>Revisado por:<br/>Russ Roach
+         </cell>
+			<p/>
+			<cell width="260"/>
+			<cell width="620">Conteúdo original fornecido por cortesia da <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2004.</color></u></a>(C) 1993-2003 Microsoft Corporation. Todos os direitos reservados.
+         </cell>
+		</text>
+	</zoopedia_elephantasian>
+</ZT2Strings>

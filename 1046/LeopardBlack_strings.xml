@@ -1,0 +1,111 @@
+<ZT2Strings>
+   <entityname>
+      <!--animal names-->
+      <LeopardBlack>Leopardo negro</LeopardBlack>
+      <LeopardBlack_stt>Leopardo negro</LeopardBlack_stt>
+      <LeopardBlack_lower>o leopardo negro</LeopardBlack_lower>
+      <LeopardBlack_ltt>
+         <color r="255" g="248" b="178">
+            <b>Leopardo negro</b>
+         </color>
+         <br/>
+         Clique para selecionar e posicionar um leopardo negro, uma versão melânica do leopardo.
+      </LeopardBlack_ltt>
+      <!--gift names-->
+      <LeopardBlack_Gift>Mochila do leopardo negro</LeopardBlack_Gift>
+      <LeopardBlack_Gift_stt>Mochila do leopardo negro</LeopardBlack_Gift_stt>
+      <LeopardBlack_Gift_lower>a mochila do leopardo negro</LeopardBlack_Gift_lower>
+      <LeopardBlack_Gift_ltt>
+         <color r="255" g="248" b="178">
+            <b>Mochila do leopardo negro</b>
+         </color>
+         <br/>Os visitantes que gostam de ver o leopardo negro comprarão este presente.
+      </LeopardBlack_Gift_ltt>
+      <LeopardBlack_Gift_Adult>Mochila do leopardo negro</LeopardBlack_Gift_Adult>
+      <LeopardBlack_Gift_Adult_stt>Mochila do leopardo negro</LeopardBlack_Gift_Adult_stt>
+      <LeopardBlack_Gift_Adult_lower>a mochila do leopardo negro</LeopardBlack_Gift_Adult_lower>
+      <LeopardBlack_Gift_Adult_ltt>
+         <color r="255" g="248" b="178">
+            <b>Mochila do leopardo negro</b>
+         </color>
+         <br/>Os visitantes que gostam de ver o leopardo negro comprarão este presente.
+      </LeopardBlack_Gift_Adult_ltt>
+   </entityname>
+   <zoopedia_leopardblack>
+      <entry>Leopardo negro</entry>
+      <text>
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+                  <img src="entities/units/animals/LeopardBlack/LeopardBlack_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+               </cell>
+               <cell width="16">
+                  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+               </cell>
+               <cell width="16">
+                  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+               </cell>
+               <cell width="156"/>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Floresta tropical<br/></color>
+                  <img src="ui/icon_biomes/icon_tropicalrainforest.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+               </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">África<br/></color>
+                  <img src="ui/icon_maplocations/Rainforest_Africa.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284">
+                  <color r="255" g="255" b="255">Classe: Mamífero <i>(Mammalia)</i><br/>Ordem: Carnívoros <i>(Carnivora)</i><br/>Família: Felídeos <i>(Felidae)</i><br/>Gênero: <i>Panthera</i><br/>Espécie:<i>pardus</i><br/>Status de conservação: <color r="255" g="204" b="51">Baixo risco</color></color>
+               </cell>
+               <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/tropicalrainforest_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+               </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Fatos interessantes sobre o leopardo negro</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">O leopardo negro é uma variação melânica do leopardo.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">O leopardo negro na realidade tem pintas. Dê um close nelas com a luz adequada para conseguir enxergá-las.</color>
+               </cell>
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">Para receber o leopardo negro em jogos de desafio ou campanha, você precisa ganhar 3 estrelas relativas à reputação do seu zoológico.</color>
+<p/>Como o leopardo, o leopardo negro tem pintas, mas elas são mais difíceis de enxergar.
+<p/>Leopardo é a denominação comum dada a um grande membro da família dos felídeos que ocupa vários hábitats e tem a distribuição mais vasta do que qualquer outro felídeo, grande parte ocorrendo na África e Ásia. O corpo de um leopardo adulto tem cerca de 0,91 a 1,91 m (3 a 6,3 pés) de comprimento, sem contar a cauda que mede 1m (3 pés). Geralmente, o pêlo é castanho-claro e marcado com semi-círculos de pintas pretas. Ao contrário das rosetas do jaguar americano, esses círculos não têm pintas centrais. Há espécies com cores mais escuras, e alguns leopardos (oriundos de ninhadas comuns) são completamente pretos e conhecidos como panteras negras.
+<p/>O leopardo negro é um escalador ágil e vive espreitando os macacos nas árvores. Costuma caçar à noite. Em época de escassez, o leopardo come ratos do mato, frutas, porcos-espinhos, babuínos ou artrópodes. A fêmea dá à luz uma ninhada de um a seis filhotes.
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Conteúdo fornecido como cortesia da <a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2004.</color></u></a>(C) 1993-2003 Microsoft Corporation. Todos os direitos reservados.
+         </cell>
+      </text>
+   </zoopedia_leopardblack>
+</ZT2Strings>
