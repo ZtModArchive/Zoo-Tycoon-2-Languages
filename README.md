@@ -8,7 +8,7 @@ Archives of all official localised versions of the series
 
 | Language              | LCID | ZT2 | ES | AA | ZC | MM | EA | UC |
 |-----------------------|------|-----|----|----|----|----|----|----|
-| Chinese (Traditional) | 1028 | x   |    |N/A |N/A |N/A |N/A |N/A |
+| Chinese (Traditional) | 1028 | x   |    |    |    |    |N/A |N/A |
 | German                | 1031 | x   | x  | x  | x  | x  | x  |N/A |
 | English               | 1033 | x   | x  | x  | x  | x  | x  | x  |
 | French                | 1036 | x   | x  | x  | x  | x  | x  | x  |
@@ -26,7 +26,7 @@ Archives of all official localised versions of the series
 
 | Language              | LCID | BL&SPD | HP | MO&TTP | CP1 | SP | Asian Elephant | SBP | GFP | Addax | DDP |
 |-----------------------|------|--------|----|--------|-----|----|----------------|-----|-----|-------|-----|
-| Chinese (Traditional) | 1028 | ?      | ?  | ?      |     |N/A | N/A            |N/A  |N/A  |N/A    |N/A  |
+| Chinese (Traditional) | 1028 |        |    |        |     |    |                |     |     |N/A    |N/A  |
 | German                | 1031 | x      | x  | x      | x   | x  | x              | x   | x   | ?     | x   |
 | English               | 1033 | x      | x  | x      | x   | x  | x              | x   | x   | x     | x   |
 | French                | 1036 | x      | x  | x      | x   | x  | x              | x   | x   | x     | x   |
