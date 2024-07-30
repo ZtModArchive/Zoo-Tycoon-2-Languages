@@ -35,7 +35,7 @@ Archives of all official localised versions of the series
 | Korean                | 1042 | x      | x  | x      | x   | x  | x              | x   | x   | ?     |N/A  |
 | Dutch                 | 1043 | x      | x  | x      | x   | x  | x              | x   | x   | x     | x   |
 | Polish                | 1045 | x      | x  | x      | x   | x  | x              | x   | x   | x     |N/A  |
-| Portuguese (Brazil)   | 1046 | x      |    | x      | x   | x  | x              | x   | x   |N/A    | ?   |
+| Portuguese (Brazil)   | 1046 | x      | x  | x      | x   | x  | x              | x   | x   |N/A    | ?   |
 | Swedish               | 1053 | x      | x  | x      | x   | x  | x              | x   | x   | x     | x   |
 | Portuguese (Portugal) | 2070 | ?      | ?  | ?      | ?   | ?  | ?              | ?   | ?   | ?     | ?   |
 | Spanish               | 3082 | x      | x  | x      | x   | x  | x              | x   | x   | x     | x   |
