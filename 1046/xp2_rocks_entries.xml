@@ -1,0 +1,51 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_benthicrocks:entry">Rochas bênticas</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_benthicrocks:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/rocks/benthic/Rock_Benthic_Small_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/rocks/benthic/Rock_Benthic_Medium_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/rocks/benthic/Rock_Benthic_Large_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>Use rochas bênticas em tanques com animais marinhos bênticos como o tubarão-baleia ou o tubarão-duende. Você também pode usar essas rochas para dar um toque marinho às áreas públicas.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_reefrocks:entry">Rochas de recife</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_reefrocks:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/rocks/reef/Rock_Reef_Small_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/rocks/reef/Rock_Reef_Medium_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/rocks/reef/Rock_Reef_Large_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>Use rochas de recife em tanques com animais marinhos de recife como a raia-jamanta ou o tubarão-negro-do-recife. Você também pode usar essas rochas para dar um toque marinho às áreas públicas.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_coastalrocks:entry">Rochas costeiras</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_coastalrocks:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/rocks/coastal/Rock_Coastal_Small_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/rocks/coastal/Rock_Coastal_Medium_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/rocks/coastal/Rock_Coastal_Large_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>Use rochas costeiras em tanques com animais marinhos costeiros como o leão-marinho-da-Califórnia ou o pingüim-de-penacho-amarelo. Você também pode usar essas rochas para dar um toque marinho às áreas públicas.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+
+</ZT2Strings>

@@ -1,0 +1,265 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_moose" version="6"/>
+      <LOC_STRING _locID="zoopedia_moose:entry" version="6">Alce</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_moose:text" version="6">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+               <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+                  <img src="entities/units/animals/Moose/Moose_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+               </cell>
+               <cell width="16">
+                  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+               </cell>
+               <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+                  <img src="entities/units/animals/Moose/Moose_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+               </cell>
+               <cell width="16">
+                  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+               </cell>
+               <cell width="60"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Status de preservação:
+                     <br/>
+                        <color r="170" g="255" b="0">
+                     Baixo risco
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>             
+            
+               <cell width="128">
+                  <color r="255" g="255" b="255">Floresta boreal</color>
+                  <br/>
+                  <img src="ui/icon_biomes/icon_borealforest.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+               </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">América do Norte</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/Boreal_America_North.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+Classe: Mamíferos                                                                            
+                     <i>(Mammalia)</i>
+                     <br/>
+Ordem: Artiodáctilos                                                        
+                     <i>(Artiodactyla)</i>
+                     <br/>
+Família: Cervídeos                                                        
+                     <i>(Cervidae)</i>
+                     <br/>
+Gênero:		                                                       
+                     <i>Alces  </i>
+                     <br/>
+Espécie:	                                                       
+                     <i>alces</i>
+                     <br/>
+Subespécie:	                                                       
+                     <i>americana</i>
+                  </color>
+               </cell>
+               <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/borealforest_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+               </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Fatos interessantes sobre o alce</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">A fêmea do alce protege seu filhote contra os lobos guiando-o para águas rasas e colocando-se entre ele e o lobo, que normalmente desiste.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Para escapar dos lobos, os alces costumam refugiar-se em lagos e pântanos, onde ficam protegidos até que a água congele e os lobos possam segui-los.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Os alces podem mergulhar até 5,5 m e permanecer submersos durante 40 segundos enquanto procuram plantas e raízes.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Um alce tem 2 m de altura até as costas.</color>
+               </cell>
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">Para receber o alce em jogos de desafio ou campanha, você deve ganhar uma reputação de 0,5 estrela para o seu zoológico.
+            </color>
+            <p/>Alce é o nome comum do membro de maior porte da família dos cervos. O nome "moose", usado na América do Norte, foi dado pelos índios algonquinos, uma tribo nativa, e significa "comedor de galhos", refletindo a dieta básica desse animal, composta por folhas e galhos. Os alces habitam as florestas do norte da Ásia e da Europa, desde a Sibéria (a leste) até a Noruega (a oeste), a região báltica e o norte da China. Na América do Norte, são encontrados em áreas arborizadas do Canadá e do norte dos Estados Unidos. O cervo conhecido na América do Norte como alce americano também pode ser chamado de uapiti. Os alces são animais enormes, com os machos medindo 2 m até as costas. Alguns deles pesam mais de 726 kg. Suas pernas tipicamente longas permitem que eles pastem em arbustos baixos e pequenas árvores e entrem na água dos lagos para se alimentarem de plantas aquáticas. Uma vez na água, o alce se move com facilidade, pois é excelente nadador.                                    
+            <p/>A cabeça do alce é grande, com um focinho proeminente e arqueado. Uma espécie de barba, formada por pêlos e pele, pende do pescoço. As orelhas grandes e em constante movimento funcionam como um radar,     		concedendo-lhe uma audição excelente. Uma grande corcova nas costas é formada pelas projeções eretas das vértebras do pescoço.     		Essas projeções sustentam fortes ligamentos do pescoço, necessários para manter a grande cabeça ereta.     		Geralmente, o corpo do alce é preto-amarronzado, com a face de um marrom mais claro no verão. A face dos machos escurece para marrom escuro ou preto à medida que se aproxima a temporada de acasalamento.                        
+            <p/>Características dos machos, as enormes galhadas com prolongamentos laterais podem ter mais de 1,5 m     		de largura e pesar mais de 22,7 kg. São cobertas com uma pele lisa como o veludo e rica em nutrientes,     		que cai no início de setembro e costuma ser comida pelos machos. As galhadas são trocadas todo ano,     		após a temporada de acasalamento, que geralmente ocorre no final de setembro. Até o final de janeiro, a maioria dos machos     		já perdeu as galhadas; nos mais velhos, a troca ocorre em dezembro. Alguns machos jovens podem manter as galhadas     		até fevereiro. As novas galhadas começam a crescer no início de abril.                        
+            <p/>Os alces são animais solitários, embora possam reunir-se em pequenos grupos de doze ou mais durante a temporada de acasalamento, especialmente no Alasca e no Território de Yukon, no Canadá. Tanto machos como fêmeas podem acasalar a partir do segundo ano de vida. Durante esse período, os machos disputam a fêmea entre si, usando as galhadas para lutar. A gestação dura cerca de 230 dias, e a maioria dos filhotes nasce no final de maio. As fêmeas dão à luz um filhote, embora gêmeos sejam comuns e já tenha sido observado o nascimento de três ou quatro crias. Os filhotes têm o pêlo marrom-avermelhado e nascem pesando de 11 a 16 kg.                        
+            <p/>A expectativa de vida média do alce é de 5 a 6 anos, embora alguns possam viver até 20 anos. A idade     		de um alce é determinada pelo exame da raiz do dente incisivo do meio, que exibe um padrão     		de anéis. Assim como os anéis de crescimento de uma árvore revelam sua idade, o tempo de vida de um alce é     		indicado pelo anel escuro no dente incisivo do meio combinado com um anel claro.                        
+            <p/>Os hábitos alimentares dos alces variam de acordo com as estações. Durante o outono, o inverno e a primavera, eles se alimentam     		do que sobrou de choupo, álamo preto, salgueiro, vidoeiro, aveleira, corniso e pinheiro no verão passado. No final da primavera     		e início do verão, os alces procuram depósitos naturais de sódio, encontrados em nascentes salgadas     		ou escoados na margem da estrada para repor as reservas minerais usadas durante o inverno. No verão, os alces preferem a vegetação que cresce na água. Eles podem     		submergir por até 40 segundos para alcançar as plantas que ficam sob a superfície da água.    		Apesar do seu tamanho e da sua capacidade de alcançar velocidades de até 58 km/h em distâncias curtas,     		os alces são vítimas de lobos, ursos negros e 	                        
+        
+            <a href="zoopedia:zoopedia_grizzly:entry">
+               <u>
+                  <color r="255" g="231" b="135">pardos.</color>
+               </u>
+            </a> Alguns estudos mostraram que os ursos podem matar até 75% dos alces recém-nascidos nas primeiras oito semanas de vida. Outra ameaça aos alces é o carrapato. As infestações de carrapatos irritam a pele dos alces, fazendo com que eles a esfreguem até tirar pedaços do pêlo, do qual dependem para se protegerem do frio intenso do inverno, típico de seu hábitat. Os invernos rigorosos, combinados com as freqüentes infestações de carrapatos, podem reduzir em até 50% as populações de alces.                           
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Contribuição de: Vince Crichton   			                        
+            <br/>Conteúdo original fornecido por cortesia da                         
+            <a href="zoopedia:zoopedia_encarta:entry">
+               <u>
+                  <color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2004.</color>
+               </u>
+            </a>(C) 1993-2003 Microsoft Corporation. Todos os direitos reservados.                           
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_peafowl" version="6"/>
+      <LOC_STRING _locID="zoopedia_peafowl:entry" version="6">Pavão comum</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_peafowl:text" version="6">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/PeafowlCommon/PeafowlCommon_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>
+						<cell width="16">
+							<img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						</cell>
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/PeafowlCommon/PeafowlCommon_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>
+						<cell width="16">
+							<img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						</cell>
+						<cell width="60"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Status de preservação:
+                     <br/>
+                        <color r="170" g="255" b="0">
+                     Baixo risco
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>             
+
+               <cell width="128">
+                  <color r="255" g="255" b="255">Floresta temperada</color>
+                  <br/>
+                  <img src="ui/icon_biomes/icon_temperateforest.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+               </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Ásia</color>
+                  <br/>
+                  <img src="ui/icon_maplocations/temperateforest_Asia.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                     Classe: Aves                                                        
+                     <i> </i>
+                     <br/>
+                     Ordem: Galiformes                                                        
+                     <i>(Galliformes)</i>
+                     <br/>
+                     Família: Fasianídeos 	                                                       
+                     <br/>
+                                                                              
+                     <i>(Phasianidae)</i>
+                     <br/>
+                     Gênero: <i>Pavo  </i>
+                     <br/>
+                     Espécie:	                                                       
+                     <i>cristatus</i>
+                  </color>   
+               </cell>
+               <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/temperateforest_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+               </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Fatos interessantes sobre o pavão comum</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">O pavão alimenta-se de uma dieta onívora de minhocas, insetos, pequenas cobras e sementes.</color>
+               </cell>
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">
+            Para receber o pavão comum em jogos de desafio ou campanha, você precisa ganhar 1/2 estrela relativa à reputação do seu zoológico.
+            </color>
+            <p/>Pavão é o nome comum de três membros da família dos faisões. Esse nome só é corretamente aplicado aos machos; as fêmeas são chamadas de pavoas. Duas espécies são asiáticas: o pavão comum (ou pavão-indiano) e o pavão-javanês. A terceira espécie, o pavão-do-congo, só é encontrada nas florestas da República Democrática do Congo (o antigo Zaire). Os pavões asiáticos destacam-se por suas caudas resplandecentes e repletas de longas plumas, que disfarçam seu rabo relativamente pequeno e são levantadas e abertas em caso de disputa ou corte. As plumas costumam ser de tonalidade dourada e verde iridescentes, adornadas com marcas em forma de olho com um rico colorido, conhecido como azul-pavão. O mesmo azul também aparece na cabeça, no pescoço, no peito e na crista do pavão comum. No pavão-javanês, a cabeça, o pescoço e as partes de baixo são verdes. As fêmeas não têm plumas e são menos coloridas que os machos. Essas aves constroem seus ninhos no chão ou nos galhos baixos das árvores. Elas alimentam-se de uma dieta onívora de minhocas, insetos, pequenas cobras e sementes.                                    
+            <p/>O pavão comum foi domesticado em muitas partes do mundo, mas ainda existem populações silvestres no Havaí. Por meio de hibridação seletiva, foi obtida uma variedade branca.                           
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">
+         Conteúdo original fornecido por cortesia da 
+            <a href="zoopedia:zoopedia_encarta:entry">
+               <u>
+                  <color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2004.</color>
+               </u>
+            </a>
+            C) 1993-2003 Microsoft Corporation. Todos os direitos reservados.                           
+         </cell>
+      </LOC_STRING>
+
+</ZT2Strings>

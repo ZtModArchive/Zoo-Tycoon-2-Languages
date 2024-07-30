@@ -1,0 +1,27 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_eucalyptus" version="6"/>
+      <LOC_STRING _locID="zoopedia_eucalyptus:entry" version="6">Folhas de eucalipto</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_eucalyptus:text" version="6">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/food/Terrain_df/TerrainEucalyptus_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>
+Embora o eucalipto seja uma árvore abundante em toda a Austrália, suas folhas são duras e pobres em nutrientes, além de conter óleos que são venenosos para a maioria dos animais. Poucas espécies se alimentam do eucalipto, mas há um animal cuja dieta consiste quase que exclusivamente dessas folhas aromáticas: o    
+                  <a href="zoopedia:zoopedia_koala:entry">
+                     <u>
+                        <color r="255" g="231" b="135">coala</color>
+                     </u>
+                  </a>
+. O corpo do coala é especialmente adaptado para processar as toxinas do eucalipto, e seu metabolismo lento ajuda a compensar o baixo valor nutritivo da planta. 
+                  <p/>
+As folhas de eucalipto podem ser colocadas diretamente no chão, em uma tigela ou em um porta-comida.    
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+ 
+</ZT2Strings>

@@ -1,55 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
 <ZT2Strings>
-	<LOC_STRING _locID="zoopedia_geyser" version="9" />
-	<LOC_STRING _locID="zoopedia_geyser:entry" version="9"  >Gejzer</LOC_STRING>
-	<LOC_STRING _locID="zoopedia_geyser:text" version="9"  >
+	<LOC_STRING _locID="zoopedia_balloonbouquet" version="9" />
+	<LOC_STRING _locID="zoopedia_balloonbouquet:entry" version="9"  >Bukiet balonów</LOC_STRING>
+	<LOC_STRING _locID="zoopedia_balloonbouquet:text" version="9"  >
    <cell pady="0" width="1000"/>
    <p/>
    <cell width="260"/>
    <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
     <cell width="600" padx="20" pady="20">
      <color r="255" g="255" b="255">
-      <img src="entities\objects\scenery\Geyser\Geyser_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
-      <p/>
-Gejzer to postać naturalnego gorącego źródła, z którego czasem wytryskuje w powietrze woda i para. Gejzery mogą występować w miejscach, gdzie woda źródlana sączy się przez skały i styka z roztopioną magmą. Podgrzana woda zamienia się w parę i wznosi z powrotem ku powierzchni - czasami gwałtownie wytryskując.
-<p/>
-Gejzer należy do obiektów wycieczkowych. Gdy turysta zobaczy taki obiekt podczas wycieczki, zwiększy się jego ocena wycieczki oraz datki. Gejzer powoduje, że wybiegi stają się bardziej wilgotne, dlatego najlepiej jest umieszczać go w pobliżu zwierząt żyjących naturalnie w tropikalnych lasach deszczowych, umiarkowanych lasach deszczowych lub na obszarach trawiastych.
-     </color>
-    </cell>
-   </cell>
-  </LOC_STRING>
-	<LOC_STRING _locID="zoopedia_dormant_volcano" version="9" />
-	<LOC_STRING _locID="zoopedia_dormant_volcano:entry" version="9"  >Wulkan</LOC_STRING>
-	<LOC_STRING _locID="zoopedia_dormant_volcano:text" version="9"  >
-   <cell pady="0" width="1000"/>
-   <p/>
-   <cell width="260"/>
-   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
-    <cell width="600" padx="20" pady="20">
-     <color r="255" g="255" b="255">
-      <img src="entities\objects\scenery\Dormant_Volcano\Dormant_Volcano_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
-      <p/>
-Wulkan to szczelina w Ziemi, z której roztopiona magma wybucha na powierzchnię, czasem gwałtownie. Ten wulkan jest uśpiony... zazwyczaj!
-      <p/>
-Wulkan należy do obiektów wycieczkowych. Gdy turysta zobaczy taki obiekt podczas wycieczki, zwiększy się jego ocena wycieczki oraz datki. Wulkan ogrzewa wybiegi, dlatego najlepiej jest umieszczać go w pobliżu zwierząt żyjących naturalnie w buszu, na sawannie lub pustyni.
-     </color>
-    </cell>
-   </cell>
-  </LOC_STRING>
-	<LOC_STRING _locID="zoopedia_snowmachine" version="9" />
-	<LOC_STRING _locID="zoopedia_snowmachine:entry" version="9"  >Maszyna śnieżna</LOC_STRING>
-	<LOC_STRING _locID="zoopedia_snowmachine:text" version="9"  >
-   <cell pady="0" width="1000"/>
-   <p/>
-   <cell width="260"/>
-   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
-    <cell width="600" padx="20" pady="20">
-     <color r="255" g="255" b="255">
-      <img src="entities\objects\scenery\SnowEmitter_df\SnowEmitter_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
-      <p/>
-Maszyna śnieżna wytwarza mroźną śnieżycę, która zachwyca gości. Jest idealna dla wybiegów w tundrze. 
-      <p/>
-Maszyna śnieżna należy do obiektów wycieczkowych. Gdy turysta zobaczy taki obiekt podczas wycieczki, zwiększy się jego ocena wycieczki oraz datki. Maszyna śnieżna ochładza wybiegi, dlatego najlepiej jest umieszczać go w pobliżu zwierząt żyjących naturalnie w pobliżu roślin górskich, w tundrze lub lasach północnych.
+      <img src="entities\objects\scenery\MylarBalloons_df\MylarBalloons_df_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+     <p/>
+Za każdym razem, gdy zagrożone lub wymarłe gatunek ma młode, otrzymujesz upominek w postaci bukietu kolorowych balonów!
      </color>
     </cell>
    </cell>

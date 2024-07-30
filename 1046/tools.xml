@@ -300,8 +300,8 @@
       <LOC_STRING _locID="tools:tapobjectselect">
          <font name="arial" size="8" shadowx="-1" shadowy="1" shadowa="32">%text%</font>
       </LOC_STRING>
-      <LOC_STRING _locID="tools:taptool">Ferramenta TAP</LOC_STRING>
-      <LOC_STRING _locID="tools:taptool_stt">Executar a ferramenta TAP</LOC_STRING>
+      <LOC_STRING _locID="tools:taptool">Editor e ferramenta TAP</LOC_STRING>
+      <LOC_STRING _locID="tools:taptool_stt">Executar editor e ferramenta TAP</LOC_STRING>
       <LOC_STRING _locID="tools:taptoolopen_stt">Inicializar a ferramenta TAP</LOC_STRING>
       <LOC_STRING _locID="tools:taptoolopen_ltt">
          <color r="255" g="248" b="178">
@@ -354,7 +354,129 @@
          <br>Carregar luzes de um arquivo</br>
          <br>Digite o nome do arquivo de luzes a ser carregado na caixa de edição.</br>
       </LOC_STRING>
-      <LOC_STRING _locID="tools:reloadgui_stt">Carregar arquivos de layout</LOC_STRING>
+      <LOC_STRING _locID="tools:gt_label">
+         <font name="arial" size="10" shadowx="-1" shadowy="1">
+            <b>Ferramenta de criação de gesto</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:new_gesture_stt">Novo gesto</LOC_STRING>
+      <LOC_STRING _locID="tools:load_gesture_stt">Carregar gesto</LOC_STRING>
+      <LOC_STRING _locID="tools:save_gesture_stt">Salvar gesto</LOC_STRING>
+      <LOC_STRING _locID="tools:next_stt">Próximo</LOC_STRING>
+      <LOC_STRING _locID="tools:previous_stt">Anterior</LOC_STRING>
+      <LOC_STRING _locID="tools:undo_stt">Desfazer</LOC_STRING>
+      <LOC_STRING _locID="tools:delete_stt">Excluir</LOC_STRING>
+      <LOC_STRING _locID="tools:load_gesture_label">
+         <font name="arial" size="11" shadowx="0" shadowy="0">
+            <b>Carregar gesto </b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:save_gesture_label">
+         <font name="arial" size="11" shadowx="0" shadowy="0">
+            <b>Salvar gesto </b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:overwrite_gesture_label">
+         <font name="arial" size="20" shadowx="0" shadowy="0">
+            <b>Substituir gesto?</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:insert_label">
+         <font name="arial" size="10" shadowx="0" shadowy="0">
+            <b>Inserir nó</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:insert_text_begin_stt">Inserir nó (início)</LOC_STRING>
+      <LOC_STRING _locID="tools:insert_text_middle_stt">Inserir nó (meio)</LOC_STRING>
+      <LOC_STRING _locID="tools:insert_text_end_stt">Inserir nó (fim)</LOC_STRING>
+      <LOC_STRING _locID="tools:insert_event_label">
+         <font name="arial" size="10" shadowx="0" shadowy="0">
+            <b>Inserir evento </b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:insert_event_stt">Inserir evento ao longo da ranhura.</LOC_STRING>
+      <LOC_STRING _locID="tools:view_gesture_stt">Exibir gesto.</LOC_STRING>
+      <LOC_STRING _locID="tools:play_gesture_stt">Testar gesto no modo FPM.</LOC_STRING>
+      <LOC_STRING _locID="tools:increase_stt">Aumentar.</LOC_STRING>
+      <LOC_STRING _locID="tools:decrease_stt">Diminuir.</LOC_STRING>
+      <LOC_STRING _locID="tools:event_window_stt">Alterar o tamanho oper. da janela Evento.</LOC_STRING>
+      <LOC_STRING _locID="tools:view_label">
+         <font name="arial" size="9" shadowx="-1" shadowy="2">
+            <b>Exibir ranhura</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:test_label">
+         <font name="arial" size="9" shadowx="-1" shadowy="2">
+            <b>Testar ranhura</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:score_size_stt">Alterar a espessura da pontuação.</LOC_STRING>
+      <LOC_STRING _locID="tools:spline_size_stt">Alterar a espessura da ranhura.</LOC_STRING>
+      <LOC_STRING _locID="tools:event_window_label">
+         <font name="arial" size="9" shadowx="-1" shadowy="2">
+            <b>Tamanho do evento</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:spline_thickness_label">
+         <font name="arial" size="10" shadowx="0" shadowy="0">
+            <b>Tamanho da ranhura</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:scoring_prox_label">
+         <font name="arial" size="10" shadowx="0" shadowy="0">
+            <b>Prox. da pontuação</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:node_start_label">
+         <font name="arial" size="9" shadowx="-1" shadowy="2">
+            <b>Inserir nó no início</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:node_label">
+         <font name="arial" size="9" shadowx="-1" shadowy="2">
+            <b>Inserir nó entre pontos</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:node_end_label">
+         <font name="arial" size="9" shadowx="-1" shadowy="2">
+            <b>Inserir nó no fim </b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:event_label">
+         <font name="arial" size="9" shadowx="-1" shadowy="2">
+            <b>Inserir evento </b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:event_size_label">
+         <font name="arial" size="9" shadowx="-1" shadowy="2">
+            <b>Alterar tamanho da janela de evento</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:score_size_label">
+         <font name="arial" size="9" shadowx="-1" shadowy="2">
+            <b>Alterar prox. da pontuação</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:spline_size_label">
+         <font name="arial" size="9" shadowx="-1" shadowy="2">
+            <b>Alterar espessura da ranhura </b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:new_spline_label">
+         <font name="arial" size="9" shadowx="-1" shadowy="2">
+            <b>Criar nova ranhura</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:load_spline_label">
+         <font name="arial" size="9" shadowx="-1" shadowy="2">
+            <b>Carregar ranhura</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="tools:delete_spline_label">
+         <font name="arial" size="9" shadowx="-1" shadowy="2">
+            <b>Carregar ranhura</b>
+         </font>
+      </LOC_STRING>
       <LOC_STRING _locID="watertool:reflection_stt">
          <color r="255" g="248" b="178">
             <b>Reflexo</b>

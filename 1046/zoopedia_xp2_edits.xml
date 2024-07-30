@@ -1,0 +1,33 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_paths" version="2"/>
+      <LOC_STRING _locID="zoopedia_paths:entry" version="2">Trilhas</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_paths:text" version="2">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>As trilhas bem posicionadas são importantes para manter os visitantes do zoológico satisfeitos e no caminho certo.
+                  <p/>Para exibir informações sobre tipos de trilhas, clique no tópico Materiais para trilhas na lista à esquerda.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_staff" version="3"/>
+      <LOC_STRING _locID="zoopedia_staff:entry" version="3">Funcionários</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_staff:text" version="3">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>Você pode contratar diferentes tipos de funcionários para ajudá-lo a administrar o zoológico.
+                  <p/>Para ver informações sobre um tipo de funcionário específico, clique no respectivo nome na lista à esquerda.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+
+</ZT2Strings>

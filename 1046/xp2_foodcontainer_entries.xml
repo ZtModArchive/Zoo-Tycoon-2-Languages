@@ -1,0 +1,85 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_buoynet:entry">Bóia-rede</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_buoynet:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/food/BuoyNet/BuoyNet_Chum_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/food/BuoyNet/BuoyNet_Shellfish_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>A rede presa à bóia-rede contém alimento.
+            </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_buoylure:entry">Bóia-isca</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_buoylure:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/food/BuoyLure/BuoyLure_Fish_icon.dds" sx="0" sy="0" sw="64" sh="64"/>                   
+                  <img src="entities/objects/food/BuoyLure/BuoyLure_Jellyfish_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/food/BuoyLure/BuoyLure_Plankton_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/food/BuoyLure/BuoyLure_Squid_icon.dds" sx="0" sy="0" sw="64" sh="64"/>                  
+                  <p/>Uma bóia-isca possui uma isca especial que atrai os animais usados como alimento vivo. Os tratadores mantêm a área em torno da bóia abastecida com comida.
+            </color>            
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_foodbox:entry">Caixa para comida</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_foodbox:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/food/FoodBox/FoodBox_Chum_icon.dds" sx="0" sy="0" sw="64" sh="64"/>                   
+                  <img src="entities/objects/food/FoodBox/FoodBox_Fish_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/food/FoodBox/FoodBox_Plankton_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/food/FoodBox/FoodBox_Seaweed_icon.dds" sx="0" sy="0" sw="64" sh="64"/>                  
+                  <img src="entities/objects/food/FoodBox/Foodbox_Squid_icon.dds" sx="0" sy="0" sw="64" sh="64"/>                  
+                  <p/>Uma caixa para comida é uma caixa vazada colocada embaixo d'água, contendo bocados flutuantes de alimento.
+            </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_marinecarcass:entry">Contêiner artificial em forma de carcaça marinha</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_marinecarcass:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/food/Carcass_mm/Carcass_Chum_mm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/food/Carcass_mm/Carcass_Fish_mm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>Esta carcaça de peixe artificial é usada para alimentar grandes quantidades de peixes e até animais marinhos carnívoros. Os visitantes gostam de observar os animais comendo nesses contêineres mais interessantes.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_artificialreef:entry">Recife artificial</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_artificialreef:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/food/ArtificialReef/ArtificialReef_Fish_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/food/ArtificialReef/ArtificialReef_Jellyfish_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/food/ArtificialReef/ArtificialReef_Plankton_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/food/ArtificialReef/ArtificialReef_Shellfish_icon.dds" sx="0" sy="0" sw="64" sh="64"/>                 
+                  <p/>Os animais marinhos de grande porte gostam de encontrar presas saborosas perto deste recife simulado, feito de materiais artificiais. Os tratadores mantêm o recife artificial abastecido com o tipo adequado de espécies alimentares.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING> 
+
+</ZT2Strings>

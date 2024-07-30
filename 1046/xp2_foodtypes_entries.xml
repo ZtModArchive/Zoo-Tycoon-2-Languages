@@ -1,0 +1,99 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_chum:entry">Ceva</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_chum:text">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/food/BuoyNet/BuoyNet_Chum_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/food/FoodBox/FoodBox_Chum_icon.dds" sx="0" sy="0" sw="64" sh="64"/>                  
+                  <p/>Ceva é o nome dado a uma mistura de peixe fatiado e picado. Serve de alimento para predadores marinhos, como o tubarão-branco e a orca.    
+                  <p/>A ceva pode ser colocada em uma bóia-rede ou caixa para comida.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_jellyfish:entry">Águas-vivas</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_jellyfish:text">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/food/BuoyLure/BuoyLure_Jellyfish_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/food/ArtificialReef/ArtificialReef_Jellyfish_icon.dds" sx="0" sy="0" sw="64" sh="64"/>                   
+                  <p/>A maioria dos animais evita as águas-vivas devido a seus tentáculos urticantes. Porém, elas constituem um alimento básico para certas tartarugas marinhas que são imunes a essas toxinas.
+               </color>   
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_plankton:entry">Zooplâncton</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_plankton:text">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/food/FoodBox/FoodBox_Plankton_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/food/ArtificialReef/ArtificialReef_Plankton_icon.dds" sx="0" sy="0" sw="64" sh="64"/>                  
+                  <p/>O zooplâncton é composto de animais marinhos minúsculos, geralmente microscópicos, que são carregados pelas correntes oceânicas. Inclui vários tipos diferentes de animais, como protozoários microscópicos, pequenos crustáceos e ovas de peixes. Outro tipo importante de plâncton é o fitoplâncton, que consiste em pequenas plantas flutuantes.
+                  <p/>Animais marinhos que se alimentam por filtragem, como a raia-jamanta, o tubarão-baleia e a enorme baleia-azul, vivem exclusivamente de plâncton. 
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_shellfish:entry">Mariscos</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_shellfish:text">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/food/Terrain/Terrain_Shellfish_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/food/BuoyNet/BuoyNet_Shellfish_icon.dds" sx="0" sy="0" sw="64" sh="64"/>                  
+                  <img src="entities/objects/food/SubstratePile/SubstratePile_Shellfish_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/food/ArtificialReef/ArtificialReef_Shellfish_icon.dds" sx="0" sy="0" sw="64" sh="64"/>                  
+                  <p/>Marisco é um termo comum aplicado a diversos moluscos e crustáceos comestíveis. Trata-se de um alimento básico para muitos animais marinhos, como golfinhos e lontras-marinhas, embora seja preciso um esforço considerável para tirar a comida da casca ou carapaça.    
+                  <p/>Os mariscos podem ser colocados diretamente no chão ou em uma bóia-rede, uma pilha de substratos ou um recife artificial.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_seaweed:entry">Algas marinhas</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_seaweed:text">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/food/Terrain/Terrain_Seaweed_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/food/FoodBox/FoodBox_Seaweed_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/objects/food/SubstratePile/SubstratePile_Seaweed_icon.dds" sx="0" sy="0" sw="64" sh="64"/>                  
+                  <p/>Alga marinha é o nome geral dado a diversas espécies vegetais encontradas nos mares. Elas servem de alimento para animais marinhos como o peixe-boi e a tartaruga-verde.    
+                  <p/>As algas marinhas podem ser colocadas diretamente no chão ou em uma caixa para comida ou pilha de substratos.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_squid:entry">Lulas</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_squid:text">
+         <cell pady="40" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/objects/food/BuoyLure/BuoyLure_Squid_icon.dds" sx="0" sy="0" sw="64" sh="64"/>               
+                  <p/>Tenras e saborosas, as lulas são consideradas um petisco por muitos tipos diferentes de animais marinhos.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+
+</ZT2Strings>

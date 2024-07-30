@@ -1,0 +1,45 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_kelpbed:entry">Leito de algas</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_kelpbed:text">
+			<cell pady="0" width="1000"/>
+			<p/>
+			<cell width="260"/>
+			<cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+				<cell width="600" padx="20" pady="20">
+					<color r="255" g="255" b="255">
+						<img src="entities/objects/shelters/KelpBed_Shelter/KelpBed_Shelter_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+						<p/>As lontras-marinhas preferem descansar em leitos de algas. Elas se enrolam nas algas antes de ir dormir para não serem carregadas pela corrente!
+					</color>
+				</cell>
+			</cell>
+		</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_desertisland:entry">Ilha deserta</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_desertisland:text">
+			<cell pady="0" width="1000"/>
+			<p/>
+			<cell width="260"/>
+			<cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+				<cell width="600" padx="20" pady="20">
+					<color r="255" g="255" b="255">
+						<img src="entities/objects/shelters/DesertIsland/DesertIsland_Shelter_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+						<p/>A ilha deserta não apenas serve para decorar o tanque, como também é um lugar para a tartaruga-verde descansar e pôr seus ovos.
+					</color>
+				</cell>
+			</cell>
+		</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_rockisland:entry">Ilha rochosa</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_rockisland:text">
+			<cell pady="0" width="1000"/>
+			<p/>
+			<cell width="260"/>
+			<cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+				<cell width="600" padx="20" pady="20">
+					<color r="255" g="255" b="255">
+						<img src="entities/objects/shelters/RockIsland/RockIsland_Shelter_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+						<p/>A ilha rochosa -- na verdade feita de bóias de plástico de alto impacto -- serve de abrigo para o leão-marinho-da-Califórnia, a morsa-do-Pacífico, a lontra-marinha e o pingüim-de-penacho-amarelo.
+					</color>
+				</cell>
+			</cell>
+		</LOC_STRING>
+
+</ZT2Strings>

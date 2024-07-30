@@ -100,59 +100,73 @@
             <b>%text%</b>
          </font>
       </LOC_STRING>
-      <LOC_STRING _locID="mapname:format">
+      <LOC_STRING _locID="mapname" version="7"/>
+      <LOC_STRING _locID="mapname:format" version="7">
          <font name="arial" size="12" shadowx="1" shadowy="1">
             <b>%text%</b>
          </font>
       </LOC_STRING>
-      <LOC_STRING _locID="mapname:largeformat">
+      <LOC_STRING _locID="mapname:largeformat" version="7">
          <font name="arial" size="12" shadowx="1" shadowy="1">
             <b>%text%</b>
          </font>
       </LOC_STRING>
-      <LOC_STRING _locID="mapname:atestmap">Mapa de teste minúsculo</LOC_STRING>
-      <LOC_STRING _locID="mapname:nomap">Tamanho do mapa de teste</LOC_STRING>
-      <LOC_STRING _locID="mapname:alpinebig">Vegetação alpina (G)</LOC_STRING>
-      <LOC_STRING _locID="mapname:alpinemed">Vegetação alpina (M)</LOC_STRING>
-      <LOC_STRING _locID="mapname:alpinesml">Vegetação alpina (P) </LOC_STRING>
-      <LOC_STRING _locID="mapname:borealbig">Floresta boreal (G)</LOC_STRING>
-      <LOC_STRING _locID="mapname:borealmed">Floresta boreal (M)</LOC_STRING>
-      <LOC_STRING _locID="mapname:borealsml">Floresta boreal (P)</LOC_STRING>
-      <LOC_STRING _locID="mapname:cityzoo">Zoológico urbano (G)</LOC_STRING>
-      <LOC_STRING _locID="mapname:cityzoomed">Zoológico urbano (M)</LOC_STRING>
-      <LOC_STRING _locID="mapname:cityzoosml">Zoológico urbano (P)</LOC_STRING>
-      <LOC_STRING _locID="mapname:desert">Deserto (G)</LOC_STRING>
-      <LOC_STRING _locID="mapname:desertmed">Deserto (M)</LOC_STRING>
-      <LOC_STRING _locID="mapname:desertsml">Deserto (P)</LOC_STRING>
-      <LOC_STRING _locID="mapname:grassland">Pradaria (G)</LOC_STRING>
-      <LOC_STRING _locID="mapname:grasslandmed">Pradaria (M)</LOC_STRING>
-      <LOC_STRING _locID="mapname:grasslandsml">Pradaria (P) </LOC_STRING>
-      <LOC_STRING _locID="mapname:savannah">Savana (G)</LOC_STRING>
-      <LOC_STRING _locID="mapname:savannahmed">Savana (M)</LOC_STRING>
-      <LOC_STRING _locID="mapname:savannahsml">Savana (P)</LOC_STRING>
-      <LOC_STRING _locID="mapname:scrub">Cerrado (G)</LOC_STRING>
-      <LOC_STRING _locID="mapname:scrubmed">Cerrado (M)</LOC_STRING>
-      <LOC_STRING _locID="mapname:scrubsml">Cerrado (P)</LOC_STRING>
-      <LOC_STRING _locID="mapname:tempforest">Floresta temperada (G)</LOC_STRING>
-      <LOC_STRING _locID="mapname:temperatemed">Floresta temperada (M)</LOC_STRING>
-      <LOC_STRING _locID="mapname:temperatesml">Floresta temperada (P)</LOC_STRING>
-      <LOC_STRING _locID="mapname:rainforestbig">Floresta tropical (G)</LOC_STRING>
-      <LOC_STRING _locID="mapname:rainforestmed">Floresta tropical (M)</LOC_STRING>
-      <LOC_STRING _locID="mapname:rainforestsml">Floresta tropical (P)</LOC_STRING>
-      <LOC_STRING _locID="mapname:tundrabig">Tundra (G)</LOC_STRING>
-      <LOC_STRING _locID="mapname:tundramed">Tundra (M)</LOC_STRING>
-      <LOC_STRING _locID="mapname:tundrasml">Tundra (P)</LOC_STRING>
-      <LOC_STRING _locID="mapname:wetlandbig">Alagadiço (G)</LOC_STRING>
-      <LOC_STRING _locID="mapname:wetlandmed">Alagadiço (M)</LOC_STRING>
-      <LOC_STRING _locID="mapname:wetlandsml">Alagadiço (P)</LOC_STRING>
-      <LOC_STRING _locID="mapname:biome_squares">Quadrados de biomas (G)</LOC_STRING>
-      <LOC_STRING _locID="mapname:river">Rio (G)</LOC_STRING>
-      <LOC_STRING _locID="mapname:savannahridge">Cume do safári (G)</LOC_STRING>
-      <LOC_STRING _locID="mapname:polarcoast">Litoral polar (G)</LOC_STRING>
-      <LOC_STRING _locID="mapname:rockies">Vale das Montanhas Rochosas (M)</LOC_STRING>
-      <LOC_STRING _locID="mapname:desertshore">Praia de deserto (M)</LOC_STRING>
-      <LOC_STRING _locID="mapname:junglepool">Lagoa da selva (P)</LOC_STRING>
-      <LOC_STRING _locID="mapname:mangrovecoast">Costa de mangues (P) </LOC_STRING>
+      <LOC_STRING _locID="mapname:atestmap" version="7">Mapa de teste minúsculo</LOC_STRING>
+      <LOC_STRING _locID="mapname:nomap" version="7">Tamanho do mapa de teste</LOC_STRING>
+      <LOC_STRING _locID="mapname:alpinebig" version="7">Vegetação alpina (G)</LOC_STRING>
+      <LOC_STRING _locID="mapname:alpinemed" version="7">Vegetação alpina (M)</LOC_STRING>
+      <LOC_STRING _locID="mapname:alpinesml" version="7">Vegetação alpina (P) </LOC_STRING>
+      <LOC_STRING _locID="mapname:borealbig" version="7">Floresta boreal (G)</LOC_STRING>
+      <LOC_STRING _locID="mapname:borealmed" version="7">Floresta boreal (M)</LOC_STRING>
+      <LOC_STRING _locID="mapname:borealsml" version="7">Floresta boreal (P)</LOC_STRING>
+      <LOC_STRING _locID="mapname:cityzoo" version="7">Zoológico urbano (G)</LOC_STRING>
+      <LOC_STRING _locID="mapname:cityzoomed" version="7">Zoológico urbano (M)</LOC_STRING>
+      <LOC_STRING _locID="mapname:cityzoosml" version="7">Zoológico urbano (P)</LOC_STRING>
+      <LOC_STRING _locID="mapname:desert" version="7">Deserto (G)</LOC_STRING>
+      <LOC_STRING _locID="mapname:desertmed" version="7">Deserto (M)</LOC_STRING>
+      <LOC_STRING _locID="mapname:desertsml" version="7">Deserto (P)</LOC_STRING>
+      <LOC_STRING _locID="mapname:grassland" version="7">Pradaria (G)</LOC_STRING>
+      <LOC_STRING _locID="mapname:grasslandmed" version="7">Pradaria (M)</LOC_STRING>
+      <LOC_STRING _locID="mapname:grasslandsml" version="7">Pradaria (P) </LOC_STRING>
+      <LOC_STRING _locID="mapname:savannah" version="7">Savana (G)</LOC_STRING>
+      <LOC_STRING _locID="mapname:savannahmed" version="7">Savana (M)</LOC_STRING>
+      <LOC_STRING _locID="mapname:savannahsml" version="7">Savana (P)</LOC_STRING>
+      <LOC_STRING _locID="mapname:scrub" version="7">Cerrado (G)</LOC_STRING>
+      <LOC_STRING _locID="mapname:scrubmed" version="7">Cerrado (M)</LOC_STRING>
+      <LOC_STRING _locID="mapname:scrubsml" version="7">Cerrado (P)</LOC_STRING>
+      <LOC_STRING _locID="mapname:tempforest" version="7">Floresta temperada (G)</LOC_STRING>
+      <LOC_STRING _locID="mapname:temperatemed" version="7">Floresta temperada (M)</LOC_STRING>
+      <LOC_STRING _locID="mapname:temperatesml" version="7">Floresta temperada (P)</LOC_STRING>
+      <LOC_STRING _locID="mapname:rainforestbig" version="7">Floresta tropical (G)</LOC_STRING>
+      <LOC_STRING _locID="mapname:rainforestmed" version="7">Floresta tropical (M)</LOC_STRING>
+      <LOC_STRING _locID="mapname:rainforestsml" version="7">Floresta tropical (P)</LOC_STRING>
+      <LOC_STRING _locID="mapname:tundrabig" version="7">Tundra (G)</LOC_STRING>
+      <LOC_STRING _locID="mapname:tundramed" version="7">Tundra (M)</LOC_STRING>
+      <LOC_STRING _locID="mapname:tundrasml" version="7">Tundra (P)</LOC_STRING>
+      <LOC_STRING _locID="mapname:wetlandbig" version="7">Alagadiço (G)</LOC_STRING>
+      <LOC_STRING _locID="mapname:wetlandmed" version="7">Alagadiço (M)</LOC_STRING>
+      <LOC_STRING _locID="mapname:wetlandsml" version="7">Alagadiço (P)</LOC_STRING>
+      <LOC_STRING _locID="mapname:biome_squares" version="7">Quadrados de biomas (G)</LOC_STRING>
+      <LOC_STRING _locID="mapname:river" version="7">Rio (G)</LOC_STRING>
+      <LOC_STRING _locID="mapname:savannahridge" version="7">Cume do safári (G)</LOC_STRING>
+      <LOC_STRING _locID="mapname:polarcoast" version="7">Litoral polar (G)</LOC_STRING>
+      <LOC_STRING _locID="mapname:rockies" version="7">Vale das Montanhas Rochosas (M)</LOC_STRING>
+      <LOC_STRING _locID="mapname:desertshore" version="7">Praia de deserto (M)</LOC_STRING>
+      <LOC_STRING _locID="mapname:junglepool" version="7">Lagoa da selva (P)</LOC_STRING>
+      <LOC_STRING _locID="mapname:mangrovecoast" version="7">Costa de mangues (P) </LOC_STRING>
+      <LOC_STRING _locID="mapname:benthicbig" version="7">Zoológico bêntico (G) </LOC_STRING>
+      <LOC_STRING _locID="mapname:coastalbig" version="7">Zoológico costeiro (G) </LOC_STRING>
+      <LOC_STRING _locID="mapname:reefbig" version="7">Zoológico de recife (G) </LOC_STRING>
+      <LOC_STRING _locID="mapname:pelagicbig" version="7">Zoológico pelágico (G) </LOC_STRING>
+      <LOC_STRING _locID="mapname:benthicmed" version="7">Zoológico bêntico (M) </LOC_STRING>
+      <LOC_STRING _locID="mapname:coastalmed" version="7">Zoológico costeiro (M) </LOC_STRING>
+      <LOC_STRING _locID="mapname:reefmed" version="7">Zoológico de recife (M) </LOC_STRING>
+      <LOC_STRING _locID="mapname:pelagicmed" version="7">Zoológico pelágico (M) </LOC_STRING>
+      <LOC_STRING _locID="mapname:benthicsml" version="7">Zoológico bêntico (P) </LOC_STRING>
+      <LOC_STRING _locID="mapname:reefsml" version="7">Zoológico de recife (P) </LOC_STRING>
+      <LOC_STRING _locID="mapname:coastalsml" version="7">Zoológico costeiro (P) </LOC_STRING>
+      <LOC_STRING _locID="mapname:coastalzoojr" version="7">Zoológico costeiro pequeno (P) </LOC_STRING>
+      <LOC_STRING _locID="mapname:pelagicsml" version="7">Zoológico pelágico (P) </LOC_STRING>
       <LOC_STRING _locID="mapsize:small">Pequeno</LOC_STRING>
       <LOC_STRING _locID="mapsize:medium">Médio</LOC_STRING>
       <LOC_STRING _locID="mapsize:large">Grande</LOC_STRING>
