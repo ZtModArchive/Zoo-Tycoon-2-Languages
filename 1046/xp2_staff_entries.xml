@@ -1,0 +1,23 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_trainer:entry">Treinador</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_trainer:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities/units/staff/Trainer/Trainer_F_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <img src="entities/units/staff/Trainer/Trainer_M_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>
+Os treinadores ensinam aos animais marinhos do zoológico os truques que farão nos shows. Você pode designar treinadores para trabalhar com animais específicos. Os treinadores sem atribuições escolhem os animais que treinarão por conta própria. Os treinadores decidem quais truques ensinarão. Eles começam com os truques mais fáceis antes de avançar para os mais difíceis.
+						<p/>
+Os treinadores precisam de uma entrada de tanque para treinar os animais em um tanque. Eles não podem treinar os animais em um tanque sem uma entrada.       
+                  <p/>
+Os treinadores recebem um salário que é descontado da conta do zoológico no primeiro dia de cada mês.			
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+
+</ZT2Strings>

@@ -1,0 +1,39 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_facepaintingkiosk" version="6"/>
+      <LOC_STRING _locID="zoopedia_facepaintingkiosk:entry" version="6">Quiosque de pintura no rosto</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_facepaintingkiosk:text" version="6">
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\objects\buildings\Face_Painting_Kiosk_end\FacePaintingKiosk_end_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+A garotada vai adorar o quiosque de pintura no rosto, onde poderão ser maquiados como tigres, pandas e outros animais.
+<p/>
+Para tornar o quiosque de pintura no rosto disponível no jogo, você precisa ganhar o Prêmio de Empreendimento de Doação para Entretenimento.
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_headphonekiosk" version="6"/>
+      <LOC_STRING _locID="zoopedia_headphonekiosk:entry" version="6">Quiosque de fones</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_headphonekiosk:text" version="6">
+   <cell pady="0" width="1000"/>
+   <p/>
+   <cell width="260"/>
+   <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+    <cell width="600" padx="20" pady="20">
+     <color r="255" g="255" b="255">
+      <img src="entities\objects\buildings\HeadphoneKiosk_end\HeadphoneKiosk_end_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+      <p/>
+Os visitantes gostam de usar os fones de ouvido fornecidos pelo quiosque de fones de ouvido. Os conjuntos de fones de ouvido sem fio fornecem aos visitantes informações adicionais sobre os animais do zoológico.
+		<p/>
+Para tornar o quiosque de fones de ouvido disponível no jogo, você precisa ganhar o Prêmio de Doações Educacionais.
+     </color>
+    </cell>
+   </cell>
+  </LOC_STRING>
+  
+</ZT2Strings>

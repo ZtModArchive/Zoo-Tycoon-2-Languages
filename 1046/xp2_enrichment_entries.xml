@@ -1,0 +1,75 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_bubbleemitter:entry">Gerador de bolhas de ostra</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_bubbleemitter:text">
+		<cell pady="0" width="1000"/>
+		<p/>
+		<cell width="260"/>
+		<cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+		 <cell width="600" padx="20" pady="20">
+		  <color r="255" g="255" b="255">
+			<img src="entities/objects/enrichment/BubbleEmitter/BubbleEmitter_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+			<p/>Animais marinhos como, por exemplo, a raia-jamanta gostam de nadar no jorro de bolhas criado por esta ostra gigante artificial.
+		  </color>
+		 </cell>
+		</cell>
+	  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_jarwithfish:entry">Pote de peixe</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_jarwithfish:text">
+		<cell pady="0" width="1000"/>
+		<p/>
+		<cell width="260"/>
+		<cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+		 <cell width="600" padx="20" pady="20">
+		  <color r="255" g="255" b="255">
+			<img src="entities/objects/enrichment/JarWithFish/JarWithFish_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+			<p/>As lontras-marinhas adoram fuçar até conseguir abrir o pote de peixe para comer seu conteúdo -- e os visitantes adoram observá-las nessa atividade!
+		  </color>
+		 </cell>
+		</cell>
+	  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_livetunayellowfin:entry">Alimento vivo, atum-de-barbatana-amarela</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_livetunayellowfin:text">
+		<cell pady="0" width="1000"/>
+		<p/>
+		<cell width="260"/>
+		<cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+		 <cell width="600" padx="20" pady="20">
+		  <color r="255" g="255" b="255">
+			<img src="entities/units/animals/TunaYellowfin/TunaYellowfin_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+			<p/>Os predadores marinhos gostam ainda mais da comida se precisarem caçá-la! Muitos zoológicos introduziram alimentos vivos como parte do programa de benefícios para os animais.
+			<p/>Para receber o atum-de-barbatana-amarela como alimento vivo, complete dois desafios de animais marinhos quaisquer no modo de desafio.
+		  </color>
+		 </cell>
+		</cell>
+	  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_livecodarctic:entry">Alimento vivo, bacalhau-do-Ártico</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_livecodarctic:text">
+		<cell pady="0" width="1000"/>
+		<p/>
+		<cell width="260"/>
+		<cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+		 <cell width="600" padx="20" pady="20">
+		  <color r="255" g="255" b="255">
+			<img src="entities/units/animals/CodArctic/CodArctic_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+			<p/>Os predadores marinhos gostam ainda mais da comida se precisarem caçá-la! Muitos zoológicos introduziram alimentos vivos como parte do programa de benefícios para os animais.
+		  </color>
+		 </cell>
+		</cell>
+	  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_sealpreydummy:entry">Presa simulada em forma de foca</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_sealpreydummy:text">
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>
+                  <img src="entities\objects\enrichment\Seal_Prey_Dummy\SealPreyDummy_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>Este objeto de benefício flutuante foi projetado para os grandes predadores marinhos, como o tubarão-branco e a orca. Esses animais adoram cabecear e morder o boneco em forma de foca.
+               </color>
+            </cell>
+         </cell>
+      </LOC_STRING>
+
+</ZT2Strings>

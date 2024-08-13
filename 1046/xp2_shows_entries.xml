@@ -1,0 +1,136 @@
+<ZT2Strings>
+      <LOC_STRING _locID="zoopedia_shows:entry">Objetos: shows/tanques</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_shows:text">
+		<cell pady="0" width="1000"/>
+		<p/>
+		<cell width="260"/>
+		<cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+		 <cell width="600" padx="20" pady="20">
+		  <color r="255" g="255" b="255">
+			<p/>Para criar um tanque para shows, coloque uma plataforma para shows em um tanque que esteja ligado a outro tanque contendo animais treinados. Coloque arquibancadas de frente para o tanque do show e comece a programar as atrações!
+			<p/>Para obter informações sobre um show específico ou sobre um objeto de um tanque, clique no nome do show ou no objeto na lista à esquerda.	  
+		  </color>
+		 </cell>
+		</cell>
+	  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_showplatform:entry">Plataforma para shows</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_showplatform:text">
+		<cell pady="0" width="1000"/>
+		<p/>
+		<cell width="260"/>
+		<cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+		 <cell width="600" padx="20" pady="20">
+		  <color r="255" g="255" b="255">
+			<img src="entities/objects/buildings/Platform_Show_mm/Platform_Show_mm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+			<p/>O mestre-de-cerimônias apresenta os shows marinhos na plataforma para shows. Você também pode criar shows usando a plataforma. Posicione uma platarorma para shows em um tanque vazio que esteja ligado a um tanque contendo animais treinados. Em seguida, clique na plataforma para abrir o Programador de shows.
+			<p/>Complete dois desafios de shows marinhos no modo de desafio para receber a TV tela grande, a ser usada na plataforma para shows. Conclua a campanha Shows Marinhos para receber a plataforma para shows colorida com uma cobertura.
+		  </color>
+		 </cell>
+		</cell>
+	  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_grandstand_mm:entry">Arquibancadas</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_grandstand_mm:text">
+		<cell pady="0" width="1000"/>
+		<p/>
+		<cell width="260"/>
+		<cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+		 <cell width="600" padx="20" pady="20">
+		  <color r="255" g="255" b="255">
+			<img src="entities/objects/scenery/Grandstand_I_mm/Grandstand_I_mm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+			<img src="entities/objects/scenery/Grandstand_II_mm/Grandstand_II_mm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+			<img src="entities/objects/scenery/Grandstand_III_mm/Grandstand_III_mm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>			
+			<p/>As arquibancadas são um lugar confortável para os visitantes se sentarem enquanto assistem aos shows marinhos. Os visitantes aproveitam muito mais o show quando estão nas arquibancadas.
+			<p/>A arquibancada pequena acomoda dois visitantes, a média acomoda quatro e a grande acomoda seis.
+		  </color>
+		 </cell>
+		</cell>
+	  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_grandstand_upgraded_mm:entry">Arquibancadas com melhorias</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_grandstand_upgraded_mm:text">
+		<cell pady="0" width="1000"/>
+		<p/>
+		<cell width="260"/>
+		<cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+		 <cell width="600" padx="20" pady="20">
+		  <color r="255" g="255" b="255">
+			<img src="entities/objects/scenery/Upgraded_Grandstand_I_mm/Upgraded_Grandstand_I_mm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+			<img src="entities/objects/scenery/Upgraded_Grandstand_II_mm/Upgraded_Grandstand_II_mm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+			<img src="entities/objects/scenery/Upgraded_Grandstand_III_mm/Upgraded_Grandstand_III_mm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+			<p/>As arquibancadas com melhorias adicionam cor e conforto às áreas de shows. Ganhe o Prêmio de Show Marinho Tycoon Nível 1 para receber a arquibancada média com melhorias. Ganhe o Prêmio de Show Marinho Tycoon Nível 2 para receber a arquibancada grande com melhorias.
+		  </color>
+		 </cell>
+		</cell>
+	  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_light_mm:entry">Luz do tanque</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_light_mm:text">
+		<cell pady="0" width="1000"/>
+		<p/>
+		<cell width="260"/>
+		<cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+		 <cell width="600" padx="20" pady="20">
+		  <color r="255" g="255" b="255">
+			<img src="entities/objects/scenery/light_mm/light_mm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+			<p/>As luzes iluminam a água dentro dos tanques marinhos e outras exibições aquáticas. São especialmente úteis para iluminar lugares escuros como tanques bênticos ou jaulas com alagadiços.
+			<p/>A luz do tanque estará disponível para compra depois que você ganhar o Prêmio de Astro Marinho Tycoon Nível 1.
+		  </color>
+		 </cell>
+		</cell>
+	  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_tankportal:entry">Portal do tanque</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_tankportal:text">
+		<cell pady="0" width="1000"/>
+		<p/>
+		<cell width="260"/>
+		<cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+		 <cell width="600" padx="20" pady="20">
+		  <color r="255" g="255" b="255">
+			<img src="entities/objects/fences/AnimalTank_Gate/AnimalTank_Gate_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+			<p/>Os portais de tanques ligam os tanques de shows marinhos aos tanques-aquário comuns. Os animais treinados não podem viver o tempo todo em um tanque para shows. Você deve criar um tanque-aquário, onde esses animais ficarão após as apresentações. Coloque um tanque-aquário adjacente a um tanque para shows e conecte-os por um portal. Na hora do show, os animais passam de um tanque para o outro por meio do portal.
+		  </color>
+		 </cell>
+		</cell>
+	  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_trainingarea:entry">Área de treinamento</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_trainingarea:text">
+		<cell pady="0" width="1000"/>
+		<p/>
+		<cell width="260"/>
+		<cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+		 <cell width="600" padx="20" pady="20">
+		  <color r="255" g="255" b="255">
+			<img src="entities/objects/props/TrainingArea/TrainingArea_mm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+			<p/>As áreas de treinamento são usadas para treinar os animais marinhos nos truques que farão nos shows. Você deve colocar uma área de treinamento e uma entrada em um tanque para treinar os animais nele.
+		  </color>
+		 </cell>
+		</cell>
+	  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_trickarea_mm:entry">Área de truques</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_trickarea_mm:text">
+		<cell pady="0" width="1000"/>
+		<p/>
+		<cell width="260"/>
+		<cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+		 <cell width="600" padx="20" pady="20">
+		  <color r="255" g="255" b="255">
+			<img src="entities/objects/props/TrickArea_mm/TrickArea_mm_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+			<p/>Os animais dos shows marinhos se apresentam nas áreas de truques. Para mover uma área de truques, selecione-a e movimente-a até o local desejado.
+		  </color>
+		 </cell>
+		</cell>
+	  </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_trickplatform:entry">Plataforma para truques</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_trickplatform:text">
+		<cell pady="0" width="1000"/>
+		<p/>
+		<cell width="260"/>
+		<cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+		 <cell width="600" padx="20" pady="20">
+		  <color r="255" g="255" b="255">
+			<img src="entities/objects/props/Platform_Trick/Platform_Trick_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+			<p/>Animais como a morsa-do-Pacífico e o leão-marinho-da-Califórnia se apresentam em plataformas para truques. Para mover uma plataforma para truques, selecione-a e movimente-a até o local desejado.
+		  </color>
+		 </cell>
+		</cell>
+	  </LOC_STRING>	
+
+</ZT2Strings>
