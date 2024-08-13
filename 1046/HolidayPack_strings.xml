@@ -1,0 +1,202 @@
+<ZT2Strings>
+   <!--entity names-->
+   <entityname>
+      <!--building names-->
+      <snackcart_candycane_tt>Carrinho de bengalinha doce</snackcart_candycane_tt>
+      <snackcart_candycane_tt_stt>Carrinho de bengalinha doce</snackcart_candycane_tt_stt>
+      <snackcart_candycane_tt_lower>o carrinho de bengalinha doce</snackcart_candycane_tt_lower>
+      <snackcart_candycane_tt_ltt>
+         <color r="255" g="248" b="178">
+            <b>Carrinho de bengalinha doce</b>
+         </color>
+         <br/>
+         Clique para selecionar e posicionar o carrinho de bengalinha doce, uma tradição das festas de fim de ano.
+      </snackcart_candycane_tt_ltt>
+      <!--scenery object names-->
+      <binoculars_tt>Binóculo do boneco de neve</binoculars_tt>
+      <binoculars_tt_stt>Binóculo do boneco de neve</binoculars_tt_stt>
+      <binoculars_tt_lower>o binóculo do boneco de neve</binoculars_tt_lower>
+      <binoculars_tt_ltt>
+         <color r="255" g="248" b="178">
+            <b>Binóculo do boneco de neve</b>
+         </color>
+         <br/>
+         Clique para selecionar e posicionar o binóculo do boneco de neve. Os visitantes vão adorar ver os animais pelos óculos do boneco.
+      </binoculars_tt_ltt>
+      <Reindeer_tt>Brinquedo da rena</Reindeer_tt>
+      <Reindeer_tt_stt>Brinquedo da rena</Reindeer_tt_stt>
+      <Reindeer_tt_lower>o brinquedo da rena</Reindeer_tt_lower>
+      <Reindeer_tt_ltt>
+         <color r="255" g="248" b="178">
+            <b>Brinquedo da rena</b>
+         </color>
+         <br/>
+         Clique para selecionar e posicionar um brinquedo da rena, no qual crianças pequenas podem sentar e se balançar.
+      </Reindeer_tt_ltt>
+      <lowholidayfence_tt>Cerca baixa festiva</lowholidayfence_tt>
+      <lowholidayfence_tt_stt>Cerca baixa festiva</lowholidayfence_tt_stt>
+      <lowholidayfence_tt_lower>a cerca baixa festiva</lowholidayfence_tt_lower>
+      <lowholidayfence_tt_ltt>
+         <color r="255" g="248" b="178">
+            <b>Cerca baixa festiva</b>
+         </color>
+         <br/>
+         Clique para selecionar e posicionar seções de cerca baixa festiva, que pode ser usada como um demarcador de trilhas decorativo para as festas de fim de ano.
+      </lowholidayfence_tt_ltt>
+      <lowholidayfence_broken_tt>Cerca baixa festiva</lowholidayfence_broken_tt>
+      <lowholidayfence_broken_tt_stt>Cerca baixa festiva</lowholidayfence_broken_tt_stt>
+      <lowholidayfence_broken_tt_lower>a cerca baixa festiva</lowholidayfence_broken_tt_lower>
+      <lowholidayfence_broken_tt_ltt>
+         <color r="255" g="248" b="178">
+            <b>Cerca baixa festiva</b>
+         </color>
+         <br/>
+         Clique para selecionar e posicionar seções de cerca baixa festiva, que pode ser usada como um demarcador de trilhas decorativo para as festas de fim de ano.
+      </lowholidayfence_broken_tt_ltt>
+      <!--fence names-->
+      <!--enrichment object names-->
+      <PresentApple>Presente de festas (maçã)</PresentApple>
+      <PresentApple_stt>Presente de festas (maçã)</PresentApple_stt>
+      <PresentApple_lower>o presente de festas (maçã)</PresentApple_lower>
+      <PresentApple_ltt>
+         <color r="255" g="248" b="178">
+            <b>Presente de festas (maçã)</b>
+         </color>
+         <br/>
+         Clique para selecionar e posicionar o presente de festas (maçã). Os animais que gostam de maçã vão adorar abrir este presente de fim de ano.
+      </PresentApple_ltt>
+      <PresentBeef>Presente de festas (carne)</PresentBeef>
+      <PresentBeef_stt>Presente de festas (carne)</PresentBeef_stt>
+      <PresentBeef_lower>o presente de festas (carne)</PresentBeef_lower>
+      <PresentBeef_ltt>
+         <color r="255" g="248" b="178">
+            <b>Presente de festas (carne)</b>
+         </color>
+         <br/>
+         Clique para selecionar e posicionar o presente de festas (carne). Os animais que gostam de mocotó vão adorar abrir este presente de fim de ano.
+      </PresentBeef_ltt>
+      <!--item names-->
+      <Candycane>Bengalinha doce</Candycane>
+      <Candycane_stt>Bengalinha doce</Candycane_stt>
+      <Candycane_lower>a bengalinha doce</Candycane_lower>
+      <Candycane_ltt>
+         <color r="255" g="248" b="178">
+            <b>Bengalinha doce</b>
+         </color>
+         <br/>As bengalinhas doces são muito apreciadas durante as festas de fim de ano.
+      </Candycane_ltt>
+      <!--guest thoughts-->
+      <EatCandycaneNotLike>Prefiro outra coisa que não seja uma bengalinha doce.</EatCandycaneNotLike>
+      <EatCandycane>Oba, bengalinha doce! Já estão chegando as festas de fim de ano!</EatCandycane>
+      <EatCandycaneLike>Puxa, esta bengalinha doce está uma delícia.</EatCandycaneLike>
+   </entityname>
+   <!--Zoopedia entries-->
+   <zoopedia_candycane>
+      <entry>Carrinho de bengalinha doce</entry>
+      <text>
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>
+                  <img src="entities\objects\buildings\Snackcart\snackcart_candycane_tt_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>O carrinho de bengalinha doce é um carrinho de sobremesa confeitado com pão de gengibre, bengalinhas e outros doces. Este carrinho vende bengalinhas doces.
+                  <p/>As crianças, em especial, adoram bengalinhas doces, mas todos que quiserem uma sobremesa gostosa comprarão as bengalinhas.
+               </color>
+            </cell>
+         </cell>
+      </text>
+   </zoopedia_candycane>
+   <zoopedia_binoculars_tt>
+      <entry>Binóculo do boneco de neve</entry>
+      <text>
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>
+                  <img src="entities\objects\scenery\binoculars_tt\binoculars_tt_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>O binóculo do boneco de neve é uma versão especial do binóculo, usada nas festas de fim de ano ou nas áreas do zôo com tema de tundra.
+                  <p/>Os visitantes terão uma visão excelente dos animais olhando através dos óculos do boneco de neve. Os animais parecem não se importar com o boneco observando-os.
+               </color>
+            </cell>
+         </cell>
+      </text>
+   </zoopedia_binoculars_tt>
+   <zoopedia_lowholidayfence_tt>
+      <entry>Cerca festiva</entry>
+      <text>
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <img src="entities\objects\fences\lowholidayfence_tt\lowholidayfence_tt_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>A cerca festiva é um tipo de cerca razoavelmente resistente que se torna mais eficiente quando utilizada junto a um fosso, ou como cerca decorativa em áreas públicas.
+                  <p/>A cerca festiva é decorada com luzinhas coloridas, o que tanto os visitantes como os animais acham fascinante.
+               </color>
+            </cell>
+         </cell>
+      </text>
+   </zoopedia_lowholidayfence_tt>
+   <zoopedia_reindeer_tt>
+      <entry>Brinquedo da rena</entry>
+      <text>
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>
+                  <img src="entities\objects\scenery\Playground_BouncyRide_Reindeer_tt/BouncyRide_Reindeer_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>As crianças podem subir nas costas da rena e se balançar para cima e para baixo. Este tipo específico de rena, porém, não é capaz de voar.
+               </color>
+            </cell>
+         </cell>
+      </text>
+   </zoopedia_reindeer_tt>
+   <zoopedia_presentapple>
+      <entry>Presente de festas (maçã)</entry>
+      <text>
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>
+                  <img src="entities\objects\enrichment\PresentApple\PresentApple_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>Até mesmo os animais gostam de ganhar presentes nas festas de fim de ano!
+                  <p/>O presente de festas (maçã) é uma caixa embrulhada em papel colorido com um laço festivo. Os animais adoram brincar rolando a caixa de um lado para o outro.
+                  <p/>Depois que os animais chacoalharem o presente um pouco, ele se abrirá, revelando uma maçã que o animal pode comer.
+               </color>
+            </cell>
+         </cell>
+      </text>
+   </zoopedia_presentapple>
+   <zoopedia_presentbeef>
+      <entry>Presente de festas (carne)</entry>
+      <text>
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <color r="255" g="255" b="255">
+                  <p/>
+                  <img src="entities\objects\enrichment\PresentApple\PresentBeef_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+                  <p/>Até mesmo os animais gostam de ganhar presentes nas festas de fim de ano!
+                  <p/>O presente de festas (carne) é uma caixa embrulhada em papel colorido com um laço festivo. Os animais adoram brincar rolando a caixa de um lado para o outro.
+                  <p/>Depois que os animais tiverem chacoalhado o presente um pouco, ele se abrirá, revelando um mocotó que o animal pode comer.
+               </color>
+            </cell>
+         </cell>
+      </text>
+   </zoopedia_presentbeef>
+</ZT2Strings>
