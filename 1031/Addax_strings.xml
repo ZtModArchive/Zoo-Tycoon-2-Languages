@@ -1,0 +1,148 @@
+<ZT2Strings>
+   <entityname>
+      <!--animal names-->
+      <Addax>Mendesantilope</Addax>
+      <Addax_stt>Mendesantilope</Addax_stt>
+      <Addax_lower>die Mendesantilope</Addax_lower>
+      <Addax_ltt>
+         <color r="255" g="248" b="178">
+            <b>Mendesantilope</b>
+         </color>
+         <br/>
+          Klicken Sie hier, um eine Mendesantilope auszuwählen und zu platzieren. Diese ist ein großer Hornträger der Wüste.
+      </Addax_ltt>
+      <!--gift names-->
+      <Addax_Gift>Mendesantilopen-Puppe</Addax_Gift>
+      <Addax_Gift_stt>Mendesantilopen-Puppe</Addax_Gift_stt>
+      <Addax_Gift_lower>die Mendesantilopen-Puppe</Addax_Gift_lower>
+      <Addax_Gift_ltt>
+         <color r="255" g="248" b="178">
+            <b>Mendesantilopen-Puppe</b>
+         </color>
+         <br/>Besucher, die sich gerne die Mendesantilope anschauen, kaufen dieses Andenken.
+      </Addax_Gift_ltt>
+   </entityname>
+   
+   <!--zoopedia entries-->
+   <zoopedia_addax version="2">
+      <entry>Mendesantilope</entry>
+      <text>
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            
+
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/Addax/Addax_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>						
+						</cell>
+						<cell width="16">
+							<img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						</cell>
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/Addax/Addax_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>						
+						</cell>						
+						<cell width="16">
+							<img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						</cell>
+						<cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/critical.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Gefährdungsstatus:
+                                          <br/>
+                        <color r="255" g="0" b="0">
+                     Stark bedroht
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>            
+            
+               <cell width="128">
+                  <color r="255" g="255" b="255">Wüste<br/></color>
+                  <img src="ui/icon_biomes/icon_desert.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+               </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Nordafrika<br/></color>
+                  <img src="ui/icon_maplocations/Desert_Africa_North.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">Klasse: Säugetiere <i>(Mammalia)</i><br/>Ordnung: Paarhufer <i>(Artiodactyla)</i><br/>Familie: Hornträger <i>(Bovidae)</i><br/>Gattung: <i>Mendesantilope</i><br/>Art: <i>Nasomaculatus</i></color>
+               </cell>
+               <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/desert_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+               </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Spannende Fakten zur Mendesantilope</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Für das Überleben in den Weiten der Sahara ist es von großer Bedeutung, dass die Mendesantilope nach einem plötzlichen Regenfall sprießende Wüstenpflanzen auch über große Entfernungen noch wittern kann.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Die Mendesantilope ist das größte in der Sahara heimische Tier.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Die Mendesantilope trinkt sehr selten. Stattdessen stillt die ihren Flüssigkeitsbedarf über ihre Nahrung.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Häufig bauen sich Mendesantilopen einen Unterschlupf, indem sie Vertiefungen in den Sand unter Felsbrocken graben. Dort sind sie vor der Sonne und dem Wüstenwind geschützt.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Das Fell der Mendesantilope wechselt von weiß im Sommer zu graubraun im Winter.</color>
+               </cell>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Aufgrund ihres plumpen Körperbaus sind Mendesantilopen keine schnellen Läufer und daher ein leichtes Opfer für Räuber.</color>
+               </cell>
+            </cell>
+         </cell>
+         <cell width="340">
+         <color r="255" g="248" b="178">Um die Mendesantilope im Herausforderungs- oder Kampagnenmodus freizugeben, muss der Zoo einen Bekanntheitsgrad von 2 Sternen erreichen.</color>
+         <p/>Die Mendesantilope ist ein Wüstenbewohner, der ursprünglich von der westlichen Sahara und Mauretanien bis Ägypten und in den Sudan verbreitet war. Sein jetziger Lebensraum beschränkt sich auf den südwestlichen Teil der Sahara und, in kleineren Populationen, über das Rote Meer bis in den Nahen Osten. Durch starke Bejagung, extreme Dürreperioden und die Zunahme touristischer Aktivitäten ist der Bestand dieser Art so dramatisch zurückgegangen, dass er nun als bedroht eingestuft ist. Zurzeit existiert in Freiheit nur noch eine überlebensfähige Population von weniger als 200 Tieren.
+<p/>Die wiederkäuende Mendesantilope ist ein reiner Pflanzenfresser mit einer Schulterhöhe von 95 bis 115 cm, gelblich-weißer Färbung, einer braunen Mähne und einem schwarzen Fleck auf der Stirn. Sowohl Männchen als auch Weibchen besitzen anmutige, in einer offenen Spirale gewundene Hörner mit einer Länge von bis zu 89 cm. Mit ihren breiten Hufen zum Laufen auf Sand ist die Mendesantilope gut an das Leben in der Wüste angepasst und dank der Aufnahme von wilden Wassermelonen und Blätter von Sukkulenten als Nahrung kommt sie fast ihr ganzes Leben lang ohne Wasser aus. Die Mendesantilope sucht Schutz vor der Mittagssonne, gelegentlich auch in Höhlen.
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Mit freundlicher Genehmigung von<a href="zoopedia:zoopedia_encarta:entry"><u><color r="255" g="231" b="135">Microsoft (R) Encarta (R) Reference Library 2004.</color></u></a>C) 1993-2003 Microsoft Corporation. Alle Rechte vorbehalten.
+         </cell>
+      </text>
+   </zoopedia_addax>
+</ZT2Strings>
